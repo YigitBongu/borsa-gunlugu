@@ -1,0 +1,292 @@
+{
+ "baski": "Akşam Baskısı",
+ "kap": [],
+ "sirket_haberleri": [
+  {
+   "baslik": "2026/27 Süper Lig fikstürü: Beşiktaş, Fenerbahçe Galatasaray, Trabzonspor yeni sezon fikstürü...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/202627-super-lig-fiksturu-besiktas-fenerbahce-galatasaray-trabzonspor-yeni-sezon-fiksturu-haberi-831621",
+   "saat": "14:20",
+   "kodlar": [
+    "FENER"
+   ]
+  },
+  {
+   "baslik": "60 saniyede ekonomide bugün (09 Temmuz 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-09-temmuz-2026/3993242",
+   "saat": "16:06",
+   "kodlar": [
+    "HALKB"
+   ]
+  },
+  {
+   "baslik": "Türk Telekom, BIST Sürdürülebilirlik 25 Endeksi'nde yer aldı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekom-bist-surdurulebilirlik-25-endeksinde-yer-aldi/3992898",
+   "saat": "12:01",
+   "kodlar": [
+    "TTKOM"
+   ]
+  },
+  {
+   "baslik": "Konya savunma ve havacılık sanayisi ihracatını yılın ilk yarısında yüzde 13,5 artırdı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/konya-savunma-ve-havacilik-sanayisi-ihracatini-yilin-ilk-yarisinda-yuzde-13-5-artirdi/3992869",
+   "saat": "11:33",
+   "kodlar": [
+    "KONYA"
+   ]
+  }
+ ],
+ "makro_haberler": [
+  {
+   "baslik": "Birkaç Fed üyesi faiz artışı için gerekçe gördüğünü belirtti",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/birkac-fed-uyesi-faiz-artisi-icin-gerekce-gordugunu-belirtti-3782430",
+   "saat": "09:00",
+   "kodlar": []
+  },
+  {
+   "baslik": "Altın, enflasyon ve faiz endişelerinin geri dönmesiyle geriledi",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/altin-enflasyon-ve-faiz-endiselerinin-geri-donmesiyle-geriledi-3782416",
+   "saat": "06:47",
+   "kodlar": []
+  },
+  {
+   "baslik": "Maliye ve Hazine Bakanı Mehmet Şimşek'ten 'mevduat' açıklaması",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/maliye-ve-hazine-bakani-mehmet-simsekten-mevduat-aciklamasi-haberi-831644",
+   "saat": "16:46",
+   "kodlar": []
+  },
+  {
+   "baslik": "Piyasanın cari açık beklentisi belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/piyasanin-cari-acik-beklentisi-belli-oldu-haberi-831633",
+   "saat": "15:29",
+   "kodlar": []
+  },
+  {
+   "baslik": "TCMB açıkladı: Rezervlerde güçlü artış",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-acikladi-rezervlerde-guclu-artis-haberi-831627",
+   "saat": "14:53",
+   "kodlar": []
+  },
+  {
+   "baslik": "Fed'de ibre tersine döndü: Faiz kararında konuşulan tek senaryo…",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fedde-ibre-tersine-dondu-faiz-kararinda-konusulan-tek-senaryo-haberi-831622",
+   "saat": "14:27",
+   "kodlar": []
+  },
+  {
+   "baslik": "Rusya'nın bütçe açığı 5,73 trilyon rubleye çıktı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/rusyanin-butce-acigi-5-73-trilyon-rubleye-cikti/3993143",
+   "saat": "14:51",
+   "kodlar": []
+  },
+  {
+   "baslik": "Merkez Bankası rezervleri 159,7 milyar dolar oldu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-159-7-milyar-dolar-oldu/3993140",
+   "saat": "14:51",
+   "kodlar": []
+  },
+  {
+   "baslik": "Borsa İstanbul'da gong Ekim Turizm Ticaret ve Sanayi AŞ için çaldı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-ekim-turizm-ticaret-ve-sanayi-as-icin-caldi/3993067",
+   "saat": "14:11",
+   "kodlar": []
+  }
+ ],
+ "endeksler": {
+  "XU100": {
+   "fiyat": 14098.8701171875,
+   "pct": -0.6422120000880938
+  },
+  "XU030": {
+   "fiyat": 16351.599609375,
+   "pct": -0.827270685498549
+  }
+ },
+ "y100": [
+  [
+   "KONTR",
+   {
+    "fiyat": 4.929999828338623,
+    "pct": 9.799556339640603
+   }
+  ],
+  [
+   "AHGAZ",
+   {
+    "fiyat": 37.13999938964844,
+    "pct": 7.03169617596946
+   }
+  ],
+  [
+   "SMRTG",
+   {
+    "fiyat": 10.630000114440918,
+    "pct": 6.726908370761375
+   }
+  ],
+  [
+   "YEOTK",
+   {
+    "fiyat": 88.4000015258789,
+    "pct": 3.3918146501507707
+   }
+  ],
+  [
+   "TUPRS",
+   {
+    "fiyat": 263.5,
+    "pct": 2.729044834308003
+   }
+  ]
+ ],
+ "d100": [
+  [
+   "SKBNK",
+   {
+    "fiyat": 17.860000610351562,
+    "pct": -8.080286516547307
+   }
+  ],
+  [
+   "TKFEN",
+   {
+    "fiyat": 122.0999984741211,
+    "pct": -6.793894294564051
+   }
+  ],
+  [
+   "KCAER",
+   {
+    "fiyat": 13.329999923706055,
+    "pct": -5.326704574317853
+   }
+  ],
+  [
+   "GSDHO",
+   {
+    "fiyat": 5.300000190734863,
+    "pct": -4.6762545813030965
+   }
+  ],
+  [
+   "OTKAR",
+   {
+    "fiyat": 335.0,
+    "pct": -4.285714285714281
+   }
+  ]
+ ],
+ "y30": [
+  [
+   "KONTR",
+   {
+    "fiyat": 4.929999828338623,
+    "pct": 9.799556339640603
+   }
+  ],
+  [
+   "TUPRS",
+   {
+    "fiyat": 263.5,
+    "pct": 2.729044834308003
+   }
+  ],
+  [
+   "THYAO",
+   {
+    "fiyat": 338.0,
+    "pct": 1.8072289156626509
+   }
+  ],
+  [
+   "SISE",
+   {
+    "fiyat": 42.220001220703125,
+    "pct": 1.441620144681699
+   }
+  ],
+  [
+   "SASA",
+   {
+    "fiyat": 2.259999990463257,
+    "pct": 1.345290185344239
+   }
+  ]
+ ],
+ "d30": [
+  [
+   "ASELS",
+   {
+    "fiyat": 361.75,
+    "pct": -4.045092838196284
+   }
+  ],
+  [
+   "ASTOR",
+   {
+    "fiyat": 306.0,
+    "pct": -3.622047244094484
+   }
+  ],
+  [
+   "BIMAS",
+   {
+    "fiyat": 365.25,
+    "pct": -2.7944111776447067
+   }
+  ],
+  [
+   "MGROS",
+   {
+    "fiyat": 624.5,
+    "pct": -2.3455824863174324
+   }
+  ],
+  [
+   "EREGL",
+   {
+    "fiyat": 39.29999923706055,
+    "pct": -1.6024021323337023
+   }
+  ]
+ ],
+ "altin": {
+  "gram_tl": 6234.435671356247,
+  "ons_usd": 4137.5,
+  "usdtry": 46.86709976196289,
+  "pct_1g": 1.6689811267196042,
+  "pct_7g": 2.1639550934169582,
+  "pct_30g": -2.969163183762802
+ },
+ "fonlar": [
+  {
+   "kod": "GEL",
+   "ad": "Veri alınamadı",
+   "fiyat": null,
+   "pct_1g": null,
+   "pct_7g": null,
+   "pct_30g": null
+  },
+  {
+   "kod": "GHA",
+   "ad": "Veri alınamadı",
+   "fiyat": null,
+   "pct_1g": null,
+   "pct_7g": null,
+   "pct_30g": null
+  }
+ ],
+ "ai": null
+}
