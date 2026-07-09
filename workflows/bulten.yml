@@ -1,0 +1,38 @@
+name: Borsa Bülteni
+
+on:
+  schedule:
+    - cron: "45 5 * * 1-5"    # 08:45 TSİ — Sabah Baskısı (piyasa öncesi)
+    - cron: "45 15 * * 1-5"   # 18:45 TSİ — Akşam Baskısı (kapanış sonrası)
+  workflow_dispatch:           # elle tetikleme (Actions sekmesinden)
+
+permissions:
+  contents: write
+
+jobs:
+  bulten:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Depoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Bağımlılıkları yükle
+        run: pip install -r requirements.txt
+
+      - name: Bülteni derle
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scraper.py
+
+      - name: Yayınla
+        run: |
+          git config user.name "borsa-gunlugu-bot"
+          git config user.email "actions@github.com"
+          git add docs/ data/
+          git diff --cached --quiet || git commit -m "Bülten: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push

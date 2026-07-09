@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Borsa Günlüğü — 9 Temmuz 2026, Perşembe</title>
+<meta name="description" content="BIST şirket haberleri, KAP bildirimleri, altın ve BES fon takibi — günde iki kez otomatik güncellenir.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@700;800;900&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#EFF2F6; --card:#FFFFFF; --ink:#17233A; --muted:#5B6778;
+  --navy:#1F3A6E; --gold:#9C7A1D; --up:#0B8457; --down:#C13A3A;
+  --line:#D9DFE8; --chip:#EAEEF4;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--paper);color:var(--ink);
+  font-family:'IBM Plex Sans',system-ui,sans-serif;font-size:15px;line-height:1.55}
+a{color:inherit;text-decoration:none}
+a:hover{text-decoration:underline}
+a:focus-visible{outline:2px solid var(--navy);outline-offset:2px;border-radius:2px}
+.wrap{max-width:1120px;margin:0 auto;padding:0 16px}
+
+/* masthead */
+header{background:var(--navy);color:#F4F7FC;padding:22px 0 18px}
+.mast{display:flex;align-items:flex-end;justify-content:space-between;gap:12px;flex-wrap:wrap}
+h1{font-family:'Archivo',sans-serif;font-weight:900;font-size:clamp(28px,5vw,44px);
+  letter-spacing:-.02em;line-height:1}
+.mast small{display:block;margin-top:6px;color:#B9C6DE;font-size:13px}
+.stamp{font-family:'IBM Plex Mono',monospace;font-size:12px;letter-spacing:.14em;
+  text-transform:uppercase;border:1.5px solid #C8A94B;color:#E7CE85;
+  padding:6px 12px;border-radius:3px;transform:rotate(-2deg)}
+
+/* piyasa bandı */
+.band{background:#14264A;border-top:1px solid #2C4472;overflow-x:auto;
+  -webkit-overflow-scrolling:touch;scrollbar-width:none}
+.band::-webkit-scrollbar{display:none}
+.band-ic{display:flex;gap:0;min-width:max-content;padding:0 16px}
+.tick{font-family:'IBM Plex Mono',monospace;font-size:13px;color:#DCE5F4;
+  padding:10px 18px;border-right:1px solid #2C4472;white-space:nowrap}
+.tick b{font-weight:600;color:#8FA5CC;margin-right:8px}
+.up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--muted)}
+.band .up{color:#4FD79F} .band .down{color:#F08A8A}
+
+/* düzen */
+main{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,1fr);gap:20px;padding:24px 0 8px}
+@media(max-width:840px){main{grid-template-columns:1fr}}
+section,.kart{background:var(--card);border:1px solid var(--line);border-radius:10px;
+  padding:18px;margin-bottom:20px}
+h2{font-family:'Archivo',sans-serif;font-weight:800;font-size:17px;letter-spacing:.01em;
+  padding-bottom:10px;border-bottom:2px solid var(--ink);margin-bottom:12px;
+  display:flex;align-items:center;gap:8px}
+h2 .say{font-family:'IBM Plex Mono',monospace;font-weight:500;font-size:12px;
+  color:var(--muted);margin-left:auto}
+
+/* haber listeleri */
+.ml{list-style:none}
+.ml li{padding:10px 0;border-bottom:1px dashed var(--line)}
+.ml li:last-child{border-bottom:none}
+.ml .b{font-weight:600;font-size:14.5px}
+.meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:5px;align-items:center}
+.meta .kay{font-size:12px;color:var(--muted)}
+.chip{font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:600;
+  background:var(--chip);color:var(--navy);padding:2px 7px;border-radius:3px}
+.chip.kat{background:#F3EDDC;color:var(--gold)}
+
+/* özet */
+.ozet{border-left:4px solid var(--gold)}
+.ozet p{font-size:15px}
+
+/* tablolar */
+table{width:100%;border-collapse:collapse;font-size:13px}
+td,th{padding:6px 4px;text-align:left;border-bottom:1px solid var(--line)}
+th{font-family:'IBM Plex Mono',monospace;font-size:11px;font-weight:500;
+  color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+td.num,th.num{text-align:right;font-family:'IBM Plex Mono',monospace}
+tr:last-child td{border-bottom:none}
+.altlik{font-size:11.5px;color:var(--muted);margin-top:10px}
+
+/* altın kartı */
+.buyuk{font-family:'IBM Plex Mono',monospace;font-size:26px;font-weight:600}
+.buyuk small{font-size:13px;color:var(--muted);font-weight:400}
+.gridd{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:10px}
+.gridd div{background:var(--chip);border-radius:6px;padding:8px;text-align:center}
+.gridd b{display:block;font-family:'IBM Plex Mono',monospace;font-size:14px}
+.gridd span{font-size:11px;color:var(--muted)}
+.yorum{margin-top:12px;font-size:13.5px;color:#33415C;border-top:1px dashed var(--line);padding-top:10px}
+
+footer{padding:16px 0 40px;color:var(--muted);font-size:12.5px;line-height:1.7}
+.bos{color:var(--muted);font-size:13.5px;padding:6px 0}
+</style>
+</head>
+<body>
+<header><div class="wrap mast">
+<div><h1>Borsa Günlüğü</h1>
+<small>9 Temmuz 2026, Perşembe · Son derleme 16:20 (TSİ)</small></div>
+<div class="stamp">Akşam Baskısı</div>
+</div></header><div class="band"><div class="wrap band-ic"><div class="tick"><b>BIST 100</b>11.234,50 <span class="up">+0,84%</span></div><div class="tick"><b>BIST 30</b>12.345,60 <span class="up">+0,61%</span></div><div class="tick"><b>GRAM ALTIN</b>4.123,45 ₺ <span class="up">+0,60%</span></div><div class="tick"><b>USD/TRY</b>38,2915</div><div class="tick"><b>ONS</b>3.350,20 $</div></div></div><div class="wrap"><main><div><section class="ozet"><h2>Günün Özeti</h2><p>Örnek özet: BIST 100 günü alıcılı geçirirken savunma ve enerji tarafında yeni sözleşme bildirimleri öne çıktı. (Bu, --mock modunda üretilmiş örnek metindir.)</p></section><section><h2>KAP Bildirimleri <span class="say">3</span></h2><ul class="ml"><li><a class="b" href="https://www.kap.org.tr" target="_blank" rel="noopener">Yeni İş İlişkisi — Yurt dışı demiryolu elektrifikasyon projesi sözleşmesi imzalanması hk.</a><div class="meta"><span class="chip kat">Yeni İş / Sözleşme</span><span class="chip">ASELS</span><span class="kay">09:12</span></div></li><li><a class="b" href="https://www.kap.org.tr" target="_blank" rel="noopener">Borçlanma Aracı İhracı — 1,5 milyar TL tahvil ihracının tamamlanması</a><div class="meta"><span class="chip kat">Borçlanma</span><span class="chip">AKBNK</span><span class="kay">08:47</span></div></li><li><a class="b" href="https://www.kap.org.tr" target="_blank" rel="noopener">Yatırım Kararı — Yeni üretim hattı kapasite artışı yatırımı</a><div class="meta"><span class="chip kat">Yatırım</span><span class="chip">EREGL</span><span class="kay">08:30</span></div></li></ul></section><section><h2>Şirket Haberleri <span class="say">2</span></h2><ul class="ml"><li><a class="b" href="#" target="_blank" rel="noopener">THYAO ilk yarı yolcu sayısını açıkladı</a><div class="meta"><span class="chip">THYAO</span><span class="kay">Bloomberg HT</span><span class="kay">07:58</span></div></li><li><a class="b" href="#" target="_blank" rel="noopener">Tüpraş&#x27;tan rafineri bakım takvimi güncellemesi</a><div class="meta"><span class="chip">TUPRS</span><span class="kay">Dünya</span><span class="kay">07:31</span></div></li></ul></section><section><h2>Makro & Piyasa <span class="say">1</span></h2><ul class="ml"><li><a class="b" href="#" target="_blank" rel="noopener">TCMB haftalık rezerv verileri açıklandı</a><div class="meta"><span class="kay">AA Ekonomi</span><span class="kay">07:00</span></div></li></ul></section></div><aside><div class="kart"><h2>BIST 100 — Günün Uçları</h2>
+<table><thead><tr><th>Yükselen</th><th class="num">Fiyat</th><th class="num">Değişim</th></tr></thead>
+<tbody><tr><td><span class="chip">KONTR</span></td><td class="num">45,20</td><td class="num up">+6,10%</td></tr><tr><td><span class="chip">SASA</span></td><td class="num">4,10</td><td class="num up">+4,80%</td></tr><tr><td><span class="chip">ASTOR</span></td><td class="num">98,40</td><td class="num up">+4,20%</td></tr><tr><td><span class="chip">MIATK</span></td><td class="num">30,10</td><td class="num up">+3,90%</td></tr><tr><td><span class="chip">GESAN</span></td><td class="num">12,70</td><td class="num up">+3,40%</td></tr></tbody></table>
+<table style="margin-top:12px"><thead><tr><th>Düşen</th><th class="num">Fiyat</th><th class="num">Değişim</th></tr></thead>
+<tbody><tr><td><span class="chip">HEKTS</span></td><td class="num">2,10</td><td class="num down">-3,80%</td></tr><tr><td><span class="chip">ODAS</span></td><td class="num">5,60</td><td class="num down">-2,90%</td></tr><tr><td><span class="chip">KRDMD</span></td><td class="num">22,30</td><td class="num down">-2,20%</td></tr><tr><td><span class="chip">ZOREN</span></td><td class="num">3,40</td><td class="num down">-1,90%</td></tr><tr><td><span class="chip">PETKM</span></td><td class="num">18,90</td><td class="num down">-1,50%</td></tr></tbody></table></div><div class="kart"><h2>BIST 30 — Günün Uçları</h2>
+<table><thead><tr><th>Yükselen</th><th class="num">Fiyat</th><th class="num">Değişim</th></tr></thead>
+<tbody><tr><td><span class="chip">KONTR</span></td><td class="num">45,20</td><td class="num up">+6,10%</td></tr><tr><td><span class="chip">SASA</span></td><td class="num">4,10</td><td class="num up">+4,80%</td></tr><tr><td><span class="chip">ASTOR</span></td><td class="num">98,40</td><td class="num up">+4,20%</td></tr><tr><td><span class="chip">THYAO</span></td><td class="num">310,00</td><td class="num up">+2,80%</td></tr><tr><td><span class="chip">TUPRS</span></td><td class="num">178,20</td><td class="num up">+2,10%</td></tr></tbody></table>
+<table style="margin-top:12px"><thead><tr><th>Düşen</th><th class="num">Fiyat</th><th class="num">Değişim</th></tr></thead>
+<tbody><tr><td><span class="chip">HEKTS</span></td><td class="num">2,10</td><td class="num down">-3,80%</td></tr><tr><td><span class="chip">ODAS</span></td><td class="num">5,60</td><td class="num down">-2,90%</td></tr><tr><td><span class="chip">KRDMD</span></td><td class="num">22,30</td><td class="num down">-2,20%</td></tr><tr><td><span class="chip">PETKM</span></td><td class="num">18,90</td><td class="num down">-1,50%</td></tr><tr><td><span class="chip">EKGYO</span></td><td class="num">12,40</td><td class="num down">-1,10%</td></tr></tbody></table></div><div class="kart"><h2>Altın</h2><div class="buyuk">4.123,45 ₺ <small>/ gram</small></div><div class="gridd"><div><b class="up">+0,60%</b><span>1 gün</span></div><div><b class="up">+1,90%</b><span>1 hafta</span></div><div><b class="up">+4,70%</b><span>1 ay</span></div></div><p class="altlik">Ons: 3.350,20 $ · USD/TRY: 38,2915 · gram = ons ÷ 31,10 × kur</p><p class="yorum">Örnek yorum: Gram altın kur etkisiyle haftalık bazda yükselişini korudu.</p></div><div class="kart"><h2>BES Fonlarım</h2><table><thead><tr><th>Fon</th><th class="num">Fiyat</th><th class="num">1G</th><th class="num">1A</th></tr></thead><tbody><tr><td><span class="chip">GEL</span></td><td class="num">0,123456</td><td class="num up">+0,50%</td><td class="num up">+4,10%</td></tr><tr><td><span class="chip">GHA</span></td><td class="num">0,654321</td><td class="num up">+0,90%</td><td class="num up">+3,20%</td></tr></tbody></table><p class="altlik">GEL: Örnek Emeklilik Altın Katılım Fonu · GHA: Örnek Emeklilik Hisse Senedi Fonu</p><p class="yorum">Örnek not: Altın fonu ayı artıda geçiriyor.</p></div></aside></main><footer>
+Kaynaklar: KAP, TEFAS, Yahoo Finance ve RSS haber akışları. Bu sayfa otomatik derlenir;
+veriler gecikmeli veya eksik olabilir. İçerik bilgilendirme amaçlıdır, <b>yatırım tavsiyesi değildir</b>.
+<br>Borsa Günlüğü · GitHub Actions ile günde iki kez güncellenir.
+</footer></div></body></html>
