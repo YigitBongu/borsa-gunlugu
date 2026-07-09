@@ -3,15 +3,6 @@
  "kap": [],
  "sirket_haberleri": [
   {
-   "baslik": "2026/27 Süper Lig fikstürü: Beşiktaş, Fenerbahçe Galatasaray, Trabzonspor yeni sezon fikstürü...",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/spor/202627-super-lig-fiksturu-besiktas-fenerbahce-galatasaray-trabzonspor-yeni-sezon-fiksturu-haberi-831621",
-   "saat": "14:20",
-   "kodlar": [
-    "FENER"
-   ]
-  },
-  {
    "baslik": "60 saniyede ekonomide bugün (09 Temmuz 2026)",
    "kaynak": "AA Ekonomi",
    "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-09-temmuz-2026/3993242",
@@ -55,6 +46,13 @@
    "kodlar": []
   },
   {
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-831664",
+   "saat": "18:33",
+   "kodlar": []
+  },
+  {
    "baslik": "Maliye ve Hazine Bakanı Mehmet Şimşek'ten 'mevduat' açıklaması",
    "kaynak": "Dünya",
    "link": "https://www.dunya.com/ekonomi/maliye-ve-hazine-bakani-mehmet-simsekten-mevduat-aciklamasi-haberi-831644",
@@ -69,17 +67,10 @@
    "kodlar": []
   },
   {
-   "baslik": "TCMB açıkladı: Rezervlerde güçlü artış",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/ekonomi/tcmb-acikladi-rezervlerde-guclu-artis-haberi-831627",
-   "saat": "14:53",
-   "kodlar": []
-  },
-  {
-   "baslik": "Fed'de ibre tersine döndü: Faiz kararında konuşulan tek senaryo…",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/ekonomi/fedde-ibre-tersine-dondu-faiz-kararinda-konusulan-tek-senaryo-haberi-831622",
-   "saat": "14:27",
+   "baslik": "IMF'den Fed'in iletişim stratejisindeki olası değişiklikleri görüşme mesajı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/imfden-fedin-iletisim-stratejisindeki-olasi-degisiklikleri-gorusme-mesaji/3993469",
+   "saat": "19:06",
    "kodlar": []
   },
   {
@@ -106,12 +97,12 @@
  ],
  "endeksler": {
   "XU100": {
-   "fiyat": 14098.8701171875,
-   "pct": -0.6422120000880938
+   "fiyat": 14105.4404296875,
+   "pct": -0.5959095864164876
   },
   "XU030": {
-   "fiyat": 16351.599609375,
-   "pct": -0.827270685498549
+   "fiyat": 16356.509765625,
+   "pct": -0.7974905044577874
   }
  },
  "y100": [
@@ -125,29 +116,29 @@
   [
    "AHGAZ",
    {
-    "fiyat": 37.13999938964844,
-    "pct": 7.03169617596946
+    "fiyat": 37.08000183105469,
+    "pct": 6.858792552699722
    }
   ],
   [
    "SMRTG",
    {
-    "fiyat": 10.630000114440918,
-    "pct": 6.726908370761375
+    "fiyat": 10.619999885559082,
+    "pct": 6.626504466709826
+   }
+  ],
+  [
+   "FENER",
+   {
+    "fiyat": 3.2300000190734863,
+    "pct": 4.530747857376927
    }
   ],
   [
    "YEOTK",
    {
-    "fiyat": 88.4000015258789,
-    "pct": 3.3918146501507707
-   }
-  ],
-  [
-   "TUPRS",
-   {
-    "fiyat": 263.5,
-    "pct": 2.729044834308003
+    "fiyat": 88.5,
+    "pct": 3.5087719298245723
    }
   ]
  ],
@@ -155,36 +146,36 @@
   [
    "SKBNK",
    {
-    "fiyat": 17.860000610351562,
-    "pct": -8.080286516547307
+    "fiyat": 17.549999237060547,
+    "pct": -9.675764480633786
    }
   ],
   [
-   "TKFEN",
+   "IZENR",
    {
-    "fiyat": 122.0999984741211,
-    "pct": -6.793894294564051
+    "fiyat": 8.369999885559082,
+    "pct": -7.000001271565759
    }
   ],
   [
    "KCAER",
    {
-    "fiyat": 13.329999923706055,
-    "pct": -5.326704574317853
+    "fiyat": 13.300000190734863,
+    "pct": -5.539770860779125
    }
   ],
   [
-   "GSDHO",
+   "CWENE",
    {
-    "fiyat": 5.300000190734863,
-    "pct": -4.6762545813030965
+    "fiyat": 39.060001373291016,
+    "pct": -5.286130495756147
    }
   ],
   [
-   "OTKAR",
+   "KORDS",
    {
-    "fiyat": 335.0,
-    "pct": -4.285714285714281
+    "fiyat": 79.5999984741211,
+    "pct": -5.181654118228263
    }
   ]
  ],
@@ -199,29 +190,29 @@
   [
    "TUPRS",
    {
-    "fiyat": 263.5,
-    "pct": 2.729044834308003
+    "fiyat": 264.25,
+    "pct": 3.0214424951267027
    }
   ],
   [
-   "THYAO",
+   "ODAS",
    {
-    "fiyat": 338.0,
-    "pct": 1.8072289156626509
-   }
-  ],
-  [
-   "SISE",
-   {
-    "fiyat": 42.220001220703125,
-    "pct": 1.441620144681699
+    "fiyat": 8.279999732971191,
+    "pct": 2.857137102941265
    }
   ],
   [
    "SASA",
    {
-    "fiyat": 2.259999990463257,
-    "pct": 1.345290185344239
+    "fiyat": 2.2799999713897705,
+    "pct": 2.242150308907087
+   }
+  ],
+  [
+   "THYAO",
+   {
+    "fiyat": 338.25,
+    "pct": 1.8825301204819178
    }
   ]
  ],
@@ -229,46 +220,46 @@
   [
    "ASELS",
    {
-    "fiyat": 361.75,
-    "pct": -4.045092838196284
+    "fiyat": 358.75,
+    "pct": -4.840848806366049
    }
   ],
   [
    "ASTOR",
    {
-    "fiyat": 306.0,
-    "pct": -3.622047244094484
+    "fiyat": 304.75,
+    "pct": -4.015748031496058
    }
   ],
   [
    "BIMAS",
    {
-    "fiyat": 365.25,
-    "pct": -2.7944111776447067
+    "fiyat": 365.0,
+    "pct": -2.8609447771124397
    }
   ],
   [
    "MGROS",
    {
-    "fiyat": 624.5,
-    "pct": -2.3455824863174324
+    "fiyat": 626.0,
+    "pct": -2.111024237685688
    }
   ],
   [
-   "EREGL",
+   "ISCTR",
    {
-    "fiyat": 39.29999923706055,
-    "pct": -1.6024021323337023
+    "fiyat": 13.899999618530273,
+    "pct": -1.2784112652779234
    }
   ]
  ],
  "altin": {
-  "gram_tl": 6234.435671356247,
-  "ons_usd": 4137.5,
-  "usdtry": 46.86709976196289,
-  "pct_1g": 1.6689811267196042,
-  "pct_7g": 2.1639550934169582,
-  "pct_30g": -2.969163183762802
+  "gram_tl": 6232.507480032899,
+  "ons_usd": 4136.2998046875,
+  "usdtry": 46.8661994934082,
+  "pct_1g": 1.6375368617377983,
+  "pct_7g": 2.1323577424850804,
+  "pct_30g": -2.9991729597086514
  },
  "fonlar": [
   {
