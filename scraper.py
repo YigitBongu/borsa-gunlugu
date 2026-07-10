@@ -81,6 +81,46 @@ def simdi():
     return datetime.now(TRT)
 
 
+# ---------------------------------------------------- biriken feed durumu
+
+FEED_PATH = ROOT / "data" / "gunun_feedi.json"
+
+
+def feed_yukle():
+    try:
+        return json.loads(FEED_PATH.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+
+
+def feed_kaydet(state):
+    FEED_PATH.parent.mkdir(exist_ok=True)
+    FEED_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=1),
+                         encoding="utf-8")
+
+
+def feed_birlestir(mevcut, yeni, eklenme_iso):
+    """ID'ye göre tekrarları ayıklar; yalnızca yeni öğeleri ekler."""
+    idler = {x.get("id") for x in mevcut if x.get("id")}
+    eklenen = 0
+    for it in yeni:
+        iid = it.get("id")
+        if not iid or iid in idler:
+            continue
+        it = dict(it)
+        it["eklenme"] = eklenme_iso
+        mevcut.append(it)
+        idler.add(iid)
+        eklenen += 1
+    return mevcut, eklenen
+
+
+def feed_sirala(items):
+    """En yeni üstte: önce öğenin kendi zamanı, yoksa eklenme zamanı."""
+    return sorted(items, key=lambda x: x.get("tarih_iso") or x.get("eklenme") or "",
+                  reverse=True)
+
+
 # ------------------------------------------------------------------ 1) KAP
 
 KAP_KATEGORILER = [
@@ -141,11 +181,13 @@ def fetch_kap(pencere_saat):
             continue
 
         sonuc.append({
+            "id": f"kap-{idx}" if idx else f"kap-{re.sub(r'[^a-z0-9]', '', str(baslik).lower())[:40]}",
             "baslik": str(baslik).strip(),
             "sirket": str(sirket).strip(),
             "kodlar": eslesen,
             "kategori": kap_kategori(str(baslik)),
             "saat": zaman.strftime("%H:%M") if zaman else "",
+            "tarih_iso": zaman.isoformat() if zaman else "",
             "link": f"https://www.kap.org.tr/tr/Bildirim/{idx}" if idx else "https://www.kap.org.tr",
         })
 
@@ -215,11 +257,14 @@ def fetch_rss(pencere_saat):
                 for m in eslesmeler
             } - {""})
 
+            link = e.get("link") or "#"
             kayit = {
+                "id": "rss-" + (link if link != "#" else anahtar),
                 "baslik": baslik,
                 "kaynak": kaynak["ad"],
-                "link": e.get("link") or "#",
+                "link": link,
                 "saat": zaman.strftime("%H:%M") if zaman else "",
+                "tarih_iso": zaman.isoformat() if zaman else "",
                 "kodlar": kodlar,
             }
             if kodlar:
@@ -375,7 +420,7 @@ def fetch_tefas(kodlar):
 
 # -------------------------------------------------------------- 6) Gemini
 
-def gemini_ozet(ctx):
+def gemini_ozet(ctx, kapanis=False):
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not key:
         log.info("GEMINI_API_KEY yok, AI özeti atlanıyor")
@@ -397,8 +442,16 @@ def gemini_ozet(ctx):
         f"- {f['kod']}: 1g {pct_str(f['pct_1g'])}, 1h {pct_str(f['pct_7g'])}, 1a {pct_str(f['pct_30g'])}"
         for f in ctx.get("fonlar", []))
 
-    prompt = f"""Sen bir finans bülteni editörüsün. Aşağıdaki güncel verilerle Türkçe, tarafsız,
-abartısız bir özet yaz. Fiyat tahmini yapma, yatırım tavsiyesi verme; sadece olanı ve bağlamı anlat.
+    if kapanis:
+        rol = ("Bugünün KAPANIŞ özetini yaz. Gün boyunca biriken tüm bildirim ve "
+               "haberleri değerlendirip günü toparlayan, öne çıkanları vurgulayan bir kapanış "
+               "değerlendirmesi yap.")
+    else:
+        rol = ("Şu ana kadarki gelişmelerin güncel özetini yaz. Gün boyu biriken "
+               "bildirim ve haberlerden öne çıkanları anlat.")
+
+    prompt = f"""Sen bir finans bülteni editörüsün. {rol}
+Türkçe, tarafsız, abartısız yaz. Fiyat tahmini yapma, yatırım tavsiyesi verme; sadece olanı ve bağlamı anlat.
 SADECE geçerli JSON döndür, başka hiçbir şey yazma. Şema:
 {{"gunun_ozeti": "3-4 cümle", "altin_yorumu": "2-3 cümle", "fon_notu": "1-2 cümle"}}
 
@@ -552,7 +605,8 @@ HEAD = """<!DOCTYPE html>
 def _haber_li(h, kategori_chip=False):
     chips = "".join(f'<span class="chip">{esc(k)}</span>' for k in h.get("kodlar", []))
     kat = f'<span class="chip kat">{esc(h["kategori"])}</span>' if kategori_chip and h.get("kategori") else ""
-    saat = f'<span class="kay">{esc(h["saat"])}</span>' if h.get("saat") else ""
+    saat_metni = h.get("saat_g") or h.get("saat") or ""
+    saat = f'<span class="kay">{esc(saat_metni)}</span>' if saat_metni else ""
     kay = f'<span class="kay">{esc(h["kaynak"])}</span>' if h.get("kaynak") else ""
     return (f'<li><a class="b" href="{esc(h["link"])}" target="_blank" rel="noopener">'
             f'{esc(h["baslik"])}</a>'
@@ -592,9 +646,12 @@ def render_html(ctx):
                  'canlı değerler değildir. Gerçek bülten ilk çalıştırmada bu sayfanın yerini alır.</div>')
 
     # masthead
+    biriken_not = ""
+    if ctx.get("biriken"):
+        biriken_not = " · Haberler gün boyu birikir, her sabah sıfırlanır"
     p.append(f"""<header><div class="wrap mast">
 <div><h1>{esc(CONFIG["site"]["baslik"])}</h1>
-<small>{esc(tarih)} · Son derleme {now.strftime("%H:%M")} (TSİ)</small></div>
+<small>{esc(tarih)} · Son güncelleme {now.strftime("%H:%M")} (TSİ){esc(biriken_not)}</small></div>
 <div class="stamp">{esc(ctx["baski"])}</div>
 </div></header>""")
 
@@ -616,10 +673,11 @@ def render_html(ctx):
 
     p.append('<div class="wrap"><main><div>')  # ana kolon başı
 
-    # günün özeti
+    # günün özeti / kapanış özeti
     ai = ctx.get("ai") or {}
     if ai.get("gunun_ozeti"):
-        p.append(f'<section class="ozet"><h2>Günün Özeti</h2><p>{esc(ai["gunun_ozeti"])}</p></section>')
+        ozet_baslik = "Kapanış Özeti" if ctx.get("kapanis") else "Günün Özeti"
+        p.append(f'<section class="ozet"><h2>{esc(ozet_baslik)}</h2><p>{esc(ai["gunun_ozeti"])}</p></section>')
 
     # KAP
     kap = ctx.get("kap", [])
@@ -765,39 +823,87 @@ def mock_ctx():
 def main():
     mock = "--mock" in sys.argv
     now = simdi()
+    bugun = now.strftime("%Y-%m-%d")
 
     if mock:
         ctx = mock_ctx()
+        out = ROOT / "docs" / "index.html"
+        out.parent.mkdir(exist_ok=True)
+        out.write_text(render_html(ctx), encoding="utf-8")
+        log.info("Yazıldı (mock): %s", out)
+        return
+
+    # --- HER ZAMAN GÜNCEL: fiyat, altın, fon (bunlar birikmez)
+    endeksler, y100, d100, y30, d30 = fetch_prices()
+    altin = fetch_gold()
+    fonlar = fetch_tefas(CONFIG.get("bes_fonlari", []))
+
+    # --- BİRİKEN FEED: haberler ve KAP bildirimleri
+    state = feed_yukle()
+    yeni_gun = (state is None) or (state.get("tarih") != bugun)
+
+    if yeni_gun:
+        # Günün ilk turu (sabah) veya hafta sonu sonrası: feed'i sıfırla, geniş pencere
+        pencere = CONFIG.get("sabah_penceresi_saat", 14)
+        state = {"tarih": bugun, "kap": [], "sirket": [], "makro": []}
+        log.info("YENİ GÜN — feed sıfırlandı (%s), geniş pencere %dh", bugun, pencere)
     else:
-        pencere = CONFIG.get("haber_penceresi_saat", 14)
-        endeksler, y100, d100, y30, d30 = fetch_prices()
-        sirket, makro = fetch_rss(pencere)
-        ctx = {
-            "zaman": now,
-            "baski": "Sabah Baskısı" if now.hour < 13 else "Akşam Baskısı",
-            "kap": fetch_kap(pencere),
-            "sirket_haberleri": sirket,
-            "makro_haberler": makro,
-            "endeksler": endeksler,
-            "y100": y100, "d100": d100, "y30": y30, "d30": d30,
-            "altin": fetch_gold(),
-            "fonlar": fetch_tefas(CONFIG.get("bes_fonlari", [])),
-        }
-        ctx["ai"] = gemini_ozet(ctx)
+        # Gün içi tur: mevcut feed'e ekle, dar pencere (tekrarlar ayıklanır)
+        pencere = CONFIG.get("gunici_penceresi_saat", 6)
+        log.info("Gün içi tur — feed'e ekleniyor, pencere %dh", pencere)
+
+    kap_yeni = fetch_kap(pencere)
+    sirket_yeni, makro_yeni = fetch_rss(pencere)
+
+    now_iso = now.isoformat()
+    state["kap"], ek_kap = feed_birlestir(state.get("kap", []), kap_yeni, now_iso)
+    state["sirket"], ek_sir = feed_birlestir(state.get("sirket", []), sirket_yeni, now_iso)
+    state["makro"], ek_mak = feed_birlestir(state.get("makro", []), makro_yeni, now_iso)
+    # sınırsız büyümeyi önle
+    state["kap"] = feed_sirala(state["kap"])[:200]
+    state["sirket"] = feed_sirala(state["sirket"])[:200]
+    state["makro"] = feed_sirala(state["makro"])[:80]
+    state["guncelleme"] = now_iso
+    feed_kaydet(state)
+    log.info("Feed'e eklenen — KAP:%d haber:%d makro:%d | toplam KAP:%d haber:%d",
+             ek_kap, ek_sir, ek_mak, len(state["kap"]), len(state["sirket"]))
+
+    kapanis = (now.hour == 18)  # 18:45 kapanış turu
+
+    # önceki günden gelen öğelere "dün" damgası
+    for lst in (state["kap"], state["sirket"], state["makro"]):
+        for it in lst:
+            ti = it.get("tarih_iso", "")
+            it["saat_g"] = ("dün " + it["saat"]) if (ti[:10] and ti[:10] != bugun
+                                                      and it.get("saat")) else it.get("saat", "")
+
+    ctx = {
+        "zaman": now,
+        "biriken": True,
+        "kapanis": kapanis,
+        "baski": "Kapanış Özeti" if kapanis else ("Sabah Baskısı" if yeni_gun else "Gün İçi"),
+        "kap": state["kap"],
+        "sirket_haberleri": state["sirket"],
+        "makro_haberler": state["makro"],
+        "endeksler": endeksler,
+        "y100": y100, "d100": d100, "y30": y30, "d30": d30,
+        "altin": altin,
+        "fonlar": fonlar,
+    }
+    ctx["ai"] = gemini_ozet(ctx, kapanis=kapanis)
 
     out = ROOT / "docs" / "index.html"
     out.parent.mkdir(exist_ok=True)
     out.write_text(render_html(ctx), encoding="utf-8")
     log.info("Yazıldı: %s", out)
 
-    # arşiv
-    arsiv = ROOT / "data"
-    arsiv.mkdir(exist_ok=True)
-    kopya = {k: v for k, v in ctx.items() if k != "zaman"}
-    ad = now.strftime("%Y-%m-%d") + ("-sabah" if now.hour < 13 else "-aksam") + ".json"
-    (arsiv / ad).write_text(json.dumps(kopya, ensure_ascii=False, indent=1, default=str),
-                            encoding="utf-8")
-    log.info("Arşiv: data/%s", ad)
+    # kapanış turunda o günün kalıcı arşivini de bırak
+    if kapanis:
+        arsiv = ROOT / "data"
+        arsiv.mkdir(exist_ok=True)
+        (arsiv / f"{bugun}-kapanis.json").write_text(
+            json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
+        log.info("Arşiv: data/%s-kapanis.json", bugun)
 
 
 if __name__ == "__main__":
