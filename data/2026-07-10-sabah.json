@@ -3,28 +3,28 @@
  "kap": [],
  "sirket_haberleri": [
   {
-   "baslik": "YEO Teknoloji'den 8,4 milyon dolarlık yeni sözleşme",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/finans/haberler/yeo-teknolojiden-84-milyon-dolarlik-yeni-sozlesme-haberi-831720",
-   "saat": "09:15",
+   "baslik": "ASELSAN yılın ilk yarısında borsa performansıyla dünyanın önde gelen savunma şirketlerini solladı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/aselsan-yilin-ilk-yarisinda-borsa-performansiyla-dunyanin-onde-gelen-savunma-sirketlerini-solladi/3993922",
+   "saat": "11:05",
    "kodlar": [
-    "YEOTK"
+    "ASELS"
    ]
   }
  ],
  "makro_haberler": [
   {
-   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (10 Temmuz Cuma Döviz Kurları)",
+   "baslik": "Yabancı yatırımcılar Borsa İstanbul'da alımlarını artırdı",
    "kaynak": "Dünya",
-   "link": "https://www.dunya.com/finans/borsa/dolar-kac-tl-oldu-euro-ne-kadar-10-temmuz-cuma-doviz-kurlari-haberi-831702",
-   "saat": "07:17",
+   "link": "https://www.dunya.com/finans/haberler/yabanci-yatirimcilar-borsa-istanbulda-alimlarini-artirdi-haberi-831754",
+   "saat": "11:43",
    "kodlar": []
   },
   {
-   "baslik": "Japonya’da ÜFE üç yılın zirvesine çıktı",
+   "baslik": "ECB yeni artış ihtimalini yeniden değerlendiriyor",
    "kaynak": "Dünya",
-   "link": "https://www.dunya.com/ekonomi/japonyada-ufe-uc-yilin-zirvesine-cikti-haberi-831699",
-   "saat": "06:59",
+   "link": "https://www.dunya.com/ekonomi/ecb-yeni-artis-ihtimalini-yeniden-degerlendiriyor-haberi-831750",
+   "saat": "11:22",
    "kodlar": []
   },
   {
@@ -37,85 +37,85 @@
  ],
  "endeksler": {
   "XU100": {
-   "fiyat": 14105.400390625,
-   "pct": -0.5961917503523595
+   "fiyat": 14300.3798828125,
+   "pct": 1.3823038466677762
   },
   "XU030": {
-   "fiyat": 16356.5,
-   "pct": -0.7975497331392578
+   "fiyat": 16611.259765625,
+   "pct": 1.5575444968361163
   }
  },
  "y100": [
   [
-   "KORDS",
+   "VESTL",
    {
-    "fiyat": 83.94999694824219,
-    "pct": 9.954156681086413
+    "fiyat": 26.420000076293945,
+    "pct": 9.991671826777804
+   }
+  ],
+  [
+   "VESBE",
+   {
+    "fiyat": 6.639999866485596,
+    "pct": 9.933773318245077
    }
   ],
   [
    "KONTR",
    {
-    "fiyat": 4.489999771118164,
-    "pct": 9.779941408490632
+    "fiyat": 5.380000114440918,
+    "pct": 9.127795167772689
    }
   ],
   [
-   "SKBNK",
+   "ZOREN",
    {
-    "fiyat": 19.43000030517578,
-    "pct": 1.7277482571477432
+    "fiyat": 2.740000009536743,
+    "pct": 5.791509665572359
    }
   ],
   [
-   "KMPUR",
+   "TABGD",
    {
-    "fiyat": 18.149999618530273,
-    "pct": 1.1705634237523688
-   }
-  ],
-  [
-   "FENER",
-   {
-    "fiyat": 3.0899999141693115,
-    "pct": 0.9803912402207571
+    "fiyat": 230.3000030517578,
+    "pct": 5.642203234751286
    }
   ]
  ],
  "d100": [
   [
-   "MIATK",
+   "AHGAZ",
    {
-    "fiyat": 31.979999542236328,
-    "pct": -9.966218665274818
+    "fiyat": 36.79999923706055,
+    "pct": -0.7551310144748635
    }
   ],
   [
-   "YEOTK",
+   "MGROS",
    {
-    "fiyat": 85.5,
-    "pct": -9.952603740886312
+    "fiyat": 621.5,
+    "pct": -0.7188498402555865
+   }
+  ],
+  [
+   "REEDR",
+   {
+    "fiyat": 6.5,
+    "pct": -0.6116202153874872
    }
   ],
   [
    "SMRTG",
    {
-    "fiyat": 9.960000038146973,
-    "pct": -9.454545107754797
+    "fiyat": 10.569999694824219,
+    "pct": -0.47081159391397787
    }
   ],
   [
-   "IZENR",
+   "CWENE",
    {
-    "fiyat": 9.0,
-    "pct": -6.832296664983096
-   }
-  ],
-  [
-   "KCAER",
-   {
-    "fiyat": 14.079999923706055,
-    "pct": -6.070712883968432
+    "fiyat": 38.939998626708984,
+    "pct": -0.3072266829567738
    }
   ]
  ],
@@ -123,83 +123,83 @@
   [
    "KONTR",
    {
-    "fiyat": 4.489999771118164,
-    "pct": 9.779941408490632
+    "fiyat": 5.380000114440918,
+    "pct": 9.127795167772689
    }
   ],
   [
-   "BIMAS",
+   "SASA",
    {
-    "fiyat": 375.75,
-    "pct": 0.4008016032064132
+    "fiyat": 2.390000104904175,
+    "pct": 4.824567319944029
    }
   ],
   [
-   "PETKM",
+   "ASTOR",
    {
-    "fiyat": 19.219999313354492,
-    "pct": 0.31314961597186386
+    "fiyat": 318.25,
+    "pct": 4.4298605414273995
    }
   ],
   [
-   "TOASO",
+   "ASELS",
    {
-    "fiyat": 297.75,
-    "pct": -0.4180602006689016
+    "fiyat": 373.75,
+    "pct": 4.181184668989557
    }
   ],
   [
-   "TUPRS",
+   "KCHOL",
    {
-    "fiyat": 256.5,
-    "pct": -0.5813953488372103
+    "fiyat": 189.6999969482422,
+    "pct": 2.485138137788101
    }
   ]
  ],
  "d30": [
   [
-   "GUBRF",
+   "MGROS",
    {
-    "fiyat": 433.75,
-    "pct": -5.243036592026218
+    "fiyat": 621.5,
+    "pct": -0.7188498402555865
    }
   ],
   [
-   "THYAO",
+   "YKBNK",
    {
-    "fiyat": 332.0,
-    "pct": -4.666188083273514
-   }
-  ],
-  [
-   "PGSUS",
-   {
-    "fiyat": 166.0,
-    "pct": -4.652501906691242
+    "fiyat": 35.86000061035156,
+    "pct": 0.0
    }
   ],
   [
    "AKBNK",
    {
-    "fiyat": 70.6500015258789,
-    "pct": -4.0081481106000965
+    "fiyat": 70.30000305175781,
+    "pct": 0.14245884310986057
    }
   ],
   [
-   "HEKTS",
+   "THYAO",
    {
-    "fiyat": 3.0,
-    "pct": -3.846150319251662
+    "fiyat": 339.25,
+    "pct": 0.2956393200295615
+   }
+  ],
+  [
+   "FROTO",
+   {
+    "fiyat": 81.25,
+    "pct": 0.49474524851962354
    }
   ]
  ],
  "altin": {
-  "gram_tl": 6224.171542929259,
-  "ons_usd": 4126.5,
-  "usdtry": 46.868099212646484,
-  "pct_1g": 1.5015973354134848,
-  "pct_7g": 1.9957563965395941,
-  "pct_30g": -3.1289109176332097
+  "gram_tl": 6208.968469607024,
+  "ons_usd": 4110.60009765625,
+  "usdtry": 46.98109817504883,
+  "pct_1g": -0.24425858473494655,
+  "pct_7g": 0.599666560926071,
+  "pct_30g": -1.6768735895763442
  },
  "fonlar": [
   {
