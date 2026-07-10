@@ -1,0 +1,223 @@
+{
+ "baski": "Sabah Baskısı",
+ "kap": [],
+ "sirket_haberleri": [
+  {
+   "baslik": "YEO Teknoloji'den 8,4 milyon dolarlık yeni sözleşme",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/yeo-teknolojiden-84-milyon-dolarlik-yeni-sozlesme-haberi-831720",
+   "saat": "09:15",
+   "kodlar": [
+    "YEOTK"
+   ]
+  }
+ ],
+ "makro_haberler": [
+  {
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (10 Temmuz Cuma Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/dolar-kac-tl-oldu-euro-ne-kadar-10-temmuz-cuma-doviz-kurlari-haberi-831702",
+   "saat": "07:17",
+   "kodlar": []
+  },
+  {
+   "baslik": "Japonya’da ÜFE üç yılın zirvesine çıktı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/japonyada-ufe-uc-yilin-zirvesine-cikti-haberi-831699",
+   "saat": "06:59",
+   "kodlar": []
+  },
+  {
+   "baslik": "Fed, para politikasının yürütülmesini inceleyecek çalışma gruplarının liderlerini açıkladı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-para-politikasinin-yurutulmesini-inceleyecek-calisma-gruplarinin-liderlerini-acikladi/3993722",
+   "saat": "23:42",
+   "kodlar": []
+  }
+ ],
+ "endeksler": {
+  "XU100": {
+   "fiyat": 14105.400390625,
+   "pct": -0.5961917503523595
+  },
+  "XU030": {
+   "fiyat": 16356.5,
+   "pct": -0.7975497331392578
+  }
+ },
+ "y100": [
+  [
+   "KORDS",
+   {
+    "fiyat": 83.94999694824219,
+    "pct": 9.954156681086413
+   }
+  ],
+  [
+   "KONTR",
+   {
+    "fiyat": 4.489999771118164,
+    "pct": 9.779941408490632
+   }
+  ],
+  [
+   "SKBNK",
+   {
+    "fiyat": 19.43000030517578,
+    "pct": 1.7277482571477432
+   }
+  ],
+  [
+   "KMPUR",
+   {
+    "fiyat": 18.149999618530273,
+    "pct": 1.1705634237523688
+   }
+  ],
+  [
+   "FENER",
+   {
+    "fiyat": 3.0899999141693115,
+    "pct": 0.9803912402207571
+   }
+  ]
+ ],
+ "d100": [
+  [
+   "MIATK",
+   {
+    "fiyat": 31.979999542236328,
+    "pct": -9.966218665274818
+   }
+  ],
+  [
+   "YEOTK",
+   {
+    "fiyat": 85.5,
+    "pct": -9.952603740886312
+   }
+  ],
+  [
+   "SMRTG",
+   {
+    "fiyat": 9.960000038146973,
+    "pct": -9.454545107754797
+   }
+  ],
+  [
+   "IZENR",
+   {
+    "fiyat": 9.0,
+    "pct": -6.832296664983096
+   }
+  ],
+  [
+   "KCAER",
+   {
+    "fiyat": 14.079999923706055,
+    "pct": -6.070712883968432
+   }
+  ]
+ ],
+ "y30": [
+  [
+   "KONTR",
+   {
+    "fiyat": 4.489999771118164,
+    "pct": 9.779941408490632
+   }
+  ],
+  [
+   "BIMAS",
+   {
+    "fiyat": 375.75,
+    "pct": 0.4008016032064132
+   }
+  ],
+  [
+   "PETKM",
+   {
+    "fiyat": 19.219999313354492,
+    "pct": 0.31314961597186386
+   }
+  ],
+  [
+   "TOASO",
+   {
+    "fiyat": 297.75,
+    "pct": -0.4180602006689016
+   }
+  ],
+  [
+   "TUPRS",
+   {
+    "fiyat": 256.5,
+    "pct": -0.5813953488372103
+   }
+  ]
+ ],
+ "d30": [
+  [
+   "GUBRF",
+   {
+    "fiyat": 433.75,
+    "pct": -5.243036592026218
+   }
+  ],
+  [
+   "THYAO",
+   {
+    "fiyat": 332.0,
+    "pct": -4.666188083273514
+   }
+  ],
+  [
+   "PGSUS",
+   {
+    "fiyat": 166.0,
+    "pct": -4.652501906691242
+   }
+  ],
+  [
+   "AKBNK",
+   {
+    "fiyat": 70.6500015258789,
+    "pct": -4.0081481106000965
+   }
+  ],
+  [
+   "HEKTS",
+   {
+    "fiyat": 3.0,
+    "pct": -3.846150319251662
+   }
+  ]
+ ],
+ "altin": {
+  "gram_tl": 6224.171542929259,
+  "ons_usd": 4126.5,
+  "usdtry": 46.868099212646484,
+  "pct_1g": 1.5015973354134848,
+  "pct_7g": 1.9957563965395941,
+  "pct_30g": -3.1289109176332097
+ },
+ "fonlar": [
+  {
+   "kod": "GEL",
+   "ad": "Veri alınamadı",
+   "fiyat": null,
+   "pct_1g": null,
+   "pct_7g": null,
+   "pct_30g": null
+  },
+  {
+   "kod": "GHA",
+   "ad": "Veri alınamadı",
+   "fiyat": null,
+   "pct_1g": null,
+   "pct_7g": null,
+   "pct_30g": null
+  }
+ ],
+ "ai": null
+}
