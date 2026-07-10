@@ -2,9 +2,12 @@ name: Borsa Bülteni
 
 on:
   schedule:
-    - cron: "45 5 * * 1-5"    # 08:45 TSİ — Sabah Baskısı (piyasa öncesi)
-    - cron: "45 15 * * 1-5"   # 18:45 TSİ — Akşam Baskısı (kapanış sonrası)
-  workflow_dispatch:           # elle tetikleme (Actions sekmesinden)
+    # Saatler UTC'dir (TSİ = UTC + 3). Hepsi hafta içi (Pzt-Cum).
+    # :17 ofseti, GitHub'ın tam saatlerdeki yoğunluk gecikmesinden kaçınmak için.
+    - cron: "45 5 * * 1-5"        # 08:45 TSİ — Açılış öncesi (gece biriken bildirimler)
+    - cron: "17 7-14 * * 1-5"     # 10:17–17:17 TSİ — Gün içi, her saat başı (8 tur)
+    - cron: "45 15 * * 1-5"       # 18:45 TSİ — Kapanış özeti
+  workflow_dispatch:              # elle tetikleme (Actions sekmesinden)
 
 permissions:
   contents: write
