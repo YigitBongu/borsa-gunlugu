@@ -3,10 +3,8 @@ name: Borsa Bülteni
 on:
   schedule:
     # Saatler UTC'dir (TSİ = UTC + 3). Hepsi hafta içi (Pzt-Cum).
-    # :17 ofseti, GitHub'ın tam saatlerdeki yoğunluk gecikmesinden kaçınmak için.
-    - cron: "45 5 * * 1-5"        # 08:45 TSİ — Açılış öncesi (gece biriken bildirimler)
-    - cron: "17 7-14 * * 1-5"     # 10:17–17:17 TSİ — Gün içi, her saat başı (8 tur)
-    - cron: "45 15 * * 1-5"       # 18:45 TSİ — Kapanış özeti
+    - cron: "45 5 * * 1-5"        # 08:45 TSİ — Sabah: feed sıfırlanır, yeni güne temiz başlar
+    - cron: "0,10 6-15 * * 1-5"   # 09:00–18:30 TSİ — her on dakikada bir (gün içi + kapanış)
   workflow_dispatch:              # elle tetikleme (Actions sekmesinden)
 
 permissions:
