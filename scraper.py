@@ -868,7 +868,7 @@ def main():
     log.info("Feed'e eklenen — KAP:%d haber:%d makro:%d | toplam KAP:%d haber:%d",
              ek_kap, ek_sir, ek_mak, len(state["kap"]), len(state["sirket"]))
 
-    kapanis = (now.hour == 18)  # 18:45 kapanış turu
+    kapanis = (now.hour >= 18)  # 18:00 ve sonrası: kapanış özeti
 
     # önceki günden gelen öğelere "dün" damgası
     for lst in (state["kap"], state["sirket"], state["makro"]):
