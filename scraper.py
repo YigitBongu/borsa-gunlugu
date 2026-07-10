@@ -14,11 +14,27 @@ import logging
 import os
 import re
 import sys
+import time
 import html as html_mod
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
+
+
+def _istek(method, url, tries=3, backoff=3, **kw):
+    """Yeniden denemeli HTTP isteği. Türk devlet sitelerinin yavaşlığına karşı."""
+    son_hata = None
+    for i in range(tries):
+        try:
+            r = requests.request(method, url, **kw)
+            r.raise_for_status()
+            return r
+        except Exception as e:
+            son_hata = e
+            if i < tries - 1:
+                time.sleep(backoff * (i + 1))
+    raise son_hata
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s  %(message)s")
 log = logging.getLogger("borsa-gunlugu")
@@ -90,11 +106,11 @@ def fetch_kap(pencere_saat):
     """KAP son bildirimler (resmi olmayan JSON uç noktası)."""
     url = "https://www.kap.org.tr/tr/api/disclosures"
     try:
-        r = requests.get(url, headers={**UA, "Accept": "application/json"}, timeout=30)
-        r.raise_for_status()
+        r = _istek("GET", url, tries=3, backoff=4,
+                   headers={**UA, "Accept": "application/json"}, timeout=60)
         raw = r.json()
     except Exception as e:
-        log.warning("KAP alınamadı: %s", e)
+        log.warning("KAP alınamadı (3 deneme): %s", e)
         return []
 
     esik = simdi() - timedelta(hours=pencere_saat)
@@ -311,16 +327,24 @@ def fetch_tefas(kodlar):
     d1 = (bugun - timedelta(days=40)).strftime("%d.%m.%Y")
     d2 = bugun.strftime("%d.%m.%Y")
 
+    # TEFAS oturum çerezi olmadan 404/403 döndürebilir; önce ana sayfayı ziyaret et
+    oturum = requests.Session()
+    oturum.headers.update(headers)
+    try:
+        oturum.get("https://www.tefas.gov.tr/TarihselVeriler.aspx", timeout=30)
+    except Exception as e:
+        log.warning("TEFAS oturum açılamadı: %s", e)
+
     sonuc = []
     for kod in kodlar:
         veri = []
         for fontip in ("EMK", "YAT"):  # BES fonları EMK; olmazsa yatırım fonu dene
             try:
-                r = requests.post(url, headers=headers, timeout=30, data={
-                    "fontip": fontip, "fonkod": kod,
-                    "bastarih": d1, "bittarih": d2,
-                })
-                r.raise_for_status()
+                r = _istek("POST", url, tries=2, backoff=3,
+                           headers=headers, timeout=45,
+                           cookies=oturum.cookies.get_dict(),
+                           data={"fontip": fontip, "fonkod": kod,
+                                 "bastarih": d1, "bittarih": d2})
                 veri = (r.json() or {}).get("data") or []
                 if veri:
                     break
@@ -393,21 +417,31 @@ değişim 1g {pct_str(altin.get('pct_1g'))}, 7g {pct_str(altin.get('pct_7g'))}, 
 BES FONLARI:
 {fonlar or "(yok)"}"""
 
-    try:
-        r = requests.post(url, timeout=60, json={
-            "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {
-                "response_mime_type": "application/json",
-                "temperature": 0.4,
-            },
-        })
-        r.raise_for_status()
-        metin = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        metin = re.sub(r"^```(json)?|```$", "", metin.strip(), flags=re.MULTILINE).strip()
-        return json.loads(metin)
-    except Exception as e:
-        log.warning("Gemini özeti alınamadı: %s", e)
-        return None
+    govde = {
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "response_mime_type": "application/json",
+            "temperature": 0.4,
+        },
+    }
+    for deneme in range(3):
+        try:
+            r = requests.post(url, timeout=60, json=govde)
+            if r.status_code == 429:
+                # kota aşımı: giderek artan süre bekleyip yeniden dene
+                bekle = 20 * (deneme + 1)
+                log.warning("Gemini 429 (kota), %ds bekleniyor…", bekle)
+                time.sleep(bekle)
+                continue
+            r.raise_for_status()
+            metin = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+            metin = re.sub(r"^```(json)?|```$", "", metin.strip(), flags=re.MULTILINE).strip()
+            return json.loads(metin)
+        except Exception as e:
+            log.warning("Gemini özeti alınamadı: %s", e)
+            return None
+    log.warning("Gemini özeti alınamadı: kota (429) 3 denemede aşılamadı")
+    return None
 
 
 # ---------------------------------------------------------------- HTML
@@ -492,6 +526,9 @@ tr:last-child td{border-bottom:none}
 .gridd span{font-size:11px;color:var(--muted)}
 .yorum{margin-top:12px;font-size:13.5px;color:#33415C;border-top:1px dashed var(--line);padding-top:10px}
 
+.ornek-serit{background:#8A1C1C;color:#fff;text-align:center;padding:8px 12px;
+  font-family:'IBM Plex Mono',monospace;font-size:12.5px;letter-spacing:.08em;
+  text-transform:uppercase;font-weight:600}
 footer{padding:16px 0 40px;color:var(--muted);font-size:12.5px;line-height:1.7}
 .bos{color:var(--muted);font-size:13.5px;padding:6px 0}
 """
@@ -549,6 +586,10 @@ def render_html(ctx):
 
     p = [HEAD.format(baslik=esc(CONFIG["site"]["baslik"]), tarih=esc(tarih),
                      aciklama=esc(CONFIG["site"]["aciklama"]), css=CSS)]
+
+    if ctx.get("ornek"):
+        p.append('<div class="ornek-serit">⚠ Bu sayfa örnek (demo) veriyle üretildi — '
+                 'canlı değerler değildir. Gerçek bülten ilk çalıştırmada bu sayfanın yerini alır.</div>')
 
     # masthead
     p.append(f"""<header><div class="wrap mast">
@@ -664,6 +705,7 @@ def mock_ctx():
     now = simdi()
     return {
         "zaman": now,
+        "ornek": True,
         "baski": "Sabah Baskısı" if now.hour < 13 else "Akşam Baskısı",
         "kap": [
             {"baslik": "Yeni İş İlişkisi — Yurt dışı demiryolu elektrifikasyon projesi sözleşmesi imzalanması hk.",
