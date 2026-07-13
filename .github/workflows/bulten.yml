@@ -2,9 +2,11 @@ name: Borsa Bülteni
 
 on:
   schedule:
-    - cron: "45 5 * * 1-5"    # 08:45 TSİ — Sabah Baskısı (piyasa öncesi)
-    - cron: "45 15 * * 1-5"   # 18:45 TSİ — Akşam Baskısı (kapanış sonrası)
-  workflow_dispatch:           # elle tetikleme (Actions sekmesinden)
+    # Saatler UTC'dir (TSİ = UTC + 3). Hepsi hafta içi (Pzt-Cum).
+    - cron: "45 5 * * 1-5"        # 08:45 TSİ — Sabah: feed sıfırlanır, gece ABD haberleri toplanır
+    - cron: "0,30 6-15 * * 1-5"   # 09:00–18:30 TSİ — BIST saatleri, her yarım saatte bir
+    - cron: "30 16-20 * * 1-5"    # 19:30–23:30 TSİ — ABD basın/piyasa saatleri (yabancı basın + altın)
+  workflow_dispatch:              # elle tetikleme (Actions sekmesinden)
 
 permissions:
   contents: write
