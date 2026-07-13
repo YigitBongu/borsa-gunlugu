@@ -81,6 +81,19 @@ def simdi():
     return datetime.now(TRT)
 
 
+# Bülten günü sabah 08:45'te başlar. 08:45'ten önceki saatler (gece ABD haberleri
+# dahil) hâlâ ÖNCEKİ bülten gününe aittir; feed bu sayede gece yarısı değil,
+# sabah 08:45'ten sonraki ilk turda sıfırlanır.
+GUN_BASLANGICI = (8, 45)
+
+
+def bulten_gunu(now):
+    esik = now.replace(hour=GUN_BASLANGICI[0], minute=GUN_BASLANGICI[1],
+                       second=0, microsecond=0)
+    gun = now if now >= esik else (now - timedelta(days=1))
+    return gun.strftime("%Y-%m-%d")
+
+
 # ---------------------------------------------------- biriken feed durumu
 
 FEED_PATH = ROOT / "data" / "gunun_feedi.json"
@@ -212,6 +225,112 @@ def _sirket_deseni():
         if ad:
             parcalar.append(re.escape(ad))
     return re.compile(r"\b(" + "|".join(parcalar) + r")\b", re.IGNORECASE)
+
+
+def _rss_topla(kaynaklar, pencere_saat, filtre=None, etiket="RSS"):
+    """Verilen kaynakları tarar; filtre(baslik, ozet) -> bool ise öğeyi alır."""
+    try:
+        import feedparser
+    except ImportError:
+        log.warning("feedparser kurulu değil, %s atlanıyor", etiket)
+        return []
+
+    esik = simdi() - timedelta(hours=pencere_saat)
+    sonuc, gorulen = [], set()
+
+    for kaynak in kaynaklar:
+        try:
+            feed = feedparser.parse(kaynak["url"], request_headers=UA)
+            if not feed.entries:
+                log.warning("%s: %s — hiç öğe yok (feed URL'si değişmiş olabilir)",
+                            etiket, kaynak["ad"])
+                continue
+        except Exception as e:
+            log.warning("%s hata (%s): %s", etiket, kaynak["ad"], e)
+            continue
+
+        alinan = 0
+        for e in feed.entries[:60]:
+            baslik = (e.get("title") or "").strip()
+            if not baslik:
+                continue
+            anahtar = re.sub(r"\W+", "", baslik.lower())[:80]
+            if anahtar in gorulen:
+                continue
+
+            zaman = None
+            for alan in ("published_parsed", "updated_parsed"):
+                t = e.get(alan)
+                if t:
+                    zaman = datetime(*t[:6], tzinfo=timezone.utc).astimezone(TRT)
+                    break
+            if zaman and zaman < esik:
+                continue
+
+            ozet = (e.get("summary") or "")[:400]
+            if filtre and not filtre(baslik, ozet):
+                continue
+
+            link = e.get("link") or "#"
+            gorulen.add(anahtar)
+            sonuc.append({
+                "id": f"{etiket[:3].lower()}-" + (link if link != "#" else anahtar),
+                "baslik": baslik,
+                "kaynak": kaynak["ad"],
+                "link": link,
+                "saat": zaman.strftime("%H:%M") if zaman else "",
+                "tarih_iso": zaman.isoformat() if zaman else "",
+                "kodlar": [],
+            })
+            alinan += 1
+        log.info("%s: %s — %d öğe", etiket, kaynak["ad"], alinan)
+
+    return sonuc
+
+
+# Yabancı basında ilgi alanımız: piyasa/ekonomi/merkez bankası odaklı başlıklar
+YABANCI_DESEN = re.compile(
+    r"\b(stock|stocks|market|markets|economy|economic|inflation|fed|federal reserve|"
+    r"ecb|central bank|rate|rates|yield|yields|treasury|bond|bonds|dollar|euro|"
+    r"earnings|profit|revenue|recession|growth|gdp|tariff|trade|oil|energy|"
+    r"nasdaq|dow|s&p|wall street|investor|investors|turkey|turkish|lira)\b",
+    re.IGNORECASE)
+
+
+def fetch_yabanci(pencere_saat):
+    kaynaklar = CONFIG.get("yabanci_rss_kaynaklari", [])
+    if not kaynaklar:
+        return []
+    sonuc = _rss_topla(kaynaklar, pencere_saat,
+                       filtre=lambda b, o: bool(YABANCI_DESEN.search(b)),
+                       etiket="Yabancı")
+    log.info("Yabancı basın: %d haber", len(sonuc))
+    return sonuc[:35]
+
+
+# Altın: hem Türkçe hem İngilizce anahtar kelimeler.
+# Türkçe ekler için (altını, altında değil ama "altın fiyatı") dikkatli sınırlar:
+# "Altınordu", "altında" gibi kelimeler yakalanmasın diye ek harfleri dışlıyoruz.
+ALTIN_DESEN = re.compile(
+    r"(?<![a-zçğıöşü])(alt[ıi]n(?![a-zçğıöşü])|alt[ıi]n[ıi]n\b|ons\b|gram alt[ıi]n|"
+    r"k[ıi]ymetli maden|de[ğg]erli maden|"
+    r"gold(?![a-z])|bullion|precious metal|xau|"
+    r"gold price|gold futures|central bank gold|gold demand|gold reserves)",
+    re.IGNORECASE)
+
+
+def fetch_altin_haber(pencere_saat):
+    """Altın haberleri: hem yerli hem yabancı kaynaklar taranır."""
+    kaynaklar = (CONFIG.get("rss_kaynaklari", [])
+                 + CONFIG.get("yabanci_rss_kaynaklari", [])
+                 + CONFIG.get("altin_rss_kaynaklari", []))
+    if not kaynaklar:
+        return []
+    sonuc = _rss_topla(kaynaklar, pencere_saat,
+                       filtre=lambda b, o: bool(ALTIN_DESEN.search(b + " " + o[:200])),
+                       etiket="Altın")
+    log.info("Altın haberleri: %d haber", len(sonuc))
+    return sonuc[:25]
 
 
 def fetch_rss(pencere_saat):
@@ -450,10 +569,19 @@ def gemini_ozet(ctx, kapanis=False):
         rol = ("Şu ana kadarki gelişmelerin güncel özetini yaz. Gün boyu biriken "
                "bildirim ve haberlerden öne çıkanları anlat.")
 
+    yabanci_satirlar = "\n".join(
+        f"- ({h['kaynak']}) {h['baslik']}" for h in ctx.get("yabanci", [])[:15])
+    altin_haber_satirlar = "\n".join(
+        f"- ({h['kaynak']}) {h['baslik']}" for h in ctx.get("altin_haber", [])[:10])
+
     prompt = f"""Sen bir finans bülteni editörüsün. {rol}
 Türkçe, tarafsız, abartısız yaz. Fiyat tahmini yapma, yatırım tavsiyesi verme; sadece olanı ve bağlamı anlat.
 SADECE geçerli JSON döndür, başka hiçbir şey yazma. Şema:
-{{"gunun_ozeti": "3-4 cümle", "altin_yorumu": "2-3 cümle", "fon_notu": "1-2 cümle"}}
+{{"gunun_ozeti": "3-4 cümle", "yabanci_ozet": "2-3 cümle", "altin_yorumu": "2-3 cümle", "fon_notu": "1-2 cümle"}}
+
+"yabanci_ozet" alanı: Aşağıdaki YABANCI BASIN başlıkları İngilizcedir. Bunları TÜRKÇE olarak özetle;
+küresel piyasalarda öne çıkan gelişmeleri ve varsa Türkiye'ye etkisini 2-3 cümlede anlat.
+"altin_yorumu" alanı: Hem altın fiyat verisini hem ALTIN HABERLERİ başlıklarını birlikte değerlendir.
 
 KAP BİLDİRİMLERİ:
 {kap_satirlar or "(yok)"}
@@ -463,6 +591,12 @@ KAP BİLDİRİMLERİ:
 
 MAKRO HABERLER:
 {makro_satirlar or "(yok)"}
+
+YABANCI BASIN (İngilizce):
+{yabanci_satirlar or "(yok)"}
+
+ALTIN HABERLERİ:
+{altin_haber_satirlar or "(yok)"}
 
 ALTIN: gram {tr_num(altin.get('gram_tl'))} TL, ons {tr_num(altin.get('ons_usd'))} USD,
 değişim 1g {pct_str(altin.get('pct_1g'))}, 7g {pct_str(altin.get('pct_7g'))}, 30g {pct_str(altin.get('pct_30g'))}
@@ -578,6 +712,12 @@ tr:last-child td{border-bottom:none}
 .gridd b{display:block;font-family:'IBM Plex Mono',monospace;font-size:14px}
 .gridd span{font-size:11px;color:var(--muted)}
 .yorum{margin-top:12px;font-size:13.5px;color:#33415C;border-top:1px dashed var(--line);padding-top:10px}
+
+/* yabancı basın & altın haberleri — görsel ayrım */
+.yabanci{border-left:4px solid var(--navy)}
+.yabanci h2::before{content:"◷ ";color:var(--navy);font-weight:400}
+.altin-h{border-left:4px solid var(--gold)}
+.altin-h h2::before{content:"◆ ";color:var(--gold);font-weight:400}
 
 .ornek-serit{background:#8A1C1C;color:#fff;text-align:center;padding:8px 12px;
   font-family:'IBM Plex Mono',monospace;font-size:12.5px;letter-spacing:.08em;
@@ -699,8 +839,29 @@ def render_html(ctx):
     # makro
     mk = ctx.get("makro_haberler", [])
     if mk:
-        p.append(f'<section><h2>Makro & Piyasa <span class="say">{len(mk)}</span></h2>'
+        p.append(f'<section><h2>Makro &amp; Piyasa <span class="say">{len(mk)}</span></h2>'
                  '<ul class="ml">' + "".join(_haber_li(h) for h in mk) + "</ul></section>")
+
+    # yabancı basın
+    yb = ctx.get("yabanci", [])
+    p.append(f'<section class="yabanci"><h2>Yabancı Basın <span class="say">{len(yb)}</span></h2>')
+    if ctx.get("ai", {}).get("yabanci_ozet"):
+        p.append(f'<p class="yorum" style="margin:0 0 10px;border-top:none;padding-top:0">'
+                 f'{esc(ctx["ai"]["yabanci_ozet"])}</p>')
+    if yb:
+        p.append('<ul class="ml">' + "".join(_haber_li(h) for h in yb) + "</ul>")
+    else:
+        p.append('<p class="bos">Bu pencerede yabancı kaynaklardan haber alınamadı.</p>')
+    p.append("</section>")
+
+    # altın haberleri
+    ah = ctx.get("altin_haber", [])
+    p.append(f'<section class="altin-h"><h2>Altın Haberleri <span class="say">{len(ah)}</span></h2>')
+    if ah:
+        p.append('<ul class="ml">' + "".join(_haber_li(h) for h in ah) + "</ul>")
+    else:
+        p.append('<p class="bos">Bu pencerede altınla ilgili haber bulunamadı.</p>')
+    p.append("</section>")
 
     p.append("</div><aside>")  # yan kolon
 
@@ -786,6 +947,20 @@ def mock_ctx():
             {"baslik": "TCMB haftalık rezerv verileri açıklandı", "kaynak": "AA Ekonomi",
              "link": "#", "saat": "07:00", "kodlar": []},
         ],
+        "yabanci": [
+            {"baslik": "Fed officials signal caution on further rate cuts",
+             "kaynak": "CNBC", "link": "#", "saat": "21:40", "kodlar": []},
+            {"baslik": "Dollar steadies as investors weigh inflation data",
+             "kaynak": "MarketWatch", "link": "#", "saat": "20:15", "kodlar": []},
+            {"baslik": "European stocks close higher on earnings optimism",
+             "kaynak": "BBC Business", "link": "#", "saat": "18:50", "kodlar": []},
+        ],
+        "altin_haber": [
+            {"baslik": "Gold holds near record as central banks keep buying",
+             "kaynak": "Kitco", "link": "#", "saat": "19:05", "kodlar": []},
+            {"baslik": "Gram altın yeni zirvesini test etti",
+             "kaynak": "Bloomberg HT", "link": "#", "saat": "16:20", "kodlar": []},
+        ],
         "endeksler": {"XU100": {"fiyat": 11234.5, "pct": 0.84},
                       "XU030": {"fiyat": 12345.6, "pct": 0.61}},
         "y100": [("KONTR", {"fiyat": 45.2, "pct": 6.1}), ("SASA", {"fiyat": 4.1, "pct": 4.8}),
@@ -812,7 +987,10 @@ def mock_ctx():
             "gunun_ozeti": "Örnek özet: BIST 100 günü alıcılı geçirirken savunma ve enerji "
                            "tarafında yeni sözleşme bildirimleri öne çıktı. (Bu, --mock modunda "
                            "üretilmiş örnek metindir.)",
-            "altin_yorumu": "Örnek yorum: Gram altın kur etkisiyle haftalık bazda yükselişini korudu.",
+            "yabanci_ozet": "Örnek yabancı basın özeti: Fed yetkilileri faiz indirimlerinde "
+                            "temkinli bir dil kullanırken, dolar enflasyon verisi öncesi yatay seyretti.",
+            "altin_yorumu": "Örnek yorum: Gram altın kur etkisiyle haftalık bazda yükselişini korudu; "
+                            "merkez bankası alımları ons tarafında desteği sürdürüyor.",
             "fon_notu": "Örnek not: Altın fonu ayı artıda geçiriyor.",
         },
     }
@@ -823,7 +1001,8 @@ def mock_ctx():
 def main():
     mock = "--mock" in sys.argv
     now = simdi()
-    bugun = now.strftime("%Y-%m-%d")
+    bugun = now.strftime("%Y-%m-%d")      # takvim günü (haberlerin "dün" etiketi için)
+    bgun = bulten_gunu(now)               # bülten günü (08:45'te başlar; feed bu tarihe göre sıfırlanır)
 
     if mock:
         ctx = mock_ctx()
@@ -840,38 +1019,69 @@ def main():
 
     # --- BİRİKEN FEED: haberler ve KAP bildirimleri
     state = feed_yukle()
-    yeni_gun = (state is None) or (state.get("tarih") != bugun)
+    yeni_gun = (state is None) or (state.get("tarih") != bgun)
+
+    # Akşam turu (19:00+): BIST kapalı, ABD piyasası açık.
+    # Bu turlarda sadece yabancı basın + altın haberleri toplanır.
+    aksam_turu = now.hour >= 19
 
     if yeni_gun:
-        # Günün ilk turu (sabah) veya hafta sonu sonrası: feed'i sıfırla, geniş pencere
+        # Bülten gününün ilk turu (08:45 sonrası): feed'i sıfırla, geniş pencere
         pencere = CONFIG.get("sabah_penceresi_saat", 14)
-        state = {"tarih": bugun, "kap": [], "sirket": [], "makro": []}
-        log.info("YENİ GÜN — feed sıfırlandı (%s), geniş pencere %dh", bugun, pencere)
+        # Yabancı basın için gece boyu (ABD kapanışı) haberlerini de yakala
+        yabanci_pencere = CONFIG.get("yabanci_sabah_penceresi_saat", 16)
+        state = {"tarih": bgun, "kap": [], "sirket": [], "makro": [],
+                 "yabanci": [], "altin_haber": []}
+        log.info("YENİ BÜLTEN GÜNÜ — feed sıfırlandı (%s), pencere BIST:%dh yabancı:%dh",
+                 bgun, pencere, yabanci_pencere)
     else:
-        # Gün içi tur: mevcut feed'e ekle, dar pencere (tekrarlar ayıklanır)
         pencere = CONFIG.get("gunici_penceresi_saat", 6)
-        log.info("Gün içi tur — feed'e ekleniyor, pencere %dh", pencere)
+        yabanci_pencere = pencere
+        log.info("%s tur — feed'e ekleniyor, pencere %dh",
+                 "Akşam" if aksam_turu else "Gün içi", pencere)
 
-    kap_yeni = fetch_kap(pencere)
-    sirket_yeni, makro_yeni = fetch_rss(pencere)
+    # eski feed'lerde bu anahtarlar olmayabilir
+    state.setdefault("yabanci", [])
+    state.setdefault("altin_haber", [])
 
     now_iso = now.isoformat()
-    state["kap"], ek_kap = feed_birlestir(state.get("kap", []), kap_yeni, now_iso)
-    state["sirket"], ek_sir = feed_birlestir(state.get("sirket", []), sirket_yeni, now_iso)
-    state["makro"], ek_mak = feed_birlestir(state.get("makro", []), makro_yeni, now_iso)
+
+    # Yabancı basın + altın: her turda (akşam turları dahil)
+    yabanci_yeni = fetch_yabanci(yabanci_pencere)
+    altin_haber_yeni = fetch_altin_haber(yabanci_pencere)
+    state["yabanci"], ek_yab = feed_birlestir(state["yabanci"], yabanci_yeni, now_iso)
+    state["altin_haber"], ek_alt = feed_birlestir(state["altin_haber"], altin_haber_yeni, now_iso)
+
+    # KAP + yerli haberler: akşam turlarında atlanır (BIST kapalı, yeni bildirim gelmez)
+    ek_kap = ek_sir = ek_mak = 0
+    if not aksam_turu:
+        kap_yeni = fetch_kap(pencere)
+        sirket_yeni, makro_yeni = fetch_rss(pencere)
+        state["kap"], ek_kap = feed_birlestir(state.get("kap", []), kap_yeni, now_iso)
+        state["sirket"], ek_sir = feed_birlestir(state.get("sirket", []), sirket_yeni, now_iso)
+        state["makro"], ek_mak = feed_birlestir(state.get("makro", []), makro_yeni, now_iso)
+    else:
+        log.info("Akşam turu — BIST kapalı, KAP ve yerli haber taraması atlandı")
+
     # sınırsız büyümeyi önle
     state["kap"] = feed_sirala(state["kap"])[:200]
     state["sirket"] = feed_sirala(state["sirket"])[:200]
     state["makro"] = feed_sirala(state["makro"])[:80]
+    state["yabanci"] = feed_sirala(state["yabanci"])[:120]
+    state["altin_haber"] = feed_sirala(state["altin_haber"])[:80]
     state["guncelleme"] = now_iso
     feed_kaydet(state)
-    log.info("Feed'e eklenen — KAP:%d haber:%d makro:%d | toplam KAP:%d haber:%d",
-             ek_kap, ek_sir, ek_mak, len(state["kap"]), len(state["sirket"]))
+    log.info("Feed'e eklenen — KAP:%d haber:%d makro:%d yabancı:%d altın:%d "
+             "| toplam KAP:%d haber:%d yabancı:%d altın:%d",
+             ek_kap, ek_sir, ek_mak, ek_yab, ek_alt,
+             len(state["kap"]), len(state["sirket"]),
+             len(state["yabanci"]), len(state["altin_haber"]))
 
-    kapanis = (now.hour >= 18)  # 18:00 ve sonrası: kapanış özeti
+    kapanis = (18 <= now.hour < 19)  # 18:00–18:30 turları: kapanış özeti
 
     # önceki günden gelen öğelere "dün" damgası
-    for lst in (state["kap"], state["sirket"], state["makro"]):
+    for lst in (state["kap"], state["sirket"], state["makro"],
+                state["yabanci"], state["altin_haber"]):
         for it in lst:
             ti = it.get("tarih_iso", "")
             it["saat_g"] = ("dün " + it["saat"]) if (ti[:10] and ti[:10] != bugun
@@ -881,10 +1091,15 @@ def main():
         "zaman": now,
         "biriken": True,
         "kapanis": kapanis,
-        "baski": "Kapanış Özeti" if kapanis else ("Sabah Baskısı" if yeni_gun else "Gün İçi"),
+        "aksam_turu": aksam_turu,
+        "baski": ("Akşam — Yabancı Basın" if aksam_turu else
+                  "Kapanış Özeti" if kapanis else
+                  "Sabah Baskısı" if yeni_gun else "Gün İçi"),
         "kap": state["kap"],
         "sirket_haberleri": state["sirket"],
         "makro_haberler": state["makro"],
+        "yabanci": state["yabanci"],
+        "altin_haber": state["altin_haber"],
         "endeksler": endeksler,
         "y100": y100, "d100": d100, "y30": y30, "d30": d30,
         "altin": altin,
