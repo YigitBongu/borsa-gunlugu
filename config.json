@@ -14,8 +14,25 @@
     { "ad": "BigPara",        "url": "https://bigpara.hurriyet.com.tr/rss/" }
   ],
 
+  "yabanci_rss_kaynaklari": [
+    { "ad": "CNBC",           "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
+    { "ad": "CNBC Finans",    "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html" },
+    { "ad": "BBC Business",   "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
+    { "ad": "MarketWatch",    "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories" },
+    { "ad": "Yahoo Finance",  "url": "https://finance.yahoo.com/news/rssindex" },
+    { "ad": "Investing.com",  "url": "https://www.investing.com/rss/news_25.rss" },
+    { "ad": "FT",             "url": "https://www.ft.com/rss/home" }
+  ],
+
+  "altin_rss_kaynaklari": [
+    { "ad": "Kitco",          "url": "https://www.kitco.com/rss/KitcoNews.xml" },
+    { "ad": "Mining.com",     "url": "https://www.mining.com/feed/" },
+    { "ad": "Investing Emtia","url": "https://www.investing.com/rss/commodities.rss" }
+  ],
+
   "sabah_penceresi_saat": 14,
   "gunici_penceresi_saat": 6,
+  "yabanci_sabah_penceresi_saat": 16,
 
   "bist30": [
     "AKBNK", "ASELS", "ASTOR", "BIMAS", "EKGYO", "ENKAI", "EREGL", "FROTO",
