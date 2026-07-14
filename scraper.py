@@ -155,16 +155,85 @@ def kap_kategori(baslik):
     return "Bildirim"
 
 
+def fetch_kap_mynet(pencere_saat):
+    """Yedek kaynak: KAP'a doğrudan erişilemediğinde Mynet Finans'ın KAP sayfası.
+    KAP resmi sitesi yurt dışı sunuculardan sık sık zaman aşımına uğradığı için gerekli."""
+    url = "https://finans.mynet.com/borsa/kaphaberleri/"
+    try:
+        r = _istek("GET", url, tries=2, backoff=3, headers=UA, timeout=30)
+        ham = r.text
+    except Exception as e:
+        log.warning("Mynet KAP yedeği de alınamadı: %s", e)
+        return []
+
+    aylar = {"Jan": 1, "Feb": 2, "Mar": 3, "Apr": 4, "May": 5, "Jun": 6, "Jul": 7,
+             "Aug": 8, "Sep": 9, "Oct": 10, "Nov": 11, "Dec": 12,
+             "Oca": 1, "Şub": 2, "Mar": 3, "Nis": 4, "May": 5, "Haz": 6, "Tem": 7,
+             "Ağu": 8, "Eyl": 9, "Eki": 10, "Kas": 11, "Ara": 12}
+
+    # Bağlantıları çıkar (varsa), metni de ayrıca tara
+    linkler = dict(re.findall(
+        r'href="([^"]*kaphaberleri[^"]*)"[^>]*>\s*\*\*\*([A-Z0-9]{3,6})', ham))
+
+    metin = re.sub(r"<[^>]+>", " ", ham)
+    metin = html_mod.unescape(metin)
+
+    desen = re.compile(
+        r"\*\*\*([A-Z0-9 ,\*]{3,40}?)\*\*\*\s*(.{3,120}?)\s*\(([^()]{3,90})\)\s*"
+        r"(\d{1,2})\s+(\w{3})\s+(\d{4})\s+(\d{2}):(\d{2})")
+
+    esik = simdi() - timedelta(hours=pencere_saat)
+    hedef = set(BIST100)
+    sonuc = []
+
+    for m in desen.finditer(metin):
+        kod_ham, sirket, tur, gun, ay_s, yil, sa, dk = m.groups()
+        kodlar = [k.strip() for k in re.split(r"[ ,\*]+", kod_ham) if k.strip()]
+        eslesen = [k for k in kodlar if k in hedef]
+        if not eslesen:
+            continue
+
+        ay = aylar.get(ay_s[:3].title()) or aylar.get(ay_s[:3])
+        if not ay:
+            continue
+        try:
+            zaman = datetime(int(yil), ay, int(gun), int(sa), int(dk), tzinfo=TRT)
+        except ValueError:
+            continue
+        if zaman < esik:
+            continue
+
+        baslik = f"{sirket.strip()} — {tur.strip()}"
+        link = "https://finans.mynet.com" + linkler.get(eslesen[0], "/borsa/kaphaberleri/")
+        sonuc.append({
+            "id": f"kap-my-{eslesen[0]}-{zaman.strftime('%Y%m%d%H%M')}",
+            "baslik": baslik,
+            "sirket": sirket.strip(),
+            "kodlar": eslesen,
+            "kategori": kap_kategori(tur),
+            "saat": zaman.strftime("%H:%M"),
+            "tarih_iso": zaman.isoformat(),
+            "link": link if link.startswith("http") else "https://finans.mynet.com/borsa/kaphaberleri/",
+        })
+
+    onem = {ad: i for i, (ad, _) in enumerate(KAP_KATEGORILER)}
+    sonuc.sort(key=lambda x: onem.get(x["kategori"], 99))
+    log.info("KAP (Mynet yedeği): %d ilgili bildirim", len(sonuc))
+    return sonuc[:40]
+
+
 def fetch_kap(pencere_saat):
-    """KAP son bildirimler (resmi olmayan JSON uç noktası)."""
+    """Önce KAP resmi kaynağı; başarısız olursa Mynet yedeği devreye girer."""
     url = "https://www.kap.org.tr/tr/api/disclosures"
     try:
-        r = _istek("GET", url, tries=3, backoff=4,
-                   headers={**UA, "Accept": "application/json"}, timeout=60)
+        # Hızlı başarısız ol: KAP yurt dışından sık sık yanıt vermiyor,
+        # 3x60sn beklemek her turda 3 dakika boşa harcıyordu.
+        r = _istek("GET", url, tries=2, backoff=2,
+                   headers={**UA, "Accept": "application/json"}, timeout=20)
         raw = r.json()
     except Exception as e:
-        log.warning("KAP alınamadı (3 deneme): %s", e)
-        return []
+        log.warning("KAP resmi kaynak alınamadı (%s) — Mynet yedeğine geçiliyor", e)
+        return fetch_kap_mynet(pencere_saat)
 
     esik = simdi() - timedelta(hours=pencere_saat)
     hedef = set(BIST100)
@@ -206,6 +275,9 @@ def fetch_kap(pencere_saat):
 
     onem = {ad: i for i, (ad, _) in enumerate(KAP_KATEGORILER)}
     sonuc.sort(key=lambda x: onem.get(x["kategori"], 99))
+    if not sonuc:
+        log.warning("KAP resmi kaynak boş döndü — Mynet yedeği deneniyor")
+        return fetch_kap_mynet(pencere_saat)
     log.info("KAP: %d ilgili bildirim", len(sonuc))
     return sonuc[:40]
 
@@ -611,12 +683,11 @@ BES FONLARI:
             "temperature": 0.4,
         },
     }
-    for deneme in range(3):
+    for deneme in range(2):
         try:
             r = requests.post(url, timeout=60, json=govde)
             if r.status_code == 429:
-                # kota aşımı: giderek artan süre bekleyip yeniden dene
-                bekle = 20 * (deneme + 1)
+                bekle = 15 * (deneme + 1)
                 log.warning("Gemini 429 (kota), %ds bekleniyor…", bekle)
                 time.sleep(bekle)
                 continue
@@ -627,7 +698,7 @@ BES FONLARI:
         except Exception as e:
             log.warning("Gemini özeti alınamadı: %s", e)
             return None
-    log.warning("Gemini özeti alınamadı: kota (429) 3 denemede aşılamadı")
+    log.warning("Gemini: kota (429) aşılamadı — önceki özet korunacak")
     return None
 
 
@@ -845,9 +916,9 @@ def render_html(ctx):
     # yabancı basın
     yb = ctx.get("yabanci", [])
     p.append(f'<section class="yabanci"><h2>Yabancı Basın <span class="say">{len(yb)}</span></h2>')
-    if ctx.get("ai", {}).get("yabanci_ozet"):
+    if ai.get("yabanci_ozet"):
         p.append(f'<p class="yorum" style="margin:0 0 10px;border-top:none;padding-top:0">'
-                 f'{esc(ctx["ai"]["yabanci_ozet"])}</p>')
+                 f'{esc(ai["yabanci_ozet"])}</p>')
     if yb:
         p.append('<ul class="ml">' + "".join(_haber_li(h) for h in yb) + "</ul>")
     else:
@@ -1079,6 +1150,14 @@ def main():
 
     kapanis = (18 <= now.hour < 19)  # 18:00–18:30 turları: kapanış özeti
 
+    # --- Gemini kota yönetimi ---
+    # Ücretsiz katmanın günlük sınırını korumak için AI özetini yalnızca gerçekten
+    # gerektiğinde çağırıyoruz: (a) yeni gün başlarken, (b) kapanış turunda,
+    # (c) feed'e kayda değer yeni içerik eklendiğinde. Aksi halde önceki özeti koruyoruz.
+    yeni_icerik = (ek_kap + ek_sir + ek_yab + ek_alt)
+    ai_gerekli = yeni_gun or kapanis or yeni_icerik >= CONFIG.get("ai_min_yeni_haber", 3)
+    onceki_ai = state.get("ai")
+
     # önceki günden gelen öğelere "dün" damgası
     for lst in (state["kap"], state["sirket"], state["makro"],
                 state["yabanci"], state["altin_haber"]):
@@ -1105,7 +1184,20 @@ def main():
         "altin": altin,
         "fonlar": fonlar,
     }
-    ctx["ai"] = gemini_ozet(ctx, kapanis=kapanis)
+    if ai_gerekli:
+        yeni_ai = gemini_ozet(ctx, kapanis=kapanis)
+        if yeni_ai:
+            ctx["ai"] = yeni_ai
+            state["ai"] = yeni_ai
+            feed_kaydet(state)   # özeti kalıcı sakla
+        else:
+            # Gemini başarısız: önceki özeti koru, sayfa özetsiz kalmasın
+            ctx["ai"] = onceki_ai
+            if onceki_ai:
+                log.info("Gemini başarısız — önceki özet korunuyor")
+    else:
+        ctx["ai"] = onceki_ai
+        log.info("AI çağrısı atlandı (yeni içerik: %d) — kota korunuyor", yeni_icerik)
 
     out = ROOT / "docs" / "index.html"
     out.parent.mkdir(exist_ok=True)
