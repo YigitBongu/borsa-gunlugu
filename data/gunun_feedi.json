@@ -2,6 +2,45 @@
  "tarih": "2026-07-14",
  "kap": [
   {
+   "id": "kap-my-BOBET-202607141923",
+   "baslik": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş. — Genel Kurul İşlemlerine İlişkin Bildirim",
+   "sirket": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:23",
+   "tarih_iso": "2026-07-14T19:23:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-15T00:01:34.961311+03:00"
+  },
+  {
+   "id": "kap-my-BOBET-202607141921",
+   "baslik": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:21",
+   "tarih_iso": "2026-07-14T19:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-15T00:01:34.961311+03:00"
+  },
+  {
+   "id": "kap-my-GSDHO-202607141844",
+   "baslik": "GSD HOLDİNG A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "GSD HOLDİNG A.Ş.",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:44",
+   "tarih_iso": "2026-07-14T18:44:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-15T00:01:34.961311+03:00"
+  },
+  {
    "id": "kap-my-VESTL-202607141221",
    "baslik": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Kredi Derecelendirmesi",
    "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
@@ -42,6 +81,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/resmi-aciklama-geldi-fenerbahce-greenwoodu-kadrosuna-katti-haberi-832258",
+   "baslik": "Resmi açıklama geldi: Fenerbahçe Greenwood'u kadrosuna kattı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/resmi-aciklama-geldi-fenerbahce-greenwoodu-kadrosuna-katti-haberi-832258",
+   "saat": "22:39",
+   "tarih_iso": "2026-07-14T22:39:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-15T00:01:34.961311+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-14-temmuz-2026/3997770",
    "baslik": "60 saniyede ekonomide bugün (14 Temmuz 2026)",
@@ -113,6 +164,16 @@
    "tarih_iso": "2026-07-14T19:12:35+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T16:31:30.423536+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-832234",
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-832234",
+   "saat": "18:32",
+   "tarih_iso": "2026-07-14T18:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T00:01:34.961311+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/fed-baskani-warshtan-faiz-mesaji-enflasyona-tolerans-gostermeyecegiz-haberi-832217",
@@ -336,6 +397,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
+   "baslik": "Your stock portfolio is tied to the Japanese yen — and a looming intervention is flashing a major warning sign",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
+   "saat": "23:56",
+   "tarih_iso": "2026-07-14T23:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T00:01:34.961311+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/attovia-therapeutics-files-for-ipo-on-nasdaq-432SI-4791729",
+   "baslik": "Attovia Therapeutics files for IPO on Nasdaq",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/attovia-therapeutics-files-for-ipo-on-nasdaq-432SI-4791729",
+   "saat": "23:38",
+   "tarih_iso": "2026-07-14T23:38:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T00:01:34.961311+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-002-4791696",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.02%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-002-4791696",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-14T23:30:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T00:01:34.961311+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-019-4791692",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.19%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-019-4791692",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-14T23:30:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T00:01:34.961311+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-051-4791688",
+   "baslik": "Brazil stocks higher at close of trade; Bovespa up 0.51%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-051-4791688",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-14T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T00:01:34.961311+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/lucid-denies-bankruptcy-talk-but-the-stock-still-sinks-to-a-record-low-82f87d0d?mod=mw_rss_topstories",
    "baslik": "Lucid denies bankruptcy talk, but the stock still sinks to a record low",
@@ -1485,56 +1596,6 @@
    "tarih_iso": "2026-07-14T17:09:22+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T17:31:25.913730+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/69-americans-want-ai-giants-140000819.html",
-   "baslik": "69% of Americans want AI giants like OpenAI and Anthropic to give up half their stock to a public wealth fund",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/69-americans-want-ai-giants-140000819.html",
-   "saat": "17:00",
-   "tarih_iso": "2026-07-14T17:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T17:31:25.913730+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/market-recognize-true-potential-elevance-135555182.html",
-   "baslik": "Will the Market Recognize the True Potential of Elevance Health (ELV)?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/market-recognize-true-potential-elevance-135555182.html",
-   "saat": "16:55",
-   "tarih_iso": "2026-07-14T16:55:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T17:31:25.913730+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/bank-of-america-stock-falls-despite-earnings-beat-3d4db2b4?mod=mw_rss_topstories",
-   "baslik": "Bank of America’s stock reverses premarket decline in wake of blockbuster earnings report",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/bank-of-america-stock-falls-despite-earnings-beat-3d4db2b4?mod=mw_rss_topstories",
-   "saat": "16:52",
-   "tarih_iso": "2026-07-14T16:52:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T19:31:31.295798+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/technology/apple-stock-downgraded-to-sell-keybanc/?src=A00220&yptr=yahoo",
-   "baslik": "Apple Stock Downgraded To Sell. Here's Why.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/technology/apple-stock-downgraded-to-sell-keybanc/?src=A00220&yptr=yahoo",
-   "saat": "16:50",
-   "tarih_iso": "2026-07-14T16:50:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T17:31:25.913730+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/kevin-warsh-may-just-caught-134934798.html",
-   "baslik": "Kevin Warsh May Have Just Caught a Massive Break as Inflation Suddenly Cools",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/kevin-warsh-may-just-caught-134934798.html",
-   "saat": "16:49",
-   "tarih_iso": "2026-07-14T16:49:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T17:01:40.329285+03:00"
   }
  ],
  "altin_haber": [
@@ -1859,5 +1920,5 @@
    "eklenme": "2026-07-14T09:29:01.404929+03:00"
   }
  ],
- "guncelleme": "2026-07-14T23:31:30.878042+03:00"
+ "guncelleme": "2026-07-15T00:01:34.961311+03:00"
 }
