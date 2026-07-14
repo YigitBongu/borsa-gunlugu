@@ -40,13 +40,27 @@ jobs:
         run: |
           git config user.name "borsa-gunlugu-bot"
           git config user.email "actions@github.com"
-          git add docs/ data/
-          git diff --cached --quiet && echo "Değişiklik yok" && exit 0
-          git commit -m "Bülten: $(date -u +'%Y-%m-%d %H:%M') UTC"
-          # Sık tetikleme nedeniyle iki çalıştırma çakışabilir: rebase ile yeniden dene
+
           for i in 1 2 3; do
-            git pull --rebase origin main && git push origin main && exit 0
-            echo "Push çakıştı, yeniden deneniyor ($i/3)…"
+            # Çıktılar her turda sıfırdan üretiliyor; birleştirme anlamsız,
+            # en son üretilen kazanmalı. Bu yüzden: uzaktakini al, üstüne kendi
+            # çıktımızı yaz, öyle commit'le.
+            git fetch origin main
+            git reset --soft origin/main   # geçmişi hizala, çalışma dizinindeki dosyalar korunur
+
+            git add -A docs/ data/
+            if git diff --cached --quiet; then
+              echo "Değişiklik yok, yayın gerekmiyor"
+              exit 0
+            fi
+
+            git commit -m "Bülten: $(date -u +'%Y-%m-%d %H:%M') UTC"
+            if git push origin HEAD:main; then
+              echo "Yayınlandı"
+              exit 0
+            fi
+
+            echo "Push çakıştı (başka bir tur araya girdi), yeniden deneniyor ($i/3)…"
             sleep 5
           done
           echo "Push 3 denemede başarısız" && exit 1
