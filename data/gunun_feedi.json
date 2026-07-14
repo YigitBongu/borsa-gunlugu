@@ -2,6 +2,19 @@
  "tarih": "2026-07-14",
  "kap": [
   {
+   "id": "kap-my-VESTL-202607141221",
+   "baslik": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "VESTL"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "12:21",
+   "tarih_iso": "2026-07-14T12:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-14T12:53:48.877010+03:00"
+  },
+  {
    "id": "kap-my-SASA-202607140845",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Kamuyu Aydınlatma Platformu Duyurusu",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -116,6 +129,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-peab-stock-surging-today-93CH-4790082",
+   "baslik": "Why is Peab stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-peab-stock-surging-today-93CH-4790082",
+   "saat": "12:33",
+   "tarih_iso": "2026-07-14T12:33:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T12:53:48.877010+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-mixed-ahead-of-cpi-bank-earnings-usiran-tensions-in-focus-4790080",
+   "baslik": "Wall St futures mixed ahead of CPI, bank earnings; US-Iran tensions in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-mixed-ahead-of-cpi-bank-earnings-usiran-tensions-in-focus-4790080",
+   "saat": "12:30",
+   "tarih_iso": "2026-07-14T12:30:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T12:53:48.877010+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/salzgitter-stock-leaps-as-jefferies-raises-to-buy-on-eu-safeguards-tailwinds-4790079",
+   "baslik": "Salzgitter stock leaps as Jefferies raises to Buy on EU safeguards tailwinds",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/salzgitter-stock-leaps-as-jefferies-raises-to-buy-on-eu-safeguards-tailwinds-4790079",
+   "saat": "12:30",
+   "tarih_iso": "2026-07-14T12:30:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T12:53:48.877010+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e",
+   "baslik": "Wall Street to report bumper quarter as dealmaking returns",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e",
+   "saat": "12:29",
+   "tarih_iso": "2026-07-14T12:29:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T12:53:48.877010+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-obrascon-huarte-lain-stock-sliding-today-93CH-4790076",
    "baslik": "Why is Obrascon Huarte Lain stock sliding today?",
    "kaynak": "Investing.com",
@@ -124,6 +177,16 @@
    "tarih_iso": "2026-07-14T12:29:21+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T12:31:29.191490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/could-mercadolibre-stock-once-decade-092800901.html",
+   "baslik": "Could MercadoLibre Stock Be a Once-in-a-Decade Buying Opportunity?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/could-mercadolibre-stock-once-decade-092800901.html",
+   "saat": "12:28",
+   "tarih_iso": "2026-07-14T12:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T12:53:48.877010+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-salzgitter-stock-surging-today-93CH-4790073",
@@ -144,6 +207,36 @@
    "tarih_iso": "2026-07-14T12:25:11+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T12:31:29.191490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ai-giant-climbed-900-over-092500920.html",
+   "baslik": "This AI Giant Has Climbed 900% Over the Past Five Years. Now Wall Street Expects the Stock to Jump Another 40%.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ai-giant-climbed-900-over-092500920.html",
+   "saat": "12:25",
+   "tarih_iso": "2026-07-14T12:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T12:53:48.877010+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/currencies/articles/dollar-steady-us-inflation-data-005030793.html",
+   "baslik": "Dollar dips ahead of US inflation data, supported by rate outlook",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-steady-us-inflation-data-005030793.html",
+   "saat": "12:23",
+   "tarih_iso": "2026-07-14T12:23:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T12:53:48.877010+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-07-14-2026/card/european-bond-yields-climb-as-rising-oil-price-stokes-inflation-fears-xTB0uqCKnpci1QgLLTYk?siteid=yhoof2&yptr=yahoo",
+   "baslik": "European Bond Yields Climb on Inflation Fears",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-07-14-2026/card/european-bond-yields-climb-as-rising-oil-price-stokes-inflation-fears-xTB0uqCKnpci1QgLLTYk?siteid=yhoof2&yptr=yahoo",
+   "saat": "12:19",
+   "tarih_iso": "2026-07-14T12:19:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T12:53:48.877010+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
@@ -204,6 +297,16 @@
    "tarih_iso": "2026-07-14T12:08:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T12:31:29.191490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/ecb-picks-36-payment-providers-090650568.html",
+   "baslik": "ECB picks 36 payment firms for digital euro pilot",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/ecb-picks-36-payment-providers-090650568.html",
+   "saat": "12:06",
+   "tarih_iso": "2026-07-14T12:06:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T12:53:48.877010+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-allegro-stock-surging-today-93CH-4789987",
@@ -624,6 +727,16 @@
    "tarih_iso": "2026-07-14T10:10:27+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T10:27:46.603704+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html",
+   "baslik": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as traders lift Fed rate hike bets ahead of key inflation data",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-14-dow-sp-500-nasdaq-070833816.html",
+   "saat": "10:08",
+   "tarih_iso": "2026-07-14T10:08:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T12:53:48.877010+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-075-4789776",
@@ -1088,5 +1201,5 @@
    "eklenme": "2026-07-14T09:29:01.404929+03:00"
   }
  ],
- "guncelleme": "2026-07-14T12:31:29.191490+03:00"
+ "guncelleme": "2026-07-14T12:53:48.877010+03:00"
 }
