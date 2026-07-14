@@ -52,6 +52,11 @@ ADLAR = CONFIG["sirket_adlari"]
 
 # ---------------------------------------------------------------- yardımcılar
 
+AYLAR = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz",
+         "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
+GUNLER = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
+
+
 def tr_num(x, nd=2):
     """1234.56 -> '1.234,56' (Türkçe biçim)."""
     if x is None:
@@ -550,49 +555,57 @@ def fetch_gold():
 
 # -------------------------------------------------------------- 5) TEFAS
 
+def _tefas_tarih_key(v):
+    """Tarih alanını sıralanabilir bir sayıya çevirir. TEFAS'ın yeni API'sinde
+    biçim belgelenmemiş (epoch ms, 'dd.MM.yyyy' ya da ISO olabilir); üçünü de kabul et."""
+    s = str(v or "").strip()
+    if re.fullmatch(r"\d+(\.\d+)?", s):
+        return float(s)
+    m = re.match(r"(\d{1,2})\.(\d{1,2})\.(\d{4})", s)
+    if m:
+        return int(m.group(3)) * 10000 + int(m.group(2)) * 100 + int(m.group(1))
+    m = re.match(r"(\d{4})-(\d{2})-(\d{2})", s)
+    if m:
+        return int(m.group(1)) * 10000 + int(m.group(2)) * 100 + int(m.group(3))
+    return 0
+
+
 def fetch_tefas(kodlar):
-    url = "https://www.tefas.gov.tr/api/DB/BindHistoryInfo"
+    """TEFAS 2026'da eski DB/BindHistory* uçlarını kaldırdı; yerine fon bazlı
+    fonFiyatBilgiGetir JSON API'si geldi. Periyot yalnızca 1/3/6/12/36/60 ay
+    olabilir; 1G/7G/30G değişimleri için 3 ay yeterli."""
+    url = "https://www.tefas.gov.tr/api/funds/fonFiyatBilgiGetir"
     headers = {
         **UA,
-        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "Content-Type": "application/json",
         "Origin": "https://www.tefas.gov.tr",
-        "Referer": "https://www.tefas.gov.tr/TarihselVeriler.aspx",
+        "Referer": "https://www.tefas.gov.tr/FonAnaliz.aspx",
         "X-Requested-With": "XMLHttpRequest",
     }
-    bugun = simdi()
-    d1 = (bugun - timedelta(days=40)).strftime("%d.%m.%Y")
-    d2 = bugun.strftime("%d.%m.%Y")
-
-    # TEFAS oturum çerezi olmadan 404/403 döndürebilir; önce ana sayfayı ziyaret et
-    oturum = requests.Session()
-    oturum.headers.update(headers)
-    try:
-        oturum.get("https://www.tefas.gov.tr/TarihselVeriler.aspx", timeout=30)
-    except Exception as e:
-        log.warning("TEFAS oturum açılamadı: %s", e)
 
     sonuc = []
     for kod in kodlar:
         veri = []
-        for fontip in ("EMK", "YAT"):  # BES fonları EMK; olmazsa yatırım fonu dene
-            try:
-                r = _istek("POST", url, tries=2, backoff=3,
-                           headers=headers, timeout=45,
-                           cookies=oturum.cookies.get_dict(),
-                           data={"fontip": fontip, "fonkod": kod,
-                                 "bastarih": d1, "bittarih": d2})
-                veri = (r.json() or {}).get("data") or []
-                if veri:
-                    break
-            except Exception as e:
-                log.warning("TEFAS %s (%s): %s", kod, fontip, e)
+        try:
+            r = _istek("POST", url, tries=2, backoff=3, headers=headers, timeout=45,
+                       json={"fonKodu": kod, "dil": "TR", "periyod": 3})
+            veri = (r.json() or {}).get("resultList") or []
+        except Exception as e:
+            log.warning("TEFAS %s: %s", kod, e)
         if not veri:
             sonuc.append({"kod": kod, "ad": "Veri alınamadı", "fiyat": None,
                           "pct_1g": None, "pct_7g": None, "pct_30g": None})
             continue
 
-        veri.sort(key=lambda x: x.get("TARIH", 0))
-        fiyatlar = [float(v["FIYAT"]) for v in veri if v.get("FIYAT")]
+        veri.sort(key=lambda x: _tefas_tarih_key(x.get("tarih")))
+        fiyatlar = []
+        for v in veri:
+            try:
+                f = float(str(v.get("fiyat")).replace(",", "."))
+            except (TypeError, ValueError):
+                continue
+            if f > 0:
+                fiyatlar.append(f)
 
         def pct(gun):
             if len(fiyatlar) <= gun:
@@ -601,7 +614,7 @@ def fetch_tefas(kodlar):
 
         sonuc.append({
             "kod": kod,
-            "ad": veri[-1].get("FONUNVAN", kod),
+            "ad": veri[-1].get("fonUnvan") or kod,
             "fiyat": fiyatlar[-1] if fiyatlar else None,
             "pct_1g": pct(1), "pct_7g": pct(5), "pct_30g": pct(21),
         })
@@ -850,10 +863,7 @@ def _mover_tablo(baslik, yukselen, dusen):
 
 def render_html(ctx):
     now = ctx["zaman"]
-    aylar = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz",
-             "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"]
-    gunler = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
-    tarih = f"{now.day} {aylar[now.month-1]} {now.year}, {gunler[now.weekday()]}"
+    tarih = f"{now.day} {AYLAR[now.month-1]} {now.year}, {GUNLER[now.weekday()]}"
 
     p = [HEAD.format(baslik=esc(CONFIG["site"]["baslik"]), tarih=esc(tarih),
                      aciklama=esc(CONFIG["site"]["aciklama"]), css=CSS)]
@@ -989,10 +999,48 @@ def render_html(ctx):
     p.append(f"""<footer>
 Kaynaklar: KAP, TEFAS, Yahoo Finance ve RSS haber akışları. Bu sayfa otomatik derlenir;
 veriler gecikmeli veya eksik olabilir. İçerik bilgilendirme amaçlıdır, <b>yatırım tavsiyesi değildir</b>.
-<br>Borsa Günlüğü · GitHub Actions ile günde iki kez güncellenir.
+<br>Borsa Günlüğü · GitHub Actions ile gün boyu güncellenir. · <a href="arsiv/"><b>Geçmiş bültenler →</b></a>
 </footer></div></body></html>""")
 
     return "".join(p)
+
+
+# ----------------------------------------------------------------- arşiv
+
+def arsiv_guncelle(html, bgun):
+    """Bülten gününün kopyasını docs/arsiv/ altına yazar ve dizin sayfasını
+    yeniden kurar. Her tur üzerine yazdığı için dosya, günün en son yayımlanan
+    hâlini taşır — kapanış turu kaçsa bile arşiv boş kalmaz."""
+    ad = ROOT / "docs" / "arsiv"
+    ad.mkdir(parents=True, exist_ok=True)
+
+    # kopyada footer'daki arşiv bağlantısı kendi dizinini göstersin
+    (ad / f"{bgun}.html").write_text(
+        html.replace('href="arsiv/"', 'href="./"'), encoding="utf-8")
+
+    satirlar = []
+    for f in sorted(ad.glob("*.html"), reverse=True):
+        try:
+            d = datetime.strptime(f.stem, "%Y-%m-%d")
+        except ValueError:
+            continue  # index.html vb.
+        etiket = f"{d.day} {AYLAR[d.month-1]} {d.year}, {GUNLER[d.weekday()]}"
+        satirlar.append(f'<li><a class="b" href="{f.name}">{esc(etiket)}</a></li>')
+
+    p = [HEAD.format(baslik=esc(CONFIG["site"]["baslik"]), tarih="Arşiv",
+                     aciklama="Geçmiş bültenler", css=CSS)]
+    p.append(f"""<header><div class="wrap mast">
+<div><h1>{esc(CONFIG["site"]["baslik"])}</h1>
+<small>Geçmiş bültenler · her gün, günün son yayımlanan hâliyle saklanır</small></div>
+<div class="stamp">Arşiv</div>
+</div></header>
+<div class="wrap"><main style="grid-template-columns:1fr">
+<section><h2>Geçmiş Bültenler <span class="say">{len(satirlar)}</span></h2>
+<ul class="ml">{"".join(satirlar)}</ul>
+<p class="altlik"><a href="../"><b>← Bugünün bültenine dön</b></a></p>
+</section></main></div></body></html>""")
+    (ad / "index.html").write_text("".join(p), encoding="utf-8")
+    log.info("Arşiv güncellendi: docs/arsiv/%s.html (%d gün)", bgun, len(satirlar))
 
 
 # ----------------------------------------------------------------- mock
@@ -1207,8 +1255,11 @@ def main():
 
     out = ROOT / "docs" / "index.html"
     out.parent.mkdir(exist_ok=True)
-    out.write_text(render_html(ctx), encoding="utf-8")
+    html = render_html(ctx)
+    out.write_text(html, encoding="utf-8")
     log.info("Yazıldı: %s", out)
+
+    arsiv_guncelle(html, bgun)
 
     # kapanış turunda o günün kalıcı arşivini de bırak
     if kapanis:
