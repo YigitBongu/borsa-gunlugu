@@ -687,6 +687,12 @@ BES FONLARI:
         try:
             r = requests.post(url, timeout=60, json=govde)
             if r.status_code == 429:
+                # Kotanın hangi limitten dolduğunu görmek için gövdeyi logla
+                try:
+                    detay = r.json().get("error", {}).get("message", "")[:300]
+                except Exception:
+                    detay = r.text[:300]
+                log.warning("Gemini 429 — detay: %s", detay)
                 bekle = 15 * (deneme + 1)
                 log.warning("Gemini 429 (kota), %ds bekleniyor…", bekle)
                 time.sleep(bekle)
