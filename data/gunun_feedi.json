@@ -28,7 +28,20 @@
    "eklenme": "2026-07-14T09:29:01.404929+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/suca-suruklenen-cocuklar-duzenlemesi-15-18-yas-grubuna-muebbet-yolu-aciliyor-haberi-832152",
+   "baslik": "'Suça sürüklenen çocuklar' düzenlemesi: 15-18 yaş grubuna müebbet yolu açılıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/suca-suruklenen-cocuklar-duzenlemesi-15-18-yas-grubuna-muebbet-yolu-aciliyor-haberi-832152",
+   "saat": "10:19",
+   "tarih_iso": "2026-07-14T10:19:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-07-14T10:27:46.603704+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-artiracak-mi-piyasalarda-beklenti-hizla-degisiyor-haberi-832147",
@@ -82,6 +95,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-drop-as-hormuz-blockade-triggers-oil-spike-rate-fears-4789723",
+   "baslik": "European shares drop as Hormuz blockade triggers oil spike, rate fears",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-drop-as-hormuz-blockade-triggers-oil-spike-rate-fears-4789723",
+   "saat": "10:10",
+   "tarih_iso": "2026-07-14T10:10:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:27:46.603704+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/robert-walters-says-h1-met-forecasts-as-june-net-fees-return-to-growth-in-q2-4789780",
+   "baslik": "Robert Walters says H1 met forecasts as June net fees return to growth in Q2",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/robert-walters-says-h1-met-forecasts-as-june-net-fees-return-to-growth-in-q2-4789780",
+   "saat": "10:10",
+   "tarih_iso": "2026-07-14T10:10:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:27:46.603704+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-075-4789776",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.75%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-075-4789776",
+   "saat": "10:05",
+   "tarih_iso": "2026-07-14T10:05:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:27:46.603704+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
+   "baslik": "Oil hits $85 as battle for Strait of Hormuz alarms energy markets",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
+   "saat": "09:58",
+   "tarih_iso": "2026-07-14T09:58:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:27:46.603704+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bernstein-names-top-china-semiconductor-stock-for-ai-server-growth-93CH-4789772",
+   "baslik": "Bernstein Names Top China Semiconductor Stock for AI Server Growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bernstein-names-top-china-semiconductor-stock-for-ai-server-growth-93CH-4789772",
+   "saat": "09:55",
+   "tarih_iso": "2026-07-14T09:55:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:27:46.603704+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/nexam-chemical-reports-record-q2-sales-returns-to-profit-93CH-4789758",
    "baslik": "Nexam Chemical reports record Q2 sales, returns to profit",
@@ -345,6 +408,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/sharp-correction-bring-profit-booking-opportunity-in-gold-and-silver-200683865",
+   "baslik": "Sharp Correction Bring Profit Booking Opportunity in Gold and Silver",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/sharp-correction-bring-profit-booking-opportunity-in-gold-and-silver-200683865",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:27:46.603704+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-awaits-us-cpi-as-inflation-expectations-drive-real-yield-positioning-200683867",
    "baslik": "Gold Awaits US CPI as Inflation Expectations Drive Real Yield Positioning",
    "kaynak": "Investing Emtia",
@@ -475,5 +548,5 @@
    "eklenme": "2026-07-14T09:29:01.404929+03:00"
   }
  ],
- "guncelleme": "2026-07-14T10:01:37.111308+03:00"
+ "guncelleme": "2026-07-14T10:27:46.603704+03:00"
 }
