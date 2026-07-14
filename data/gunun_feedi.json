@@ -398,6 +398,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-082-4791876",
+   "baslik": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.82%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-082-4791876",
+   "saat": "00:30",
+   "tarih_iso": "2026-07-15T00:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T01:01:35.365900+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-039-4791869",
    "baslik": "Colombia stocks lower at close of trade; COLCAP down 0.39%",
    "kaynak": "Investing.com",
@@ -1586,16 +1596,6 @@
    "tarih_iso": "2026-07-14T17:17:33+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T17:31:25.913730+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/agenus-stock-doubles-biotech-narrows-141700519.html",
-   "baslik": "Agenus stock doubles as biotech narrows Phase 3 bet",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/agenus-stock-doubles-biotech-narrows-141700519.html",
-   "saat": "17:17",
-   "tarih_iso": "2026-07-14T17:17:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T17:45:53.644900+03:00"
   }
  ],
  "altin_haber": [
@@ -1930,5 +1930,5 @@
    "eklenme": "2026-07-14T09:29:01.404929+03:00"
   }
  ],
- "guncelleme": "2026-07-15T00:31:34.836795+03:00"
+ "guncelleme": "2026-07-15T01:01:35.365900+03:00"
 }
