@@ -43,6 +43,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-14-temmuz-2026/3997770",
+   "baslik": "60 saniyede ekonomide bugün (14 Temmuz 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-14-temmuz-2026/3997770",
+   "saat": "15:58",
+   "tarih_iso": "2026-07-14T15:58:50+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-hazirlik-maci-lask-linz-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-832201",
    "baslik": "FENERBAHÇE HAZIRLIK MAÇI: LASK Linz - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
    "kaynak": "Dünya",
@@ -101,6 +113,16 @@
    "tarih_iso": "2026-07-14T19:12:35+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T16:31:30.423536+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-baskani-warshtan-faiz-mesaji-enflasyona-tolerans-gostermeyecegiz-haberi-832217",
+   "baslik": "Fed Başkanı Warsh'tan faiz mesajı: Enflasyona tolerans göstermeyeceğiz",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-baskani-warshtan-faiz-mesaji-enflasyona-tolerans-gostermeyecegiz-haberi-832217",
+   "saat": "16:55",
+   "tarih_iso": "2026-07-14T16:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-tarihte-aciklanacak-fed-faiz-dusurecek-mi-haberi-832215",
@@ -315,6 +337,106 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/07/14/earnings-season-plays-profit-expectations-are-growing-for-these-stocks.html",
+   "baslik": "Earnings season plays: Profit expectations are growing for these stocks while their valuations get cheaper",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/14/earnings-season-plays-profit-expectations-are-growing-for-these-stocks.html",
+   "saat": "17:25",
+   "tarih_iso": "2026-07-14T17:25:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
+   "baslik": "Watch Fed Chairman Kevin Warsh testify live to House Financial Services committee",
+   "kaynak": "CNBC Finans",
+   "link": "https://www.cnbc.com/2026/07/14/watch-fed-chairman-kevin-warsh-testify-live-to-house-financial-services-committee.html",
+   "saat": "17:25",
+   "tarih_iso": "2026-07-14T17:25:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/danaher-stock-may-move-49-on-july-21-earnings-report-93CH-4791180",
+   "baslik": "Danaher stock may move 4.9% on July 21 earnings report",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/danaher-stock-may-move-49-on-july-21-earnings-report-93CH-4791180",
+   "saat": "17:17",
+   "tarih_iso": "2026-07-14T17:17:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/alibaba-stock-picking-steam-overdue-141325443.html",
+   "baslik": "Alibaba Stock Is Picking Up Steam: Is It Overdue for a Big Rally?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/alibaba-stock-picking-steam-overdue-141325443.html",
+   "saat": "17:13",
+   "tarih_iso": "2026-07-14T17:13:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/northrop-grumman-stock-may-move-48-on-earnings-release-93CH-4791166",
+   "baslik": "Northrop Grumman stock may move 4.8% on earnings release",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/northrop-grumman-stock-may-move-48-on-earnings-release-93CH-4791166",
+   "saat": "17:12",
+   "tarih_iso": "2026-07-14T17:12:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/general-motors-stock-may-move-57-on-july-21-earnings-93CH-4791161",
+   "baslik": "General Motors stock may move 5.7% on July 21 earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/general-motors-stock-may-move-57-on-july-21-earnings-93CH-4791161",
+   "saat": "17:10",
+   "tarih_iso": "2026-07-14T17:10:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jp-morgan-just-upgraded-stock-140922432.html",
+   "baslik": "⁠JP Morgan Just Upgraded The Stock It Thinks Is Most Shielded From Geopolitical Crises",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jp-morgan-just-upgraded-stock-140922432.html",
+   "saat": "17:09",
+   "tarih_iso": "2026-07-14T17:09:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/69-americans-want-ai-giants-140000819.html",
+   "baslik": "69% of Americans want AI giants like OpenAI and Anthropic to give up half their stock to a public wealth fund",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/69-americans-want-ai-giants-140000819.html",
+   "saat": "17:00",
+   "tarih_iso": "2026-07-14T17:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/market-recognize-true-potential-elevance-135555182.html",
+   "baslik": "Will the Market Recognize the True Potential of Elevance Health (ELV)?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/market-recognize-true-potential-elevance-135555182.html",
+   "saat": "16:55",
+   "tarih_iso": "2026-07-14T16:55:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/apple-stock-downgraded-to-sell-keybanc/?src=A00220&yptr=yahoo",
+   "baslik": "Apple Stock Downgraded To Sell. Here's Why.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/apple-stock-downgraded-to-sell-keybanc/?src=A00220&yptr=yahoo",
+   "saat": "16:50",
+   "tarih_iso": "2026-07-14T16:50:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/economy/policy/articles/kevin-warsh-may-just-caught-134934798.html",
    "baslik": "Kevin Warsh May Have Just Caught a Massive Break as Inflation Suddenly Cools",
    "kaynak": "Yahoo Finance",
@@ -373,6 +495,16 @@
    "tarih_iso": "2026-07-14T16:42:38+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T17:01:40.329285+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/software-stocks-pummeled-amid-ibms-q2-earnings-miss/?src=A00220&yptr=yahoo",
+   "baslik": "Software Stocks, IT Services Firms Pummeled Amid IBM's Q2 Earnings Miss",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/software-stocks-pummeled-amid-ibms-q2-earnings-miss/?src=A00220&yptr=yahoo",
+   "saat": "16:41",
+   "tarih_iso": "2026-07-14T16:41:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/does-intercontinental-exchange-ice-long-133732184.html",
@@ -815,6 +947,16 @@
    "eklenme": "2026-07-14T17:01:40.329285+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/bank-of-america-ceo-brian-moynihan-on-the-us-economy-more-durable-than-expected-114802659.html",
+   "baslik": "Bank of America CEO Brian Moynihan on the US economy: 'More durable than expected'",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/bank-of-america-ceo-brian-moynihan-on-the-us-economy-more-durable-than-expected-114802659.html",
+   "saat": "14:48",
+   "tarih_iso": "2026-07-14T14:48:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/much-higher-p-500-climb-114700183.html",
    "baslik": "How Much Higher Can the S&P 500 Climb From Here? Wall Street Analysts Share a Resounding Answer.",
    "kaynak": "Yahoo Finance",
@@ -843,6 +985,16 @@
    "tarih_iso": "2026-07-14T14:42:35+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T15:01:39.000042+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/ibm-stock-crashes-after-major-warning----heres-what-wall-street-is-doing-next-114235587.html",
+   "baslik": "IBM stock crashes after major warning -- here's what Wall Street is doing next",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/ibm-stock-crashes-after-major-warning----heres-what-wall-street-is-doing-next-114235587.html",
+   "saat": "14:42",
+   "tarih_iso": "2026-07-14T14:42:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T17:31:25.913730+03:00"
   },
   {
    "id": "yab-https://www.investors.com/news/technology/ibm-stock-q2-2026-results/?src=A00220&yptr=yahoo",
@@ -1383,136 +1535,6 @@
    "tarih_iso": "2026-07-14T12:51:16+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T13:01:36.847993+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/2-reasons-why-higher-oil-094851925.html",
-   "baslik": "2 Reasons Why Higher Oil Prices Are Good for Banks and 1 Reason They Are a Problem",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/2-reasons-why-higher-oil-094851925.html",
-   "saat": "12:48",
-   "tarih_iso": "2026-07-14T12:48:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T13:16:53.615037+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/where-walmart-stock-5-years-093700854.html",
-   "baslik": "Where Will Walmart Stock Be in 5 Years?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/where-walmart-stock-5-years-093700854.html",
-   "saat": "12:37",
-   "tarih_iso": "2026-07-14T12:37:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T13:01:36.847993+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-peab-stock-surging-today-93CH-4790082",
-   "baslik": "Why is Peab stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-peab-stock-surging-today-93CH-4790082",
-   "saat": "12:33",
-   "tarih_iso": "2026-07-14T12:33:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T12:53:48.877010+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-mixed-ahead-of-cpi-bank-earnings-usiran-tensions-in-focus-4790080",
-   "baslik": "Wall St futures mixed ahead of CPI, bank earnings; US-Iran tensions in focus",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-mixed-ahead-of-cpi-bank-earnings-usiran-tensions-in-focus-4790080",
-   "saat": "12:30",
-   "tarih_iso": "2026-07-14T12:30:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T12:53:48.877010+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/salzgitter-stock-leaps-as-jefferies-raises-to-buy-on-eu-safeguards-tailwinds-4790079",
-   "baslik": "Salzgitter stock leaps as Jefferies raises to Buy on EU safeguards tailwinds",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/salzgitter-stock-leaps-as-jefferies-raises-to-buy-on-eu-safeguards-tailwinds-4790079",
-   "saat": "12:30",
-   "tarih_iso": "2026-07-14T12:30:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T12:53:48.877010+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/china-cuts-saudi-crude-orders-093000618.html",
-   "baslik": "China Cuts Saudi Crude Orders as Hormuz Risks and Discounts Reshape Trade",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/china-cuts-saudi-crude-orders-093000618.html",
-   "saat": "12:30",
-   "tarih_iso": "2026-07-14T12:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T14:01:34.132749+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e",
-   "baslik": "Wall Street to report bumper quarter as dealmaking returns",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e",
-   "saat": "12:29",
-   "tarih_iso": "2026-07-14T12:29:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T12:53:48.877010+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-obrascon-huarte-lain-stock-sliding-today-93CH-4790076",
-   "baslik": "Why is Obrascon Huarte Lain stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-obrascon-huarte-lain-stock-sliding-today-93CH-4790076",
-   "saat": "12:29",
-   "tarih_iso": "2026-07-14T12:29:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T12:31:29.191490+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/earnings-inflation-iran-tensions-set-092821188.html",
-   "baslik": "Earnings, Inflation and Iran Tensions Set the Tone for US Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/earnings-inflation-iran-tensions-set-092821188.html",
-   "saat": "12:28",
-   "tarih_iso": "2026-07-14T12:28:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T13:01:36.847993+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/could-mercadolibre-stock-once-decade-092800901.html",
-   "baslik": "Could MercadoLibre Stock Be a Once-in-a-Decade Buying Opportunity?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/could-mercadolibre-stock-once-decade-092800901.html",
-   "saat": "12:28",
-   "tarih_iso": "2026-07-14T12:28:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T12:53:48.877010+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-salzgitter-stock-surging-today-93CH-4790073",
-   "baslik": "Why is Salzgitter stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-salzgitter-stock-surging-today-93CH-4790073",
-   "saat": "12:26",
-   "tarih_iso": "2026-07-14T12:26:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T12:31:29.191490+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/analysisinside-south-koreas-worldbeating-bear-market-4789669",
-   "baslik": "Analysis-Inside South Korea’s world-beating bear market",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/analysisinside-south-koreas-worldbeating-bear-market-4789669",
-   "saat": "12:25",
-   "tarih_iso": "2026-07-14T12:25:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T12:31:29.191490+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ai-giant-climbed-900-over-092500920.html",
-   "baslik": "This AI Giant Has Climbed 900% Over the Past Five Years. Now Wall Street Expects the Stock to Jump Another 40%.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ai-giant-climbed-900-over-092500920.html",
-   "saat": "12:25",
-   "tarih_iso": "2026-07-14T12:25:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T12:53:48.877010+03:00"
   }
  ],
  "altin_haber": [
@@ -1787,5 +1809,5 @@
    "eklenme": "2026-07-14T09:29:01.404929+03:00"
   }
  ],
- "guncelleme": "2026-07-14T17:01:40.329285+03:00"
+ "guncelleme": "2026-07-14T17:31:25.913730+03:00"
 }
