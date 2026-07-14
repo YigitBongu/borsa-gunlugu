@@ -31,6 +31,16 @@
  "sirket": [],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-artiracak-mi-piyasalarda-beklenti-hizla-degisiyor-haberi-832147",
+   "baslik": "Fed faiz artıracak mı? Piyasalarda beklenti hızla değişiyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-faiz-artiracak-mi-piyasalarda-beklenti-hizla-degisiyor-haberi-832147",
+   "saat": "09:35",
+   "tarih_iso": "2026-07-14T09:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:01:37.111308+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/astrazeneca-cinden-akciger-kanseri-ilac-icin-600-milyon-dolar-odedi-93CH-3978083",
    "baslik": "AstraZeneca Çin’den akciğer kanseri ilacı için 600 milyon dolar ödedi",
    "kaynak": "Investing TR",
@@ -72,6 +82,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nexam-chemical-reports-record-q2-sales-returns-to-profit-93CH-4789758",
+   "baslik": "Nexam Chemical reports record Q2 sales, returns to profit",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nexam-chemical-reports-record-q2-sales-returns-to-profit-93CH-4789758",
+   "saat": "09:43",
+   "tarih_iso": "2026-07-14T09:43:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:01:37.111308+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/humble-group-q2-sales-edge-up-as-impairments-weigh-on-profit-93CH-4789754",
+   "baslik": "Humble Group Q2 sales edge up as impairments weigh on profit",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/humble-group-q2-sales-edge-up-as-impairments-weigh-on-profit-93CH-4789754",
+   "saat": "09:42",
+   "tarih_iso": "2026-07-14T09:42:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:01:37.111308+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-unchanged-4789744",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 unchanged",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-unchanged-4789744",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-14T09:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:01:37.111308+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
    "baslik": "Oil extends gains as Mideast tensions and Hormuz toll prospects raise supply worries",
@@ -305,6 +345,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-awaits-us-cpi-as-inflation-expectations-drive-real-yield-positioning-200683867",
+   "baslik": "Gold Awaits US CPI as Inflation Expectations Drive Real Yield Positioning",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-awaits-us-cpi-as-inflation-expectations-drive-real-yield-positioning-200683867",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:01:37.111308+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/sirketler/onyargilardan-teknolojik-devrime-uzanan-bir-basari-hikayesi-haberi-832145",
+   "baslik": "Önyargılardan teknolojik devrime uzanan bir başarı hikayesi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/onyargilardan-teknolojik-devrime-uzanan-bir-basari-hikayesi-haberi-832145",
+   "saat": "09:47",
+   "tarih_iso": "2026-07-14T09:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-14T10:01:37.111308+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-failed-war-rally-shows-rates-still-matter-more-than-safe-havens-200683847",
    "baslik": "Gold’s Failed War Rally Shows Rates Still Matter More Than Safe Havens",
    "kaynak": "Investing Emtia",
@@ -415,5 +475,5 @@
    "eklenme": "2026-07-14T09:29:01.404929+03:00"
   }
  ],
- "guncelleme": "2026-07-14T09:29:01.404929+03:00"
+ "guncelleme": "2026-07-14T10:01:37.111308+03:00"
 }
