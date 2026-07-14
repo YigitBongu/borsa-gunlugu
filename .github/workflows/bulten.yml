@@ -11,6 +11,11 @@ on:
 permissions:
   contents: write
 
+# Aynı anda tek çalıştırma: sık tetikleme nedeniyle turların üst üste binmesini önler
+concurrency:
+  group: bulten
+  cancel-in-progress: false
+
 jobs:
   bulten:
     runs-on: ubuntu-latest
@@ -36,5 +41,12 @@ jobs:
           git config user.name "borsa-gunlugu-bot"
           git config user.email "actions@github.com"
           git add docs/ data/
-          git diff --cached --quiet || git commit -m "Bülten: $(date -u +'%Y-%m-%d %H:%M') UTC"
-          git push
+          git diff --cached --quiet && echo "Değişiklik yok" && exit 0
+          git commit -m "Bülten: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          # Sık tetikleme nedeniyle iki çalıştırma çakışabilir: rebase ile yeniden dene
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && exit 0
+            echo "Push çakıştı, yeniden deneniyor ($i/3)…"
+            sleep 5
+          done
+          echo "Push 3 denemede başarısız" && exit 1
