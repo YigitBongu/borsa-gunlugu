@@ -7,7 +7,7 @@ BIST şirket haberleri, KAP bildirimleri, günün yükselen/düşen hisseleri, a
 Her hafta içi **08:45** (sabah baskısı) ve **18:45** (akşam baskısı) TSİ'de:
 
 1. **KAP** — BIST 100 şirketlerinin son bildirimlerini çeker; sözleşme, borçlanma, yatırım, temettü, geri alım gibi kategorilere ayırır.
-2. **RSS** — Bloomberg HT, Dünya, AA Ekonomi, Investing TR, BigPara akışlarını tarar; BIST 100 şirketleriyle eşleşen haberleri ve makro haberleri ayıklar.
+2. **RSS** — Bloomberg HT, Dünya, AA Ekonomi, Investing TR, NTV, Habertürk ve CNN Türk akışlarını tarar; BIST 100 şirketleriyle eşleşen haberleri ve makro haberleri ayıklar.
 3. **Fiyatlar** — Yahoo Finance'ten BIST 100/30 hisselerini çekip günün en çok yükselen/düşen 5'er hissesini çıkarır.
 4. **Altın** — ons + USD/TRY'den gram altını hesaplar; 1 gün / 1 hafta / 1 ay değişimini gösterir.
 5. **TEFAS** — BES fonlarının (varsayılan: GEL, GHA) fiyat ve getirilerini çeker.
