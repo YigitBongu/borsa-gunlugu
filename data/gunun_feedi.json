@@ -156,6 +156,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/altn-tufe-sonras-rallinin-ardndan-sabit-warsh-iyimserligi-krd-3979838",
+   "baslik": "Altın TÜFE sonrası rallinin ardından sabit, Warsh iyimserliği kırdı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-tufe-sonras-rallinin-ardndan-sabit-warsh-iyimserligi-krd-3979838",
+   "saat": "04:33",
+   "tarih_iso": "2026-07-15T04:33:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T05:31:29.198041+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/abd-vadeli-islemleri-faiz-endiselerinin-azalmas-ve-guclu-kazanclarla-yukseldi-iran-saldrlar-suruyor-3979832",
    "baslik": "ABD vadeli işlemleri faiz endişelerinin azalması ve güçlü kazançlarla yükseldi; İran saldırıları sürüyor",
    "kaynak": "Investing TR",
@@ -407,6 +417,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+   "baslik": "China economic growth falls sharply, missing target",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+   "saat": "05:22",
+   "tarih_iso": "2026-07-15T05:22:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T05:31:29.198041+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
+   "baslik": "China posts slowest GDP growth since 2022 at 4.3%, missing expectations",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html",
+   "saat": "05:21",
+   "tarih_iso": "2026-07-15T05:21:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T05:31:29.198041+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab",
+   "baslik": "China reports 4.3% per cent GDP growth in second quarter",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab",
+   "saat": "05:09",
+   "tarih_iso": "2026-07-15T05:09:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T05:31:29.198041+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/gold-steadies-after-cpiled-rally-as-warsh-tempers-fed-rate-cut-optimism-4792087",
    "baslik": "Gold steadies after CPI-led rally as Warsh tempers Fed rate cut optimism",
@@ -1576,36 +1616,6 @@
    "tarih_iso": "2026-07-14T17:45:44+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T18:31:29.296268+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/5-stocks-most-impacted-jpmorgan-144334823.html",
-   "baslik": "5 Stocks Most Impacted by JPMorgan’s Earnings",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-most-impacted-jpmorgan-144334823.html",
-   "saat": "17:43",
-   "tarih_iso": "2026-07-14T17:43:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T18:01:39.574610+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/articles/5-bank-earnings-may-just-144048796.html",
-   "baslik": "These 5 Bank Earnings May Have Just Crushed the Bear Case for the U.S. Economy",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/articles/5-bank-earnings-may-just-144048796.html",
-   "saat": "17:40",
-   "tarih_iso": "2026-07-14T17:40:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T18:01:39.574610+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nebius-coreweave-investors-scared-metas-144000270.html",
-   "baslik": "Should Nebius and CoreWeave Investors Be Scared by Meta's Latest Plans?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-coreweave-investors-scared-metas-144000270.html",
-   "saat": "17:40",
-   "tarih_iso": "2026-07-14T17:40:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T18:01:39.574610+03:00"
   }
  ],
  "altin_haber": [
@@ -1618,6 +1628,16 @@
    "tarih_iso": "2026-07-15T04:33:32+03:00",
    "kodlar": [],
    "eklenme": "2026-07-15T05:01:36.138827+03:00"
+  },
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/altn-tufe-sonras-rallinin-ardndan-sabit-warsh-iyimserligi-krd-3979838",
+   "baslik": "Altın TÜFE sonrası rallinin ardından sabit, Warsh iyimserliği kırdı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-tufe-sonras-rallinin-ardndan-sabit-warsh-iyimserligi-krd-3979838",
+   "saat": "04:33",
+   "tarih_iso": "2026-07-15T04:33:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T05:31:29.198041+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-faces-a-historic-midterm-volatility-window-into-november-2026-200683923",
@@ -1950,5 +1970,5 @@
    "eklenme": "2026-07-14T09:29:01.404929+03:00"
   }
  ],
- "guncelleme": "2026-07-15T05:01:36.138827+03:00"
+ "guncelleme": "2026-07-15T05:31:29.198041+03:00"
 }
