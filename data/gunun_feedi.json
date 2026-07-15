@@ -44,6 +44,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/handelsbankenin-2c-kar-faiz-gelirindeki-dususle-5-azald-3979945",
+   "baslik": "Handelsbanken’in 2Ç karı faiz gelirindeki düşüşle %5 azaldı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/handelsbankenin-2c-kar-faiz-gelirindeki-dususle-5-azald-3979945",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-15T09:30:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T10:01:39.902143+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-15-temmuz-carsamba-doviz-kurlari-haberi-832272",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (15 Temmuz Çarşamba Döviz Kurları)",
    "kaynak": "Dünya",
@@ -115,6 +125,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Thames Water returns to profit after raising bills",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
+   "saat": "09:47",
+   "tarih_iso": "2026-07-15T09:47:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T10:01:39.902143+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/handelsbanken-q2-profit-falls-5-as-lower-interest-income-weighs-4792219",
+   "baslik": "Handelsbanken Q2 profit falls 5% as lower interest income weighs",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/handelsbanken-q2-profit-falls-5-as-lower-interest-income-weighs-4792219",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-15T09:30:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T10:01:39.902143+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-037-4792218",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.37%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-037-4792218",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-15T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T10:01:39.902143+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-142-4792185",
    "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.42%",
@@ -428,6 +468,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-enters-buy-zone-as-vc-pmi-and-cycle-dates-point-to-bullish-reversal-200683935",
+   "baslik": "Gold Enters Buy Zone as VC PMI and Cycle Dates Point to Bullish Reversal",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-enters-buy-zone-as-vc-pmi-and-cycle-dates-point-to-bullish-reversal-200683935",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-15T10:01:39.902143+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-faces-a-historic-midterm-volatility-window-into-november-2026-200683923",
    "baslik": "Gold Faces a Historic Midterm Volatility Window Into November 2026",
    "kaynak": "Investing Emtia",
@@ -518,5 +568,5 @@
    "eklenme": "2026-07-15T09:01:42.631620+03:00"
   }
  ],
- "guncelleme": "2026-07-15T09:31:32.041627+03:00"
+ "guncelleme": "2026-07-15T10:01:39.902143+03:00"
 }
