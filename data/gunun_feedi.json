@@ -156,6 +156,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/abd-vadeli-islemleri-faiz-endiselerinin-azalmas-ve-guclu-kazanclarla-yukseldi-iran-saldrlar-suruyor-3979832",
+   "baslik": "ABD vadeli işlemleri faiz endişelerinin azalması ve güçlü kazançlarla yükseldi; İran saldırıları sürüyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/abd-vadeli-islemleri-faiz-endiselerinin-azalmas-ve-guclu-kazanclarla-yukseldi-iran-saldrlar-suruyor-3979832",
+   "saat": "03:39",
+   "tarih_iso": "2026-07-15T03:39:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T04:01:37.005303+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/abdde-enflasyon-beklentilerin-altinda-kaldi-aylik-bazda-2020den-bu-yana-ilk-dusus-3442527",
    "baslik": "ABD'de enflasyon beklentilerin altında kaldı! Aylık bazda 2020'den bu yana ilk düşüş",
    "kaynak": "CNN Türk Ekonomi",
@@ -397,6 +407,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+   "baslik": "SK Hynix South Korean shares jump 11% as Asia tech stocks rally",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/15/sk-hynix-asia-tech-stocks-rally-.html",
+   "saat": "03:53",
+   "tarih_iso": "2026-07-15T03:53:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T04:01:37.005303+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-futures-rise-on-cooling-rate-fears-strong-earnings-iran-strikes-continue-4792073",
+   "baslik": "US futures rise on cooling rate fears, strong earnings; Iran strikes continue",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-futures-rise-on-cooling-rate-fears-strong-earnings-iran-strikes-continue-4792073",
+   "saat": "03:39",
+   "tarih_iso": "2026-07-15T03:39:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T04:01:37.005303+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/exclusiveai-cloud-company-coreweave-explores-wall-street-playbook-to-hedge-memorychip-price-risk-4792033",
    "baslik": "Exclusive-AI cloud company CoreWeave explores Wall Street playbook to hedge memory-chip price risk",
@@ -1576,26 +1606,6 @@
    "tarih_iso": "2026-07-14T17:37:08+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T18:01:39.574610+03:00"
-  },
-  {
-   "id": "yab-https://www.barrons.com/livecoverage/wells-fargo-bank-of-america-goldman-sachs-jpmorgan-chase-citigroup-bank-earnings/card/goldman-shares-eye-a-record-close-following-blowout-earnings-18jj08V1i28dTsiS3oDN?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Goldman Shares Eye Record Close Following Blowout Earnings",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.barrons.com/livecoverage/wells-fargo-bank-of-america-goldman-sachs-jpmorgan-chase-citigroup-bank-earnings/card/goldman-shares-eye-a-record-close-following-blowout-earnings-18jj08V1i28dTsiS3oDN?siteid=yhoof2&yptr=yahoo",
-   "saat": "17:36",
-   "tarih_iso": "2026-07-14T17:36:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T18:01:39.574610+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/ai-driven-rise-power-bills-143500109.html",
-   "baslik": "The AI-Driven Rise in Power Bills Are Causing a $25 Billion Problem for Utility Stocks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/ai-driven-rise-power-bills-143500109.html",
-   "saat": "17:35",
-   "tarih_iso": "2026-07-14T17:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T18:01:39.574610+03:00"
   }
  ],
  "altin_haber": [
@@ -1930,5 +1940,5 @@
    "eklenme": "2026-07-14T09:29:01.404929+03:00"
   }
  ],
- "guncelleme": "2026-07-15T03:31:22.827325+03:00"
+ "guncelleme": "2026-07-15T04:01:37.005303+03:00"
 }
