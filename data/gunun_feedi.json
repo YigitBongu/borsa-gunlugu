@@ -292,6 +292,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf",
+   "baslik": "Oil traders warn market is close to running on empty as Hormuz shuts again",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf",
+   "saat": "22:49",
+   "tarih_iso": "2026-07-15T22:49:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T23:01:35.044658+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/wall-street-banks-enjoy-record-windfalls-from-prime-brokerage-business-4794096",
    "baslik": "Wall Street banks enjoy record windfalls from prime brokerage business",
    "kaynak": "Investing.com",
@@ -1480,16 +1490,6 @@
    "tarih_iso": "2026-07-15T16:46:27+03:00",
    "kodlar": [],
    "eklenme": "2026-07-15T17:31:34.213446+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/uwm-holdings-uwmc-stock-room-134625028.html",
-   "baslik": "UWM Holdings (UWMC) Stock Has Room To Run Due To Cheap Valuation",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/uwm-holdings-uwmc-stock-room-134625028.html",
-   "saat": "16:46",
-   "tarih_iso": "2026-07-15T16:46:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-15T17:31:34.213446+03:00"
   }
  ],
  "altin_haber": [
@@ -1734,5 +1734,5 @@
    "eklenme": "2026-07-15T09:01:42.631620+03:00"
   }
  ],
- "guncelleme": "2026-07-15T22:43:36.679028+03:00"
+ "guncelleme": "2026-07-15T23:01:35.044658+03:00"
 }
