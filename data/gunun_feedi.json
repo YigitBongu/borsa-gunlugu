@@ -156,6 +156,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-dolar-sinavina-hazirlaniyor-galeri-832265",
+   "baslik": "Altın 4 bin dolar sınavına hazırlanıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-dolar-sinavina-hazirlaniyor-galeri-832265",
+   "saat": "05:51",
+   "tarih_iso": "2026-07-15T05:51:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T06:31:31.887922+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/altn-tufe-sonras-rallinin-ardndan-sabit-warsh-iyimserligi-krd-3979838",
    "baslik": "Altın TÜFE sonrası rallinin ardından sabit, Warsh iyimserliği kırdı",
    "kaynak": "Investing TR",
@@ -426,6 +436,16 @@
    "tarih_iso": "2026-07-15T05:58:47+03:00",
    "kodlar": [],
    "eklenme": "2026-07-15T06:01:35.203896+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-softbank-stock-sliding-today-93CH-4792129",
+   "baslik": "Why is SoftBank stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-sliding-today-93CH-4792129",
+   "saat": "05:56",
+   "tarih_iso": "2026-07-15T05:56:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T06:31:31.887922+03:00"
   },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
@@ -1606,19 +1626,19 @@
    "tarih_iso": "2026-07-14T17:51:57+03:00",
    "kodlar": [],
    "eklenme": "2026-07-14T18:31:29.296268+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/14/chamath-palihapitiya-ai-tokenmaxxing.html",
-   "baslik": "Chamath Palihapitiya says soaring AI token spend will hit companies' earnings",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/14/chamath-palihapitiya-ai-tokenmaxxing.html",
-   "saat": "17:47",
-   "tarih_iso": "2026-07-14T17:47:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-14T18:01:39.574610+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-dolar-sinavina-hazirlaniyor-galeri-832265",
+   "baslik": "Altın 4 bin dolar sınavına hazırlanıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-dolar-sinavina-hazirlaniyor-galeri-832265",
+   "saat": "05:51",
+   "tarih_iso": "2026-07-15T05:51:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-15T06:31:31.887922+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/news/stock-market-news/gold-steadies-after-cpiled-rally-as-warsh-tempers-fed-rate-cut-optimism-4792087",
    "baslik": "Gold steadies after CPI-led rally as Warsh tempers Fed rate cut optimism",
@@ -1970,5 +1990,5 @@
    "eklenme": "2026-07-14T09:29:01.404929+03:00"
   }
  ],
- "guncelleme": "2026-07-15T06:01:35.203896+03:00"
+ "guncelleme": "2026-07-15T06:31:31.887922+03:00"
 }
