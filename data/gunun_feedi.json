@@ -2,6 +2,32 @@
  "tarih": "2026-07-16",
  "kap": [
   {
+   "id": "kap-my-AKSA-202607161555",
+   "baslik": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş.",
+   "kodlar": [
+    "AKSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:55",
+   "tarih_iso": "2026-07-16T15:55:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
+   "id": "kap-my-KCAER-202607161547",
+   "baslik": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "KCAER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:47",
+   "tarih_iso": "2026-07-16T15:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
    "id": "kap-my-AKBNK-202607161434",
    "baslik": "AKBANK T.A.Ş. — Kredi Derecelendirmesi",
    "sirket": "AKBANK T.A.Ş.",
@@ -56,6 +82,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/son-dakika-ahbap-sorusturmasinda-gelisme-6-kisi-icin-tutuklama-talebi-haberi-832496",
+   "baslik": "Son dakika: AHBAP soruşturmasında gelişme: 6 kişi için tutuklama talebi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/son-dakika-ahbap-sorusturmasinda-gelisme-6-kisi-icin-tutuklama-talebi-haberi-832496",
+   "saat": "16:18",
+   "tarih_iso": "2026-07-16T16:18:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/thy-ucuz-bilet-kampanyasi-temmuz-2026-thy-yurt-ici-ucuz-bilet-fiyatlari-ne-kadar-thy-ucuz-bilet-kampanyasi-hangi-tarihlerde-3441801",
    "baslik": "THY UCUZ BİLET KAMPANYASI TEMMUZ 2026: THY Yurt İçi Ucuz Bilet Fiyatları Ne Kadar? THY Ucuz Bilet Kampanyası Hangi Tarihlerde, Nerelerde Geçerli?",
    "kaynak": "CNN Türk Ekonomi",
@@ -102,6 +140,16 @@
    "tarih_iso": "2026-07-16T15:18:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-16T15:31:25.900015+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ab-nin-dis-ticaret-acigi-mayista-12-milyar-euro-yu-asti-3898940-ekonomi",
+   "baslik": "AB'nin dış ticaret açığı mayısta 12 Milyar Euro'yu aştı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ab-nin-dis-ticaret-acigi-mayista-12-milyar-euro-yu-asti-3898940-ekonomi",
+   "saat": "15:10",
+   "tarih_iso": "2026-07-16T15:10:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomik-veriler/tcmb-rezervleri-1633-milyar-dolara-yukseldi-haberi-832487",
@@ -375,6 +423,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/attractive-growth-profile-positions-astrazeneca-131424612.html",
+   "baslik": "Attractive Growth Profile Positions AstraZeneca PLC (AZN) as an Investment Bet",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/attractive-growth-profile-positions-astrazeneca-131424612.html",
+   "saat": "16:14",
+   "tarih_iso": "2026-07-16T16:14:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/real-estate/articles/prologis-ups-earnings-outlook-amid-131303848.html",
+   "baslik": "Prologis ups earnings outlook amid record lease signings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/real-estate/articles/prologis-ups-earnings-outlook-amid-131303848.html",
+   "saat": "16:13",
+   "tarih_iso": "2026-07-16T16:13:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-manpowergroup-stock-surging-today-93CH-4795927",
+   "baslik": "Why is ManpowerGroup stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-manpowergroup-stock-surging-today-93CH-4795927",
+   "saat": "16:12",
+   "tarih_iso": "2026-07-16T16:12:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/atlas-energy-solutions-vs-california-130901595.html",
+   "baslik": "Atlas Energy Solutions vs. California Resources: Which U.S. Energy Stock Is a Better Buy in 2026?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/atlas-energy-solutions-vs-california-130901595.html",
+   "saat": "16:09",
+   "tarih_iso": "2026-07-16T16:09:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wipro-q1-earnings-call-highlights-130254230.html",
+   "baslik": "Wipro Q1 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wipro-q1-earnings-call-highlights-130254230.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-07-16T16:02:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-q2-earnings-call-130253995.html",
+   "baslik": "GE Aerospace Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-q2-earnings-call-130253995.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-07-16T16:02:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/karooooo-q1-earnings-call-highlights-130253710.html",
+   "baslik": "Karooooo Q1 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/karooooo-q1-earnings-call-highlights-130253710.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-07-16T16:02:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/abbott-stock-abbott-laboratories-earnings-q2-2026/?src=A00220&yptr=yahoo",
+   "baslik": "Abbott Bounds Higher After Hiking 2026 Profit View On Second-Quarter Beat",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/abbott-stock-abbott-laboratories-earnings-q2-2026/?src=A00220&yptr=yahoo",
+   "saat": "15:55",
+   "tarih_iso": "2026-07-16T15:55:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/oil-prices-rise-4th-day-004246621.html",
+   "baslik": "Oil rises over 1% as Iran threat puts Red Sea route at risk",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-4th-day-004246621.html",
+   "saat": "15:50",
+   "tarih_iso": "2026-07-16T15:50:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
    "baslik": "Jim Cramer's top 10 things to watch in the stock market Thursday",
@@ -736,6 +874,16 @@
    "eklenme": "2026-07-16T14:59:06.263556+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/article/tsmc-raises-capex-and-revenue-forecast-highlighting-growing-ai-chip-demand-113101950.html",
+   "baslik": "TSMC raises capex and revenue forecast, highlighting growing AI chip demand",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/tsmc-raises-capex-and-revenue-forecast-highlighting-growing-ai-chip-demand-113101950.html",
+   "saat": "14:31",
+   "tarih_iso": "2026-07-16T14:31:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
    "baslik": "SpaceX’s Starship is set for takeoff — and its floundering stock could use the lift",
    "kaynak": "MarketWatch",
@@ -854,6 +1002,16 @@
    "tarih_iso": "2026-07-16T13:36:15+03:00",
    "kodlar": [],
    "eklenme": "2026-07-16T14:01:34.718086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-103116735.html",
+   "baslik": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as chip stocks slide after TSMC earnings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-16-dow-sp-500-nasdaq-103116735.html",
+   "saat": "13:31",
+   "tarih_iso": "2026-07-16T13:31:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T16:31:27.578295+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/digi-spain-debuts-on-spanish-market-7-above-ipo-price-93CH-4795152",
@@ -1464,116 +1622,6 @@
    "tarih_iso": "2026-07-16T01:20:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-16T09:01:32.434724+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/this-powerful-stock-market-momentum-trade-has-hit-a-wall-after-seeing-biggest-unwind-since-2001-52ad4151?mod=mw_rss_topstories",
-   "baslik": "This powerful stock-market momentum trade has hit a wall after seeing biggest unwind since 2001",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-powerful-stock-market-momentum-trade-has-hit-a-wall-after-seeing-biggest-unwind-since-2001-52ad4151?mod=mw_rss_topstories",
-   "saat": "01:10",
-   "tarih_iso": "2026-07-16T01:10:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T09:01:32.434724+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-   "baslik": "Fed Chairman Kevin Warsh's testimony to Senate banking committee hits on economy, interest rates",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/15/watch-fed-chairman-kevin-warsh-testify-live-before-senate-banking-committee.html",
-   "saat": "01:05",
-   "tarih_iso": "2026-07-16T01:05:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T09:01:32.434724+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html",
-   "baslik": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html",
-   "saat": "00:53",
-   "tarih_iso": "2026-07-16T00:53:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T09:01:32.434724+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
-   "baslik": "United earnings top estimates but airline expects $6 billion in added fuel costs",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
-   "saat": "00:00",
-   "tarih_iso": "2026-07-16T00:00:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T09:01:32.434724+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
-   "baslik": "SpaceX stock sinks below $135 IPO price for the first time",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html",
-   "saat": "23:20",
-   "tarih_iso": "2026-07-15T23:20:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T09:01:32.434724+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-   "baslik": "SpaceX share price drops below stock market debut",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-   "saat": "21:11",
-   "tarih_iso": "2026-07-15T21:11:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T09:01:32.434724+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
-   "baslik": "New York Fed President Williams says inflation has peaked, rates 'well positioned'",
-   "kaynak": "CNBC Finans",
-   "link": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html",
-   "saat": "20:31",
-   "tarih_iso": "2026-07-15T20:31:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T09:01:32.434724+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
-   "baslik": "Anthropic moves closer to mega-IPO as bankers line up investor meetings",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html",
-   "saat": "20:22",
-   "tarih_iso": "2026-07-15T20:22:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T09:01:32.434724+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/15/historic-ibm-stock-crash-sets-up-unique-options-strategy.html",
-   "baslik": "Historic IBM stock crash sets up unique options strategy",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/15/historic-ibm-stock-crash-sets-up-unique-options-strategy.html",
-   "saat": "20:17",
-   "tarih_iso": "2026-07-15T20:17:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T09:01:32.434724+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
-   "baslik": "Warren Buffett on the market today: 'It's tough to find values when everybody is preferring gambling'",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html",
-   "saat": "18:08",
-   "tarih_iso": "2026-07-15T18:08:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T09:01:32.434724+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/15/dtcc-wall-streets-post-trade-powerhouse-tests-tokenized-markets-with-industry-heavy-hitters.html",
-   "baslik": "DTCC, Wall Street’s post-trade powerhouse, tests tokenized markets with industry heavy hitters",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/15/dtcc-wall-streets-post-trade-powerhouse-tests-tokenized-markets-with-industry-heavy-hitters.html",
-   "saat": "17:49",
-   "tarih_iso": "2026-07-15T17:49:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T09:01:32.434724+03:00"
   }
  ],
  "altin_haber": [
@@ -1728,5 +1776,5 @@
    "eklenme": "2026-07-16T09:01:32.434724+03:00"
   }
  ],
- "guncelleme": "2026-07-16T16:01:30.755479+03:00"
+ "guncelleme": "2026-07-16T16:31:27.578295+03:00"
 }
