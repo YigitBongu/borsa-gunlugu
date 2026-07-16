@@ -2,6 +2,19 @@
  "tarih": "2026-07-16",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202607161857",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "18:57",
+   "tarih_iso": "2026-07-16T18:57:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-17T00:01:12.955120+03:00"
+  },
+  {
    "id": "kap-my-ENJSA-202607161831",
    "baslik": "BORSA İSTANBUL A.Ş. — Likidite Sağlayıcı Atanması",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -258,6 +271,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/merkez-bankasi-faiz-toplantisi-ne-zaman-tcmb-faiz-toplantisi-hangi-tarihte-saat-kacta-yapilacak-3443494",
+   "baslik": "Merkez Bankası faiz toplantısı ne zaman? TCMB faiz toplantısı hangi tarihte, saat kaçta yapılacak?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/merkez-bankasi-faiz-toplantisi-ne-zaman-tcmb-faiz-toplantisi-hangi-tarihte-saat-kacta-yapilacak-3443494",
+   "saat": "00:24",
+   "tarih_iso": "2026-07-17T00:24:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T00:01:12.955120+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/piyasalarda-gun-sonu-16-temmuz-2026-persembe-borsa-istanbul-dolar-altin-ve-kripto-paralarda-son-durum-fai-3898989-ekonomi",
    "baslik": "Piyasalarda gün sonu: 16 Temmuz 2026 Perşembe Borsa İstanbul, dolar, altın ve kripto paralarda son durum",
@@ -590,6 +613,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
+   "baslik": "Netflix is getting stingier about its viewing data, and Wall Street isn’t happy",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
+   "saat": "23:49",
+   "tarih_iso": "2026-07-16T23:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T00:01:12.955120+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/afterhours-stock-movers-nflx-isrg-ko-aa-rgnx-432SI-4796898",
+   "baslik": "After-Hours Stock Movers: NFLX, ISRG, KO, AA, RGNX",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/afterhours-stock-movers-nflx-isrg-ko-aa-rgnx-432SI-4796898",
+   "saat": "23:45",
+   "tarih_iso": "2026-07-16T23:45:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T00:01:12.955120+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-u-s-stock-market-is-looking-like-a-rubber-band-ready-to-snap-ccf8e590?mod=mw_rss_topstories",
+   "baslik": "The U.S. stock market is looking like a rubber band ready to snap",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-looking-like-a-rubber-band-ready-to-snap-ccf8e590?mod=mw_rss_topstories",
+   "saat": "23:42",
+   "tarih_iso": "2026-07-16T23:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T00:01:12.955120+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-020-4796824",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.20%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-020-4796824",
+   "saat": "23:31",
+   "tarih_iso": "2026-07-16T23:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T00:01:12.955120+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-021-4796823",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.21%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-021-4796823",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-16T23:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T00:01:12.955120+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/regenxbio-stock-tumbles-on-100m-public-offering-plan-93CH-4796822",
+   "baslik": "REGENXBIO stock tumbles on $100M public offering plan",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/regenxbio-stock-tumbles-on-100m-public-offering-plan-93CH-4796822",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-16T23:30:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T00:01:12.955120+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/2c5151d9-738f-4808-bbd0-15aaf48d922e?syn-25a6b1a6=1",
+   "baslik": "Netflix’s shares slide on disappointing growth forecasts",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/2c5151d9-738f-4808-bbd0-15aaf48d922e?syn-25a6b1a6=1",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-16T23:30:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T00:01:12.955120+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/netflix-thirdquarter-earnings-forecast-falls-shy-of-wall-street-expectations-4796687",
    "baslik": "Netflix third-quarter earnings forecast falls shy of Wall Street expectations",
@@ -1719,79 +1812,19 @@
    "tarih_iso": "2026-07-16T17:02:45+03:00",
    "kodlar": [],
    "eklenme": "2026-07-16T17:06:28.553203+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
-   "baslik": "Analysis: Fed Chairman Warsh faces an inflation credibility test after Congress hearings",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/15/fed-chairman-kevin-warsh-inflation-credibility-test-analysis.html",
-   "saat": "16:59",
-   "tarih_iso": "2026-07-16T16:59:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T17:01:36.939544+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html",
-   "baslik": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html",
-   "saat": "16:56",
-   "tarih_iso": "2026-07-16T16:56:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T18:54:31.579177+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/honeywell-international-inc-hon-one-135002063.html",
-   "baslik": "Is Honeywell International Inc. (HON) One of the Best Dividend Stocks to Invest In According to Jim Simons’ Renaissance Technologies?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-international-inc-hon-one-135002063.html",
-   "saat": "16:50",
-   "tarih_iso": "2026-07-16T16:50:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T17:31:25.989943+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/small-business/articles/copper-kings-gets-backing-fmcg-134655120.html",
-   "baslik": "Copper & Kings gets backing from FMCG investor",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/small-business/articles/copper-kings-gets-backing-fmcg-134655120.html",
-   "saat": "16:46",
-   "tarih_iso": "2026-07-16T16:46:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T17:01:36.939544+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/amlp-vs-mlpx-midstream-energy-134633869.html",
-   "baslik": "AMLP vs. MLPX: Which Midstream Energy ETF Pays You Better and Spares You the K-1?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/amlp-vs-mlpx-midstream-energy-134633869.html",
-   "saat": "16:46",
-   "tarih_iso": "2026-07-16T16:46:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T17:06:28.553203+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/market-cap-tokenized-stocks-reaches-134500454.html",
-   "baslik": "Market Cap Of Tokenized Stocks Reaches $2.3 Billion",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/market-cap-tokenized-stocks-reaches-134500454.html",
-   "saat": "16:45",
-   "tarih_iso": "2026-07-16T16:45:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T17:31:25.989943+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/tesla-robotaxi-cybercab-elon-musk-model-y-electric-vehicles-texas/?src=A00220&yptr=yahoo",
-   "baslik": "Tesla Stock: Here's What Retail Investors Want To Know Ahead Of Earnings",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/tesla-robotaxi-cybercab-elon-musk-model-y-electric-vehicles-texas/?src=A00220&yptr=yahoo",
-   "saat": "16:43",
-   "tarih_iso": "2026-07-16T16:43:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T17:06:28.553203+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/the-real-yield-riddle-why-gold-doesnt-care-about-19-anymore-200684084",
+   "baslik": "The Real Yield Riddle: Why Gold Doesn’t Care About 1.9% Anymore",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/the-real-yield-riddle-why-gold-doesnt-care-about-19-anymore-200684084",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-17T00:01:12.955120+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/gozler-altinda-yukselis-mi-dusus-mu-3443480",
    "baslik": "Gözler altında: Yükseliş mi, düşüş mü?",
@@ -2083,5 +2116,5 @@
    "eklenme": "2026-07-16T09:01:32.434724+03:00"
   }
  ],
- "guncelleme": "2026-07-16T23:31:06.353850+03:00"
+ "guncelleme": "2026-07-17T00:01:12.955120+03:00"
 }
