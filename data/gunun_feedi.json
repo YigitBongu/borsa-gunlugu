@@ -2,6 +2,19 @@
  "tarih": "2026-07-16",
  "kap": [
   {
+   "id": "kap-my-AKBNK-202607161434",
+   "baslik": "AKBANK T.A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "AKBANK T.A.Ş.",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "14:34",
+   "tarih_iso": "2026-07-16T14:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-16T14:59:06.263556+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202607161350",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -80,6 +93,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-tarihte-belli-olacak-fed-faiz-indirecek-mi-haberi-832485",
+   "baslik": "Fed faiz kararı ne zaman, hangi tarihte belli olacak? Fed faiz indirecek mi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-tarihte-belli-olacak-fed-faiz-indirecek-mi-haberi-832485",
+   "saat": "14:39",
+   "tarih_iso": "2026-07-16T14:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:59:06.263556+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/avrasya-tuneli-ekonomiye-26-milyar-dolar-katki-sagladi-haberi-832483",
    "baslik": "Avrasya Tüneli ekonomiye 2,6 milyar dolar katkı sağladı",
@@ -323,6 +346,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/the-stock-market-has-a-magnificent-seven-problem-but-not-the-one-bears-are-warning-about-574d9dc7?mod=mw_rss_topstories",
+   "baslik": "The stock market has a ‘Magnificent Seven’ problem — but not the one bears are warning about",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-stock-market-has-a-magnificent-seven-problem-but-not-the-one-bears-are-warning-about-574d9dc7?mod=mw_rss_topstories",
+   "saat": "14:50",
+   "tarih_iso": "2026-07-16T14:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:59:06.263556+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ge-aerospace-stock-dipping-today-93CH-4795589",
+   "baslik": "Why is GE Aerospace stock dipping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ge-aerospace-stock-dipping-today-93CH-4795589",
+   "saat": "14:45",
+   "tarih_iso": "2026-07-16T14:45:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:59:06.263556+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/aerovironment-stock-rises-on-raymond-james-upgrade-93CH-4795584",
+   "baslik": "AeroVironment stock rises on Raymond James upgrade",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/aerovironment-stock-rises-on-raymond-james-upgrade-93CH-4795584",
+   "saat": "14:43",
+   "tarih_iso": "2026-07-16T14:43:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:59:06.263556+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-us-bancorp-stock-sliding-today-93CH-4795564",
+   "baslik": "Why is U.S. Bancorp stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-us-bancorp-stock-sliding-today-93CH-4795564",
+   "saat": "14:40",
+   "tarih_iso": "2026-07-16T14:40:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:59:06.263556+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-abb-stock-sliding-today-93CH-4795563",
+   "baslik": "Why is ABB stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-abb-stock-sliding-today-93CH-4795563",
+   "saat": "14:39",
+   "tarih_iso": "2026-07-16T14:39:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:59:06.263556+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/knorr-bremse-rises-as-jpm-puts-stock-on-positive-catalyst-watch-into-q2-results-4795560",
+   "baslik": "Knorr Bremse rises as JPM puts stock on positive catalyst watch into Q2 results",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/knorr-bremse-rises-as-jpm-puts-stock-on-positive-catalyst-watch-into-q2-results-4795560",
+   "saat": "14:38",
+   "tarih_iso": "2026-07-16T14:38:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:59:06.263556+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/quantum-cyber-stock-jumps-4-on-2-million-purchase-orders-93CH-4795550",
+   "baslik": "Quantum Cyber stock jumps 4% on $2 million purchase orders",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/quantum-cyber-stock-jumps-4-on-2-million-purchase-orders-93CH-4795550",
+   "saat": "14:37",
+   "tarih_iso": "2026-07-16T14:37:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:59:06.263556+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/vee-powercats-stock-jumps-28-on-usfm-merger-agreement-93CH-4795543",
+   "baslik": "Vee PowerCats stock jumps 28% on USFM merger agreement",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/vee-powercats-stock-jumps-28-on-usfm-merger-agreement-93CH-4795543",
+   "saat": "14:35",
+   "tarih_iso": "2026-07-16T14:35:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:59:06.263556+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
    "baslik": "SpaceX’s Starship is set for takeoff — and its floundering stock could use the lift",
    "kaynak": "MarketWatch",
@@ -391,6 +494,16 @@
    "tarih_iso": "2026-07-16T13:54:59+03:00",
    "kodlar": [],
    "eklenme": "2026-07-16T14:01:34.718086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/research/reports/ARGUS_47629_MarketSummary_1784199278000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "baslik": "Market Digest: IBM, PNC, ASML, BLK",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/research/reports/ARGUS_47629_MarketSummary_1784199278000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "saat": "13:54",
+   "tarih_iso": "2026-07-16T13:54:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:59:06.263556+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/jp-morgan-puts-jcdecaux-on-positive-catalyst-watch-on-earnings-upside-4795294",
@@ -1265,5 +1378,5 @@
    "eklenme": "2026-07-16T09:01:32.434724+03:00"
   }
  ],
- "guncelleme": "2026-07-16T14:31:31.133481+03:00"
+ "guncelleme": "2026-07-16T14:59:06.263556+03:00"
 }
