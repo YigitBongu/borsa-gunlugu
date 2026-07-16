@@ -80,6 +80,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/haberler/guney-korede-35-yil-sonra-faiz-artti-haberi-832405",
+   "baslik": "Güney Kore’de 3,5 yıl sonra faiz arttı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/guney-korede-35-yil-sonra-faiz-artti-haberi-832405",
+   "saat": "06:24",
+   "tarih_iso": "2026-07-16T06:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T07:01:46.993688+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-faiz-artrm-endiselerinin-azalmasyla-sakin-seyrediyor-3981778",
    "baslik": "ABD hisse senedi vadeli işlemleri faiz artırımı endişelerinin azalmasıyla sakin seyrediyor",
    "kaynak": "Investing TR",
@@ -361,6 +371,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bhp-stock-sliding-today-93CH-4794623",
+   "baslik": "Why is BHP stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bhp-stock-sliding-today-93CH-4794623",
+   "saat": "06:34",
+   "tarih_iso": "2026-07-16T06:34:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T07:01:46.993688+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-s-korea-chip-stocks-tumble-tsmc-earnings-in-focus-4794618",
    "baslik": "Asia stocks slide as S. Korea chip stocks tumble; TSMC earnings in focus",
@@ -1550,16 +1570,6 @@
    "tarih_iso": "2026-07-15T17:56:27+03:00",
    "kodlar": [],
    "eklenme": "2026-07-15T18:24:17.599609+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-010-4793800",
-   "baslik": "Norway stocks lower at close of trade; Oslo OBX down 0.10%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-010-4793800",
-   "saat": "17:55",
-   "tarih_iso": "2026-07-15T17:55:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-15T18:01:40.265324+03:00"
   }
  ],
  "altin_haber": [
@@ -1814,5 +1824,5 @@
    "eklenme": "2026-07-15T09:01:42.631620+03:00"
   }
  ],
- "guncelleme": "2026-07-16T06:31:25.192875+03:00"
+ "guncelleme": "2026-07-16T07:01:46.993688+03:00"
 }
