@@ -2,6 +2,32 @@
  "tarih": "2026-07-16",
  "kap": [
   {
+   "id": "kap-my-VESTL-202607161649",
+   "baslik": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "VESTL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:49",
+   "tarih_iso": "2026-07-16T16:49:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
+  },
+  {
+   "id": "kap-my-VESBE-202607161648",
+   "baslik": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "VESBE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:48",
+   "tarih_iso": "2026-07-16T16:48:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
+  },
+  {
    "id": "kap-my-AKSA-202607161555",
    "baslik": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
    "sirket": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş.",
@@ -446,6 +472,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/07/16/best-stock-market-trades-small-caps.html",
+   "baslik": "'Not a junk rally:' How to trade the strongest small-cap stock market in three decades",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/16/best-stock-market-trades-small-caps.html",
+   "saat": "17:20",
+   "tarih_iso": "2026-07-16T17:20:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-ai-bubble-140700915.html",
+   "baslik": "Jim Cramer says AI bubble fears miss the market’s real risk",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-ai-bubble-140700915.html",
+   "saat": "17:07",
+   "tarih_iso": "2026-07-16T17:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-eli-lilly-140601056.html",
+   "baslik": "Johnson & Johnson vs. Eli Lilly and: Which Pharma Giant Stock Is a Better Buy in 2026?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-eli-lilly-140601056.html",
+   "saat": "17:06",
+   "tarih_iso": "2026-07-16T17:06:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/u-bancorp-q2-earnings-call-140533988.html",
+   "baslik": "U.S. Bancorp Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/u-bancorp-q2-earnings-call-140533988.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-07-16T17:05:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cogeco-q3-earnings-call-highlights-140533853.html",
+   "baslik": "Cogeco Q3 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cogeco-q3-earnings-call-highlights-140533853.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-07-16T17:05:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/investors-concerns-regulatory-changes-hurt-140528680.html",
+   "baslik": "Investors’ Concerns About Regulatory Changes Hurt Intercontinental Exchange (ICE)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-concerns-regulatory-changes-hurt-140528680.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-07-16T17:05:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/16/mike-rounds-senate-banking-warsh-interest-rates.html",
    "baslik": "Banking Committee's Sen. Rounds liked Warsh's 'tone' in first testimony as Fed chairman",
    "kaynak": "CNBC",
@@ -466,6 +552,16 @@
    "eklenme": "2026-07-16T17:01:36.939544+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/honeywell-international-inc-hon-one-135002063.html",
+   "baslik": "Is Honeywell International Inc. (HON) One of the Best Dividend Stocks to Invest In According to Jim Simons’ Renaissance Technologies?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-international-inc-hon-one-135002063.html",
+   "saat": "16:50",
+   "tarih_iso": "2026-07-16T16:50:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/small-business/articles/copper-kings-gets-backing-fmcg-134655120.html",
    "baslik": "Copper & Kings gets backing from FMCG investor",
    "kaynak": "Yahoo Finance",
@@ -484,6 +580,16 @@
    "tarih_iso": "2026-07-16T16:46:33+03:00",
    "kodlar": [],
    "eklenme": "2026-07-16T17:06:28.553203+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/market-cap-tokenized-stocks-reaches-134500454.html",
+   "baslik": "Market Cap Of Tokenized Stocks Reaches $2.3 Billion",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/market-cap-tokenized-stocks-reaches-134500454.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-07-16T16:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
   },
   {
    "id": "yab-https://www.investors.com/news/tesla-robotaxi-cybercab-elon-musk-model-y-electric-vehicles-texas/?src=A00220&yptr=yahoo",
@@ -1176,6 +1282,16 @@
    "eklenme": "2026-07-16T14:31:31.133481+03:00"
   },
   {
+   "id": "yab-https://www.cnbc.com/2026/07/16/the-best-energy-stocks-right-now-as-two-major-conflicts-keep-oil-prices-elevated.html",
+   "baslik": "The best energy stocks right now as two major conflicts keep oil prices elevated",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/16/the-best-energy-stocks-right-now-as-two-major-conflicts-keep-oil-prices-elevated.html",
+   "saat": "14:24",
+   "tarih_iso": "2026-07-16T14:24:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/citizens-financials-quarterly-profit-jumps-on-interest-income-fees-boost-4795486",
    "baslik": "Citizens Financial’s quarterly profit jumps on interest income, fees boost",
    "kaynak": "Investing.com",
@@ -1554,96 +1670,6 @@
    "tarih_iso": "2026-07-16T11:37:12+03:00",
    "kodlar": [],
    "eklenme": "2026-07-16T12:01:35.630461+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-084-4794866",
-   "baslik": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.84%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-084-4794866",
-   "saat": "11:30",
-   "tarih_iso": "2026-07-16T11:30:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T12:01:35.630461+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
-   "baslik": "TSMC to invest additional $100 billion in Arizona after second-quarter profit soars 77%",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html",
-   "saat": "11:24",
-   "tarih_iso": "2026-07-16T11:24:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T17:06:28.553203+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-partners-group-stock-sliding-today-93CH-4794855",
-   "baslik": "Why is Partners Group stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-partners-group-stock-sliding-today-93CH-4794855",
-   "saat": "11:24",
-   "tarih_iso": "2026-07-16T11:24:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T11:31:29.731408+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-stock-sliding-today-93CH-4794844",
-   "baslik": "Why is Taiwan Semiconductor stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-stock-sliding-today-93CH-4794844",
-   "saat": "11:15",
-   "tarih_iso": "2026-07-16T11:15:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T11:31:29.731408+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-united-airlines-stock-sliding-today-93CH-4794843",
-   "baslik": "Why is United Airlines stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-united-airlines-stock-sliding-today-93CH-4794843",
-   "saat": "11:15",
-   "tarih_iso": "2026-07-16T11:15:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T11:31:29.731408+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-totalenergies-stock-sliding-today-93CH-4794839",
-   "baslik": "Why is TotalEnergies stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-totalenergies-stock-sliding-today-93CH-4794839",
-   "saat": "11:12",
-   "tarih_iso": "2026-07-16T11:12:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T11:31:29.731408+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-crest-nicholson-stock-sliding-today-93CH-4794837",
-   "baslik": "Why is Crest Nicholson stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-crest-nicholson-stock-sliding-today-93CH-4794837",
-   "saat": "11:12",
-   "tarih_iso": "2026-07-16T11:12:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T11:31:29.731408+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-experian-stock-sliding-today-93CH-4794836",
-   "baslik": "Why is Experian stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-experian-stock-sliding-today-93CH-4794836",
-   "saat": "11:12",
-   "tarih_iso": "2026-07-16T11:12:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T11:31:29.731408+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/foxtons-group-shares-drop-15-on-lower-profit-outlook-93CH-4794829",
-   "baslik": "Foxtons Group shares drop 15% on lower profit outlook",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/foxtons-group-shares-drop-15-on-lower-profit-outlook-93CH-4794829",
-   "saat": "11:05",
-   "tarih_iso": "2026-07-16T11:05:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T11:31:29.731408+03:00"
   }
  ],
  "altin_haber": [
@@ -1656,6 +1682,26 @@
    "tarih_iso": "2026-07-16T19:41:13+03:00",
    "kodlar": [],
    "eklenme": "2026-07-16T17:01:36.939544+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-remains-indecisive-on-the-hourly-chart-as-the-latest-6-candles-deceive-200684062",
+   "baslik": "Gold Remains Indecisive on the Hourly Chart as the Latest 6 Candles Deceive",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-remains-indecisive-on-the-hourly-chart-as-the-latest-6-candles-deceive-200684062",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
+  },
+  {
+   "id": "alt-https://finance.yahoo.com/markets/commodities/articles/scott-bessent-says-1-trump-140500542.html",
+   "baslik": "Scott Bessent says new $1 Trump coin embodies the 'legacy of liberty' — but is it fool's gold? How to cash in now",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/scott-bessent-says-1-trump-140500542.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-07-16T17:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T17:31:25.989943+03:00"
   },
   {
    "id": "alt-https://finance.yahoo.com/markets/stocks/articles/mongolia-copper-gold-project-progress-133425921.html",
@@ -1818,5 +1864,5 @@
    "eklenme": "2026-07-16T09:01:32.434724+03:00"
   }
  ],
- "guncelleme": "2026-07-16T17:06:28.553203+03:00"
+ "guncelleme": "2026-07-16T17:31:25.989943+03:00"
 }
