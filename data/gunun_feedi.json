@@ -29,6 +29,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/cdp-equity-angelini-pharmada-1-milyar-euroya-yuzde-235-hisse-ald-93CH-3982071",
+   "baslik": "CDP Equity, Angelini Pharma’da 1 milyar euro’ya yüzde 23,5 hisse aldı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/cdp-equity-angelini-pharmada-1-milyar-euroya-yuzde-235-hisse-ald-93CH-3982071",
+   "saat": "11:24",
+   "tarih_iso": "2026-07-16T11:24:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T11:31:29.731408+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/butce-gelirleri-haziranda-1-trilyon-509-6-milyar-lira-giderleri-1-trilyon-395-5-milyar-lira-olarak-hesaplandi/4000010",
+   "baslik": "Bütçe gelirleri haziranda 1 trilyon 509,6 milyar lira, giderleri 1 trilyon 395,5 milyar lira olarak hesaplandı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/butce-gelirleri-haziranda-1-trilyon-509-6-milyar-lira-giderleri-1-trilyon-395-5-milyar-lira-olarak-hesaplandi/4000010",
+   "saat": "11:16",
+   "tarih_iso": "2026-07-16T11:16:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T11:31:29.731408+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tarim-ufe-haziranda-aylik-bazda-yuzde-9-02-azaldi/3999862",
    "baslik": "Tarım ÜFE haziranda aylık bazda yüzde 9,02 azaldı",
    "kaynak": "AA Ekonomi",
@@ -130,6 +150,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-partners-group-stock-sliding-today-93CH-4794855",
+   "baslik": "Why is Partners Group stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-partners-group-stock-sliding-today-93CH-4794855",
+   "saat": "11:24",
+   "tarih_iso": "2026-07-16T11:24:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T11:31:29.731408+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-stock-sliding-today-93CH-4794844",
+   "baslik": "Why is Taiwan Semiconductor stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-taiwan-semiconductor-stock-sliding-today-93CH-4794844",
+   "saat": "11:15",
+   "tarih_iso": "2026-07-16T11:15:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T11:31:29.731408+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-united-airlines-stock-sliding-today-93CH-4794843",
+   "baslik": "Why is United Airlines stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-united-airlines-stock-sliding-today-93CH-4794843",
+   "saat": "11:15",
+   "tarih_iso": "2026-07-16T11:15:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T11:31:29.731408+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-totalenergies-stock-sliding-today-93CH-4794839",
+   "baslik": "Why is TotalEnergies stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-totalenergies-stock-sliding-today-93CH-4794839",
+   "saat": "11:12",
+   "tarih_iso": "2026-07-16T11:12:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T11:31:29.731408+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-crest-nicholson-stock-sliding-today-93CH-4794837",
+   "baslik": "Why is Crest Nicholson stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-crest-nicholson-stock-sliding-today-93CH-4794837",
+   "saat": "11:12",
+   "tarih_iso": "2026-07-16T11:12:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T11:31:29.731408+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-experian-stock-sliding-today-93CH-4794836",
+   "baslik": "Why is Experian stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-experian-stock-sliding-today-93CH-4794836",
+   "saat": "11:12",
+   "tarih_iso": "2026-07-16T11:12:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T11:31:29.731408+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/foxtons-group-shares-drop-15-on-lower-profit-outlook-93CH-4794829",
+   "baslik": "Foxtons Group shares drop 15% on lower profit outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/foxtons-group-shares-drop-15-on-lower-profit-outlook-93CH-4794829",
+   "saat": "11:05",
+   "tarih_iso": "2026-07-16T11:05:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T11:31:29.731408+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-delivery-hero-stock-slipping-today-93CH-4794828",
+   "baslik": "Why is Delivery Hero stock slipping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-delivery-hero-stock-slipping-today-93CH-4794828",
+   "saat": "11:05",
+   "tarih_iso": "2026-07-16T11:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T11:31:29.731408+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/16/fii-buy-india-bonds-sell-nifty.html",
    "baslik": "Foreign investors sweeten on Indian bonds as equities see a sell-off",
@@ -533,6 +633,16 @@
    "eklenme": "2026-07-16T10:31:34.620167+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-tests-key-support-as-geopolitical-risks-complicate-fed-outlook-200684028",
+   "baslik": "Gold Tests Key Support as Geopolitical Risks Complicate Fed Outlook",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-tests-key-support-as-geopolitical-risks-complicate-fed-outlook-200684028",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-16T11:31:29.731408+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/sirketler/guvenle-insa-edilen-35-yillik-yol-haberi-832145",
    "baslik": "Güvenle inşa edilen 35 yıllık yol",
    "kaynak": "Dünya",
@@ -633,5 +743,5 @@
    "eklenme": "2026-07-16T09:01:32.434724+03:00"
   }
  ],
- "guncelleme": "2026-07-16T11:04:52.617295+03:00"
+ "guncelleme": "2026-07-16T11:31:29.731408+03:00"
 }
