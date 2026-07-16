@@ -1,6 +1,20 @@
 {
  "tarih": "2026-07-16",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-MAVI-202607161335",
+   "baslik": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "MAVI"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:35",
+   "tarih_iso": "2026-07-16T13:35:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-16T14:01:34.718086+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/thy-ucuz-bilet-kampanyasi-temmuz-2026-thy-yurt-ici-ucuz-bilet-fiyatlari-ne-kadar-thy-ucuz-bilet-kampanyasi-hangi-tarihlerde-3441801",
@@ -262,6 +276,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/reddit-stock-rises-on-jefferies-call-for-second-quarter-upside-93CH-4795314",
+   "baslik": "Reddit stock rises on Jefferies call for second quarter upside",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/reddit-stock-rises-on-jefferies-call-for-second-quarter-upside-93CH-4795314",
+   "saat": "13:56",
+   "tarih_iso": "2026-07-16T13:56:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:01:34.718086+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/unitedhealth-raises-2026-forecast-as-it-controls-medical-costs-4795148",
+   "baslik": "UnitedHealth raises 2026 profit forecast on tighter control on medical costs",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/unitedhealth-raises-2026-forecast-as-it-controls-medical-costs-4795148",
+   "saat": "13:54",
+   "tarih_iso": "2026-07-16T13:54:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:01:34.718086+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jp-morgan-puts-jcdecaux-on-positive-catalyst-watch-on-earnings-upside-4795294",
+   "baslik": "J.P. Morgan puts JCDecaux on Positive Catalyst Watch on earnings upside",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jp-morgan-puts-jcdecaux-on-positive-catalyst-watch-on-earnings-upside-4795294",
+   "saat": "13:54",
+   "tarih_iso": "2026-07-16T13:54:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:01:34.718086+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/16/wall-street-us-banks-profit-boom-europe-regulation.html",
+   "baslik": "Wall Street's profit boom has Europe ripping up its banking rulebook",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/16/wall-street-us-banks-profit-boom-europe-regulation.html",
+   "saat": "13:49",
+   "tarih_iso": "2026-07-16T13:49:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:01:34.718086+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-unitedhealth-stock-surging-today-93CH-4795211",
+   "baslik": "Why is UnitedHealth stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-unitedhealth-stock-surging-today-93CH-4795211",
+   "saat": "13:38",
+   "tarih_iso": "2026-07-16T13:38:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:01:34.718086+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cintas-stock-climbing-today-93CH-4795208",
+   "baslik": "Why is Cintas stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cintas-stock-climbing-today-93CH-4795208",
+   "saat": "13:36",
+   "tarih_iso": "2026-07-16T13:36:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-16T14:01:34.718086+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/digi-spain-debuts-on-spanish-market-7-above-ipo-price-93CH-4795152",
    "baslik": "Digi Spain debuts on Spanish market 7% above IPO price",
@@ -1095,5 +1169,5 @@
    "eklenme": "2026-07-16T09:01:32.434724+03:00"
   }
  ],
- "guncelleme": "2026-07-16T13:31:27.902466+03:00"
+ "guncelleme": "2026-07-16T14:01:34.718086+03:00"
 }
