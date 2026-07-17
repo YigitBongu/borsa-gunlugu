@@ -2,6 +2,46 @@
  "tarih": "2026-07-17",
  "kap": [
   {
+   "id": "kap-my-YYLGD-202607171641",
+   "baslik": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "YYLGD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:41",
+   "tarih_iso": "2026-07-17T16:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-17T17:01:12.897382+03:00"
+  },
+  {
+   "id": "kap-my-MGROS-202607171639",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "MGROS",
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:39",
+   "tarih_iso": "2026-07-17T16:39:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-17T17:01:12.897382+03:00"
+  },
+  {
+   "id": "kap-my-HALKB-202607171625",
+   "baslik": "TÜRKİYE HALK BANKASI A.Ş. — İhraç Belgesi",
+   "sirket": "TÜRKİYE HALK BANKASI A.Ş.",
+   "kodlar": [
+    "HALKB"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:25",
+   "tarih_iso": "2026-07-17T16:25:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-17T17:01:12.897382+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202607171522",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -290,6 +330,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/17/spacex-stock-starship-test-flight-aborted.html",
+   "baslik": "SpaceX stock sinks after Starship test flight aborted, pacing for a six-day losing streak",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/17/spacex-stock-starship-test-flight-aborted.html",
+   "saat": "16:55",
+   "tarih_iso": "2026-07-17T16:55:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:01:12.897382+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/exclusivelatvia-in-talks-with-strategic-investor-for-ailing-airbaltic-pm-says-4798598",
+   "baslik": "Exclusive-Latvia in talks with strategic investor for ailing airBaltic, PM says",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/exclusivelatvia-in-talks-with-strategic-investor-for-ailing-airbaltic-pm-says-4798598",
+   "saat": "16:48",
+   "tarih_iso": "2026-07-17T16:48:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:01:12.897382+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/end-of-an-era-for-this-long-term-bond-bull-as-inflation-takes-hold-and-yields-trend-higher-a7f59e1f?mod=mw_rss_topstories",
+   "baslik": "End of an era for this long-term bond bull as inflation takes hold and yields trend higher",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/end-of-an-era-for-this-long-term-bond-bull-as-inflation-takes-hold-and-yields-trend-higher-a7f59e1f?mod=mw_rss_topstories",
+   "saat": "16:39",
+   "tarih_iso": "2026-07-17T16:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:01:12.897382+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sweetgreen-stock-surging-today-93CH-4798560",
+   "baslik": "Why is Sweetgreen stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sweetgreen-stock-surging-today-93CH-4798560",
+   "saat": "16:38",
+   "tarih_iso": "2026-07-17T16:38:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:01:12.897382+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/is-spacexs-stock-a-bust-because-it-fell-below-135-look-what-happened-after-metas-ipo-baed7e68?mod=mw_rss_topstories",
    "baslik": "Is SpaceX’s stock a bust because it fell below $135? Look what happened after Meta’s IPO.",
@@ -1453,6 +1533,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/ekonomi/altinin-kilogram-fiyati-6-milyon-20-bin-liraya-geriledi-haberi-832638",
+   "baslik": "Altının kilogram fiyatı 6 milyon 20 bin liraya geriledi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/altinin-kilogram-fiyati-6-milyon-20-bin-liraya-geriledi-haberi-832638",
+   "saat": "16:54",
+   "tarih_iso": "2026-07-17T16:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:01:12.897382+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-alacaklar-dikkat-merkez-bankalarinin-talebi-fiyatlara-kalkan-oluyor-galeri-832634",
+   "baslik": "Altın alacaklar dikkat: Merkez bankalarının talebi fiyatlara kalkan oluyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-alacaklar-dikkat-merkez-bankalarinin-talebi-fiyatlara-kalkan-oluyor-galeri-832634",
+   "saat": "16:17",
+   "tarih_iso": "2026-07-17T16:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:01:12.897382+03:00"
+  },
+  {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-17-2026-gold-nosedives-to-nov-25-levels-as-iran-airstrikes-intensify-121125037.html",
    "baslik": "Gold prices today, Friday, July 17, 2026: Gold nosedives to Nov. '25 levels as Iran airstrikes intensify",
    "kaynak": "Yahoo Finance",
@@ -1593,5 +1693,5 @@
    "eklenme": "2026-07-17T09:01:15.777773+03:00"
   }
  ],
- "guncelleme": "2026-07-17T16:31:05.282089+03:00"
+ "guncelleme": "2026-07-17T17:01:12.897382+03:00"
 }
