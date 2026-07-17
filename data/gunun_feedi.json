@@ -2,6 +2,19 @@
  "tarih": "2026-07-17",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202607171001",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "10:01",
+   "tarih_iso": "2026-07-17T10:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-17T10:31:08.180014+03:00"
+  },
+  {
    "id": "kap-my-YEOTK-202607170900",
    "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Yeni İş İlişkisi",
    "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
@@ -55,6 +68,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-yeni-kiraci-kira-endeksini-acikladi-kiralarda-ve-konutta-son-tablo-belli-oldu-haberi-832589",
+   "baslik": "TCMB yeni kiracı kira endeksini açıkladı: Kiralarda ve konutta son tablo belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-yeni-kiraci-kira-endeksini-acikladi-kiralarda-ve-konutta-son-tablo-belli-oldu-haberi-832589",
+   "saat": "10:03",
+   "tarih_iso": "2026-07-17T10:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T10:31:08.180014+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-17-temmuz-cuma-doviz-kurlari-haberi-832559",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (17 Temmuz Cuma Döviz Kurları)",
    "kaynak": "Dünya",
@@ -96,6 +119,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Trump Media to sell instant access to 'market-moving' social posts",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+   "saat": "10:25",
+   "tarih_iso": "2026-07-17T10:25:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T10:31:08.180014+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-slip-as-tech-stocks-mideast-tensions-weigh-4797502",
+   "baslik": "European shares slip as tech stocks, Mideast tensions weigh",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-slip-as-tech-stocks-mideast-tensions-weigh-4797502",
+   "saat": "10:25",
+   "tarih_iso": "2026-07-17T10:25:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T10:31:08.180014+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/saab-profit-beats-forecast-as-defence-boom-spurs-surge-in-orders-4797396",
+   "baslik": "Saab profit beats forecast as defence boom spurs surge in orders",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/saab-profit-beats-forecast-as-defence-boom-spurs-surge-in-orders-4797396",
+   "saat": "10:24",
+   "tarih_iso": "2026-07-17T10:24:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T10:31:08.180014+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-under-pressure-amid-fresh-usiran-escalation-4797494",
+   "baslik": "FTSE 100 today: Stocks under pressure amid fresh U.S.-Iran escalation",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-under-pressure-amid-fresh-usiran-escalation-4797494",
+   "saat": "10:18",
+   "tarih_iso": "2026-07-17T10:18:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T10:31:08.180014+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-drop-on-middle-east-flareup-robust-earnings-limit-weekly-loss-4797404",
+   "baslik": "European stocks drop on Middle East flare-up; robust earnings limit weekly loss",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-drop-on-middle-east-flareup-robust-earnings-limit-weekly-loss-4797404",
+   "saat": "10:14",
+   "tarih_iso": "2026-07-17T10:14:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T10:31:08.180014+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/netflix-thirdquarter-earnings-forecast-falls-shy-of-wall-street-expectations-4796687",
+   "baslik": "Netflix earnings forecast disappoints Wall Street, shares tumble",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/netflix-thirdquarter-earnings-forecast-falls-shy-of-wall-street-expectations-4796687",
+   "saat": "10:00",
+   "tarih_iso": "2026-07-17T10:00:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T10:31:08.180014+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-396-4797468",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 3.96%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-396-4797468",
+   "saat": "10:00",
+   "tarih_iso": "2026-07-17T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T10:31:08.180014+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1",
    "baslik": "Global stocks fall as AI trade goes into reverse",
@@ -459,6 +552,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/hawkish-fed-expectations-and-geopolitical-risks-keep-gold-under-pressure-200684109",
+   "baslik": "Hawkish Fed Expectations and Geopolitical Risks Keep Gold Under Pressure",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/hawkish-fed-expectations-and-geopolitical-risks-keep-gold-under-pressure-200684109",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-17T10:31:08.180014+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-tests-weekly-buy-zone-as-cycle-dates-signal-a-highprobability-turning-point-200684097",
    "baslik": "Gold Tests Weekly Buy Zone as Cycle Dates Signal a High-Probability Turning Point",
    "kaynak": "Investing Emtia",
@@ -559,5 +662,5 @@
    "eklenme": "2026-07-17T09:01:15.777773+03:00"
   }
  ],
- "guncelleme": "2026-07-17T10:01:13.328016+03:00"
+ "guncelleme": "2026-07-17T10:31:08.180014+03:00"
 }
