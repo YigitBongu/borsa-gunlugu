@@ -2,6 +2,19 @@
  "tarih": "2026-07-17",
  "kap": [
   {
+   "id": "kap-my-ASTOR-202607171035",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:35",
+   "tarih_iso": "2026-07-17T10:35:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-17T11:01:14.937159+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202607171001",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -68,6 +81,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/ihkibden-ihracat-hedefi-2027de-yeniden-18-5-milyar-dolar-3443644",
+   "baslik": "İHKİB'den ihracat hedefi: 2027'de yeniden 18,5 milyar dolar",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/ihkibden-ihracat-hedefi-2027de-yeniden-18-5-milyar-dolar-3443644",
+   "saat": "13:46",
+   "tarih_iso": "2026-07-17T13:46:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T11:01:14.937159+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/ege-bolgesinin-6-aylik-mobilya-ve-orman-urunleri-ihracati-459-milyon-dolar-oldu/4001021",
+   "baslik": "Ege bölgesinin 6 aylık mobilya ve orman ürünleri ihracatı 459 milyon dolar oldu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ege-bolgesinin-6-aylik-mobilya-ve-orman-urunleri-ihracati-459-milyon-dolar-oldu/4001021",
+   "saat": "10:13",
+   "tarih_iso": "2026-07-17T10:13:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T11:01:14.937159+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/tcmb-yeni-kiraci-kira-endeksini-acikladi-kiralarda-ve-konutta-son-tablo-belli-oldu-haberi-832589",
    "baslik": "TCMB yeni kiracı kira endeksini açıkladı: Kiralarda ve konutta son tablo belli oldu",
    "kaynak": "Dünya",
@@ -119,6 +152,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/17/bp-conocophillips-to-back-iraq-with-major-energy-investment-.html",
+   "baslik": "BP, ConocoPhillips to back Iraq with major investments as U.S. seeks to weaken Iran's energy hold",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/17/bp-conocophillips-to-back-iraq-with-major-energy-investment-.html",
+   "saat": "10:57",
+   "tarih_iso": "2026-07-17T10:57:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T11:01:14.937159+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/berner-industrier-q2-sales-jump-17-on-energy-business-growth-93CH-4797547",
+   "baslik": "Berner Industrier Q2 sales jump 17% on energy business growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/berner-industrier-q2-sales-jump-17-on-energy-business-growth-93CH-4797547",
+   "saat": "10:51",
+   "tarih_iso": "2026-07-17T10:51:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T11:01:14.937159+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-4-skorean-power-equipment-stocks-ranked-by-macquarie-93CH-4797525",
+   "baslik": "Top 4 S.Korean Power Equipment Stocks, Ranked by Macquarie",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-4-skorean-power-equipment-stocks-ranked-by-macquarie-93CH-4797525",
+   "saat": "10:37",
+   "tarih_iso": "2026-07-17T10:37:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T11:01:14.937159+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-assa-abloy-stock-rallying-today-93CH-4797520",
+   "baslik": "Why is ASSA ABLOY stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-assa-abloy-stock-rallying-today-93CH-4797520",
+   "saat": "10:33",
+   "tarih_iso": "2026-07-17T10:33:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T11:01:14.937159+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-burberry-stock-dipping-today-93CH-4797506",
+   "baslik": "Why is Burberry stock dipping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-burberry-stock-dipping-today-93CH-4797506",
+   "saat": "10:30",
+   "tarih_iso": "2026-07-17T10:30:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T11:01:14.937159+03:00"
+  },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
    "baslik": "Trump Media to sell instant access to 'market-moving' social posts",
@@ -552,6 +635,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/golds-failure-to-rally-sends-a-warning-to-bulls-200684112",
+   "baslik": "Gold’s Failure to Rally Sends a Warning to Bulls",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-failure-to-rally-sends-a-warning-to-bulls-200684112",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-17T11:01:14.937159+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/hawkish-fed-expectations-and-geopolitical-risks-keep-gold-under-pressure-200684109",
    "baslik": "Hawkish Fed Expectations and Geopolitical Risks Keep Gold Under Pressure",
    "kaynak": "Investing Emtia",
@@ -662,5 +755,5 @@
    "eklenme": "2026-07-17T09:01:15.777773+03:00"
   }
  ],
- "guncelleme": "2026-07-17T10:36:24.281136+03:00"
+ "guncelleme": "2026-07-17T11:01:14.937159+03:00"
 }
