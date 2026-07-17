@@ -1,7 +1,33 @@
 {
  "tarih": "2026-07-17",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-YEOTK-202607170900",
+   "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:00",
+   "tarih_iso": "2026-07-17T09:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-17T09:31:07.298689+03:00"
+  }
+ ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/yeo-teknoloji-ingilterede-196-mwplik-projeyi-ustlendi-haberi-832576",
+   "baslik": "YEO Teknoloji İngiltere’de 196 MWp’lik projeyi üstlendi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/yeo-teknoloji-ingilterede-196-mwplik-projeyi-ustlendi-haberi-832576",
+   "saat": "09:15",
+   "tarih_iso": "2026-07-17T09:15:00+03:00",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "eklenme": "2026-07-17T09:31:07.298689+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/spk-onay-verdi-borsaya-katilacak-4-sirket-belli-oldu-3899060-ekonomi",
    "baslik": "Borsaya 4 yeni şirket geliyor",
@@ -70,6 +96,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tomra-q2-revenue-jumps-on-collection-business-strength-4797427",
+   "baslik": "Tomra Q2 revenue jumps on Collection business strength",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tomra-q2-revenue-jumps-on-collection-business-strength-4797427",
+   "saat": "09:18",
+   "tarih_iso": "2026-07-17T09:18:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T09:31:07.298689+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/humana-reports-q2-revenue-beat-posts-net-loss-for-period-93CH-4797424",
+   "baslik": "Humana reports Q2 revenue beat, posts net loss for period",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/humana-reports-q2-revenue-beat-posts-net-loss-for-period-93CH-4797424",
+   "saat": "09:15",
+   "tarih_iso": "2026-07-17T09:15:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T09:31:07.298689+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/eagle-eye-solutions-reports-31-jump-in-recurring-revenue-93CH-4797422",
+   "baslik": "Eagle Eye Solutions reports 31% jump in recurring revenue",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/eagle-eye-solutions-reports-31-jump-in-recurring-revenue-93CH-4797422",
+   "saat": "09:13",
+   "tarih_iso": "2026-07-17T09:13:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T09:31:07.298689+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-montage-tech-stock-sliding-today-93CH-4797421",
+   "baslik": "Why is Montage Tech stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-montage-tech-stock-sliding-today-93CH-4797421",
+   "saat": "09:13",
+   "tarih_iso": "2026-07-17T09:13:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T09:31:07.298689+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/17/oil-price-today-brent-wti.html",
    "baslik": "Oil prices rise as U.S.-Iran hostilities threaten supply through Strait of Hormuz",
@@ -443,5 +509,5 @@
    "eklenme": "2026-07-17T09:01:15.777773+03:00"
   }
  ],
- "guncelleme": "2026-07-17T09:01:15.777773+03:00"
+ "guncelleme": "2026-07-17T09:31:07.298689+03:00"
 }
