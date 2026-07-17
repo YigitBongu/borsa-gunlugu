@@ -284,6 +284,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-17-temmuz-cuma-doviz-kurlari-haberi-832559",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (17 Temmuz Cuma Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-17-temmuz-cuma-doviz-kurlari-haberi-832559",
+   "saat": "07:14",
+   "tarih_iso": "2026-07-17T07:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T07:31:09.325573+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altinin-guvenli-liman-kalkani-kirildi-fed-korkusu-savasi-bastirdi-galeri-832554",
    "baslik": "Altının güvenli liman kalkanı kırıldı: Fed korkusu savaşı bastırdı",
    "kaynak": "Dünya",
@@ -645,6 +655,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/china-ai-shares-tumble-as-wall-street-rout-deepens-selloff-across-asia-tech-4797368",
+   "baslik": "China AI shares tumble as Wall Street rout deepens selloff across Asia tech",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/china-ai-shares-tumble-as-wall-street-rout-deepens-selloff-across-asia-tech-4797368",
+   "saat": "07:14",
+   "tarih_iso": "2026-07-17T07:14:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T07:31:09.325573+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-slip-amid-tech-losses-iran-tensions-nikkei-leads-losses-4797366",
+   "baslik": "Asia stocks slip amid tech losses, Iran tensions; Nikkei leads losses",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-amid-tech-losses-iran-tensions-nikkei-leads-losses-4797366",
+   "saat": "07:13",
+   "tarih_iso": "2026-07-17T07:13:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T07:31:09.325573+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/e7039185-9c0f-4a55-bb16-3caccb619c00?syn-25a6b1a6=1",
+   "baslik": "The dangers of investor fatalism",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/e7039185-9c0f-4a55-bb16-3caccb619c00?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-07-17T07:00:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T07:31:09.325573+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/coles-ends-greencross-takeover-talks-shares-jump-on-investor-relief-4797359",
    "baslik": "Coles ends Greencross takeover talks, shares jump on investor relief",
@@ -1814,36 +1854,6 @@
    "tarih_iso": "2026-07-16T18:04:49+03:00",
    "kodlar": [],
    "eklenme": "2026-07-16T18:31:11.508808+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/abbott-laboratories-q2-earnings-call-150448485.html",
-   "baslik": "Abbott Laboratories Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/abbott-laboratories-q2-earnings-call-150448485.html",
-   "saat": "18:04",
-   "tarih_iso": "2026-07-16T18:04:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T18:31:11.508808+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/could-somalia-see-worlds-next-150000047.html",
-   "baslik": "Could Somalia See The World's Next Major Oil Discovery?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/could-somalia-see-worlds-next-150000047.html",
-   "saat": "18:00",
-   "tarih_iso": "2026-07-16T18:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T19:31:12.071948+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-113-4796301",
-   "baslik": "Norway stocks lower at close of trade; Oslo OBX down 1.13%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-113-4796301",
-   "saat": "17:55",
-   "tarih_iso": "2026-07-16T17:55:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T18:01:27.303530+03:00"
   }
  ],
  "altin_haber": [
@@ -2158,5 +2168,5 @@
    "eklenme": "2026-07-16T09:01:32.434724+03:00"
   }
  ],
- "guncelleme": "2026-07-17T07:01:16.383464+03:00"
+ "guncelleme": "2026-07-17T07:31:09.325573+03:00"
 }
