@@ -187,6 +187,21 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/emekli-promosyon-odeme-tutari-temmuz-ayi-emeklilere-ne-kadar-promosyon-odeniyor-yapi-kredi-is-bankasi-garanti-bbva-ing-akbank-3443921",
+   "baslik": "EMEKLİ PROMOSYON ÖDEME TUTARI: Temmuz ayı emeklilere ne kadar promosyon ödeniyor? Yapı Kredi, İş Bankası, Garanti BBVA, ING, Akbank, Ziraat Bankası güncel promosyon tutarları",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/emekli-promosyon-odeme-tutari-temmuz-ayi-emeklilere-ne-kadar-promosyon-odeniyor-yapi-kredi-is-bankasi-garanti-bbva-ing-akbank-3443921",
+   "saat": "04:17",
+   "tarih_iso": "2026-07-18T04:17:04+03:00",
+   "kodlar": [
+    "AKBNK",
+    "GARAN",
+    "ISCTR",
+    "YKBNK"
+   ],
+   "eklenme": "2026-07-18T01:31:02.799450+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-17-temmuz-2026/4001483",
    "baslik": "60 saniyede ekonomide bugün (17 Temmuz 2026)",
    "kaynak": "AA Ekonomi",
@@ -413,6 +428,16 @@
    "tarih_iso": "2026-07-18T00:55:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-18T01:01:17.251330+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/stocks-stumble-oil-set-for-weekly-gain-on-renewed-gulf-hostilities-4797335",
+   "baslik": "World stocks fall in semiconductor rout; oil rises on Middle East escalation",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/stocks-stumble-oil-set-for-weekly-gain-on-renewed-gulf-hostilities-4797335",
+   "saat": "00:48",
+   "tarih_iso": "2026-07-18T00:48:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-18T01:31:02.799450+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/18-tech-stocks-that-have-fallen-at-least-30-during-july-4c373d5e?mod=mw_rss_topstories",
@@ -1593,16 +1618,6 @@
    "tarih_iso": "2026-07-17T18:02:57+03:00",
    "kodlar": [],
    "eklenme": "2026-07-17T18:31:06.383695+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/travelers-shares-rise-q2-earnings-150100319.html",
-   "baslik": "Travelers shares rise after Q2 earnings crush estimates on lower catastrophe losses",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/travelers-shares-rise-q2-earnings-150100319.html",
-   "saat": "18:01",
-   "tarih_iso": "2026-07-17T18:01:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T18:31:06.383695+03:00"
   }
  ],
  "altin_haber": [
@@ -1847,5 +1862,5 @@
    "eklenme": "2026-07-17T09:01:15.777773+03:00"
   }
  ],
- "guncelleme": "2026-07-18T01:01:17.251330+03:00"
+ "guncelleme": "2026-07-18T01:31:02.799450+03:00"
 }
