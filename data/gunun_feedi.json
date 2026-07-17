@@ -2,6 +2,32 @@
  "tarih": "2026-07-17",
  "kap": [
   {
+   "id": "kap-my-YEOTK-202607171511",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:11",
+   "tarih_iso": "2026-07-17T15:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-17T15:31:07.397453+03:00"
+  },
+  {
+   "id": "kap-my-MAVI-202607171500",
+   "baslik": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş. — İhraç Tavanına İlişkin Bildirim",
+   "sirket": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "MAVI"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:00",
+   "tarih_iso": "2026-07-17T15:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-17T15:31:07.397453+03:00"
+  },
+  {
    "id": "kap-my-ASTOR-202607171035",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -117,6 +143,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/cip-sats-asyay-sarst-bist-100-yaklask-2-geriledi-3984728",
+   "baslik": "Çip satışı Asya’yı sarstı, BIST 100 yaklaşık %2 geriledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/cip-sats-asyay-sarst-bist-100-yaklask-2-geriledi-3984728",
+   "saat": "15:14",
+   "tarih_iso": "2026-07-17T15:14:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T15:31:07.397453+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-enflasyon-haziranda-yuzde-28e-geriledi-haberi-832629",
+   "baslik": "Euro Bölgesi'nde enflasyon haziranda yüzde 2,8'e geriledi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/euro-bolgesinde-enflasyon-haziranda-yuzde-28e-geriledi-haberi-832629",
+   "saat": "15:07",
+   "tarih_iso": "2026-07-17T15:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T15:31:07.397453+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/ihkibden-ihracat-hedefi-2027de-yeniden-18-5-milyar-dolar-3443644",
    "baslik": "İHKİB'den ihracat hedefi: 2027'de yeniden 18,5 milyar dolar",
    "kaynak": "CNN Türk Ekonomi",
@@ -218,6 +264,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/oil-prices-are-up-13-in-a-week-and-could-head-for-more-than-100-a-barrel-7c8021ed?mod=mw_rss_topstories",
+   "baslik": "Oil prices are up 13% in a week — and could head for more than $100 a barrel",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/oil-prices-are-up-13-in-a-week-and-could-head-for-more-than-100-a-barrel-7c8021ed?mod=mw_rss_topstories",
+   "saat": "15:19",
+   "tarih_iso": "2026-07-17T15:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T15:31:07.397453+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/netflix-breaks-52week-low-technical-support-levels-and-analyst-targets-after-earnings-selloff-93CH-4798304",
+   "baslik": "Netflix breaks 52-week low: technical support levels and analyst targets after earnings selloff",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/netflix-breaks-52week-low-technical-support-levels-and-analyst-targets-after-earnings-selloff-93CH-4798304",
+   "saat": "15:02",
+   "tarih_iso": "2026-07-17T15:02:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T15:31:07.397453+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-sees-10-upside-for-global-stocks-through-mid-2027-4798266",
+   "baslik": "UBS sees 10% upside for global stocks through mid 2027",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-sees-10-upside-for-global-stocks-through-mid-2027-4798266",
+   "saat": "14:57",
+   "tarih_iso": "2026-07-17T14:57:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T15:31:07.397453+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/kimi-k3-ai-breakthrough-what-wall-street-analysts-say-about-chinas-openai-threat-4798265",
+   "baslik": "Kimi K3 AI breakthrough: What Wall Street analysts say about China’s OpenAI threat",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/kimi-k3-ai-breakthrough-what-wall-street-analysts-say-about-chinas-openai-threat-4798265",
+   "saat": "14:57",
+   "tarih_iso": "2026-07-17T14:57:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T15:31:07.397453+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/the-market-may-be-headed-for-a-40-correction-warns-this-wealth-manager-he-flags-bargains-in-overlooked-stocks-828f88e4?mod=mw_rss_topstories",
    "baslik": "The market may be headed for a 40% correction, warns this wealth manager. He flags bargains in overlooked stocks.",
@@ -1221,6 +1307,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-17-2026-gold-nosedives-to-nov-25-levels-as-iran-airstrikes-intensify-121125037.html",
+   "baslik": "Gold prices today, Friday, July 17, 2026: Gold nosedives to Nov. '25 levels as Iran airstrikes intensify",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-july-17-2026-gold-nosedives-to-nov-25-levels-as-iran-airstrikes-intensify-121125037.html",
+   "saat": "15:11",
+   "tarih_iso": "2026-07-17T15:11:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T15:31:07.397453+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlarinda-alarm-kritik-esik-asildi-risk-artti-galeri-832606",
    "baslik": "Altın fiyatlarında alarm: Kritik eşik aşıldı, risk arttı",
    "kaynak": "Dünya",
@@ -1351,5 +1447,5 @@
    "eklenme": "2026-07-17T09:01:15.777773+03:00"
   }
  ],
- "guncelleme": "2026-07-17T15:01:15.421251+03:00"
+ "guncelleme": "2026-07-17T15:31:07.397453+03:00"
 }
