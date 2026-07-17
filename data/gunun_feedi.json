@@ -186,6 +186,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/spk-onay-verdi-borsaya-katilacak-4-sirket-belli-oldu-3899060-ekonomi",
+   "baslik": "Borsaya 4 yeni şirket geliyor",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/spk-onay-verdi-borsaya-katilacak-4-sirket-belli-oldu-3899060-ekonomi",
+   "saat": "07:25",
+   "tarih_iso": "2026-07-17T07:25:43+03:00",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "eklenme": "2026-07-17T08:01:15.262726+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/surdurulebilir-dunya/mavi-kalkani-kurtarmaya-64-milyar-dolar-yetmiyor-haberi-832534",
    "baslik": "Mavi kalkan'ı kurtarmaya 6,4 milyar dolar yetmiyor",
    "kaynak": "Dünya",
@@ -655,6 +667,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-seven--i-holdings-stock-rallying-today-93CH-4797374",
+   "baslik": "Why is Seven & i Holdings stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-seven--i-holdings-stock-rallying-today-93CH-4797374",
+   "saat": "07:38",
+   "tarih_iso": "2026-07-17T07:38:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T08:01:15.262726+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/china-ai-shares-tumble-as-wall-street-rout-deepens-selloff-across-asia-tech-4797368",
    "baslik": "China AI shares tumble as Wall Street rout deepens selloff across Asia tech",
@@ -1844,16 +1866,6 @@
    "tarih_iso": "2026-07-16T18:04:49+03:00",
    "kodlar": [],
    "eklenme": "2026-07-16T18:31:11.508808+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/insteel-industries-q3-earnings-call-150449986.html",
-   "baslik": "Insteel Industries Q3 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/insteel-industries-q3-earnings-call-150449986.html",
-   "saat": "18:04",
-   "tarih_iso": "2026-07-16T18:04:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-16T18:31:11.508808+03:00"
   }
  ],
  "altin_haber": [
@@ -2168,5 +2180,5 @@
    "eklenme": "2026-07-16T09:01:32.434724+03:00"
   }
  ],
- "guncelleme": "2026-07-17T07:31:09.325573+03:00"
+ "guncelleme": "2026-07-17T08:01:15.262726+03:00"
 }
