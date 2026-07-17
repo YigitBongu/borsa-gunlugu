@@ -2,6 +2,58 @@
  "tarih": "2026-07-17",
  "kap": [
   {
+   "id": "kap-my-ARCLK-202607171854",
+   "baslik": "ARÇELİK A.Ş. — Finansal Takvim",
+   "sirket": "ARÇELİK A.Ş.",
+   "kodlar": [
+    "ARCLK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:54",
+   "tarih_iso": "2026-07-17T18:54:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-18T00:01:11.953612+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202607171830",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — İhraç Tavanına İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:30",
+   "tarih_iso": "2026-07-17T18:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-18T00:01:11.953612+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202607171829",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — İhraç Belgesi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:29",
+   "tarih_iso": "2026-07-17T18:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-18T00:01:11.953612+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202607171825",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:25",
+   "tarih_iso": "2026-07-17T18:25:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-18T00:01:11.953612+03:00"
+  },
+  {
    "id": "kap-my-YYLGD-202607171641",
    "baslik": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
    "sirket": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş.",
@@ -221,6 +273,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/90-dolar-riski-gundemde-altin-dustu-petrol-yukseldi-3443895",
+   "baslik": "90 dolar riski gündemde | Altın düştü, petrol yükseldi!",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/90-dolar-riski-gundemde-altin-dustu-petrol-yukseldi-3443895",
+   "saat": "01:16",
+   "tarih_iso": "2026-07-18T01:16:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-18T00:01:11.953612+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/cip-sats-asyay-sarst-bist-100-yaklask-2-geriledi-3984728",
    "baslik": "Çip satışı Asya’yı sarstı, BIST 100 yaklaşık %2 geriledi",
    "kaynak": "Investing TR",
@@ -342,6 +404,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/stifel-names-top-supply-chain-technology-stocks-led-by-celestica-93CH-4799173",
+   "baslik": "Stifel Names Top Supply Chain Technology Stocks Led by Celestica",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/stifel-names-top-supply-chain-technology-stocks-led-by-celestica-93CH-4799173",
+   "saat": "23:39",
+   "tarih_iso": "2026-07-17T23:39:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-18T00:01:11.953612+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-077-4799126",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.77%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-077-4799126",
+   "saat": "23:31",
+   "tarih_iso": "2026-07-17T23:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-18T00:01:11.953612+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-022-4799125",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.22%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-022-4799125",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-17T23:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-18T00:01:11.953612+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-006-4799117",
+   "baslik": "Brazil stocks lower at close of trade; Bovespa down 0.06%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-006-4799117",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-17T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-18T00:01:11.953612+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/17/spacex-stock-starship-test-flight-aborted.html",
    "baslik": "SpaceX stock has cratered nearly 23% since joining the Nasdaq-100",
@@ -1501,46 +1603,6 @@
    "tarih_iso": "2026-07-17T17:35:56+03:00",
    "kodlar": [],
    "eklenme": "2026-07-17T18:01:19.516969+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/megacap-growth-etf-beating-p-143505490.html",
-   "baslik": "The Megacap Growth ETF That’s Been Beating the S&P 500 for a Decade Straight",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/megacap-growth-etf-beating-p-143505490.html",
-   "saat": "17:35",
-   "tarih_iso": "2026-07-17T17:35:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T17:56:47.185594+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/apple-just-toppled-nvidia-world-143446196.html",
-   "baslik": "Apple Just Toppled Nvidia as World’s Most Valuable Stock. Here’s Why the Gap Will Widen",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-just-toppled-nvidia-world-143446196.html",
-   "saat": "17:34",
-   "tarih_iso": "2026-07-17T17:34:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T17:56:47.185594+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/lam-research-and-intel-among-market-cap-stock-movers-on-friday-93CH-4798670",
-   "baslik": "Lam Research and Intel among market cap stock movers on Friday",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/lam-research-and-intel-among-market-cap-stock-movers-on-friday-93CH-4798670",
-   "saat": "17:31",
-   "tarih_iso": "2026-07-17T17:31:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T17:56:47.185594+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/price-prediction-two-big-reasons-143054425.html",
-   "baslik": "Price Prediction: Two Big Reasons Oracle Stock Could Surge 60% This Year",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-two-big-reasons-143054425.html",
-   "saat": "17:30",
-   "tarih_iso": "2026-07-17T17:30:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T17:56:47.185594+03:00"
   }
  ],
  "altin_haber": [
@@ -1785,5 +1847,5 @@
    "eklenme": "2026-07-17T09:01:15.777773+03:00"
   }
  ],
- "guncelleme": "2026-07-17T23:31:07.792422+03:00"
+ "guncelleme": "2026-07-18T00:01:11.953612+03:00"
 }
