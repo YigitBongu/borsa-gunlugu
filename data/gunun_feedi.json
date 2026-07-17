@@ -135,6 +135,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-17-temmuz-2026/4001483",
+   "baslik": "60 saniyede ekonomide bugün (17 Temmuz 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-17-temmuz-2026/4001483",
+   "saat": "16:40",
+   "tarih_iso": "2026-07-17T16:40:21+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/vakifbanktan-300-milyon-dolarlik-enerji-ve-donusum-finansmani-haberi-832617",
    "baslik": "VakıfBank'tan 300 milyon dolarlık enerji ve dönüşüm finansmanı",
    "kaynak": "Dünya",
@@ -331,6 +343,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/mortgage-rates-jump-to-the-highest-level-of-2026-7a35f79e?mod=mw_rss_topstories",
+   "baslik": "Mortgage rates jump to the highest level of 2026",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/mortgage-rates-jump-to-the-highest-level-of-2026-7a35f79e?mod=mw_rss_topstories",
+   "saat": "17:29",
+   "tarih_iso": "2026-07-17T17:29:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/tech/apple-overthrows-nvidia-to-reclaim-wall-streets-crown-ddc74a38?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Apple Overthrows Nvidia to Reclaim Wall Street’s Crown",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/tech/apple-overthrows-nvidia-to-reclaim-wall-streets-crown-ddc74a38?siteid=yhoof2&yptr=yahoo",
+   "saat": "17:14",
+   "tarih_iso": "2026-07-17T17:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-17-2026/card/netflix-stock-tumbles-on-growth-worries-1mpDiDSsGma4oSG1Px5W?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Netflix Stock Tumbles on Growth Worries",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-17-2026/card/netflix-stock-tumbles-on-growth-worries-1mpDiDSsGma4oSG1Px5W?siteid=yhoof2&yptr=yahoo",
+   "saat": "17:13",
+   "tarih_iso": "2026-07-17T17:13:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/spacex-aborts-starship-rocket-test-flight-just-minutes-before-liftoff-4797277",
+   "baslik": "SpaceX drops 4% on course to lose $1 trillion in market value",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/spacex-aborts-starship-rocket-test-flight-just-minutes-before-liftoff-4797277",
+   "saat": "17:07",
+   "tarih_iso": "2026-07-17T17:07:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/could-emerging-markets-etf-better-140700079.html",
+   "baslik": "Could This Emerging Markets ETF Be a Better Way to Buy SK Hynix?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/could-emerging-markets-etf-better-140700079.html",
+   "saat": "17:07",
+   "tarih_iso": "2026-07-17T17:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/research/ibd-stock-analysis/snowflake-stock-snow-ai-data-cloud/?src=A00220&yptr=yahoo",
+   "baslik": "This Once-Deflated Cloud Stock Deserves Another Look. Here's Why.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/research/ibd-stock-analysis/snowflake-stock-snow-ai-data-cloud/?src=A00220&yptr=yahoo",
+   "saat": "16:56",
+   "tarih_iso": "2026-07-17T16:56:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/17/spacex-stock-starship-test-flight-aborted.html",
    "baslik": "SpaceX stock sinks after Starship test flight aborted, pacing for a six-day losing streak",
    "kaynak": "CNBC",
@@ -341,6 +413,26 @@
    "eklenme": "2026-07-17T17:01:12.897382+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/economy/articles/cass-tl-linehaul-rates-advance-135247135.html",
+   "baslik": "Cass: TL linehaul rates advance in June, volume inflection delayed",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/articles/cass-tl-linehaul-rates-advance-135247135.html",
+   "saat": "16:52",
+   "tarih_iso": "2026-07-17T16:52:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/chipmakers-other-high-flying-stocks-135145992.html",
+   "baslik": "Chipmakers and other high-flying stocks slide as AI trade wobbles",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-other-high-flying-stocks-135145992.html",
+   "saat": "16:51",
+   "tarih_iso": "2026-07-17T16:51:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/exclusivelatvia-in-talks-with-strategic-investor-for-ailing-airbaltic-pm-says-4798598",
    "baslik": "Exclusive-Latvia in talks with strategic investor for ailing airBaltic, PM says",
    "kaynak": "Investing.com",
@@ -349,6 +441,66 @@
    "tarih_iso": "2026-07-17T16:48:50+03:00",
    "kodlar": [],
    "eklenme": "2026-07-17T17:01:12.897382+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/conocophillips-buy-42-stake-bps-134500232.html",
+   "baslik": "ConocoPhillips to Buy 42% Stake in BP's Iraq Kirkuk Oil Venture",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/conocophillips-buy-42-stake-bps-134500232.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-07-17T16:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/accelerated-growth-google-search-cloud-134422553.html",
+   "baslik": "Accelerated Growth in Google Search and Cloud Strengthens Alphabet’s (GOOG) Rally",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/accelerated-growth-google-search-cloud-134422553.html",
+   "saat": "16:44",
+   "tarih_iso": "2026-07-17T16:44:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/small-business/articles/exclusive-latvia-talks-strategic-investor-134353766.html",
+   "baslik": "Exclusive-Latvia in talks with strategic investor for ailing airBaltic, PM says",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/small-business/articles/exclusive-latvia-talks-strategic-investor-134353766.html",
+   "saat": "16:43",
+   "tarih_iso": "2026-07-17T16:43:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/personalis-stock-merck-tempus-ai-takeover-bids-tumor/?src=A00220&yptr=yahoo",
+   "baslik": "Merck Reportedly Goes To Bat In Takeover Battle. Genomics Stock Flies.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/personalis-stock-merck-tempus-ai-takeover-bids-tumor/?src=A00220&yptr=yahoo",
+   "saat": "16:41",
+   "tarih_iso": "2026-07-17T16:41:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-netflix-earnings-nflx-stock-spacex-stock/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Nasdaq Leads Indexes Down; SpaceX Slides As Flight Canceled (Live Coverage)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-netflix-earnings-nflx-stock-spacex-stock/?src=A00220&yptr=yahoo",
+   "saat": "16:41",
+   "tarih_iso": "2026-07-17T16:41:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/circle-stock-downgraded-stablecoin-competition-134100088.html",
+   "baslik": "Circle Stock Is Downgraded As Stablecoin Competition Heats Up",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/circle-stock-downgraded-stablecoin-competition-134100088.html",
+   "saat": "16:41",
+   "tarih_iso": "2026-07-17T16:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/end-of-an-era-for-this-long-term-bond-bull-as-inflation-takes-hold-and-yields-trend-higher-a7f59e1f?mod=mw_rss_topstories",
@@ -419,6 +571,16 @@
    "tarih_iso": "2026-07-17T16:10:07+03:00",
    "kodlar": [],
    "eklenme": "2026-07-17T16:18:23.293707+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/semiconductor-stocks-keep-falling-as-investors-go-risk-off-chinese-startup-releases-powerful-new-ai-model-130920103.html",
+   "baslik": "Semiconductor stocks keep falling as investors go risk-off, Chinese startup releases powerful new AI model",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/semiconductor-stocks-keep-falling-as-investors-go-risk-off-chinese-startup-releases-powerful-new-ai-model-130920103.html",
+   "saat": "16:09",
+   "tarih_iso": "2026-07-17T16:09:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/bernstein-reveals-its-highestconviction-q2-pick-and-biggest-earnings-risk-93CH-4798497",
@@ -869,6 +1031,16 @@
    "tarih_iso": "2026-07-17T12:30:42+03:00",
    "kodlar": [],
    "eklenme": "2026-07-17T13:01:14.341722+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-friday-july-17-dow-sp-500-nasdaq-092345307.html",
+   "baslik": "Stock market today: Nasdaq hammered by chips sell-off, Dow and S&P 500 fall after Netflix whiff",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-17-dow-sp-500-nasdaq-092345307.html",
+   "saat": "12:23",
+   "tarih_iso": "2026-07-17T12:23:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-17T17:31:07.765136+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-chip-stocks-fall-after-sharp-us-peers-selloff-4797767",
@@ -1369,166 +1541,6 @@
    "tarih_iso": "2026-07-17T03:16:37+03:00",
    "kodlar": [],
    "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
-   "baslik": "Netflix is getting stingier about its viewing data, and Wall Street isn’t happy",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/netflix-is-getting-stingier-about-its-viewing-data-and-wall-street-isnt-happy-15033db1?mod=mw_rss_topstories",
-   "saat": "03:14",
-   "tarih_iso": "2026-07-17T03:14:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
-   "baslik": "Palo Alto Networks’ stock has been on a tear — and it could go even higher, according to these bulls",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-has-been-on-a-tear-and-it-could-go-even-higher-according-to-these-bulls-1ddde6f4?mod=mw_rss_topstories",
-   "saat": "02:38",
-   "tarih_iso": "2026-07-17T02:38:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
-   "baslik": "As SpaceX’s stock notches first close below IPO price, the company is gearing up for a crucial launch",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/spacexs-starship-is-set-for-takeoff-and-its-floundering-stock-could-use-the-lift-ec5629d5?mod=mw_rss_topstories",
-   "saat": "02:36",
-   "tarih_iso": "2026-07-17T02:36:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
-   "baslik": "GE boosts profit outlook, but stock falls as booming order growth cools",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/ge-boosts-profit-outlook-but-stock-falls-as-booming-order-growth-cools-f5184533?mod=mw_rss_topstories",
-   "saat": "02:12",
-   "tarih_iso": "2026-07-17T02:12:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/mike-rounds-senate-banking-warsh-interest-rates.html",
-   "baslik": "Banking Committee's Sen. Rounds liked Warsh's 'tone' in first testimony as Fed chairman",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/mike-rounds-senate-banking-warsh-interest-rates.html",
-   "saat": "01:28",
-   "tarih_iso": "2026-07-17T01:28:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-   "baslik": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-   "saat": "00:53",
-   "tarih_iso": "2026-07-17T00:53:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories",
-   "baslik": "Alphabet’s stock falls as Gemini delays suggest Google is struggling to keep up in the AI race",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/alphabets-stock-falls-as-gemini-delays-suggest-google-is-struggling-to-keep-up-in-the-ai-race-4d821205?mod=mw_rss_topstories",
-   "saat": "00:32",
-   "tarih_iso": "2026-07-17T00:32:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/2c5151d9-738f-4808-bbd0-15aaf48d922e?syn-25a6b1a6=1",
-   "baslik": "Netflix shares slide on disappointing growth forecasts",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/2c5151d9-738f-4808-bbd0-15aaf48d922e?syn-25a6b1a6=1",
-   "saat": "23:30",
-   "tarih_iso": "2026-07-16T23:30:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
-   "baslik": "Here's why the housing market is hurting so much this summer",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/housing-market-mortgages-homebuilding.html",
-   "saat": "23:06",
-   "tarih_iso": "2026-07-16T23:06:13+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/oil-pipeline-iran-strait-hormuz-red-sea-iraq-uae-saudi.html",
-   "baslik": "Oil pipelines around the Strait of Hormuz won't end the threat Iran poses to Middle East crude exports",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/oil-pipeline-iran-strait-hormuz-red-sea-iraq-uae-saudi.html",
-   "saat": "22:13",
-   "tarih_iso": "2026-07-16T22:13:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html",
-   "baslik": "UnitedHealth blows past estimates, hikes earnings outlook as it reins in costs",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/unitedhealth-group-unh-earnings-q2-2026.html",
-   "saat": "22:00",
-   "tarih_iso": "2026-07-16T22:00:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
-   "baslik": "Dallas Fed President Logan calls for 'modestly' higher interest rates",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html",
-   "saat": "21:50",
-   "tarih_iso": "2026-07-16T21:50:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/heres-a-rapid-fire-update-on-our-stock-portfolio-including-the-5-names-to-buy.html",
-   "baslik": "Here's a rapid-fire update on our stock portfolio, including the 5 names to buy",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/heres-a-rapid-fire-update-on-our-stock-portfolio-including-the-5-names-to-buy.html",
-   "saat": "21:50",
-   "tarih_iso": "2026-07-16T21:50:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/trump-truth-social-wall-street-traders-api.html",
-   "baslik": "Trump Media launches paid data service to help Wall Street track Trump’s posts",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/trump-truth-social-wall-street-traders-api.html",
-   "saat": "21:46",
-   "tarih_iso": "2026-07-16T21:46:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
-   "baslik": "Short sellers load up against SpaceX as stock drops below IPO price",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/short-sellers-load-up-against-spacex-as-stock-retreats-back-to-ipo-price.html",
-   "saat": "21:12",
-   "tarih_iso": "2026-07-16T21:12:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/16/the-sec-may-get-involved-as-prediction-market-bring-new-contracts.html",
-   "baslik": "As prediction markets boom, questions arise over who will be the watchdog",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/16/the-sec-may-get-involved-as-prediction-market-bring-new-contracts.html",
-   "saat": "19:57",
-   "tarih_iso": "2026-07-16T19:57:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-17T09:01:15.777773+03:00"
   }
  ],
  "altin_haber": [
@@ -1693,5 +1705,5 @@
    "eklenme": "2026-07-17T09:01:15.777773+03:00"
   }
  ],
- "guncelleme": "2026-07-17T17:01:12.897382+03:00"
+ "guncelleme": "2026-07-17T17:31:07.765136+03:00"
 }
