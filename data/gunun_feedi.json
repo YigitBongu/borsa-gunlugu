@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/kultur-sanat/konya-9-gun-boyunda-festivalin-bulusma-noktasi-olacak-haberi-832713",
+   "baslik": "Konya 9 gün boyunda festivalin buluşma noktası olacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/kultur-sanat/konya-9-gun-boyunda-festivalin-bulusma-noktasi-olacak-haberi-832713",
+   "saat": "12:25",
+   "tarih_iso": "2026-07-18T12:25:00+03:00",
+   "kodlar": [
+    "KONYA"
+   ],
+   "eklenme": "2026-07-18T13:01:07.737714+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/istanbul-toplu-tasima-ucret-tarifesi-guncel-liste-2026-ogrenci-tam-mavi-kart-aylik-akbil-abonman-ne-kadar-oldu-iett-metro-3444007",
    "baslik": "İSTANBUL TOPLU TAŞIMA ÜCRET TARİFESİ GÜNCEL LİSTE 2026 | Öğrenci, Tam, Mavi Kart, Aylık Akbil, Abonman ne kadar oldu? İETT, Metro, Metrobüs, Marmaray kaç TL basıyor? İstanbulkart ücretleri Temmuz zammı",
    "kaynak": "CNN Türk Ekonomi",
@@ -31,6 +43,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/borsa-istanbulda-gong-saat-saat-icin-caldi-3444064",
+   "baslik": "Borsa İstanbul'da gong, Saat&Saat için çaldı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/borsa-istanbulda-gong-saat-saat-icin-caldi-3444064",
+   "saat": "15:41",
+   "tarih_iso": "2026-07-18T15:41:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-18T13:01:07.737714+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/kuresel-piyasalarda-gozler-gelecek-hafta-ecb-nin-faiz-kararina-cevrildi-3899346-ekonomi",
    "baslik": "ECB'nin faiz kararı bekleniyor",
@@ -426,5 +448,5 @@
    "eklenme": "2026-07-18T09:01:06.835339+03:00"
   }
  ],
- "guncelleme": "2026-07-18T12:31:02.733030+03:00"
+ "guncelleme": "2026-07-18T13:01:07.737714+03:00"
 }
