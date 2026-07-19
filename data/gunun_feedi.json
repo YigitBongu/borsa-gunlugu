@@ -68,6 +68,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-19-temmuz-pazar-doviz-kurlari-haberi-832751",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (19 Temmuz Pazar Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-19-temmuz-pazar-doviz-kurlari-haberi-832751",
+   "saat": "07:21",
+   "tarih_iso": "2026-07-19T07:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-19T07:31:06.172349+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/borsa-istanbulda-gong-saat-saat-icin-caldi-3444064",
    "baslik": "Borsa İstanbul'da gong, Saat&Saat için çaldı",
    "kaynak": "CNN Türk Ekonomi",
@@ -149,6 +159,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1",
+   "baslik": "Chinese leaders zero in on need for stimulus for economy",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-07-19T07:00:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-19T07:31:06.172349+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/6d817238-b2c2-475b-ae03-d71f42635f7e?syn-25a6b1a6=1",
+   "baslik": "Merz pitches Germany as ‘Europe’s bedrock of stability’ to investors",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/6d817238-b2c2-475b-ae03-d71f42635f7e?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-07-19T07:00:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-19T07:31:06.172349+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/south-korean-stocks-emerge-as-key-gauge-for-global-ai-sentiment-4799692",
    "baslik": "South Korean stocks emerge as key gauge for global AI sentiment",
@@ -1328,29 +1358,19 @@
    "tarih_iso": "2026-07-17T23:06:48+03:00",
    "kodlar": [],
    "eklenme": "2026-07-18T09:01:06.835339+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
-   "baslik": "Economic outlook is worsening and Trump is getting blamed, CNBC survey finds",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/17/economic-outlook-is-worsening-and-trump-is-getting-blamed-cnbc-survey-finds.html",
-   "saat": "22:49",
-   "tarih_iso": "2026-07-17T22:49:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-18T09:01:06.835339+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
-   "baslik": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html",
-   "saat": "21:20",
-   "tarih_iso": "2026-07-17T21:20:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-18T09:01:06.835339+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-19-temmuz-2026-haberi-832750",
+   "baslik": "ALTINDA SON DURUM: Gram ve çeyrek altın kaç TL oldu? Altın fiyatları ne kadar? (19 Temmuz 2026)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-19-temmuz-2026-haberi-832750",
+   "saat": "07:17",
+   "tarih_iso": "2026-07-19T07:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-19T07:31:06.172349+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/altin-yukselise-ne-zaman-gececek-3444132",
    "baslik": "Altın yükselişe ne zaman geçecek?",
@@ -1502,5 +1522,5 @@
    "eklenme": "2026-07-18T09:01:06.835339+03:00"
   }
  ],
- "guncelleme": "2026-07-19T07:01:15.460772+03:00"
+ "guncelleme": "2026-07-19T07:31:06.172349+03:00"
 }
