@@ -147,6 +147,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/kgf-kefaletli-kredi-sureci-ilk-kez-tamamen-dijital-ortama-tasindi-3899742-ekonomi",
+   "baslik": "Akbank ve KGF'den 'dijital' iş birliği",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/kgf-kefaletli-kredi-sureci-ilk-kez-tamamen-dijital-ortama-tasindi-3899742-ekonomi",
+   "saat": "16:17",
+   "tarih_iso": "2026-07-20T16:17:29+03:00",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-maci-ne-zaman-fb-gornik-zabrze-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-832949",
    "baslik": "Fenerbahçe maçı ne zaman? FB - Gornik Zabrze maçı ne zaman, saat kaçta, hangi kanalda?",
    "kaynak": "Dünya",
@@ -256,6 +268,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/ekonomistler-faiz-tahminlerini-acikladi-gozler-tcmbde-haberi-832962",
+   "baslik": "Ekonomistler faiz tahminlerini açıkladı! Gözler TCMB'de",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/ekonomistler-faiz-tahminlerini-acikladi-gozler-tcmbde-haberi-832962",
+   "saat": "16:24",
+   "tarih_iso": "2026-07-20T16:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/kanadada-enflasyon-yuzde-28e-geriledi-3986711",
    "baslik": "Kanada’da enflasyon yüzde 2,8’e geriledi",
@@ -498,6 +520,126 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
+   "baslik": "Forget Nvidia. These 5 S&P 500 stocks are quietly going all in on AI.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/forget-nvidia-these-5-s-p-500-stocks-are-quietly-going-all-in-on-ai-68642f84?mod=mw_rss_topstories",
+   "saat": "16:46",
+   "tarih_iso": "2026-07-20T16:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dollar-tree-closing-75-stores-134003852.html",
+   "baslik": "Dollar Tree closing 75 stores, opening 400 new ones in 2026",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dollar-tree-closing-75-stores-134003852.html",
+   "saat": "16:40",
+   "tarih_iso": "2026-07-20T16:40:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/l1-capital-international-sees-intuit-133853563.html",
+   "baslik": "L1 Capital International Sees Intuit’s (INTU) Decline as Market’s Overreaction",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/l1-capital-international-sees-intuit-133853563.html",
+   "saat": "16:38",
+   "tarih_iso": "2026-07-20T16:38:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/amc-entertainment-q2-2026-earnings-133848757.html",
+   "baslik": "AMC Entertainment Q2 2026 earnings: record revenue, surprise profit",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/amc-entertainment-q2-2026-earnings-133848757.html",
+   "saat": "16:38",
+   "tarih_iso": "2026-07-20T16:38:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-opens-higher-as-chips-recover-megacap-earnings-loom-4801154",
+   "baslik": "Wall St opens higher as chips recover, megacap earnings loom",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-higher-as-chips-recover-megacap-earnings-loom-4801154",
+   "saat": "16:36",
+   "tarih_iso": "2026-07-20T16:36:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/bitmine-slows-ethereum-purchases-buys-133500174.html",
+   "baslik": "Bitmine Slows Ethereum Purchases As It Buys Back Stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/bitmine-slows-ethereum-purchases-buys-133500174.html",
+   "saat": "16:35",
+   "tarih_iso": "2026-07-20T16:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-investors-weigh-iran-conflict-earnings-week-4799770",
+   "baslik": "U.S. stocks open higher as investor focus this week turns to earnings season",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-investors-weigh-iran-conflict-earnings-week-4799770",
+   "saat": "16:34",
+   "tarih_iso": "2026-07-20T16:34:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-amazon-stock-even-though-133200293.html",
+   "baslik": "Should You Buy Amazon Stock, Even Though It Has Badly Underperformed the S&P 500 and Nasdaq-100 Since Jeff Bezos Stepped Down as CEO?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-amazon-stock-even-though-133200293.html",
+   "saat": "16:32",
+   "tarih_iso": "2026-07-20T16:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/article/amd-micron-sk-hynix-lead-chip-stock-recovery-133110868.html",
+   "baslik": "AMD, Micron, SK Hynix lead chip stock recovery",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/article/amd-micron-sk-hynix-lead-chip-stock-recovery-133110868.html",
+   "saat": "16:31",
+   "tarih_iso": "2026-07-20T16:31:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-personalis-stock-sliding-today-93CH-4801127",
+   "baslik": "Why is Personalis stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-personalis-stock-sliding-today-93CH-4801127",
+   "saat": "16:22",
+   "tarih_iso": "2026-07-20T16:22:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-4801118",
+   "baslik": "Why is Advanced Micro Devices stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-4801118",
+   "saat": "16:20",
+   "tarih_iso": "2026-07-20T16:20:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-greenwich-lifesciences-stock-rallying-today-93CH-4801114",
+   "baslik": "Why is Greenwich LifeSciences stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-greenwich-lifesciences-stock-rallying-today-93CH-4801114",
+   "saat": "16:16",
+   "tarih_iso": "2026-07-20T16:16:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-yeti-stock-surging-today-93CH-4801106",
    "baslik": "Why is YETI stock surging today?",
@@ -1459,6 +1601,16 @@
    "eklenme": "2026-07-20T13:31:00.039709+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-20-2026-lock-in-up-to-420-apy-100000197.html",
+   "baslik": "Best CD rates today, Monday, July 20, 2026: Lock in up to 4.20% APY",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-20-2026-lock-in-up-to-420-apy-100000197.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-07-20T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/economy/policy/articles/15-words-fed-governor-christopher-095500344.html",
    "baslik": "In 15 Words, Fed Governor Christopher Waller Just Issued a Warning to Wall Street",
    "kaynak": "Yahoo Finance",
@@ -1567,139 +1719,19 @@
    "tarih_iso": "2026-07-20T12:20:04+03:00",
    "kodlar": [],
    "eklenme": "2026-07-20T13:01:09.679822+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/president-trump-just-reimposed-iran-092000551.html",
-   "baslik": "President Trump Just Reimposed the Iran Blockade. Here's What That Means for Oil Stocks.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/president-trump-just-reimposed-iran-092000551.html",
-   "saat": "12:20",
-   "tarih_iso": "2026-07-20T12:20:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:01:09.679822+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/if-history-is-a-guide-theres-still-another-week-before-earnings-will-start-to-move-the-stock-market-52baccad?mod=mw_rss_topstories",
-   "baslik": "If history is a guide, there’s still another week before earnings will start to move the stock market",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/if-history-is-a-guide-theres-still-another-week-before-earnings-will-start-to-move-the-stock-market-52baccad?mod=mw_rss_topstories",
-   "saat": "12:18",
-   "tarih_iso": "2026-07-20T12:18:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T12:31:02.492358+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/20/ryanair-q1-earnings-iran-war-summer-fares.html",
-   "baslik": "Ryanair stock slides 6% as higher fuel costs amid Iran war dent profit",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/20/ryanair-q1-earnings-iran-war-summer-fares.html",
-   "saat": "12:05",
-   "tarih_iso": "2026-07-20T12:05:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T12:31:02.492358+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/amd-vs-broadcom-better-ai-090100039.html",
-   "baslik": "AMD vs. Broadcom: The Better AI-Chip Stock to Buy After the Sell-Off",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/amd-vs-broadcom-better-ai-090100039.html",
-   "saat": "12:01",
-   "tarih_iso": "2026-07-20T12:01:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T12:31:02.492358+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/netflix-track-worst-since-2022-085600470.html",
-   "baslik": "Netflix Is on Track for Its Worst Year Since 2022. Is the Investment Thesis Still Intact After Its Latest Earnings Report?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-track-worst-since-2022-085600470.html",
-   "saat": "11:56",
-   "tarih_iso": "2026-07-20T11:56:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T12:31:02.492358+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-45-high-085400202.html",
-   "baslik": "SpaceX Stock Is Down 45% From Its High. History Suggests a $5,000 Investment Now Will Be Worth This Much by Mid-2027.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-down-45-high-085400202.html",
-   "saat": "11:54",
-   "tarih_iso": "2026-07-20T11:54:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T12:31:02.492358+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/opinion/asian-currencies-consolidate-may-weaken-amid-escalating-mideast-conflict-30e35087?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Euro Gains as Higher Energy Prices Boost ECB Rate-Rise Prospects",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/opinion/asian-currencies-consolidate-may-weaken-amid-escalating-mideast-conflict-30e35087?siteid=yhoof2&yptr=yahoo",
-   "saat": "11:50",
-   "tarih_iso": "2026-07-20T11:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T12:31:02.492358+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-arab-national-bank-stock-rallying-today-93CH-4800057",
-   "baslik": "Why is Arab National Bank stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-arab-national-bank-stock-rallying-today-93CH-4800057",
-   "saat": "11:44",
-   "tarih_iso": "2026-07-20T11:44:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T12:01:06.214633+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-maire-stock-rallying-today-93CH-4800056",
-   "baslik": "Why is Maire stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-maire-stock-rallying-today-93CH-4800056",
-   "saat": "11:44",
-   "tarih_iso": "2026-07-20T11:44:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T12:01:06.214633+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-micron-technology-stock-while-084400825.html",
-   "baslik": "Should You Buy Micron Technology Stock While It's Below $1,000? The Answer Might Surprise You.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-micron-technology-stock-while-084400825.html",
-   "saat": "11:44",
-   "tarih_iso": "2026-07-20T11:44:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T12:31:02.492358+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html",
-   "baslik": "China's car market heads for worst year since 2021 as sales plunge 20%",
-   "kaynak": "CNBC Finans",
-   "link": "https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html",
-   "saat": "11:43",
-   "tarih_iso": "2026-07-20T11:43:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T12:01:06.214633+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b?syn-25a6b1a6=1",
-   "baslik": "China’s ‘national team’ buys shares worth $9bn to prop up market",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b?syn-25a6b1a6=1",
-   "saat": "11:43",
-   "tarih_iso": "2026-07-20T11:43:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T16:01:20.938825+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ryanair-stock-sliding-today-93CH-4800051",
-   "baslik": "Why is Ryanair stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ryanair-stock-sliding-today-93CH-4800051",
-   "saat": "11:39",
-   "tarih_iso": "2026-07-20T11:39:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T11:50:35.880349+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-gun-sonunda-yukseldi-haberi-832965",
+   "baslik": "Altının kilogram fiyatı gün sonunda yükseldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-gun-sonunda-yukseldi-haberi-832965",
+   "saat": "16:49",
+   "tarih_iso": "2026-07-20T16:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/gram-altinda-6-bin-tlnin-alti-gelir-mi-sirin-sari-beklentisini-cnn-turkte-acikladi-3444701",
    "baslik": "Gram altında 6 bin TL'nin altı gelir mi? Şirin Sarı beklentisini CNN TÜRK'te açıkladı",
@@ -1831,5 +1863,5 @@
    "eklenme": "2026-07-20T09:01:11.979273+03:00"
   }
  ],
- "guncelleme": "2026-07-20T16:31:02.481827+03:00"
+ "guncelleme": "2026-07-20T16:57:10.034173+03:00"
 }
