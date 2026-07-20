@@ -1,7 +1,46 @@
 {
  "tarih": "2026-07-20",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-ISMEN-202607200934",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "09:34",
+   "tarih_iso": "2026-07-20T09:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-20T10:01:07.482410+03:00"
+  },
+  {
+   "id": "kap-my-YEOTK-202607200928",
+   "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:28",
+   "tarih_iso": "2026-07-20T09:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-20T10:01:07.482410+03:00"
+  }
+ ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/yeo-teknoloji-turizmde-depolama-pazarina-girdi-haberi-832889",
+   "baslik": "YEO Teknoloji turizmde depolama pazarına girdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/yeo-teknoloji-turizmde-depolama-pazarina-girdi-haberi-832889",
+   "saat": "09:37",
+   "tarih_iso": "2026-07-20T09:37:00+03:00",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "eklenme": "2026-07-20T10:01:07.482410+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/fenerbahcenin-sampiyonlar-ligi-yolculugu-basliyor-ilk-rakip-gornik-zabrze-haberi-832881",
    "baslik": "Fenerbahçe'nin Şampiyonlar Ligi yolculuğu başlıyor: İlk rakip Gornik Zabrze",
@@ -28,6 +67,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fedden-faiz-surprizi-gelir-mi-piyasalarin-beklemedigi-senaryo-haberi-832891",
+   "baslik": "Fed'den faiz sürprizi gelir mi? Piyasaların beklemediği senaryo",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fedden-faiz-surprizi-gelir-mi-piyasalarin-beklemedigi-senaryo-haberi-832891",
+   "saat": "09:27",
+   "tarih_iso": "2026-07-20T09:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:01:07.482410+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/cinden-faiz-karari-14-ayda-da-degisiklik-gelmedi-haberi-832874",
    "baslik": "Çin'den faiz kararı: 14. ayda da değişiklik gelmedi",
@@ -80,6 +129,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/i-couldnt-breathesouth-koreas-frenzied-stock-trading-exposes-margin-loan-risks-4799867",
+   "baslik": "’I couldn’t breathe’:South Korea’s frenzied stock trading exposes margin loan risks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/i-couldnt-breathesouth-koreas-frenzied-stock-trading-exposes-margin-loan-risks-4799867",
+   "saat": "09:42",
+   "tarih_iso": "2026-07-20T09:42:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:01:07.482410+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-006-4799859",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.06%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-006-4799859",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-20T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:01:07.482410+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-surging-today-93CH-4799850",
+   "baslik": "Why is Alibaba stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-surging-today-93CH-4799850",
+   "saat": "09:20",
+   "tarih_iso": "2026-07-20T09:20:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:01:07.482410+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/croma-security-reports-15-revenue-growth-on-acquisitions-93CH-4799846",
+   "baslik": "Croma Security reports 15% revenue growth on acquisitions",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/croma-security-reports-15-revenue-growth-on-acquisitions-93CH-4799846",
+   "saat": "09:17",
+   "tarih_iso": "2026-07-20T09:17:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:01:07.482410+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/akva-reports-q2-revenue-growth-with-ebit-rising-25-93CH-4799842",
+   "baslik": "AKVA reports Q2 revenue growth with EBIT rising 25%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/akva-reports-q2-revenue-growth-with-ebit-rising-25-93CH-4799842",
+   "saat": "09:15",
+   "tarih_iso": "2026-07-20T09:15:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:01:07.482410+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-647-4799822",
    "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 6.47%",
@@ -283,5 +382,5 @@
    "eklenme": "2026-07-20T09:01:11.979273+03:00"
   }
  ],
- "guncelleme": "2026-07-20T09:31:02.525377+03:00"
+ "guncelleme": "2026-07-20T10:01:07.482410+03:00"
 }
