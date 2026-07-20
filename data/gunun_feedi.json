@@ -2,6 +2,19 @@
  "tarih": "2026-07-20",
  "kap": [
   {
+   "id": "kap-my-SELEC-202607201001",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:01",
+   "tarih_iso": "2026-07-20T10:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202607200934",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -68,6 +81,46 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/yurt-disi-ufe-haziran-aylik-yuzde-0-46-yillik-yuzde-30-33-artti/4003334",
+   "baslik": "Yurt dışı ÜFE haziran aylık yüzde 0,46, yıllık yüzde 30,33 arttı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yurt-disi-ufe-haziran-aylik-yuzde-0-46-yillik-yuzde-30-33-artti/4003334",
+   "saat": "10:15",
+   "tarih_iso": "2026-07-20T10:15:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-ecb-toplants-ve-abd-teknoloji-sirketlerinin-bilanco-acklamalar-oncesi-geriledi-petrol-frlad-3985624",
+   "baslik": "Avrupa hisseleri ECB toplantısı ve ABD tech kazançları öncesi geriledi; petrol fırladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-ecb-toplants-ve-abd-teknoloji-sirketlerinin-bilanco-acklamalar-oncesi-geriledi-petrol-frlad-3985624",
+   "saat": "10:14",
+   "tarih_iso": "2026-07-20T10:14:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/dolar-enflasyon-ve-faiz-piyasanin-yeni-beklentileri-belli-oldu-haberi-832898",
+   "baslik": "Dolar, enflasyon ve faiz... Piyasanın yeni beklentileri belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/dolar-enflasyon-ve-faiz-piyasanin-yeni-beklentileri-belli-oldu-haberi-832898",
+   "saat": "10:03",
+   "tarih_iso": "2026-07-20T10:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/yd-ufede-haziran-tablosu-yillik-artis-yuzde-30u-asti-haberi-832899",
+   "baslik": "YD-ÜFE'de haziran tablosu: Yıllık artış yüzde 30'u aştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/yd-ufede-haziran-tablosu-yillik-artis-yuzde-30u-asti-haberi-832899",
+   "saat": "10:01",
+   "tarih_iso": "2026-07-20T10:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/fedden-faiz-surprizi-gelir-mi-piyasalarin-beklemedigi-senaryo-haberi-832891",
    "baslik": "Fed'den faiz sürprizi gelir mi? Piyasaların beklemediği senaryo",
    "kaynak": "Dünya",
@@ -129,6 +182,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-inch-lower-as-middle-east-jitters-lift-oil-tech-earnings-loom-4799934",
+   "baslik": "European shares inch lower as Middle East jitters lift oil; tech earnings loom",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-inch-lower-as-middle-east-jitters-lift-oil-tech-earnings-loom-4799934",
+   "saat": "10:18",
+   "tarih_iso": "2026-07-20T10:18:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-edge-lower-ahead-of-ecb-meeting-us-tech-earnings-oil-jumps-4799916",
+   "baslik": "European shares edge lower ahead of ECB meeting, US tech earnings; oil jumps",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-edge-lower-ahead-of-ecb-meeting-us-tech-earnings-oil-jumps-4799916",
+   "saat": "10:16",
+   "tarih_iso": "2026-07-20T10:16:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/kepler-lifts-sandvik-to-buy-after-postearnings-share-price-correction-4799912",
+   "baslik": "Kepler lifts Sandvik to Buy after post-earnings share price correction",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/kepler-lifts-sandvik-to-buy-after-postearnings-share-price-correction-4799912",
+   "saat": "10:14",
+   "tarih_iso": "2026-07-20T10:14:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-investors-weigh-iran-conflict-earnings-week-4799770",
+   "baslik": "US stock futures steady as investors weigh Iran conflict, earnings week",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-investors-weigh-iran-conflict-earnings-week-4799770",
+   "saat": "10:08",
+   "tarih_iso": "2026-07-20T10:08:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-chalco-stock-rallying-today-93CH-4799895",
+   "baslik": "Why is Chalco stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-chalco-stock-rallying-today-93CH-4799895",
+   "saat": "09:57",
+   "tarih_iso": "2026-07-20T09:57:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morgan-stanley-names-top-cybersecurity-stocks-93CH-4799891",
+   "baslik": "Morgan Stanley Names Top Cybersecurity Stocks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-names-top-cybersecurity-stocks-93CH-4799891",
+   "saat": "09:55",
+   "tarih_iso": "2026-07-20T09:55:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-two-industrial-gases-stocks-according-to-bernstein-93CH-4799890",
+   "baslik": "Top Two Industrial Gases Stocks, According To Bernstein",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-two-industrial-gases-stocks-according-to-bernstein-93CH-4799890",
+   "saat": "09:55",
+   "tarih_iso": "2026-07-20T09:55:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b?syn-25a6b1a6=1",
+   "baslik": "China’s ‘national team’ buys shares worth $9bn to prop up market",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b?syn-25a6b1a6=1",
+   "saat": "09:54",
+   "tarih_iso": "2026-07-20T09:54:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/i-couldnt-breathesouth-koreas-frenzied-stock-trading-exposes-margin-loan-risks-4799867",
    "baslik": "’I couldn’t breathe’:South Korea’s frenzied stock trading exposes margin loan risks",
@@ -270,6 +403,16 @@
    "eklenme": "2026-07-20T09:01:11.979273+03:00"
   },
   {
+   "id": "yab-https://www.ft.com/content/3b659fcd-77ce-4e63-aa46-8cb648735f13?syn-25a6b1a6=1",
+   "baslik": "Iran’s currency tumbles as renewed conflict threatens economy",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/3b659fcd-77ce-4e63-aa46-8cb648735f13?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-07-20T07:00:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T10:31:02.548428+03:00"
+  },
+  {
    "id": "yab-https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1",
    "baslik": "Morgan Stanley becomes Wall Street’s top bank for AI debt deals",
    "kaynak": "FT",
@@ -382,5 +525,5 @@
    "eklenme": "2026-07-20T09:01:11.979273+03:00"
   }
  ],
- "guncelleme": "2026-07-20T10:01:07.482410+03:00"
+ "guncelleme": "2026-07-20T10:31:02.548428+03:00"
 }
