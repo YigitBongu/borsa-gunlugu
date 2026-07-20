@@ -2,6 +2,19 @@
  "tarih": "2026-07-20",
  "kap": [
   {
+   "id": "kap-my-BERA-202607201757",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BERA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:57",
+   "tarih_iso": "2026-07-20T17:57:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-20T18:31:06.194507+03:00"
+  },
+  {
    "id": "kap-my-BUCIM-202607201730",
    "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
    "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
@@ -345,6 +358,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/hazine-alacaklari-2534-milyar-liraya-ulasti-haberi-832973",
+   "baslik": "Hazine alacakları 253,4 milyar liraya ulaştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazine-alacaklari-2534-milyar-liraya-ulasti-haberi-832973",
+   "saat": "18:02",
+   "tarih_iso": "2026-07-20T18:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T18:31:06.194507+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/hazine-alacaklarindan-7-4-milyar-tl-tahsilat-3899769-ekonomi",
+   "baslik": "Hazine alacakları açıklandı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/hazine-alacaklarindan-7-4-milyar-tl-tahsilat-3899769-ekonomi",
+   "saat": "17:58",
+   "tarih_iso": "2026-07-20T17:58:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T18:31:06.194507+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/cip-devi-asml-calsanlar-elde-tutmak-icin-20000-euro-ikramiye-verecek-3986907",
    "baslik": "Çip devi ASML, çalışanları elde tutmak için 20.000 euro ikramiye verecek",
    "kaynak": "Investing TR",
@@ -606,6 +639,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/under-55-utility-stock-could-150500081.html",
+   "baslik": "This Under-$55 Utility Stock Could Be Your Ticket to Passive-Income Freedom",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/under-55-utility-stock-could-150500081.html",
+   "saat": "18:05",
+   "tarih_iso": "2026-07-20T18:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T18:31:06.194507+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/cash-cow-etf-energy-bet-150251350.html",
+   "baslik": "This ‘Cash Cow’ ETF’s Energy Bet Just Paid Off as Brent Spiked 14% in Five Days",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/cash-cow-etf-energy-bet-150251350.html",
+   "saat": "18:02",
+   "tarih_iso": "2026-07-20T18:02:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T18:31:06.194507+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dynex-capital-q2-earnings-call-150205765.html",
+   "baslik": "Dynex Capital Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dynex-capital-q2-earnings-call-150205765.html",
+   "saat": "18:02",
+   "tarih_iso": "2026-07-20T18:02:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T18:31:06.194507+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-numbers-show-wall-street-145839446.html",
+   "baslik": "3 Numbers Show Wall Street Remains Blind About Meta’s AI Spend and Keep Me Loading Up",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-numbers-show-wall-street-145839446.html",
+   "saat": "17:58",
+   "tarih_iso": "2026-07-20T17:58:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T18:31:06.194507+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tesla-380-wall-street-says-145814614.html",
+   "baslik": "Tesla at $380: Wall Street Says It’s a Buy But Here’s 3 Strong Reasons to Sell",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-380-wall-street-says-145814614.html",
+   "saat": "17:58",
+   "tarih_iso": "2026-07-20T17:58:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T18:31:06.194507+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/article/chip-stocks-have-been-routed--but-investors-are-forgetting-one-thing-144234764.html",
    "baslik": "Chip stocks have been routed — but investors are forgetting one thing",
@@ -1755,56 +1838,6 @@
    "tarih_iso": "2026-07-20T13:14:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-20T14:01:10.386942+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/dominos-misses-quarterly-sales-profit-estimates-on-weak-demand-competition-4800314",
-   "baslik": "Domino’s misses quarterly sales, profit estimates on weak demand, competition",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/dominos-misses-quarterly-sales-profit-estimates-on-weak-demand-competition-4800314",
-   "saat": "13:13",
-   "tarih_iso": "2026-07-20T13:13:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:31:00.039709+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-too-cheap-ignore-101000203.html",
-   "baslik": "Is Microsoft Stock Too Cheap to Ignore?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-too-cheap-ignore-101000203.html",
-   "saat": "13:10",
-   "tarih_iso": "2026-07-20T13:10:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:31:00.039709+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/micron-says-memory-chip-supply-100800006.html",
-   "baslik": "Micron Says Memory Chip Supply Will Remain Tight Beyond 2027. That's Investors' Cue to Load Up on Shares Now.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-says-memory-chip-supply-100800006.html",
-   "saat": "13:08",
-   "tarih_iso": "2026-07-20T13:08:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:31:00.039709+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/paypal-went-wall-street-favorite-100330987.html",
-   "baslik": "How PayPal went from Wall Street favorite to unwilling merger target",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-went-wall-street-favorite-100330987.html",
-   "saat": "13:03",
-   "tarih_iso": "2026-07-20T13:03:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:31:00.039709+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/chipmakers-head-big-profit-gains-100309114.html",
-   "baslik": "Chipmakers head for big profit gains, but will it be enough?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/chipmakers-head-big-profit-gains-100309114.html",
-   "saat": "13:03",
-   "tarih_iso": "2026-07-20T13:03:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:31:00.039709+03:00"
   }
  ],
  "altin_haber": [
@@ -1979,5 +2012,5 @@
    "eklenme": "2026-07-20T09:01:11.979273+03:00"
   }
  ],
- "guncelleme": "2026-07-20T18:01:08.618448+03:00"
+ "guncelleme": "2026-07-20T18:31:06.194507+03:00"
 }
