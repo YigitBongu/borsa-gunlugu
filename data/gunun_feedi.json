@@ -2,6 +2,19 @@
  "tarih": "2026-07-20",
  "kap": [
   {
+   "id": "kap-my-AGHOL-202607201843",
+   "baslik": "AG ANADOLU GRUBU HOLDİNG A.Ş. — İhraç Tavanına İlişkin Bildirim",
+   "sirket": "AG ANADOLU GRUBU HOLDİNG A.Ş.",
+   "kodlar": [
+    "AGHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:43",
+   "tarih_iso": "2026-07-20T18:43:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-21T00:01:16.517343+03:00"
+  },
+  {
    "id": "kap-my-OTKAR-202607201819",
    "baslik": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş. — Finansal Takvim",
    "sirket": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.",
@@ -278,6 +291,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/kultur-sanat/vakifbank-15-temmuzun-10-yilina-ozel-sergiyi-acti-haberi-832985",
+   "baslik": "VakıfBank 15 Temmuz'un 10. yılına özel sergiyi açtı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/kultur-sanat/vakifbank-15-temmuzun-10-yilina-ozel-sergiyi-acti-haberi-832985",
+   "saat": "00:00",
+   "tarih_iso": "2026-07-21T00:00:00+03:00",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "eklenme": "2026-07-21T00:01:16.517343+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/turk-hava-yollarindan-simulator-tedarikine-iliskin-anlasma/4003844",
    "baslik": "Türk Hava Yolları'ndan simülatör tedarikine ilişkin anlaşma",
    "kaynak": "AA Ekonomi",
@@ -454,6 +479,16 @@
    "tarih_iso": "2026-07-20T18:32:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-20T18:48:43.810052+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/piyasa-kapanisi-20-temmuz-2026-pazartesi-borsa-dolar-altin-ve-kripto-paralarda-bugun-ne-oldu-fai-3899776-ekonomi",
+   "baslik": "Piyasa kapanışı: 20 Temmuz 2026 Pazartesi Borsa, dolar, altın ve kripto paralarda bugün ne oldu?",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/piyasa-kapanisi-20-temmuz-2026-pazartesi-borsa-dolar-altin-ve-kripto-paralarda-bugun-ne-oldu-fai-3899776-ekonomi",
+   "saat": "18:30",
+   "tarih_iso": "2026-07-20T18:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T00:01:16.517343+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/hazine-alacaklari-2534-milyar-liraya-ulasti-haberi-832973",
@@ -737,6 +772,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories",
+   "baslik": "Wall Street’s AI divide: Inside the bull and bear cases for what comes next for the stock market",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/wall-streets-ai-divide-inside-the-bull-and-bear-cases-for-what-comes-next-for-the-stock-market-3fcab8db?mod=mw_rss_topstories",
+   "saat": "23:55",
+   "tarih_iso": "2026-07-20T23:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T00:01:16.517343+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-059-4801671",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.59%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-059-4801671",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-20T23:30:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T00:01:16.517343+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-086-4801670",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.86%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-086-4801670",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-20T23:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T00:01:16.517343+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-020-4801667",
+   "baslik": "Brazil stocks lower at close of trade; Bovespa down 0.20%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-020-4801667",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-20T23:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T00:01:16.517343+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-4801629",
+   "baslik": "SpaceX sets date for maiden earnings report: Why August 4 is make-or-break",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/spacex-sets-date-for-maiden-earnings-report-why-august-4-is-makeorbreak-4801629",
+   "saat": "23:23",
+   "tarih_iso": "2026-07-20T23:23:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T00:01:16.517343+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cracker-barrel-stock-jumps-on-saleleaseback-deal-maple-street-exit-93CH-4801625",
+   "baslik": "Cracker Barrel stock jumps on sale-leaseback deal, Maple Street exit",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cracker-barrel-stock-jumps-on-saleleaseback-deal-maple-street-exit-93CH-4801625",
+   "saat": "23:15",
+   "tarih_iso": "2026-07-20T23:15:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T00:01:16.517343+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/nvidia-stock-trades-at-26-discount-to-fair-value-as-ai-revenue-surges-93CH-4801610",
    "baslik": "NVIDIA stock trades at 26% discount to fair value as AI revenue surges",
@@ -1876,66 +1971,6 @@
    "tarih_iso": "2026-07-20T16:35:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-20T16:57:10.034173+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-investors-weigh-iran-conflict-earnings-week-4799770",
-   "baslik": "U.S. stocks open higher as investor focus this week turns to earnings season",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-investors-weigh-iran-conflict-earnings-week-4799770",
-   "saat": "16:34",
-   "tarih_iso": "2026-07-20T16:34:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T16:57:10.034173+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-amazon-stock-even-though-133200293.html",
-   "baslik": "Should You Buy Amazon Stock, Even Though It Has Badly Underperformed the S&P 500 and Nasdaq-100 Since Jeff Bezos Stepped Down as CEO?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-amazon-stock-even-though-133200293.html",
-   "saat": "16:32",
-   "tarih_iso": "2026-07-20T16:32:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T16:57:10.034173+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/article/amd-micron-sk-hynix-lead-chip-stock-recovery-133110868.html",
-   "baslik": "AMD, Micron, SK Hynix lead chip stock recovery",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/article/amd-micron-sk-hynix-lead-chip-stock-recovery-133110868.html",
-   "saat": "16:31",
-   "tarih_iso": "2026-07-20T16:31:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T16:57:10.034173+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-personalis-stock-sliding-today-93CH-4801127",
-   "baslik": "Why is Personalis stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-personalis-stock-sliding-today-93CH-4801127",
-   "saat": "16:22",
-   "tarih_iso": "2026-07-20T16:22:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T16:57:10.034173+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
-   "baslik": "U.S. Treasury yields edge higher as Wall Street monitors Middle East tensions",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
-   "saat": "16:22",
-   "tarih_iso": "2026-07-20T16:22:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T17:30:59.479001+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-4801118",
-   "baslik": "Why is Advanced Micro Devices stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-4801118",
-   "saat": "16:20",
-   "tarih_iso": "2026-07-20T16:20:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T16:57:10.034173+03:00"
   }
  ],
  "altin_haber": [
@@ -2140,5 +2175,5 @@
    "eklenme": "2026-07-20T09:01:11.979273+03:00"
   }
  ],
- "guncelleme": "2026-07-20T23:31:04.086515+03:00"
+ "guncelleme": "2026-07-21T00:01:16.517343+03:00"
 }
