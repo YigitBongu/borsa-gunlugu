@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcenin-sampiyonlar-ligi-yolculugu-basliyor-ilk-rakip-gornik-zabrze-haberi-832881",
+   "baslik": "Fenerbahçe'nin Şampiyonlar Ligi yolculuğu başlıyor: İlk rakip Gornik Zabrze",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcenin-sampiyonlar-ligi-yolculugu-basliyor-ilk-rakip-gornik-zabrze-haberi-832881",
+   "saat": "09:04",
+   "tarih_iso": "2026-07-20T09:04:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-20T09:31:02.525377+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/egea-nin-yerine-ne-gelecek-stellantis-ten-dikkat-ceken-aciklama-3899559-ekonomi",
    "baslik": "Egea'nın yerine ne gelecek?",
    "kaynak": "Habertürk Ekonomi",
@@ -68,6 +80,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-647-4799822",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 6.47%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-647-4799822",
+   "saat": "09:00",
+   "tarih_iso": "2026-07-20T09:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T09:31:02.525377+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/20/from-super-el-nio-to-europes-heatwave-how-to-trade-extreme-weather.html",
    "baslik": "From 'Super El Niño' to Europe’s extreme heatwave: How this year's weather shocks are rattling commodity markets",
@@ -261,5 +283,5 @@
    "eklenme": "2026-07-20T09:01:11.979273+03:00"
   }
  ],
- "guncelleme": "2026-07-20T09:01:11.979273+03:00"
+ "guncelleme": "2026-07-20T09:31:02.525377+03:00"
 }
