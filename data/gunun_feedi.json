@@ -2,6 +2,19 @@
  "tarih": "2026-07-20",
  "kap": [
   {
+   "id": "kap-my-TAVHL-202607201648",
+   "baslik": "BORSA İSTANBUL A.Ş. — Hak Kullanımı",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:48",
+   "tarih_iso": "2026-07-20T16:48:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
+  {
    "id": "kap-my-PETKM-202607201545",
    "baslik": "DENİZ PORTFÖY YÖNETİMİ A.Ş. — Pay Alım Satım Bildirimi",
    "sirket": "DENİZ PORTFÖY YÖNETİMİ A.Ş.",
@@ -147,6 +160,42 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/turk-hava-yollarindan-simulator-tedarikine-iliskin-anlasma/4003844",
+   "baslik": "Türk Hava Yolları'ndan simülatör tedarikine ilişkin anlaşma",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-hava-yollarindan-simulator-tedarikine-iliskin-anlasma/4003844",
+   "saat": "17:10",
+   "tarih_iso": "2026-07-20T17:10:17+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/thy-cae-ile-simulator-tedarik-sozlesmesi-imzaladi-haberi-832968",
+   "baslik": "THY, CAE ile \"Simülatör Tedarik Sözleşmesi\" imzaladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/thy-cae-ile-simulator-tedarik-sozlesmesi-imzaladi-haberi-832968",
+   "saat": "17:07",
+   "tarih_iso": "2026-07-20T17:07:00+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-20-temmuz-2026/4003785",
+   "baslik": "60 saniyede ekonomide bugün (20 Temmuz 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-20-temmuz-2026/4003785",
+   "saat": "16:24",
+   "tarih_iso": "2026-07-20T16:24:32+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/kgf-kefaletli-kredi-sureci-ilk-kez-tamamen-dijital-ortama-tasindi-3899742-ekonomi",
    "baslik": "Akbank ve KGF'den 'dijital' iş birliği",
    "kaynak": "Habertürk Ekonomi",
@@ -268,6 +317,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/cip-devi-asml-calsanlar-elde-tutmak-icin-20000-euro-ikramiye-verecek-3986907",
+   "baslik": "Çip devi ASML, çalışanları elde tutmak için 20.000 euro ikramiye verecek",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/cip-devi-asml-calsanlar-elde-tutmak-icin-20000-euro-ikramiye-verecek-3986907",
+   "saat": "17:13",
+   "tarih_iso": "2026-07-20T17:13:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/ekonomistler-faiz-tahminlerini-acikladi-gozler-tcmbde-haberi-832962",
    "baslik": "Ekonomistler faiz tahminlerini açıkladı! Gözler TCMB'de",
@@ -521,6 +580,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/spacex-gave-investors-intense-fomo-now-the-decades-hottest-ipo-represents-a-brutal-reality-check-54f878cb?mod=mw_rss_topstories",
+   "baslik": "SpaceX gave investors intense FOMO. Now the decade’s hottest IPO represents a brutal reality check.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/spacex-gave-investors-intense-fomo-now-the-decades-hottest-ipo-represents-a-brutal-reality-check-54f878cb?mod=mw_rss_topstories",
+   "saat": "17:21",
+   "tarih_iso": "2026-07-20T17:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+   "baslik": "Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories",
+   "saat": "17:15",
+   "tarih_iso": "2026-07-20T17:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/finance/stocks/oil-holds-near-90-a-barrel-u-s-stock-futures-edge-higher-c05fcb42?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Chip Stocks Regain Ground, Powering Nasdaq",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/finance/stocks/oil-holds-near-90-a-barrel-u-s-stock-futures-edge-higher-c05fcb42?siteid=yhoof2&yptr=yahoo",
+   "saat": "17:09",
+   "tarih_iso": "2026-07-20T17:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026/card/stocks-to-watch-alibaba-ryanair-amc-entertainment-micron-Y2vsWyUq5FXtaxnM7yVV?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Stocks to Watch: Alibaba, AMC Entertainment, Domino’s, Ryanair",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-20-2026/card/stocks-to-watch-alibaba-ryanair-amc-entertainment-micron-Y2vsWyUq5FXtaxnM7yVV?siteid=yhoof2&yptr=yahoo",
+   "saat": "17:07",
+   "tarih_iso": "2026-07-20T17:07:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/articles/forget-fed-oil-prices-real-140528245.html",
+   "baslik": "Forget the Fed and Oil Prices: The Real Recession Risk Is the $39.5 Trillion U.S. Debt Bomb",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/articles/forget-fed-oil-prices-real-140528245.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-07-20T17:05:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/strategy-stock-rises-after-the-company-raises-263-million-without-selling-bitcoin-140454002.html",
+   "baslik": "Strategy stock rises after the company raises $263 million without selling bitcoin",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/strategy-stock-rises-after-the-company-raises-263-million-without-selling-bitcoin-140454002.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-07-20T17:04:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/20/alphabet-googl-stock-ai-chip-report.html",
    "baslik": "Alphabet stock pops on report it's developing a more efficient AI chip",
    "kaynak": "CNBC",
@@ -679,6 +798,16 @@
    "tarih_iso": "2026-07-20T16:22:53+03:00",
    "kodlar": [],
    "eklenme": "2026-07-20T16:57:10.034173+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
+   "baslik": "U.S. Treasury yields edge higher as Wall Street monitors Middle East tensions",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/20/treasury-yields-wall-street-iran-war-tensions.html",
+   "saat": "16:22",
+   "tarih_iso": "2026-07-20T16:22:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-4801118",
@@ -1649,79 +1778,19 @@
    "tarih_iso": "2026-07-20T13:00:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-20T13:31:00.039709+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-20-2026-purchase-rates-move-higher-than-refi-rates-100000822.html",
-   "baslik": "Mortgage and refinance rates today, Monday, July 20, 2026: Purchase rates move higher than refi rates",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-20-2026-purchase-rates-move-higher-than-refi-rates-100000822.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-07-20T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:31:00.039709+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-20-2026-earn-up-to-410-apy-100000162.html",
-   "baslik": "Best high-yield savings interest rates today, Monday, July 20, 2026: Earn up to 4.10% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-20-2026-earn-up-to-410-apy-100000162.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-07-20T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:31:00.039709+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-20-2026-lock-in-up-to-420-apy-100000197.html",
-   "baslik": "Best CD rates today, Monday, July 20, 2026: Lock in up to 4.20% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-20-2026-lock-in-up-to-420-apy-100000197.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-07-20T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T16:57:10.034173+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/15-words-fed-governor-christopher-095500344.html",
-   "baslik": "In 15 Words, Fed Governor Christopher Waller Just Issued a Warning to Wall Street",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/15-words-fed-governor-christopher-095500344.html",
-   "saat": "12:55",
-   "tarih_iso": "2026-07-20T12:55:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:31:00.039709+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/2-cryptocurrencies-poised-soar-3-094800978.html",
-   "baslik": "2 Cryptocurrencies Poised to Soar 3,000% or More, According to 1 Top Wall Street Analyst",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/2-cryptocurrencies-poised-soar-3-094800978.html",
-   "saat": "12:48",
-   "tarih_iso": "2026-07-20T12:48:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:01:09.679822+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/china-ai-stocks-gain-as-domestic-ai-models-rival-us-leaders-4800199",
-   "baslik": "China tech stocks gain as domestic AI models rival U.S. leaders",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/china-ai-stocks-gain-as-domestic-ai-models-rival-us-leaders-4800199",
-   "saat": "12:40",
-   "tarih_iso": "2026-07-20T12:40:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:01:09.679822+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/is-an-opportunity-to-buy-chip-stocks-nearing-these-two-big-wall-street-banks-are-divided-ba1b03af?mod=mw_rss_topstories",
-   "baslik": "Is an opportunity to buy chip stocks nearing? These two big Wall Street banks are divided.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/is-an-opportunity-to-buy-chip-stocks-nearing-these-two-big-wall-street-banks-are-divided-ba1b03af?mod=mw_rss_topstories",
-   "saat": "12:35",
-   "tarih_iso": "2026-07-20T12:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T13:01:09.679822+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://finance.yahoo.com/economy/policy/articles/scott-bessent-shares-truth-american-140700342.html",
+   "baslik": "Scott Bessent shares the truth about American gold and dollars",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-shares-truth-american-140700342.html",
+   "saat": "17:07",
+   "tarih_iso": "2026-07-20T17:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-20T17:30:59.479001+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/golds-3955-support-could-decide-the-next-major-directional-move-200684239",
    "baslik": "Gold’s $3,955 Support Could Decide the Next Major Directional Move",
@@ -1873,5 +1942,5 @@
    "eklenme": "2026-07-20T09:01:11.979273+03:00"
   }
  ],
- "guncelleme": "2026-07-20T17:01:11.518629+03:00"
+ "guncelleme": "2026-07-20T17:30:59.479001+03:00"
 }
