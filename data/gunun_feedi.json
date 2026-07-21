@@ -2,6 +2,32 @@
  "tarih": "2026-07-21",
  "kap": [
   {
+   "id": "kap-my-SELEC-202607211216",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:16",
+   "tarih_iso": "2026-07-21T12:16:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "kap-my-REEDR-202607211215",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:15",
+   "tarih_iso": "2026-07-21T12:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202607211108",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -65,6 +91,18 @@
     "FENER"
    ],
    "eklenme": "2026-07-21T10:57:54.078655+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/sampiyonlar-ligi-fenerbahce-maci-bu-aksam-mi-ne-zaman-fb-gornik-zabrze-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-833046",
+   "baslik": "Şampiyonlar Ligi Fenerbahçe maçı bu akşam mı, ne zaman? FB - Gornik Zabrze maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/sampiyonlar-ligi-fenerbahce-maci-bu-aksam-mi-ne-zaman-fb-gornik-zabrze-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-833046",
+   "saat": "10:34",
+   "tarih_iso": "2026-07-21T10:34:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/kultur-sanat/vakifbank-15-temmuzun-10-yilina-ozel-sergiyi-acti-haberi-832985",
@@ -143,6 +181,56 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/news/dollar-near-one-week-high-013614377.html",
+   "baslik": "Dollar softens as investors weigh Middle East jitters against inflation data",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/dollar-near-one-week-high-013614377.html",
+   "saat": "12:17",
+   "tarih_iso": "2026-07-21T12:17:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/cima-urges-uk-government-fix-090513843.html",
+   "baslik": "CIMA urges new UK Government to fix tax and skills for growth",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/cima-urges-uk-government-fix-090513843.html",
+   "saat": "12:05",
+   "tarih_iso": "2026-07-21T12:05:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/2-reason-buy-warren-buffetts-090500280.html",
+   "baslik": "2 Reason(s) to Buy Warren Buffett's Favorite Artificial Intelligence (AI) Stock and Never Sell",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/2-reason-buy-warren-buffetts-090500280.html",
+   "saat": "12:05",
+   "tarih_iso": "2026-07-21T12:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/mony-group-h1-earnings-call-090206404.html",
+   "baslik": "Mony Group H1 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mony-group-h1-earnings-call-090206404.html",
+   "saat": "12:02",
+   "tarih_iso": "2026-07-21T12:02:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/oil-prices-could-surpass-120-per-barrel-if-disruptions-in-strait-of-hormuz-dont-ease-says-goldman-sachs-047f8f88?mod=mw_rss_topstories",
+   "baslik": "Oil prices could surpass $120 per barrel if disruptions in Strait of Hormuz don’t ease, says Goldman Sachs",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/oil-prices-could-surpass-120-per-barrel-if-disruptions-in-strait-of-hormuz-dont-ease-says-goldman-sachs-047f8f88?mod=mw_rss_topstories",
+   "saat": "12:00",
+   "tarih_iso": "2026-07-21T12:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-virbac-stock-surging-today-93CH-4802222",
    "baslik": "Why is Virbac stock surging today?",
    "kaynak": "Investing.com",
@@ -213,6 +301,56 @@
    "eklenme": "2026-07-21T12:01:11.128478+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/energy/articles/nextpower-finalises-prevalon-acquisition-expand-085000536.html",
+   "baslik": "Nextpower finalises Prevalon acquisition to expand into energy storage",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/nextpower-finalises-prevalon-acquisition-expand-085000536.html",
+   "saat": "11:50",
+   "tarih_iso": "2026-07-21T11:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-broadcom-stock-worth-more-085000272.html",
+   "baslik": "Prediction: Broadcom Stock Will Be Worth More Than Apple and Microsoft 10 Years From Now",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-broadcom-stock-worth-more-085000272.html",
+   "saat": "11:50",
+   "tarih_iso": "2026-07-21T11:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html",
+   "baslik": "Stock market today: Nasdaq leads Dow, S&P 500 futures higher as chip stocks revive",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-21-dow-sp-500-nasdaq-084631499.html",
+   "saat": "11:46",
+   "tarih_iso": "2026-07-21T11:46:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/magnolia-acquire-wildfire-energy-4-082919115.html",
+   "baslik": "Magnolia to acquire WildFire Energy in $4.1bn Eagle Ford deal",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/magnolia-acquire-wildfire-energy-4-082919115.html",
+   "saat": "11:29",
+   "tarih_iso": "2026-07-21T11:29:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/kevin-warsh-made-first-big-082600553.html",
+   "baslik": "Kevin Warsh Made His First Big Move as Fed Chair, and the Bond Market Has Taken Action -- but Most Investors Missed It",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/kevin-warsh-made-first-big-082600553.html",
+   "saat": "11:26",
+   "tarih_iso": "2026-07-21T11:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/21/treasury-yields-bonds-iran-us-politics.html",
    "baslik": "Treasury yields edge lower as investors map geopolitical risks",
    "kaynak": "CNBC",
@@ -221,6 +359,26 @@
    "tarih_iso": "2026-07-21T11:25:56+03:00",
    "kodlar": [],
    "eklenme": "2026-07-21T12:01:11.128478+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/claude-ai-bought-overlooked-stock-082308506.html",
+   "baslik": "Claude AI Bought This Overlooked Stock. Here’s Why You Should Pay Attention",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/claude-ai-bought-overlooked-stock-082308506.html",
+   "saat": "11:23",
+   "tarih_iso": "2026-07-21T11:23:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/2-discounted-stocks-cathie-wood-082300399.html",
+   "baslik": "2 Discounted Stocks Cathie Wood Is Buying Aggressively Right Now",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-discounted-stocks-cathie-wood-082300399.html",
+   "saat": "11:23",
+   "tarih_iso": "2026-07-21T11:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-compass-stock-sliding-today-93CH-4802084",
@@ -411,6 +569,16 @@
    "tarih_iso": "2026-07-21T09:50:40+03:00",
    "kodlar": [],
    "eklenme": "2026-07-21T10:31:03.734950+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/chipmaker-iqe-raises-annual-sales-063532359.html",
+   "baslik": "Chipmaker IQE raises annual sales growth forecast on AI, data centre demand",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/chipmaker-iqe-raises-annual-sales-063532359.html",
+   "saat": "09:35",
+   "tarih_iso": "2026-07-21T09:35:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T12:31:06.274672+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-002-4801903",
@@ -835,5 +1003,5 @@
    "eklenme": "2026-07-21T09:01:09.785667+03:00"
   }
  ],
- "guncelleme": "2026-07-21T12:01:11.128478+03:00"
+ "guncelleme": "2026-07-21T12:31:06.274672+03:00"
 }
