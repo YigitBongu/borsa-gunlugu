@@ -2,6 +2,19 @@
  "tarih": "2026-07-21",
  "kap": [
   {
+   "id": "kap-my-SKBNK-202607211005",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:05",
+   "tarih_iso": "2026-07-21T10:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-21T10:31:03.734950+03:00"
+  },
+  {
    "id": "kap-my-TAVHL-202607210908",
    "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -95,6 +108,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-329-4801960",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 3.29%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-329-4801960",
+   "saat": "10:05",
+   "tarih_iso": "2026-07-21T10:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T10:31:03.734950+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/21/india-sbi-market-debut-billion-ipo.html",
    "baslik": "India's largest asset management firm makes a muted market debut after a $1 billion IPO",
    "kaynak": "CNBC",
@@ -103,6 +126,16 @@
    "tarih_iso": "2026-07-21T09:51:15+03:00",
    "kodlar": [],
    "eklenme": "2026-07-21T10:01:15.507129+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/fagerhult-reports-q2-sales-growth-of-68-beats-estimates-93CH-4801938",
+   "baslik": "Fagerhult reports Q2 sales growth of 6.8%, beats estimates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/fagerhult-reports-q2-sales-growth-of-68-beats-estimates-93CH-4801938",
+   "saat": "09:50",
+   "tarih_iso": "2026-07-21T09:50:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T10:31:03.734950+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-002-4801903",
@@ -387,6 +420,36 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-futures-vc-pmi-cycle-dates-and-square-of-9-signal-critical-breakout-window-200684256",
+   "baslik": "Gold Futures: VC PMI, Cycle Dates and Square of 9 Signal Critical Breakout Window",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-futures-vc-pmi-cycle-dates-and-square-of-9-signal-critical-breakout-window-200684256",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-21T10:31:03.734950+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/the-loudest-weekend-of-the-war-and-gold-still-wouldnt-rally-200684250",
+   "baslik": "The Loudest Weekend of the War, and Gold Still Wouldn’t Rally",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/the-loudest-weekend-of-the-war-and-gold-still-wouldnt-rally-200684250",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-21T10:31:03.734950+03:00"
+  },
+  {
+   "id": "alt-https://www.haberturk.com/gram-altin-gune-yukselisle-basladi-3899881-ekonomi",
+   "baslik": "Gram altın yükselişte",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/gram-altin-gune-yukselisle-basladi-3899881-ekonomi",
+   "saat": "10:03",
+   "tarih_iso": "2026-07-21T10:03:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T10:31:03.734950+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-3955-support-could-decide-the-next-major-directional-move-200684239",
    "baslik": "Gold’s $3,955 Support Could Decide the Next Major Directional Move",
    "kaynak": "Investing Emtia",
@@ -487,5 +550,5 @@
    "eklenme": "2026-07-21T09:01:09.785667+03:00"
   }
  ],
- "guncelleme": "2026-07-21T10:01:15.507129+03:00"
+ "guncelleme": "2026-07-21T10:31:03.734950+03:00"
 }
