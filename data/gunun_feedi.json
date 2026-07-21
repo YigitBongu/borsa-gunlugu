@@ -69,6 +69,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/garanti-bbva-genel-muduru-mahmut-akten-turkiye-ekonomisine-ve-topluma-katki-saglamaya-devam-ediyoruz-3899949-ekonomi",
+   "baslik": "\"Türkiye ekonomisine katkı sağlamaya devam ediyoruz\"",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/garanti-bbva-genel-muduru-mahmut-akten-turkiye-ekonomisine-ve-topluma-katki-saglamaya-devam-ediyoruz-3899949-ekonomi",
+   "saat": "12:23",
+   "tarih_iso": "2026-07-21T12:23:18+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/istanbul-toplu-tasima-ucret-tarifesi-2026-ogrenci-tam-aylik-akbil-abonman-ne-kadar-oldu-iett-metro-metrobus-marmaray-kac-tl-basiyor-3444007",
    "baslik": "İSTANBUL TOPLU TAŞIMA ÜCRET TARİFESİ 2026 | Öğrenci, Tam Aylık Akbil, Abonman Ne Kadar Oldu? İETT, Metro, Metrobüs, Marmaray Kaç TL Basıyor?",
    "kaynak": "CNN Türk Ekonomi",
@@ -103,6 +115,18 @@
     "FENER"
    ],
    "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-surdurulebilir-havacilik-yakiti-gelisimini-desteklemek-icin-saffa-fonuna-katildi/4004333",
+   "baslik": "THY, sürdürülebilir havacılık yakıtı gelişimini desteklemek için \"SAFFA Fonu\"na katıldı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thy-surdurulebilir-havacilik-yakiti-gelisimini-desteklemek-icin-saffa-fonuna-katildi/4004333",
+   "saat": "10:21",
+   "tarih_iso": "2026-07-21T10:21:05+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/kultur-sanat/vakifbank-15-temmuzun-10-yilina-ozel-sergiyi-acti-haberi-832985",
@@ -181,6 +205,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
+   "baslik": "Nebius stock surges as Nvidia discloses 9.3% stake in neocloud",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/21/nebius-stock-nvidia-stake-neocloud.html",
+   "saat": "12:47",
+   "tarih_iso": "2026-07-21T12:47:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/netflix-stock-down-26-2026-093500376.html",
+   "baslik": "Netflix Stock Is Down 26% in 2026. Is This the Ultimate Buying Opportunity, or Is More Downside Ahead?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-down-26-2026-093500376.html",
+   "saat": "12:35",
+   "tarih_iso": "2026-07-21T12:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/tesla-stock-price-earnings-059061b4?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Tesla Earnings Are Coming. 2 Things That Will Drive the Stock.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/tesla-stock-price-earnings-059061b4?siteid=yhoof2&yptr=yahoo",
+   "saat": "12:34",
+   "tarih_iso": "2026-07-21T12:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/billionaire-ray-dalios-blunt-6-092600770.html",
+   "baslik": "Billionaire Ray Dalio's Blunt 6-Word Statement on AI Sends a Chilling Message to Wall Street",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-ray-dalios-blunt-6-092600770.html",
+   "saat": "12:26",
+   "tarih_iso": "2026-07-21T12:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-belimo-stock-rallying-today-93CH-4802304",
+   "baslik": "Why is Belimo stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-belimo-stock-rallying-today-93CH-4802304",
+   "saat": "12:22",
+   "tarih_iso": "2026-07-21T12:22:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-alphabet-stock-july-22-092200674.html",
+   "baslik": "Should You Buy Alphabet Stock Before July 22? Wall Street Has a Clear Answer.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-alphabet-stock-july-22-092200674.html",
+   "saat": "12:22",
+   "tarih_iso": "2026-07-21T12:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-u-small-cap-stocks-092000826.html",
+   "baslik": "Prediction: U.S. Small-Cap Stocks Will Beat Large Caps for 10 Years",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-u-small-cap-stocks-092000826.html",
+   "saat": "12:20",
+   "tarih_iso": "2026-07-21T12:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bossard-stock-surging-today-93CH-4802297",
+   "baslik": "Why is Bossard stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bossard-stock-surging-today-93CH-4802297",
+   "saat": "12:19",
+   "tarih_iso": "2026-07-21T12:19:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/news/dollar-near-one-week-high-013614377.html",
    "baslik": "Dollar softens as investors weigh Middle East jitters against inflation data",
    "kaynak": "Yahoo Finance",
@@ -189,6 +293,56 @@
    "tarih_iso": "2026-07-21T12:17:05+03:00",
    "kodlar": [],
    "eklenme": "2026-07-21T12:31:06.274672+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/uk-defense-stocks-gain-after-john-healey-named-finance-minister-4802290",
+   "baslik": "U.K. defense stocks gain after John Healey named finance minister",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/uk-defense-stocks-gain-after-john-healey-named-finance-minister-4802290",
+   "saat": "12:16",
+   "tarih_iso": "2026-07-21T12:16:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lindt--sprungli-stock-sliding-today-93CH-4802273",
+   "baslik": "Why is Lindt & Sprüngli stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lindt--sprungli-stock-sliding-today-93CH-4802273",
+   "saat": "12:13",
+   "tarih_iso": "2026-07-21T12:13:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-adobe-stock-sliding-today-93CH-4802265",
+   "baslik": "Why is Adobe stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-adobe-stock-sliding-today-93CH-4802265",
+   "saat": "12:10",
+   "tarih_iso": "2026-07-21T12:10:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-intuit-stock-sliding-today-93CH-4802264",
+   "baslik": "Why is Intuit stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-intuit-stock-sliding-today-93CH-4802264",
+   "saat": "12:10",
+   "tarih_iso": "2026-07-21T12:10:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-calix-stock-tumbling-today-93CH-4802261",
+   "baslik": "Why is Calix stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-calix-stock-tumbling-today-93CH-4802261",
+   "saat": "12:08",
+   "tarih_iso": "2026-07-21T12:08:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/economy/policy/articles/cima-urges-uk-government-fix-090513843.html",
@@ -873,6 +1027,16 @@
    "eklenme": "2026-07-21T12:01:11.128478+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-rebounds-off-4000-floorcan-the-recovery-hold-200684280",
+   "baslik": "Gold Rebounds Off $4,000 Floor—Can the Recovery Hold?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-rebounds-off-4000-floorcan-the-recovery-hold-200684280",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-21T13:01:04.595332+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-futures-vc-pmi-cycle-dates-and-square-of-9-signal-critical-breakout-window-200684256",
    "baslik": "Gold Futures: VC PMI, Cycle Dates and Square of 9 Signal Critical Breakout Window",
    "kaynak": "Investing Emtia",
@@ -1003,5 +1167,5 @@
    "eklenme": "2026-07-21T09:01:09.785667+03:00"
   }
  ],
- "guncelleme": "2026-07-21T12:31:06.274672+03:00"
+ "guncelleme": "2026-07-21T13:01:04.595332+03:00"
 }
