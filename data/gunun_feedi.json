@@ -2,6 +2,58 @@
  "tarih": "2026-07-21",
  "kap": [
   {
+   "id": "kap-my-BIMAS-202607212032",
+   "baslik": "BİM BİRLEŞİK MAĞAZALAR A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+   "kodlar": [
+    "BIMAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "20:32",
+   "tarih_iso": "2026-07-21T20:32:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-22T00:01:10.020886+03:00"
+  },
+  {
+   "id": "kap-my-TUKAS-202607211825",
+   "baslik": "TUKAŞ GIDA SANAYİ VE TİCARET A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "TUKAŞ GIDA SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "TUKAS"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "18:25",
+   "tarih_iso": "2026-07-21T18:25:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-22T00:01:10.020886+03:00"
+  },
+  {
+   "id": "kap-my-TUKAS-202607211815",
+   "baslik": "JCR AVRASYA DERECELENDİRME A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "JCR AVRASYA DERECELENDİRME A.Ş.",
+   "kodlar": [
+    "TUKAS"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "18:15",
+   "tarih_iso": "2026-07-21T18:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-22T00:01:10.020886+03:00"
+  },
+  {
+   "id": "kap-my-BOBET-202607211815",
+   "baslik": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:15",
+   "tarih_iso": "2026-07-21T18:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-22T00:01:10.020886+03:00"
+  },
+  {
    "id": "kap-my-BAGFS-202607211812",
    "baslik": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş.",
@@ -161,6 +213,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-polonyaya-avantajli-gidiyor-haberi-833149",
+   "baslik": "Fenerbahçe, Polonya'ya avantajlı gidiyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-polonyaya-avantajli-gidiyor-haberi-833149",
+   "saat": "22:51",
+   "tarih_iso": "2026-07-21T22:51:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-22T00:01:10.020886+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcenin-gornik-zabrze-karsisindaki-11i-belli-oldu-haberi-833133",
+   "baslik": "Fenerbahçe'nin Gornik Zabrze karşısındaki 11'i belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcenin-gornik-zabrze-karsisindaki-11i-belli-oldu-haberi-833133",
+   "saat": "19:53",
+   "tarih_iso": "2026-07-21T19:53:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-22T00:01:10.020886+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-21-temmuz-2026/4004786",
    "baslik": "60 saniyede ekonomide bugün (21 Temmuz 2026)",
    "kaynak": "AA Ekonomi",
@@ -294,6 +370,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hazineden-39-milyar-dolarlik-tahvil-ve-kira-sertifikasi-ihraci-haberi-833139",
+   "baslik": "Hazine'den 3,9 milyar dolarlık tahvil ve kira sertifikası ihracı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazineden-39-milyar-dolarlik-tahvil-ve-kira-sertifikasi-ihraci-haberi-833139",
+   "saat": "20:42",
+   "tarih_iso": "2026-07-21T20:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T00:01:10.020886+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/bakan-yardimcisi-gurcan-ihracatta-278-milyar-dolar-esigini-gectik-haberi-833137",
+   "baslik": "Bakan yardımcısı Gürcan: İhracatta 278 milyar dolar eşiğini geçtik",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bakan-yardimcisi-gurcan-ihracatta-278-milyar-dolar-esigini-gectik-haberi-833137",
+   "saat": "20:24",
+   "tarih_iso": "2026-07-21T20:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T00:01:10.020886+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/macquarie-spacex-icin-ideal-giris-noktas-goruyor-spcx-icin-250-dolar-hedefini-koruyor-3988962",
    "baslik": "Macquarie, SpaceX için ideal giriş noktası görüyor, SPCX için 250 dolar hedefini koruyor",
@@ -1879,5 +1975,5 @@
    "eklenme": "2026-07-21T09:01:09.785667+03:00"
   }
  ],
- "guncelleme": "2026-07-21T23:31:03.421550+03:00"
+ "guncelleme": "2026-07-22T00:01:10.020886+03:00"
 }
