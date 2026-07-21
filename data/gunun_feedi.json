@@ -2,6 +2,19 @@
  "tarih": "2026-07-21",
  "kap": [
   {
+   "id": "kap-my-KORDS-202607211439",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:39",
+   "tarih_iso": "2026-07-21T14:39:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
+  },
+  {
    "id": "kap-my-ASELS-202607211258",
    "baslik": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Finansal Takvim",
    "sirket": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
@@ -81,6 +94,30 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/yahya-ulker-bilime-yapilan-her-yatirim-insanligin-gelecegine-yapilan-yatirimdir-3899998-ekonomi",
+   "baslik": "“Bilime yapılan her yatırım, insanlığın geleceğine yapılan yatırımdır”",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/yahya-ulker-bilime-yapilan-her-yatirim-insanligin-gelecegine-yapilan-yatirimdir-3899998-ekonomi",
+   "saat": "14:49",
+   "tarih_iso": "2026-07-21T14:49:16+03:00",
+   "kodlar": [
+    "ULKER"
+   ],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-ile-havelsan-arasinda-12-ucus-simulatoru-icin-anlasma/4004669",
+   "baslik": "THY ile HAVELSAN arasında 12 uçuş simülatörü için anlaşma",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thy-ile-havelsan-arasinda-12-ucus-simulatoru-icin-anlasma/4004669",
+   "saat": "14:35",
+   "tarih_iso": "2026-07-21T14:35:56+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/garanti-bbva-genel-muduru-mahmut-akten-turkiye-ekonomisine-ve-topluma-katki-saglamaya-devam-ediyoruz-3899949-ekonomi",
    "baslik": "\"Türkiye ekonomisine katkı sağlamaya devam ediyoruz\"",
@@ -218,6 +255,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
+   "baslik": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
+   "saat": "14:56",
+   "tarih_iso": "2026-07-21T14:56:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-iran-tensions-megacap-tech-earnings-in-focus-4801810",
+   "baslik": "Semiconductor stocks lead Wall St futures higher; upcoming tech earnings in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-iran-tensions-megacap-tech-earnings-in-focus-4801810",
+   "saat": "14:46",
+   "tarih_iso": "2026-07-21T14:46:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-nasdaq-sandisk-micron-amd-jump-ai-rebounds-gm-3m-lead-earnings-movers/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Sandisk, Micron, AMD Jump As AI Rebounds; GM, 3M Lead Earnings Movers",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-nasdaq-sandisk-micron-amd-jump-ai-rebounds-gm-3m-lead-earnings-movers/?src=A00220&yptr=yahoo",
+   "saat": "14:42",
+   "tarih_iso": "2026-07-21T14:42:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-114144061.html",
+   "baslik": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Adobe, Datadog, Five Below, Fortinet, Gilead Sciences, Goldman Sachs, Microsoft, Salesforce, and More",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-114144061.html",
+   "saat": "14:41",
+   "tarih_iso": "2026-07-21T14:41:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/3m-lifts-annual-profit-forecast-as-industrial-unit-remains-resilient-4802669",
+   "baslik": "3M boosts annual profit forecast driven by resilient industrial unit",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/3m-lifts-annual-profit-forecast-as-industrial-unit-remains-resilient-4802669",
+   "saat": "14:37",
+   "tarih_iso": "2026-07-21T14:37:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/texas-instruments-servicenow-one-stock-113541793.html",
+   "baslik": "Texas Instruments or ServiceNow: One Stock Has the Analyst Conviction to Soar After Earnings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-servicenow-one-stock-113541793.html",
+   "saat": "14:35",
+   "tarih_iso": "2026-07-21T14:35:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/halliburton-earnings-stock-price-991b78ce?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Halliburton Earnings Beat Estimates. Why the Stock Is Falling.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/halliburton-earnings-stock-price-991b78ce?siteid=yhoof2&yptr=yahoo",
+   "saat": "14:35",
+   "tarih_iso": "2026-07-21T14:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/novartis-ceo-says-will-stay-with-drugmaker-for-next-growth-phase-93CH-4802845",
+   "baslik": "Novartis CEO says will stay with drugmaker for next growth phase",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/novartis-ceo-says-will-stay-with-drugmaker-for-next-growth-phase-93CH-4802845",
+   "saat": "14:28",
+   "tarih_iso": "2026-07-21T14:28:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-surging-today-93CH-4802835",
    "baslik": "Why is Western Digital stock surging today?",
    "kaynak": "Investing.com",
@@ -276,6 +393,16 @@
    "tarih_iso": "2026-07-21T14:13:21+03:00",
    "kodlar": [],
    "eklenme": "2026-07-21T14:31:04.255615+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/etfs-and-funds/sectors/sp500-just-investing-in-this-stock-in-january-made-you-a-million/?src=A00220&yptr=yahoo",
+   "baslik": "$170,660 Invested In This Stock In January Is Now Worth $1 Million",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-just-investing-in-this-stock-in-january-made-you-a-million/?src=A00220&yptr=yahoo",
+   "saat": "14:13",
+   "tarih_iso": "2026-07-21T14:13:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/chip-stocks-rebound-3m-rallies-after-earnings-gm-slips-despite-upbeat-results-4802801",
@@ -406,6 +533,16 @@
    "tarih_iso": "2026-07-21T13:39:01+03:00",
    "kodlar": [],
    "eklenme": "2026-07-21T14:01:10.568654+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/research/reports/ARGUS_47675_MarketSummary_1784630243000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "baslik": "Market Digest: TFC, PANW, VGNT",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/research/reports/ARGUS_47675_MarketSummary_1784630243000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "saat": "13:37",
+   "tarih_iso": "2026-07-21T13:37:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/gm-quarterly-core-profit-rises-30-on-truck-suv-strength-4802597",
@@ -1316,106 +1453,6 @@
    "tarih_iso": "2026-07-21T07:01:01+03:00",
    "kodlar": [],
    "eklenme": "2026-07-21T09:01:09.785667+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html",
-   "baslik": "Ships shun Strait of Hormuz as renewed fighting strains key oil corridor",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html",
-   "saat": "05:33",
-   "tarih_iso": "2026-07-21T05:33:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T09:01:09.785667+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-   "saat": "03:34",
-   "tarih_iso": "2026-07-21T03:34:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T09:01:09.785667+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
-   "baslik": "U.S. hits Canada with stiff new tariffs, escalating trade tensions",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/u-s-hits-canada-with-stiff-new-tariffs-escalating-trade-tensions-4a97065f?mod=mw_rss_topstories",
-   "saat": "03:13",
-   "tarih_iso": "2026-07-21T03:13:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T09:01:09.785667+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-   "baslik": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
-   "saat": "02:01",
-   "tarih_iso": "2026-07-21T02:01:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T09:01:09.785667+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
-   "baslik": "Why are gasoline prices rising faster than oil prices? Blame it on the ‘crack.’",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/why-are-gasoline-prices-rising-faster-than-oil-prices-blame-it-on-the-crack-22b454e7?mod=mw_rss_topstories",
-   "saat": "01:55",
-   "tarih_iso": "2026-07-21T01:55:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T09:01:09.785667+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories",
-   "baslik": "Why cheap Chinese AI models could actually be a boon for Nvidia, Micron and other chip stocks",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/why-cheap-chinese-ai-models-could-actually-be-a-boon-for-nvidia-micron-and-other-chip-stocks-8dd4baba?mod=mw_rss_topstories",
-   "saat": "01:21",
-   "tarih_iso": "2026-07-21T01:21:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T09:01:09.785667+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html",
-   "baslik": "Jim Cramer says it's time to look beyond tech as AI uncertainty rattles the market",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/20/jim-cramer-look-beyond-tech-ai-uncertainty.html",
-   "saat": "01:20",
-   "tarih_iso": "2026-07-21T01:20:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T09:01:09.785667+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
-   "baslik": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
-   "saat": "01:13",
-   "tarih_iso": "2026-07-21T01:13:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T09:01:09.785667+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
-   "baslik": "The 20-somethings betting big on tech stocks",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c20yz9v1llro?at_medium=RSS&at_campaign=rss",
-   "saat": "01:00",
-   "tarih_iso": "2026-07-21T01:00:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T09:01:09.785667+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-   "baslik": "Global oil prices settle at one-month high despite new Iran ceasefire proposal, as blockade on Saudi Arabia by Yemen’s Houthis keeps market on edge",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories",
-   "saat": "00:11",
-   "tarih_iso": "2026-07-21T00:11:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T09:01:09.785667+03:00"
   }
  ],
  "altin_haber": [
@@ -1428,6 +1465,16 @@
    "tarih_iso": "2026-07-21T14:43:30+03:00",
    "kodlar": [],
    "eklenme": "2026-07-21T12:01:11.128478+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/finans/haberler/turkiyenin-isvicreden-altin-ithalati-4-yilin-en-dusugunde-haberi-833079",
+   "baslik": "Türkiye'nin İsviçre'den altın ithalatı 4 yılın en düşüğünde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/turkiyenin-isvicreden-altin-ithalati-4-yilin-en-dusugunde-haberi-833079",
+   "saat": "14:38",
+   "tarih_iso": "2026-07-21T14:38:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T15:01:15.939315+03:00"
   },
   {
    "id": "alt-https://finance.yahoo.com/markets/commodities/articles/eldorado-gold-starts-commissioning-skouries-111512209.html",
@@ -1610,5 +1657,5 @@
    "eklenme": "2026-07-21T09:01:09.785667+03:00"
   }
  ],
- "guncelleme": "2026-07-21T14:31:04.255615+03:00"
+ "guncelleme": "2026-07-21T15:01:15.939315+03:00"
 }
