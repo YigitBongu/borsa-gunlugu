@@ -1,6 +1,20 @@
 {
  "tarih": "2026-07-21",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-TAVHL-202607210908",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:08",
+   "tarih_iso": "2026-07-21T09:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-21T10:01:15.507129+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/istanbul-toplu-tasima-ucret-tarifesi-2026-ogrenci-tam-aylik-akbil-abonman-ne-kadar-oldu-iett-metro-metrobus-marmaray-kac-tl-basiyor-3444007",
@@ -39,6 +53,16 @@
    "eklenme": "2026-07-21T09:01:09.785667+03:00"
   },
   {
+   "id": "rss-https://www.haberturk.com/brent-petrolde-120-dolar-senaryosu-3899871-ekonomi",
+   "baslik": "Brent petrolde 120 dolar senaryosu",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/brent-petrolde-120-dolar-senaryosu-3899871-ekonomi",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-21T09:30:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T10:01:15.507129+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/enflasyon-korkusu-geri-dondu-fedin-faiz-karari-degisebilir-haberi-833020",
    "baslik": "Enflasyon korkusu geri döndü: Fed'in faiz kararı değişebilir",
    "kaynak": "Dünya",
@@ -70,6 +94,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/21/india-sbi-market-debut-billion-ipo.html",
+   "baslik": "India's largest asset management firm makes a muted market debut after a $1 billion IPO",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/21/india-sbi-market-debut-billion-ipo.html",
+   "saat": "09:51",
+   "tarih_iso": "2026-07-21T09:51:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T10:01:15.507129+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-002-4801903",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.02%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-002-4801903",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-21T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T10:01:15.507129+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-052-4801879",
    "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.52%",
@@ -443,5 +487,5 @@
    "eklenme": "2026-07-21T09:01:09.785667+03:00"
   }
  ],
- "guncelleme": "2026-07-21T09:31:01.320103+03:00"
+ "guncelleme": "2026-07-21T10:01:15.507129+03:00"
 }
