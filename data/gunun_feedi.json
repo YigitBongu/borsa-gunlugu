@@ -461,6 +461,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/altn-4000-dolarn-uzerinde-orta-dogu-ve-fed-odakta-3987364",
+   "baslik": "Altın 4.000 doların üzerinde, Orta Doğu ve Fed odakta",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-4000-dolarn-uzerinde-orta-dogu-ve-fed-odakta-3987364",
+   "saat": "04:52",
+   "tarih_iso": "2026-07-21T04:52:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T05:01:08.117538+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/hazineden-199-milyar-liralik-kira-sertifikasi-ihraci-haberi-832979",
    "baslik": "Hazine'den 19,9 milyar liralık kira sertifikası ihracı",
    "kaynak": "Dünya",
@@ -772,6 +782,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/gold-rises-above-4000-as-traders-track-middle-east-tensions-fed-rate-outlook-4801832",
+   "baslik": "Gold rises above $4,000 as traders track Middle East tensions, Fed rate outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-rises-above-4000-as-traders-track-middle-east-tensions-fed-rate-outlook-4801832",
+   "saat": "04:52",
+   "tarih_iso": "2026-07-21T04:52:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T05:01:08.117538+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-telix-pharmaceuticals-stock-climbing-today-93CH-4801820",
    "baslik": "Why is Telix Pharmaceuticals stock climbing today?",
@@ -1961,19 +1981,29 @@
    "tarih_iso": "2026-07-20T18:18:11+03:00",
    "kodlar": [],
    "eklenme": "2026-07-20T18:48:43.810052+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/research/monster-stock-mnst/?src=A00220&yptr=yahoo",
-   "baslik": "Monster Stock Creates Add-On Entry After Powerful Earnings-Fueled Breakout",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/research/monster-stock-mnst/?src=A00220&yptr=yahoo",
-   "saat": "18:16",
-   "tarih_iso": "2026-07-20T18:16:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-20T18:48:43.810052+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/altn-4000-dolarn-uzerinde-orta-dogu-ve-fed-odakta-3987364",
+   "baslik": "Altın 4.000 doların üzerinde, Orta Doğu ve Fed odakta",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-4000-dolarn-uzerinde-orta-dogu-ve-fed-odakta-3987364",
+   "saat": "04:52",
+   "tarih_iso": "2026-07-21T04:52:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T05:01:08.117538+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/gold-rises-above-4000-as-traders-track-middle-east-tensions-fed-rate-outlook-4801832",
+   "baslik": "Gold rises above $4,000 as traders track Middle East tensions, Fed rate outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-rises-above-4000-as-traders-track-middle-east-tensions-fed-rate-outlook-4801832",
+   "saat": "04:52",
+   "tarih_iso": "2026-07-21T04:52:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-21T05:01:08.117538+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/markets/crypto/articles/gold-bitcoin-crypto-exchanges-reshaping-163952001.html",
    "baslik": "From Gold to Bitcoin: How Crypto Exchanges Are Reshaping Global Macro Investing",
@@ -2175,5 +2205,5 @@
    "eklenme": "2026-07-20T09:01:11.979273+03:00"
   }
  ],
- "guncelleme": "2026-07-21T04:31:02.563652+03:00"
+ "guncelleme": "2026-07-21T05:01:08.117538+03:00"
 }
