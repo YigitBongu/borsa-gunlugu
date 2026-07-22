@@ -2,6 +2,19 @@
  "tarih": "2026-07-22",
  "kap": [
   {
+   "id": "kap-my-REEDR-202607222244",
+   "baslik": "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş. — Genel Kurul İşlemlerine İlişkin Bildirim",
+   "sirket": "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "22:44",
+   "tarih_iso": "2026-07-22T22:44:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T00:31:00.277338+03:00"
+  },
+  {
    "id": "kap-my-TTRAK-202607222036",
    "baslik": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş. — Faaliyetlerin Kısmen veya Tamamen Durdurulması ya da İmkansız Hale Gelmesi",
    "sirket": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş.",
@@ -238,6 +251,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/turk-voleyboluna-4-yillik-surdurulebilir-enerji-yatirimi-haberi-833270",
+   "baslik": "Türk voleyboluna 4 yıllık sürdürülebilir enerji yatırımı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/turk-voleyboluna-4-yillik-surdurulebilir-enerji-yatirimi-haberi-833270",
+   "saat": "00:00",
+   "tarih_iso": "2026-07-23T00:00:00+03:00",
+   "kodlar": [
+    "ARCLK"
+   ],
+   "eklenme": "2026-07-23T00:31:00.277338+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/surdurulebilir-dunya/her-gun-2-bin-kamyon-dolusu-plastik-mavi-sulara-karisiyor-haberi-833285",
+   "baslik": "Her gün 2 bin kamyon dolusu plastik mavi sulara karışıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/surdurulebilir-dunya/her-gun-2-bin-kamyon-dolusu-plastik-mavi-sulara-karisiyor-haberi-833285",
+   "saat": "00:00",
+   "tarih_iso": "2026-07-23T00:00:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-07-23T00:31:00.277338+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-22-temmuz-2026/4005872",
    "baslik": "60 saniyede ekonomide bugün (22 Temmuz 2026)",
    "kaynak": "AA Ekonomi",
@@ -299,6 +336,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/kalanickin-atomsu-endustriyel-yapay-zeka-icin-17-milyar-dolar-toplad-3991571",
+   "baslik": "Kalanick’in Atoms’u endüstriyel yapay zeka için 1,7 milyar dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/kalanickin-atomsu-endustriyel-yapay-zeka-icin-17-milyar-dolar-toplad-3991571",
+   "saat": "23:57",
+   "tarih_iso": "2026-07-22T23:57:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T00:31:00.277338+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/br-technology-merger-corp-nasdaqta-325-milyon-dolar-toplad-432SI-3991487",
    "baslik": "B&R Technology Merger Corp. Nasdaq’ta 325 milyon dolar topladı",
@@ -481,6 +528,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-193-4807101",
+   "baslik": "Russia stocks higher at close of trade; MOEX Russia Index up 1.93%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-193-4807101",
+   "saat": "00:20",
+   "tarih_iso": "2026-07-23T00:20:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T00:31:00.277338+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/casino-operator-las-vegas-sands-quarterly-profit-revenue-slip-on-weak-macau-business-4807088",
+   "baslik": "Casino operator Las Vegas Sands quarterly profit, revenue slip on weak Macau business",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/casino-operator-las-vegas-sands-quarterly-profit-revenue-slip-on-weak-macau-business-4807088",
+   "saat": "00:13",
+   "tarih_iso": "2026-07-23T00:13:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T00:31:00.277338+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/2707aeb6-dba0-4640-877b-4839d268c820?syn-25a6b1a6=1",
+   "baslik": "US and Saudi Arabia agree landmark nuclear energy pact",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/2707aeb6-dba0-4640-877b-4839d268c820?syn-25a6b1a6=1",
+   "saat": "00:02",
+   "tarih_iso": "2026-07-23T00:02:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T00:31:00.277338+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+   "baslik": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+   "saat": "00:01",
+   "tarih_iso": "2026-07-23T00:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T00:31:00.277338+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
    "baslik": "IBM just cut its outlook. Why its stock is bouncing higher anyway.",
@@ -1640,46 +1727,6 @@
    "tarih_iso": "2026-07-22T17:35:39+03:00",
    "kodlar": [],
    "eklenme": "2026-07-22T18:01:12.918115+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/the-10-most-undervalued-us-stocks-with-over-60-fair-value-upside-93CH-4806394",
-   "baslik": "The 10 most undervalued U.S. stocks with over 60% fair value upside",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/the-10-most-undervalued-us-stocks-with-over-60-fair-value-upside-93CH-4806394",
-   "saat": "17:34",
-   "tarih_iso": "2026-07-22T17:34:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T18:01:12.918115+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/galaxy-digital-plans-35b-junk-bond-sale-for-ai-data-center-4806368",
-   "baslik": "Galaxy Digital plans $3.5B junk bond sale for AI data center",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/galaxy-digital-plans-35b-junk-bond-sale-for-ai-data-center-4806368",
-   "saat": "17:28",
-   "tarih_iso": "2026-07-22T17:28:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T17:31:08.561161+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/news/wall-st-futures-edge-lower-095915371.html",
-   "baslik": "Wall St mixed as caution builds ahead of Big Tech earnings",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/wall-st-futures-edge-lower-095915371.html",
-   "saat": "17:27",
-   "tarih_iso": "2026-07-22T17:27:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T18:31:11.083867+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/sofi-technologies-q2-fy2026-earnings-debate-bull-case-vs-bear-case-93CH-4806356",
-   "baslik": "SoFi Technologies Q2 FY2026 earnings debate: bull case vs. bear case",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/sofi-technologies-q2-fy2026-earnings-debate-bull-case-vs-bear-case-93CH-4806356",
-   "saat": "17:25",
-   "tarih_iso": "2026-07-22T17:25:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T17:31:08.561161+03:00"
   }
  ],
  "altin_haber": [
@@ -1914,5 +1961,5 @@
    "eklenme": "2026-07-22T09:01:10.916735+03:00"
   }
  ],
- "guncelleme": "2026-07-23T00:01:10.946892+03:00"
+ "guncelleme": "2026-07-23T00:31:00.277338+03:00"
 }
