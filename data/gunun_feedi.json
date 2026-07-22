@@ -41,7 +41,20 @@
    "eklenme": "2026-07-22T09:01:10.916735+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-rovans-maci-ne-zaman-gornik-zabrze-fb-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-833178",
+   "baslik": "Fenerbahçe rövanş maçı ne zaman? Gornik Zabrze - FB maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-rovans-maci-ne-zaman-gornik-zabrze-fb-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-833178",
+   "saat": "09:22",
+   "tarih_iso": "2026-07-22T09:22:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-22T09:31:02.395338+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-22-temmuz-carsamba-doviz-kurlari-haberi-833164",
@@ -56,6 +69,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bandhan-bank-stock-crashing-today-93CH-4804690",
+   "baslik": "Why is Bandhan Bank stock crashing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bandhan-bank-stock-crashing-today-93CH-4804690",
+   "saat": "09:13",
+   "tarih_iso": "2026-07-22T09:13:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T09:31:02.395338+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cathay-pacific-airways-stock-rising-today-93CH-4804689",
+   "baslik": "Why is Cathay Pacific Airways stock rising today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cathay-pacific-airways-stock-rising-today-93CH-4804689",
+   "saat": "09:13",
+   "tarih_iso": "2026-07-22T09:13:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T09:31:02.395338+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Lower fuel prices help drive inflation down to 2.6%",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+   "saat": "09:07",
+   "tarih_iso": "2026-07-22T09:07:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T09:31:02.395338+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-420-4804671",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 4.20%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-420-4804671",
+   "saat": "09:05",
+   "tarih_iso": "2026-07-22T09:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T09:31:02.395338+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/22/axiom-aiosciences-ipo-listing-hong-kong.html",
    "baslik": "Wall Street can wait: Why one U.S. biotech firm is listing in Hong Kong first",
    "kaynak": "CNBC",
@@ -64,6 +117,26 @@
    "tarih_iso": "2026-07-22T08:58:51+03:00",
    "kodlar": [],
    "eklenme": "2026-07-22T09:01:10.916735+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mitsubishi-electric-stock-rallying-today-93CH-4804662",
+   "baslik": "Why is Mitsubishi Electric stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mitsubishi-electric-stock-rallying-today-93CH-4804662",
+   "saat": "08:58",
+   "tarih_iso": "2026-07-22T08:58:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T09:31:02.395338+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sun-pharmaceutical-industries-stock-falling-today-93CH-4804661",
+   "baslik": "Why is Sun Pharmaceutical Industries stock falling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sun-pharmaceutical-industries-stock-falling-today-93CH-4804661",
+   "saat": "08:58",
+   "tarih_iso": "2026-07-22T08:58:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T09:31:02.395338+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/lonza-profit-jumps-44-lifts-2026-margin-outlook-on-strong-h1-execution-4804650",
@@ -388,5 +461,5 @@
    "eklenme": "2026-07-22T09:01:10.916735+03:00"
   }
  ],
- "guncelleme": "2026-07-22T09:01:10.916735+03:00"
+ "guncelleme": "2026-07-22T09:31:02.395338+03:00"
 }
