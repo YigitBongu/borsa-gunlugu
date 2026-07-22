@@ -2,6 +2,32 @@
  "tarih": "2026-07-22",
  "kap": [
   {
+   "id": "kap-my-EUPWR-202607221008",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:08",
+   "tarih_iso": "2026-07-22T10:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
+  {
+   "id": "kap-my-GESAN-202607221005",
+   "baslik": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş. — Yeni İş İlişkisi",
+   "sirket": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
+   "kodlar": [
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:05",
+   "tarih_iso": "2026-07-22T10:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
+  {
    "id": "kap-my-TTRAK-202607212136",
    "baslik": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş. — Finansal Takvim",
    "sirket": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş.",
@@ -57,6 +83,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-toplanti-tarihi-merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-haberi-833192",
+   "baslik": "TCMB toplantı tarihi: Merkez Bankası faiz kararı ne zaman açıklanacak?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-toplanti-tarihi-merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-haberi-833192",
+   "saat": "10:14",
+   "tarih_iso": "2026-07-22T10:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/ingilterede-yillik-enflasyon-haziranda-beklentilerin-altinda-kaldi-haberi-833185",
    "baslik": "İngiltere'de yıllık enflasyon haziranda beklentilerin altında kaldı",
    "kaynak": "Dünya",
@@ -78,6 +114,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-fall-as-tech-weighs-ahead-of-us-big-tech-earnings-mideast-in-focus-4804771",
+   "baslik": "European shares fall as tech weighs ahead of US big tech earnings; Mideast in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-fall-as-tech-weighs-ahead-of-us-big-tech-earnings-mideast-in-focus-4804771",
+   "saat": "10:18",
+   "tarih_iso": "2026-07-22T10:18:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-slip-as-houthi-strikes-lift-oil-ahead-of-us-tech-guidance-4804651",
+   "baslik": "European stocks slip as Houthi strikes lift oil ahead of US tech guidance",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-slip-as-houthi-strikes-lift-oil-ahead-of-us-tech-guidance-4804651",
+   "saat": "10:13",
+   "tarih_iso": "2026-07-22T10:13:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-higher-oil-prices-offset-softer-uk-inflation-4804769",
+   "baslik": "FTSE 100 today: Stocks slip as higher oil prices offset softer UK inflation",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-higher-oil-prices-offset-softer-uk-inflation-4804769",
+   "saat": "10:13",
+   "tarih_iso": "2026-07-22T10:13:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-037-4804761",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 0.37%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-037-4804761",
+   "saat": "10:05",
+   "tarih_iso": "2026-07-22T10:05:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mbb-raises-fullyear-margin-outlook-after-q2-earnings-jump-93CH-4804752",
+   "baslik": "MBB raises full-year margin outlook after Q2 earnings jump",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mbb-raises-fullyear-margin-outlook-after-q2-earnings-jump-93CH-4804752",
+   "saat": "09:59",
+   "tarih_iso": "2026-07-22T09:59:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-034-4804714",
    "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.34%",
@@ -401,6 +487,46 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-approaches-a-key-inflection-point-with-eyes-on-fed-signals-200684343",
+   "baslik": "Gold Approaches a Key Inflection Point With Eyes on Fed Signals",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-approaches-a-key-inflection-point-with-eyes-on-fed-signals-200684343",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-breakout-buy-signal-triggered-yesterday-200684349",
+   "baslik": "Gold Breakout Buy Signal Triggered Yesterday",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-breakout-buy-signal-triggered-yesterday-200684349",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-holds-near-4000-as-ceasefire-hopes-test-the-rates-shock-200684339",
+   "baslik": "Gold Holds Near $4,000 as Ceasefire Hopes Test the Rates Shock",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-holds-near-4000-as-ceasefire-hopes-test-the-rates-shock-200684339",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-vs-ai-why-investors-may-need-both-in-the-next-market-cycle-200684330",
+   "baslik": "Gold vs. AI: Why Investors May Need Both in the Next Market Cycle",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-vs-ai-why-investors-may-need-both-in-the-next-market-cycle-200684330",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-22T10:31:14.828382+03:00"
+  },
+  {
    "id": "alt-https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
    "baslik": "Lower fuel prices help drive inflation down to 2.6%",
    "kaynak": "BBC Business",
@@ -491,5 +617,5 @@
    "eklenme": "2026-07-22T09:01:10.916735+03:00"
   }
  ],
- "guncelleme": "2026-07-22T10:01:11.583077+03:00"
+ "guncelleme": "2026-07-22T10:31:14.828382+03:00"
 }
