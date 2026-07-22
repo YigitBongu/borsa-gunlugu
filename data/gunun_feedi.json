@@ -2,6 +2,19 @@
  "tarih": "2026-07-22",
  "kap": [
   {
+   "id": "kap-my-AKBNK-202607221617",
+   "baslik": "AKBANK T.A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "AKBANK T.A.Ş.",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:17",
+   "tarih_iso": "2026-07-22T16:17:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
    "id": "kap-my-KRDMD-202607221548",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -134,6 +147,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-22-temmuz-2026/4005872",
+   "baslik": "60 saniyede ekonomide bugün (22 Temmuz 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-22-temmuz-2026/4005872",
+   "saat": "15:44",
+   "tarih_iso": "2026-07-22T15:44:53+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/son-dakika-ahbap-sorusturmasinda-ece-uner-fatih-portakal-ve-3-isim-ifadeye-cagrildi-haberi-833217",
    "baslik": "Son dakika: Ahbap soruşturmasında Ece Üner, Fatih Portakal ve 3 isim ifadeye çağrıldı",
    "kaynak": "Dünya",
@@ -183,6 +208,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/dunya/abden-90-milyar-euroluk-kritik-karar-ingiltereye-onay-cikti-haberi-833255",
+   "baslik": "AB'den 90 milyar Euro'luk kritik karar: İngiltere'ye onay çıktı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/abden-90-milyar-euroluk-kritik-karar-ingiltereye-onay-cikti-haberi-833255",
+   "saat": "16:45",
+   "tarih_iso": "2026-07-22T16:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/dunya/louvreun-kapilari-9-ay-sonra-acildi-88-milyon-euroluk-mucevherler-hala-kayip-haberi-833246",
    "baslik": "Louvre'un kapıları 9 ay sonra açıldı: 88 milyon Euro'luk mücevherler hâlâ kayıp",
@@ -316,6 +351,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/microsoft-reinstated-ralph-lauren-upgraded-133648092.html",
+   "baslik": "CoreWeave upgraded, IBM initiated: Wall Street's top analyst calls",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/microsoft-reinstated-ralph-lauren-upgraded-133648092.html",
+   "saat": "16:44",
+   "tarih_iso": "2026-07-22T16:44:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/p-crypto-index-excludes-xrp-134100089.html",
+   "baslik": "S&P’s New Crypto Index Excludes XRP and Bitcoin: Here’s the Real Reason",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/p-crypto-index-excludes-xrp-134100089.html",
+   "saat": "16:41",
+   "tarih_iso": "2026-07-22T16:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/massive-buying-signal-just-flashed-133600490.html",
+   "baslik": "A Massive Buying Signal Just Flashed for Intel Stock Investors Before the July 23 Earnings Report",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/massive-buying-signal-just-flashed-133600490.html",
+   "saat": "16:36",
+   "tarih_iso": "2026-07-22T16:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-netflix-stock-recent-48-133500055.html",
+   "baslik": "Should You Buy Netflix Stock After Its Recent 48% Plunge?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-netflix-stock-recent-48-133500055.html",
+   "saat": "16:35",
+   "tarih_iso": "2026-07-22T16:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dividend-stock-beat-expectations-again-133050020.html",
+   "baslik": "This Dividend Stock Beat Expectations Again. Here’s The New Price Target",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-beat-expectations-again-133050020.html",
+   "saat": "16:30",
+   "tarih_iso": "2026-07-22T16:30:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/elon-musk-doesn-t-really-133000446.html",
+   "baslik": "Elon Musk doesn’t really buy stocks — but says these 2 picks will be ‘pretty valuable’ in the future. Build wealth now",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-doesn-t-really-133000446.html",
+   "saat": "16:30",
+   "tarih_iso": "2026-07-22T16:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/shares-of-ge-vernova-fall-in-premarket-trading-despite-raised-revenue-outlook-6eec9263?mod=mw_rss_topstories",
    "baslik": "Shares of GE Vernova fall in premarket trading despite raised revenue outlook",
    "kaynak": "MarketWatch",
@@ -324,6 +419,36 @@
    "tarih_iso": "2026-07-22T16:26:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/kraken-expands-tokenized-stocks-u-132100286.html",
+   "baslik": "Kraken Expands Tokenized Stocks To U.K. And Asian Equities",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/kraken-expands-tokenized-stocks-u-132100286.html",
+   "saat": "16:21",
+   "tarih_iso": "2026-07-22T16:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/ge-vernova-stock-drops-despite-surging-ai-driven-orders-as-wind-segment-drags-131509298.html",
+   "baslik": "GE Vernova stock drops despite surging AI-driven orders as wind segment drags",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/ge-vernova-stock-drops-despite-surging-ai-driven-orders-as-wind-segment-drags-131509298.html",
+   "saat": "16:15",
+   "tarih_iso": "2026-07-22T16:15:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/arista-networks-anet-strengthens-exponential-131206001.html",
+   "baslik": "Arista Networks (ANET) Strengthens from Exponential Growth in AI",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/arista-networks-anet-strengthens-exponential-131206001.html",
+   "saat": "16:12",
+   "tarih_iso": "2026-07-22T16:12:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
@@ -336,6 +461,26 @@
    "eklenme": "2026-07-22T16:31:04.630839+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/market-sentiment-hurt-installed-building-131044241.html",
+   "baslik": "Market Sentiment Hurt Installed Building Products (IBP) in Q2",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/market-sentiment-hurt-installed-building-131044241.html",
+   "saat": "16:10",
+   "tarih_iso": "2026-07-22T16:10:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/att-stock-q2-2026-earnings-wireless-fiber-growth/?src=A00220&yptr=yahoo",
+   "baslik": "AT&T Earnings Beat, Revenue Light As Wireless Subscribers Top Estimates",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/att-stock-q2-2026-earnings-wireless-fiber-growth/?src=A00220&yptr=yahoo",
+   "saat": "16:09",
+   "tarih_iso": "2026-07-22T16:09:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/greencore-ups-profit-forecast-volume-130931069.html",
    "baslik": "Greencore ups profit forecast on volume growth",
    "kaynak": "Yahoo Finance",
@@ -344,6 +489,26 @@
    "tarih_iso": "2026-07-22T16:09:31+03:00",
    "kodlar": [],
    "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/aaon-aaon-case-emotion-triggers-130742214.html",
+   "baslik": "AAON (AAON): A Case of Emotion Triggers Impulsive Trade",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aaon-aaon-case-emotion-triggers-130742214.html",
+   "saat": "16:07",
+   "tarih_iso": "2026-07-22T16:07:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-stock-130640062.html",
+   "baslik": "JPMorgan Chase & Co. (JPM) Stock Lags the Market Despite Earnings Growth",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-stock-130640062.html",
+   "saat": "16:06",
+   "tarih_iso": "2026-07-22T16:06:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T17:01:12.464256+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/economy/policy/articles/senator-mark-warner-urges-wall-130507531.html",
@@ -1384,136 +1549,6 @@
    "tarih_iso": "2026-07-22T11:43:59+03:00",
    "kodlar": [],
    "eklenme": "2026-07-22T12:01:12.001934+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sodexo-stock-rallying-today-93CH-4804933",
-   "baslik": "Why is Sodexo stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sodexo-stock-rallying-today-93CH-4804933",
-   "saat": "11:43",
-   "tarih_iso": "2026-07-22T11:43:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T12:01:12.001934+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tata-communications-stock-sliding-today-93CH-4804929",
-   "baslik": "Why is Tata Communications stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-tata-communications-stock-sliding-today-93CH-4804929",
-   "saat": "11:40",
-   "tarih_iso": "2026-07-22T11:40:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T12:01:12.001934+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ctt-correios-de-portugal-stock-rallying-today-93CH-4804928",
-   "baslik": "Why is CTT Correios de Portugal stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ctt-correios-de-portugal-stock-rallying-today-93CH-4804928",
-   "saat": "11:39",
-   "tarih_iso": "2026-07-22T11:39:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T12:01:12.001934+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sigmaroc-stock-rallying-today-93CH-4804925",
-   "baslik": "Why is Sigmaroc stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sigmaroc-stock-rallying-today-93CH-4804925",
-   "saat": "11:37",
-   "tarih_iso": "2026-07-22T11:37:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T12:01:12.001934+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-083644887.html",
-   "baslik": "Stock market today: Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-22-dow-sp-500-nasdaq-alphabet-tesla-083644887.html",
-   "saat": "11:36",
-   "tarih_iso": "2026-07-22T11:36:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T13:31:05.898438+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-005-4804901",
-   "baslik": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.05%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-005-4804901",
-   "saat": "11:30",
-   "tarih_iso": "2026-07-22T11:30:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T12:01:12.001934+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/henry-boot-warns-profit-to-fall-short-of-expectations-93CH-4804743",
-   "baslik": "Henry Boot tumbles after profit warning on weak land sales",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/henry-boot-warns-profit-to-fall-short-of-expectations-93CH-4804743",
-   "saat": "11:24",
-   "tarih_iso": "2026-07-22T11:24:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:31:01.439788+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ctt-stock-jumps-on-unsolicited-interest-for-banco-ctt-unit-93CH-4804868",
-   "baslik": "CTT stock jumps on unsolicited interest for Banco CTT unit",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ctt-stock-jumps-on-unsolicited-interest-for-banco-ctt-unit-93CH-4804868",
-   "saat": "11:21",
-   "tarih_iso": "2026-07-22T11:21:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:31:01.439788+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sandoz-stock-sliding-today-93CH-4804867",
-   "baslik": "Why is Sandoz stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sandoz-stock-sliding-today-93CH-4804867",
-   "saat": "11:20",
-   "tarih_iso": "2026-07-22T11:20:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:31:01.439788+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-pegasystems-stock-tumbling-today-93CH-4804857",
-   "baslik": "Why is Pegasystems stock tumbling today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-pegasystems-stock-tumbling-today-93CH-4804857",
-   "saat": "11:18",
-   "tarih_iso": "2026-07-22T11:18:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:31:01.439788+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-friedrich-vorwerk-stock-surging-today-93CH-4804856",
-   "baslik": "Why is Friedrich Vorwerk stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-friedrich-vorwerk-stock-surging-today-93CH-4804856",
-   "saat": "11:18",
-   "tarih_iso": "2026-07-22T11:18:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:31:01.439788+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-adecco-stock-surging-today-93CH-4804849",
-   "baslik": "Why is Adecco stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-adecco-stock-surging-today-93CH-4804849",
-   "saat": "11:13",
-   "tarih_iso": "2026-07-22T11:13:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:31:01.439788+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vat-stock-sliding-today-93CH-4804844",
-   "baslik": "Why is VAT stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-vat-stock-sliding-today-93CH-4804844",
-   "saat": "11:12",
-   "tarih_iso": "2026-07-22T11:12:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:31:01.439788+03:00"
   }
  ],
  "altin_haber": [
@@ -1688,5 +1723,5 @@
    "eklenme": "2026-07-22T09:01:10.916735+03:00"
   }
  ],
- "guncelleme": "2026-07-22T16:31:04.630839+03:00"
+ "guncelleme": "2026-07-22T17:01:12.464256+03:00"
 }
