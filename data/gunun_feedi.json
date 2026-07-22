@@ -2,6 +2,19 @@
  "tarih": "2026-07-22",
  "kap": [
   {
+   "id": "kap-my-BRYAT-202607221521",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BRYAT"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:21",
+   "tarih_iso": "2026-07-22T15:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202607221431",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -158,6 +171,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/tcmb-acikladi-reel-sektorun-doviz-acigi-mayista-geriledi-haberi-833244",
+   "baslik": "TCMB açıkladı: Reel sektörün döviz açığı mayısta geriledi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/tcmb-acikladi-reel-sektorun-doviz-acigi-mayista-geriledi-haberi-833244",
+   "saat": "15:32",
+   "tarih_iso": "2026-07-22T15:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/spden-merkez-bankasi-tahmini-indirim-tarihi-verildi-haberi-833240",
    "baslik": "S&P'den Merkez Bankası tahmini: İndirim tarihi verildi",
    "kaynak": "Dünya",
@@ -270,6 +293,96 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
+   "baslik": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
+   "saat": "15:46",
+   "tarih_iso": "2026-07-22T15:46:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/best-buys-founder-chairman-emeritus-124501529.html",
+   "baslik": "Best Buy's Founder and Chairman Emeritus Sold Company Shares Worth $74 Million. Here's What That Means for Investors.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/best-buys-founder-chairman-emeritus-124501529.html",
+   "saat": "15:45",
+   "tarih_iso": "2026-07-22T15:45:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+   "baslik": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+   "saat": "15:45",
+   "tarih_iso": "2026-07-22T15:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-q2-2026-124458999.html",
+   "baslik": "JPMorgan Chase (JPM) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-q2-2026-124458999.html",
+   "saat": "15:44",
+   "tarih_iso": "2026-07-22T15:44:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/coreweaves-cfo-sold-company-shares-124401946.html",
+   "baslik": "CoreWeave's CFO Sold Company Shares for $5.5 Million. What Does That Mean for Investors?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/coreweaves-cfo-sold-company-shares-124401946.html",
+   "saat": "15:44",
+   "tarih_iso": "2026-07-22T15:44:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/at-t-earnings-stock-price-c8cba37c?siteid=yhoof2&yptr=yahoo",
+   "baslik": "AT&T Stock Rises as Earnings Beat Helps Ease SpaceX Fears",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/at-t-earnings-stock-price-c8cba37c?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:42",
+   "tarih_iso": "2026-07-22T15:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/bank-america-says-fed-raise-124026380.html",
+   "baslik": "Bank of America Says the Fed Should Raise Rates Now: 4 Dividend Inflation-Resistant Stocks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/bank-america-says-fed-raise-124026380.html",
+   "saat": "15:40",
+   "tarih_iso": "2026-07-22T15:40:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/servicenow-earnings-stock-price-49fa598b?siteid=yhoof2&yptr=yahoo",
+   "baslik": "ServiceNow Stock at a Crossroads: Why AI Concerns Dominate This Earnings Report",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/servicenow-earnings-stock-price-49fa598b?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:40",
+   "tarih_iso": "2026-07-22T15:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/tesla-earnings-are-coming--heres-how-investors-can-protect-against-the-downside-alpha-options-playbook-123607298.html",
+   "baslik": "Tesla earnings are coming — here's how investors can protect against the downside: Alpha Options Playbook",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/tesla-earnings-are-coming--heres-how-investors-can-protect-against-the-downside-alpha-options-playbook-123607298.html",
+   "saat": "15:36",
+   "tarih_iso": "2026-07-22T15:36:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-bought-another-121700486.html",
    "baslik": "Cathie Wood Just Bought Another $14 Million Worth of Circle Stock. This Is the Best Reason to Buy CRCL Now",
    "kaynak": "Yahoo Finance",
@@ -308,6 +421,16 @@
    "tarih_iso": "2026-07-22T15:15:14+03:00",
    "kodlar": [],
    "eklenme": "2026-07-22T15:31:00.543182+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-smci-stock-alphabet-tesla-earnings/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Dow Falls As Oil Prices Jump; SMCI Surges With Alphabet, Tesla Earnings Next (Live Coverage)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-smci-stock-alphabet-tesla-earnings/?src=A00220&yptr=yahoo",
+   "saat": "15:13",
+   "tarih_iso": "2026-07-22T15:13:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/moodys-quarterly-profit-jumps-on-bond-issuance-activity-strength-4805769",
@@ -890,6 +1013,16 @@
    "eklenme": "2026-07-22T13:31:05.898438+03:00"
   },
   {
+   "id": "yab-https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Some food prices have fallen – but inflation expected to rise from here",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+   "saat": "13:10",
+   "tarih_iso": "2026-07-22T13:10:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:01:16.652313+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/smci-stock-outlook-is-the-rally-just-getting-started-93CH-4805081",
    "baslik": "SMCI stock outlook: Is the rally just getting started?",
    "kaynak": "Investing.com",
@@ -1358,116 +1491,6 @@
    "tarih_iso": "2026-07-22T11:00:57+03:00",
    "kodlar": [],
    "eklenme": "2026-07-22T11:20:41.601802+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
-   "baslik": "Brent oil jumps 2% to hold above $92 as Rubio says Iran 'not serious' about peace talks",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
-   "saat": "10:56",
-   "tarih_iso": "2026-07-22T10:56:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:01:14.056172+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-iberdrola-stock-sliding-today-93CH-4804788",
-   "baslik": "Why is Iberdrola stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-iberdrola-stock-sliding-today-93CH-4804788",
-   "saat": "10:40",
-   "tarih_iso": "2026-07-22T10:40:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T10:58:02.430237+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/this-pharmaceutical-stock-is-a-top-pick-at-b-riley-93CH-4804779",
-   "baslik": "This Pharmaceutical Stock is a Top Pick at B. Riley",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/this-pharmaceutical-stock-is-a-top-pick-at-b-riley-93CH-4804779",
-   "saat": "10:28",
-   "tarih_iso": "2026-07-22T10:28:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T10:58:02.430237+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-climb-on-tech-gains-kospi-surges-5-middle-east-tensions-simmer-4804620",
-   "baslik": "Asia stocks erase early gains as oil surge weighs; Alphabet results ahead",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-climb-on-tech-gains-kospi-surges-5-middle-east-tensions-simmer-4804620",
-   "saat": "10:24",
-   "tarih_iso": "2026-07-22T10:24:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T10:58:02.430237+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-fall-as-tech-weighs-ahead-of-us-big-tech-earnings-mideast-in-focus-4804771",
-   "baslik": "European shares fall as tech weighs ahead of US big tech earnings; Mideast in focus",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-shares-fall-as-tech-weighs-ahead-of-us-big-tech-earnings-mideast-in-focus-4804771",
-   "saat": "10:18",
-   "tarih_iso": "2026-07-22T10:18:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T10:31:14.828382+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-slip-as-houthi-strikes-lift-oil-ahead-of-us-tech-guidance-4804651",
-   "baslik": "European stocks slip as Houthi strikes lift oil ahead of US tech guidance",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-stocks-slip-as-houthi-strikes-lift-oil-ahead-of-us-tech-guidance-4804651",
-   "saat": "10:13",
-   "tarih_iso": "2026-07-22T10:13:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T10:31:14.828382+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-higher-oil-prices-offset-softer-uk-inflation-4804769",
-   "baslik": "FTSE 100 today: Stocks slip as higher oil prices offset softer UK inflation",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-higher-oil-prices-offset-softer-uk-inflation-4804769",
-   "saat": "10:13",
-   "tarih_iso": "2026-07-22T10:13:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T10:31:14.828382+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-037-4804761",
-   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 0.37%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-037-4804761",
-   "saat": "10:05",
-   "tarih_iso": "2026-07-22T10:05:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T10:31:14.828382+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/mbb-raises-fullyear-margin-outlook-after-q2-earnings-jump-93CH-4804752",
-   "baslik": "MBB raises full-year margin outlook after Q2 earnings jump",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/mbb-raises-fullyear-margin-outlook-after-q2-earnings-jump-93CH-4804752",
-   "saat": "09:59",
-   "tarih_iso": "2026-07-22T09:59:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T10:31:14.828382+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-034-4804714",
-   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.34%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-034-4804714",
-   "saat": "09:30",
-   "tarih_iso": "2026-07-22T09:30:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T10:01:11.583077+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bandhan-bank-stock-crashing-today-93CH-4804690",
-   "baslik": "Why is Bandhan Bank stock crashing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-bandhan-bank-stock-crashing-today-93CH-4804690",
-   "saat": "09:13",
-   "tarih_iso": "2026-07-22T09:13:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T09:31:02.395338+03:00"
   }
  ],
  "altin_haber": [
@@ -1632,5 +1655,5 @@
    "eklenme": "2026-07-22T09:01:10.916735+03:00"
   }
  ],
- "guncelleme": "2026-07-22T15:31:00.543182+03:00"
+ "guncelleme": "2026-07-22T16:01:16.652313+03:00"
 }
