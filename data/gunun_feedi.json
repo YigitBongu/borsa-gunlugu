@@ -397,6 +397,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-22-temmuz-carsamba-doviz-kurlari-haberi-833164",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (22 Temmuz Çarşamba Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-22-temmuz-carsamba-doviz-kurlari-haberi-833164",
+   "saat": "07:12",
+   "tarih_iso": "2026-07-22T07:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T07:31:00.977549+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/pakistan-rezervlerini-guclendirmek-icin-abdden-10-milyar-dolar-istedi-93CH-3989498",
    "baslik": "Pakistan rezervlerini güçlendirmek için ABD’den 10 milyar dolar istedi",
    "kaynak": "Investing TR",
@@ -508,6 +518,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/a1a12a62-1a86-44dc-9078-edfcc606e9a6?syn-25a6b1a6=1",
+   "baslik": "Private capital misses out as IPO and deal boom lifts Wall Street banks",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/a1a12a62-1a86-44dc-9078-edfcc606e9a6?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-07-22T07:00:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T07:31:00.977549+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1",
+   "baslik": "The US has collected about $13bn of Venezuela’s oil money. Where is it?",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-07-22T07:00:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T07:31:00.977549+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-climb-on-tech-gains-kospi-surges-5-middle-east-tensions-simmer-4804620",
    "baslik": "Asia stocks climb on tech gains, KOSPI surges 5%; Middle East tensions simmer",
@@ -1687,26 +1717,6 @@
    "tarih_iso": "2026-07-21T18:28:47+03:00",
    "kodlar": [],
    "eklenme": "2026-07-21T19:01:15.460070+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/options/articles/two-radically-different-futures-priced-152659601.html",
-   "baslik": "The Two Radically Different Futures Priced Into NVIDIA Stock",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/options/articles/two-radically-different-futures-priced-152659601.html",
-   "saat": "18:26",
-   "tarih_iso": "2026-07-21T18:26:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T19:01:15.460070+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
-   "baslik": "Trump imposing 50% tariffs on certain Canadian goods over alleged trade discrimination",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/20/trump-tariffs-canada-trade.html",
-   "saat": "18:25",
-   "tarih_iso": "2026-07-21T18:25:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-21T18:31:05.957924+03:00"
   }
  ],
  "altin_haber": [
@@ -2031,5 +2041,5 @@
    "eklenme": "2026-07-21T09:01:09.785667+03:00"
   }
  ],
- "guncelleme": "2026-07-22T07:01:04.608623+03:00"
+ "guncelleme": "2026-07-22T07:31:00.977549+03:00"
 }
