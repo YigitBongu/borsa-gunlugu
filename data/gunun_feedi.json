@@ -2,6 +2,19 @@
  "tarih": "2026-07-22",
  "kap": [
   {
+   "id": "kap-my-KRDMD-202607221548",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:48",
+   "tarih_iso": "2026-07-22T15:48:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
    "id": "kap-my-BRYAT-202607221521",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -171,6 +184,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/dunya/louvreun-kapilari-9-ay-sonra-acildi-88-milyon-euroluk-mucevherler-hala-kayip-haberi-833246",
+   "baslik": "Louvre'un kapıları 9 ay sonra açıldı: 88 milyon Euro'luk mücevherler hâlâ kayıp",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/louvreun-kapilari-9-ay-sonra-acildi-88-milyon-euroluk-mucevherler-hala-kayip-haberi-833246",
+   "saat": "15:49",
+   "tarih_iso": "2026-07-22T15:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomik-veriler/tcmb-acikladi-reel-sektorun-doviz-acigi-mayista-geriledi-haberi-833244",
    "baslik": "TCMB açıkladı: Reel sektörün döviz açığı mayısta geriledi",
    "kaynak": "Dünya",
@@ -292,6 +315,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/shares-of-ge-vernova-fall-in-premarket-trading-despite-raised-revenue-outlook-6eec9263?mod=mw_rss_topstories",
+   "baslik": "Shares of GE Vernova fall in premarket trading despite raised revenue outlook",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/shares-of-ge-vernova-fall-in-premarket-trading-despite-raised-revenue-outlook-6eec9263?mod=mw_rss_topstories",
+   "saat": "16:26",
+   "tarih_iso": "2026-07-22T16:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
+   "baslik": "Oil prices may fall, but gasoline prices won’t. Look at the trap we’re in.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/oil-prices-may-fall-but-gasoline-prices-wont-look-at-the-trap-were-in-7f4c3738?mod=mw_rss_topstories",
+   "saat": "16:11",
+   "tarih_iso": "2026-07-22T16:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/greencore-ups-profit-forecast-volume-130931069.html",
+   "baslik": "Greencore ups profit forecast on volume growth",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/greencore-ups-profit-forecast-volume-130931069.html",
+   "saat": "16:09",
+   "tarih_iso": "2026-07-22T16:09:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/senator-mark-warner-urges-wall-130507531.html",
+   "baslik": "Senator Mark Warner urges Wall Street to reject Truth API",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/senator-mark-warner-urges-wall-130507531.html",
+   "saat": "16:05",
+   "tarih_iso": "2026-07-22T16:05:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/ge-vernova-q2-earnings-call-130222826.html",
+   "baslik": "GE Vernova Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/ge-vernova-q2-earnings-call-130222826.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-07-22T16:02:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/what-are-stock-options-130200693.html",
+   "baslik": "What are stock options, and how do they work?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/what-are-stock-options-130200693.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-07-22T16:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/22/trump-tariffs-wyden-bill-congress.html",
+   "baslik": "Sen. Wyden introduces bill to curb Trump's tariff powers",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/22/trump-tariffs-wyden-bill-congress.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-07-22T16:00:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/22/samsung-smart-glasses-features-specs-price-meta.html",
+   "baslik": "Samsung details features of its smart glasses as it enters market dominated by Meta",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/22/samsung-smart-glasses-features-specs-price-meta.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-07-22T16:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+   "saat": "15:58",
+   "tarih_iso": "2026-07-22T15:58:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/finance/currencies/asian-currencies-consolidate-rising-oil-prices-treasury-yields-may-weigh-on-risk-sentiment-1691d3d5?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Dollar Little Moved by Renewed U.S. Trade Uncertainty For Now",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-rising-oil-prices-treasury-yields-may-weigh-on-risk-sentiment-1691d3d5?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:58",
+   "tarih_iso": "2026-07-22T15:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html",
    "baslik": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
@@ -581,6 +704,16 @@
    "tarih_iso": "2026-07-22T14:53:31+03:00",
    "kodlar": [],
    "eklenme": "2026-07-22T15:01:18.297022+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
+   "baslik": "Brent oil price hovers near $95 as Rubio says U.S. will 'continue to protect shipping' in Hormuz",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/22/oil-prices-iran-war-macro-rubio-brent-wti.html",
+   "saat": "14:51",
+   "tarih_iso": "2026-07-22T14:51:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-edge-higher-with-tech-earnings-ahead-iran-tensions-in-focus-4805630",
@@ -1381,119 +1514,19 @@
    "tarih_iso": "2026-07-22T11:12:46+03:00",
    "kodlar": [],
    "eklenme": "2026-07-22T11:31:01.439788+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mbb-industries-stock-surging-today-93CH-4804843",
-   "baslik": "Why is MBB Industries stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-mbb-industries-stock-surging-today-93CH-4804843",
-   "saat": "11:12",
-   "tarih_iso": "2026-07-22T11:12:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:31:01.439788+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-super-micro-computer-stock-surging-today-93CH-4804839",
-   "baslik": "Why is Super Micro Computer stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-super-micro-computer-stock-surging-today-93CH-4804839",
-   "saat": "11:09",
-   "tarih_iso": "2026-07-22T11:09:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:20:41.601802+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1",
-   "baslik": "Oil rises to highest level in six weeks as Middle East war escalates",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1",
-   "saat": "11:08",
-   "tarih_iso": "2026-07-22T11:08:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:31:01.439788+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-medicover-stock-gaining-today-93CH-4804837",
-   "baslik": "Why is Medicover stock gaining today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-medicover-stock-gaining-today-93CH-4804837",
-   "saat": "11:07",
-   "tarih_iso": "2026-07-22T11:07:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:20:41.601802+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-norsk-hydro-stock-rallying-today-93CH-4804836",
-   "baslik": "Why is Norsk Hydro stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-norsk-hydro-stock-rallying-today-93CH-4804836",
-   "saat": "11:07",
-   "tarih_iso": "2026-07-22T11:07:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:20:41.601802+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ssab-stock-sliding-today-93CH-4804835",
-   "baslik": "Why is SSAB stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ssab-stock-sliding-today-93CH-4804835",
-   "saat": "11:07",
-   "tarih_iso": "2026-07-22T11:07:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:20:41.601802+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lonza-stock-sliding-today-93CH-4804833",
-   "baslik": "Why is Lonza stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-lonza-stock-sliding-today-93CH-4804833",
-   "saat": "11:07",
-   "tarih_iso": "2026-07-22T11:07:13+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:20:41.601802+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-greencore-stock-surging-today-93CH-4804827",
-   "baslik": "Why is Greencore stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-greencore-stock-surging-today-93CH-4804827",
-   "saat": "11:04",
-   "tarih_iso": "2026-07-22T11:04:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:20:41.601802+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dsv-panalpina-stock-sliding-today-93CH-4804821",
-   "baslik": "Why is DSV Panalpina stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-dsv-panalpina-stock-sliding-today-93CH-4804821",
-   "saat": "11:01",
-   "tarih_iso": "2026-07-22T11:01:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:20:41.601802+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-airbus-stock-surging-today-93CH-4804819",
-   "baslik": "Why is Airbus stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-airbus-stock-surging-today-93CH-4804819",
-   "saat": "11:01",
-   "tarih_iso": "2026-07-22T11:01:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:20:41.601802+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gea-stock-surging-today-93CH-4804818",
-   "baslik": "Why is GEA stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-gea-stock-surging-today-93CH-4804818",
-   "saat": "11:00",
-   "tarih_iso": "2026-07-22T11:00:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T11:20:41.601802+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.cnnturk.com/ekonomi/907-ton-altin-13-milyon-ton-bakir-and-daglarinda-dev-kesif-3445580",
+   "baslik": "907 ton altın, 13 milyon ton bakır! And Dağları'nda dev keşif...",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/907-ton-altin-13-milyon-ton-bakir-and-daglarinda-dev-kesif-3445580",
+   "saat": "19:09",
+   "tarih_iso": "2026-07-22T19:09:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-22T16:31:04.630839+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-daily-the-bounce-has-found-its-feet-but-not-yet-broken-free-200684373",
    "baslik": "Gold Daily: The Bounce Has Found Its Feet but Not Yet Broken Free",
@@ -1655,5 +1688,5 @@
    "eklenme": "2026-07-22T09:01:10.916735+03:00"
   }
  ],
- "guncelleme": "2026-07-22T16:01:16.652313+03:00"
+ "guncelleme": "2026-07-22T16:31:04.630839+03:00"
 }
