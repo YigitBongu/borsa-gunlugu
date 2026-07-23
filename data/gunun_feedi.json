@@ -2,6 +2,45 @@
  "tarih": "2026-07-23",
  "kap": [
   {
+   "id": "kap-my-VAKBN-202607231008",
+   "baslik": "TÜRKİYE VAKIFLAR BANKASI T.A.O. — Kredi Derecelendirmesi",
+   "sirket": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "10:08",
+   "tarih_iso": "2026-07-23T10:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
+   "id": "kap-my-SELEC-202607231001",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:01",
+   "tarih_iso": "2026-07-23T10:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
+   "id": "kap-my-YKBNK-202607230958",
+   "baslik": "YAPI VE KREDİ BANKASI A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
+   "kodlar": [
+    "YKBNK"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "09:58",
+   "tarih_iso": "2026-07-23T09:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
    "id": "kap-my-REEDR-202607222244",
    "baslik": "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş. — Genel Kurul İşlemlerine İlişkin Bildirim",
    "sirket": "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş.",
@@ -67,6 +106,26 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/ekonomi/temmuz-fed-faiz-karari-ne-zaman-hangi-gun-aciklanacak-haberi-833342",
+   "baslik": "Temmuz Fed faiz kararı ne zaman, hangi gün açıklanacak?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/temmuz-fed-faiz-karari-ne-zaman-hangi-gun-aciklanacak-haberi-833342",
+   "saat": "10:24",
+   "tarih_iso": "2026-07-23T10:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-aciklandi-mi-saat-kacta-aciklanacak-faizler-dustu-mu-haberi-833339",
+   "baslik": "Merkez Bankası faiz kararı açıklandı mı, saat kaçta açıklanacak? Faizler düştü mü?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-aciklandi-mi-saat-kacta-aciklanacak-faizler-dustu-mu-haberi-833339",
+   "saat": "10:02",
+   "tarih_iso": "2026-07-23T10:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/piyasalarda-gozler-tcmb-ve-ecbnin-faiz-kararlarinda/4006429",
    "baslik": "Piyasalarda gözler TCMB ve ECB'nin faiz kararlarında",
    "kaynak": "AA Ekonomi",
@@ -108,6 +167,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/videos/ce34n2lgkz0o?at_medium=RSS&at_campaign=rss",
+   "baslik": "What we know about 20% cut to some business rates",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/videos/ce34n2lgkz0o?at_medium=RSS&at_campaign=rss",
+   "saat": "10:29",
+   "tarih_iso": "2026-07-23T10:29:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-slide-as-rising-yields-and-ecb-rate-call-weigh-on-sentiment-4807564",
+   "baslik": "European stocks slide as rising yields and ECB rate call weigh on sentiment",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-slide-as-rising-yields-and-ecb-rate-call-weigh-on-sentiment-4807564",
+   "saat": "10:19",
+   "tarih_iso": "2026-07-23T10:19:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-slip-after-stmicro-alphabet-results-weigh-on-tech-stocks-4807651",
+   "baslik": "European shares slip after STMicro, Alphabet results weigh on tech stocks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-slip-after-stmicro-alphabet-results-weigh-on-tech-stocks-4807651",
+   "saat": "10:18",
+   "tarih_iso": "2026-07-23T10:18:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-alphabet-ai-spending-boost-oil-rally-caps-gains-4807455",
+   "baslik": "Asia stocks rise on Alphabet AI spending boost; oil rally caps gains",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-alphabet-ai-spending-boost-oil-rally-caps-gains-4807455",
+   "saat": "10:11",
+   "tarih_iso": "2026-07-23T10:11:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/krka-reports-first-half-results-with-67-revenue-growth-93CH-4807642",
+   "baslik": "Krka reports first half results with 6.7% revenue growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/krka-reports-first-half-results-with-67-revenue-growth-93CH-4807642",
+   "saat": "10:10",
+   "tarih_iso": "2026-07-23T10:10:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1",
+   "baslik": "Oil jumps to $96 after Houthis attack two Saudi Arabian oil tankers",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1",
+   "saat": "10:02",
+   "tarih_iso": "2026-07-23T10:02:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-039-4807625",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.39%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-039-4807625",
+   "saat": "10:00",
+   "tarih_iso": "2026-07-23T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/eurofins-scientific-sees-weak-organic-growth-in-first-half-93CH-4807622",
    "baslik": "Eurofins Scientific sees weak organic growth in first half",
@@ -461,6 +590,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/looking-for-a-sign-gold-has-bottomed-heres-1-200684411",
+   "baslik": "Looking for a Sign Gold Has Bottomed? Here’s 1",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/looking-for-a-sign-gold-has-bottomed-heres-1-200684411",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-remains-bullish-above-4091-as-key-cycle-window-approaches-200684412",
    "baslik": "Gold Remains Bullish Above $4,091 as Key Cycle Window Approaches",
    "kaynak": "Investing Emtia",
@@ -561,5 +700,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-23T10:01:10.941361+03:00"
+ "guncelleme": "2026-07-23T10:31:05.002018+03:00"
 }
