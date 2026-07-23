@@ -451,6 +451,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/lockheed-martin-donanma-ve-f35-depo-sozlesmelerinde-677-milyon-dolar-kazand-93CH-3993798",
+   "baslik": "Lockheed Martin, Donanma ve F-35 depo sözleşmelerinde 67,7 milyon dolar kazandı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/lockheed-martin-donanma-ve-f35-depo-sozlesmelerinde-677-milyon-dolar-kazand-93CH-3993798",
+   "saat": "00:48",
+   "tarih_iso": "2026-07-24T00:48:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T01:31:00.940554+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/dunya-plus/bisikletin-150-milyon-euroluk-yarisi-haberi-833403",
    "baslik": "Bisikletin 150 milyon Euro’luk yarışı",
    "kaynak": "Dünya",
@@ -792,6 +802,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+   "baslik": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+   "saat": "01:02",
+   "tarih_iso": "2026-07-24T01:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T01:31:00.940554+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/market-technology-acquisition-corp-prices-200m-ipo-on-nasdaq-432SI-4810170",
+   "baslik": "Market Technology Acquisition Corp prices $200M IPO on Nasdaq",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/market-technology-acquisition-corp-prices-200m-ipo-on-nasdaq-432SI-4810170",
+   "saat": "00:52",
+   "tarih_iso": "2026-07-24T00:52:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T01:31:00.940554+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/oracle-lands-7-billion-department-of-war-software-contract-sending-stock-higher-4810147",
    "baslik": "Oracle lands $7 billion Department of War software contract, sending stock higher",
@@ -1971,26 +2001,6 @@
    "tarih_iso": "2026-07-23T17:29:45+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T18:31:02.376016+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/applied-digital-could-155-upside-142940655.html",
-   "baslik": "Applied Digital Could Have 155% Upside Ahead of July 27 Q2 Earnings",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-could-155-upside-142940655.html",
-   "saat": "17:29",
-   "tarih_iso": "2026-07-23T17:29:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T18:01:23.106965+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/mulberry-revenue-edges-4-fy26-142838703.html",
-   "baslik": "Mulberry revenue edges up 4% in FY26",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mulberry-revenue-edges-4-fy26-142838703.html",
-   "saat": "17:28",
-   "tarih_iso": "2026-07-23T17:28:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T17:40:29.162898+03:00"
   }
  ],
  "altin_haber": [
@@ -2225,5 +2235,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-24T01:01:09.542832+03:00"
+ "guncelleme": "2026-07-24T01:31:00.940554+03:00"
 }
