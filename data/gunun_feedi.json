@@ -337,6 +337,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-23-temmuz-persembe-doviz-kurlari-haberi-833317",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (23 Temmuz Perşembe Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-23-temmuz-persembe-doviz-kurlari-haberi-833317",
+   "saat": "07:21",
+   "tarih_iso": "2026-07-23T07:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T07:31:00.619938+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/vitamin-well-empwr-satn-alm-icin-22-milyar-dolar-toplad-93CH-3991611",
    "baslik": "Vitamin Well, EMPWR satın alımı için 2,2 milyar dolar topladı",
    "kaynak": "Investing TR",
@@ -548,6 +558,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/019ce313-00c5-4d7d-a26c-acd7250de84a?syn-25a6b1a6=1",
+   "baslik": "Trump Media fast feed for president’s posts sparks Wall Street backlash",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/019ce313-00c5-4d7d-a26c-acd7250de84a?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-07-23T07:00:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T07:31:00.619938+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/ecf9967d-de7f-405f-b746-f09a26f3a86a?syn-25a6b1a6=1",
+   "baslik": "US oil refineries run at breakneck speeds as wars choke fuel supplies",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/ecf9967d-de7f-405f-b746-f09a26f3a86a?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-07-23T07:00:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T07:31:00.619938+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/7b53032e-894d-43ac-9dd1-2b94572b8489?syn-25a6b1a6=1",
+   "baslik": "Is Trump winning the tariff wars?",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/7b53032e-894d-43ac-9dd1-2b94572b8489?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-07-23T07:00:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T07:31:00.619938+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-alphabet-ai-spending-boost-oil-rally-caps-gains-4807455",
    "baslik": "Asia stocks rise on Alphabet AI spending boost; oil rally caps gains",
@@ -1717,36 +1757,6 @@
    "tarih_iso": "2026-07-22T18:26:27+03:00",
    "kodlar": [],
    "eklenme": "2026-07-22T20:01:28.729706+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-023-4806506",
-   "baslik": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.23%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-023-4806506",
-   "saat": "18:10",
-   "tarih_iso": "2026-07-22T18:10:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T18:31:11.083867+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-doordash-stock-sliding-today-93CH-4806504",
-   "baslik": "Why is DoorDash stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-doordash-stock-sliding-today-93CH-4806504",
-   "saat": "18:09",
-   "tarih_iso": "2026-07-22T18:09:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T18:31:11.083867+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tempus-ai-stock-sliding-today-93CH-4806499",
-   "baslik": "Why is Tempus AI stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-tempus-ai-stock-sliding-today-93CH-4806499",
-   "saat": "18:06",
-   "tarih_iso": "2026-07-22T18:06:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T18:31:11.083867+03:00"
   }
  ],
  "altin_haber": [
@@ -1991,5 +2001,5 @@
    "eklenme": "2026-07-22T09:01:10.916735+03:00"
   }
  ],
- "guncelleme": "2026-07-23T07:01:11.467448+03:00"
+ "guncelleme": "2026-07-23T07:31:00.619938+03:00"
 }
