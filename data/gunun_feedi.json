@@ -2,6 +2,45 @@
  "tarih": "2026-07-23",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202607231422",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "14:22",
+   "tarih_iso": "2026-07-23T14:22:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202607231421",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:21",
+   "tarih_iso": "2026-07-23T14:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
+   "id": "kap-my-AKBNK-202607231420",
+   "baslik": "AKBANK T.A.Ş. — İhraç Tavanına İlişkin Bildirim",
+   "sirket": "AKBANK T.A.Ş.",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:20",
+   "tarih_iso": "2026-07-23T14:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
    "id": "kap-my-KARSN-202607231326",
    "baslik": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş.",
@@ -134,6 +173,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcede-7-yonetim-kurulu-uyesi-istifa-etti-haberi-833382",
+   "baslik": "Fenerbahçe'de 7 yönetim kurulu üyesi istifa etti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcede-7-yonetim-kurulu-uyesi-istifa-etti-haberi-833382",
+   "saat": "14:37",
+   "tarih_iso": "2026-07-23T14:37:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/istanbuldaki-havalimanlari-ve-thy-zamaninda-kalkis-varis-performansiyla-avrupanin-zirvesinde/4006789",
    "baslik": "İstanbul'daki havalimanları ve THY \"zamanında kalkış-varış\" performansıyla Avrupa'nın zirvesinde",
    "kaynak": "AA Ekonomi",
@@ -202,6 +253,16 @@
    "tarih_iso": "2026-07-23T15:14:34+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T12:31:03.047727+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-160-5-milyar-dolar-oldu/4006947",
+   "baslik": "Merkez Bankası rezervleri 160,5 milyar dolar oldu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-160-5-milyar-dolar-oldu/4006947",
+   "saat": "14:48",
+   "tarih_iso": "2026-07-23T14:48:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/japonyanin-faiz-cikmazi-yen-uzerindeki-baskiyi-buyutuyor-haberi-833378",
@@ -386,6 +447,76 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/short-sellers-notch-155-billion-profit-as-spacex-shares-slip-ortex-4808605",
+   "baslik": "Short sellers notch $15.5 billion profit as SpaceX shares slip -Ortex",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/short-sellers-notch-155-billion-profit-as-spacex-shares-slip-ortex-4808605",
+   "saat": "15:00",
+   "tarih_iso": "2026-07-23T15:00:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vita-coco-stock-surging-today-93CH-4808601",
+   "baslik": "Why is Vita Coco stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-vita-coco-stock-surging-today-93CH-4808601",
+   "saat": "14:59",
+   "tarih_iso": "2026-07-23T14:59:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hut-8-stock-surging-today-93CH-4808593",
+   "baslik": "Why is Hut 8 stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hut-8-stock-surging-today-93CH-4808593",
+   "saat": "14:56",
+   "tarih_iso": "2026-07-23T14:56:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
+   "baslik": "Lockheed Martin’s stock leaps as push to build more missiles faster pays off",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/lockheed-martins-stock-leaps-as-push-to-build-more-missiles-faster-pays-off-9d7e2091?mod=mw_rss_topstories",
+   "saat": "14:56",
+   "tarih_iso": "2026-07-23T14:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-grocer-albertsons-cuts-annual-sales-profit-forecasts-shares-drop-20-4808568",
+   "baslik": "US grocer Albertsons cuts annual sales, profit forecasts; shares drop 20%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-grocer-albertsons-cuts-annual-sales-profit-forecasts-shares-drop-20-4808568",
+   "saat": "14:48",
+   "tarih_iso": "2026-07-23T14:48:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-infosys-adr-stock-sliding-today-93CH-4808554",
+   "baslik": "Why is Infosys ADR stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-infosys-adr-stock-sliding-today-93CH-4808554",
+   "saat": "14:45",
+   "tarih_iso": "2026-07-23T14:45:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/vita-coco-stock-surges-after-raising-2026-outlook-on-strong-q2-93CH-4808529",
+   "baslik": "Vita Coco stock surges after raising 2026 outlook on strong Q2",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/vita-coco-stock-surges-after-raising-2026-outlook-on-strong-q2-93CH-4808529",
+   "saat": "14:40",
+   "tarih_iso": "2026-07-23T14:40:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/23/comcast-earnings-nbcuniversal-strength-split.html",
    "baslik": "Comcast earnings highlight NBCUniversal strength ahead of planned split",
    "kaynak": "CNBC",
@@ -404,6 +535,16 @@
    "tarih_iso": "2026-07-23T14:17:16+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T14:30:59.606731+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/research/reports/ARGUS_47703_MarketSummary_1784805131000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "baslik": "Market Digest: HAL, HAS, SCHW, T",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/research/reports/ARGUS_47703_MarketSummary_1784805131000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "saat": "14:12",
+   "tarih_iso": "2026-07-23T14:12:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/blackstones-quarterly-profit-gets-boost-from-asset-pile-ai-investment-gains-4808255",
@@ -1438,6 +1579,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.haberturk.com/merkez-bankalari-altin-rezervlerinde-artis-bekliyor-3900534-ekonomi",
+   "baslik": "Altın rezervlerinde artış beklentisi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/merkez-bankalari-altin-rezervlerinde-artis-bekliyor-3900534-ekonomi",
+   "saat": "14:42",
+   "tarih_iso": "2026-07-23T14:42:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/tcmb-faiz-karari-ne-zaman-aciklanacak-temmuz-2026-toplantisinda-beklenti-ne-yonde-tcmb-ppk-toplantisindan-ne-karar-cikacak-dolar-3445837",
    "baslik": "TCMB FAİZ KARARI NE ZAMAN AÇIKLANACAK? Temmuz 2026 Toplantısında Beklenti Ne Yönde? TCMB PPK Toplantısından Ne Karar Çıkacak? Dolar, Altın ve Borsa İçin Kritik Gün",
    "kaynak": "CNN Türk Ekonomi",
@@ -1588,5 +1739,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-23T14:30:59.606731+03:00"
+ "guncelleme": "2026-07-23T15:01:15.231648+03:00"
 }
