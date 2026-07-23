@@ -2,6 +2,19 @@
  "tarih": "2026-07-23",
  "kap": [
   {
+   "id": "kap-my-ECZYT-202607231455",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ECZYT"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:55",
+   "tarih_iso": "2026-07-23T14:55:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202607231422",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -235,6 +248,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-piyasa-beklentileri-dogrultusunda-3-temel-politika-faizini-sabit-birakti/4007001",
+   "baslik": "Avrupa Merkez Bankası, piyasa beklentileri doğrultusunda 3 temel politika faizini sabit bıraktı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-piyasa-beklentileri-dogrultusunda-3-temel-politika-faizini-sabit-birakti/4007001",
+   "saat": "15:17",
+   "tarih_iso": "2026-07-23T15:17:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/son-dakika-enflasyon-fark-odeme-tarihi-belli-oldu-memur-emeklisi-dul-ve-yetimlere-zam-farklari-ne-zaman-odenecek-sgkdan-son-dakika-3445855",
    "baslik": "SON DAKİKA ENFLASYON FARK ÖDEME TARİHİ BELLİ OLDU: Memur Emeklisi, Dul ve Yetimlere Zam Farkları Ne Zaman Ödenecek? SGK'dan Son Dakika Duyurusu!",
    "kaynak": "CNN Türk Ekonomi",
@@ -253,6 +276,26 @@
    "tarih_iso": "2026-07-23T15:14:34+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T12:31:03.047727+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/faiz-karari-sonrasi-ekonomistlerden-ilk-yorum-jeopolitik-risklerin-alti-cizildi-haberi-833387",
+   "baslik": "Faiz kararı sonrası ekonomistlerden ilk yorum: Jeopolitik risklerin altı çizildi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/faiz-karari-sonrasi-ekonomistlerden-ilk-yorum-jeopolitik-risklerin-alti-cizildi-haberi-833387",
+   "saat": "14:55",
+   "tarih_iso": "2026-07-23T14:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/merkez-bankasinin-toplam-rezervleri-azaldi-haberi-833385",
+   "baslik": "Merkez Bankası'nın toplam rezervleri azaldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/merkez-bankasinin-toplam-rezervleri-azaldi-haberi-833385",
+   "saat": "14:52",
+   "tarih_iso": "2026-07-23T14:52:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-160-5-milyar-dolar-oldu/4006947",
@@ -447,6 +490,76 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/japans-1-8-trillion-pension-giant-might-bring-money-home-that-could-jolt-u-s-stocks-and-the-fed-908c66d5?mod=mw_rss_topstories",
+   "baslik": "Japan’s $1.8 trillion pension giant might bring money home. That could jolt U.S. stocks and the Fed.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/japans-1-8-trillion-pension-giant-might-bring-money-home-that-could-jolt-u-s-stocks-and-the-fed-908c66d5?mod=mw_rss_topstories",
+   "saat": "15:16",
+   "tarih_iso": "2026-07-23T15:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/googles-extreme-ai-capex-spending-plans-trigger-a-technical-warning-on-the-stock-price-120952068.html",
+   "baslik": "Google's extreme AI capex spending plans trigger a technical warning on the stock price",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/googles-extreme-ai-capex-spending-plans-trigger-a-technical-warning-on-the-stock-price-120952068.html",
+   "saat": "15:09",
+   "tarih_iso": "2026-07-23T15:09:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/nvidia-stock-alphabet-earnings-skhynix-3768645b?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Why Nvidia Stock Isn’t Rallying as It Should After Alphabet Earnings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/nvidia-stock-alphabet-earnings-skhynix-3768645b?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:09",
+   "tarih_iso": "2026-07-23T15:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-alphabet-googl-tesla-tsla/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Dow Jones Index Falls 300 Points As Alphabet, Tesla Dive On Earnings News (Live Coverage)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-alphabet-googl-tesla-tsla/?src=A00220&yptr=yahoo",
+   "saat": "15:08",
+   "tarih_iso": "2026-07-23T15:08:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-earnings/?src=A00220&yptr=yahoo",
+   "baslik": "Dow Jones Futures Fall As Oil Prices Top $90; Google, Tesla Skid On Earnings, Capital Spending",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-earnings/?src=A00220&yptr=yahoo",
+   "saat": "15:06",
+   "tarih_iso": "2026-07-23T15:06:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/morning-minute-wall-street-moving-120252478.html",
+   "baslik": "Morning Minute: Wall Street Moving Onchain Will Drive the Next Bull Market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-wall-street-moving-120252478.html",
+   "saat": "15:02",
+   "tarih_iso": "2026-07-23T15:02:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/oil-hits-7-week-high-112840497.html",
+   "baslik": "Oil prices hit 7-week high, Dow futures drop 340 points",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/oil-hits-7-week-high-112840497.html",
+   "saat": "15:00",
+   "tarih_iso": "2026-07-23T15:00:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/short-sellers-notch-155-billion-profit-as-spacex-shares-slip-ortex-4808605",
    "baslik": "Short sellers notch $15.5 billion profit as SpaceX shares slip -Ortex",
    "kaynak": "Investing.com",
@@ -455,6 +568,36 @@
    "tarih_iso": "2026-07-23T15:00:40+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/stock-lists/stock-spotlight/dorian-lpg-stock-strait-of-hormuz/?src=A00220&yptr=yahoo",
+   "baslik": "LPG Shipper Nears Buy Point As Iran Conflict Sends Rates Soaring",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/stock-lists/stock-spotlight/dorian-lpg-stock-strait-of-hormuz/?src=A00220&yptr=yahoo",
+   "saat": "15:00",
+   "tarih_iso": "2026-07-23T15:00:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/insteel-industries-iiin-q3-2026-120036532.html",
+   "baslik": "Insteel Industries (IIIN) Q3 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/insteel-industries-iiin-q3-2026-120036532.html",
+   "saat": "15:00",
+   "tarih_iso": "2026-07-23T15:00:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/how-to-trade-options-120000006.html",
+   "baslik": "How to trade options: 7 steps from account approval to your first contract",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/how-to-trade-options-120000006.html",
+   "saat": "15:00",
+   "tarih_iso": "2026-07-23T15:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vita-coco-stock-surging-today-93CH-4808601",
@@ -485,6 +628,16 @@
    "tarih_iso": "2026-07-23T14:56:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T15:01:15.231648+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/google-stock-google-earnings-ai-model-leadership-gemini/?src=A00220&yptr=yahoo",
+   "baslik": "Google Stock Falls Amid Questions Over AI Leadership, Gemini 4 Roadmap",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/google-stock-google-earnings-ai-model-leadership-gemini/?src=A00220&yptr=yahoo",
+   "saat": "14:55",
+   "tarih_iso": "2026-07-23T14:55:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-grocer-albertsons-cuts-annual-sales-profit-forecasts-shares-drop-20-4808568",
@@ -535,6 +688,16 @@
    "tarih_iso": "2026-07-23T14:17:16+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T14:30:59.606731+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/research/reports/ARGUS_47706_MarketOutlook_1784805249000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "baslik": "Daily Spotlight: Market Calm as Earnings Take Center Stage",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/research/reports/ARGUS_47706_MarketOutlook_1784805249000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "saat": "14:14",
+   "tarih_iso": "2026-07-23T14:14:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:21:27.255702+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/research/reports/ARGUS_47703_MarketSummary_1784805131000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -1525,56 +1688,6 @@
    "tarih_iso": "2026-07-22T23:54:44+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
-   "baslik": "The Treasury market touches a worrying milestone not seen since 2007",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
-   "saat": "23:13",
-   "tarih_iso": "2026-07-22T23:13:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
-   "baslik": "Global oil prices settle at 6-week high after topping $95 a barrel, as hopes dim for de-escalation of Iran war",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/oil-prices-climb-to-six-week-high-as-hopes-of-de-escalation-in-iran-diminish-b5fb0942?mod=mw_rss_topstories",
-   "saat": "23:10",
-   "tarih_iso": "2026-07-22T23:10:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/22/jj-gets-a-big-win-on-its-new-robotic-surgical-system-plus-a-flood-of-earnings.html",
-   "baslik": "J&J gets a big win on its new robotic surgical system — plus, a flood of earnings",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/22/jj-gets-a-big-win-on-its-new-robotic-surgical-system-plus-a-flood-of-earnings.html",
-   "saat": "21:57",
-   "tarih_iso": "2026-07-22T21:57:50+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
-   "baslik": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
-   "saat": "19:57",
-   "tarih_iso": "2026-07-22T19:57:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
-   "baslik": "Kalshi launches election hub for prediction markets ahead of midterms",
-   "kaynak": "CNBC Finans",
-   "link": "https://www.cnbc.com/2026/07/22/kalshi-launches-election-hub-for-prediction-markets-ahead-of-midterms.html",
-   "saat": "18:23",
-   "tarih_iso": "2026-07-22T18:23:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
  "altin_haber": [
@@ -1739,5 +1852,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-23T15:01:15.231648+03:00"
+ "guncelleme": "2026-07-23T15:21:27.255702+03:00"
 }
