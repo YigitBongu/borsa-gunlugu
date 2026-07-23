@@ -2,6 +2,19 @@
  "tarih": "2026-07-23",
  "kap": [
   {
+   "id": "kap-my-AKSEN-202607231227",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "AKSEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:27",
+   "tarih_iso": "2026-07-23T12:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T13:01:07.504649+03:00"
+  },
+  {
    "id": "kap-my-ZOREN-202607231045",
    "baslik": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
@@ -108,6 +121,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/turkcell-yildiz-faturasiz-musterilere-kazandiriyor-3900494-teknoloji",
+   "baslik": "Faturasız hat müşterilere kazandırıyor",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/turkcell-yildiz-faturasiz-musterilere-kazandiriyor-3900494-teknoloji",
+   "saat": "12:40",
+   "tarih_iso": "2026-07-23T12:40:50+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-07-23T13:01:07.504649+03:00"
+  },
+  {
    "id": "rss-https://www.ntv.com.tr/ekonomi/dap-yapidan-bir-ilk-emlak-konut-guvencesi-dap-vizyonuyla-kendi-kendini-odeyen-ev-modeli-1734193",
    "baslik": "DAP Yapı’dan bir ilk! Emlak Konut güvencesi Dap vizyonuyla kendi kendini ödeyen ev modeli",
    "kaynak": "NTV Ekonomi",
@@ -162,6 +187,16 @@
    "tarih_iso": "2026-07-23T14:03:02+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T11:23:05.312401+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/commerzbank-tlde-asil-riski-faiz-koridorunda-gordu-haberi-833363",
+   "baslik": "Commerzbank TL’de asıl riski faiz koridorunda gördü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/commerzbank-tlde-asil-riski-faiz-koridorunda-gordu-haberi-833363",
+   "saat": "12:28",
+   "tarih_iso": "2026-07-23T12:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T13:01:07.504649+03:00"
   },
   {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/uzman-isim-anlatti-aciklanacak-faiz-karari-piyasaya-nasil-yansiyacak-3445770",
@@ -265,6 +300,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cvs-stock-sliding-today-93CH-4807997",
+   "baslik": "Why is CVS stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cvs-stock-sliding-today-93CH-4807997",
+   "saat": "12:57",
+   "tarih_iso": "2026-07-23T12:57:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T13:01:07.504649+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-beat-and-raise-earnings-reports-are-no-longer-enough-to-push-the-stock-market-higher-d6b2cae4?mod=mw_rss_topstories",
+   "baslik": "Why beat-and-raise earnings reports are no longer enough to push the stock market higher",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-beat-and-raise-earnings-reports-are-no-longer-enough-to-push-the-stock-market-higher-d6b2cae4?mod=mw_rss_topstories",
+   "saat": "12:48",
+   "tarih_iso": "2026-07-23T12:48:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T13:01:07.504649+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-eurofins-scientific-stock-down-today-93CH-4807946",
+   "baslik": "Why is Eurofins Scientific stock down today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-eurofins-scientific-stock-down-today-93CH-4807946",
+   "saat": "12:44",
+   "tarih_iso": "2026-07-23T12:44:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T13:01:07.504649+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/surging-ipo-activity-is-one-of-the-fourhorsemen-of-a-market-bubble-according-to-this-portfolio-manager-35a1ab02?mod=mw_rss_topstories",
+   "baslik": "Surging IPO activity is one of the four horsemen of a market bubble, according to this portfolio manager",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/surging-ipo-activity-is-one-of-the-fourhorsemen-of-a-market-bubble-according-to-this-portfolio-manager-35a1ab02?mod=mw_rss_topstories",
+   "saat": "12:34",
+   "tarih_iso": "2026-07-23T12:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T13:01:07.504649+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/founder-says-deepseek-prioritises-agi-over-profit-likely-to-keep-top-models-opensource-yicai-reports-4807929",
+   "baslik": "Founder says DeepSeek prioritises AGI over profit, likely to keep top models open-source, Yicai reports",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/founder-says-deepseek-prioritises-agi-over-profit-likely-to-keep-top-models-opensource-yicai-reports-4807929",
+   "saat": "12:24",
+   "tarih_iso": "2026-07-23T12:24:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T13:01:07.504649+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-relx-stock-climbing-today-93CH-4807928",
+   "baslik": "Why is Relx stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-relx-stock-climbing-today-93CH-4807928",
+   "saat": "12:24",
+   "tarih_iso": "2026-07-23T12:24:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T13:01:07.504649+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-inter-parfums-stock-sliding-today-93CH-4807927",
+   "baslik": "Why is Inter Parfums stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-inter-parfums-stock-sliding-today-93CH-4807927",
+   "saat": "12:22",
+   "tarih_iso": "2026-07-23T12:22:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T13:01:07.504649+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-daetwyl-stock-dropping-today-93CH-4807908",
    "baslik": "Why is Daetwyl stock dropping today?",
@@ -1178,5 +1283,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-23T12:31:03.047727+03:00"
+ "guncelleme": "2026-07-23T13:01:07.504649+03:00"
 }
