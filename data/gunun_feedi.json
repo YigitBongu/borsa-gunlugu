@@ -2,6 +2,45 @@
  "tarih": "2026-07-23",
  "kap": [
   {
+   "id": "kap-my-YKBNK-202607232013",
+   "baslik": "YAPI VE KREDİ BANKASI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
+   "kodlar": [
+    "YKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "20:13",
+   "tarih_iso": "2026-07-23T20:13:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "kap-my-BIMAS-202607231933",
+   "baslik": "BİM BİRLEŞİK MAĞAZALAR A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+   "kodlar": [
+    "BIMAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:33",
+   "tarih_iso": "2026-07-23T19:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "kap-my-TTKOM-202607231900",
+   "baslik": "TÜRK TELEKOMÜNİKASYON A.Ş. — TSRS Uyumlu Sürdürülebilirlik Raporu",
+   "sirket": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:00",
+   "tarih_iso": "2026-07-23T19:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
    "id": "kap-my-AKSEN-202607231758",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -277,6 +316,42 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/is-dunyasi/tim-baskani-gultepe-sanayinin-nefese-ihtiyaci-var-yuzde-50-faize-dayanamayiz-haberi-833416",
+   "baslik": "TİM Başkanı Gültepe: Sanayinin nefese ihtiyacı var yüzde 50 faize dayanamayız",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/is-dunyasi/tim-baskani-gultepe-sanayinin-nefese-ihtiyaci-var-yuzde-50-faize-dayanamayiz-haberi-833416",
+   "saat": "00:00",
+   "tarih_iso": "2026-07-24T00:00:00+03:00",
+   "kodlar": [
+    "ODAS"
+   ],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/dunya/8-ulkeden-israile-mescid-i-aksa-kinamasi-haberi-833453",
+   "baslik": "8 ülkeden İsrail'e Mescid-i Aksa kınaması",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/8-ulkeden-israile-mescid-i-aksa-kinamasi-haberi-833453",
+   "saat": "23:05",
+   "tarih_iso": "2026-07-23T23:05:00+03:00",
+   "kodlar": [
+    "AKSA"
+   ],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/gundem/tbmm-baskani-kurtulmustan-mescid-i-aksa-baskinina-sert-tepki-haberi-833448",
+   "baslik": "TBMM Başkanı Kurtulmuş'tan Mescid-i Aksa baskınına sert tepki",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/tbmm-baskani-kurtulmustan-mescid-i-aksa-baskinina-sert-tepki-haberi-833448",
+   "saat": "22:05",
+   "tarih_iso": "2026-07-23T22:05:00+03:00",
+   "kodlar": [
+    "AKSA"
+   ],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/tivibudan-yeni-musterilere-ozel-ilk-3-ay-ucretsiz-eglence-paketi-3900580-teknoloji",
    "baslik": "İlk 3 ay ücretsiz eğlence paketi",
    "kaynak": "Habertürk Ekonomi",
@@ -375,6 +450,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/dunya-plus/bisikletin-150-milyon-euroluk-yarisi-haberi-833403",
+   "baslik": "Bisikletin 150 milyon Euro’luk yarışı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya-plus/bisikletin-150-milyon-euroluk-yarisi-haberi-833403",
+   "saat": "00:00",
+   "tarih_iso": "2026-07-24T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-rezervlerinde-haftalik-gerileme-toplam-rezerv-160-5-milyar-dolara-indi-3445991",
+   "baslik": "TCMB rezervlerinde haftalık gerileme! Toplam rezerv 160,5 milyar dolara indi",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/tcmb-rezervlerinde-haftalik-gerileme-toplam-rezerv-160-5-milyar-dolara-indi-3445991",
+   "saat": "20:13",
+   "tarih_iso": "2026-07-23T20:13:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/abd-iran-savasi-neden-merkez-bankasi-faiz-kararini-etkiliyor-3445943",
+   "baslik": "ABD-İran savaşı neden Merkez Bankası faiz kararını etkiliyor? Uzman isim CNN TÜRK'te yanıtladı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/abd-iran-savasi-neden-merkez-bankasi-faiz-kararini-etkiliyor-3445943",
+   "saat": "18:02",
+   "tarih_iso": "2026-07-23T18:02:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/lagardedan-enflasyon-uyarisi-enerji-sokunun-etkisi-bitmedi-haberi-833415",
    "baslik": "Lagarde'dan enflasyon uyarısı: Enerji şokunun etkisi bitmedi",
@@ -688,6 +793,76 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+   "baslik": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+   "saat": "23:47",
+   "tarih_iso": "2026-07-23T23:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/afterhours-stock-movers-intc-amd-arm-mxl-ew-deck-432SI-4810042",
+   "baslik": "After-Hours Stock Movers: INTC, AMD, ARM, MXL, EW, DECK",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/afterhours-stock-movers-intc-amd-arm-mxl-ew-deck-432SI-4810042",
+   "saat": "23:40",
+   "tarih_iso": "2026-07-23T23:40:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/marvell-technology-stock-outlook-bull-case-bear-case-and-key-risks-93CH-4810022",
+   "baslik": "Marvell Technology stock outlook: bull case, bear case, and key risks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/marvell-technology-stock-outlook-bull-case-bear-case-and-key-risks-93CH-4810022",
+   "saat": "23:35",
+   "tarih_iso": "2026-07-23T23:35:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/japans-1-8-trillion-pension-giant-might-bring-money-home-that-could-jolt-u-s-stocks-and-the-fed-908c66d5?mod=mw_rss_topstories",
+   "baslik": "Japan’s $1.8 trillion pension giant might bring money home. That could jolt U.S. stocks and the Fed.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/japans-1-8-trillion-pension-giant-might-bring-money-home-that-could-jolt-u-s-stocks-and-the-fed-908c66d5?mod=mw_rss_topstories",
+   "saat": "23:31",
+   "tarih_iso": "2026-07-23T23:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-097-4809993",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.97%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-097-4809993",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-23T23:30:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-082-4809992",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.82%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-082-4809992",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-23T23:30:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-046-4809981",
+   "baslik": "Brazil stocks lower at close of trade; Bovespa down 0.46%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-046-4809981",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-23T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
    "baslik": "Intel's stock jumps 11% as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
    "kaynak": "CNBC",
@@ -756,6 +931,16 @@
    "tarih_iso": "2026-07-23T22:51:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T22:53:07.077878+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c4gd9kypkjlo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Help for electricity bills as crude oil hits $100",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c4gd9kypkjlo?at_medium=RSS&at_campaign=rss",
+   "saat": "22:37",
+   "tarih_iso": "2026-07-23T22:37:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/synopsys-outlook-raised-to-positive-by-sp-on-debt-reduction-93CH-4809819",
@@ -1806,89 +1991,29 @@
    "tarih_iso": "2026-07-23T17:06:57+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T17:31:01.765516+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/comcast-q2-earnings-call-highlights-140657725.html",
-   "baslik": "Comcast Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-q2-earnings-call-highlights-140657725.html",
-   "saat": "17:06",
-   "tarih_iso": "2026-07-23T17:06:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T17:31:01.765516+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/tesla-elon-musk-robotaxi-optimus-electric-vehicles/?src=A00220&yptr=yahoo",
-   "baslik": "Elon Musk Preaches Patience On Robotaxi, Optimus Rollout. Tesla Stock Plummets.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/tesla-elon-musk-robotaxi-optimus-electric-vehicles/?src=A00220&yptr=yahoo",
-   "saat": "17:03",
-   "tarih_iso": "2026-07-23T17:03:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T17:31:01.765516+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Oil prices hit $100 for the first time since May",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-   "saat": "16:55",
-   "tarih_iso": "2026-07-23T16:55:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T17:01:20.190450+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/costco-cost-able-continue-high-134259200.html",
-   "baslik": "Will Costco (COST) be Able to Continue High Dividend Growth?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-able-continue-high-134259200.html",
-   "saat": "16:42",
-   "tarih_iso": "2026-07-23T16:42:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T17:01:20.190450+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
-   "baslik": "Albertsons stock plunges as it says weaker grocery spending will cut into sales and earnings",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/23/albertsons-stock-plunges-on-lowered-outlook-softened-grocery-trends.html",
-   "saat": "16:41",
-   "tarih_iso": "2026-07-23T16:41:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T17:01:20.190450+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/blackstone-q2-2026-earnings-beat-133859733.html",
-   "baslik": "Blackstone Q2 2026 earnings beat on AI investments, record inflows",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/blackstone-q2-2026-earnings-beat-133859733.html",
-   "saat": "16:38",
-   "tarih_iso": "2026-07-23T16:38:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T17:01:20.190450+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-   "baslik": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-   "saat": "16:38",
-   "tarih_iso": "2026-07-23T16:38:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T17:01:20.190450+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/us-energy-shares-gain-houthi-133228733.html",
-   "baslik": "US energy shares gain as Houthi tanker attacks push Brent to $100",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/us-energy-shares-gain-houthi-133228733.html",
-   "saat": "16:32",
-   "tarih_iso": "2026-07-23T16:32:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T17:01:20.190450+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/golds-28-drawdown-confirms-the-january-peak-was-a-blowoff-top-200684480",
+   "baslik": "Gold’s 28% Drawdown Confirms the January Peak Was a Blow-Off Top",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-28-drawdown-confirms-the-january-peak-was-a-blowoff-top-200684480",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/finans/altin/altin-ithalatina-getirilen-kota-mucevher-ihracatini-vurdu-haberi-833414",
+   "baslik": "Altın ithalatına getirilen kota mücevher ihracatını vurdu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altin-ithalatina-getirilen-kota-mucevher-ihracatini-vurdu-haberi-833414",
+   "saat": "00:00",
+   "tarih_iso": "2026-07-24T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T00:01:07.276360+03:00"
+  },
   {
    "id": "alt-https://www.ft.com/content/55b3b434-9965-4046-b239-43443db3e54a",
    "baslik": "Trump’s dubious nuclear deal with Saudi Arabia",
@@ -2100,5 +2225,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-23T23:31:00.048664+03:00"
+ "guncelleme": "2026-07-24T00:01:07.276360+03:00"
 }
