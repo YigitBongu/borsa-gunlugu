@@ -2,6 +2,19 @@
  "tarih": "2026-07-23",
  "kap": [
   {
+   "id": "kap-my-ISCTR-202607231035",
+   "baslik": "TÜRKİYE İŞ BANKASI A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "TÜRKİYE İŞ BANKASI A.Ş.",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "10:35",
+   "tarih_iso": "2026-07-23T10:35:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T11:00:13.364805+03:00"
+  },
+  {
    "id": "kap-my-VAKBN-202607231008",
    "baslik": "TÜRKİYE VAKIFLAR BANKASI T.A.O. — Kredi Derecelendirmesi",
    "sirket": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
@@ -106,6 +119,16 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   },
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/cip-endeksi-ay-piyasasna-girdi-petrol-yukseldi-bist-100-cift-yonlu-baskda-3991966",
+   "baslik": "Çip endeksi ayı piyasasına girdi, petrol yükseldi: BIST 100 çift yönlü baskıda",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/cip-endeksi-ay-piyasasna-girdi-petrol-yukseldi-bist-100-cift-yonlu-baskda-3991966",
+   "saat": "10:40",
+   "tarih_iso": "2026-07-23T10:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T11:00:13.364805+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/temmuz-fed-faiz-karari-ne-zaman-hangi-gun-aciklanacak-haberi-833342",
    "baslik": "Temmuz Fed faiz kararı ne zaman, hangi gün açıklanacak?",
    "kaynak": "Dünya",
@@ -114,6 +137,16 @@
    "tarih_iso": "2026-07-23T10:24:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-yukselen-getiriler-ve-ecb-karar-ile-dustu-3991935",
+   "baslik": "Avrupa hisseleri yükselen getiriler ve ECB kararı ile düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-yukselen-getiriler-ve-ecb-karar-ile-dustu-3991935",
+   "saat": "10:19",
+   "tarih_iso": "2026-07-23T10:19:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T11:00:13.364805+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-aciklandi-mi-saat-kacta-aciklanacak-faizler-dustu-mu-haberi-833339",
@@ -168,6 +201,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-3i-stock-surging-today-93CH-4807685",
+   "baslik": "Why is 3I stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-3i-stock-surging-today-93CH-4807685",
+   "saat": "10:36",
+   "tarih_iso": "2026-07-23T10:36:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T11:00:13.364805+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-usiran-war-escalates-ecb-looms-4807683",
+   "baslik": "FTSE 100 today: Stocks slip as U.S.-Iran war escalates, ECB looms",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-usiran-war-escalates-ecb-looms-4807683",
+   "saat": "10:36",
+   "tarih_iso": "2026-07-23T10:36:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T11:00:13.364805+03:00"
+  },
+  {
    "id": "yab-https://www.bbc.co.uk/news/videos/ce34n2lgkz0o?at_medium=RSS&at_campaign=rss",
    "baslik": "What we know about 20% cut to some business rates",
    "kaynak": "BBC Business",
@@ -176,6 +229,26 @@
    "tarih_iso": "2026-07-23T10:29:46+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T10:31:05.002018+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/guggenheim-names-top-biotechnology-stock-pick-for-2026-93CH-4807663",
+   "baslik": "Guggenheim Names Top Biotechnology Stock Pick for 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/guggenheim-names-top-biotechnology-stock-pick-for-2026-93CH-4807663",
+   "saat": "10:25",
+   "tarih_iso": "2026-07-23T10:25:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T11:00:13.364805+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nestle-beats-q2-organic-sales-expectations-forms-waters-joint-venture-4807509",
+   "baslik": "Nestle sheds water stake as it eyes faster growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nestle-beats-q2-organic-sales-expectations-forms-waters-joint-venture-4807509",
+   "saat": "10:24",
+   "tarih_iso": "2026-07-23T10:24:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T11:00:13.364805+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-slide-as-rising-yields-and-ecb-rate-call-weigh-on-sentiment-4807564",
@@ -700,5 +773,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-23T10:31:05.002018+03:00"
+ "guncelleme": "2026-07-23T11:00:13.364805+03:00"
 }
