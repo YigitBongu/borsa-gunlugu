@@ -2,6 +2,19 @@
  "tarih": "2026-07-23",
  "kap": [
   {
+   "id": "kap-my-TAVHL-202607231720",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:20",
+   "tarih_iso": "2026-07-23T17:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T17:40:29.162898+03:00"
+  },
+  {
    "id": "kap-my-TAVHL-202607231652",
    "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
    "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
@@ -639,6 +652,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/mulberry-revenue-edges-4-fy26-142838703.html",
+   "baslik": "Mulberry revenue edges up 4% in FY26",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mulberry-revenue-edges-4-fy26-142838703.html",
+   "saat": "17:28",
+   "tarih_iso": "2026-07-23T17:28:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:40:29.162898+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
    "baslik": "Alphabet’s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
    "kaynak": "MarketWatch",
@@ -659,6 +682,16 @@
    "eklenme": "2026-07-23T17:31:01.765516+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/vym-yields-2-3-costs-142000816.html",
+   "baslik": "VYM Yields 2.3% and Costs 0.04% a Year. Here's What That Trade-Off Buys You.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vym-yields-2-3-costs-142000816.html",
+   "saat": "17:20",
+   "tarih_iso": "2026-07-23T17:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:40:29.162898+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
    "baslik": "For young investors, $100,000 was once the gateway to wealth. Today, it’s double that.",
    "kaynak": "MarketWatch",
@@ -667,6 +700,56 @@
    "tarih_iso": "2026-07-23T17:15:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/manpowergroup-man-q2-2026-earnings-141337647.html",
+   "baslik": "ManpowerGroup (MAN) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/manpowergroup-man-q2-2026-earnings-141337647.html",
+   "saat": "17:13",
+   "tarih_iso": "2026-07-23T17:13:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:40:29.162898+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/state-street-stt-q2-2026-141337102.html",
+   "baslik": "State Street (STT) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/state-street-stt-q2-2026-141337102.html",
+   "saat": "17:13",
+   "tarih_iso": "2026-07-23T17:13:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:40:29.162898+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bank7-bsvn-q2-2026-earnings-141336470.html",
+   "baslik": "Bank7 (BSVN) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bank7-bsvn-q2-2026-earnings-141336470.html",
+   "saat": "17:13",
+   "tarih_iso": "2026-07-23T17:13:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:40:29.162898+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/anthropic-mulls-mandatory-employee-stock-141206883.html",
+   "baslik": "Anthropic mulls mandatory employee stock trading plans after IPO, The Information reports",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-mulls-mandatory-employee-stock-141206883.html",
+   "saat": "17:12",
+   "tarih_iso": "2026-07-23T17:12:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:40:29.162898+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/analysts-bet-boeing-turnaround-retail-141042349.html",
+   "baslik": "As Analysts Bet on Boeing Turnaround, Retail Investors Fixate on One Uncomfortable Fact",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/analysts-bet-boeing-turnaround-retail-141042349.html",
+   "saat": "17:10",
+   "tarih_iso": "2026-07-23T17:10:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:40:29.162898+03:00"
   },
   {
    "id": "yab-https://www.wsj.com/business/earnings/dow-logs-profit-on-higher-prices-net-sales-f8d09703?siteid=yhoof2&yptr=yahoo",
@@ -1767,76 +1850,6 @@
    "tarih_iso": "2026-07-23T11:44:44+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T16:01:15.283891+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sell-off-as-markets-weigh-ai-capex-widening-mideast-attacks-084444369.html",
-   "baslik": "Stock market today: Dow, S&P 500, Nasdaq sell off as markets weigh AI capex, widening Mideast attacks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sell-off-as-markets-weigh-ai-capex-widening-mideast-attacks-084444369.html",
-   "saat": "11:44",
-   "tarih_iso": "2026-07-23T11:44:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T17:01:20.190450+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html",
-   "baslik": "Stock market today: Dow, S&P 500, Nasdaq sell off as rising oil prices, bond yields, and AI capex weigh",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html",
-   "saat": "11:44",
-   "tarih_iso": "2026-07-23T11:44:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T17:31:01.765516+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/aston-martin-stock-jumps-on-736-million-debt-financing-deal-93CH-4807824",
-   "baslik": "Aston Martin stock jumps on $736 million debt financing deal",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/aston-martin-stock-jumps-on-736-million-debt-financing-deal-93CH-4807824",
-   "saat": "11:44",
-   "tarih_iso": "2026-07-23T11:44:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T12:01:09.928789+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ibm-shares-rise-3-postq2-earnings-miss-as-investors-eye-prior-profit-warning-4806913",
-   "baslik": "IBM slashes revenue forecast amid slump in data-center mainframe sales",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ibm-shares-rise-3-postq2-earnings-miss-as-investors-eye-prior-profit-warning-4806913",
-   "saat": "11:42",
-   "tarih_iso": "2026-07-23T11:42:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T12:01:09.928789+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-leslies-stock-collapsing-today-93CH-4807821",
-   "baslik": "Why is Leslie’s stock collapsing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-leslies-stock-collapsing-today-93CH-4807821",
-   "saat": "11:42",
-   "tarih_iso": "2026-07-23T11:42:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T12:01:09.928789+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-roche-stock-climbing-today-93CH-4807819",
-   "baslik": "Why is Roche stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-roche-stock-climbing-today-93CH-4807819",
-   "saat": "11:41",
-   "tarih_iso": "2026-07-23T11:41:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T12:01:09.928789+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sartorius-stock-sliding-today-93CH-4807796",
-   "baslik": "Why is Sartorius stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sartorius-stock-sliding-today-93CH-4807796",
-   "saat": "11:40",
-   "tarih_iso": "2026-07-23T11:40:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T12:01:09.928789+03:00"
   }
  ],
  "altin_haber": [
@@ -2001,5 +2014,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-23T17:31:01.765516+03:00"
+ "guncelleme": "2026-07-23T17:40:29.162898+03:00"
 }
