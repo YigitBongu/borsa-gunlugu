@@ -2,6 +2,19 @@
  "tarih": "2026-07-23",
  "kap": [
   {
+   "id": "kap-my-KARSN-202607231326",
+   "baslik": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "KARSN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:26",
+   "tarih_iso": "2026-07-23T13:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T14:01:16.004743+03:00"
+  },
+  {
    "id": "kap-my-AKSEN-202607231227",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -201,6 +214,16 @@
    "eklenme": "2026-07-23T11:23:05.312401+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-haberi-833377",
+   "baslik": "Son dakika... Merkez Bankası faiz kararını açıkladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-haberi-833377",
+   "saat": "13:58",
+   "tarih_iso": "2026-07-23T13:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T14:01:16.004743+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/mhp-genel-baskani-bahceli-chpnin-hazine-yardimi-yeni-partiyle-paylasilmali-haberi-833372",
    "baslik": "MHP Genel Başkanı Bahçeli: CHP'nin hazine yardımı yeni partiyle paylaşılmalı",
    "kaynak": "Dünya",
@@ -209,6 +232,16 @@
    "tarih_iso": "2026-07-23T13:31:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T13:38:36.620508+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/googlea-avrupada-1-milyar-dolar-ceza-3900506-teknoloji",
+   "baslik": "Google’a Avrupa’da 1 milyar dolar ceza",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/googlea-avrupada-1-milyar-dolar-ceza-3900506-teknoloji",
+   "saat": "13:28",
+   "tarih_iso": "2026-07-23T13:28:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T14:01:16.004743+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/commerzbank-tlde-asil-riski-faiz-koridorunda-gordu-haberi-833363",
@@ -322,6 +355,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/t-mobile-earnings-rise-as-customers-pour-into-premium-plans-dbed96b8?mod=mw_rss_topstories",
+   "baslik": "T-Mobile earnings rise as customers pour into premium plans",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/t-mobile-earnings-rise-as-customers-pour-into-premium-plans-dbed96b8?mod=mw_rss_topstories",
+   "saat": "13:39",
+   "tarih_iso": "2026-07-23T13:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T14:01:16.004743+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/comcasts-peacock-records-first-ever-profit-on-world-cup-love-island-usa-boost-4808153",
+   "baslik": "Comcast’s Peacock records first ever profit on World Cup, ’Love Island USA’ boost",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/comcasts-peacock-records-first-ever-profit-on-world-cup-love-island-usa-boost-4808153",
+   "saat": "13:36",
+   "tarih_iso": "2026-07-23T13:36:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T14:01:16.004743+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-thermo-fisher-scientific-stock-surging-today-93CH-4808102",
    "baslik": "Why is Thermo Fisher Scientific stock surging today?",
@@ -1405,5 +1458,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-23T13:38:36.620508+03:00"
+ "guncelleme": "2026-07-23T14:01:16.004743+03:00"
 }
