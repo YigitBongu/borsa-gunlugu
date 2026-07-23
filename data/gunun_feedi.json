@@ -2,6 +2,19 @@
  "tarih": "2026-07-23",
  "kap": [
   {
+   "id": "kap-my-AKSEN-202607231758",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "AKSEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:58",
+   "tarih_iso": "2026-07-23T17:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
    "id": "kap-my-FENER-202607231726",
    "baslik": "FENERBAHÇE FUTBOL A.Ş. — Genel Kurul İşlemlerine İlişkin Bildirim",
    "sirket": "FENERBAHÇE FUTBOL A.Ş.",
@@ -363,6 +376,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/lagardedan-enflasyon-uyarisi-enerji-sokunun-etkisi-bitmedi-haberi-833415",
+   "baslik": "Lagarde'dan enflasyon uyarısı: Enerji şokunun etkisi bitmedi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/lagardedan-enflasyon-uyarisi-enerji-sokunun-etkisi-bitmedi-haberi-833415",
+   "saat": "17:57",
+   "tarih_iso": "2026-07-23T17:57:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/totalenergies-rus-lng-satslarndan-ylda-400-milyon-dolar-kazanyor-93CH-3993292",
    "baslik": "TotalEnergies, Rus LNG satışlarından yılda 400 milyon dolar kazanıyor",
    "kaynak": "Investing TR",
@@ -665,6 +688,106 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+   "baslik": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+   "saat": "18:26",
+   "tarih_iso": "2026-07-23T18:26:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories",
+   "baslik": "Tesla sees a $200 billion wipeout as investors pan Musk’s plan to spend ‘as fast as we can’",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/tesla-sees-a-200-billion-wipeout-as-investors-pan-musks-plan-to-spend-as-fast-as-we-can-6faee365?mod=mw_rss_topstories",
+   "saat": "18:24",
+   "tarih_iso": "2026-07-23T18:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/23/intel-is-down-27percent-from-june-record-highs-how-it-can-reverse-the-slide.html",
+   "baslik": "Intel stock is down 27% from June record highs. How the chipmaker can reverse the slide",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/23/intel-is-down-27percent-from-june-record-highs-how-it-can-reverse-the-slide.html",
+   "saat": "18:16",
+   "tarih_iso": "2026-07-23T18:16:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-stock-surged-151347600.html",
+   "baslik": "Why GE Vernova Stock Surged 80% in the First Half of 2026",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-ge-vernova-stock-surged-151347600.html",
+   "saat": "18:13",
+   "tarih_iso": "2026-07-23T18:13:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/best-stocks-invest-500-now-150700321.html",
+   "baslik": "The Best Stocks to Invest $500 in Right Now",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/best-stocks-invest-500-now-150700321.html",
+   "saat": "18:07",
+   "tarih_iso": "2026-07-23T18:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/news/us-iran-tensions-underpin-dollar-005027588.html",
+   "baslik": "Dollar hits new 40-year high versus yen, euro lower after ECB decision",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/us-iran-tensions-underpin-dollar-005027588.html",
+   "saat": "18:06",
+   "tarih_iso": "2026-07-23T18:06:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/e-l-f-stock-hasnt-150100485.html",
+   "baslik": "e.l.f. Stock Hasn't Given Investors a Lot to Cheer About Lately. Here's Why That Could Change.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/e-l-f-stock-hasnt-150100485.html",
+   "saat": "18:01",
+   "tarih_iso": "2026-07-23T18:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/forget-other-five-2-mag7-150025760.html",
+   "baslik": "Forget the Other Five: These 2 Mag7 Stocks Deserve Your Attention",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-other-five-2-mag7-150025760.html",
+   "saat": "18:00",
+   "tarih_iso": "2026-07-23T18:00:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/single-biggest-reason-buy-celestica-150016179.html",
+   "baslik": "The Single Biggest Reason to Buy Celestica Ahead of July 27 Q2 Earnings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/single-biggest-reason-buy-celestica-150016179.html",
+   "saat": "18:00",
+   "tarih_iso": "2026-07-23T18:00:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/everything-is-going-wrong-for-oil-markets-right-now-145945382.html",
+   "baslik": "Everything is going wrong for oil markets right now",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/everything-is-going-wrong-for-oil-markets-right-now-145945382.html",
+   "saat": "17:59",
+   "tarih_iso": "2026-07-23T17:59:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-108-4809436",
    "baslik": "Norway stocks higher at close of trade; Oslo OBX up 1.08%",
    "kaynak": "Investing.com",
@@ -723,6 +846,16 @@
    "tarih_iso": "2026-07-23T17:29:45+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T18:01:23.106965+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Burnham says 20% business rates cut for English pubs 'a first step'",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cq6dg816464o?at_medium=RSS&at_campaign=rss",
+   "saat": "17:29",
+   "tarih_iso": "2026-07-23T17:29:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T18:31:02.376016+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/applied-digital-could-155-upside-142940655.html",
@@ -1753,116 +1886,6 @@
    "tarih_iso": "2026-07-23T13:24:51+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T13:31:04.546194+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/honeywell-technologies-profit-rises-in-first-postbreakup-results-4808056",
-   "baslik": "Honeywell Technologies profit rises in first post-breakup results",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/honeywell-technologies-profit-rises-in-first-postbreakup-results-4808056",
-   "saat": "13:21",
-   "tarih_iso": "2026-07-23T13:21:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T13:31:04.546194+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-23-2026-lock-in-up-to-420-apy-100000568.html",
-   "baslik": "Best CD rates today, Thursday, July 23, 2026: Lock in up to 4.20% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-july-23-2026-lock-in-up-to-420-apy-100000568.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-07-23T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T13:31:04.546194+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-23-2026-interest-ticks-down-100000013.html",
-   "baslik": "Mortgage and refinance interest rates today, Thursday, July 23, 2026: Interest ticks down",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-july-23-2026-interest-ticks-down-100000013.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-07-23T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T13:31:04.546194+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cvs-stock-sliding-today-93CH-4807997",
-   "baslik": "Why is CVS stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-cvs-stock-sliding-today-93CH-4807997",
-   "saat": "12:57",
-   "tarih_iso": "2026-07-23T12:57:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T13:01:07.504649+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/02bf3e4d-7719-4482-9f2b-ab14bd3fe9c3?syn-25a6b1a6=1",
-   "baslik": "Houthi attacks threaten to cut off Saudi Arabia’s oil lifeline",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/02bf3e4d-7719-4482-9f2b-ab14bd3fe9c3?syn-25a6b1a6=1",
-   "saat": "12:51",
-   "tarih_iso": "2026-07-23T12:51:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T13:31:04.546194+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/why-beat-and-raise-earnings-reports-are-no-longer-enough-to-push-the-stock-market-higher-d6b2cae4?mod=mw_rss_topstories",
-   "baslik": "Why beat-and-raise earnings reports are no longer enough to push the stock market higher",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/why-beat-and-raise-earnings-reports-are-no-longer-enough-to-push-the-stock-market-higher-d6b2cae4?mod=mw_rss_topstories",
-   "saat": "12:48",
-   "tarih_iso": "2026-07-23T12:48:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T13:01:07.504649+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-eurofins-scientific-stock-down-today-93CH-4807946",
-   "baslik": "Why is Eurofins Scientific stock down today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-eurofins-scientific-stock-down-today-93CH-4807946",
-   "saat": "12:44",
-   "tarih_iso": "2026-07-23T12:44:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T13:01:07.504649+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/surging-ipo-activity-is-one-of-the-fourhorsemen-of-a-market-bubble-according-to-this-portfolio-manager-35a1ab02?mod=mw_rss_topstories",
-   "baslik": "Surging IPO activity is one of the four horsemen of a market bubble, according to this portfolio manager",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/surging-ipo-activity-is-one-of-the-fourhorsemen-of-a-market-bubble-according-to-this-portfolio-manager-35a1ab02?mod=mw_rss_topstories",
-   "saat": "12:34",
-   "tarih_iso": "2026-07-23T12:34:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T13:01:07.504649+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/founder-says-deepseek-prioritises-agi-over-profit-likely-to-keep-top-models-opensource-yicai-reports-4807929",
-   "baslik": "Founder says DeepSeek prioritises AGI over profit, likely to keep top models open-source, Yicai reports",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/founder-says-deepseek-prioritises-agi-over-profit-likely-to-keep-top-models-opensource-yicai-reports-4807929",
-   "saat": "12:24",
-   "tarih_iso": "2026-07-23T12:24:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T13:01:07.504649+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-relx-stock-climbing-today-93CH-4807928",
-   "baslik": "Why is Relx stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-relx-stock-climbing-today-93CH-4807928",
-   "saat": "12:24",
-   "tarih_iso": "2026-07-23T12:24:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T13:01:07.504649+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-inter-parfums-stock-sliding-today-93CH-4807927",
-   "baslik": "Why is Inter Parfums stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-inter-parfums-stock-sliding-today-93CH-4807927",
-   "saat": "12:22",
-   "tarih_iso": "2026-07-23T12:22:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T13:01:07.504649+03:00"
   }
  ],
  "altin_haber": [
@@ -2027,5 +2050,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-23T18:01:23.106965+03:00"
+ "guncelleme": "2026-07-23T18:31:02.376016+03:00"
 }
