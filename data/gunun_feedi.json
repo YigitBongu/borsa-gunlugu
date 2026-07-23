@@ -2,6 +2,19 @@
  "tarih": "2026-07-23",
  "kap": [
   {
+   "id": "kap-my-TAVHL-202607231652",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:52",
+   "tarih_iso": "2026-07-23T16:52:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
    "id": "kap-my-MAVI-202607231604",
    "baslik": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş. — İhraç Tavanına İlişkin Bildirim",
    "sirket": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
@@ -237,6 +250,18 @@
    "eklenme": "2026-07-23T17:01:20.190450+03:00"
   },
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-23-temmuz-2026/4007050",
+   "baslik": "60 saniyede ekonomide bugün (23 Temmuz 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-23-temmuz-2026/4007050",
+   "saat": "15:51",
+   "tarih_iso": "2026-07-23T15:51:07+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/cimsanin-atik-isidan-elektrik-uretimi-tesisi-devrede-3900544-ekonomi",
    "baslik": "Çimsa’nın atık ısıdan elektrik üretimi tesisi devrede",
    "kaynak": "Habertürk Ekonomi",
@@ -311,6 +336,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/totalenergies-rus-lng-satslarndan-ylda-400-milyon-dolar-kazanyor-93CH-3993292",
+   "baslik": "TotalEnergies, Rus LNG satışlarından yılda 400 milyon dolar kazanıyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/totalenergies-rus-lng-satslarndan-ylda-400-milyon-dolar-kazanyor-93CH-3993292",
+   "saat": "17:04",
+   "tarih_iso": "2026-07-23T17:04:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/sirketler/merkez-bankasi-faizi-sabit-tuttu-gozler-simdi-enflasyon-ve-petrol-fiyatlarinda-haberi-833394",
    "baslik": "Merkez Bankası faizi sabit tuttu! Gözler şimdi enflasyon ve petrol fiyatlarında",
@@ -604,6 +639,96 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
+   "baslik": "Alphabet’s massive profit growth is just an illusion, as SpaceX and Anthropic help mask a historic cash drain",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/alphabets-massive-profit-growth-is-just-an-illusion-as-spacex-and-anthropic-help-mask-a-historic-cash-drain-ffff172d?mod=mw_rss_topstories",
+   "saat": "17:28",
+   "tarih_iso": "2026-07-23T17:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Pubs cheer business rates relief while other firms 'left out in the cold'",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/clyvnz4489wo?at_medium=RSS&at_campaign=rss",
+   "saat": "17:27",
+   "tarih_iso": "2026-07-23T17:27:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
+   "baslik": "For young investors, $100,000 was once the gateway to wealth. Today, it’s double that.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/having-100-000-invested-was-once-the-gateway-to-building-real-wealth-for-young-people-today-its-double-that-dc96fcc7?mod=mw_rss_topstories",
+   "saat": "17:15",
+   "tarih_iso": "2026-07-23T17:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/business/earnings/dow-logs-profit-on-higher-prices-net-sales-f8d09703?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Dow Swings to a Profit on Higher Prices as Sales Grow",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/business/earnings/dow-logs-profit-on-higher-prices-net-sales-f8d09703?siteid=yhoof2&yptr=yahoo",
+   "saat": "17:08",
+   "tarih_iso": "2026-07-23T17:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/honeywell-international-q2-earnings-call-140658431.html",
+   "baslik": "Honeywell International Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/honeywell-international-q2-earnings-call-140658431.html",
+   "saat": "17:06",
+   "tarih_iso": "2026-07-23T17:06:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/altisource-portfolio-solutions-q2-earnings-140657060.html",
+   "baslik": "Altisource Portfolio Solutions Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/altisource-portfolio-solutions-q2-earnings-140657060.html",
+   "saat": "17:06",
+   "tarih_iso": "2026-07-23T17:06:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/vita-coco-q2-earnings-call-140657329.html",
+   "baslik": "Vita Coco Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vita-coco-q2-earnings-call-140657329.html",
+   "saat": "17:06",
+   "tarih_iso": "2026-07-23T17:06:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/comcast-q2-earnings-call-highlights-140657725.html",
+   "baslik": "Comcast Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/comcast-q2-earnings-call-highlights-140657725.html",
+   "saat": "17:06",
+   "tarih_iso": "2026-07-23T17:06:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/tesla-elon-musk-robotaxi-optimus-electric-vehicles/?src=A00220&yptr=yahoo",
+   "baslik": "Elon Musk Preaches Patience On Robotaxi, Optimus Rollout. Tesla Stock Plummets.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/tesla-elon-musk-robotaxi-optimus-electric-vehicles/?src=A00220&yptr=yahoo",
+   "saat": "17:03",
+   "tarih_iso": "2026-07-23T17:03:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
    "id": "yab-https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
    "baslik": "Oil prices hit $100 for the first time since May",
    "kaynak": "BBC Business",
@@ -682,6 +807,16 @@
    "tarih_iso": "2026-07-23T16:30:19+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T17:01:20.190450+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/servicenow-stock-jumps-on-strong-revenue-as-company-shrugs-off-ai-disruption-fears-133019432.html",
+   "baslik": "ServiceNow stock jumps on strong revenue as company shrugs off AI disruption fears",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/servicenow-stock-jumps-on-strong-revenue-as-company-shrugs-off-ai-disruption-fears-133019432.html",
+   "saat": "16:30",
+   "tarih_iso": "2026-07-23T16:30:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/07/23/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
@@ -1644,6 +1779,16 @@
    "eklenme": "2026-07-23T17:01:20.190450+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html",
+   "baslik": "Stock market today: Dow, S&P 500, Nasdaq sell off as rising oil prices, bond yields, and AI capex weigh",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html",
+   "saat": "11:44",
+   "tarih_iso": "2026-07-23T11:44:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T17:31:01.765516+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/aston-martin-stock-jumps-on-736-million-debt-financing-deal-93CH-4807824",
    "baslik": "Aston Martin stock jumps on $736 million debt financing deal",
    "kaynak": "Investing.com",
@@ -1690,116 +1835,6 @@
    "link": "https://www.investing.com/news/stock-market-news/why-is-sartorius-stock-sliding-today-93CH-4807796",
    "saat": "11:40",
    "tarih_iso": "2026-07-23T11:40:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T12:01:09.928789+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-molina-healthcare-stock-sliding-today-93CH-4807795",
-   "baslik": "Why is Molina Healthcare stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-molina-healthcare-stock-sliding-today-93CH-4807795",
-   "saat": "11:38",
-   "tarih_iso": "2026-07-23T11:38:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T12:01:09.928789+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
-   "baslik": "Tesla and Alphabet shares slump in premarket trading as AI spending concerns spook investors",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
-   "saat": "11:34",
-   "tarih_iso": "2026-07-23T11:34:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T12:31:03.047727+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-007-4807775",
-   "baslik": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.07%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-007-4807775",
-   "saat": "11:30",
-   "tarih_iso": "2026-07-23T11:30:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T11:31:06.765919+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alligator-bioscience-stock-collapsing-today-93CH-4807773",
-   "baslik": "Why is Alligator Bioscience stock collapsing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-alligator-bioscience-stock-collapsing-today-93CH-4807773",
-   "saat": "11:29",
-   "tarih_iso": "2026-07-23T11:29:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T11:31:06.765919+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-topsports-international-stock-sliding-today-93CH-4807772",
-   "baslik": "Why is Topsports International stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-topsports-international-stock-sliding-today-93CH-4807772",
-   "saat": "11:29",
-   "tarih_iso": "2026-07-23T11:29:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T11:31:06.765919+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-stora-enso-stock-sliding-today-93CH-4807771",
-   "baslik": "Why is Stora Enso stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-stora-enso-stock-sliding-today-93CH-4807771",
-   "saat": "11:29",
-   "tarih_iso": "2026-07-23T11:29:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T11:31:06.765919+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alligator-bioscience-stock-crashing-73-today-93CH-4807765",
-   "baslik": "Why is Alligator Bioscience stock crashing 73% today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-alligator-bioscience-stock-crashing-73-today-93CH-4807765",
-   "saat": "11:26",
-   "tarih_iso": "2026-07-23T11:26:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T11:31:06.765919+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nokia-stock-rallying-today-93CH-4807764",
-   "baslik": "Why is Nokia stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-nokia-stock-rallying-today-93CH-4807764",
-   "saat": "11:26",
-   "tarih_iso": "2026-07-23T11:26:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T11:31:06.765919+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ipsos-stock-surging-today-93CH-4807761",
-   "baslik": "Why is Ipsos stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ipsos-stock-surging-today-93CH-4807761",
-   "saat": "11:26",
-   "tarih_iso": "2026-07-23T11:26:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T11:31:06.765919+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-easyjet-stock-rallying-today-93CH-4807759",
-   "baslik": "Why is EasyJet stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-easyjet-stock-rallying-today-93CH-4807759",
-   "saat": "11:23",
-   "tarih_iso": "2026-07-23T11:23:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T11:31:06.765919+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
-   "baslik": "Oil price surge drives global bond sell-off",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
-   "saat": "11:22",
-   "tarih_iso": "2026-07-23T11:22:50+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T12:01:09.928789+03:00"
   }
@@ -1966,5 +2001,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-23T17:01:20.190450+03:00"
+ "guncelleme": "2026-07-23T17:31:01.765516+03:00"
 }
