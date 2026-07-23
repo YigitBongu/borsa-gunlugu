@@ -186,6 +186,19 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/cimsanin-atik-isidan-elektrik-uretimi-tesisi-devrede-3900544-ekonomi",
+   "baslik": "Çimsa’nın atık ısıdan elektrik üretimi tesisi devrede",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/cimsanin-atik-isidan-elektrik-uretimi-tesisi-devrede-3900544-ekonomi",
+   "saat": "15:08",
+   "tarih_iso": "2026-07-23T15:08:03+03:00",
+   "kodlar": [
+    "CIMSA",
+    "ENJSA"
+   ],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahcede-7-yonetim-kurulu-uyesi-istifa-etti-haberi-833382",
    "baslik": "Fenerbahçe'de 7 yönetim kurulu üyesi istifa etti",
    "kaynak": "Dünya",
@@ -247,6 +260,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.haberturk.com/avrupa-merkez-bankasi-faizi-sabit-birakti-3900547-ekonomi",
+   "baslik": "Avrupa Merkez Bankası faizi sabit bıraktı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/avrupa-merkez-bankasi-faizi-sabit-birakti-3900547-ekonomi",
+   "saat": "15:23",
+   "tarih_iso": "2026-07-23T15:23:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/ecb-faizlerde-frene-basti-politika-faizini-sabit-tuttu-haberi-833388",
+   "baslik": "ECB faizlerde frene bastı: Politika faizini sabit tuttu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/ecb-faizlerde-frene-basti-politika-faizini-sabit-tuttu-haberi-833388",
+   "saat": "15:19",
+   "tarih_iso": "2026-07-23T15:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-piyasa-beklentileri-dogrultusunda-3-temel-politika-faizini-sabit-birakti/4007001",
    "baslik": "Avrupa Merkez Bankası, piyasa beklentileri doğrultusunda 3 temel politika faizini sabit bıraktı",
@@ -490,6 +523,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-pool-stock-rallying-today-93CH-4808782",
+   "baslik": "Why is Pool stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-pool-stock-rallying-today-93CH-4808782",
+   "saat": "15:21",
+   "tarih_iso": "2026-07-23T15:21:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-united-rentals-stock-surging-today-93CH-4808763",
+   "baslik": "Why is United Rentals stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-united-rentals-stock-surging-today-93CH-4808763",
+   "saat": "15:18",
+   "tarih_iso": "2026-07-23T15:18:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/freeportmcmoran-beats-quarterly-profit-estimates-on-higher-copper-prices-4808736",
+   "baslik": "Freeport-McMoRan beats quarterly profit estimates on higher copper prices",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/freeportmcmoran-beats-quarterly-profit-estimates-on-higher-copper-prices-4808736",
+   "saat": "15:18",
+   "tarih_iso": "2026-07-23T15:18:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-allegion-stock-surging-today-93CH-4808756",
+   "baslik": "Why is Allegion stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-allegion-stock-surging-today-93CH-4808756",
+   "saat": "15:16",
+   "tarih_iso": "2026-07-23T15:16:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/japans-1-8-trillion-pension-giant-might-bring-money-home-that-could-jolt-u-s-stocks-and-the-fed-908c66d5?mod=mw_rss_topstories",
    "baslik": "Japan’s $1.8 trillion pension giant might bring money home. That could jolt U.S. stocks and the Fed.",
    "kaynak": "MarketWatch",
@@ -498,6 +571,46 @@
    "tarih_iso": "2026-07-23T15:16:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/finance/currencies/yen-consolidates-hopes-for-faster-pace-of-boj-rate-hikes-may-support-45478a26?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Dollar Hits 3-Week High But Strength Unlikely to be Sustained",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/finance/currencies/yen-consolidates-hopes-for-faster-pace-of-boj-rate-hikes-may-support-45478a26?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:14",
+   "tarih_iso": "2026-07-23T15:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/vita-coco-domo-rallies-mobileye-premarket-4808741",
+   "baslik": "Vita Coco, Domo rallies, Mobileye falls premarket in earnings deluge",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/vita-coco-domo-rallies-mobileye-premarket-4808741",
+   "saat": "15:13",
+   "tarih_iso": "2026-07-23T15:13:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tmobile-stock-sliding-today-93CH-4808734",
+   "baslik": "Why is T-Mobile stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tmobile-stock-sliding-today-93CH-4808734",
+   "saat": "15:12",
+   "tarih_iso": "2026-07-23T15:12:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dover-stock-sliding-today-93CH-4808732",
+   "baslik": "Why is Dover stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-dover-stock-sliding-today-93CH-4808732",
+   "saat": "15:12",
+   "tarih_iso": "2026-07-23T15:12:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/article/googles-extreme-ai-capex-spending-plans-trigger-a-technical-warning-on-the-stock-price-120952068.html",
@@ -528,6 +641,16 @@
    "tarih_iso": "2026-07-23T15:08:56+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T15:21:27.255702+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-huntington-bancshares-stock-sliding-today-93CH-4808715",
+   "baslik": "Why is Huntington Bancshares stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-huntington-bancshares-stock-sliding-today-93CH-4808715",
+   "saat": "15:08",
+   "tarih_iso": "2026-07-23T15:08:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T15:31:02.579753+03:00"
   },
   {
    "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-google-tesla-earnings/?src=A00220&yptr=yahoo",
@@ -1598,96 +1721,6 @@
    "tarih_iso": "2026-07-23T03:18:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
-   "baslik": "IBM lowers full-year forecast after earnings warning",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html",
-   "saat": "03:17",
-   "tarih_iso": "2026-07-23T03:17:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
-   "baslik": "IBM just cut its outlook, but not by as much as investors feared",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/ibm-just-cut-its-outlook-why-its-stock-is-bouncing-anyway-9d36e22a?mod=mw_rss_topstories",
-   "saat": "03:17",
-   "tarih_iso": "2026-07-23T03:17:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/2707aeb6-dba0-4640-877b-4839d268c820?syn-25a6b1a6=1",
-   "baslik": "US and Saudi Arabia agree landmark nuclear energy pact",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/2707aeb6-dba0-4640-877b-4839d268c820?syn-25a6b1a6=1",
-   "saat": "01:37",
-   "tarih_iso": "2026-07-23T01:37:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
-   "baslik": "Tesla misses on earnings, as free cash flow turns negative and margins slide",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/22/tesla-tsla-q2-2026-earnings-report.html",
-   "saat": "01:30",
-   "tarih_iso": "2026-07-23T01:30:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
-   "baslik": "John Paulson says we are in the early stages of a long-term bull market for gold",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html",
-   "saat": "01:06",
-   "tarih_iso": "2026-07-23T01:06:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html",
-   "baslik": "Analysis: Iran war energy shock hits the U.S. economy as gas and diesel prices climb",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/22/iran-war-energy-markets-gas-diesel-prices-us-economy-analysis.html",
-   "saat": "00:34",
-   "tarih_iso": "2026-07-23T00:34:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-   "baslik": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
-   "saat": "00:01",
-   "tarih_iso": "2026-07-23T00:01:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/22/house-congressional-stock-trading.html",
-   "baslik": "House advances bill barring sitting Congress members from buying stocks",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/22/house-congressional-stock-trading.html",
-   "saat": "23:59",
-   "tarih_iso": "2026-07-22T23:59:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
-   "baslik": "Reddit stock sinks on report it may not renew Google AI content deal",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
-   "saat": "23:54",
-   "tarih_iso": "2026-07-22T23:54:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
  "altin_haber": [
@@ -1852,5 +1885,5 @@
    "eklenme": "2026-07-23T09:01:07.819705+03:00"
   }
  ],
- "guncelleme": "2026-07-23T15:21:27.255702+03:00"
+ "guncelleme": "2026-07-23T15:31:02.579753+03:00"
 }
