@@ -337,6 +337,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/uzman-isim-anlatti-aciklanacak-faiz-karari-piyasaya-nasil-yansiyacak-3445770",
+   "baslik": "Uzman isim anlattı: Açıklanacak faiz kararı piyasaya nasıl yansıyacak?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/uzman-isim-anlatti-aciklanacak-faiz-karari-piyasaya-nasil-yansiyacak-3445770",
+   "saat": "11:04",
+   "tarih_iso": "2026-07-23T11:04:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T08:30:58.366849+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-23-temmuz-persembe-doviz-kurlari-haberi-833317",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (23 Temmuz Perşembe Döviz Kurları)",
    "kaynak": "Dünya",
@@ -558,6 +568,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ferrotec-stock-rallying-today-93CH-4807487",
+   "baslik": "Why is Ferrotec stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ferrotec-stock-rallying-today-93CH-4807487",
+   "saat": "08:13",
+   "tarih_iso": "2026-07-23T08:13:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T08:30:58.366849+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/23/andy-burnham-labour-hedge-funds-short-selling-uk.html",
+   "baslik": "Hedge funds circle UK stocks as new PM Andy Burnham pledges 'new economic model'",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/23/andy-burnham-labour-hedge-funds-short-selling-uk.html",
+   "saat": "08:06",
+   "tarih_iso": "2026-07-23T08:06:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T08:30:58.366849+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nokia-q2-profit-beat-on-ai-demand-4807480",
+   "baslik": "Nokia Q2 profit beat on AI demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nokia-q2-profit-beat-on-ai-demand-4807480",
+   "saat": "08:06",
+   "tarih_iso": "2026-07-23T08:06:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T08:30:58.366849+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asia-chip-stocks-climb-after-alphabet-raises-capex-forecast-china-underperforms-4807469",
    "baslik": "Asia chip stocks climb after Alphabet raises capex forecast; China underperforms",
@@ -1727,39 +1767,19 @@
    "tarih_iso": "2026-07-22T18:36:34+03:00",
    "kodlar": [],
    "eklenme": "2026-07-22T19:01:08.596998+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tesla-beat-wall-streets-delivery-153500514.html",
-   "baslik": "Tesla Beat Wall Street's Delivery Estimate by Nearly 74,000 Vehicles Under Elon Musk",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-beat-wall-streets-delivery-153500514.html",
-   "saat": "18:35",
-   "tarih_iso": "2026-07-22T18:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T19:01:08.596998+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-earnings-today-could-153238102.html",
-   "baslik": "Prediction: Tesla Earnings Today Could Send TSLA Stock to This Price",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-earnings-today-could-153238102.html",
-   "saat": "18:32",
-   "tarih_iso": "2026-07-22T18:32:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T19:01:08.596998+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-22-2026-silver-rises-as-investors-look-past-inflation-risk-153031229.html",
-   "baslik": "Silver prices today, Wednesday, July 22, 2026: Silver rises as investors look past inflation risk",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-22-2026-silver-rises-as-investors-look-past-inflation-risk-153031229.html",
-   "saat": "18:30",
-   "tarih_iso": "2026-07-22T18:30:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-22T19:01:08.596998+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.cnbc.com/2026/07/23/silver-gold-prices-rebound-rally-correction.html",
+   "baslik": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/23/silver-gold-prices-rebound-rally-correction.html",
+   "saat": "08:00",
+   "tarih_iso": "2026-07-23T08:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-23T08:30:58.366849+03:00"
+  },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/ons-dustu-gram-direndi-altinda-hesap-degisti-galeri-833310",
    "baslik": "Ons düştü, gram direndi: Altında hesap değişti",
@@ -2001,5 +2021,5 @@
    "eklenme": "2026-07-22T09:01:10.916735+03:00"
   }
  ],
- "guncelleme": "2026-07-23T08:01:06.622312+03:00"
+ "guncelleme": "2026-07-23T08:30:58.366849+03:00"
 }
