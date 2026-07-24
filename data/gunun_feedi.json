@@ -2,6 +2,19 @@
  "tarih": "2026-07-24",
  "kap": [
   {
+   "id": "kap-my-YEOTK-202607241027",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:27",
+   "tarih_iso": "2026-07-24T10:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T10:57:44.365584+03:00"
+  },
+  {
    "id": "kap-my-BIENY-202607241000",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -170,6 +183,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.haberturk.com/vatandasin-enflasyon-beklentisi-geriledi-3900754-ekonomi",
+   "baslik": "Vatandaşın enflasyon beklentisi geriledi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/vatandasin-enflasyon-beklentisi-geriledi-3900754-ekonomi",
+   "saat": "10:41",
+   "tarih_iso": "2026-07-24T10:41:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:57:44.365584+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-temmuz-ayi-hanehalki-beklenti-anketini-yayimladi/4007802",
    "baslik": "TCMB temmuz ayı Hanehalkı Beklenti Anketi'ni yayımladı",
@@ -372,6 +395,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-argan-stock-surging-today-93CH-4810622",
+   "baslik": "Why is Argan stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-argan-stock-surging-today-93CH-4810622",
+   "saat": "10:51",
+   "tarih_iso": "2026-07-24T10:51:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:57:44.365584+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-securitas-stock-plunging-today-93CH-4810620",
+   "baslik": "Why is Securitas stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-securitas-stock-plunging-today-93CH-4810620",
+   "saat": "10:48",
+   "tarih_iso": "2026-07-24T10:48:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:57:44.365584+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-almirall-stock-rallying-today-93CH-4810618",
+   "baslik": "Why is Almirall stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-almirall-stock-rallying-today-93CH-4810618",
+   "saat": "10:47",
+   "tarih_iso": "2026-07-24T10:47:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:57:44.365584+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-discoverie-stock-surging-today-93CH-4810615",
+   "baslik": "Why is discoverIE stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-discoverie-stock-surging-today-93CH-4810615",
+   "saat": "10:44",
+   "tarih_iso": "2026-07-24T10:44:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:57:44.365584+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-signify-stock-sliding-today-93CH-4810611",
+   "baslik": "Why is Signify stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-signify-stock-sliding-today-93CH-4810611",
+   "saat": "10:38",
+   "tarih_iso": "2026-07-24T10:38:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:57:44.365584+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-steady-as-markets-assess-earnings-middle-east-tensions-4810607",
    "baslik": "European shares steady as markets assess earnings, Middle East tensions",
@@ -815,6 +888,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.haberturk.com/gram-altin-gune-dususle-basladi-3900752-ekonomi",
+   "baslik": "Gram altın güne düşüşle başladı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/gram-altin-gune-dususle-basladi-3900752-ekonomi",
+   "saat": "10:39",
+   "tarih_iso": "2026-07-24T10:39:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:57:44.365584+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-outlook-buythecorrection-zone-near-4000-200684494",
    "baslik": "Gold Outlook: Buy-the-Correction Zone Appears Near $4,000",
    "kaynak": "Investing Emtia",
@@ -915,5 +998,5 @@
    "eklenme": "2026-07-24T09:01:05.763938+03:00"
   }
  ],
- "guncelleme": "2026-07-24T10:30:57.572640+03:00"
+ "guncelleme": "2026-07-24T10:57:44.365584+03:00"
 }
