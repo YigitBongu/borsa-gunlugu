@@ -2,6 +2,19 @@
  "tarih": "2026-07-24",
  "kap": [
   {
+   "id": "kap-my-BIENY-202607241000",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BIENY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:00",
+   "tarih_iso": "2026-07-24T10:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
    "id": "kap-my-EREGL-202607240930",
    "baslik": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
    "sirket": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
@@ -108,6 +121,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-maci-ne-zaman-gornik-zabrze-fb-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-833484",
+   "baslik": "Fenerbahçe Şampiyonlar Ligi maçı ne zaman? Gornik Zabrze - FB maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-maci-ne-zaman-gornik-zabrze-fb-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-833484",
+   "saat": "10:09",
+   "tarih_iso": "2026-07-24T10:09:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/haberler/yeo-teknoloji-yeotk-bedelsiz-sermaye-artiriminda-spk-esigini-gecti-haberi-833468",
    "baslik": "YEO Teknoloji (YEOTK) bedelsiz sermaye artırımında SPK eşiğini geçti",
    "kaynak": "Dünya",
@@ -145,6 +170,66 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-temmuz-ayi-hanehalki-beklenti-anketini-yayimladi/4007802",
+   "baslik": "TCMB temmuz ayı Hanehalkı Beklenti Anketi'ni yayımladı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-temmuz-ayi-hanehalki-beklenti-anketini-yayimladi/4007802",
+   "saat": "10:27",
+   "tarih_iso": "2026-07-24T10:27:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-sektorel-enflasyon-beklentilerini-yayimladi/4007797",
+   "baslik": "TCMB \"Sektörel Enflasyon Beklentileri\"ni yayımladı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-sektorel-enflasyon-beklentilerini-yayimladi/4007797",
+   "saat": "10:24",
+   "tarih_iso": "2026-07-24T10:24:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-yatay-100-dolarlk-petrol-ve-trump-tarifeleri-endise-yaratt-3994029",
+   "baslik": "100 dolarlık petrol fiyatı ve Trump tarifeleri faiz korkularını alevlendirdi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-yatay-100-dolarlk-petrol-ve-trump-tarifeleri-endise-yaratt-3994029",
+   "saat": "10:04",
+   "tarih_iso": "2026-07-24T10:04:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/tcmb-den-odemeler-dengesi-nde-revizyon-3900733-ekonomi",
+   "baslik": "TCMB'den Ödemeler Dengesi'nde revizyon",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/tcmb-den-odemeler-dengesi-nde-revizyon-3900733-ekonomi",
+   "saat": "10:04",
+   "tarih_iso": "2026-07-24T10:04:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/hanehalki-anketi-aciklandi-enflasyon-beklentisi-gerilerken-dolar-tahmini-artti-haberi-833482",
+   "baslik": "Hanehalkı anketi açıklandı: Enflasyon beklentisi gerilerken dolar tahmini arttı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/hanehalki-anketi-aciklandi-enflasyon-beklentisi-gerilerken-dolar-tahmini-artti-haberi-833482",
+   "saat": "10:04",
+   "tarih_iso": "2026-07-24T10:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/sektorel-enflasyon-beklentileri-belli-oldu-uc-kesimden-farkli-tablo-haberi-833481",
+   "baslik": "Sektörel Enflasyon Beklentileri belli oldu: Üç kesimden farklı tablo",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/sektorel-enflasyon-beklentileri-belli-oldu-uc-kesimden-farkli-tablo-haberi-833481",
+   "saat": "10:00",
+   "tarih_iso": "2026-07-24T10:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-odemeler-dengesi-istatistiklerinde-revizyona-gitti-haberi-833479",
    "baslik": "Merkez Bankası ödemeler dengesi istatistiklerinde revizyona gitti",
@@ -287,6 +372,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-steady-as-markets-assess-earnings-middle-east-tensions-4810607",
+   "baslik": "European shares steady as markets assess earnings, Middle East tensions",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-steady-as-markets-assess-earnings-middle-east-tensions-4810607",
+   "saat": "10:25",
+   "tarih_iso": "2026-07-24T10:25:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-strong-retail-sales-offset-usiran-tensions-4810605",
+   "baslik": "FTSE 100 today: Stocks rise as strong retail sales offset U.S.-Iran tensions",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-strong-retail-sales-offset-usiran-tensions-4810605",
+   "saat": "10:24",
+   "tarih_iso": "2026-07-24T10:24:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/argan-stock-surges-on-merger-agreement-with-wdp-4810602",
+   "baslik": "Argan stock surges on merger agreement with WDP",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/argan-stock-surges-on-merger-agreement-with-wdp-4810602",
+   "saat": "10:24",
+   "tarih_iso": "2026-07-24T10:24:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-flat-as-100-oil-surge-and-trump-tariff-threats-ignite-rate-fears-4810520",
+   "baslik": "European shares flat as $100 oil surge and Trump tariff threats ignite rate fears",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-flat-as-100-oil-surge-and-trump-tariff-threats-ignite-rate-fears-4810520",
+   "saat": "10:07",
+   "tarih_iso": "2026-07-24T10:07:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-279-4810584",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 2.79%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-279-4810584",
+   "saat": "10:00",
+   "tarih_iso": "2026-07-24T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-amlogic-shanghai-stock-surging-today-93CH-4810554",
    "baslik": "Why is Amlogic Shanghai stock surging today?",
@@ -680,6 +815,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-outlook-buythecorrection-zone-near-4000-200684494",
+   "baslik": "Gold Outlook: Buy-the-Correction Zone Appears Near $4,000",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-outlook-buythecorrection-zone-near-4000-200684494",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:30:57.572640+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-28-drawdown-confirms-the-january-peak-was-a-blowoff-top-200684480",
    "baslik": "Gold’s 28% Drawdown Confirms the January Peak Was a Blow-Off Top",
    "kaynak": "Investing Emtia",
@@ -770,5 +915,5 @@
    "eklenme": "2026-07-24T09:01:05.763938+03:00"
   }
  ],
- "guncelleme": "2026-07-24T10:01:09.808516+03:00"
+ "guncelleme": "2026-07-24T10:30:57.572640+03:00"
 }
