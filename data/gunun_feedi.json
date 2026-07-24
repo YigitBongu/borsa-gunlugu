@@ -264,6 +264,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/yapay-zeka-ve-6g-yatirimlari-hiz-kazandi-haberi-833560",
+   "baslik": "Yapay zekâ ve 6G yatırımları hız kazandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/yapay-zeka-ve-6g-yatirimlari-hiz-kazandi-haberi-833560",
+   "saat": "00:00",
+   "tarih_iso": "2026-07-25T00:00:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-07-25T00:31:00.561793+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/kardemirden-cezayire-27-milyon-dolarlik-demir-yolu-teker-ihracati-haberi-833565",
    "baslik": "KARDEMİR'den Cezayir'e 27 milyon dolarlık demir yolu teker ihracatı",
    "kaynak": "Dünya",
@@ -755,6 +767,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-038-4812551",
+   "baslik": "Colombia stocks lower at close of trade; COLCAP down 0.38%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-038-4812551",
+   "saat": "00:25",
+   "tarih_iso": "2026-07-25T00:25:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T00:31:00.561793+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-071-4812549",
+   "baslik": "Russia stocks higher at close of trade; MOEX Russia Index up 0.71%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-071-4812549",
+   "saat": "00:20",
+   "tarih_iso": "2026-07-25T00:20:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T00:31:00.561793+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cftc-issues-guidance-on-prediction-market-contract-certifications-93CH-4812535",
+   "baslik": "CFTC issues guidance on prediction market contract certifications",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cftc-issues-guidance-on-prediction-market-contract-certifications-93CH-4812535",
+   "saat": "00:08",
+   "tarih_iso": "2026-07-25T00:08:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T00:31:00.561793+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-045-4812502",
    "baslik": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.45%",
@@ -1924,39 +1966,19 @@
    "tarih_iso": "2026-07-24T17:01:42+03:00",
    "kodlar": [],
    "eklenme": "2026-07-24T17:20:01.108014+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/xometry-xmtr-gains-increased-growth-140111694.html",
-   "baslik": "Xometry (XMTR) Gains from Increased Growth and Profitability",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/xometry-xmtr-gains-increased-growth-140111694.html",
-   "saat": "17:01",
-   "tarih_iso": "2026-07-24T17:01:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-24T17:20:01.108014+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tesla-vs-gm-only-one-140050759.html",
-   "baslik": "Tesla vs. GM: Only One Automotive Stock Has the Edge in 2026",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-vs-gm-only-one-140050759.html",
-   "saat": "17:00",
-   "tarih_iso": "2026-07-24T17:00:50+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-24T17:20:01.108014+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4812034",
-   "baslik": "Why is SK hynix stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4812034",
-   "saat": "17:00",
-   "tarih_iso": "2026-07-24T17:00:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-24T17:20:01.108014+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.ntv.com.tr/ekonomi/yatirim-araclarinin-haftalik-performansi-nasil-oldu-1734435",
+   "baslik": "Yatırım araçlarının haftalık performansı nasıl oldu?",
+   "kaynak": "NTV Ekonomi",
+   "link": "https://www.ntv.com.tr/ekonomi/yatirim-araclarinin-haftalik-performansi-nasil-oldu-1734435",
+   "saat": "00:20",
+   "tarih_iso": "2026-07-25T00:20:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T00:31:00.561793+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/ekonomi/son-dakika-borsa-cuma-gununu-dususle-tamamladi-3446414",
    "baslik": "SON DAKİKA | Borsa cuma gününü düşüşle tamamladı",
@@ -2198,5 +2220,5 @@
    "eklenme": "2026-07-24T09:01:05.763938+03:00"
   }
  ],
- "guncelleme": "2026-07-25T00:01:07.189971+03:00"
+ "guncelleme": "2026-07-25T00:31:00.561793+03:00"
 }
