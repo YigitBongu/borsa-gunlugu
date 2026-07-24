@@ -2,6 +2,19 @@
  "tarih": "2026-07-24",
  "kap": [
   {
+   "id": "kap-my-EREGL-202607240930",
+   "baslik": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+   "kodlar": [
+    "EREGL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-24T09:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T10:01:09.808516+03:00"
+  },
+  {
    "id": "kap-my-VAKBN-202607240858",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Kamuyu Aydınlatma Platformu Duyurusu",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -133,6 +146,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-odemeler-dengesi-istatistiklerinde-revizyona-gitti-haberi-833479",
+   "baslik": "Merkez Bankası ödemeler dengesi istatistiklerinde revizyona gitti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/merkez-bankasi-odemeler-dengesi-istatistiklerinde-revizyona-gitti-haberi-833479",
+   "saat": "09:41",
+   "tarih_iso": "2026-07-24T09:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:01:09.808516+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/citiden-tcmb-faiz-karari-analizi-enflasyonda-riskler-artti-gevseme-alani-daraldi-haberi-833476",
+   "baslik": "Citi'den TCMB faiz kararı analizi: Enflasyonda riskler arttı, gevşeme alanı daraldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/citiden-tcmb-faiz-karari-analizi-enflasyonda-riskler-artti-gevseme-alani-daraldi-haberi-833476",
+   "saat": "09:26",
+   "tarih_iso": "2026-07-24T09:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:01:09.808516+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/avrupa-merkez-bankasi-yeni-banknotlar-icin-oylama-baslatti-3900701-ekonomi",
    "baslik": "ECB yeni banknotlar için oylama başlattı",
    "kaynak": "Habertürk Ekonomi",
@@ -255,6 +288,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-amlogic-shanghai-stock-surging-today-93CH-4810554",
+   "baslik": "Why is Amlogic Shanghai stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-amlogic-shanghai-stock-surging-today-93CH-4810554",
+   "saat": "09:33",
+   "tarih_iso": "2026-07-24T09:33:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:01:09.808516+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-geely-automobile-stock-rising-today-93CH-4810552",
+   "baslik": "Why is Geely Automobile stock rising today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-geely-automobile-stock-rising-today-93CH-4810552",
+   "saat": "09:32",
+   "tarih_iso": "2026-07-24T09:32:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:01:09.808516+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-075-4810550",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.75%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-075-4810550",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-24T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:01:09.808516+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hyundai-motor-stock-crashing-today-93CH-4810528",
+   "baslik": "Why is Hyundai Motor stock crashing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hyundai-motor-stock-crashing-today-93CH-4810528",
+   "saat": "09:17",
+   "tarih_iso": "2026-07-24T09:17:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:01:09.808516+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html",
    "baslik": "Volkswagen expects full-year revenue squeeze after quarterly profit slump",
    "kaynak": "CNBC",
@@ -263,6 +336,16 @@
    "tarih_iso": "2026-07-24T09:05:24+03:00",
    "kodlar": [],
    "eklenme": "2026-07-24T09:31:03.147488+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/this-japanese-memory-stock-is-up-over-2000-since-listing-in-2024-93CH-4810506",
+   "baslik": "This Japanese memory stock is up over 2000% since listing in 2024",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/this-japanese-memory-stock-is-up-over-2000-since-listing-in-2024-93CH-4810506",
+   "saat": "09:04",
+   "tarih_iso": "2026-07-24T09:04:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T10:01:09.808516+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-006-4810497",
@@ -687,5 +770,5 @@
    "eklenme": "2026-07-24T09:01:05.763938+03:00"
   }
  ],
- "guncelleme": "2026-07-24T09:31:03.147488+03:00"
+ "guncelleme": "2026-07-24T10:01:09.808516+03:00"
 }
