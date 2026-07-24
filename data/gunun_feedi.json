@@ -2,6 +2,71 @@
  "tarih": "2026-07-24",
  "kap": [
   {
+   "id": "kap-my-VAKBN-202607240858",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Kamuyu Aydınlatma Platformu Duyurusu",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:58",
+   "tarih_iso": "2026-07-24T08:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T09:31:03.147488+03:00"
+  },
+  {
+   "id": "kap-my-ARCLK-202607240852",
+   "baslik": "ARÇELİK A.Ş. — TSRS Uyumlu Sürdürülebilirlik Raporu",
+   "sirket": "ARÇELİK A.Ş.",
+   "kodlar": [
+    "ARCLK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:52",
+   "tarih_iso": "2026-07-24T08:52:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T09:31:03.147488+03:00"
+  },
+  {
+   "id": "kap-my-MIATK-202607240816",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Esas Sözleşme Tadili",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Yeni İş / Sözleşme",
+   "saat": "08:16",
+   "tarih_iso": "2026-07-24T08:16:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T09:31:03.147488+03:00"
+  },
+  {
+   "id": "kap-my-MIATK-202607240811",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Ayrılma Hakkı Kullanımına İlişkin Bildirim",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:11",
+   "tarih_iso": "2026-07-24T08:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T09:31:03.147488+03:00"
+  },
+  {
+   "id": "kap-my-MIATK-202607240807",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Birleşme İşlemlerine İlişkin Bildirim",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Birleşme / Devralma",
+   "saat": "08:07",
+   "tarih_iso": "2026-07-24T08:07:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T09:31:03.147488+03:00"
+  },
+  {
    "id": "kap-my-YKBNK-202607232013",
    "baslik": "YAPI VE KREDİ BANKASI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
@@ -67,6 +132,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.haberturk.com/avrupa-merkez-bankasi-yeni-banknotlar-icin-oylama-baslatti-3900701-ekonomi",
+   "baslik": "ECB yeni banknotlar için oylama başlattı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/avrupa-merkez-bankasi-yeni-banknotlar-icin-oylama-baslatti-3900701-ekonomi",
+   "saat": "09:11",
+   "tarih_iso": "2026-07-24T09:11:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T09:31:03.147488+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/ambde-eylul-icin-faiz-artirimi-ihtimali-gucleniyor-haberi-833469",
    "baslik": "AMB'de eylül için faiz artırımı ihtimali güçleniyor",
@@ -179,6 +254,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html",
+   "baslik": "Volkswagen expects full-year revenue squeeze after quarterly profit slump",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/24/volkswagen-earnings-autos-germany.html",
+   "saat": "09:05",
+   "tarih_iso": "2026-07-24T09:05:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T09:31:03.147488+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-006-4810497",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.06%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-006-4810497",
+   "saat": "09:00",
+   "tarih_iso": "2026-07-24T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T09:31:03.147488+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html",
    "baslik": "Trump's new global tariff draws rebukes from trade partners over forced-labor justification",
@@ -532,6 +627,16 @@
    "eklenme": "2026-07-24T09:01:05.763938+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/gundem/tadilat-yaparken-betonu-kiran-usta-30-kilo-altin-buldu-haberi-833470",
+   "baslik": "Tadilat yaparken betonu kıran usta 30 kilo altın buldu!",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/tadilat-yaparken-betonu-kiran-usta-30-kilo-altin-buldu-haberi-833470",
+   "saat": "08:18",
+   "tarih_iso": "2026-07-24T08:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T09:31:03.147488+03:00"
+  },
+  {
    "id": "alt-https://www.haberturk.com/abd-10-yillik-faizi-ve-piyasalar-o-kritik-esikte-3900614-ekonomi",
    "baslik": "Herkesin gözü bu grafikte",
    "kaynak": "Habertürk Ekonomi",
@@ -582,5 +687,5 @@
    "eklenme": "2026-07-24T09:01:05.763938+03:00"
   }
  ],
- "guncelleme": "2026-07-24T09:01:05.763938+03:00"
+ "guncelleme": "2026-07-24T09:31:03.147488+03:00"
 }
