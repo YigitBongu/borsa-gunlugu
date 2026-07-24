@@ -264,6 +264,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/kardemirden-cezayire-27-milyon-dolarlik-demir-yolu-teker-ihracati-haberi-833565",
+   "baslik": "KARDEMİR'den Cezayir'e 27 milyon dolarlık demir yolu teker ihracatı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/kardemirden-cezayire-27-milyon-dolarlik-demir-yolu-teker-ihracati-haberi-833565",
+   "saat": "21:02",
+   "tarih_iso": "2026-07-24T21:02:00+03:00",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "eklenme": "2026-07-25T00:01:07.189971+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-24-temmuz-2026/4008307",
    "baslik": "60 saniyede ekonomide bugün (24 Temmuz 2026)",
    "kaynak": "AA Ekonomi",
@@ -361,6 +373,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/500-bin-dolar-ihracata-yesil-pasaport-3446457",
+   "baslik": "500 bin dolar ihracata yeşil pasaport",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/500-bin-dolar-ihracata-yesil-pasaport-3446457",
+   "saat": "02:48",
+   "tarih_iso": "2026-07-25T02:48:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T00:01:07.189971+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/brent-petrol-100-dolarin-altina-indi-gozler-fed-ve-orta-doguda-3446342",
    "baslik": "Brent petrol 100 doların altına indi! Gözler Fed ve Orta Doğu'da",
@@ -733,6 +755,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-045-4812502",
+   "baslik": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.45%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-045-4812502",
+   "saat": "23:35",
+   "tarih_iso": "2026-07-24T23:35:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T00:01:07.189971+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-050-4812495",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.50%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-050-4812495",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-24T23:30:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T00:01:07.189971+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-152-4812488",
+   "baslik": "Brazil stocks lower at close of trade; Bovespa down 1.52%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-152-4812488",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-24T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T00:01:07.189971+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/24/bond-market-anxiety-ai-capex-spending.html",
    "baslik": "Bond market anxiety is growing over AI capex budgets",
@@ -1902,36 +1954,6 @@
    "tarih_iso": "2026-07-24T17:00:12+03:00",
    "kodlar": [],
    "eklenme": "2026-07-24T17:20:01.108014+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/uk-stocks-trading-at-doubledigit-discounts-to-fair-value-93CH-4812029",
-   "baslik": "UK stocks trading at double-digit discounts to fair value",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/uk-stocks-trading-at-doubledigit-discounts-to-fair-value-93CH-4812029",
-   "saat": "16:57",
-   "tarih_iso": "2026-07-24T16:57:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-24T17:20:01.108014+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-clevelandcliffs-stock-rallying-today-93CH-4812022",
-   "baslik": "Why is Cleveland-Cliffs stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-clevelandcliffs-stock-rallying-today-93CH-4812022",
-   "saat": "16:54",
-   "tarih_iso": "2026-07-24T16:54:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-24T17:20:01.108014+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ssc-technologies-stock-surging-today-93CH-4812017",
-   "baslik": "Why is SS&C Technologies stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ssc-technologies-stock-surging-today-93CH-4812017",
-   "saat": "16:51",
-   "tarih_iso": "2026-07-24T16:51:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-24T17:01:16.565181+03:00"
   }
  ],
  "altin_haber": [
@@ -2176,5 +2198,5 @@
    "eklenme": "2026-07-24T09:01:05.763938+03:00"
   }
  ],
- "guncelleme": "2026-07-24T23:31:00.750161+03:00"
+ "guncelleme": "2026-07-25T00:01:07.189971+03:00"
 }
