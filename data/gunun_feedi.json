@@ -2,6 +2,19 @@
  "tarih": "2026-07-24",
  "kap": [
   {
+   "id": "kap-my-TSKB-202607250012",
+   "baslik": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş. — Tasarruf Sahiplerine Satış Duyurusu",
+   "sirket": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.",
+   "kodlar": [
+    "TSKB"
+   ],
+   "kategori": "Bildirim",
+   "saat": "00:12",
+   "tarih_iso": "2026-07-25T00:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-25T01:01:07.634445+03:00"
+  },
+  {
    "id": "kap-my-HALKB-202607241801",
    "baslik": "TÜRKİYE HALK BANKASI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "TÜRKİYE HALK BANKASI A.Ş.",
@@ -767,6 +780,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-018-4812552",
+   "baslik": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.18%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-018-4812552",
+   "saat": "00:30",
+   "tarih_iso": "2026-07-25T00:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T01:01:07.634445+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-038-4812551",
    "baslik": "Colombia stocks lower at close of trade; COLCAP down 0.38%",
@@ -1956,16 +1979,6 @@
    "tarih_iso": "2026-07-24T17:02:26+03:00",
    "kodlar": [],
    "eklenme": "2026-07-24T17:20:01.108014+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-rise-amid-intensifying-mideast-tensions-new-us-tariffs-4811506",
-   "baslik": "TSX rises as tech gains offset Middle East tensions; investors assess earnings",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-rise-amid-intensifying-mideast-tensions-new-us-tariffs-4811506",
-   "saat": "17:01",
-   "tarih_iso": "2026-07-24T17:01:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-24T17:20:01.108014+03:00"
   }
  ],
  "altin_haber": [
@@ -2220,5 +2233,5 @@
    "eklenme": "2026-07-24T09:01:05.763938+03:00"
   }
  ],
- "guncelleme": "2026-07-25T00:33:46.131510+03:00"
+ "guncelleme": "2026-07-25T01:01:07.634445+03:00"
 }
