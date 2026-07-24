@@ -2,6 +2,32 @@
  "tarih": "2026-07-24",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202607241528",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "15:28",
+   "tarih_iso": "2026-07-24T15:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
+   "id": "kap-my-MAVI-202607241517",
+   "baslik": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş. — İhraç Belgesi",
+   "sirket": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "MAVI"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:17",
+   "tarih_iso": "2026-07-24T15:17:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
    "id": "kap-my-MIATK-202607241341",
    "baslik": "MİA TEKNOLOJİ A.Ş. — Birleşme İşlemlerine İlişkin Bildirim",
    "sirket": "MİA TEKNOLOJİ A.Ş.",
@@ -258,6 +284,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/barclays-buyuk-teknoloji-sonuclar-ve-fed-yaz-gorunumunu-sekillendirecek-3995110",
+   "baslik": "Barclays: Büyük teknoloji sonuçları ve Fed yaz görünümünü şekillendirecek",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/barclays-buyuk-teknoloji-sonuclar-ve-fed-yaz-gorunumunu-sekillendirecek-3995110",
+   "saat": "15:37",
+   "tarih_iso": "2026-07-24T15:37:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/kuresel-enflasyon-kabusu-yeniden-baslayabilir-uc-risk-ayni-anda-buyudu-haberi-833528",
+   "baslik": "Küresel enflasyon kâbusu yeniden başlayabilir: Üç risk aynı anda büyüdü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/kuresel-enflasyon-kabusu-yeniden-baslayabilir-uc-risk-ayni-anda-buyudu-haberi-833528",
+   "saat": "15:34",
+   "tarih_iso": "2026-07-24T15:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/bakan-simsek-temmuz-ayi-sektorel-enflasyon-beklentilerini-degerlendirdi/4007994",
    "baslik": "Bakan Şimşek temmuz ayı \"Sektörel Enflasyon Beklentileri\"ni değerlendirdi",
@@ -540,6 +586,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/a-panicking-fed-is-just-what-the-bond-market-needs-says-bank-of-americas-chief-strategist-c780884c?mod=mw_rss_topstories",
+   "baslik": "A panicking Fed is just what the bond market needs, says Bank of America’s chief strategist",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/a-panicking-fed-is-just-what-the-bond-market-needs-says-bank-of-americas-chief-strategist-c780884c?mod=mw_rss_topstories",
+   "saat": "15:53",
+   "tarih_iso": "2026-07-24T15:53:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/att-verizon-and-tmobile-compared-after-a-week-of-diverging-earnings-93CH-4811761",
+   "baslik": "AT&T, Verizon and T-Mobile compared after a week of diverging earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/att-verizon-and-tmobile-compared-after-a-week-of-diverging-earnings-93CH-4811761",
+   "saat": "15:42",
+   "tarih_iso": "2026-07-24T15:42:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sensient-technologies-stock-surging-today-93CH-4811760",
+   "baslik": "Why is Sensient Technologies stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sensient-technologies-stock-surging-today-93CH-4811760",
+   "saat": "15:42",
+   "tarih_iso": "2026-07-24T15:42:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/2ba28daf-2ceb-44bb-9330-7ec070fb2a80?syn-25a6b1a6=1",
+   "baslik": "Europe wins and Brazil loses in Trump tariff overhaul",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/2ba28daf-2ceb-44bb-9330-7ec070fb2a80?syn-25a6b1a6=1",
+   "saat": "15:38",
+   "tarih_iso": "2026-07-24T15:38:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/barclays-says-big-tech-results-and-fed-to-shape-summer-equity-outlook-4811748",
+   "baslik": "Barclays says Big Tech results and Fed to shape summer equity outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/barclays-says-big-tech-results-and-fed-to-shape-summer-equity-outlook-4811748",
+   "saat": "15:37",
+   "tarih_iso": "2026-07-24T15:37:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-booz-allen-hamilton-stock-rallying-today-93CH-4811747",
+   "baslik": "Why is Booz Allen Hamilton stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-booz-allen-hamilton-stock-rallying-today-93CH-4811747",
+   "saat": "15:37",
+   "tarih_iso": "2026-07-24T15:37:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-equity-funds-log-outflows-for-a-second-straight-week-as-tech-earnings-eyed-4811705",
+   "baslik": "US equity funds log outflows for a second straight week as tech earnings eyed",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-equity-funds-log-outflows-for-a-second-straight-week-as-tech-earnings-eyed-4811705",
+   "saat": "15:36",
+   "tarih_iso": "2026-07-24T15:36:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gormanrupp-stock-climbing-today-93CH-4811737",
+   "baslik": "Why is Gorman-Rupp stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-gormanrupp-stock-climbing-today-93CH-4811737",
+   "saat": "15:35",
+   "tarih_iso": "2026-07-24T15:35:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-american-express-stock-sliding-today-93CH-4811726",
+   "baslik": "Why is American Express stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-american-express-stock-sliding-today-93CH-4811726",
+   "saat": "15:34",
+   "tarih_iso": "2026-07-24T15:34:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
+   "baslik": "A ‘generational buying opportunity’ guarantees inflation plus 3% a year, says this hedge-fund manager",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
+   "saat": "15:29",
+   "tarih_iso": "2026-07-24T15:29:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T16:01:14.928203+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/top-nuclear-stocks-to-watch-as-ai-power-demand-surges-93CH-4811667",
    "baslik": "Top nuclear stocks to watch as AI power demand surges",
@@ -1793,5 +1939,5 @@
    "eklenme": "2026-07-24T09:01:05.763938+03:00"
   }
  ],
- "guncelleme": "2026-07-24T15:31:00.588959+03:00"
+ "guncelleme": "2026-07-24T16:01:14.928203+03:00"
 }
