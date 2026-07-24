@@ -173,6 +173,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/finans/haberler/yeo-teknolojiden-birlesik-krallikta-dev-gunes-enerjisi-sozlesmesi-haberi-833521",
+   "baslik": "YEO Teknoloji'den Birleşik Krallık'ta dev güneş enerjisi sözleşmesi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/yeo-teknolojiden-birlesik-krallikta-dev-gunes-enerjisi-sozlesmesi-haberi-833521",
+   "saat": "14:50",
+   "tarih_iso": "2026-07-24T14:50:00+03:00",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "eklenme": "2026-07-24T15:17:04.497077+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/arcelik-2025-entegre-raporu-ve-tsrs-uyumlu-surdurulebilirlik-raporunu-yayimladi-3900813-teknoloji",
    "baslik": "“Amaç Odaklı İlerleme” yaklaşımı",
    "kaynak": "Habertürk Ekonomi",
@@ -529,6 +541,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/googl-technical-analysis-oversold-on-daily-frame-after-earningsday-drop-93CH-4811602",
+   "baslik": "GOOGL technical analysis: oversold on daily frame after earnings-day drop",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/googl-technical-analysis-oversold-on-daily-frame-after-earningsday-drop-93CH-4811602",
+   "saat": "15:04",
+   "tarih_iso": "2026-07-24T15:04:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T15:17:04.497077+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mannkind-stock-rallying-today-93CH-4811524",
+   "baslik": "Why is MannKind stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mannkind-stock-rallying-today-93CH-4811524",
+   "saat": "14:51",
+   "tarih_iso": "2026-07-24T14:51:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T15:17:04.497077+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/american-express-rides-a-boom-in-platinum-cards-to-its-strongest-spending-growth-in-years-07ecac26?mod=mw_rss_topstories",
    "baslik": "American Express rides a boom in Platinum cards to its strongest spending growth in years",
    "kaynak": "MarketWatch",
@@ -537,6 +569,56 @@
    "tarih_iso": "2026-07-24T14:51:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-24T15:01:11.135613+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chinas-catl-sees-net-profit-rise-42-in-first-half-4811511",
+   "baslik": "China’s CATL sees net profit rise 42% in first half",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chinas-catl-sees-net-profit-rise-42-in-first-half-4811511",
+   "saat": "14:48",
+   "tarih_iso": "2026-07-24T14:48:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T15:17:04.497077+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-charter-communications-stock-sliding-today-93CH-4811502",
+   "baslik": "Why is Charter Communications stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-charter-communications-stock-sliding-today-93CH-4811502",
+   "saat": "14:46",
+   "tarih_iso": "2026-07-24T14:46:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T15:17:04.497077+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-noodles--company-stock-surging-today-93CH-4811444",
+   "baslik": "Why is Noodles & Company stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-noodles--company-stock-surging-today-93CH-4811444",
+   "saat": "14:37",
+   "tarih_iso": "2026-07-24T14:37:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T15:17:04.497077+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citi-upgrades-amplifon-on-earnings-upside-hearing-aid-demand-recovery-4811411",
+   "baslik": "Citi upgrades Amplifon on earnings upside, hearing aid demand recovery",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citi-upgrades-amplifon-on-earnings-upside-hearing-aid-demand-recovery-4811411",
+   "saat": "14:31",
+   "tarih_iso": "2026-07-24T14:31:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T15:17:04.497077+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/research/reports/ARGUS_47719_MarketOutlook_1784892277000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "baslik": "Daily Spotlight: Flight to Quality for Dollar",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/research/reports/ARGUS_47719_MarketOutlook_1784892277000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "saat": "14:24",
+   "tarih_iso": "2026-07-24T14:24:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-24T15:17:04.497077+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/mannkind-stock-jumps-6-on-fda-approval-50m-financing-93CH-4811296",
@@ -1681,5 +1763,5 @@
    "eklenme": "2026-07-24T09:01:05.763938+03:00"
   }
  ],
- "guncelleme": "2026-07-24T15:01:11.135613+03:00"
+ "guncelleme": "2026-07-24T15:17:04.497077+03:00"
 }
