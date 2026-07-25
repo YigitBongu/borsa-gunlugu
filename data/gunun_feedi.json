@@ -2,6 +2,32 @@
  "tarih": "2026-07-25",
  "kap": [
   {
+   "id": "kap-my-MIATK-202607251413",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Esas Sözleşme Tadili",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Yeni İş / Sözleşme",
+   "saat": "14:13",
+   "tarih_iso": "2026-07-25T14:13:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-25T15:01:11.209273+03:00"
+  },
+  {
+   "id": "kap-my-MIATK-202607251412",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Birleşme İşlemlerine İlişkin Bildirim",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Birleşme / Devralma",
+   "saat": "14:12",
+   "tarih_iso": "2026-07-25T14:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-25T15:01:11.209273+03:00"
+  },
+  {
    "id": "kap-my-TSKB-202607250056",
    "baslik": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş. — Fiyat Tespit Raporu",
    "sirket": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.",
@@ -29,6 +55,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-gornik-zabrze-sampiyonlar-ligi-2-on-eleme-turu-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-mac-tarihi-haberi-833629",
+   "baslik": "Fenerbahçe Gornik Zabrze Şampiyonlar Ligi 2. ön eleme turu maçı ne zaman, saat kaçta, hangi kanalda? FB maç tarihi...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-gornik-zabrze-sampiyonlar-ligi-2-on-eleme-turu-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-mac-tarihi-haberi-833629",
+   "saat": "14:52",
+   "tarih_iso": "2026-07-25T14:52:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-25T15:01:11.209273+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/karsan-elektrik-ihtiyacini-gunesten-karsilayacak-3901019-ekonomi",
    "baslik": "Karsan elektriği güneşten alacak",
@@ -572,5 +610,5 @@
    "eklenme": "2026-07-25T09:01:05.353142+03:00"
   }
  ],
- "guncelleme": "2026-07-25T14:31:01.280803+03:00"
+ "guncelleme": "2026-07-25T15:01:11.209273+03:00"
 }
