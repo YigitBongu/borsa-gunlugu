@@ -30,6 +30,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/super-lig-ne-zaman-basliyor-besiktas-fenerbahce-galatasaray-trabzonspor-lig-maci-ne-zaman-basliyor-haberi-833594",
+   "baslik": "Süper Lig ne zaman başlıyor? Beşiktaş, Fenerbahçe, Galatasaray, Trabzonspor lig maçı ne zaman başlıyor?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/super-lig-ne-zaman-basliyor-besiktas-fenerbahce-galatasaray-trabzonspor-lig-maci-ne-zaman-basliyor-haberi-833594",
+   "saat": "09:48",
+   "tarih_iso": "2026-07-25T09:48:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-25T10:01:09.244007+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/yapay-zeka-ve-6g-yatirimlari-hiz-kazandi-haberi-833560",
    "baslik": "Yapay zekâ ve 6G yatırımları hız kazandı",
    "kaynak": "Dünya",
@@ -43,6 +55,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-vezne24-tahsilat-sistemleri-ve-odeme-hizmetleri-asnin-faaliyet-iznini-iptal-etti/4008843",
+   "baslik": "TCMB, Vezne24 Tahsilat Sistemleri ve Ödeme Hizmetleri AŞ'nin faaliyet iznini iptal etti",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-vezne24-tahsilat-sistemleri-ve-odeme-hizmetleri-asnin-faaliyet-iznini-iptal-etti/4008843",
+   "saat": "09:33",
+   "tarih_iso": "2026-07-25T09:33:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T10:01:09.244007+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/cin-tripcoma-cevrimici-seyahat-hakimiyetini-kotuye-kullandg-icin-700-milyon-dolar-ceza-verdi-3995663",
    "baslik": "Çin, Trip.com’a çevrimiçi seyahat hakimiyetini kötüye kullandığı için 700 milyon dolar ceza verdi",
@@ -95,6 +117,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/kuwaits-kpc-signs-16-billion-lease-and-leaseback-deal-with-blackstone-kkr-brookfield-for-oil-pipeline-network-4812747",
+   "baslik": "Kuwait’s KPC signs $16 billion lease and leaseback deal with Blackstone, KKR, Brookfield for oil pipeline network",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/kuwaits-kpc-signs-16-billion-lease-and-leaseback-deal-with-blackstone-kkr-brookfield-for-oil-pipeline-network-4812747",
+   "saat": "09:18",
+   "tarih_iso": "2026-07-25T09:18:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T10:01:09.244007+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/bofa-names-top-infrastructure-software-stocks-led-by-datadog-93CH-4812643",
    "baslik": "BofA Names Top Infrastructure Software Stocks Led by Datadog",
@@ -388,5 +420,5 @@
    "eklenme": "2026-07-25T09:01:05.353142+03:00"
   }
  ],
- "guncelleme": "2026-07-25T09:31:05.267648+03:00"
+ "guncelleme": "2026-07-25T10:01:09.244007+03:00"
 }
