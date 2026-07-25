@@ -30,6 +30,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/karsan-elektrik-ihtiyacini-gunesten-karsilayacak-3901019-ekonomi",
+   "baslik": "Karsan elektriği güneşten alacak",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/karsan-elektrik-ihtiyacini-gunesten-karsilayacak-3901019-ekonomi",
+   "saat": "14:01",
+   "tarih_iso": "2026-07-25T14:01:06+03:00",
+   "kodlar": [
+    "KARSN"
+   ],
+   "eklenme": "2026-07-25T14:31:01.280803+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/super-lig-ne-zaman-basliyor-besiktas-fenerbahce-galatasaray-trabzonspor-lig-maci-ne-zaman-basliyor-haberi-833594",
    "baslik": "Süper Lig ne zaman başlıyor? Beşiktaş, Fenerbahçe, Galatasaray, Trabzonspor lig maçı ne zaman başlıyor?",
    "kaynak": "Dünya",
@@ -55,6 +67,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/gumuste-60-dolar-esigi-fed-kararina-kaldi-galeri-833626",
+   "baslik": "Gümüşte 60 dolar eşiği Fed kararına kaldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/gumuste-60-dolar-esigi-fed-kararina-kaldi-galeri-833626",
+   "saat": "14:11",
+   "tarih_iso": "2026-07-25T14:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-25T14:31:01.280803+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/12-saatlik-tiktok-yayiniyla-130-bin-dolar-kazandi-galeri-833623",
    "baslik": "12 saatlik TikTok yayınıyla 130 bin dolar kazandı",
@@ -550,5 +572,5 @@
    "eklenme": "2026-07-25T09:01:05.353142+03:00"
   }
  ],
- "guncelleme": "2026-07-25T14:01:06.665113+03:00"
+ "guncelleme": "2026-07-25T14:31:01.280803+03:00"
 }
