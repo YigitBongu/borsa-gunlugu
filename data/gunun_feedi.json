@@ -1,8 +1,31 @@
 {
  "tarih": "2026-07-26",
  "kap": [],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/adnan-bali-bir-iz-birakacaksaniz-bu-ancak-kulturle-ve-sanatla-olacaktir-haberi-833736",
+   "baslik": "Adnan Bali: Bir iz bırakacaksanız bu ancak kültürle ve sanatla olacaktır",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/adnan-bali-bir-iz-birakacaksaniz-bu-ancak-kulturle-ve-sanatla-olacaktir-haberi-833736",
+   "saat": "00:00",
+   "tarih_iso": "2026-07-27T00:00:00+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-07-27T00:31:03.619112+03:00"
+  }
+ ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/kobilere-850-bin-euroya-kadar-butce-haberi-833715",
+   "baslik": "KOBİ’lere 850 bin Euro’ya kadar bütçe",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/kobilere-850-bin-euroya-kadar-butce-haberi-833715",
+   "saat": "00:00",
+   "tarih_iso": "2026-07-27T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T00:31:03.619112+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/fomc-onizlemesi-fed-petrol-artsna-ragmen-faizleri-sabit-tutacak-3995805",
    "baslik": "FOMC Önizlemesi: Fed petrol artışına rağmen faizleri sabit tutacak",
@@ -76,6 +99,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/are-midterm-elections-a-headwind-for-stocks-4812914",
+   "baslik": "Are Midterm Elections a headwind for stocks?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/are-midterm-elections-a-headwind-for-stocks-4812914",
+   "saat": "00:24",
+   "tarih_iso": "2026-07-27T00:24:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T00:31:03.619112+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-alphabet-beat-apple-5-212000337.html",
+   "baslik": "Prediction: Alphabet Will Beat Apple to a $5 Trillion Market Cap",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-alphabet-beat-apple-5-212000337.html",
+   "saat": "00:20",
+   "tarih_iso": "2026-07-27T00:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T00:31:03.619112+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/marvell-technology-vs-uipath-quarterly-205801759.html",
+   "baslik": "Marvell Technology vs. UiPath: What Do the Quarterly Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-vs-uipath-quarterly-205801759.html",
+   "saat": "23:58",
+   "tarih_iso": "2026-07-26T23:58:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T00:31:03.619112+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/26/here-are-the-3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
    "baslik": "Here are the 3 big things we're watching in the stock market in the week ahead",
    "kaynak": "CNBC",
@@ -84,6 +137,16 @@
    "tarih_iso": "2026-07-26T23:50:54+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T00:01:36.159140+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/retail-investors-pulling-money-blackstones-205000360.html",
+   "baslik": "Retail Investors Are Pulling Money From Blackstone's Private Credit Fund. Here's What Its Latest Quarter Says.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/retail-investors-pulling-money-blackstones-205000360.html",
+   "saat": "23:50",
+   "tarih_iso": "2026-07-26T23:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T00:31:03.619112+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-coreweave-stock-fell-30-203800419.html",
@@ -868,5 +931,5 @@
    "eklenme": "2026-07-26T09:01:33.779592+03:00"
   }
  ],
- "guncelleme": "2026-07-27T00:01:36.159140+03:00"
+ "guncelleme": "2026-07-27T00:31:03.619112+03:00"
 }
