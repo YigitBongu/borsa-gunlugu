@@ -2,6 +2,19 @@
  "tarih": "2026-07-27",
  "kap": [
   {
+   "id": "kap-my-BIMAS-202607271926",
+   "baslik": "BİM BİRLEŞİK MAĞAZALAR A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+   "kodlar": [
+    "BIMAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:26",
+   "tarih_iso": "2026-07-27T19:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T00:01:10.754807+03:00"
+  },
+  {
    "id": "kap-my-AKFGY-202607271811",
    "baslik": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
    "sirket": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
@@ -277,6 +290,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sektorler/otomotiv/egea-sonrasi-tofas-ticari-usse-donustu-haberi-833867",
+   "baslik": "Egea sonrası Tofaş ticari üsse dönüştü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sektorler/otomotiv/egea-sonrasi-tofas-ticari-usse-donustu-haberi-833867",
+   "saat": "00:00",
+   "tarih_iso": "2026-07-28T00:00:00+03:00",
+   "kodlar": [
+    "TOASO"
+   ],
+   "eklenme": "2026-07-28T00:01:10.754807+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/bakan-kurum-garanti-bbva-ve-bbvanin-cop31e-de-katki-sunacak-olmasindan-memnuniyet-duyuyoruz-3447264",
    "baslik": "Bakan Kurum: Garanti BBVA ve BBVA’nın COP31’e de katkı sunacak olmasından memnuniyet duyuyoruz",
    "kaynak": "CNN Türk Ekonomi",
@@ -422,6 +447,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/scribe-therapeutics-nasdaqda-halka-arzda-15551-milyon-dolar-toplad-432SI-3997734",
+   "baslik": "Scribe Therapeutics Nasdaq’da halka arzda 155,51 milyon dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/scribe-therapeutics-nasdaqda-halka-arzda-15551-milyon-dolar-toplad-432SI-3997734",
+   "saat": "23:06",
+   "tarih_iso": "2026-07-27T23:06:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T00:01:10.754807+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/piyasalarin-gozu-fedin-faiz-kararinda-3447343",
+   "baslik": "Piyasaların gözü FED'in faiz kararında",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/piyasalarin-gozu-fedin-faiz-kararinda-3447343",
+   "saat": "22:52",
+   "tarih_iso": "2026-07-27T22:52:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T00:01:10.754807+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-833846",
    "baslik": "Borsa İstanbul günü düşüşle tamamladı",
@@ -664,6 +709,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
+   "baslik": "For 44 years, this investor held aces in the long-bond game. He just folded.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/for-44-years-this-investor-held-aces-in-the-long-bond-game-he-just-folded-dcd39375?mod=mw_rss_topstories",
+   "saat": "23:52",
+   "tarih_iso": "2026-07-27T23:52:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T00:01:10.754807+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-051-4815070",
+   "baslik": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.51%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-051-4815070",
+   "saat": "23:35",
+   "tarih_iso": "2026-07-27T23:35:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T00:01:10.754807+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-056-4815056",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.56%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-056-4815056",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-27T23:30:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T00:01:10.754807+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-074-4815047",
+   "baslik": "Brazil stocks higher at close of trade; Bovespa up 0.74%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-074-4815047",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-27T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T00:01:10.754807+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/afterhours-stock-movers-ffiv-cdns-apld-rmbs-esi-sanm-432SI-4815033",
+   "baslik": "After-Hours Stock Movers: FFIV, CDNS, APLD, RMBS, ESI, SANM",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/afterhours-stock-movers-ffiv-cdns-apld-rmbs-esi-sanm-432SI-4815033",
+   "saat": "23:28",
+   "tarih_iso": "2026-07-27T23:28:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T00:01:10.754807+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/stanley-black--decker-dividend-analysis-357-yield-after-a-25-stock-rally-93CH-4815018",
    "baslik": "Stanley Black & Decker dividend analysis: 3.57% yield after a 25% stock rally",
@@ -1813,56 +1908,6 @@
    "tarih_iso": "2026-07-27T16:51:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T17:01:10.875526+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html",
-   "baslik": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html",
-   "saat": "16:46",
-   "tarih_iso": "2026-07-27T16:46:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T17:01:10.875526+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-replimune-stock-sliding-today-93CH-4814396",
-   "baslik": "Why is Replimune stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-replimune-stock-sliding-today-93CH-4814396",
-   "saat": "16:40",
-   "tarih_iso": "2026-07-27T16:40:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T17:01:10.875526+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/entera-bio-stock-surges-on-275m-private-placement-93CH-4814394",
-   "baslik": "Entera Bio stock surges on $275M private placement",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/entera-bio-stock-surges-on-275m-private-placement-93CH-4814394",
-   "saat": "16:40",
-   "tarih_iso": "2026-07-27T16:40:50+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T17:01:10.875526+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/news/qualcomm-downgraded-rivian-upgraded-wall-133405953.html",
-   "baslik": "Rivian upgraded, Check Point downgrade: Wall Street's top analyst calls",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/qualcomm-downgraded-rivian-upgraded-wall-133405953.html",
-   "saat": "16:38",
-   "tarih_iso": "2026-07-27T16:38:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T17:01:10.875526+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-3-bitmine-surges-133808290.html",
-   "baslik": "Strategy Climbs 3%, BitMine Surges 7%, SharpLink Rises 5% as Crypto Stocks Bounce Back Toward $65K Bitcoin",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-3-bitmine-surges-133808290.html",
-   "saat": "16:38",
-   "tarih_iso": "2026-07-27T16:38:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T17:01:10.875526+03:00"
   }
  ],
  "altin_haber": [
@@ -2127,5 +2172,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-27T23:31:00.754106+03:00"
+ "guncelleme": "2026-07-28T00:01:10.754807+03:00"
 }
