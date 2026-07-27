@@ -2,6 +2,32 @@
  "tarih": "2026-07-27",
  "kap": [
   {
+   "id": "kap-my-ISCTR-202607271646",
+   "baslik": "TÜRKİYE İŞ BANKASI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜRKİYE İŞ BANKASI A.Ş.",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:46",
+   "tarih_iso": "2026-07-27T16:46:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
+  },
+  {
+   "id": "kap-my-OYAKC-202607271617",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "OYAKC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:17",
+   "tarih_iso": "2026-07-27T16:17:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
+  },
+  {
    "id": "kap-my-KARSN-202607271542",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -170,6 +196,30 @@
     "GARAN"
    ],
    "eklenme": "2026-07-27T15:31:00.244867+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/onur-genc-sirketleri-ve-kurumlari-cop31-e-davet-ediyorum-3901391-ekonomi",
+   "baslik": "\"Şirketleri ve kurumları COP31'e davet ediyorum\"",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/onur-genc-sirketleri-ve-kurumlari-cop31-e-davet-ediyorum-3901391-ekonomi",
+   "saat": "16:31",
+   "tarih_iso": "2026-07-27T16:31:42+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-27-temmuz-2026/4010507",
+   "baslik": "60 saniyede ekonomide bugün (27 Temmuz 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-27-temmuz-2026/4010507",
+   "saat": "15:28",
+   "tarih_iso": "2026-07-27T15:28:19+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
   },
   {
    "id": "rss-https://www.haberturk.com/borsanin-yeni-sigortasi-geliyor--3901369-ekonomi",
@@ -501,6 +551,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-s-p-500-is-echoing-its-2021-setup-according-to-morgan-stanley-fe4b61d0?mod=mw_rss_topstories",
+   "baslik": "The S&P 500 is echoing its 2021 setup, according to Morgan Stanley",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-s-p-500-is-echoing-its-2021-setup-according-to-morgan-stanley-fe4b61d0?mod=mw_rss_topstories",
+   "saat": "16:51",
+   "tarih_iso": "2026-07-27T16:51:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html",
+   "baslik": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html",
+   "saat": "16:46",
+   "tarih_iso": "2026-07-27T16:46:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-replimune-stock-sliding-today-93CH-4814396",
+   "baslik": "Why is Replimune stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-replimune-stock-sliding-today-93CH-4814396",
+   "saat": "16:40",
+   "tarih_iso": "2026-07-27T16:40:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/entera-bio-stock-surges-on-275m-private-placement-93CH-4814394",
+   "baslik": "Entera Bio stock surges on $275M private placement",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/entera-bio-stock-surges-on-275m-private-placement-93CH-4814394",
+   "saat": "16:40",
+   "tarih_iso": "2026-07-27T16:40:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/news/qualcomm-downgraded-rivian-upgraded-wall-133405953.html",
+   "baslik": "Rivian upgraded, Check Point downgrade: Wall Street's top analyst calls",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/qualcomm-downgraded-rivian-upgraded-wall-133405953.html",
+   "saat": "16:38",
+   "tarih_iso": "2026-07-27T16:38:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-3-bitmine-surges-133808290.html",
+   "baslik": "Strategy Climbs 3%, BitMine Surges 7%, SharpLink Rises 5% as Crypto Stocks Bounce Back Toward $65K Bitcoin",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/strategy-climbs-3-bitmine-surges-133808290.html",
+   "saat": "16:38",
+   "tarih_iso": "2026-07-27T16:38:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/broadcom-trade-bet-market-already-133454045.html",
+   "baslik": "The Broadcom Trade Is A Bet On The Market You Already Own, Amplified",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-trade-bet-market-already-133454045.html",
+   "saat": "16:34",
+   "tarih_iso": "2026-07-27T16:34:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/investors-turn-bitcoin-amid-fears-132700461.html",
+   "baslik": "Investors Turn To Bitcoin Amid Fears Of U.S. Dollar Devaluation",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/investors-turn-bitcoin-amid-fears-132700461.html",
+   "saat": "16:27",
+   "tarih_iso": "2026-07-27T16:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T17:01:10.875526+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/article/d-wave-leads-quantum-stocks-higher-as-att-expands-computing-deal-131336800.html",
    "baslik": "D-Wave leads quantum stocks higher as AT&T expands computing deal",
@@ -1620,86 +1750,6 @@
    "tarih_iso": "2026-07-27T12:03:19+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T12:31:04.918893+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-auto1-stock-rallying-today-93CH-4813219",
-   "baslik": "Why is Auto1 stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-auto1-stock-rallying-today-93CH-4813219",
-   "saat": "12:03",
-   "tarih_iso": "2026-07-27T12:03:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T12:31:04.918893+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/article/fed-expected-to-hold-rates-steady--but-an-interest-rate-hike-isnt-off-the-table-090000519.html",
-   "baslik": "Fed expected to hold rates steady — but an interest rate hike isn't off the table",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/article/fed-expected-to-hold-rates-steady--but-an-interest-rate-hike-isnt-off-the-table-090000519.html",
-   "saat": "12:00",
-   "tarih_iso": "2026-07-27T12:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T12:31:04.918893+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/everyday-investors-buying-spacex-ipo-090000381.html",
-   "baslik": "How everyday investors are buying into SpaceX before its IPO",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/everyday-investors-buying-spacex-ipo-090000381.html",
-   "saat": "12:00",
-   "tarih_iso": "2026-07-27T12:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T12:31:04.918893+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-serica-energy-stock-sliding-today-93CH-4813205",
-   "baslik": "Why is Serica Energy stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-serica-energy-stock-sliding-today-93CH-4813205",
-   "saat": "11:55",
-   "tarih_iso": "2026-07-27T11:55:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T11:58:38.617365+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/27/treasury-yields-oil-iran.html",
-   "baslik": "Treasury yields tumble as Middle East tensions ease",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/27/treasury-yields-oil-iran.html",
-   "saat": "11:49",
-   "tarih_iso": "2026-07-27T11:49:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T11:58:38.617365+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
-   "baslik": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
-   "saat": "11:46",
-   "tarih_iso": "2026-07-27T11:46:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T12:41:48.794345+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hidden-cost-t-stocks-success-084606282.html",
-   "baslik": "The Hidden Cost of AT&T Stock's Success",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hidden-cost-t-stocks-success-084606282.html",
-   "saat": "11:46",
-   "tarih_iso": "2026-07-27T11:46:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T12:31:04.918893+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/growth-land-palantir-stock-sense-084605618.html",
-   "baslik": "The Growth That Has to Land for Palantir Stock to Make Sense",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/growth-land-palantir-stock-sense-084605618.html",
-   "saat": "11:46",
-   "tarih_iso": "2026-07-27T11:46:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T12:31:04.918893+03:00"
   }
  ],
  "altin_haber": [
@@ -1904,5 +1954,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-27T16:31:04.077508+03:00"
+ "guncelleme": "2026-07-27T17:01:10.875526+03:00"
 }
