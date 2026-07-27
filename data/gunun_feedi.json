@@ -2,6 +2,19 @@
  "tarih": "2026-07-27",
  "kap": [
   {
+   "id": "kap-my-BIENY-202607271126",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BIENY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:26",
+   "tarih_iso": "2026-07-27T11:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
+  {
    "id": "kap-my-KMPUR-202607271004",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -55,6 +68,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/gornik-zabrze-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sampiyonlar-ligi-maci-tarihi-haberi-833793",
+   "baslik": "Gornik Zabrze Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda? FB şampiyonlar ligi maçı tarihi...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/gornik-zabrze-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sampiyonlar-ligi-maci-tarihi-haberi-833793",
+   "saat": "11:33",
+   "tarih_iso": "2026-07-27T11:33:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/haberler/bulls-yatirimdan-kisa-vadeli-miatk-analizi-haberi-833782",
    "baslik": "Bulls Yatırım'dan kısa vadeli MIATK analizi",
@@ -112,6 +137,16 @@
    "tarih_iso": "2026-07-27T13:25:45+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomistler-fed-in-yil-sonuna-kadar-faizi-sabit-tutmasini-bekliyor-3901319-ekonomi",
+   "baslik": "Fed'de faiz artırımı beklentisi zayıflıyor",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomistler-fed-in-yil-sonuna-kadar-faizi-sabit-tutmasini-bekliyor-3901319-ekonomi",
+   "saat": "11:32",
+   "tarih_iso": "2026-07-27T11:32:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/vadeli-mevduat-banka-faiz-oranlari-1-milyonun-32-gunluk-aylik-kazanci-ne-kadar-faiz-karari-sonrasi-mevduat-getirileri-guncellendi-3447024",
@@ -225,6 +260,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-serica-energy-stock-sliding-today-93CH-4813205",
+   "baslik": "Why is Serica Energy stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-serica-energy-stock-sliding-today-93CH-4813205",
+   "saat": "11:55",
+   "tarih_iso": "2026-07-27T11:55:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/27/treasury-yields-oil-iran.html",
+   "baslik": "Treasury yields tumble as Middle East tensions ease",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/27/treasury-yields-oil-iran.html",
+   "saat": "11:49",
+   "tarih_iso": "2026-07-27T11:49:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vesuvius-stock-sliding-today-93CH-4813170",
+   "baslik": "Why is Vesuvius stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-vesuvius-stock-sliding-today-93CH-4813170",
+   "saat": "11:44",
+   "tarih_iso": "2026-07-27T11:44:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/global-oil-stocks-tumble-as-crude-prices-retreat-after-us-halts-iran-strikes-4813168",
+   "baslik": "Global oil stocks tumble as crude prices retreat after U.S. halts Iran strikes",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/global-oil-stocks-tumble-as-crude-prices-retreat-after-us-halts-iran-strikes-4813168",
+   "saat": "11:40",
+   "tarih_iso": "2026-07-27T11:40:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sap-stock-surging-today-93CH-4813167",
+   "baslik": "Why is SAP stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sap-stock-surging-today-93CH-4813167",
+   "saat": "11:39",
+   "tarih_iso": "2026-07-27T11:39:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pinewood-technologies-stock-soars-on-727m-takeover-offer-4813166",
+   "baslik": "Pinewood Technologies stock soars on $727M takeover offer",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pinewood-technologies-stock-soars-on-727m-takeover-offer-4813166",
+   "saat": "11:38",
+   "tarih_iso": "2026-07-27T11:38:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gerresheimer-stock-surging-today-93CH-4813151",
+   "baslik": "Why is Gerresheimer stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-gerresheimer-stock-surging-today-93CH-4813151",
+   "saat": "11:32",
+   "tarih_iso": "2026-07-27T11:32:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ses-stock-surging-today-93CH-4813150",
+   "baslik": "Why is SES stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ses-stock-surging-today-93CH-4813150",
+   "saat": "11:30",
+   "tarih_iso": "2026-07-27T11:30:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-forte-biosciences-stock-surging-nearly-40-today-93CH-4813135",
    "baslik": "Why is Forte Biosciences stock surging nearly 40% today?",
@@ -628,6 +743,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-rebounds-as-oil-tumbles-is-4185-back-in-play-200684607",
+   "baslik": "Gold Rebounds as Oil Tumbles: Is $4,185 Back in Play?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-rebounds-as-oil-tumbles-is-4185-back-in-play-200684607",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-outlook-geopolitical-selloff-raises-questions-over-safehaven-demand-200684572",
    "baslik": "Gold Outlook: Geopolitical Sell-Off Raises Questions Over Safe-Haven Demand",
    "kaynak": "Investing Emtia",
@@ -636,6 +761,16 @@
    "tarih_iso": "",
    "kodlar": [],
    "eklenme": "2026-07-27T11:31:02.676506+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/aktuel/luks-cantalar-gozden-dustu-altin-takilar-yarista-one-gecti-galeri-833792",
+   "baslik": "Lüks çantalar gözden düştü, altın takılar yarışta öne geçti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/aktuel/luks-cantalar-gozden-dustu-altin-takilar-yarista-one-gecti-galeri-833792",
+   "saat": "11:23",
+   "tarih_iso": "2026-07-27T11:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T11:58:38.617365+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-rebounds-from-near-prior-downtrend-line-200684603",
@@ -748,5 +883,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-27T11:31:02.676506+03:00"
+ "guncelleme": "2026-07-27T11:58:38.617365+03:00"
 }
