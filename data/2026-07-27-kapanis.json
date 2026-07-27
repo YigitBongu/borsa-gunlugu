@@ -2,6 +2,34 @@
  "tarih": "2026-07-27",
  "kap": [
   {
+   "id": "kap-my-AKFGY-202607271811",
+   "baslik": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+   "sirket": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+   "kodlar": [
+    "AKFGY"
+   ],
+   "kategori": "Temettü",
+   "saat": "18:11",
+   "tarih_iso": "2026-07-27T18:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "18:11"
+  },
+  {
+   "id": "kap-my-ECZYT-202607271756",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ECZYT"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:56",
+   "tarih_iso": "2026-07-27T17:56:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "17:56"
+  },
+  {
    "id": "kap-my-ISMEN-202607271737",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -428,6 +456,17 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-833846",
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-833846",
+   "saat": "18:28",
+   "tarih_iso": "2026-07-27T18:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "18:28"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/fed-temmuz-faiz-karari-2026-fed-faiz-karari-ne-zaman-aciklanacak-faiz-indirimi-gelecek-mi-fed-faiz-karari-beklentisi-3447197",
    "baslik": "FED TEMMUZ FAİZ KARARI 2026: FED faiz kararı ne zaman açıklanacak, faiz indirimi gelecek mi? FED faiz kararı beklentisi",
    "kaynak": "CNN Türk Ekonomi",
@@ -682,6 +721,127 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-ai-boom-shows-no-sign-of-slowing-and-the-u-s-economy-is-reaping-the-benefits-1728c4e5?mod=mw_rss_topstories",
+   "baslik": "The AI boom shows no sign of slowing — and the U.S. economy is reaping the benefits",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-ai-boom-shows-no-sign-of-slowing-and-the-u-s-economy-is-reaping-the-benefits-1728c4e5?mod=mw_rss_topstories",
+   "saat": "18:22",
+   "tarih_iso": "2026-07-27T18:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "18:22"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/whirlpool-options-signal-11-stock-move-on-aug-3-earnings-93CH-4814683",
+   "baslik": "Whirlpool options signal 11% stock move on Aug. 3 earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/whirlpool-options-signal-11-stock-move-on-aug-3-earnings-93CH-4814683",
+   "saat": "18:19",
+   "tarih_iso": "2026-07-27T18:19:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "18:19"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/marriott-shares-may-move-39-on-aug-3-earnings-report-93CH-4814680",
+   "baslik": "Marriott shares may move 3.9% on Aug. 3 earnings report",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/marriott-shares-may-move-39-on-aug-3-earnings-report-93CH-4814680",
+   "saat": "18:16",
+   "tarih_iso": "2026-07-27T18:16:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "18:16"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-soundhound-ai-stock-aug-151021640.html",
+   "baslik": "Should You Buy SoundHound AI Stock Before Aug. 5?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-soundhound-ai-stock-aug-151021640.html",
+   "saat": "18:10",
+   "tarih_iso": "2026-07-27T18:10:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "18:10"
+  },
+  {
+   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/s-p-500-and-nasdaq-reverse-gains-chip-stocks-sink-on-china-competition-concerns--58TkY3yzkIG0EKBA6Zoh?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Chip Stocks Sink on China Competition Concerns, Erasing Early Gains",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/s-p-500-and-nasdaq-reverse-gains-chip-stocks-sink-on-china-competition-concerns--58TkY3yzkIG0EKBA6Zoh?siteid=yhoof2&yptr=yahoo",
+   "saat": "18:10",
+   "tarih_iso": "2026-07-27T18:10:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "18:10"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/just-3-magnificent-seven-stocks-151000269.html",
+   "baslik": "Just 3 \"Magnificent Seven\" Stocks Remain Founder-Led. Should Investors Bet on Elon Musk, Mark Zuckerberg, or Jensen Huang for the Long Term?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/just-3-magnificent-seven-stocks-151000269.html",
+   "saat": "18:10",
+   "tarih_iso": "2026-07-27T18:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "18:10"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/this-small-cap-stock-strategy-shines-by-riding-the-beat-and-raise-trend-24bee883?mod=mw_rss_topstories",
+   "baslik": "This small-cap stock strategy shines by riding the beat-and-raise trend",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/this-small-cap-stock-strategy-shines-by-riding-the-beat-and-raise-trend-24bee883?mod=mw_rss_topstories",
+   "saat": "18:08",
+   "tarih_iso": "2026-07-27T18:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "18:08"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/sandisk-sinks-12-micron-drops-150749991.html",
+   "baslik": "SanDisk Sinks 12%, Micron Drops 5%, SK Hynix Falls 8% as China’s CXMT IPO Rattles Memory Stocks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sandisk-sinks-12-micron-drops-150749991.html",
+   "saat": "18:07",
+   "tarih_iso": "2026-07-27T18:07:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "18:07"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/articles/shares-bonds-bounce-oil-skid-004056720.html",
+   "baslik": "Stocks mixed, oil and Treasury yields drop on Iran-US truce",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/articles/shares-bonds-bounce-oil-skid-004056720.html",
+   "saat": "18:01",
+   "tarih_iso": "2026-07-27T18:01:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "18:01"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/unp-vs-nsc-one-growth-145755328.html",
+   "baslik": "UNP vs. NSC: One Is a Growth Play, the Other a Merger Bet",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/unp-vs-nsc-one-growth-145755328.html",
+   "saat": "17:57",
+   "tarih_iso": "2026-07-27T17:57:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "17:57"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-algm-advanced-sharp-145714557.html",
+   "baslik": "Allegro Microsystems (ALGM) Advanced from Sharp Demand Growth",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/allegro-microsystems-algm-advanced-sharp-145714557.html",
+   "saat": "17:57",
+   "tarih_iso": "2026-07-27T17:57:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T18:30:58.543559+03:00",
+   "saat_g": "17:57"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/article/semiconductor-stock-charts-just-formed-this-bearish-shape-that-signals-more-potential-losses-145440205.html",
    "baslik": "Semiconductor stock charts just formed this bearish shape that signals more potential losses",
@@ -1880,127 +2040,6 @@
    "kodlar": [],
    "eklenme": "2026-07-27T14:01:12.977933+03:00",
    "saat_g": "13:23"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Chinese chipmaker shares surge nearly 470% in blockbuster stock market debut",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss",
-   "saat": "13:19",
-   "tarih_iso": "2026-07-27T13:19:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T16:01:30.174172+03:00",
-   "saat_g": "13:19"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-buy-now-101500664.html",
-   "baslik": "3 AI Stocks to Buy Now While They Are Still Cheap",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-ai-stocks-buy-now-101500664.html",
-   "saat": "13:15",
-   "tarih_iso": "2026-07-27T13:15:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T13:31:02.723368+03:00",
-   "saat_g": "13:15"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/commodities/articles/gold-edges-higher-softer-dollar-101325214.html",
-   "baslik": "Gold edges higher as softer dollar offsets easing geopolitical tensions",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/commodities/articles/gold-edges-higher-softer-dollar-101325214.html",
-   "saat": "13:13",
-   "tarih_iso": "2026-07-27T13:13:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T14:01:12.977933+03:00",
-   "saat_g": "13:13"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/oil-prices-tumble-u-iran-101038467.html",
-   "baslik": "Oil prices tumble as U.S.-Iran tensions show signs of easing",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/oil-prices-tumble-u-iran-101038467.html",
-   "saat": "13:10",
-   "tarih_iso": "2026-07-27T13:10:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T14:01:12.977933+03:00",
-   "saat_g": "13:10"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-quantum-computing-stock-going-101000289.html",
-   "baslik": "Prediction: This Quantum Computing Stock Is Going to Plummet After Aug. 6",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-quantum-computing-stock-going-101000289.html",
-   "saat": "13:10",
-   "tarih_iso": "2026-07-27T13:10:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T13:31:02.723368+03:00",
-   "saat_g": "13:10"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/trump-to-talk-up-economy-in-michigan-visit-amid-voter-concerns-ahead-of-congressional-races-4813306",
-   "baslik": "Trump to talk up economy in Michigan visit amid voter concerns ahead of congressional races",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/trump-to-talk-up-economy-in-michigan-visit-amid-voter-concerns-ahead-of-congressional-races-4813306",
-   "saat": "13:06",
-   "tarih_iso": "2026-07-27T13:06:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T13:31:02.723368+03:00",
-   "saat_g": "13:06"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/oil-prices-see-largest-one-day-declines-in-two-months-amid-pause-in-strikes-d819160a?mod=mw_rss_topstories",
-   "baslik": "Oil prices see largest one-day declines in two months amid pause in strikes",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/oil-prices-see-largest-one-day-declines-in-two-months-amid-pause-in-strikes-d819160a?mod=mw_rss_topstories",
-   "saat": "13:06",
-   "tarih_iso": "2026-07-27T13:06:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T13:31:02.723368+03:00",
-   "saat_g": "13:06"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nebius-just-revealed-biggest-problem-100500385.html",
-   "baslik": "Nebius Just Revealed the Biggest Problem Facing Neocloud Stocks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nebius-just-revealed-biggest-problem-100500385.html",
-   "saat": "13:05",
-   "tarih_iso": "2026-07-27T13:05:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T13:31:02.723368+03:00",
-   "saat_g": "13:05"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-27-2026-purchase-rates-higherlower-than-refinance-rates-100000066.html",
-   "baslik": "Mortgage and refinance rates today, Monday, July 27, 2026: Purchase rates higher/lower than refinance rates",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-july-27-2026-purchase-rates-higherlower-than-refinance-rates-100000066.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-07-27T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T13:31:02.723368+03:00",
-   "saat_g": "13:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-27-2026-lock-in-up-to-420-apy-100000874.html",
-   "baslik": "Best CD rates today, Monday, July 27, 2026: Lock in up to 4.20% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-july-27-2026-lock-in-up-to-420-apy-100000874.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-07-27T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T13:31:02.723368+03:00",
-   "saat_g": "13:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-27-2026-you-can-earn-up-to-415-apy-100000612.html",
-   "baslik": "Best high-yield savings interest rates today, Monday, July 27, 2026: You can earn up to 4.15% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-27-2026-you-can-earn-up-to-415-apy-100000612.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-07-27T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T13:31:02.723368+03:00",
-   "saat_g": "13:00"
   }
  ],
  "altin_haber": [
@@ -2236,5 +2275,5 @@
    "saat_g": "dün 20:34"
   }
  ],
- "guncelleme": "2026-07-27T18:01:20.683462+03:00"
+ "guncelleme": "2026-07-27T18:30:58.543559+03:00"
 }
