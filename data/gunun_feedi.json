@@ -2,6 +2,45 @@
  "tarih": "2026-07-27",
  "kap": [
   {
+   "id": "kap-my-ENJSA-202607271206",
+   "baslik": "AK YATIRIM MENKUL DEĞERLER A.Ş. — Likidite Sağlayıcılık Kapsamındaki İşlemler",
+   "sirket": "AK YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ENJSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:06",
+   "tarih_iso": "2026-07-27T12:06:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "kap-my-TSKB-202607271201",
+   "baslik": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.",
+   "kodlar": [
+    "TSKB"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "12:01",
+   "tarih_iso": "2026-07-27T12:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "kap-my-QUAGR-202607271201",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "QUAGR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:01",
+   "tarih_iso": "2026-07-27T12:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
    "id": "kap-my-BIENY-202607271126",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -139,6 +178,26 @@
    "eklenme": "2026-07-27T10:31:03.509653+03:00"
   },
   {
+   "id": "rss-https://www.haberturk.com/avrupali-uydu-operatorleri-ses-ve-eutelsat-abdden-6-1-milyar-dolar-tesvik-odemesi-alacak-3901333-teknoloji",
+   "baslik": "SES ve Eutelsat'a 6,1 milyar dolar",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/avrupali-uydu-operatorleri-ses-ve-eutelsat-abdden-6-1-milyar-dolar-tesvik-odemesi-alacak-3901333-teknoloji",
+   "saat": "11:49",
+   "tarih_iso": "2026-07-27T11:49:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fedde-faiz-beklentisi-degisti-ekonomistlerden-dikkat-ceken-tahmin-haberi-833796",
+   "baslik": "Fed'de faiz beklentisi değişti! Ekonomistlerden dikkat çeken tahmin",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fedde-faiz-beklentisi-degisti-ekonomistlerden-dikkat-ceken-tahmin-haberi-833796",
+   "saat": "11:33",
+   "tarih_iso": "2026-07-27T11:33:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomistler-fed-in-yil-sonuna-kadar-faizi-sabit-tutmasini-bekliyor-3901319-ekonomi",
    "baslik": "Fed'de faiz artırımı beklentisi zayıflıyor",
    "kaynak": "Habertürk Ekonomi",
@@ -261,6 +320,126 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bernstein-bullish-on-memory-stocks-after-samsung-nvidia-deals-4813233",
+   "baslik": "Why is Bernstein bullish on memory stocks after Samsung, Nvidia deals?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bernstein-bullish-on-memory-stocks-after-samsung-nvidia-deals-4813233",
+   "saat": "12:21",
+   "tarih_iso": "2026-07-27T12:21:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-galp-energia-stock-sliding-today-93CH-4813229",
+   "baslik": "Why is Galp Energia stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-galp-energia-stock-sliding-today-93CH-4813229",
+   "saat": "12:13",
+   "tarih_iso": "2026-07-27T12:13:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-baker-hughes-stock-surging-today-93CH-4813228",
+   "baslik": "Why is Baker Hughes stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-baker-hughes-stock-surging-today-93CH-4813228",
+   "saat": "12:12",
+   "tarih_iso": "2026-07-27T12:12:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-evolution-stock-rallying-today-93CH-4813227",
+   "baslik": "Why is Evolution stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-evolution-stock-rallying-today-93CH-4813227",
+   "saat": "12:11",
+   "tarih_iso": "2026-07-27T12:11:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/boston-beer-company-inc-sam-090726209.html",
+   "baslik": "Is The Boston Beer Company, Inc. (SAM) Stock a Buy as Margin Gains Offset Ongoing Volume Declines?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boston-beer-company-inc-sam-090726209.html",
+   "saat": "12:07",
+   "tarih_iso": "2026-07-27T12:07:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-jd-sports-fashion-stock-rallying-today-93CH-4813224",
+   "baslik": "Why is JD Sports Fashion stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-jd-sports-fashion-stock-rallying-today-93CH-4813224",
+   "saat": "12:06",
+   "tarih_iso": "2026-07-27T12:06:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/stocks-to-watch-cxmt-lvmh-nvidia-chevron-O1sJ8A4uaH1lHYAMrsdF?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Stocks to Watch: CXMT, LVMH, Nvidia, Chevron",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/stocks-to-watch-cxmt-lvmh-nvidia-chevron-O1sJ8A4uaH1lHYAMrsdF?siteid=yhoof2&yptr=yahoo",
+   "saat": "12:05",
+   "tarih_iso": "2026-07-27T12:05:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/articles/shares-bonds-bounce-oil-skid-004056720.html",
+   "baslik": "Global stocks climb, oil slides after pause in Middle East fighting",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/articles/shares-bonds-bounce-oil-skid-004056720.html",
+   "saat": "12:03",
+   "tarih_iso": "2026-07-27T12:03:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-shearwater-stock-surging-today-93CH-4813220",
+   "baslik": "Why is Shearwater stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-shearwater-stock-surging-today-93CH-4813220",
+   "saat": "12:03",
+   "tarih_iso": "2026-07-27T12:03:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-auto1-stock-rallying-today-93CH-4813219",
+   "baslik": "Why is Auto1 stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-auto1-stock-rallying-today-93CH-4813219",
+   "saat": "12:03",
+   "tarih_iso": "2026-07-27T12:03:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/article/fed-expected-to-hold-rates-steady--but-an-interest-rate-hike-isnt-off-the-table-090000519.html",
+   "baslik": "Fed expected to hold rates steady — but an interest rate hike isn't off the table",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/article/fed-expected-to-hold-rates-steady--but-an-interest-rate-hike-isnt-off-the-table-090000519.html",
+   "saat": "12:00",
+   "tarih_iso": "2026-07-27T12:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/everyday-investors-buying-spacex-ipo-090000381.html",
+   "baslik": "How everyday investors are buying into SpaceX before its IPO",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/everyday-investors-buying-spacex-ipo-090000381.html",
+   "saat": "12:00",
+   "tarih_iso": "2026-07-27T12:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-serica-energy-stock-sliding-today-93CH-4813205",
    "baslik": "Why is Serica Energy stock sliding today?",
    "kaynak": "Investing.com",
@@ -279,6 +458,46 @@
    "tarih_iso": "2026-07-27T11:49:14+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T11:58:38.617365+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hidden-cost-t-stocks-success-084606282.html",
+   "baslik": "The Hidden Cost of AT&T Stock's Success",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hidden-cost-t-stocks-success-084606282.html",
+   "saat": "11:46",
+   "tarih_iso": "2026-07-27T11:46:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/growth-land-palantir-stock-sense-084605618.html",
+   "baslik": "The Growth That Has to Land for Palantir Stock to Make Sense",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/growth-land-palantir-stock-sense-084605618.html",
+   "saat": "11:46",
+   "tarih_iso": "2026-07-27T11:46:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-cheap-qcom-stock-fails-084604262.html",
+   "baslik": "Why Cheap QCOM Stock Fails Part Of The Value Test",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-cheap-qcom-stock-fails-084604262.html",
+   "saat": "11:46",
+   "tarih_iso": "2026-07-27T11:46:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/beyond-broadband-could-power-comcast-084602560.html",
+   "baslik": "Beyond Broadband: What Could Power Comcast Stock From Here?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-broadband-could-power-comcast-084602560.html",
+   "saat": "11:46",
+   "tarih_iso": "2026-07-27T11:46:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vesuvius-stock-sliding-today-93CH-4813170",
@@ -331,6 +550,16 @@
    "eklenme": "2026-07-27T11:58:38.617365+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-spacexs-stock-price-june-083200469.html",
+   "baslik": "Prediction: This Will Be SpaceX's Stock Price by June 2027 (Hint: It's Time to Buy)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-spacexs-stock-price-june-083200469.html",
+   "saat": "11:32",
+   "tarih_iso": "2026-07-27T11:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ses-stock-surging-today-93CH-4813150",
    "baslik": "Why is SES stock surging today?",
    "kaynak": "Investing.com",
@@ -359,6 +588,16 @@
    "tarih_iso": "2026-07-27T11:09:14+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T11:31:02.676506+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-monday-july-27-dow-sp-500-nasdaq-080412540.html",
+   "baslik": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil tumbles, investors brace for busy week",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-27-dow-sp-500-nasdaq-080412540.html",
+   "saat": "11:04",
+   "tarih_iso": "2026-07-27T11:04:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
@@ -461,6 +700,16 @@
    "eklenme": "2026-07-27T10:31:03.509653+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/energy/articles/dcc-energy-agrees-7-7-065333859.html",
+   "baslik": "DCC Energy Agrees to $7.7 Billion Takeover by ECP and KKR Consortium",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/dcc-energy-agrees-7-7-065333859.html",
+   "saat": "09:53",
+   "tarih_iso": "2026-07-27T09:53:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-naver-stock-surging-today-93CH-4813050",
    "baslik": "Why is Naver stock surging today?",
    "kaynak": "Investing.com",
@@ -561,6 +810,26 @@
    "eklenme": "2026-07-27T09:31:02.029553+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/news/rbi-hold-rates-2026-growth-050732921.html",
+   "baslik": "RBI to hold rates through 2026 as growth risks outweigh inflation: Reuters poll",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/rbi-hold-rates-2026-growth-050732921.html",
+   "saat": "08:45",
+   "tarih_iso": "2026-07-27T08:45:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/articles/oil-prices-sink-4-while-053506103.html",
+   "baslik": "Oil prices sink 5% and Asian shares gain as Chinese chipmaker CXMT soars in Shanghai trading debut",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/articles/oil-prices-sink-4-while-053506103.html",
+   "saat": "08:35",
+   "tarih_iso": "2026-07-27T08:35:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/africa-facing-1020-billion-economic-hit-from-super-el-nino-afdb-climate-chief-warns-4812843",
    "baslik": "Africa facing $10-$20 billion economic hit from ’super’ El Niño, AfDB climate chief warns",
    "kaynak": "Investing.com",
@@ -579,6 +848,16 @@
    "tarih_iso": "2026-07-27T08:04:43+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+   "baslik": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo",
+   "saat": "08:00",
+   "tarih_iso": "2026-07-27T08:00:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/07/27/oil-price-wti-brent-slide-as-iran-reportedly-may-halt-attacks.html",
@@ -743,6 +1022,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/the-truth-about-gold-trading-sessions-how-liquidity-changes-from-asia-to-new-york-200684613",
+   "baslik": "The Truth About Gold Trading Sessions: How Liquidity Changes from Asia to New York",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/the-truth-about-gold-trading-sessions-how-liquidity-changes-from-asia-to-new-york-200684613",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-27T12:31:04.918893+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-rebounds-as-oil-tumbles-is-4185-back-in-play-200684607",
    "baslik": "Gold Rebounds as Oil Tumbles: Is $4,185 Back in Play?",
    "kaynak": "Investing Emtia",
@@ -883,5 +1172,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-27T12:01:13.727343+03:00"
+ "guncelleme": "2026-07-27T12:31:04.918893+03:00"
 }
