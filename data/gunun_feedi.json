@@ -2,6 +2,19 @@
  "tarih": "2026-07-27",
  "kap": [
   {
+   "id": "kap-my-SOKM-202607270855",
+   "baslik": "ŞOK MARKETLER TİCARET A.Ş. — Birleşme İşlemlerine İlişkin Bildirim",
+   "sirket": "ŞOK MARKETLER TİCARET A.Ş.",
+   "kodlar": [
+    "SOKM"
+   ],
+   "kategori": "Birleşme / Devralma",
+   "saat": "08:55",
+   "tarih_iso": "2026-07-27T08:55:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T09:31:02.029553+03:00"
+  },
+  {
    "id": "kap-my-KORDS-202607270835",
    "baslik": "KORDSA TEKNİK TEKSTİL A.Ş. — Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
    "sirket": "KORDSA TEKNİK TEKSTİL A.Ş.",
@@ -53,6 +66,16 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/ekonomi/endonezya-merkez-bankasi-baskani-istifa-etti-haberi-833763",
+   "baslik": "Endonezya Merkez Bankası Başkanı istifa etti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/endonezya-merkez-bankasi-baskani-istifa-etti-haberi-833763",
+   "saat": "08:56",
+   "tarih_iso": "2026-07-27T08:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T09:31:02.029553+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-27-temmuz-pazartesi-doviz-kurlari-haberi-833752",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (27 Temmuz Pazartesi Döviz Kurları)",
    "kaynak": "Dünya",
@@ -94,6 +117,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/science-group-reports-h1-revenue-decline-raises-buyback-target-93CH-4813012",
+   "baslik": "Science Group reports H1 revenue decline, raises buyback target",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/science-group-reports-h1-revenue-decline-raises-buyback-target-93CH-4813012",
+   "saat": "09:19",
+   "tarih_iso": "2026-07-27T09:19:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T09:31:02.029553+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rtc-group-reports-lower-h1-profit-amid-higher-costs-93CH-4813009",
+   "baslik": "RTC Group reports lower H1 profit amid higher costs",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rtc-group-reports-lower-h1-profit-amid-higher-costs-93CH-4813009",
+   "saat": "09:18",
+   "tarih_iso": "2026-07-27T09:18:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T09:31:02.029553+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/egide-firsthalf-revenue-slips-on-us-delays-and-production-halt-93CH-4813006",
+   "baslik": "Egide first-half revenue slips on US delays and production halt",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/egide-firsthalf-revenue-slips-on-us-delays-and-production-halt-93CH-4813006",
+   "saat": "09:15",
+   "tarih_iso": "2026-07-27T09:15:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T09:31:02.029553+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-267-4812992",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 2.67%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-267-4812992",
+   "saat": "09:00",
+   "tarih_iso": "2026-07-27T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T09:31:02.029553+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morgan-stanley-resumes-accor-coverage-as-assetlight-gains-face-growth-hurdles-4812991",
+   "baslik": "Morgan Stanley resumes Accor coverage as asset-light gains face growth hurdles",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-resumes-accor-coverage-as-assetlight-gains-face-growth-hurdles-4812991",
+   "saat": "09:00",
+   "tarih_iso": "2026-07-27T09:00:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T09:31:02.029553+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/africa-facing-1020-billion-economic-hit-from-super-el-nino-afdb-climate-chief-warns-4812843",
    "baslik": "Africa facing $10-$20 billion economic hit from ’super’ El Niño, AfDB climate chief warns",
@@ -327,5 +400,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-27T09:01:12.572338+03:00"
+ "guncelleme": "2026-07-27T09:31:02.029553+03:00"
 }
