@@ -108,6 +108,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/super-lig-ne-zaman-hangi-tarihte-basliyor-haberi-833805",
+   "baslik": "Süper Lig ne zaman, hangi tarihte başlıyor?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/super-lig-ne-zaman-hangi-tarihte-basliyor-haberi-833805",
+   "saat": "12:40",
+   "tarih_iso": "2026-07-27T12:40:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-27T13:01:24.711775+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/gornik-zabrze-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sampiyonlar-ligi-maci-tarihi-haberi-833793",
    "baslik": "Gornik Zabrze Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda? FB şampiyonlar ligi maçı tarihi...",
    "kaynak": "Dünya",
@@ -319,6 +331,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4813276",
+   "baslik": "Why is SK hynix stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4813276",
+   "saat": "12:55",
+   "tarih_iso": "2026-07-27T12:55:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T13:01:24.711775+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-occidental-petroleum-stock-down-today-93CH-4813273",
+   "baslik": "Why is Occidental Petroleum stock down today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-occidental-petroleum-stock-down-today-93CH-4813273",
+   "saat": "12:49",
+   "tarih_iso": "2026-07-27T12:49:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T13:01:24.711775+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-exxon-mobil-stock-sliding-today-93CH-4813268",
+   "baslik": "Why is Exxon Mobil stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-exxon-mobil-stock-sliding-today-93CH-4813268",
+   "saat": "12:48",
+   "tarih_iso": "2026-07-27T12:48:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T13:01:24.711775+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bp-stock-sliding-today-93CH-4813243",
    "baslik": "Why is BP stock sliding today?",
@@ -1222,5 +1264,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-27T12:41:48.794345+03:00"
+ "guncelleme": "2026-07-27T13:01:24.711775+03:00"
 }
