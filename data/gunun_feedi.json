@@ -2,6 +2,19 @@
  "tarih": "2026-07-27",
  "kap": [
   {
+   "id": "kap-my-YEOTK-202607270919",
+   "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:19",
+   "tarih_iso": "2026-07-27T09:19:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T10:01:08.066111+03:00"
+  },
+  {
    "id": "kap-my-SOKM-202607270855",
    "baslik": "ŞOK MARKETLER TİCARET A.Ş. — Birleşme İşlemlerine İlişkin Bildirim",
    "sirket": "ŞOK MARKETLER TİCARET A.Ş.",
@@ -66,6 +79,16 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/fed-toplantisi-ne-zaman-saat-kacta-fed-faiz-indirecek-mi-artiracak-mi-galeri-833772",
+   "baslik": "Fed toplantısı ne zaman, saat kaçta? Fed faiz indirecek mi, artıracak mı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/fed-toplantisi-ne-zaman-saat-kacta-fed-faiz-indirecek-mi-artiracak-mi-galeri-833772",
+   "saat": "09:49",
+   "tarih_iso": "2026-07-27T09:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:01:08.066111+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/endonezya-merkez-bankasi-baskani-istifa-etti-haberi-833763",
    "baslik": "Endonezya Merkez Bankası Başkanı istifa etti",
    "kaynak": "Dünya",
@@ -117,6 +140,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/quartix-technologies-reports-12-revenue-growth-in-first-half-93CH-4813034",
+   "baslik": "Quartix Technologies reports 12% revenue growth in first half",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/quartix-technologies-reports-12-revenue-growth-in-first-half-93CH-4813034",
+   "saat": "09:38",
+   "tarih_iso": "2026-07-27T09:38:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:01:08.066111+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-japan-semiconductor-equipment-stocks-93CH-4813033",
+   "baslik": "Goldman Sachs Names Top Japan Semiconductor Equipment Stocks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-japan-semiconductor-equipment-stocks-93CH-4813033",
+   "saat": "09:37",
+   "tarih_iso": "2026-07-27T09:37:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:01:08.066111+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-139-4813025",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 1.39%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-139-4813025",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-27T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:01:08.066111+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/science-group-reports-h1-revenue-decline-raises-buyback-target-93CH-4813012",
    "baslik": "Science Group reports H1 revenue decline, raises buyback target",
@@ -350,6 +403,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-outlook-mean-reversion-square-of-9-resistance-and-next-bullish-cycle-200684580",
+   "baslik": "Gold Outlook: Mean Reversion, Square of 9 Resistance, and Next Bullish Cycle",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-outlook-mean-reversion-square-of-9-resistance-and-next-bullish-cycle-200684580",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:01:08.066111+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-potential-gapdown-opening-may-led-to-retesting-of-key-support-at-3890-200684566",
    "baslik": "Gold: Potential Gap-Down Opening May Lead to Retesting of Key Support at $3,890",
    "kaynak": "Investing Emtia",
@@ -400,5 +463,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-27T09:31:02.029553+03:00"
+ "guncelleme": "2026-07-27T10:01:08.066111+03:00"
 }
