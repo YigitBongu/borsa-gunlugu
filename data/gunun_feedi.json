@@ -2,6 +2,19 @@
  "tarih": "2026-07-27",
  "kap": [
   {
+   "id": "kap-my-ASELS-202607271354",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASELS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:54",
+   "tarih_iso": "2026-07-27T13:54:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
+  },
+  {
    "id": "kap-my-EKGYO-202607271310",
    "baslik": "HALK VARLIK KİRALAMA A.Ş. — Tertip İhraç Belgesi",
    "sirket": "HALK VARLIK KİRALAMA A.Ş.",
@@ -134,6 +147,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/garanti-bbva-ve-bbva-cop31-iklim-degisikligi-zirvesinin-kuresel-bankacilik-partneri-oldu/4010404",
+   "baslik": "Garanti BBVA ve BBVA, COP31 İklim Değişikliği Zirvesi'nin \"Küresel Bankacılık Partneri\" oldu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/garanti-bbva-ve-bbva-cop31-iklim-degisikligi-zirvesinin-kuresel-bankacilik-partneri-oldu/4010404",
+   "saat": "14:09",
+   "tarih_iso": "2026-07-27T14:09:00+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/super-lig-ne-zaman-hangi-tarihte-basliyor-haberi-833805",
    "baslik": "Süper Lig ne zaman, hangi tarihte başlıyor?",
    "kaynak": "Dünya",
@@ -204,6 +229,16 @@
    "tarih_iso": "2026-07-27T16:38:39+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T14:01:12.977933+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/pakistan-merkez-bankas-faiz-orann-1150de-sabit-tuttu-93CH-3996465",
+   "baslik": "Pakistan merkez bankası faiz oranını %11,50’de sabit tuttu",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/pakistan-merkez-bankas-faiz-orann-1150de-sabit-tuttu-93CH-3996465",
+   "saat": "13:55",
+   "tarih_iso": "2026-07-27T13:55:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/mevduat-faiz-oranlari-1-milyonun-32-gunluk-aylik-kazanci-ne-kadar-faiz-karari-sonrasi-mevduat-getirileri-guncellendi-3447024",
@@ -378,6 +413,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/navigating-the-feds-next-move-why-these-trades-may-be-an-investors-best-weapon-7a7e80c0?mod=mw_rss_topstories",
+   "baslik": "Navigating the Fed’s next move? Why these trades may be an investor’s best weapon.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/navigating-the-feds-next-move-why-these-trades-may-be-an-investors-best-weapon-7a7e80c0?mod=mw_rss_topstories",
+   "saat": "14:22",
+   "tarih_iso": "2026-07-27T14:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/maplight-therapeutics-stock-tumbles-40-on-trial-results-93CH-4813649",
+   "baslik": "MapLight Therapeutics stock tumbles 40% on trial results",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/maplight-therapeutics-stock-tumbles-40-on-trial-results-93CH-4813649",
+   "saat": "14:15",
+   "tarih_iso": "2026-07-27T14:15:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dwave-quantum-stock-jumps-on-att-partnership-expansion-93CH-4813598",
+   "baslik": "D-Wave Quantum stock jumps on AT&T partnership expansion",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dwave-quantum-stock-jumps-on-att-partnership-expansion-93CH-4813598",
+   "saat": "14:08",
+   "tarih_iso": "2026-07-27T14:08:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/4-under-radar-stocks-check-110536238.html",
+   "baslik": "4 Under-the-Radar Stocks That Check Every LBO Target Box",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/4-under-radar-stocks-check-110536238.html",
+   "saat": "14:05",
+   "tarih_iso": "2026-07-27T14:05:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/vontobel-h1-profit-jumps-87-110350403.html",
+   "baslik": "Vontobel’s H1 profit jumps 87% as efficiency gains strengthen results",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vontobel-h1-profit-jumps-87-110350403.html",
+   "saat": "14:03",
+   "tarih_iso": "2026-07-27T14:03:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9bfbc0f3?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Tech, Media & Telecom Roundup: Market Talk",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9bfbc0f3?siteid=yhoof2&yptr=yahoo",
+   "saat": "14:03",
+   "tarih_iso": "2026-07-27T14:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/tech/cxmts-strong-debut-boosts-chinas-bid-to-conquer-memory-chips-21e0e9f4?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Maker of Chips Sought by Apple Soars to No. 1 in China Stock Market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/tech/cxmts-strong-debut-boosts-chinas-bid-to-conquer-memory-chips-21e0e9f4?siteid=yhoof2&yptr=yahoo",
+   "saat": "14:02",
+   "tarih_iso": "2026-07-27T14:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/vodafone-agm-highlights-three-uk-110156210.html",
+   "baslik": "Vodafone AGM Highlights Three UK Integration, Dividend Growth and Cash Flow Ambitions",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vodafone-agm-highlights-three-uk-110156210.html",
+   "saat": "14:01",
+   "tarih_iso": "2026-07-27T14:01:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/27/apple-options-are-doing-something-unusual-into-earnings.html",
    "baslik": "Apple options are doing something unusual into earnings",
    "kaynak": "CNBC",
@@ -386,6 +501,26 @@
    "tarih_iso": "2026-07-27T13:58:27+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T14:01:12.977933+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wells-fargo-sees-psychedelics-market-reaching-11b-by-2035-93CH-4813495",
+   "baslik": "Wells Fargo sees psychedelics market reaching $11B by 2035",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wells-fargo-sees-psychedelics-market-reaching-11b-by-2035-93CH-4813495",
+   "saat": "13:55",
+   "tarih_iso": "2026-07-27T13:55:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pakistan-central-bank-keeps-key-policy-rate-at-1150-93CH-4813494",
+   "baslik": "Pakistan central bank keeps key policy rate at 11.50%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pakistan-central-bank-keeps-key-policy-rate-at-1150-93CH-4813494",
+   "saat": "13:55",
+   "tarih_iso": "2026-07-27T13:55:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zabka-stock-collapsing-today-93CH-4813479",
@@ -406,6 +541,16 @@
    "tarih_iso": "2026-07-27T13:51:04+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T14:01:12.977933+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/goldman-sachs-leads-oil-gas-104719483.html",
+   "baslik": "Goldman Sachs leads oil and gas M&A advisory by value in H1 2026",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/goldman-sachs-leads-oil-gas-104719483.html",
+   "saat": "13:47",
+   "tarih_iso": "2026-07-27T13:47:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T14:31:04.504189+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/bofa-warns-oil-volatility-may-drive-inflation-amid-supply-shocks-93CH-4813451",
@@ -1630,5 +1775,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-27T14:01:12.977933+03:00"
+ "guncelleme": "2026-07-27T14:31:04.504189+03:00"
 }
