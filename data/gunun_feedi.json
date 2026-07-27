@@ -2,6 +2,19 @@
  "tarih": "2026-07-27",
  "kap": [
   {
+   "id": "kap-my-KMPUR-202607271004",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KMPUR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:04",
+   "tarih_iso": "2026-07-27T10:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
+  {
    "id": "kap-my-YEOTK-202607270919",
    "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Yeni İş İlişkisi",
    "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
@@ -68,6 +81,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/brent-petrol-fiyati-27-temmuz-petrol-ateskes-umuduyla-sert-dustu-brent-petrol-varil-fiyati-ne-kadar-kac-dolar-3447057",
+   "baslik": "BRENT PETROL FİYATI 27 TEMMUZ: Petrol ateşkes umuduyla sert düştü! Brent petrol varil fiyatı ne kadar, kaç dolar?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/brent-petrol-fiyati-27-temmuz-petrol-ateskes-umuduyla-sert-dustu-brent-petrol-varil-fiyati-ne-kadar-kac-dolar-3447057",
+   "saat": "13:25",
+   "tarih_iso": "2026-07-27T13:25:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/vadeli-mevduat-banka-faiz-oranlari-1-milyonun-32-gunluk-aylik-kazanci-ne-kadar-faiz-karari-sonrasi-mevduat-getirileri-guncellendi-3447024",
    "baslik": "VADELİ MEVDUAT BANKA FAİZ ORANLARI | 1 Milyonun 32 Günlük- Aylık Kazancı Ne Kadar? Faiz Kararı Sonrası Mevduat Getirileri Güncellendi!",
@@ -140,6 +163,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-jump-as-oil-drops-on-usiran-pause-in-busy-central-bank-4812990",
+   "baslik": "European shares jump as oil drops on U.S.-Iran pause in busy central bank",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-jump-as-oil-drops-on-usiran-pause-in-busy-central-bank-4812990",
+   "saat": "10:18",
+   "tarih_iso": "2026-07-27T10:18:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-066-4813055",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.66%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-066-4813055",
+   "saat": "10:00",
+   "tarih_iso": "2026-07-27T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-naver-stock-surging-today-93CH-4813050",
+   "baslik": "Why is Naver stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-naver-stock-surging-today-93CH-4813050",
+   "saat": "09:52",
+   "tarih_iso": "2026-07-27T09:52:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-contemporary-amperex-technology-stock-rallying-today-93CH-4813042",
+   "baslik": "Why is Contemporary Amperex Technology stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-contemporary-amperex-technology-stock-rallying-today-93CH-4813042",
+   "saat": "09:45",
+   "tarih_iso": "2026-07-27T09:45:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/quartix-technologies-reports-12-revenue-growth-in-first-half-93CH-4813034",
    "baslik": "Quartix Technologies reports 12% revenue growth in first half",
@@ -403,6 +466,56 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-rebounds-from-near-prior-downtrend-line-200684603",
+   "baslik": "Gold Rebounds From Near Prior Downtrend Line",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-rebounds-from-near-prior-downtrend-line-200684603",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-prices-remain-volatile-amid-geopolitical-tensions-and-anticipation-of-fed-200684596",
+   "baslik": "Gold: Fed Decision and Middle East Risks Set to Drive the Next Move",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-prices-remain-volatile-amid-geopolitical-tensions-and-anticipation-of-fed-200684596",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/the-gold-update-yellow-metals-fits-and-starts-in-finding-a-floor-200684583",
+   "baslik": "The Gold Update: Yellow Metal’s Fits and Starts in Finding a Floor",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/the-gold-update-yellow-metals-fits-and-starts-in-finding-a-floor-200684583",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-and-silver-outlook-profit-booking-expected-after-sharp-selloff-200684577",
+   "baslik": "Gold and Silver Outlook: Profit Booking Expected After Sharp Selloff",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-and-silver-outlook-profit-booking-expected-after-sharp-selloff-200684577",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-middle-east-tensions-and-fed-decision-to-drive-next-move-200684571",
+   "baslik": "Gold: Middle East Tensions and Fed Decision to Drive Next Move",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-middle-east-tensions-and-fed-decision-to-drive-next-move-200684571",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-27T10:31:03.509653+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-outlook-mean-reversion-square-of-9-resistance-and-next-bullish-cycle-200684580",
    "baslik": "Gold Outlook: Mean Reversion, Square of 9 Resistance, and Next Bullish Cycle",
    "kaynak": "Investing Emtia",
@@ -463,5 +576,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-27T10:01:08.066111+03:00"
+ "guncelleme": "2026-07-27T10:31:03.509653+03:00"
 }
