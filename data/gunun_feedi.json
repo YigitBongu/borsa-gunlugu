@@ -28,7 +28,20 @@
    "eklenme": "2026-07-28T09:01:22.873748+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-maci-bugun-mu-yarin-mi-sampiyonlar-ligi-gornik-zabrze-fb-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-833922",
+   "baslik": "Fenerbahçe maçı bugün mü, yarın mı? Şampiyonlar Ligi: Gornik Zabrze - FB maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-maci-bugun-mu-yarin-mi-sampiyonlar-ligi-gornik-zabrze-fb-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-833922",
+   "saat": "10:24",
+   "tarih_iso": "2026-07-28T10:24:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-28T10:31:05.936912+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/lamor-ikinci-ceyrekte-piyasa-zorluklarna-ragmen-2002-milyon-euro-gelir-acklad-93CH-3997956",
@@ -112,6 +125,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-steady-as-healthy-results--offset-oilinduced-yield-pressure-weigh-4815513",
+   "baslik": "European stocks steady as healthy results offset oil-induced yield pressure",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-steady-as-healthy-results--offset-oilinduced-yield-pressure-weigh-4815513",
+   "saat": "10:16",
+   "tarih_iso": "2026-07-28T10:16:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T10:31:05.936912+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-investors-await-fed-megacap-earnings-4815345",
+   "baslik": "Wall St futures slip as AI concerns weigh; investors await Fed, megacap earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-investors-await-fed-megacap-earnings-4815345",
+   "saat": "10:05",
+   "tarih_iso": "2026-07-28T10:05:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T10:31:05.936912+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-383-4815558",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 3.83%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-383-4815558",
+   "saat": "10:00",
+   "tarih_iso": "2026-07-28T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T10:31:05.936912+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/everplay-reiterates-confidence-in-fy26-market-expectations-93CH-4815533",
    "baslik": "Everplay reiterates confidence in FY26 market expectations",
@@ -455,6 +498,16 @@
    "eklenme": "2026-07-28T10:01:13.217833+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-ve-gumuste-yon-degisiyor-mu-agustos-tahminleri-aciklandi-galeri-833915",
+   "baslik": "Altın ve gümüşte yön değişiyor mu? Ağustos tahminleri açıklandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-ve-gumuste-yon-degisiyor-mu-agustos-tahminleri-aciklandi-galeri-833915",
+   "saat": "09:53",
+   "tarih_iso": "2026-07-28T09:53:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T10:31:05.936912+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-failed-gap-higher-shows-rate-expectations-still-control-the-market-200684656",
    "baslik": "Gold’s Failed Gap Higher Shows Rate Expectations Still Control the Market",
    "kaynak": "Investing Emtia",
@@ -515,5 +568,5 @@
    "eklenme": "2026-07-28T09:01:22.873748+03:00"
   }
  ],
- "guncelleme": "2026-07-28T10:01:13.217833+03:00"
+ "guncelleme": "2026-07-28T10:31:05.936912+03:00"
 }
