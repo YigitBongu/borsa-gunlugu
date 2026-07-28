@@ -2,6 +2,20 @@
  "tarih": "2026-07-28",
  "kap": [
   {
+   "id": "kap-my-MIATK-202607281753",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:53",
+   "tarih_iso": "2026-07-28T17:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T18:30:59.760296+03:00",
+   "saat_g": "17:53"
+  },
+  {
    "id": "kap-my-IZENR-202607281740",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -458,6 +472,17 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/heres-magnificent-seven-stock-cathie-150720986.html",
+   "baslik": "Here's the \"Magnificent Seven\" Stock Cathie Wood Is Piling Into Now",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-magnificent-seven-stock-cathie-150720986.html",
+   "saat": "18:07",
+   "tarih_iso": "2026-07-28T18:07:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T18:30:59.760296+03:00",
+   "saat_g": "18:07"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-workday-stock-surging-today-93CH-4817469",
    "baslik": "Why is Workday stock surging today?",
    "kaynak": "Investing.com",
@@ -467,6 +492,50 @@
    "kodlar": [],
    "eklenme": "2026-07-28T18:16:41.355629+03:00",
    "saat_g": "18:07"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/dow-jones-stocks-coca-cola-ko-sherwin-williams-shw-charge-ahead-q2-earnings/?src=A00220&yptr=yahoo",
+   "baslik": "Two Dow Defensive Names Charge Ahead, With Very Different Charts",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/dow-jones-stocks-coca-cola-ko-sherwin-williams-shw-charge-ahead-q2-earnings/?src=A00220&yptr=yahoo",
+   "saat": "18:06",
+   "tarih_iso": "2026-07-28T18:06:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T18:30:59.760296+03:00",
+   "saat_g": "18:06"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-ast-spacemobile-stock-below-150500095.html",
+   "baslik": "Should You Buy AST SpaceMobile Stock Below $63?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-ast-spacemobile-stock-below-150500095.html",
+   "saat": "18:05",
+   "tarih_iso": "2026-07-28T18:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T18:30:59.760296+03:00",
+   "saat_g": "18:05"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-asml-stock-going-3-150500292.html",
+   "baslik": "Prediction: ASML Stock Is Going to $3,000 in 3 Years",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-asml-stock-going-3-150500292.html",
+   "saat": "18:05",
+   "tarih_iso": "2026-07-28T18:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T18:30:59.760296+03:00",
+   "saat_g": "18:05"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/entain-betmgm-sees-igaming-growth-150438341.html",
+   "baslik": "Entain’s BetMGM Sees iGaming Growth, but Guides Toward Low End After Soft Q2",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/entain-betmgm-sees-igaming-growth-150438341.html",
+   "saat": "18:04",
+   "tarih_iso": "2026-07-28T18:04:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T18:30:59.760296+03:00",
+   "saat_g": "18:04"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/apple-briefly-becomes-second-company-150226087.html",
@@ -1721,61 +1790,6 @@
    "kodlar": [],
    "eklenme": "2026-07-28T13:57:34.971707+03:00",
    "saat_g": "13:30"
-  },
-  {
-   "id": "yab-https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/what-s-behind-the-selloff-in-chip-stocks--3n8dC8axqViQNUeq4e8W?siteid=yhoof2&yptr=yahoo",
-   "baslik": "What’s Behind the Selloff in Chip Stocks?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/what-s-behind-the-selloff-in-chip-stocks--3n8dC8axqViQNUeq4e8W?siteid=yhoof2&yptr=yahoo",
-   "saat": "13:30",
-   "tarih_iso": "2026-07-28T13:30:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T13:57:34.971707+03:00",
-   "saat_g": "13:30"
-  },
-  {
-   "id": "yab-https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/one-thing-weighing-on-chip-stocks-china-s-reported-strides-sjd41LjoRGWr3ivgwxXj?siteid=yhoof2&yptr=yahoo",
-   "baslik": "One Thing Weighing on Chip Stocks: China’s Reported Strides",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026/card/one-thing-weighing-on-chip-stocks-china-s-reported-strides-sjd41LjoRGWr3ivgwxXj?siteid=yhoof2&yptr=yahoo",
-   "saat": "13:27",
-   "tarih_iso": "2026-07-28T13:27:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T13:57:34.971707+03:00",
-   "saat_g": "13:27"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
-   "baslik": "UPS beats earnings expectations, raises full-year guidance",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
-   "saat": "13:27",
-   "tarih_iso": "2026-07-28T13:27:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T13:30:58.750696+03:00",
-   "saat_g": "13:27"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
-   "baslik": "Coca-Cola is about to report earnings. Here's what to expect",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
-   "saat": "13:25",
-   "tarih_iso": "2026-07-28T13:25:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T13:30:58.750696+03:00",
-   "saat_g": "13:25"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/could-only-buy-hold-1-102500814.html",
-   "baslik": "If I Could Only Buy and Hold 1 Stock Heading Into the Eye of a Stock Market Storm, This Would Be It",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/could-only-buy-hold-1-102500814.html",
-   "saat": "13:25",
-   "tarih_iso": "2026-07-28T13:25:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T13:57:34.971707+03:00",
-   "saat_g": "13:25"
   }
  ],
  "altin_haber": [
@@ -1956,5 +1970,5 @@
    "saat_g": "05:59"
   }
  ],
- "guncelleme": "2026-07-28T18:16:41.355629+03:00"
+ "guncelleme": "2026-07-28T18:30:59.760296+03:00"
 }
