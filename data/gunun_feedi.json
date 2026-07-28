@@ -2,6 +2,32 @@
  "tarih": "2026-07-28",
  "kap": [
   {
+   "id": "kap-my-SELEC-202607281305",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:05",
+   "tarih_iso": "2026-07-28T13:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
+  {
+   "id": "kap-my-SKBNK-202607281245",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:45",
+   "tarih_iso": "2026-07-28T12:45:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
+  {
    "id": "kap-my-TOASO-202607281047",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -81,6 +107,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-metgun-enerji-yatirimlari-as-icin-caldi/4011313",
+   "baslik": "Borsa İstanbul'da gong Metgün Enerji Yatırımları AŞ için çaldı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-metgun-enerji-yatirimlari-as-icin-caldi/4011313",
+   "saat": "13:15",
+   "tarih_iso": "2026-07-28T13:15:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/kuresel-piyasalarda-kritik-hafta-faiz-kararlari-pes-pese-geliyor-haberi-833941",
    "baslik": "Küresel piyasalarda kritik hafta! Faiz kararları peş peşe geliyor",
@@ -193,6 +229,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+   "baslik": "UPS beats earnings expectations, raises full-year guidance",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+   "saat": "13:27",
+   "tarih_iso": "2026-07-28T13:27:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+   "baslik": "Coca-Cola is about to report earnings. Here's what to expect",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+   "saat": "13:25",
+   "tarih_iso": "2026-07-28T13:25:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4?mod=mw_rss_topstories",
+   "baslik": "‘Picks and shovels’ trade comes unstuck as AI hardware stocks plunge on competitive threat from China",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/picks-and-shovels-trade-comes-unstuck-as-ai-hardware-stocks-plunge-on-competitive-threat-from-china-41a0c2b4?mod=mw_rss_topstories",
+   "saat": "13:16",
+   "tarih_iso": "2026-07-28T13:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/forterra-h1-earnings-call-highlights-100210327.html",
+   "baslik": "Forterra H1 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forterra-h1-earnings-call-highlights-100210327.html",
+   "saat": "13:02",
+   "tarih_iso": "2026-07-28T13:02:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html",
+   "baslik": "Mortgage and refinance interest rates today, Tuesday, July 28, 2026: Rates lower as fighting in Iran on pause",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-07-28T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-28-2026-lock-in-up-to-415-apy-today-100000665.html",
+   "baslik": "Best CD rates today, Tuesday, July 28, 2026: Lock in up to 4.15% APY today",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-july-28-2026-lock-in-up-to-415-apy-today-100000665.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-07-28T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/the-bond-markets-danger-zone-is-becoming-the-new-normal-chart-of-the-day-100000676.html",
+   "baslik": "The bond market's danger zone is becoming the new normal: Chart of the Day",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/the-bond-markets-danger-zone-is-becoming-the-new-normal-chart-of-the-day-100000676.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-07-28T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jp-morgan-puts-kingfisher-on-negative-watch-over-h1-earnings-risks-4815915",
+   "baslik": "J.P. Morgan puts Kingfisher on Negative Watch over H1 earnings risks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jp-morgan-puts-kingfisher-on-negative-watch-over-h1-earnings-risks-4815915",
+   "saat": "12:58",
+   "tarih_iso": "2026-07-28T12:58:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/wolfe-sees-solid-earnings-season-despite-tech-stock-concerns-93CH-4815909",
    "baslik": "Wolfe sees solid earnings season despite tech stock concerns",
@@ -1006,6 +1122,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/ekonomi/altin-rezervlerindeki-artisin-nedeni-belli-oldu-rusyadan-carpici-degerlendirme-haberi-833953",
+   "baslik": "Altın rezervlerindeki artışın nedeni belli oldu! Rusya'dan çarpıcı değerlendirme",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/altin-rezervlerindeki-artisin-nedeni-belli-oldu-rusyadan-carpici-degerlendirme-haberi-833953",
+   "saat": "12:44",
+   "tarih_iso": "2026-07-28T12:44:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T13:30:58.750696+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-pulls-back-closer-to-4000-ahead-of-fed-decision-200684698",
    "baslik": "Gold Pulls Back Closer to $4,000 Ahead of Fed Decision",
    "kaynak": "Investing Emtia",
@@ -1116,5 +1242,5 @@
    "eklenme": "2026-07-28T09:01:22.873748+03:00"
   }
  ],
- "guncelleme": "2026-07-28T13:01:05.998029+03:00"
+ "guncelleme": "2026-07-28T13:30:58.750696+03:00"
 }
