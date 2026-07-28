@@ -448,6 +448,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-28-temmuz-sali-doviz-kurlari-haberi-833886",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (28 Temmuz Salı Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-28-temmuz-sali-doviz-kurlari-haberi-833886",
+   "saat": "07:13",
+   "tarih_iso": "2026-07-28T07:13:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T07:31:07.189818+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisi-faiz-kiskacinda-yon-ariyor-galeri-833882",
    "baslik": "Altın yatırımcısı faiz kıskacında yön arıyor",
    "kaynak": "Dünya",
@@ -729,6 +739,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/a6801e59-3a71-4752-8456-86691e3e163f",
+   "baslik": "China needs a new growth model",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/a6801e59-3a71-4752-8456-86691e3e163f",
+   "saat": "07:00",
+   "tarih_iso": "2026-07-28T07:00:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T07:31:07.189818+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/28/indonesian-stocks-enter-bull-market.html",
    "baslik": "Indonesian stocks stage massive turnaround, hitting bull market status after clocking a five-year low just last month",
@@ -1918,16 +1938,6 @@
    "tarih_iso": "2026-07-27T18:10:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T18:30:58.543559+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-   "baslik": "Oil price dives as US and Iran pause attacks",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-   "saat": "18:08",
-   "tarih_iso": "2026-07-27T18:08:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T19:31:12.241366+03:00"
   }
  ],
  "altin_haber": [
@@ -2212,5 +2222,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-28T07:01:06.745276+03:00"
+ "guncelleme": "2026-07-28T07:31:07.189818+03:00"
 }
