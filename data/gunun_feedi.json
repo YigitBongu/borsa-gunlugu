@@ -2,6 +2,58 @@
  "tarih": "2026-07-28",
  "kap": [
   {
+   "id": "kap-my-SKBNK-202607281656",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:56",
+   "tarih_iso": "2026-07-28T16:56:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "kap-my-GESAN-202607281650",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:50",
+   "tarih_iso": "2026-07-28T16:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "kap-my-EUPWR-202607281650",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:50",
+   "tarih_iso": "2026-07-28T16:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "kap-my-ASTOR-202607281646",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:46",
+   "tarih_iso": "2026-07-28T16:46:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
    "id": "kap-my-SELEC-202607281633",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -133,6 +185,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-28-temmuz-2026/4011515",
+   "baslik": "60 saniyede ekonomide bugün (28 Temmuz 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-28-temmuz-2026/4011515",
+   "saat": "16:06",
+   "tarih_iso": "2026-07-28T16:06:41+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/euroleague-yeni-sezon-ne-zaman-baslayacak-haberi-833970",
    "baslik": "EuroLeague yeni sezon ne zaman başlayacak?",
@@ -345,6 +409,106 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-3c956a67?mod=mw_rss_topstories",
+   "baslik": "Micron’s stock sinks toward worst monthly drop in 11 years as China fears escalate",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/microns-stock-sinks-toward-worst-monthly-drop-in-11-years-as-china-fears-escalate-3c956a67?mod=mw_rss_topstories",
+   "saat": "17:25",
+   "tarih_iso": "2026-07-28T17:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html",
+   "baslik": "Fed meeting live: Federal Reserve expected to hold rates steady, but Iran war adds tension",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/live/fed-meeting-live-federal-reserve-july-interest-rate-decision-141813444.html",
+   "saat": "17:18",
+   "tarih_iso": "2026-07-28T17:18:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/paypal-stock-rises-as-ceo-keeps-door-open-on-potential-deals-141554191.html",
+   "baslik": "Paypal stock rises as CEO keeps door open on potential deals",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/paypal-stock-rises-as-ceo-keeps-door-open-on-potential-deals-141554191.html",
+   "saat": "17:15",
+   "tarih_iso": "2026-07-28T17:15:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/paypal-just-beat-earnings-does-141518319.html",
+   "baslik": "PayPal Just Beat Earnings. Does That Kill Stripe's $60.50 Bid?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/paypal-just-beat-earnings-does-141518319.html",
+   "saat": "17:15",
+   "tarih_iso": "2026-07-28T17:15:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/does-amazon-mercadolibre-offer-superior-141134346.html",
+   "baslik": "Does Amazon or MercadoLibre Offer The Superior Growth Vs Profitability Story Into 2027?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/does-amazon-mercadolibre-offer-superior-141134346.html",
+   "saat": "17:11",
+   "tarih_iso": "2026-07-28T17:11:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-major-reasons-buy-amazon-140959962.html",
+   "baslik": "3 Major Reasons to Buy Amazon Stock Before July 30 Q2 Earnings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-major-reasons-buy-amazon-140959962.html",
+   "saat": "17:09",
+   "tarih_iso": "2026-07-28T17:09:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/amd-vs-intel-better-artificial-140900641.html",
+   "baslik": "AMD vs. Intel: Which Is the Better Artificial Intelligence Chip Stock to Own Until the End of 2027?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/amd-vs-intel-better-artificial-140900641.html",
+   "saat": "17:09",
+   "tarih_iso": "2026-07-28T17:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/research/nvidia-nvda-stock-buy-now-july-2026/?src=A00220&yptr=yahoo",
+   "baslik": "Nvidia Loses Crown To Apple With Magnificent Seven Earnings Ahead; Is Nvidia A Sell Now?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/research/nvidia-nvda-stock-buy-now-july-2026/?src=A00220&yptr=yahoo",
+   "saat": "17:06",
+   "tarih_iso": "2026-07-28T17:06:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/chip-stock-rout-sends-investors-rushing-back-to-bruised-alphabet-stock-140503906.html",
+   "baslik": "Chip stock rout sends investors rushing back to bruised Alphabet stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/chip-stock-rout-sends-investors-rushing-back-to-bruised-alphabet-stock-140503906.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-07-28T17:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/bloom-energy-rose-ai-data-140134780.html",
+   "baslik": "Bloom Energy (BE) Rose on AI Data Center Power Demand",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-rose-ai-data-140134780.html",
+   "saat": "17:01",
+   "tarih_iso": "2026-07-28T17:01:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
    "baslik": "AMD, Micron and Nvidia extend losses as chip stocks get clobbered",
    "kaynak": "CNBC",
@@ -353,6 +517,26 @@
    "tarih_iso": "2026-07-28T17:00:32+03:00",
    "kodlar": [],
    "eklenme": "2026-07-28T17:01:06.454248+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/us-goods-trade-deficit-contracts-125003300.html",
+   "baslik": "US goods trade deficit contracts, still expected to subtract from Q2 GDP growth",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/us-goods-trade-deficit-contracts-125003300.html",
+   "saat": "16:52",
+   "tarih_iso": "2026-07-28T16:52:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/research/options/advanced-micro-devices-amd-stock-bear-put-spread-options/?src=A00220&yptr=yahoo",
+   "baslik": "AMD Stock Sets Up For This Bearish Trade As AI Bubble Trouble Looms",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/research/options/advanced-micro-devices-amd-stock-bear-put-spread-options/?src=A00220&yptr=yahoo",
+   "saat": "16:50",
+   "tarih_iso": "2026-07-28T16:50:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-fell-37-355-134715051.html",
@@ -465,6 +649,16 @@
    "eklenme": "2026-07-28T16:30:59.461184+03:00"
   },
   {
+   "id": "yab-https://www.cnbc.com/2026/07/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "saat": "15:57",
+   "tarih_iso": "2026-07-28T15:57:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-fall-as-chip-sell-off-deepens-125622548.html",
    "baslik": "Micron, SK Hynix stocks fall as chip sell-off deepens",
    "kaynak": "Yahoo Finance",
@@ -473,6 +667,16 @@
    "tarih_iso": "2026-07-28T15:56:22+03:00",
    "kodlar": [],
    "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html",
+   "baslik": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html",
+   "saat": "15:56",
+   "tarih_iso": "2026-07-28T15:56:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:30:58.631117+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/scott-bessent-buying-us-stocks-125500123.html",
@@ -1403,146 +1607,6 @@
    "tarih_iso": "2026-07-28T12:27:26+03:00",
    "kodlar": [],
    "eklenme": "2026-07-28T13:01:05.998029+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/why-india-uk-trade-deal-091115235.html",
-   "baslik": "Why the India-UK trade deal now needs a five-gate implementation ledger",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/why-india-uk-trade-deal-091115235.html",
-   "saat": "12:11",
-   "tarih_iso": "2026-07-28T12:11:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:31:06.943634+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/currencies/articles/dollar-hits-one-month-high-003619965.html",
-   "baslik": "Dollar hovers near four-week peak as markets mull Fed hike odds",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-hits-one-month-high-003619965.html",
-   "saat": "12:09",
-   "tarih_iso": "2026-07-28T12:09:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:31:06.943634+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/citi-initiates-catalyst-watch-on-rwe-stock-ahead-of-results-93CH-4815769",
-   "baslik": "Citi initiates catalyst watch on RWE stock ahead of results",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/citi-initiates-catalyst-watch-on-rwe-stock-ahead-of-results-93CH-4815769",
-   "saat": "12:08",
-   "tarih_iso": "2026-07-28T12:08:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:31:06.943634+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/1-ai-stock-buy-soars-090800929.html",
-   "baslik": "1 AI Stock to Buy Before It Soars 150%, According to a Wall Street Analyst (Hint: Not Micron or Sandisk)",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-ai-stock-buy-soars-090800929.html",
-   "saat": "12:08",
-   "tarih_iso": "2026-07-28T12:08:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:31:06.943634+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/us-chip-stocks-extend-losses-on-ai-financing-china-competition-fears-4815741",
-   "baslik": "U.S. chip stocks extend losses on AI financing, China competition fears",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/us-chip-stocks-extend-losses-on-ai-financing-china-competition-fears-4815741",
-   "saat": "11:55",
-   "tarih_iso": "2026-07-28T11:55:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:31:06.943634+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tokyo-electron-stock-tumbling-today-93CH-4815723",
-   "baslik": "Why is Tokyo Electron stock tumbling today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-tokyo-electron-stock-tumbling-today-93CH-4815723",
-   "saat": "11:43",
-   "tarih_iso": "2026-07-28T11:43:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:01:20.212863+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-crashing-today-93CH-4815722",
-   "baslik": "Why is Kioxia stock crashing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-crashing-today-93CH-4815722",
-   "saat": "11:43",
-   "tarih_iso": "2026-07-28T11:43:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:01:20.212863+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hindustan-unilever-stock-sliding-today-93CH-4815712",
-   "baslik": "Why is Hindustan Unilever stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-hindustan-unilever-stock-sliding-today-93CH-4815712",
-   "saat": "11:42",
-   "tarih_iso": "2026-07-28T11:42:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:01:20.212863+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-exosens-stock-sliding-today-93CH-4815709",
-   "baslik": "Why is Exosens stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-exosens-stock-sliding-today-93CH-4815709",
-   "saat": "11:40",
-   "tarih_iso": "2026-07-28T11:40:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:01:20.212863+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/salesforce-agentforce-bet-made-dow-083826022.html",
-   "baslik": "Salesforce’s Agentforce Bet Made It the Dow’s Worst Performer. Is the Market Overreacting?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-agentforce-bet-made-dow-083826022.html",
-   "saat": "11:38",
-   "tarih_iso": "2026-07-28T11:38:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:31:06.943634+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-everplay-stock-climbing-today-93CH-4815704",
-   "baslik": "Why is Everplay stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-everplay-stock-climbing-today-93CH-4815704",
-   "saat": "11:36",
-   "tarih_iso": "2026-07-28T11:36:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:01:20.212863+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-066-4815696",
-   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.66%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-066-4815696",
-   "saat": "11:35",
-   "tarih_iso": "2026-07-28T11:35:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:01:20.212863+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-amkor-technology-stock-sliding-today-93CH-4815693",
-   "baslik": "Why is Amkor Technology stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-amkor-technology-stock-sliding-today-93CH-4815693",
-   "saat": "11:33",
-   "tarih_iso": "2026-07-28T11:33:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:01:20.212863+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-buzzfeed-stock-surging-today-93CH-4815690",
-   "baslik": "Why is BuzzFeed stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-buzzfeed-stock-surging-today-93CH-4815690",
-   "saat": "11:31",
-   "tarih_iso": "2026-07-28T11:31:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:01:20.212863+03:00"
   }
  ],
  "altin_haber": [
@@ -1707,5 +1771,5 @@
    "eklenme": "2026-07-28T09:01:22.873748+03:00"
   }
  ],
- "guncelleme": "2026-07-28T17:01:06.454248+03:00"
+ "guncelleme": "2026-07-28T17:30:58.631117+03:00"
 }
