@@ -2,6 +2,19 @@
  "tarih": "2026-07-28",
  "kap": [
   {
+   "id": "kap-my-YEOTK-202607281606",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:06",
+   "tarih_iso": "2026-07-28T16:06:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
    "id": "kap-my-PGSUS-202607281503",
    "baslik": "PEGASUS HAVA TAŞIMACILIĞI A.Ş. — Finansal Takvim",
    "sirket": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
@@ -133,6 +146,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/sigorta-sektorunden-2030-hedefi-prim-uretiminde-50-milyar-dolar-hedefleniyor-3447647",
+   "baslik": "Sigorta sektöründen 2030 hedefi! Prim üretiminde 50 milyar dolar hedefleniyor",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/sigorta-sektorunden-2030-hedefi-prim-uretiminde-50-milyar-dolar-hedefleniyor-3447647",
+   "saat": "19:08",
+   "tarih_iso": "2026-07-28T19:08:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/altin-tahminleri-degisti-3-800-6-000-dolar-araligi-hangi-senaryo-gercekci-3447625",
    "baslik": "Altın tahminleri değişti! 3.800-6.000 dolar aralığı! Hangi senaryo gerçekçi?",
@@ -295,6 +318,116 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/penny-stock-takeover-target-snap-131502836.html",
+   "baslik": "From Penny Stock to Takeover Target: Who Will Snap Up QuantumScape?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/penny-stock-takeover-target-snap-131502836.html",
+   "saat": "16:15",
+   "tarih_iso": "2026-07-28T16:15:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/where-novo-nordisk-stock-3-131100781.html",
+   "baslik": "Where Will Novo Nordisk Stock Be in 3 Years?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/where-novo-nordisk-stock-3-131100781.html",
+   "saat": "16:11",
+   "tarih_iso": "2026-07-28T16:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/why-this-analyst-is-down-on-apple-stock-even-as-it-hovers-near-record-highs-130907412.html",
+   "baslik": "Why this analyst is down on Apple stock even as it hovers near record highs",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/why-this-analyst-is-down-on-apple-stock-even-as-it-hovers-near-record-highs-130907412.html",
+   "saat": "16:09",
+   "tarih_iso": "2026-07-28T16:09:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/accenture-acn-faces-growth-concerns-130846610.html",
+   "baslik": "Accenture (ACN) Faces Growth Concerns",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-faces-growth-concerns-130846610.html",
+   "saat": "16:08",
+   "tarih_iso": "2026-07-28T16:08:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/applied-digital-revenue-quadruples-ai-130500555.html",
+   "baslik": "Applied Digital revenue quadruples on AI data center demand",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/applied-digital-revenue-quadruples-ai-130500555.html",
+   "saat": "16:05",
+   "tarih_iso": "2026-07-28T16:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/6-members-of-congress-have-bought-spacex-stock-including-one-democrat-130256608.html",
+   "baslik": "6 members of Congress have bought SpaceX stock, including one Democrat",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/6-members-of-congress-have-bought-spacex-stock-including-one-democrat-130256608.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-07-28T16:02:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-donald-trump-dividend-stock-130044152.html",
+   "baslik": "Should You Buy This Donald Trump Dividend Stock Before Earnings?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-donald-trump-dividend-stock-130044152.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-07-28T16:00:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-fall-as-chip-sell-off-deepens-125622548.html",
+   "baslik": "Micron, SK Hynix stocks fall as chip sell-off deepens",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-fall-as-chip-sell-off-deepens-125622548.html",
+   "saat": "15:56",
+   "tarih_iso": "2026-07-28T15:56:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/scott-bessent-buying-us-stocks-125500123.html",
+   "baslik": "Scott Bessent is buying US stocks with taxpayer cash amid China threat — can you copy and get rich? Here’s what he likes",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/scott-bessent-buying-us-stocks-125500123.html",
+   "saat": "15:55",
+   "tarih_iso": "2026-07-28T15:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-28-2026-crypto-prices-slide-ahead-of-fed-meeting-125210301.html",
+   "baslik": "Bitcoin and ethereum prices today, Tuesday, July 28, 2026: Crypto prices slide ahead of Fed meeting",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-july-28-2026-crypto-prices-slide-ahead-of-fed-meeting-125210301.html",
+   "saat": "15:52",
+   "tarih_iso": "2026-07-28T15:52:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/small-business/articles/trucking-market-different-why-capacity-124348306.html",
+   "baslik": "Is This Trucking Market Different? Why Capacity Won’t Flood Back In",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/small-business/articles/trucking-market-different-why-capacity-124348306.html",
+   "saat": "15:43",
+   "tarih_iso": "2026-07-28T15:43:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T16:30:59.461184+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/paypal-q2-2026-earnings-beat-124337219.html",
    "baslik": "PayPal Q2 2026 earnings beat; raises full-year EPS guidance",
@@ -1384,116 +1517,6 @@
    "tarih_iso": "2026-07-28T11:22:22+03:00",
    "kodlar": [],
    "eklenme": "2026-07-28T11:31:04.467755+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plummeting-today-93CH-4815666",
-   "baslik": "Why is Samsung Electronics stock plummeting today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-plummeting-today-93CH-4815666",
-   "saat": "11:21",
-   "tarih_iso": "2026-07-28T11:21:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:31:04.467755+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-luxury-stocks-gain-as-lvmhs-core-business-returns-to-growth-4815657",
-   "baslik": "European luxury stocks gain as LVMH’s core business returns to growth",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-luxury-stocks-gain-as-lvmhs-core-business-returns-to-growth-4815657",
-   "saat": "11:14",
-   "tarih_iso": "2026-07-28T11:14:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:31:04.467755+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cadence-design-systems-stock-rallying-today-93CH-4815654",
-   "baslik": "Why is Cadence Design Systems stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-cadence-design-systems-stock-rallying-today-93CH-4815654",
-   "saat": "11:13",
-   "tarih_iso": "2026-07-28T11:13:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:31:04.467755+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/michelin-shares-drop-2-as-investors-take-profits-after-results-93CH-4815649",
-   "baslik": "Michelin shares drop 2% as investors take profits after results",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/michelin-shares-drop-2-as-investors-take-profits-after-results-93CH-4815649",
-   "saat": "11:12",
-   "tarih_iso": "2026-07-28T11:12:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:31:04.467755+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-koninklijke-philips-stock-tumbling-today-93CH-4815647",
-   "baslik": "Why is Koninklijke Philips stock tumbling today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-koninklijke-philips-stock-tumbling-today-93CH-4815647",
-   "saat": "11:10",
-   "tarih_iso": "2026-07-28T11:10:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:31:04.467755+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sika-stock-surging-today-93CH-4815645",
-   "baslik": "Why is Sika stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sika-stock-surging-today-93CH-4815645",
-   "saat": "11:09",
-   "tarih_iso": "2026-07-28T11:09:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:31:04.467755+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sulzer-stock-surging-today-93CH-4815630",
-   "baslik": "Why is Sulzer stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sulzer-stock-surging-today-93CH-4815630",
-   "saat": "10:59",
-   "tarih_iso": "2026-07-28T10:59:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:01:12.758088+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-saipem-stock-sliding-today-93CH-4815629",
-   "baslik": "Why is Saipem stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-saipem-stock-sliding-today-93CH-4815629",
-   "saat": "10:59",
-   "tarih_iso": "2026-07-28T10:59:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:01:12.758088+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-basicfit-stock-surging-today-93CH-4815628",
-   "baslik": "Why is Basic-Fit stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-basicfit-stock-surging-today-93CH-4815628",
-   "saat": "10:58",
-   "tarih_iso": "2026-07-28T10:58:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:01:12.758088+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sig-stock-rallying-today-93CH-4815623",
-   "baslik": "Why is SIG stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sig-stock-rallying-today-93CH-4815623",
-   "saat": "10:55",
-   "tarih_iso": "2026-07-28T10:55:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:01:12.758088+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mercedesbenz-stock-higher-today-93CH-4815622",
-   "baslik": "Why is Mercedes-Benz stock higher today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-mercedesbenz-stock-higher-today-93CH-4815622",
-   "saat": "10:54",
-   "tarih_iso": "2026-07-28T10:54:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:01:12.758088+03:00"
   }
  ],
  "altin_haber": [
@@ -1648,5 +1671,5 @@
    "eklenme": "2026-07-28T09:01:22.873748+03:00"
   }
  ],
- "guncelleme": "2026-07-28T16:01:15.935410+03:00"
+ "guncelleme": "2026-07-28T16:30:59.461184+03:00"
 }
