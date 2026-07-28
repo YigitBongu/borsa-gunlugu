@@ -448,6 +448,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisi-faiz-kiskacinda-yon-ariyor-galeri-833882",
+   "baslik": "Altın yatırımcısı faiz kıskacında yön arıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisi-faiz-kiskacinda-yon-ariyor-galeri-833882",
+   "saat": "05:59",
+   "tarih_iso": "2026-07-28T05:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T06:30:56.255180+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-fed-ve-dev-sirket-kazanclar-oncesi-sakin-3997872",
    "baslik": "ABD hisse senedi vadeli işlemleri Fed ve dev şirket kazançları öncesi sakin",
    "kaynak": "Investing TR",
@@ -719,6 +729,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+   "baslik": "Oil drops more than 2% as a pause in U.S.-Iran hostilities raises de-escalation hopes",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html",
+   "saat": "06:25",
+   "tarih_iso": "2026-07-28T06:25:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T06:30:56.255180+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ai-anxiety-sparks-tech-rout-broad-selloff-in-asian-markets-4815405",
    "baslik": "AI anxiety sparks tech rout, broad selloff in Asian markets",
@@ -1908,19 +1928,19 @@
    "tarih_iso": "2026-07-27T18:07:49+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T18:30:58.543559+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/articles/shares-bonds-bounce-oil-skid-004056720.html",
-   "baslik": "Stocks mixed, oil and Treasury yields drop on Iran-US truce",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/articles/shares-bonds-bounce-oil-skid-004056720.html",
-   "saat": "18:01",
-   "tarih_iso": "2026-07-27T18:01:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T18:30:58.543559+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisi-faiz-kiskacinda-yon-ariyor-galeri-833882",
+   "baslik": "Altın yatırımcısı faiz kıskacında yön arıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisi-faiz-kiskacinda-yon-ariyor-galeri-833882",
+   "saat": "05:59",
+   "tarih_iso": "2026-07-28T05:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T06:30:56.255180+03:00"
+  },
   {
    "id": "alt-https://www.dunya.com/ekonomi/ayciceginde-altin-yil-fiyatlari-dizginleyecek-haberi-833873",
    "baslik": "Ayçiçeğinde ‘altın yıl’ fiyatları dizginleyecek",
@@ -2192,5 +2212,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-28T06:01:07.913520+03:00"
+ "guncelleme": "2026-07-28T06:30:56.255180+03:00"
 }
