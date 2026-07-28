@@ -448,6 +448,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-fed-ve-dev-sirket-kazanclar-oncesi-sakin-3997872",
+   "baslik": "ABD hisse senedi vadeli işlemleri Fed ve dev şirket kazançları öncesi sakin",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-fed-ve-dev-sirket-kazanclar-oncesi-sakin-3997872",
+   "saat": "03:38",
+   "tarih_iso": "2026-07-28T03:38:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T04:01:16.397252+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/scribe-therapeutics-nasdaqda-halka-arzda-15551-milyon-dolar-toplad-432SI-3997734",
    "baslik": "Scribe Therapeutics Nasdaq’da halka arzda 155,51 milyon dolar topladı",
    "kaynak": "Investing TR",
@@ -709,6 +719,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-investors-await-fed-megacap-earnings-4815345",
+   "baslik": "U.S. stock futures steady as investors await Fed, megacap earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-investors-await-fed-megacap-earnings-4815345",
+   "saat": "03:38",
+   "tarih_iso": "2026-07-28T03:38:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T04:01:16.397252+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/66678363-382d-4659-b093-e61a2b6bcd6a?syn-25a6b1a6=1",
    "baslik": "Trump seeks to revive his bond with blue-collar America",
@@ -1898,16 +1918,6 @@
    "tarih_iso": "2026-07-27T17:36:20+03:00",
    "kodlar": [],
    "eklenme": "2026-07-27T18:01:20.683462+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-climb-as-oil-tumbles-on-usiran-pause-earnings-fed-in-focus-4812934",
-   "baslik": "Nasdaq erases gains, stocks mixed as chip names fall; slide in oil caps losses",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-climb-as-oil-tumbles-on-usiran-pause-earnings-fed-in-focus-4812934",
-   "saat": "17:35",
-   "tarih_iso": "2026-07-27T17:35:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-27T18:01:20.683462+03:00"
   }
  ],
  "altin_haber": [
@@ -2182,5 +2192,5 @@
    "eklenme": "2026-07-27T09:01:12.572338+03:00"
   }
  ],
- "guncelleme": "2026-07-28T03:30:54.511323+03:00"
+ "guncelleme": "2026-07-28T04:01:16.397252+03:00"
 }
