@@ -2,6 +2,32 @@
  "tarih": "2026-07-28",
  "kap": [
   {
+   "id": "kap-my-SELEC-202607281633",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:33",
+   "tarih_iso": "2026-07-28T16:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T17:01:06.454248+03:00"
+  },
+  {
+   "id": "kap-my-TABGD-202607281625",
+   "baslik": "TAB GIDA SANAYİ VE TİCARET A.Ş. — Finansal Takvim",
+   "sirket": "TAB GIDA SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "TABGD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:25",
+   "tarih_iso": "2026-07-28T16:25:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T17:01:06.454248+03:00"
+  },
+  {
    "id": "kap-my-YEOTK-202607281606",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -318,6 +344,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+   "baslik": "AMD, Micron and Nvidia extend losses as chip stocks get clobbered",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/28/sk-hynix-plunges-semiconductor-selloff-deepens-samsung-softbank.html",
+   "saat": "17:00",
+   "tarih_iso": "2026-07-28T17:00:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:01:06.454248+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-fell-37-355-134715051.html",
+   "baslik": "Intuitive Surgical Fell 37% to $355 With This Wall Street Pro Is Calling for $685",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/intuitive-surgical-fell-37-355-134715051.html",
+   "saat": "16:47",
+   "tarih_iso": "2026-07-28T16:47:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:01:06.454248+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-2-favorite-134117494.html",
+   "baslik": "Should You Follow Billionaire Bill Ackman Into His 2 Favorite Mag 7 Stocks?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-2-favorite-134117494.html",
+   "saat": "16:41",
+   "tarih_iso": "2026-07-28T16:41:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:01:06.454248+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jetblue-q2-2026-earnings-wider-134105562.html",
+   "baslik": "JetBlue Q2 2026 earnings: wider loss as fuel costs surge 81%",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jetblue-q2-2026-earnings-wider-134105562.html",
+   "saat": "16:41",
+   "tarih_iso": "2026-07-28T16:41:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:01:06.454248+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/article/apple-tops-5-trillion-market-cap-only-second-company-to-hit-the-milestone-134013795.html",
+   "baslik": "Apple tops $5 trillion market cap, only second company to hit the milestone",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/article/apple-tops-5-trillion-market-cap-only-second-company-to-hit-the-milestone-134013795.html",
+   "saat": "16:40",
+   "tarih_iso": "2026-07-28T16:40:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:01:06.454248+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/penny-stock-takeover-target-snap-131502836.html",
    "baslik": "From Penny Stock to Takeover Target: Who Will Snap Up QuantumScape?",
@@ -1467,56 +1543,6 @@
    "tarih_iso": "2026-07-28T11:31:35+03:00",
    "kodlar": [],
    "eklenme": "2026-07-28T12:01:20.212863+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-coats-stock-rallying-today-93CH-4815684",
-   "baslik": "Why is Coats stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-coats-stock-rallying-today-93CH-4815684",
-   "saat": "11:30",
-   "tarih_iso": "2026-07-28T11:30:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:01:20.212863+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html",
-   "baslik": "Stock market today: S&P 500, Nasdaq futures slide as chip sell-off deepens",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-082832371.html",
-   "saat": "11:28",
-   "tarih_iso": "2026-07-28T11:28:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T12:31:06.943634+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-safran-stock-surging-today-93CH-4815676",
-   "baslik": "Why is Safran stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-safran-stock-surging-today-93CH-4815676",
-   "saat": "11:26",
-   "tarih_iso": "2026-07-28T11:26:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:31:04.467755+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hexagon-composites-stock-surging-today-93CH-4815675",
-   "baslik": "Why is Hexagon Composites stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-hexagon-composites-stock-surging-today-93CH-4815675",
-   "saat": "11:25",
-   "tarih_iso": "2026-07-28T11:25:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:31:04.467755+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/japanese-tech-stocks-tumble-on-black-tuesday-asian-session-93CH-4815670",
-   "baslik": "Japanese tech stocks tumble on Black Tuesday Asian session",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/japanese-tech-stocks-tumble-on-black-tuesday-asian-session-93CH-4815670",
-   "saat": "11:22",
-   "tarih_iso": "2026-07-28T11:22:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T11:31:04.467755+03:00"
   }
  ],
  "altin_haber": [
@@ -1529,6 +1555,16 @@
    "tarih_iso": "2026-07-28T18:07:12+03:00",
    "kodlar": [],
    "eklenme": "2026-07-28T15:31:05.361725+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-gun-sonunda-geriledi-haberi-833985",
+   "baslik": "Altının kilogram fiyatı gün sonunda geriledi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-gun-sonunda-geriledi-haberi-833985",
+   "saat": "16:41",
+   "tarih_iso": "2026-07-28T16:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T17:01:06.454248+03:00"
   },
   {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-july-28-2026-gold-remains-below-4100-ahead-of-fed-meeting-114031587.html",
@@ -1671,5 +1707,5 @@
    "eklenme": "2026-07-28T09:01:22.873748+03:00"
   }
  ],
- "guncelleme": "2026-07-28T16:30:59.461184+03:00"
+ "guncelleme": "2026-07-28T17:01:06.454248+03:00"
 }
