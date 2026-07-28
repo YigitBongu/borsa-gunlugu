@@ -2,6 +2,19 @@
  "tarih": "2026-07-28",
  "kap": [
   {
+   "id": "kap-my-TOASO-202607281047",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TOASO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:47",
+   "tarih_iso": "2026-07-28T10:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-28T11:26:14.473947+03:00"
+  },
+  {
    "id": "kap-my-SKBNK-202607281027",
    "baslik": "BORSA İSTANBUL A.Ş. — Endekslerde Kullanılan Fiili Dolaşımdaki Pay Oranı Değişiklikleri",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -43,6 +56,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/finans/haberler/mia-teknoloji-miatk-sarj-ihalesini-kazandi-18-milyon-tl-gelir-bekliyor-haberi-833930",
+   "baslik": "MİA Teknoloji (MIATK) şarj ihalesini kazandı: 18 milyon TL gelir bekliyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/mia-teknoloji-miatk-sarj-ihalesini-kazandi-18-milyon-tl-gelir-bekliyor-haberi-833930",
+   "saat": "11:05",
+   "tarih_iso": "2026-07-28T11:05:00+03:00",
+   "kodlar": [
+    "MIATK"
+   ],
+   "eklenme": "2026-07-28T11:26:14.473947+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-maci-bugun-mu-yarin-mi-sampiyonlar-ligi-gornik-zabrze-fb-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-833922",
    "baslik": "Fenerbahçe maçı bugün mü, yarın mı? Şampiyonlar Ligi: Gornik Zabrze - FB maçı ne zaman, saat kaçta, hangi kanalda?",
    "kaynak": "Dünya",
@@ -56,6 +81,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-merkez-bankalari-pes-pese-faiz-kararlarini-aciklayacak/4011157",
+   "baslik": "Küresel merkez bankaları peş peşe faiz kararlarını açıklayacak",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-merkez-bankalari-pes-pese-faiz-kararlarini-aciklayacak/4011157",
+   "saat": "11:16",
+   "tarih_iso": "2026-07-28T11:16:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-28T11:26:14.473947+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/borsa/mia-teknoloji-airbusli-projeye-girdi-196-bin-euroluk-hibe-icin-imza-sureci-basladi-haberi-833923",
    "baslik": "MİA Teknoloji Airbus’lı projeye girdi: 196 bin Euro’luk hibe için imza süreci başladı",
@@ -601,6 +636,16 @@
    "eklenme": "2026-07-28T09:31:04.538489+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-fed-decision-and-middle-east-diplomacy-to-drive-the-next-move-200684689",
+   "baslik": "Gold: Fed Decision and Middle East Diplomacy to Drive the Next Move",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-fed-decision-and-middle-east-diplomacy-to-drive-the-next-move-200684689",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-28T11:26:14.473947+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-tests-key-vc-pmi-support-as-cycle-dates-align-for-the-next-major-move-200684677",
    "baslik": "Gold Tests Key VC PMI Support as Cycle Dates Align for the Next Major Move",
    "kaynak": "Investing Emtia",
@@ -681,5 +726,5 @@
    "eklenme": "2026-07-28T09:01:22.873748+03:00"
   }
  ],
- "guncelleme": "2026-07-28T11:04:49.970625+03:00"
+ "guncelleme": "2026-07-28T11:26:14.473947+03:00"
 }
