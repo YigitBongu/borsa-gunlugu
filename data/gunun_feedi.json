@@ -2,6 +2,19 @@
  "tarih": "2026-07-29",
  "kap": [
   {
+   "id": "kap-my-GWIND-202607291525",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GWIND"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:25",
+   "tarih_iso": "2026-07-29T15:25:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-29T16:01:17.407004+03:00"
+  },
+  {
    "id": "kap-my-IZENR-202607291153",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -306,6 +319,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/jpmorgan-fedin-faiz-karar-senaryolarn-haritalad-4001651",
+   "baslik": "JPMorgan, Fed’in faiz kararı senaryolarını haritaladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/jpmorgan-fedin-faiz-karar-senaryolarn-haritalad-4001651",
+   "saat": "15:40",
+   "tarih_iso": "2026-07-29T15:40:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T16:01:17.407004+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/bu-sanstan-da-ote-8-senede-2-kez-1-milyon-dolar-kazandi-haberi-834122",
    "baslik": "Bu şanstan da öte! 8 senede 2 kez 1 milyon dolar kazandı",
    "kaynak": "Dünya",
@@ -527,6 +550,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-29-2026-prices-hold-steady-this-morning-amid-renewed-airstrikes-and-pending-rate-decision-125424129.html",
+   "baslik": "Silver prices today, Wednesday, July 29, 2026: Prices hold steady this morning amid renewed airstrikes and pending rate decision",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-wednesday-july-29-2026-prices-hold-steady-this-morning-amid-renewed-airstrikes-and-pending-rate-decision-125424129.html",
+   "saat": "15:54",
+   "tarih_iso": "2026-07-29T15:54:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T16:01:17.407004+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/boomers-buying-5-quality-high-124310091.html",
+   "baslik": "Boomers Are Buying 5 Quality High-Yield Stocks at Big Discounts Hand Over Fist",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/boomers-buying-5-quality-high-124310091.html",
+   "saat": "15:43",
+   "tarih_iso": "2026-07-29T15:43:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T16:01:17.407004+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-history-says-124000456.html",
+   "baslik": "If a Bear Market Is Coming, History Says This 1 Thing Is How Investors Can Still Win",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-history-says-124000456.html",
+   "saat": "15:40",
+   "tarih_iso": "2026-07-29T15:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T16:01:17.407004+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-29-2026-gold-prices-hold-firm-ahead-of-fed-rate-decision-123524051.html",
+   "baslik": "Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahead of Fed rate decision",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-29-2026-gold-prices-hold-firm-ahead-of-fed-rate-decision-123524051.html",
+   "saat": "15:35",
+   "tarih_iso": "2026-07-29T15:35:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T16:01:17.407004+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/next-ai-trade-fireside-chat-123130776.html",
+   "baslik": "The Next AI Trade: Fireside Chat with Noble Plains Uranium CEO Drew Zimmerman",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/next-ai-trade-fireside-chat-123130776.html",
+   "saat": "15:31",
+   "tarih_iso": "2026-07-29T15:31:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T16:01:17.407004+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-sk-hynix-stock/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Dow Falls As Iran Hostilities Spark Up Again; SK Hynix Slides On Earnings News (Live Coverage)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-decision-warsh-sk-hynix-stock/?src=A00220&yptr=yahoo",
+   "saat": "15:30",
+   "tarih_iso": "2026-07-29T15:30:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T16:01:17.407004+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/meta-stock-q2-2026-earnings-preview-big-tech/?src=A00220&yptr=yahoo",
+   "baslik": "Meta Earnings Preview: This Is The Number To Watch",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/meta-stock-q2-2026-earnings-preview-big-tech/?src=A00220&yptr=yahoo",
+   "saat": "15:29",
+   "tarih_iso": "2026-07-29T15:29:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T16:01:17.407004+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/ford-earnings-auto-industry-electric-vehicles-detroit-stock-market-sp-500/?src=A00220&yptr=yahoo",
+   "baslik": "Ford Stock Jumps On Upgrade, Earnings Beat; Are Its EV Woes In The Rear View Mirror?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/ford-earnings-auto-industry-electric-vehicles-detroit-stock-market-sp-500/?src=A00220&yptr=yahoo",
+   "saat": "15:28",
+   "tarih_iso": "2026-07-29T15:28:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T16:01:17.407004+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/29/tim-cooks-last-earnings-call-comes-at-momentous-time-for-apple-.html",
    "baslik": "Tim Cook’s last earnings call comes at momentous time for Apple with stock at record",
@@ -1646,89 +1749,19 @@
    "tarih_iso": "2026-07-29T08:18:33+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1",
-   "baslik": "Tech rout roils markets after SK Hynix profits disappoint",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1",
-   "saat": "08:13",
-   "tarih_iso": "2026-07-29T08:13:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T09:01:11.956257+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/stanchart-firsthalf-profit-rises-9-4818556",
-   "baslik": "StanChart lifts income target after wealth boom powers earnings beat; shares jump",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/stanchart-firsthalf-profit-rises-9-4818556",
-   "saat": "08:12",
-   "tarih_iso": "2026-07-29T08:12:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T09:01:11.956257+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-reports-q2-net-profit-of-28-billion-beating-expectations-4818568",
-   "baslik": "UBS reports Q2 net profit of $2.8 billion, beating expectations",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ubs-reports-q2-net-profit-of-28-billion-beating-expectations-4818568",
-   "saat": "07:42",
-   "tarih_iso": "2026-07-29T07:42:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T09:01:11.956257+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-   "baslik": "Asian technology stocks extend sell-off with SoftBank down 10% as AI plays take a hit",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
-   "saat": "07:12",
-   "tarih_iso": "2026-07-29T07:12:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T09:01:11.956257+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-   "baslik": "SK Hynix shares tank as exponential earnings growth fails to satisfy AI-charged expectations",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/29/sk-hynix-earnings-profit-revenue-hbm-memory.html",
-   "saat": "07:10",
-   "tarih_iso": "2026-07-29T07:10:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T09:01:11.956257+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/5ca782bd-5c4a-45f8-9a7a-5793d800321d?syn-25a6b1a6=1",
-   "baslik": "Ukraine adapts strikes on Russian energy industry to hit critical components",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/5ca782bd-5c4a-45f8-9a7a-5793d800321d?syn-25a6b1a6=1",
-   "saat": "07:00",
-   "tarih_iso": "2026-07-29T07:00:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T09:01:11.956257+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories",
-   "baslik": "Saudi Arabia has a new, and pricier, workaround to export its oil",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories",
-   "saat": "04:28",
-   "tarih_iso": "2026-07-29T04:28:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T09:01:11.956257+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/seagates-earnings-are-welcome-news-for-the-battered-ai-trade-92dfc30f?mod=mw_rss_topstories",
-   "baslik": "Seagate’s earnings are welcome news for the battered AI trade",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/seagates-earnings-are-welcome-news-for-the-battered-ai-trade-92dfc30f?mod=mw_rss_topstories",
-   "saat": "03:21",
-   "tarih_iso": "2026-07-29T03:21:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-29-2026-gold-prices-hold-firm-ahead-of-fed-rate-decision-123524051.html",
+   "baslik": "Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahead of Fed rate decision",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-29-2026-gold-prices-hold-firm-ahead-of-fed-rate-decision-123524051.html",
+   "saat": "15:35",
+   "tarih_iso": "2026-07-29T15:35:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T16:01:17.407004+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-fed-to-lead-the-way-200684796",
    "baslik": "Gold: Fed to Lead the Way",
@@ -1880,5 +1913,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-29T15:31:04.109404+03:00"
+ "guncelleme": "2026-07-29T16:01:17.407004+03:00"
 }
