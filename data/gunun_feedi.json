@@ -2,6 +2,45 @@
  "tarih": "2026-07-29",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202607291749",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "17:49",
+   "tarih_iso": "2026-07-29T17:49:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-29T18:27:55.359337+03:00"
+  },
+  {
+   "id": "kap-my-AKSEN-202607291746",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "AKSEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:46",
+   "tarih_iso": "2026-07-29T17:46:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-29T18:27:55.359337+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202607291746",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:46",
+   "tarih_iso": "2026-07-29T17:46:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-29T18:27:55.359337+03:00"
+  },
+  {
    "id": "kap-my-GWIND-202607291525",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -584,6 +623,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/microsoft-faces-ai-spending-test-151300052.html",
+   "baslik": "Microsoft faces AI spending test in tonight's earnings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-faces-ai-spending-test-151300052.html",
+   "saat": "18:13",
+   "tarih_iso": "2026-07-29T18:13:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T18:27:55.359337+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/small-business/articles/church-texas-chicken-secures-investment-151234603.html",
+   "baslik": "Church’s Texas Chicken secures investment to support growth plans",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/small-business/articles/church-texas-chicken-secures-investment-151234603.html",
+   "saat": "18:12",
+   "tarih_iso": "2026-07-29T18:12:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T18:27:55.359337+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/corning-glw-crashed-20-despite-151127643.html",
+   "baslik": "Corning (GLW) Crashed 20% Despite 32% Optical Growth. Should Coherent (COHR) Investors Worry?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-crashed-20-despite-151127643.html",
+   "saat": "18:11",
+   "tarih_iso": "2026-07-29T18:11:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T18:27:55.359337+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/sp-500-stock-gehc-humana-q2-earnings/?src=A00220&yptr=yahoo",
+   "baslik": "S&P 500 Stocks: GEHC Revives, Humana Fades On Earnings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/sp-500-stock-gehc-humana-q2-earnings/?src=A00220&yptr=yahoo",
+   "saat": "18:05",
+   "tarih_iso": "2026-07-29T18:05:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T18:27:55.359337+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/moderna-stock-doubled-2026-wall-150503154.html",
+   "baslik": "Moderna Stock Has Doubled in 2026, But Wall Street Still Isn’t Convinced",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/moderna-stock-doubled-2026-wall-150503154.html",
+   "saat": "18:05",
+   "tarih_iso": "2026-07-29T18:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T18:27:55.359337+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/sofi-sinks-10-record-q2-144846345.html",
    "baslik": "SoFi Sinks 10% as Record Q2 Revenue Beat Meets Unchanged Profit Guidance",
@@ -1733,59 +1822,19 @@
    "tarih_iso": "2026-07-29T13:15:25+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T13:31:02.049565+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/bunge-beats-secondquarter-profit-estimates-4819239",
-   "baslik": "Bunge beats second-quarter profit estimates",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/bunge-beats-secondquarter-profit-estimates-4819239",
-   "saat": "13:12",
-   "tarih_iso": "2026-07-29T13:12:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T13:31:02.049565+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/humana-beats-quarterly-profit-estimates-101209208.html",
-   "baslik": "Humana beats quarterly profit estimates as medical costs stay in line",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/humana-beats-quarterly-profit-estimates-101209208.html",
-   "saat": "13:12",
-   "tarih_iso": "2026-07-29T13:12:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T13:31:02.049565+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/palantir-still-millionaire-maker-stock-100500715.html",
-   "baslik": "Is Palantir Still a Millionaire-Maker Stock?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-still-millionaire-maker-stock-100500715.html",
-   "saat": "13:05",
-   "tarih_iso": "2026-07-29T13:05:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T13:31:02.049565+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/options/articles/microsoft-set-190-billion-market-100417288.html",
-   "baslik": "Microsoft set for $190 billion market value swing after earnings results, options indicate",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/options/articles/microsoft-set-190-billion-market-100417288.html",
-   "saat": "13:04",
-   "tarih_iso": "2026-07-29T13:04:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T13:31:02.049565+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hostelworld-group-h1-earnings-call-100311631.html",
-   "baslik": "Hostelworld Group H1 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hostelworld-group-h1-earnings-call-100311631.html",
-   "saat": "13:03",
-   "tarih_iso": "2026-07-29T13:03:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T13:31:02.049565+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/altn-madenciligi-hisseleri-kulce-fiyatlaryla-dustu-93CH-4002128",
+   "baslik": "Altın madenciliği hisseleri külçe fiyatlarıyla düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-madenciligi-hisseleri-kulce-fiyatlaryla-dustu-93CH-4002128",
+   "saat": "18:02",
+   "tarih_iso": "2026-07-29T18:02:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T18:27:55.359337+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-july-29-2026-gold-prices-hold-firm-ahead-of-fed-rate-decision-123524051.html",
    "baslik": "Gold prices today, Wednesday, July 29, 2026: Gold prices hold firm ahead of Fed rate decision",
@@ -1947,5 +1996,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-29T18:01:12.739043+03:00"
+ "guncelleme": "2026-07-29T18:27:55.359337+03:00"
 }
