@@ -389,6 +389,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altinda-fed-baskisi-buyudu-dev-banka-yil-sonu-hedefini-degistirdi-galeri-834052",
+   "baslik": "Altında Fed baskısı büyüdü, dev banka yıl sonu hedefini değiştirdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altinda-fed-baskisi-buyudu-dev-banka-yil-sonu-hedefini-degistirdi-galeri-834052",
+   "saat": "06:00",
+   "tarih_iso": "2026-07-29T06:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T06:01:15.587445+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/wall-street-vadeli-islemleri-fed-karar-ve-dev-sirket-bilancolar-oncesi-geriledi-4000220",
    "baslik": "Wall Street vadeli işlemleri Fed kararı ve dev şirket bilançoları öncesi geriledi",
    "kaynak": "Investing TR",
@@ -600,6 +610,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+   "baslik": "Asian technology stocks extend sell-off with SoftBank down 7% as AI plays take a hit",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/29/chip-selloff-sk-hynix-samsung-softbank.html",
+   "saat": "05:44",
+   "tarih_iso": "2026-07-29T05:44:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T06:01:15.587445+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-tick-down-as-markets-eye-fed-decision-megacap-earnings-usiran-4818517",
    "baslik": "Wall St futures tick down as markets eye Fed decision, megacap earnings, U.S.-Iran",
@@ -1789,19 +1809,19 @@
    "tarih_iso": "2026-07-28T18:55:12+03:00",
    "kodlar": [],
    "eklenme": "2026-07-28T19:57:31.719006+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
-   "baslik": "Meta likely to highlight smart glasses, avoid social media policy on upcoming earnings call, Kalshi traders say",
-   "kaynak": "CNBC Finans",
-   "link": "https://www.cnbc.com/2026/07/28/meta-q2-earnings-call-mentions-kalshi-market-odds-.html",
-   "saat": "18:47",
-   "tarih_iso": "2026-07-28T18:47:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T19:01:06.445501+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/ekonomi/trump-kuzey-amerika-ticaret-anlasmasini-gozden-cikardi-haberi-834045",
+   "baslik": "Trump Kuzey Amerika ticaret anlaşmasını gözden çıkardı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/trump-kuzey-amerika-ticaret-anlasmasini-gozden-cikardi-haberi-834045",
+   "saat": "05:47",
+   "tarih_iso": "2026-07-29T05:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T06:01:15.587445+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/gozler-altinda-dusus-surecek-mi-3447772",
    "baslik": "Gözler altında... Düşüş sürecek mi?",
@@ -2003,5 +2023,5 @@
    "eklenme": "2026-07-28T09:01:22.873748+03:00"
   }
  ],
- "guncelleme": "2026-07-29T05:30:59.401993+03:00"
+ "guncelleme": "2026-07-29T06:01:15.587445+03:00"
 }
