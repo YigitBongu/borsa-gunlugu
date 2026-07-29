@@ -2,6 +2,19 @@
  "tarih": "2026-07-29",
  "kap": [
   {
+   "id": "kap-my-SMRTG-202607291112",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:12",
+   "tarih_iso": "2026-07-29T11:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-29T12:01:10.269090+03:00"
+  },
+  {
    "id": "kap-my-AKSEN-202607291051",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -133,6 +146,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/kultur-sanat/turk-telekom-prime-acik-hava-sinemasi-dort-sehirde-perdelerini-aciyor-haberi-834099",
+   "baslik": "Türk Telekom Prime Açık Hava Sineması dört şehirde perdelerini açıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/kultur-sanat/turk-telekom-prime-acik-hava-sinemasi-dort-sehirde-perdelerini-aciyor-haberi-834099",
+   "saat": "11:42",
+   "tarih_iso": "2026-07-29T11:42:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-07-29T12:01:10.269090+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkiye-ile-nijerya-denizcilikte-ortak-uretime-yoneliyor/4012266",
    "baslik": "Türkiye ile Nijerya denizcilikte ortak üretime yöneliyor",
@@ -423,6 +448,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-auto1-stock-tumbling-today-93CH-4818912",
+   "baslik": "Why is Auto1 stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-auto1-stock-tumbling-today-93CH-4818912",
+   "saat": "11:49",
+   "tarih_iso": "2026-07-29T11:49:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:01:10.269090+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-swissquote-stock-surging-today-93CH-4818907",
+   "baslik": "Why is Swissquote stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-swissquote-stock-surging-today-93CH-4818907",
+   "saat": "11:44",
+   "tarih_iso": "2026-07-29T11:44:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:01:10.269090+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-flags-3-billion-in-new-buybacks-by-endjune-after-forecastbeating-quarter-4818594",
+   "baslik": "UBS posts forecast-beating quarterly profit, flags $3 billion in new buybacks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-flags-3-billion-in-new-buybacks-by-endjune-after-forecastbeating-quarter-4818594",
+   "saat": "11:43",
+   "tarih_iso": "2026-07-29T11:43:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:01:10.269090+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-endesa-stock-rallying-today-93CH-4818889",
+   "baslik": "Why is Endesa stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-endesa-stock-rallying-today-93CH-4818889",
+   "saat": "11:39",
+   "tarih_iso": "2026-07-29T11:39:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:01:10.269090+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bureau-veritas-stock-rising-sharply-today-93CH-4818888",
+   "baslik": "Why is Bureau Veritas stock rising sharply today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bureau-veritas-stock-rising-sharply-today-93CH-4818888",
+   "saat": "11:39",
+   "tarih_iso": "2026-07-29T11:39:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:01:10.269090+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nexi-stock-climbing-today-93CH-4818887",
+   "baslik": "Why is Nexi stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nexi-stock-climbing-today-93CH-4818887",
+   "saat": "11:37",
+   "tarih_iso": "2026-07-29T11:37:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:01:10.269090+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-elia-stock-sliding-today-93CH-4818877",
+   "baslik": "Why is Elia stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-elia-stock-sliding-today-93CH-4818877",
+   "saat": "11:33",
+   "tarih_iso": "2026-07-29T11:33:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:01:10.269090+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nexans-stock-surging-today-93CH-4818876",
+   "baslik": "Why is Nexans stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nexans-stock-surging-today-93CH-4818876",
+   "saat": "11:33",
+   "tarih_iso": "2026-07-29T11:33:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:01:10.269090+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-costar-stock-tumbling-today-93CH-4818874",
+   "baslik": "Why is CoStar stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-costar-stock-tumbling-today-93CH-4818874",
+   "saat": "11:32",
+   "tarih_iso": "2026-07-29T11:32:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:01:10.269090+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-087-4818871",
    "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.87%",
@@ -1066,5 +1181,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-29T11:33:24.409316+03:00"
+ "guncelleme": "2026-07-29T12:01:10.269090+03:00"
 }
