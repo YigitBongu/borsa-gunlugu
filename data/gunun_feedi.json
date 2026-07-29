@@ -2,6 +2,45 @@
  "tarih": "2026-07-29",
  "kap": [
   {
+   "id": "kap-my-TSKB-202607291908",
+   "baslik": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş. — Banka Finansal Rapor",
+   "sirket": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.",
+   "kodlar": [
+    "TSKB"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:08",
+   "tarih_iso": "2026-07-29T19:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "kap-my-TSKB-202607291907",
+   "baslik": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş. — Banka Finansal Rapor",
+   "sirket": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.",
+   "kodlar": [
+    "TSKB"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:07",
+   "tarih_iso": "2026-07-29T19:07:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "kap-my-SKBNK-202607291903",
+   "baslik": "ŞEKERBANK T.A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "ŞEKERBANK T.A.Ş.",
+   "kodlar": [
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:03",
+   "tarih_iso": "2026-07-29T19:03:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202607291749",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -212,6 +251,66 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/tffden-tur-atlayan-fenerbahceye-kutlama-haberi-834191",
+   "baslik": "TFF'den tur atlayan Fenerbahçe'ye kutlama",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/tffden-tur-atlayan-fenerbahceye-kutlama-haberi-834191",
+   "saat": "23:44",
+   "tarih_iso": "2026-07-29T23:44:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-gornik-zabrze-ile-berabere-kalarak-bir-ust-tura-gecti-haberi-834188",
+   "baslik": "Fenerbahçe Gornik Zabrze ile berabere kalarak bir üst tura geçti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-gornik-zabrze-ile-berabere-kalarak-bir-ust-tura-gecti-haberi-834188",
+   "saat": "23:02",
+   "tarih_iso": "2026-07-29T23:02:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tofastan-yilin-ilk-yarisinda-6-3-milyar-lira-konsolide-net-kar/4013115",
+   "baslik": "TOFAŞ'tan yılın ilk yarısında 6,3 milyar lira konsolide net kar",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tofastan-yilin-ilk-yarisinda-6-3-milyar-lira-konsolide-net-kar/4013115",
+   "saat": "21:36",
+   "tarih_iso": "2026-07-29T21:36:59+03:00",
+   "kodlar": [
+    "TOASO"
+   ],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/gornik-zabrze-fenerbahce-macinin-ilk-11leri-aciklandi-haberi-834174",
+   "baslik": "Gornik Zabrze-Fenerbahçe maçının ilk 11'leri açıklandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/gornik-zabrze-fenerbahce-macinin-ilk-11leri-aciklandi-haberi-834174",
+   "saat": "19:53",
+   "tarih_iso": "2026-07-29T19:53:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tgsden-haftalik-ucus-ve-yolcu-rekoru-haberi-834170",
+   "baslik": "TGS'den haftalık uçuş ve yolcu rekoru",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tgsden-haftalik-ucus-ve-yolcu-rekoru-haberi-834170",
+   "saat": "19:26",
+   "tarih_iso": "2026-07-29T19:26:00+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-29-temmuz-2026/4012702",
    "baslik": "60 saniyede ekonomide bugün (29 Temmuz 2026)",
    "kaynak": "AA Ekonomi",
@@ -381,6 +480,106 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/son-dakika-piyasalarin-gozu-bu-haberdeydi-fed-faiz-karari-belli-oldu-3448170",
+   "baslik": "SON DAKİKA | Piyasaların gözü bu haberdeydi! Fed faiz kararı belli oldu",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/son-dakika-piyasalarin-gozu-bu-haberdeydi-fed-faiz-karari-belli-oldu-3448170",
+   "saat": "00:17",
+   "tarih_iso": "2026-07-30T00:17:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/selva-demiralpten-fed-degerlendirmesi-ikili-hedef-vurgusu-haberi-834189",
+   "baslik": "Selva Demiralp'ten Fed değerlendirmesi: İkili hedef vurgusu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/selva-demiralpten-fed-degerlendirmesi-ikili-hedef-vurgusu-haberi-834189",
+   "saat": "22:54",
+   "tarih_iso": "2026-07-29T22:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hakan-karadan-fed-mesaji-10-yil-sonra-ayni-sinyal-geldi-haberi-834184",
+   "baslik": "Hakan Kara'dan Fed mesajı: 10 yıl sonra aynı sinyal geldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hakan-karadan-fed-mesaji-10-yil-sonra-ayni-sinyal-geldi-haberi-834184",
+   "saat": "22:18",
+   "tarih_iso": "2026-07-29T22:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/son-dakika-fed-faiz-kararini-acikladi-3902011-ekonomi",
+   "baslik": "Fed faiz kararını açıkladı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/son-dakika-fed-faiz-kararini-acikladi-3902011-ekonomi",
+   "saat": "22:09",
+   "tarih_iso": "2026-07-29T22:09:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.ntv.com.tr/ekonomi/fed-faizi-sabit-tuttu-1735157",
+   "baslik": "Fed faizi sabit tuttu",
+   "kaynak": "NTV Ekonomi",
+   "link": "https://www.ntv.com.tr/ekonomi/fed-faizi-sabit-tuttu-1735157",
+   "saat": "21:22",
+   "tarih_iso": "2026-07-29T21:22:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fed-faiz-oranini-sabit-tuttu/4013092",
+   "baslik": "Fed faiz oranını sabit tuttu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-faiz-oranini-sabit-tuttu/4013092",
+   "saat": "21:02",
+   "tarih_iso": "2026-07-29T21:02:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/son-dakika-fed-kritik-faiz-kararini-acikladi-kuresel-piyasalar-karari-bekliyordu-haberi-834178",
+   "baslik": "Son dakika: Fed kritik faiz kararını açıkladı: Küresel piyasalar kararı bekliyordu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/son-dakika-fed-kritik-faiz-kararini-acikladi-kuresel-piyasalar-karari-bekliyordu-haberi-834178",
+   "saat": "21:00",
+   "tarih_iso": "2026-07-29T21:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/gundem/erdogan-terorun-turkiyeye-faturasi-23-trilyon-dolar-yasal-duzenleme-meclise-geliyor-haberi-834173",
+   "baslik": "Erdoğan: Terörün Türkiye'ye faturası 2.3 trilyon dolar, yasal düzenleme Meclis'e geliyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/erdogan-terorun-turkiyeye-faturasi-23-trilyon-dolar-yasal-duzenleme-meclise-geliyor-haberi-834173",
+   "saat": "19:46",
+   "tarih_iso": "2026-07-29T19:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-suriye-merkez-bankasi-ile-anlasma-imzaladi-haberi-834169",
+   "baslik": "TCMB, Suriye Merkez Bankası ile anlaşma imzaladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-suriye-merkez-bankasi-ile-anlasma-imzaladi-haberi-834169",
+   "saat": "19:21",
+   "tarih_iso": "2026-07-29T19:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-ile-suriye-merkez-bankasi-arasinda-turk-lirasi-mevduat-hesabi-anlasmasi-imzalandi/4012880",
+   "baslik": "TCMB ile Suriye Merkez Bankası arasında \"Türk Lirası Mevduat Hesabı Anlaşması\" imzalandı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-ile-suriye-merkez-bankasi-arasinda-turk-lirasi-mevduat-hesabi-anlasmasi-imzalandi/4012880",
+   "saat": "19:07",
+   "tarih_iso": "2026-07-29T19:07:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/jpmorgan-hazine-tahvil-sats-rehberini-erteleyebilir-93CH-4001933",
    "baslik": "JPMorgan: Hazine tahvil satış rehberini erteleyebilir",
@@ -623,6 +822,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-teladoc-stock-plunging-today-93CH-4821774",
+   "baslik": "Why is Teladoc stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-teladoc-stock-plunging-today-93CH-4821774",
+   "saat": "23:51",
+   "tarih_iso": "2026-07-29T23:51:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fortinet-stock-surging-today-93CH-4821762",
+   "baslik": "Why is Fortinet stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-fortinet-stock-surging-today-93CH-4821762",
+   "saat": "23:45",
+   "tarih_iso": "2026-07-29T23:45:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/robinhood-puts-up-record-revenue-as-volatility-drives-a-trading-bonanza-8e0729c1?mod=mw_rss_topstories",
+   "baslik": "Robinhood puts up record revenue as volatility drives a trading bonanza",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/robinhood-puts-up-record-revenue-as-volatility-drives-a-trading-bonanza-8e0729c1?mod=mw_rss_topstories",
+   "saat": "23:43",
+   "tarih_iso": "2026-07-29T23:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-carvana-stock-tumbling-today-93CH-4821743",
+   "baslik": "Why is Carvana stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-carvana-stock-tumbling-today-93CH-4821743",
+   "saat": "23:43",
+   "tarih_iso": "2026-07-29T23:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+   "baslik": "Here are the five big takeaways from this week's Fed meeting",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/29/here-are-the-five-big-takeaways-from-this-weeks-fed-meeting.html",
+   "saat": "23:42",
+   "tarih_iso": "2026-07-29T23:42:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/l3harris-beats-quarterly-revenue-estimates-on-strong-weapons-demand-4821740",
+   "baslik": "L3Harris beats quarterly revenue estimates on strong weapons demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/l3harris-beats-quarterly-revenue-estimates-on-strong-weapons-demand-4821740",
+   "saat": "23:42",
+   "tarih_iso": "2026-07-29T23:42:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-chipotle-mexican-grill-stock-surging-today-93CH-4821739",
+   "baslik": "Why is Chipotle Mexican Grill stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-chipotle-mexican-grill-stock-surging-today-93CH-4821739",
+   "saat": "23:40",
+   "tarih_iso": "2026-07-29T23:40:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-starbucks-stock-surging-today-93CH-4821734",
+   "baslik": "Why is Starbucks stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-starbucks-stock-surging-today-93CH-4821734",
+   "saat": "23:38",
+   "tarih_iso": "2026-07-29T23:38:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/looking-for-a-second-home-sellers-in-these-markets-could-be-ready-to-make-a-deal-b8d85b34?mod=mw_rss_topstories",
+   "baslik": "Looking for a second home? Sellers in these markets could be ready to make a deal.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/looking-for-a-second-home-sellers-in-these-markets-could-be-ready-to-make-a-deal-b8d85b34?mod=mw_rss_topstories",
+   "saat": "23:38",
+   "tarih_iso": "2026-07-29T23:38:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/29/meta-q2-earnings-report-2026.html",
    "baslik": "Meta's stock drops on light revenue guidance, dwindling free cash flow",
@@ -1732,99 +2021,29 @@
    "tarih_iso": "2026-07-29T17:48:46+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T18:01:12.739043+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/private-markets-roundup-cais-allocate-144533300.html",
-   "baslik": "Private Markets Roundup: CAIS, Allocate, Arch Make Moves",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/private-markets-roundup-cais-allocate-144533300.html",
-   "saat": "17:45",
-   "tarih_iso": "2026-07-29T17:45:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T18:01:12.739043+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/bloom-energy-earnings-be-stock-q2-ai-infrastructure-winner/?src=A00220&yptr=yahoo",
-   "baslik": "Bloom Energy Earnings Surge 680%, But AI Power Player Wavers",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/bloom-energy-earnings-be-stock-q2-ai-infrastructure-winner/?src=A00220&yptr=yahoo",
-   "saat": "17:44",
-   "tarih_iso": "2026-07-29T17:44:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T18:01:12.739043+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/article/sofi-is-revving-up-consumer-lending-investors-are-tapping-the-breaks-144223166.html",
-   "baslik": "SoFi is revving up consumer lending. Investors are tapping the breaks.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/sofi-is-revving-up-consumer-lending-investors-are-tapping-the-breaks-144223166.html",
-   "saat": "17:42",
-   "tarih_iso": "2026-07-29T17:42:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T18:01:12.739043+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/technology/skhy-stock-sk-hynix-q2-2026-earnings/?src=A00220&yptr=yahoo",
-   "baslik": "Nvidia Partner SK Hynix Misses Q2 Sales Target But Profit Surprises",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/technology/skhy-stock-sk-hynix-q2-2026-earnings/?src=A00220&yptr=yahoo",
-   "saat": "17:37",
-   "tarih_iso": "2026-07-29T17:37:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T18:01:12.739043+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/article/semiconductor-stocks-are-going-up-in-smoke-but-the-sp-500-is-holding-strong-143223884.html",
-   "baslik": "Semiconductor stocks are going up in smoke. But the S&P 500 is holding strong.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/semiconductor-stocks-are-going-up-in-smoke-but-the-sp-500-is-holding-strong-143223884.html",
-   "saat": "17:32",
-   "tarih_iso": "2026-07-29T17:32:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T18:01:12.739043+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/exxon-mobil-xom-president-trump-142914070.html",
-   "baslik": "Exxon Mobil (XOM): President Trump’s Top Energy Stock Pick?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/exxon-mobil-xom-president-trump-142914070.html",
-   "saat": "17:29",
-   "tarih_iso": "2026-07-29T17:29:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T18:01:12.739043+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/media-advertising/articles/reddit-self-ad-push-could-142838993.html",
-   "baslik": "Reddit’s Self-Service Ad Push Could Matter More Than Its Headline Growth Numbers",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/media-advertising/articles/reddit-self-ad-push-could-142838993.html",
-   "saat": "17:28",
-   "tarih_iso": "2026-07-29T17:28:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T18:01:12.739043+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-devon-energy-stock-rallying-today-93CH-4820800",
-   "baslik": "Why is Devon Energy stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-devon-energy-stock-rallying-today-93CH-4820800",
-   "saat": "17:27",
-   "tarih_iso": "2026-07-29T17:27:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T17:31:05.239433+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/verizon-vz-earnings-cheap-stock-142535968.html",
-   "baslik": "Verizon (VZ) After Earnings: Cheap Stock or Value Trap?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-vz-earnings-cheap-stock-142535968.html",
-   "saat": "17:25",
-   "tarih_iso": "2026-07-29T17:25:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T18:01:12.739043+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/golds-bearish-moving-average-stack-caps-every-recovery-attempt-200684833",
+   "baslik": "Gold’s Bearish Moving Average Stack Caps Every Recovery Attempt",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-bearish-moving-average-stack-caps-every-recovery-attempt-200684833",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/tsx-futures-build-on-record-high-as-3-crude-spike-boosts-heavy-energy-weight-4819164",
+   "baslik": "TSX tumbles from record high as banks, Allied Gold drag index lower",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-build-on-record-high-as-3-crude-spike-boosts-heavy-energy-weight-4819164",
+   "saat": "23:46",
+   "tarih_iso": "2026-07-29T23:46:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T00:01:10.365809+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-ahead-of-the-fomc-hold-steady-or-hint-at-a-september-rate-hike-200684809",
    "baslik": "Gold Ahead of the FOMC: Hold Steady or Hint at a September Rate Hike?",
@@ -2036,5 +2255,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-29T23:31:07.751767+03:00"
+ "guncelleme": "2026-07-30T00:01:10.365809+03:00"
 }
