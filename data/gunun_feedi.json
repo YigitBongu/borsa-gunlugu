@@ -2,6 +2,19 @@
  "tarih": "2026-07-29",
  "kap": [
   {
+   "id": "kap-my-YEOTK-202607290855",
+   "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:55",
+   "tarih_iso": "2026-07-29T08:55:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-29T09:31:05.096122+03:00"
+  },
+  {
    "id": "kap-my-BIMAS-202607281932",
    "baslik": "BİM BİRLEŞİK MAĞAZALAR A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
    "sirket": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
@@ -69,6 +82,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/finans/haberler/yeo-teknolojiden-cadda-dijitallestirme-sozlesmesi-haberi-834071",
+   "baslik": "YEO Teknoloji'den Çad’da dijitalleştirme sözleşmesi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/yeo-teknolojiden-cadda-dijitallestirme-sozlesmesi-haberi-834071",
+   "saat": "09:12",
+   "tarih_iso": "2026-07-29T09:12:00+03:00",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "eklenme": "2026-07-29T09:31:05.096122+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tav-havalimanlari-2026nin-ilk-yarisinda-867-3-milyon-avro-konsolide-ciro-elde-etti/4011905",
    "baslik": "TAV Havalimanları 2026'nın ilk yarısında 867,3 milyon avro konsolide ciro elde etti",
    "kaynak": "AA Ekonomi",
@@ -91,6 +116,16 @@
    "tarih_iso": "2026-07-29T11:41:51+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararina-cevrildi/4012106",
+   "baslik": "Küresel piyasalarda gözler Fed'in faiz kararına çevrildi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararina-cevrildi/4012106",
+   "saat": "09:02",
+   "tarih_iso": "2026-07-29T09:02:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T09:31:05.096122+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/finans/kripto-para/bitcoinde-fed-baskisi-teknoloji-hisselerindeki-satis-kripto-piyasasini-da-vurdu-haberi-834064",
@@ -164,6 +199,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/analysts-react-to-steep-rout-in-south-korea-stocks-4818632",
+   "baslik": "Analysts react to steep rout in South Korea stocks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/analysts-react-to-steep-rout-in-south-korea-stocks-4818632",
+   "saat": "09:13",
+   "tarih_iso": "2026-07-29T09:13:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T09:31:05.096122+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-465-4818623",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 4.65%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-465-4818623",
+   "saat": "09:05",
+   "tarih_iso": "2026-07-29T09:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T09:31:05.096122+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
    "baslik": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
@@ -517,5 +572,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-29T09:01:11.956257+03:00"
+ "guncelleme": "2026-07-29T09:31:05.096122+03:00"
 }
