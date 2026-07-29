@@ -251,6 +251,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/kartal-turu-gectik-dersler-cikaracagiz-haberi-834196",
+   "baslik": "Kartal: Turu geçtik, dersler çıkaracağız",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/kartal-turu-gectik-dersler-cikaracagiz-haberi-834196",
+   "saat": "00:43",
+   "tarih_iso": "2026-07-30T00:43:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-30T01:01:10.490963+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/tffden-tur-atlayan-fenerbahceye-kutlama-haberi-834191",
    "baslik": "TFF'den tur atlayan Fenerbahçe'ye kutlama",
    "kaynak": "Dünya",
@@ -480,6 +492,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.haberturk.com/fed-baskani-warsh-tan-enflasyon-hedefi-aciklamasi-3902042-ekonomi",
+   "baslik": "Fed Başkanı Warsh'tan 'enflasyon hedefi' açıklaması",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/fed-baskani-warsh-tan-enflasyon-hedefi-aciklamasi-3902042-ekonomi",
+   "saat": "00:38",
+   "tarih_iso": "2026-07-30T00:38:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T01:01:10.490963+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/new-york-borsasinda-fed-depremi-haberi-834195",
+   "baslik": "New York borsasında Fed depremi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/new-york-borsasinda-fed-depremi-haberi-834195",
+   "saat": "00:35",
+   "tarih_iso": "2026-07-30T00:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T01:01:10.490963+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/tcmb-ile-suriye-merkez-bankasi-arasinda-anlasma-3902038-ekonomi",
+   "baslik": "TCMB ile Suriye Merkez Bankası arasında anlaşma",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/tcmb-ile-suriye-merkez-bankasi-arasinda-anlasma-3902038-ekonomi",
+   "saat": "00:25",
+   "tarih_iso": "2026-07-30T00:25:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T01:01:10.490963+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/son-dakika-piyasalarin-gozu-bu-haberdeydi-fed-faiz-karari-belli-oldu-3448170",
    "baslik": "SON DAKİKA | Piyasaların gözü bu haberdeydi! Fed faiz kararı belli oldu",
@@ -832,6 +874,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories",
+   "baslik": "Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories",
+   "saat": "00:56",
+   "tarih_iso": "2026-07-30T00:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T01:01:10.490963+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/five9-stock-jumps-on-sp-smallcap-600-index-inclusion-93CH-4821913",
+   "baslik": "Five9 stock jumps on S&P SmallCap 600 index inclusion",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/five9-stock-jumps-on-sp-smallcap-600-index-inclusion-93CH-4821913",
+   "saat": "00:49",
+   "tarih_iso": "2026-07-30T00:49:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T01:01:10.490963+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+   "baslik": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+   "kaynak": "CNBC Finans",
+   "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+   "saat": "00:43",
+   "tarih_iso": "2026-07-30T00:43:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T01:01:10.490963+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-123-4821871",
+   "baslik": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.23%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-123-4821871",
+   "saat": "00:30",
+   "tarih_iso": "2026-07-30T00:30:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T01:01:10.490963+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-015-4821868",
+   "baslik": "Colombia stocks higher at close of trade; COLCAP up 0.15%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-015-4821868",
+   "saat": "00:30",
+   "tarih_iso": "2026-07-30T00:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T01:01:10.490963+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-206-4821852",
+   "baslik": "Russia stocks higher at close of trade; MOEX Russia Index up 2.06%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-206-4821852",
+   "saat": "00:20",
+   "tarih_iso": "2026-07-30T00:20:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T01:01:10.490963+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/bond-market-is-calling-warshs-bluff-on-inflation-fight-as-yields-surge-4700f9b5?mod=mw_rss_topstories",
    "baslik": "Bond market is calling Warsh’s bluff on inflation fight as yields surge",
@@ -1971,66 +2073,6 @@
    "tarih_iso": "2026-07-29T18:31:15+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T19:01:14.373850+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/southern-cross-acquisition-i-corp-raises-115m-in-nasdaq-ipo-432SI-4821086",
-   "baslik": "Southern Cross Acquisition I Corp. raises $115M in Nasdaq IPO",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/southern-cross-acquisition-i-corp-raises-115m-in-nasdaq-ipo-432SI-4821086",
-   "saat": "18:31",
-   "tarih_iso": "2026-07-29T18:31:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:01:14.373850+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-more-than-expected-ddf156a2?siteid=yhoof2&yptr=yahoo",
-   "baslik": "U.S. Crude Oil Stockpiles Fall More Than Expected",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/business/energy-oil/u-s-crude-oil-stockpiles-fall-more-than-expected-ddf156a2?siteid=yhoof2&yptr=yahoo",
-   "saat": "18:28",
-   "tarih_iso": "2026-07-29T18:28:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:01:14.373850+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/article/spacex-stock-back-under-pressure-as-q2-earnings-approach-152137218.html",
-   "baslik": "SpaceX stock back under pressure as Q2 earnings approach",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-back-under-pressure-as-q2-earnings-approach-152137218.html",
-   "saat": "18:21",
-   "tarih_iso": "2026-07-29T18:21:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:01:14.373850+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-buy-ahead-earnings-152057364.html",
-   "baslik": "Reddit (RDDT): A Buy Ahead Of Earnings, Or Is The Selloff Justified?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-buy-ahead-earnings-152057364.html",
-   "saat": "18:20",
-   "tarih_iso": "2026-07-29T18:20:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:01:14.373850+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/technology/meta-stock-losing-steak-facebook-zuckerberg-ai/?src=A00220&yptr=yahoo",
-   "baslik": "AI Fears Send Meta Stock To Record Losing Streak Ahead Of Earnings",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/technology/meta-stock-losing-steak-facebook-zuckerberg-ai/?src=A00220&yptr=yahoo",
-   "saat": "18:13",
-   "tarih_iso": "2026-07-29T18:13:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:01:14.373850+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/microsoft-faces-ai-spending-test-151300052.html",
-   "baslik": "Microsoft faces AI spending test in tonight's earnings",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-faces-ai-spending-test-151300052.html",
-   "saat": "18:13",
-   "tarih_iso": "2026-07-29T18:13:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T18:27:55.359337+03:00"
   }
  ],
  "altin_haber": [
@@ -2265,5 +2307,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-30T00:31:03.216058+03:00"
+ "guncelleme": "2026-07-30T01:01:10.490963+03:00"
 }
