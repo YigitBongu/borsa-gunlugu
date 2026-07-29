@@ -2,6 +2,32 @@
  "tarih": "2026-07-29",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202607291001",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "10:01",
+   "tarih_iso": "2026-07-29T10:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
+   "id": "kap-my-TUPRS-202607290953",
+   "baslik": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "09:53",
+   "tarih_iso": "2026-07-29T09:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
    "id": "kap-my-YEOTK-202607290855",
    "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Yeni İş İlişkisi",
    "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
@@ -82,6 +108,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/akbank-tan-ilk-yarida-343-milyar-tl-net-kr-3901835-ekonomi",
+   "baslik": "Akbank'tan ilk yarıda 34.3 milyar TL net kâr",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/akbank-tan-ilk-yarida-343-milyar-tl-net-kr-3901835-ekonomi",
+   "saat": "10:07",
+   "tarih_iso": "2026-07-29T10:07:47+03:00",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/azimut-yapi-kredi-portfoy-u-satin-aldi-3901830-ekonomi",
+   "baslik": "Azimut, Yapı Kredi Portföy'ü satın aldı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/azimut-yapi-kredi-portfoy-u-satin-aldi-3901830-ekonomi",
+   "saat": "09:56",
+   "tarih_iso": "2026-07-29T09:56:25+03:00",
+   "kodlar": [
+    "YKBNK"
+   ],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-gornik-zabrze-fb-maci-saati-haberi-834076",
    "baslik": "Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda? Gornik Zabrze - FB maçı saati...",
    "kaynak": "Dünya",
@@ -128,6 +178,56 @@
    "tarih_iso": "2026-07-29T11:41:51+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-odeme-ve-elektronik-para-kurulusu-hesap-sahipligi-sorgulama-hizmetini-gelistirdi/4012189",
+   "baslik": "TCMB \"Ödeme ve Elektronik Para Kuruluşu Hesap Sahipliği Sorgulama Hizmeti\"ni geliştirdi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-odeme-ve-elektronik-para-kurulusu-hesap-sahipligi-sorgulama-hizmetini-gelistirdi/4012189",
+   "saat": "10:14",
+   "tarih_iso": "2026-07-29T10:14:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/guclu-bilancolar-fed-endiselerini-dengeledi-avrupa-yukseldi-4000382",
+   "baslik": "Güçlü bilançolar Fed endişelerini dengeledi, Avrupa yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/guclu-bilancolar-fed-endiselerini-dengeledi-avrupa-yukseldi-4000382",
+   "saat": "10:12",
+   "tarih_iso": "2026-07-29T10:12:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-saat-kacta-aciklanacak-kevin-warsh-saat-kacta-aciklama-yapacak-haberi-834081",
+   "baslik": "Fed faiz kararı ne zaman, saat kaçta açıklanacak? Kevin Warsh saat kaçta açıklama yapacak?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-saat-kacta-aciklanacak-kevin-warsh-saat-kacta-aciklama-yapacak-haberi-834081",
+   "saat": "10:10",
+   "tarih_iso": "2026-07-29T10:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/borsa-gune-yatay-basladi-gozler-fedin-faiz-kararinda-haberi-834079",
+   "baslik": "Borsa güne yatay başladı, gözler Fed'in faiz kararında",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/borsa-gune-yatay-basladi-gozler-fedin-faiz-kararinda-haberi-834079",
+   "saat": "10:03",
+   "tarih_iso": "2026-07-29T10:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/gozler-fed-de-fed-faiz-kararini-ne-zaman-aciklayacak-piyasalar-ne-bekliyor-3901828-ekonomi",
+   "baslik": "Bugün gözler Fed'de",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/gozler-fed-de-fed-faiz-kararini-ne-zaman-aciklayacak-piyasalar-ne-bekliyor-3901828-ekonomi",
+   "saat": "10:01",
+   "tarih_iso": "2026-07-29T10:01:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/fed-oncesi-tansiyon-yukseldi-piyasalarin-korktugu-senaryo-masada-haberi-834078",
@@ -221,6 +321,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-rise-as-robust-earnings-offset-fed-ratehike-fears-4818614",
+   "baslik": "European stocks rise as robust earnings offset Fed rate-hike fears",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-rise-as-robust-earnings-offset-fed-ratehike-fears-4818614",
+   "saat": "10:13",
+   "tarih_iso": "2026-07-29T10:13:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/kerry-reports-volume-growth-above-estimates-in-first-half-93CH-4818723",
+   "baslik": "Kerry reports volume growth above estimates in first half",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/kerry-reports-volume-growth-above-estimates-in-first-half-93CH-4818723",
+   "saat": "10:05",
+   "tarih_iso": "2026-07-29T10:05:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/29/korea-leveraged-etf-kodex-sk-hynix.html",
+   "baslik": "Minister apologizes as Korean leveraged ETF investors nurse heavy losses amid chip stock rout",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/29/korea-leveraged-etf-kodex-sk-hynix.html",
+   "saat": "10:01",
+   "tarih_iso": "2026-07-29T10:01:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-103-4818708",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 1.03%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-103-4818708",
+   "saat": "10:00",
+   "tarih_iso": "2026-07-29T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-kospi-sinks-8-ai-jitters-iran-attacks-fuel-tech-rout-4818555",
    "baslik": "Asia stocks slide as KOSPI sinks 6%; AI rout, Middle East tensions weigh on market",
@@ -564,6 +704,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-fed-outlook-faces-fresh-test-as-usiran-conflict-reignites-200684775",
+   "baslik": "Gold: Fed Outlook Faces Fresh Test as US-Iran Conflict Reignites",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-fed-outlook-faces-fresh-test-as-usiran-conflict-reignites-200684775",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
+   "id": "alt-https://www.aa.com.tr/tr/ekonomi/kiymetli-madenlerin-dijital-ortama-aktarilmasi-ve-borsada-islem-gormesine-iliskin-esaslar-duzenlendi/4012178",
+   "baslik": "Kıymetli madenlerin dijital ortama aktarılması ve borsada işlem görmesine ilişkin esaslar düzenlendi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kiymetli-madenlerin-dijital-ortama-aktarilmasi-ve-borsada-islem-gormesine-iliskin-esaslar-duzenlendi/4012178",
+   "saat": "10:08",
+   "tarih_iso": "2026-07-29T10:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:31:09.804313+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-holds-key-support-ahead-of-fed-decision-200684768",
    "baslik": "Gold Holds Key Support Ahead of Fed Decision",
    "kaynak": "Investing Emtia",
@@ -634,5 +794,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-29T10:01:13.776840+03:00"
+ "guncelleme": "2026-07-29T10:31:09.804313+03:00"
 }
