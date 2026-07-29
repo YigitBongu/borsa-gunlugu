@@ -2,6 +2,19 @@
  "tarih": "2026-07-29",
  "kap": [
   {
+   "id": "kap-my-IZENR-202607291153",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "IZENR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:53",
+   "tarih_iso": "2026-07-29T11:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
+  {
    "id": "kap-my-SMRTG-202607291112",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -147,6 +160,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/azimut-yapi-kredi-portfoyu-bunyesine-katti-turkiyenin-en-buyuk-ozel-portfoy-yoneticisi-oldu-haberi-834104",
+   "baslik": "Azimut, Yapı Kredi Portföy'ü bünyesine kattı: Türkiye'nin en büyük özel portföy yöneticisi oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/azimut-yapi-kredi-portfoyu-bunyesine-katti-turkiyenin-en-buyuk-ozel-portfoy-yoneticisi-oldu-haberi-834104",
+   "saat": "12:05",
+   "tarih_iso": "2026-07-29T12:05:00+03:00",
+   "kodlar": [
+    "YKBNK"
+   ],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/kultur-sanat/turk-telekom-prime-acik-hava-sinemasi-dort-sehirde-perdelerini-aciyor-haberi-834099",
    "baslik": "Türk Telekom Prime Açık Hava Sineması dört şehirde perdelerini açıyor",
    "kaynak": "Dünya",
@@ -256,6 +281,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-albayrak-hazir-beton-sanayi-ve-ticaret-as-icin-caldi/4012352",
+   "baslik": "Borsa İstanbul'da gong Albayrak Hazır Beton Sanayi ve Ticaret AŞ için çaldı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-albayrak-hazir-beton-sanayi-ve-ticaret-as-icin-caldi/4012352",
+   "saat": "12:11",
+   "tarih_iso": "2026-07-29T12:11:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/fed-temmuz-faiz-karari-2026-fed-faiz-karari-ne-zaman-aciklanacak-faiz-indirimi-gelecek-mi-fed-faiz-karari-beklentisi-3447197",
    "baslik": "FED TEMMUZ FAİZ KARARI 2026: FED faiz kararı ne zaman açıklanacak, faiz indirimi gelecek mi? FED faiz kararı beklentisi",
@@ -449,6 +484,96 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ubs-stock-surging-today-93CH-4818989",
+   "baslik": "Why is UBS stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ubs-stock-surging-today-93CH-4818989",
+   "saat": "12:13",
+   "tarih_iso": "2026-07-29T12:13:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/redeia-stock-falls-despite-inline-firsthalf-results-93CH-4818966",
+   "baslik": "Redeia stock falls despite in-line first-half results",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/redeia-stock-falls-despite-inline-firsthalf-results-93CH-4818966",
+   "saat": "12:10",
+   "tarih_iso": "2026-07-29T12:10:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-aena-stock-sliding-today-93CH-4818956",
+   "baslik": "Why is Aena stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-aena-stock-sliding-today-93CH-4818956",
+   "saat": "12:05",
+   "tarih_iso": "2026-07-29T12:05:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-electrolux-stock-surging-today-93CH-4818953",
+   "baslik": "Why is Electrolux stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-electrolux-stock-surging-today-93CH-4818953",
+   "saat": "12:05",
+   "tarih_iso": "2026-07-29T12:05:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-tumbling-today-93CH-4818941",
+   "baslik": "Why is SK Hynix stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-tumbling-today-93CH-4818941",
+   "saat": "12:04",
+   "tarih_iso": "2026-07-29T12:04:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-verallia-stock-sliding-today-93CH-4818940",
+   "baslik": "Why is Verallia stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-verallia-stock-sliding-today-93CH-4818940",
+   "saat": "12:04",
+   "tarih_iso": "2026-07-29T12:04:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-tick-down-as-markets-eye-fed-decision-megacap-earnings-usiran-4818517",
+   "baslik": "U.S. stock futures flat as rate-hike jitters, tech earnings gauntlet loom",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-tick-down-as-markets-eye-fed-decision-megacap-earnings-usiran-4818517",
+   "saat": "12:02",
+   "tarih_iso": "2026-07-29T12:02:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
+   "baslik": "Ukraine has found a new pressure point in Russia’s wartime economy",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html",
+   "saat": "12:02",
+   "tarih_iso": "2026-07-29T12:02:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-skyworks-solutions-stock-tumbling-today-93CH-4818935",
+   "baslik": "Why is Skyworks Solutions stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-skyworks-solutions-stock-tumbling-today-93CH-4818935",
+   "saat": "12:01",
+   "tarih_iso": "2026-07-29T12:01:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-auto1-stock-tumbling-today-93CH-4818912",
    "baslik": "Why is Auto1 stock tumbling today?",
    "kaynak": "Investing.com",
@@ -557,6 +682,16 @@
    "tarih_iso": "2026-07-29T11:29:40+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T11:33:24.409316+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/29/ubs-earnings-ai-correction-stocks-swiss-bank.html",
+   "baslik": "UBS CEO says the AI pullback is healthy — but there’s a bigger risk investors should watch",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/29/ubs-earnings-ai-correction-stocks-swiss-bank.html",
+   "saat": "11:29",
+   "tarih_iso": "2026-07-29T11:29:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T12:31:03.883893+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-imcd-stock-surging-today-93CH-4818867",
@@ -1181,5 +1316,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-29T12:01:10.269090+03:00"
+ "guncelleme": "2026-07-29T12:31:03.883893+03:00"
 }
