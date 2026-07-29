@@ -389,6 +389,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/parasini-xe-yatirana-musktan-yuzde-6-faiz-haberi-834062",
+   "baslik": "Parasını X'e yatırana Musk'tan yüzde 6 faiz",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/parasini-xe-yatirana-musktan-yuzde-6-faiz-haberi-834062",
+   "saat": "07:51",
+   "tarih_iso": "2026-07-29T07:51:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T08:01:17.083898+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-29-temmuz-carsamba-doviz-kurlari-haberi-834056",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (29 Temmuz Çarşamba Döviz Kurları)",
    "kaynak": "Dünya",
@@ -620,6 +630,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-reports-q2-net-profit-of-28-billion-beating-expectations-4818568",
+   "baslik": "UBS reports Q2 net profit of $2.8 billion, beating expectations",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-reports-q2-net-profit-of-28-billion-beating-expectations-4818568",
+   "saat": "07:42",
+   "tarih_iso": "2026-07-29T07:42:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T08:01:17.083898+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/stanchart-firsthalf-profit-rises-9-4818556",
    "baslik": "StanChart first-half profit rises 9%, beating estimates on strong wealth growth",
@@ -1809,16 +1829,6 @@
    "tarih_iso": "2026-07-28T19:04:46+03:00",
    "kodlar": [],
    "eklenme": "2026-07-28T19:31:04.606817+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/technology/sharkninja-stock-sn-record-high-before-q2-report/?src=A00220&yptr=yahoo",
-   "baslik": "SharkNinja Stock Swims To Record High Ahead Of Q2 Report",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/technology/sharkninja-stock-sn-record-high-before-q2-report/?src=A00220&yptr=yahoo",
-   "saat": "19:01",
-   "tarih_iso": "2026-07-28T19:01:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T19:31:04.606817+03:00"
   }
  ],
  "altin_haber": [
@@ -2033,5 +2043,5 @@
    "eklenme": "2026-07-28T09:01:22.873748+03:00"
   }
  ],
- "guncelleme": "2026-07-29T07:31:06.856658+03:00"
+ "guncelleme": "2026-07-29T08:01:17.083898+03:00"
 }
