@@ -2,6 +2,19 @@
  "tarih": "2026-07-29",
  "kap": [
   {
+   "id": "kap-my-AKSEN-202607291051",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "AKSEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:51",
+   "tarih_iso": "2026-07-29T10:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-29T11:09:43.465426+03:00"
+  },
+  {
    "id": "kap-my-SELEC-202607291023",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -215,6 +228,16 @@
    "tarih_iso": "2026-07-29T11:41:51+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/piyasalarin-gozu-bojun-faiz-kararindan-cok-vermesi-beklenen-sahin-mesajlarda/4012254",
+   "baslik": "Piyasaların gözü BoJ'un faiz kararından çok vermesi beklenen \"şahin\" mesajlarda",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/piyasalarin-gozu-bojun-faiz-kararindan-cok-vermesi-beklenen-sahin-mesajlarda/4012254",
+   "saat": "11:02",
+   "tarih_iso": "2026-07-29T11:02:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T11:09:43.465426+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/hazineden-dijital-kiymetli-maden-duzenlemesi-borsa-istanbulda-islem-gorebilecek-haberi-834087",
@@ -931,5 +954,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-29T11:01:08.566431+03:00"
+ "guncelleme": "2026-07-29T11:09:43.465426+03:00"
 }
