@@ -82,6 +82,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-gornik-zabrze-fb-maci-saati-haberi-834076",
+   "baslik": "Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda? Gornik Zabrze - FB maçı saati...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-gornik-zabrze-fb-maci-saati-haberi-834076",
+   "saat": "09:37",
+   "tarih_iso": "2026-07-29T09:37:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-29T10:01:13.776840+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/haberler/yeo-teknolojiden-cadda-dijitallestirme-sozlesmesi-haberi-834071",
    "baslik": "YEO Teknoloji'den Çad’da dijitalleştirme sözleşmesi",
    "kaynak": "Dünya",
@@ -116,6 +128,16 @@
    "tarih_iso": "2026-07-29T11:41:51+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-oncesi-tansiyon-yukseldi-piyasalarin-korktugu-senaryo-masada-haberi-834078",
+   "baslik": "Fed öncesi tansiyon yükseldi: Piyasaların korktuğu senaryo masada",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-oncesi-tansiyon-yukseldi-piyasalarin-korktugu-senaryo-masada-haberi-834078",
+   "saat": "09:15",
+   "tarih_iso": "2026-07-29T09:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:01:13.776840+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararina-cevrildi/4012106",
@@ -199,6 +221,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-kospi-sinks-8-ai-jitters-iran-attacks-fuel-tech-rout-4818555",
+   "baslik": "Asia stocks slide as KOSPI sinks 6%; AI rout, Middle East tensions weigh on market",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-kospi-sinks-8-ai-jitters-iran-attacks-fuel-tech-rout-4818555",
+   "saat": "09:41",
+   "tarih_iso": "2026-07-29T09:41:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:01:13.776840+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-china-data-center-stocks-to-buy-93CH-4818664",
+   "baslik": "Goldman Sachs Names Top China Data Center Stocks to Buy",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-china-data-center-stocks-to-buy-93CH-4818664",
+   "saat": "09:32",
+   "tarih_iso": "2026-07-29T09:32:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:01:13.776840+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-101-4818651",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 1.01%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-101-4818651",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-29T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:01:13.776840+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/analysts-react-to-steep-rout-in-south-korea-stocks-4818632",
    "baslik": "Analysts react to steep rout in South Korea stocks",
@@ -512,6 +564,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-holds-key-support-ahead-of-fed-decision-200684768",
+   "baslik": "Gold Holds Key Support Ahead of Fed Decision",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-holds-key-support-ahead-of-fed-decision-200684768",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-29T10:01:13.776840+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/why-gold-is-falling-even-as-conflict-in-the-middle-east-escalates-200684738",
    "baslik": "Why Gold Is Falling Even as Conflict in the Middle East Escalates",
    "kaynak": "Investing Emtia",
@@ -572,5 +634,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-29T09:31:05.096122+03:00"
+ "guncelleme": "2026-07-29T10:01:13.776840+03:00"
 }
