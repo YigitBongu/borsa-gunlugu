@@ -2,6 +2,19 @@
  "tarih": "2026-07-29",
  "kap": [
   {
+   "id": "kap-my-SELEC-202607291023",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:23",
+   "tarih_iso": "2026-07-29T10:23:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202607291001",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -108,6 +121,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/yapi-ve-krediden-yapi-kredi-portfoy-paylarinin-satisina-iliskin-aciklama/4012211",
+   "baslik": "Yapı ve Kredi'den \"Yapı Kredi Portföy\" paylarının satışına ilişkin açıklama",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yapi-ve-krediden-yapi-kredi-portfoy-paylarinin-satisina-iliskin-aciklama/4012211",
+   "saat": "10:33",
+   "tarih_iso": "2026-07-29T10:33:30+03:00",
+   "kodlar": [
+    "YKBNK"
+   ],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/quick-sigorta-halka-aciliyor-3901838-ekonomi",
+   "baslik": "Quick Sigorta halka açılıyor",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/quick-sigorta-halka-aciliyor-3901838-ekonomi",
+   "saat": "10:12",
+   "tarih_iso": "2026-07-29T10:12:49+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/akbank-tan-ilk-yarida-343-milyar-tl-net-kr-3901835-ekonomi",
    "baslik": "Akbank'tan ilk yarıda 34.3 milyar TL net kâr",
    "kaynak": "Habertürk Ekonomi",
@@ -178,6 +215,26 @@
    "tarih_iso": "2026-07-29T11:41:51+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hazineden-dijital-kiymetli-maden-duzenlemesi-borsa-istanbulda-islem-gorebilecek-haberi-834087",
+   "baslik": "Hazine'den dijital kıymetli maden düzenlemesi: Borsa İstanbul'da işlem görebilecek",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazineden-dijital-kiymetli-maden-duzenlemesi-borsa-istanbulda-islem-gorebilecek-haberi-834087",
+   "saat": "10:37",
+   "tarih_iso": "2026-07-29T10:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-odeme-ve-elektronik-para-kurulusu-hesap-sahipligi-sorgulama-hizmetini-gelistirdi-haberi-834086",
+   "baslik": "TCMB \"Ödeme ve Elektronik Para Kuruluşu Hesap Sahipliği Sorgulama Hizmeti\"ni geliştirdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-odeme-ve-elektronik-para-kurulusu-hesap-sahipligi-sorgulama-hizmetini-gelistirdi-haberi-834086",
+   "saat": "10:34",
+   "tarih_iso": "2026-07-29T10:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-odeme-ve-elektronik-para-kurulusu-hesap-sahipligi-sorgulama-hizmetini-gelistirdi/4012189",
@@ -321,6 +378,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-danone-stock-sliding-today-93CH-4818785",
+   "baslik": "Why is Danone stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-danone-stock-sliding-today-93CH-4818785",
+   "saat": "10:53",
+   "tarih_iso": "2026-07-29T10:53:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-gain-as-earnings-lift-heavyweights-amid-middle-east-strikes-4818782",
+   "baslik": "FTSE 100 today: Stocks gain as earnings lift heavyweights amid Middle East strikes",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-gain-as-earnings-lift-heavyweights-amid-middle-east-strikes-4818782",
+   "saat": "10:49",
+   "tarih_iso": "2026-07-29T10:49:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kering-stock-surging-today-93CH-4818776",
+   "baslik": "Why is Kering stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kering-stock-surging-today-93CH-4818776",
+   "saat": "10:43",
+   "tarih_iso": "2026-07-29T10:43:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-aston-martin-stock-rising-today-93CH-4818775",
+   "baslik": "Why is Aston Martin stock rising today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-aston-martin-stock-rising-today-93CH-4818775",
+   "saat": "10:43",
+   "tarih_iso": "2026-07-29T10:43:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-glencore-stock-climbing-today-93CH-4818772",
+   "baslik": "Why is Glencore stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-glencore-stock-climbing-today-93CH-4818772",
+   "saat": "10:41",
+   "tarih_iso": "2026-07-29T10:41:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-rise-as-robust-earnings-offset-fed-ratehike-fears-4818614",
    "baslik": "European stocks rise as robust earnings offset Fed rate-hike fears",
@@ -704,6 +811,36 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-and-silver-outlook-ahead-of-the-fed-200684758",
+   "baslik": "Gold and Silver Outlook Ahead of the Fed",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-and-silver-outlook-ahead-of-the-fed-200684758",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
+  {
+   "id": "alt-https://www.haberturk.com/altin-tahminlerinde-dusus-2023-ten-bu-yana-bir-ilk-3901855-ekonomi",
+   "baslik": "Altın tahminlerinde düşüş",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/altin-tahminlerinde-dusus-2023-ten-bu-yana-bir-ilk-3901855-ekonomi",
+   "saat": "10:49",
+   "tarih_iso": "2026-07-29T10:49:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/ekonomi/hazineden-dijital-kiymetli-maden-duzenlemesi-borsa-istanbulda-islem-gorebilecek-haberi-834087",
+   "baslik": "Hazine'den dijital kıymetli maden düzenlemesi: Borsa İstanbul'da işlem görebilecek",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazineden-dijital-kiymetli-maden-duzenlemesi-borsa-istanbulda-islem-gorebilecek-haberi-834087",
+   "saat": "10:37",
+   "tarih_iso": "2026-07-29T10:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T11:01:08.566431+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-fed-outlook-faces-fresh-test-as-usiran-conflict-reignites-200684775",
    "baslik": "Gold: Fed Outlook Faces Fresh Test as US-Iran Conflict Reignites",
    "kaynak": "Investing Emtia",
@@ -794,5 +931,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-29T10:31:09.804313+03:00"
+ "guncelleme": "2026-07-29T11:01:08.566431+03:00"
 }
