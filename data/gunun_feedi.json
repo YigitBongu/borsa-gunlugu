@@ -389,6 +389,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/wall-street-vadeli-islemleri-fed-karar-ve-dev-sirket-bilancolar-oncesi-geriledi-4000220",
+   "baslik": "Wall Street vadeli işlemleri Fed kararı ve dev şirket bilançoları öncesi geriledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/wall-street-vadeli-islemleri-fed-karar-ve-dev-sirket-bilancolar-oncesi-geriledi-4000220",
+   "saat": "05:06",
+   "tarih_iso": "2026-07-29T05:06:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T05:30:59.401993+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/temmuz-enflasyon-beklentisi-2026-temmuz-ayi-enflasyonu-yuzde-kac-olacak-tuik-temmuz-ayi-enflasyon-rakamlari-aciklama-tarihi-3447757",
    "baslik": "TEMMUZ ENFLASYON BEKLENTİSİ 2026: Temmuz ayı enflasyonu yüzde kaç olacak? TÜİK Temmuz ayı enflasyon rakamları açıklama tarihi",
    "kaynak": "CNN Türk Ekonomi",
@@ -590,6 +600,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-tick-down-as-markets-eye-fed-decision-megacap-earnings-usiran-4818517",
+   "baslik": "Wall St futures tick down as markets eye Fed decision, megacap earnings, U.S.-Iran",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-tick-down-as-markets-eye-fed-decision-megacap-earnings-usiran-4818517",
+   "saat": "05:06",
+   "tarih_iso": "2026-07-29T05:06:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-29T05:30:59.401993+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html",
    "baslik": "Oil jumps as U.S.-Iran resume strikes after a brief pause",
@@ -1779,16 +1799,6 @@
    "tarih_iso": "2026-07-28T18:47:59+03:00",
    "kodlar": [],
    "eklenme": "2026-07-28T19:01:06.445501+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
-   "baslik": "SpaceX has now lost the equivalent of a full Tesla in market capitalization",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/27/spacex-has-now-lost-the-equivalent-of-a-full-tesla-in-market-capitalization.html",
-   "saat": "18:38",
-   "tarih_iso": "2026-07-28T18:38:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-28T19:57:31.719006+03:00"
   }
  ],
  "altin_haber": [
@@ -1993,5 +2003,5 @@
    "eklenme": "2026-07-28T09:01:22.873748+03:00"
   }
  ],
- "guncelleme": "2026-07-29T05:01:06.687576+03:00"
+ "guncelleme": "2026-07-29T05:30:59.401993+03:00"
 }
