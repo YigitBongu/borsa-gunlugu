@@ -2,6 +2,45 @@
  "tarih": "2026-07-30",
  "kap": [
   {
+   "id": "kap-my-TUPRS-202607301619",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:19",
+   "tarih_iso": "2026-07-30T16:19:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "kap-my-ALFAS-202607301619",
+   "baslik": "EUROPEN ENDÜSTRİ İNŞAAT SANAYİ VE TİCARET A.Ş. — Yeni İş İlişkisi",
+   "sirket": "EUROPEN ENDÜSTRİ İNŞAAT SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "ALFAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:19",
+   "tarih_iso": "2026-07-30T16:19:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "kap-my-PETKM-202607301618",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "PETKM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:18",
+   "tarih_iso": "2026-07-30T16:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
    "id": "kap-my-SAHOL-202607301600",
    "baslik": "HACI ÖMER SABANCI HOLDİNG A.Ş. — Yönetim Kurulu Komiteleri",
    "sirket": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
@@ -258,6 +297,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hazine-ve-maliye-bakani-simsek-kritik-veriyi-degerlendirdi-haberi-834292",
+   "baslik": "Hazine ve Maliye Bakanı Şimşek kritik veriyi değerlendirdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazine-ve-maliye-bakani-simsek-kritik-veriyi-degerlendirdi-haberi-834292",
+   "saat": "16:40",
+   "tarih_iso": "2026-07-30T16:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-haziran-ayi-is-gucu-verilerini-degerlendirdi/4013998",
+   "baslik": "Hazine ve Maliye Bakanı Şimşek, haziran ayı iş gücü verilerini değerlendirdi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-haziran-ayi-is-gucu-verilerini-degerlendirdi/4013998",
+   "saat": "16:39",
+   "tarih_iso": "2026-07-30T16:39:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/ingiltere-merkez-bankasindan-savas-uyarisi-faiz-artabilir-haberi-834293",
+   "baslik": "İngiltere Merkez Bankası'ndan savaş uyarısı: Faiz artabilir",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/ingiltere-merkez-bankasindan-savas-uyarisi-faiz-artabilir-haberi-834293",
+   "saat": "16:27",
+   "tarih_iso": "2026-07-30T16:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/eli-lilly-ve-resilience-abd-uretimine-750-milyon-dolar-yatrm-yapacak-93CH-4004768",
    "baslik": "Eli Lilly ve Resilience ABD üretimine 750 milyon dolar yatırım yapacak",
@@ -661,6 +730,146 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+   "baslik": "Chipotle stock jumps as chain hikes same-store sales forecast, says cyclospora fears hit sales in late July",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+   "saat": "16:56",
+   "tarih_iso": "2026-07-30T16:56:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/article/us-economic-growth-slows-to-15-in-second-quarter-135510531.html",
+   "baslik": "US economic growth slows to 1.5% in second quarter",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/article/us-economic-growth-slows-to-15-in-second-quarter-135510531.html",
+   "saat": "16:55",
+   "tarih_iso": "2026-07-30T16:55:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ex-pernod-africa-exec-takes-135213230.html",
+   "baslik": "Ex-Pernod Africa exec takes Rémy emerging-markets role",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ex-pernod-africa-exec-takes-135213230.html",
+   "saat": "16:52",
+   "tarih_iso": "2026-07-30T16:52:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-microsofts-stock-is-soaring-toward-a-historic-gain-after-earnings-96cd5b1e?mod=mw_rss_topstories",
+   "baslik": "Why Microsoft’s stock is soaring toward a historic gain after earnings",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-microsofts-stock-is-soaring-toward-a-historic-gain-after-earnings-96cd5b1e?mod=mw_rss_topstories",
+   "saat": "16:51",
+   "tarih_iso": "2026-07-30T16:51:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/1-company-far-largest-contributor-135000191.html",
+   "baslik": "This 1 Company Is By Far the Largest Contributor to Second-Quarter S&P 500 Earnings Growth",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-company-far-largest-contributor-135000191.html",
+   "saat": "16:50",
+   "tarih_iso": "2026-07-30T16:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/research/ibd-stock-analysis/schwab-stock-schw-time-to-buy-shares-of-financial-giant/?src=A00220&yptr=yahoo",
+   "baslik": "Is Schwab Stock A Sweet Buy In Sour Market? Consider These Clues.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/research/ibd-stock-analysis/schwab-stock-schw-time-to-buy-shares-of-financial-giant/?src=A00220&yptr=yahoo",
+   "saat": "16:49",
+   "tarih_iso": "2026-07-30T16:49:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/one-line-from-metas-earnings-call-that-ensured-the-stock-will-likely-stay-dead-money-134542007.html",
+   "baslik": "One line from Meta's earnings call that ensured the stock will likely stay dead money",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/one-line-from-metas-earnings-call-that-ensured-the-stock-will-likely-stay-dead-money-134542007.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-07-30T16:45:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/market-loves-microsoft-ai-spending-134353798.html",
+   "baslik": "The Market Loves Microsoft’s AI Spending, Hates Meta’s. Here’s Why",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/market-loves-microsoft-ai-spending-134353798.html",
+   "saat": "16:43",
+   "tarih_iso": "2026-07-30T16:43:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
+   "baslik": "Here's what changed in the second Fed statement under Warsh",
+   "kaynak": "CNBC Finans",
+   "link": "https://www.cnbc.com/2026/07/29/fed-decision-redline-heres-what-changed-in-the-second-statement-under-warsh.html",
+   "saat": "16:42",
+   "tarih_iso": "2026-07-30T16:42:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+   "baslik": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+   "kaynak": "CNBC Finans",
+   "link": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+   "saat": "16:39",
+   "tarih_iso": "2026-07-30T16:39:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/investors-favour-strengthens-elevance-health-133153949.html",
+   "baslik": "Investors’ Favour Strengthens Elevance Health’s (ELV) Rebound",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-favour-strengthens-elevance-health-133153949.html",
+   "saat": "16:31",
+   "tarih_iso": "2026-07-30T16:31:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/robinhood-crypto-trading-revenue-plunges-132800220.html",
+   "baslik": "Robinhood’s Crypto Trading Revenue Plunges 38%",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/robinhood-crypto-trading-revenue-plunges-132800220.html",
+   "saat": "16:28",
+   "tarih_iso": "2026-07-30T16:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/research/the-new-america/datadog-stock-ddog-near-buy-point-q2-earnings/?src=A00220&yptr=yahoo",
+   "baslik": "Datadog Fetches Sales Growth From AI Complexity",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/research/the-new-america/datadog-stock-ddog-near-buy-point-q2-earnings/?src=A00220&yptr=yahoo",
+   "saat": "16:25",
+   "tarih_iso": "2026-07-30T16:25:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-30-2026-prices-rise-after-fed-leaves-rates-unchanged-132340233.html",
+   "baslik": "Bitcoin and ethereum prices today, Thursday, July 30, 2026: Prices rise after Fed leaves rates unchanged",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-july-30-2026-prices-rise-after-fed-leaves-rates-unchanged-132340233.html",
+   "saat": "16:23",
+   "tarih_iso": "2026-07-30T16:23:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html",
    "baslik": "Star AI investor Leopold Aschenbrenner is unwinding trades after steep losses, sources say",
    "kaynak": "CNBC",
@@ -669,6 +878,26 @@
    "tarih_iso": "2026-07-30T16:18:33+03:00",
    "kodlar": [],
    "eklenme": "2026-07-30T16:31:02.252970+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/veracyte-vcyt-rises-upward-guidance-131733735.html",
+   "baslik": "Veracyte (VCYT) Rises with Upward Guidance Revision and Earnings Beat",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/veracyte-vcyt-rises-upward-guidance-131733735.html",
+   "saat": "16:17",
+   "tarih_iso": "2026-07-30T16:17:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tandem-diabetes-care-tndm-slid-131547358.html",
+   "baslik": "Tandem Diabetes Care (TNDM) Slid as Lower Beta Profile Lags in Risk On Market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tandem-diabetes-care-tndm-slid-131547358.html",
+   "saat": "16:15",
+   "tarih_iso": "2026-07-30T16:15:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ferrari-q2-2026-earnings-beat-131335547.html",
@@ -769,6 +998,16 @@
    "tarih_iso": "2026-07-30T15:48:51+03:00",
    "kodlar": [],
    "eklenme": "2026-07-30T16:31:02.252970+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/meta-stock-sinks-on-earnings-miss-barely-passable-quarterly-results-124851083.html",
+   "baslik": "Meta stock sinks on earnings miss, 'barely passable' quarterly results",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/meta-stock-sinks-on-earnings-miss-barely-passable-quarterly-results-124851083.html",
+   "saat": "15:48",
+   "tarih_iso": "2026-07-30T15:48:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
   },
   {
    "id": "yab-https://www.investors.com/news/pce-inflation-june-q2-gdp-warsh-fed-sp-500/?src=A00220&yptr=yahoo",
@@ -1689,179 +1928,19 @@
    "tarih_iso": "2026-07-30T12:16:29+03:00",
    "kodlar": [],
    "eklenme": "2026-07-30T16:31:02.252970+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
-   "baslik": "Oil prices move higher as Iran threatens response to latest U.S. strikes",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/30/oil-prices-us-iran-war.html",
-   "saat": "12:14",
-   "tarih_iso": "2026-07-30T12:14:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T13:01:16.982624+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
-   "baslik": "Samsung says chip crunch will last until 2028 as quarterly profit soars",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/30/samsung-q2-earnings-ai-chip-.html",
-   "saat": "12:10",
-   "tarih_iso": "2026-07-30T12:10:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T15:30:59.497526+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/9c33426e-d413-4d9b-b429-34dea508195e?syn-25a6b1a6=1",
-   "baslik": "BoE expected to ‘talk tough’ but leave rates on hold",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/9c33426e-d413-4d9b-b429-34dea508195e?syn-25a6b1a6=1",
-   "saat": "12:06",
-   "tarih_iso": "2026-07-30T12:06:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T12:31:06.220110+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-   "baslik": "Meta tanks nearly 9%, Microsoft jumps 8% as the AI trade splits Big Tech",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html",
-   "saat": "12:01",
-   "tarih_iso": "2026-07-30T12:01:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T12:31:06.220110+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bureau-veritas-stock-sliding-today-93CH-4822726",
-   "baslik": "Why is Bureau Veritas stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-bureau-veritas-stock-sliding-today-93CH-4822726",
-   "saat": "11:44",
-   "tarih_iso": "2026-07-30T11:44:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T12:01:17.194664+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nemetschek-stock-sliding-today-93CH-4822718",
-   "baslik": "Why is Nemetschek stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-nemetschek-stock-sliding-today-93CH-4822718",
-   "saat": "11:41",
-   "tarih_iso": "2026-07-30T11:41:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T12:01:17.194664+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
-   "baslik": "Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
-   "saat": "11:40",
-   "tarih_iso": "2026-07-30T11:40:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T16:01:05.579265+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-technip-energies-stock-crashing-today-93CH-4822715",
-   "baslik": "Why is Technip Energies stock crashing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-technip-energies-stock-crashing-today-93CH-4822715",
-   "saat": "11:39",
-   "tarih_iso": "2026-07-30T11:39:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T12:01:17.194664+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/samsung-delivers-record-setting-profits-but-the-shares-still-cant-catch-a-break-from-investors-daefa19a?mod=mw_rss_topstories",
-   "baslik": "Samsung delivers record-setting profits, but the shares still can’t catch a break from investors.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/samsung-delivers-record-setting-profits-but-the-shares-still-cant-catch-a-break-from-investors-daefa19a?mod=mw_rss_topstories",
-   "saat": "11:39",
-   "tarih_iso": "2026-07-30T11:39:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T12:01:17.194664+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-sliding-today-93CH-4822712",
-   "baslik": "Why is Stellantis stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-sliding-today-93CH-4822712",
-   "saat": "11:38",
-   "tarih_iso": "2026-07-30T11:38:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T12:01:17.194664+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-loreal-stock-surging-today-93CH-4822711",
-   "baslik": "Why is L’Oréal stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-loreal-stock-surging-today-93CH-4822711",
-   "saat": "11:37",
-   "tarih_iso": "2026-07-30T11:37:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T12:01:17.194664+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-heidelberg-materials-stock-sliding-today-93CH-4822697",
-   "baslik": "Why is Heidelberg Materials stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-heidelberg-materials-stock-sliding-today-93CH-4822697",
-   "saat": "11:34",
-   "tarih_iso": "2026-07-30T11:34:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T12:01:17.194664+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ucb-stock-sliding-today-93CH-4822695",
-   "baslik": "Why is UCB stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ucb-stock-sliding-today-93CH-4822695",
-   "saat": "11:32",
-   "tarih_iso": "2026-07-30T11:32:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T12:01:17.194664+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-rentokil-initial-stock-plunging-today-93CH-4822692",
-   "baslik": "Why is Rentokil Initial stock plunging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-rentokil-initial-stock-plunging-today-93CH-4822692",
-   "saat": "11:32",
-   "tarih_iso": "2026-07-30T11:32:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T12:01:17.194664+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-adidas-stock-plunging-today-93CH-4822661",
-   "baslik": "Why is Adidas stock plunging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-adidas-stock-plunging-today-93CH-4822661",
-   "saat": "11:24",
-   "tarih_iso": "2026-07-30T11:24:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T11:31:00.461577+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stockpicking-hedge-funds-set-for-record-monthly-loss-goldman-says-4822659",
-   "baslik": "Asia stock-picking hedge funds set for record monthly loss, Goldman says",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asia-stockpicking-hedge-funds-set-for-record-monthly-loss-goldman-says-4822659",
-   "saat": "11:24",
-   "tarih_iso": "2026-07-30T11:24:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T11:31:00.461577+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-082255995.html",
-   "baslik": "Stock market today: Dow, S&P 500, Nasdaq futures rebound ahead of inflation data",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-082255995.html",
-   "saat": "11:22",
-   "tarih_iso": "2026-07-30T11:22:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T15:26:51.328119+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-gun-sonunda-yukseldi-haberi-834294",
+   "baslik": "Altının kilogram fiyatı gün sonunda yükseldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-gun-sonunda-yukseldi-haberi-834294",
+   "saat": "16:50",
+   "tarih_iso": "2026-07-30T16:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T17:01:05.944744+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-30-2026-gold-prices-crest-4100-after-fed-holds-rates-steady-123355668.html",
    "baslik": "Gold prices today, Thursday, July 30, 2026: Gold prices crest $4,100 after Fed holds rates steady",
@@ -1983,5 +2062,5 @@
    "eklenme": "2026-07-30T09:01:05.104735+03:00"
   }
  ],
- "guncelleme": "2026-07-30T16:31:02.252970+03:00"
+ "guncelleme": "2026-07-30T17:01:05.944744+03:00"
 }
