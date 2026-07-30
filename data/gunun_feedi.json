@@ -2,6 +2,19 @@
  "tarih": "2026-07-30",
  "kap": [
   {
+   "id": "kap-my-GARAN-202607300800",
+   "baslik": "TÜRKİYE GARANTİ BANKASI A.Ş. — Banka Finansal Rapor",
+   "sirket": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+   "kodlar": [
+    "GARAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:00",
+   "tarih_iso": "2026-07-30T08:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-30T09:31:03.257222+03:00"
+  },
+  {
    "id": "kap-my-TSKB-202607291908",
    "baslik": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş. — Banka Finansal Rapor",
    "sirket": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.",
@@ -43,6 +56,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/istanbul-toplu-tasima-ucret-tarifesi-2026-ogrenci-tam-aylik-akbil-abonman-ne-kadar-oldu-iett-metro-metrobus-marmaray-kac-tl-basiyor-3444007",
+   "baslik": "İSTANBUL TOPLU TAŞIMA ÜCRET TARİFESİ 2026 | Öğrenci, Tam Aylık Akbil, Abonman Ne Kadar Oldu? İETT, Metro, Metrobüs, Marmaray Kaç TL Basıyor?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/istanbul-toplu-tasima-ucret-tarifesi-2026-ogrenci-tam-aylik-akbil-abonman-ne-kadar-oldu-iett-metro-metrobus-marmaray-kac-tl-basiyor-3444007",
+   "saat": "12:07",
+   "tarih_iso": "2026-07-30T12:07:16+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-07-30T09:31:03.257222+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/haberler/mia-teknoloji-ile-tuseb-arasinda-75-milyon-tllik-sozlesme-haberi-834202",
    "baslik": "Mia Teknoloji ile TÜSEB arasında 7,5 milyon TL’lik sözleşme",
    "kaynak": "Dünya",
@@ -80,6 +105,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-fede-iliskin-belirsizlikler-ve-jeopolitik-gerilimlerden-kaynakli-satis-baskisi-hakim/4013314",
+   "baslik": "Küresel piyasalarda Fed'e ilişkin belirsizlikler ve jeopolitik gerilimlerden kaynaklı satış baskısı hakim",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-fede-iliskin-belirsizlikler-ve-jeopolitik-gerilimlerden-kaynakli-satis-baskisi-hakim/4013314",
+   "saat": "09:04",
+   "tarih_iso": "2026-07-30T09:04:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T09:31:03.257222+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-30-temmuz-persembe-doviz-kurlari-haberi-834206",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (30 Temmuz Perşembe Döviz Kurları)",
@@ -202,6 +237,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
+   "baslik": "Oil giant Shell smashes expectations as profits more than double in second quarter",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
+   "saat": "09:14",
+   "tarih_iso": "2026-07-30T09:14:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T09:31:03.257222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-376-4822403",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 3.76%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-376-4822403",
+   "saat": "09:05",
+   "tarih_iso": "2026-07-30T09:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T09:31:03.257222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lier-chemical-stock-surging-today-93CH-4822396",
+   "baslik": "Why is Lier Chemical stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lier-chemical-stock-surging-today-93CH-4822396",
+   "saat": "08:59",
+   "tarih_iso": "2026-07-30T08:59:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T09:31:03.257222+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/30/strait-hormuz-drone-shipping-risks.html",
    "baslik": "The Strait of Hormuz is just one trade chokepoint facing a new era of maritime warfare",
@@ -585,5 +650,5 @@
    "eklenme": "2026-07-30T09:01:05.104735+03:00"
   }
  ],
- "guncelleme": "2026-07-30T09:01:05.104735+03:00"
+ "guncelleme": "2026-07-30T09:31:03.257222+03:00"
 }
