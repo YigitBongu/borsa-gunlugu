@@ -2,6 +2,19 @@
  "tarih": "2026-07-30",
  "kap": [
   {
+   "id": "kap-my-SDTTR-202607301534",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:34",
+   "tarih_iso": "2026-07-30T15:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
    "id": "kap-my-AEFES-202607301021",
    "baslik": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
@@ -167,6 +180,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/braveheart-bio-kalp-ilac-icin-halka-arzda-3188-milyon-dolar-hedefliyor-93CH-4004570",
+   "baslik": "Braveheart Bio kalp ilacı için halka arzda 318,8 milyon dolar hedefliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/braveheart-bio-kalp-ilac-icin-halka-arzda-3188-milyon-dolar-hedefliyor-93CH-4004570",
+   "saat": "15:38",
+   "tarih_iso": "2026-07-30T15:38:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomik-veriler/tcmb-acikladi-yabanci-yatirimcinin-tercihi-dikkat-cekti-haberi-834280",
    "baslik": "TCMB açıkladı: Yabancı yatırımcının tercihi dikkat çekti!",
@@ -540,6 +563,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+   "baslik": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-07-30T16:00:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
+   "baslik": "US economic growth slows to 1.5% in second quarter",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
+   "saat": "15:54",
+   "tarih_iso": "2026-07-30T15:54:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/gdp-shows-the-economy-grew-1-5-in-the-second-quarter-but-its-even-better-than-it-looks-11b7f4fe?mod=mw_rss_topstories",
+   "baslik": "GDP shows the economy grew 1.5% in the second quarter — but it’s even better than it looks",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/gdp-shows-the-economy-grew-1-5-in-the-second-quarter-but-its-even-better-than-it-looks-11b7f4fe?mod=mw_rss_topstories",
+   "saat": "15:38",
+   "tarih_iso": "2026-07-30T15:38:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/fed-favored-pce-inflation-gauge-falls-for-first-time-since-pandemic-but-danger-far-from-over-57e382bf?mod=mw_rss_topstories",
+   "baslik": "Fed-favored PCE inflation gauge falls for first time since pandemic, but danger far from over",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/fed-favored-pce-inflation-gauge-falls-for-first-time-since-pandemic-but-danger-far-from-over-57e382bf?mod=mw_rss_topstories",
+   "saat": "15:35",
+   "tarih_iso": "2026-07-30T15:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-30-2026-gold-prices-crest-4100-after-fed-holds-rates-steady-123355668.html",
+   "baslik": "Gold prices today, Thursday, July 30, 2026: Gold prices crest $4,100 after Fed holds rates steady",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-30-2026-gold-prices-crest-4100-after-fed-holds-rates-steady-123355668.html",
+   "saat": "15:33",
+   "tarih_iso": "2026-07-30T15:33:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/trillion-energy-rebrands-dune-oil-123100551.html",
+   "baslik": "Trillion Energy rebrands as Dune Oil as it deepens Türkiye oil focus",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/trillion-energy-rebrands-dune-oil-123100551.html",
+   "saat": "15:31",
+   "tarih_iso": "2026-07-30T15:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jim-cramer-just-dumped-tech-175031981.html",
+   "baslik": "Jim Cramer Just Dumped Tech Stocks. He’s Loading Up on Intel Instead of Cerebras.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-just-dumped-tech-175031981.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-07-30T15:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/microsoft-stock-surges-on-strong-quarter-record-cloud-revenue-123002444.html",
+   "baslik": "Microsoft stock surges on strong quarter, record cloud revenue",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/microsoft-stock-surges-on-strong-quarter-record-cloud-revenue-123002444.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-07-30T15:30:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
    "baslik": "Analysis: Fed Chairman Warsh's credibility in question after leaving interest rates unchanged",
    "kaynak": "CNBC",
@@ -550,6 +653,56 @@
    "eklenme": "2026-07-30T15:30:59.497526+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/news/labcorp-raises-annual-profit-forecast-122659256.html",
+   "baslik": "Labcorp raises annual profit forecast on strong testing demand",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/labcorp-raises-annual-profit-forecast-122659256.html",
+   "saat": "15:26",
+   "tarih_iso": "2026-07-30T15:26:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/rolls-royce-h1-2026-earnings-122621345.html",
+   "baslik": "Rolls-Royce H1 2026 earnings beat on defense, AI demand",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rolls-royce-h1-2026-earnings-122621345.html",
+   "saat": "15:26",
+   "tarih_iso": "2026-07-30T15:26:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/big-short-investor-steve-eisman-122500497.html",
+   "baslik": "'Big Short' investor Steve Eisman says AI is 'one trade' and a 'big correction’ will come. Is your portfolio exposed?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/big-short-investor-steve-eisman-122500497.html",
+   "saat": "15:25",
+   "tarih_iso": "2026-07-30T15:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-rocket-lab-stock-just-122500538.html",
+   "baslik": "Should You Buy Rocket Lab Stock After It Just Won Its Largest Launch Contract in History?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-rocket-lab-stock-just-122500538.html",
+   "saat": "15:25",
+   "tarih_iso": "2026-07-30T15:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/treasury-yields-stay-elevated-as-wall-street-calls-out-feds-inflation-credibility-shock-122430505.html",
+   "baslik": "Treasury yields stay elevated as Wall Street calls out Fed's 'inflation credibility shock'",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/treasury-yields-stay-elevated-as-wall-street-calls-out-feds-inflation-credibility-shock-122430505.html",
+   "saat": "15:24",
+   "tarih_iso": "2026-07-30T15:24:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/mastercard-profit-jumps-as-stable-spending-drives-transaction-volumes-4824012",
    "baslik": "Mastercard profit jumps as stable spending drives transaction volumes",
    "kaynak": "Investing.com",
@@ -558,6 +711,16 @@
    "tarih_iso": "2026-07-30T15:24:25+03:00",
    "kodlar": [],
    "eklenme": "2026-07-30T15:26:51.328119+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/sp-500-quanta-services-stock-earnings-ai-power-infrastructure/?src=A00220&yptr=yahoo",
+   "baslik": "Quanta Services Surges On Blowout Earnings For AI Power Infrastructure Giant",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/sp-500-quanta-services-stock-earnings-ai-power-infrastructure/?src=A00220&yptr=yahoo",
+   "saat": "15:23",
+   "tarih_iso": "2026-07-30T15:23:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ceg-vs-vst-nuclear-purity-against-diversified-value-in-the-ai-power-trade-93CH-4824092",
@@ -598,6 +761,16 @@
    "tarih_iso": "2026-07-30T15:20:48+03:00",
    "kodlar": [],
    "eklenme": "2026-07-30T15:26:51.328119+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/xpo-q2-earnings-beat-expectations-121929955.html",
+   "baslik": "XPO’s Q2 earnings beat expectations behind strong LTL performance",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/xpo-q2-earnings-beat-expectations-121929955.html",
+   "saat": "15:19",
+   "tarih_iso": "2026-07-30T15:19:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/article/robinhood-shares-edge-higher-after-record-quarter-for-prediction-markets-business-121836314.html",
@@ -1360,6 +1533,16 @@
    "eklenme": "2026-07-30T12:01:17.194664+03:00"
   },
   {
+   "id": "yab-https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
+   "baslik": "Shell posts best quarterly profit in four years as Iran war boosts oil and gas prices",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/30/shell-2q-earnings-iran-war-oil.html",
+   "saat": "11:40",
+   "tarih_iso": "2026-07-30T11:40:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-technip-energies-stock-crashing-today-93CH-4822715",
    "baslik": "Why is Technip Energies stock crashing today?",
    "kaynak": "Investing.com",
@@ -1578,169 +1761,19 @@
    "tarih_iso": "2026-07-30T10:35:24+03:00",
    "kodlar": [],
    "eklenme": "2026-07-30T10:56:47.362845+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ing-stock-climbing-today-93CH-4822578",
-   "baslik": "Why is ING stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ing-stock-climbing-today-93CH-4822578",
-   "saat": "10:34",
-   "tarih_iso": "2026-07-30T10:34:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:56:47.362845+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-markets-await-boe-rate-call-4822570",
-   "baslik": "FTSE 100 today: Stocks edge higher as markets await BoE rate call",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-markets-await-boe-rate-call-4822570",
-   "saat": "10:29",
-   "tarih_iso": "2026-07-30T10:29:13+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:56:47.362845+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-scor-stock-rallying-today-93CH-4822566",
-   "baslik": "Why is SCOR stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-scor-stock-rallying-today-93CH-4822566",
-   "saat": "10:27",
-   "tarih_iso": "2026-07-30T10:27:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:56:47.362845+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-balance-blockbuster-earnings-against-escalating-usiran-conflict-4822425",
-   "baslik": "European stocks balance blockbuster earnings against escalating U.S.-Iran conflict",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-stocks-balance-blockbuster-earnings-against-escalating-usiran-conflict-4822425",
-   "saat": "10:25",
-   "tarih_iso": "2026-07-30T10:25:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:56:47.362845+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/shells-profit-more-than-doubles-to-98-billion-as-iran-war-boosts-oil-gas-prices-4822561",
-   "baslik": "Shell’s profit more than doubles to $9.8 billion as Iran war boosts oil, gas prices",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/shells-profit-more-than-doubles-to-98-billion-as-iran-war-boosts-oil-gas-prices-4822561",
-   "saat": "10:24",
-   "tarih_iso": "2026-07-30T10:24:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:56:47.362845+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-new-oriental-education-stock-surging-today-93CH-4822555",
-   "baslik": "Why is New Oriental Education stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-new-oriental-education-stock-surging-today-93CH-4822555",
-   "saat": "10:18",
-   "tarih_iso": "2026-07-30T10:18:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:56:47.362845+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ayvens-reports-q2-profit-miss-on-used-car-weakness-93CH-4822546",
-   "baslik": "Ayvens reports Q2 profit miss on used car weakness",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ayvens-reports-q2-profit-miss-on-used-car-weakness-93CH-4822546",
-   "saat": "10:12",
-   "tarih_iso": "2026-07-30T10:12:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:30:58.623314+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Shell profits double as oil prices rise due to Iran war",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
-   "saat": "10:11",
-   "tarih_iso": "2026-07-30T10:11:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:30:58.623314+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/one-of-the-markets-most-durable-growth-sectors-has-been-passed-over-for-ai-says-jpmorgan-b726011c?mod=mw_rss_topstories",
-   "baslik": "One of the market’s ‘most durable growth’ sectors has been passed over for AI, says JPMorgan",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/one-of-the-markets-most-durable-growth-sectors-has-been-passed-over-for-ai-says-jpmorgan-b726011c?mod=mw_rss_topstories",
-   "saat": "10:11",
-   "tarih_iso": "2026-07-30T10:11:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:30:58.623314+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-070-4822515",
-   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.70%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-070-4822515",
-   "saat": "10:00",
-   "tarih_iso": "2026-07-30T10:00:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:30:58.623314+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/cirsa-reports-10-revenue-growth-in-second-quarter-2026-93CH-4822514",
-   "baslik": "Cirsa reports 10% revenue growth in second quarter 2026",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/cirsa-reports-10-revenue-growth-in-second-quarter-2026-93CH-4822514",
-   "saat": "09:59",
-   "tarih_iso": "2026-07-30T09:59:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:30:58.623314+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/arkema-reports-second-quarter-earnings-above-expectations-93CH-4822513",
-   "baslik": "Arkema reports second quarter earnings above expectations",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/arkema-reports-second-quarter-earnings-above-expectations-93CH-4822513",
-   "saat": "09:59",
-   "tarih_iso": "2026-07-30T09:59:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:30:58.623314+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
-   "baslik": "Treasury sell-off continues after divided Fed holds interest rates steady",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
-   "saat": "09:56",
-   "tarih_iso": "2026-07-30T09:56:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:01:05.391974+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/outokumpu-reports-second-quarter-earnings-below-expectations-93CH-4822499",
-   "baslik": "Outokumpu reports second quarter earnings below expectations",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/outokumpu-reports-second-quarter-earnings-below-expectations-93CH-4822499",
-   "saat": "09:54",
-   "tarih_iso": "2026-07-30T09:54:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:01:05.391974+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/finecobank-reports-q2-profit-beat-on-stronger-net-interest-income-93CH-4822497",
-   "baslik": "FinecoBank reports Q2 profit beat on stronger net interest income",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/finecobank-reports-q2-profit-beat-on-stronger-net-interest-income-93CH-4822497",
-   "saat": "09:54",
-   "tarih_iso": "2026-07-30T09:54:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:01:05.391974+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/magnum-ice-cream-reports-firsthalf-earnings-above-expectations-4822461",
-   "baslik": "Magnum Ice Cream reports first-half earnings above expectations",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/magnum-ice-cream-reports-firsthalf-earnings-above-expectations-4822461",
-   "saat": "09:48",
-   "tarih_iso": "2026-07-30T09:48:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T10:01:05.391974+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-30-2026-gold-prices-crest-4100-after-fed-holds-rates-steady-123355668.html",
+   "baslik": "Gold prices today, Thursday, July 30, 2026: Gold prices crest $4,100 after Fed holds rates steady",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-july-30-2026-gold-prices-crest-4100-after-fed-holds-rates-steady-123355668.html",
+   "saat": "15:33",
+   "tarih_iso": "2026-07-30T15:33:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T16:01:05.579265+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/why-war-hurt-gold-at-first--and-why-the-safehaven-trade-is-back-200684885",
    "baslik": "Why War Hurt Gold at First — and Why the Safe-Haven Trade Is Back",
@@ -1852,5 +1885,5 @@
    "eklenme": "2026-07-30T09:01:05.104735+03:00"
   }
  ],
- "guncelleme": "2026-07-30T15:30:59.497526+03:00"
+ "guncelleme": "2026-07-30T16:01:05.579265+03:00"
 }
