@@ -493,6 +493,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/kuresel-borsalarda-fed-ve-cip-baskisi-galeri-834199",
+   "baslik": "Küresel borsalarda Fed ve çip baskısı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/kuresel-borsalarda-fed-ve-cip-baskisi-galeri-834199",
+   "saat": "06:46",
+   "tarih_iso": "2026-07-30T06:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T07:01:08.116883+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/asya-borsalar-karsk-fed-karar-ve-samsung-sonuclar-sindirilirken-kospi-toparland-4002988",
    "baslik": "Asya borsaları karışık: Fed kararı ve Samsung sonuçları sindirilirken KOSPI toparlandı",
    "kaynak": "Investing TR",
@@ -894,6 +904,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/fed-interest-rate-hikes-these-three-stocks-are-seen-as-best-positioned-93CH-4822306",
+   "baslik": "Fed interest rate hikes: These three stocks are seen as best positioned",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/fed-interest-rate-hikes-these-three-stocks-are-seen-as-best-positioned-93CH-4822306",
+   "saat": "06:36",
+   "tarih_iso": "2026-07-30T06:36:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T07:01:08.116883+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1",
+   "baslik": "‘My life’s screwed’: Korean investors stress out after AI bubble bursts",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1",
+   "saat": "06:13",
+   "tarih_iso": "2026-07-30T06:13:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T07:01:08.116883+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-surging-today-93CH-4822300",
    "baslik": "Why is Samsung Electronics stock surging today?",
@@ -2073,26 +2103,6 @@
    "tarih_iso": "2026-07-29T19:30:00+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T20:44:48.126000+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/why-wall-street-split-phillips-162957977.html",
-   "baslik": "Why Wall Street Is Split on Phillips 66 (PSX) Even as Its Numbers Improve",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/why-wall-street-split-phillips-162957977.html",
-   "saat": "19:29",
-   "tarih_iso": "2026-07-29T19:29:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:50:35.147240+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/small-business/articles/vinted-taps-dhl-germany-collection-162615559.html",
-   "baslik": "Vinted taps DHL’s Germany collection points to expand second-hand market",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/small-business/articles/vinted-taps-dhl-germany-collection-162615559.html",
-   "saat": "19:26",
-   "tarih_iso": "2026-07-29T19:26:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:50:35.147240+03:00"
   }
  ],
  "altin_haber": [
@@ -2347,5 +2357,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-30T06:30:59.567070+03:00"
+ "guncelleme": "2026-07-30T07:01:08.116883+03:00"
 }
