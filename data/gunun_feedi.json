@@ -505,6 +505,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-30-temmuz-persembe-doviz-kurlari-haberi-834206",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (30 Temmuz Perşembe Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-30-temmuz-persembe-doviz-kurlari-haberi-834206",
+   "saat": "07:35",
+   "tarih_iso": "2026-07-30T07:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T08:01:07.162092+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/kuresel-borsalarda-fed-ve-cip-baskisi-galeri-834199",
    "baslik": "Küresel borsalarda Fed ve çip baskısı",
    "kaynak": "Dünya",
@@ -916,6 +926,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sk-hynix-rebounds-after-twoday-rout-as-dip-buyers-shrug-off-ai-spending-fears-4822294",
+   "baslik": "SK Hynix swings in whipsaw trade as AI spending worries persist after earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sk-hynix-rebounds-after-twoday-rout-as-dip-buyers-shrug-off-ai-spending-fears-4822294",
+   "saat": "07:26",
+   "tarih_iso": "2026-07-30T07:26:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T08:01:07.162092+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/esentia-energy-files-draft-f1-with-sec-for-proposed-us-ipo-432SI-4822316",
+   "baslik": "Esentia Energy files draft F-1 with SEC for proposed U.S. IPO",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/esentia-energy-files-draft-f1-with-sec-for-proposed-us-ipo-432SI-4822316",
+   "saat": "07:20",
+   "tarih_iso": "2026-07-30T07:20:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T08:01:07.162092+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/0ed87aae-96f1-45b8-87b3-cbf4c6d12e4f?syn-25a6b1a6=1",
    "baslik": "How exposed is the UK economy to the second China shock?",
@@ -2095,26 +2125,6 @@
    "tarih_iso": "2026-07-29T19:36:05+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T19:50:35.147240+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
-   "baslik": "Global oil prices top $88 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories",
-   "saat": "19:36",
-   "tarih_iso": "2026-07-29T19:36:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T20:44:48.126000+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/private-credit-boom-gift-risk-163500918.html",
-   "baslik": "Is the Private Credit Boom a Gift or a Risk for BDC Income Investors?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/private-credit-boom-gift-risk-163500918.html",
-   "saat": "19:35",
-   "tarih_iso": "2026-07-29T19:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:50:35.147240+03:00"
   }
  ],
  "altin_haber": [
@@ -2369,5 +2379,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-30T07:30:59.389301+03:00"
+ "guncelleme": "2026-07-30T08:01:07.162092+03:00"
 }
