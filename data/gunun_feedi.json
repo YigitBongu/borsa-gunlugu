@@ -885,6 +885,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss",
+   "baslik": "The once destroyed community that's now a global energy giant",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss",
+   "saat": "05:08",
+   "tarih_iso": "2026-07-30T05:08:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T05:30:57.243480+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/gold-pares-feddriven-gains-as-markets-digest-warsh-comments-dollar-steadies-4822232",
    "baslik": "Gold pares Fed-driven gains as markets digest Warsh comments, dollar steadies",
    "kaynak": "Investing.com",
@@ -913,6 +923,16 @@
    "tarih_iso": "2026-07-30T04:11:50+03:00",
    "kodlar": [],
    "eklenme": "2026-07-30T04:31:00.339249+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/f22b9197-db1e-4270-99c1-dcf867227aeb?syn-25a6b1a6=1",
+   "baslik": "Investors warn BoJ faces test to inflation-fighting credibility",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/f22b9197-db1e-4270-99c1-dcf867227aeb?syn-25a6b1a6=1",
+   "saat": "04:00",
+   "tarih_iso": "2026-07-30T04:00:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T05:30:57.243480+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/07/29/kevin-warsh-fed-treasury-yields-inflation-credibility-interest-rates.html",
@@ -2063,26 +2083,6 @@
    "tarih_iso": "2026-07-29T19:18:04+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T22:31:00.518991+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-lennox-stock-crashed-today-161738322.html",
-   "baslik": "Why Lennox Stock Crashed Today",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-lennox-stock-crashed-today-161738322.html",
-   "saat": "19:17",
-   "tarih_iso": "2026-07-29T19:17:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:31:05.145059+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/dow-jones-stock-chevron-oil-price-surge-trump-venezuela-cvx-stock-price/?src=A00220&yptr=yahoo",
-   "baslik": "Dow Leader Rides Surging Oil Prices And Trump's Venezuela Spoils",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/dow-jones-stock-chevron-oil-price-surge-trump-venezuela-cvx-stock-price/?src=A00220&yptr=yahoo",
-   "saat": "19:16",
-   "tarih_iso": "2026-07-29T19:16:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:31:05.145059+03:00"
   }
  ],
  "altin_haber": [
@@ -2337,5 +2337,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-30T05:01:09.289832+03:00"
+ "guncelleme": "2026-07-30T05:30:57.243480+03:00"
 }
