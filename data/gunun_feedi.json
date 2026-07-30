@@ -493,6 +493,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-borsalar-karsk-fed-karar-ve-samsung-sonuclar-sindirilirken-kospi-toparland-4002988",
+   "baslik": "Asya borsaları karışık: Fed kararı ve Samsung sonuçları sindirilirken KOSPI toparlandı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-borsalar-karsk-fed-karar-ve-samsung-sonuclar-sindirilirken-kospi-toparland-4002988",
+   "saat": "05:39",
+   "tarih_iso": "2026-07-30T05:39:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T06:01:12.471896+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/altn-fed-kaynakl-kazanclar-geri-verdi-dolar-sabit-kald-4002964",
    "baslik": "Altın, Fed kararı sonrası kazanımlarını törpüledi; dolar dengelendi",
    "kaynak": "Investing TR",
@@ -884,6 +894,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-surging-today-93CH-4822300",
+   "baslik": "Why is Samsung Electronics stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-surging-today-93CH-4822300",
+   "saat": "05:54",
+   "tarih_iso": "2026-07-30T05:54:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T06:01:12.471896+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-markets-digest-fed-decision-samsung-results-kospi-rebounds-4822296",
+   "baslik": "Asia stocks mixed as markets digest Fed decision, Samsung results; KOSPI rebounds",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-as-markets-digest-fed-decision-samsung-results-kospi-rebounds-4822296",
+   "saat": "05:39",
+   "tarih_iso": "2026-07-30T05:39:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T06:01:12.471896+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-falling-today-93CH-4822278",
+   "baslik": "Why is SoftBank Group stock falling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-falling-today-93CH-4822278",
+   "saat": "05:14",
+   "tarih_iso": "2026-07-30T05:14:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T06:01:12.471896+03:00"
+  },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/c0ejq9g2pz4o?at_medium=RSS&at_campaign=rss",
    "baslik": "The once destroyed community that's now a global energy giant",
@@ -2053,36 +2093,6 @@
    "tarih_iso": "2026-07-29T19:26:15+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T19:50:35.147240+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/energy-stocks-climb-as-oil-prices-jump-on-middle-east-tensions-93CH-4821245",
-   "baslik": "Energy stocks climb as oil prices jump on Middle East tensions",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/energy-stocks-climb-as-oil-prices-jump-on-middle-east-tensions-93CH-4821245",
-   "saat": "19:25",
-   "tarih_iso": "2026-07-29T19:25:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:50:35.147240+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-rise-as-robust-earnings-offset-fed-ratehike-fears-4818614",
-   "baslik": "European stocks mostly lower as Fed rate-hike fears offset robust earnings",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-stocks-rise-as-robust-earnings-offset-fed-ratehike-fears-4818614",
-   "saat": "19:22",
-   "tarih_iso": "2026-07-29T19:22:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:50:35.147240+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
-   "baslik": "Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html",
-   "saat": "19:18",
-   "tarih_iso": "2026-07-29T19:18:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T22:31:00.518991+03:00"
   }
  ],
  "altin_haber": [
@@ -2337,5 +2347,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-30T05:30:57.243480+03:00"
+ "guncelleme": "2026-07-30T06:01:12.471896+03:00"
 }
