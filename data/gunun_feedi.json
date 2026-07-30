@@ -493,6 +493,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/altn-fed-kaynakl-kazanclar-geri-verdi-dolar-sabit-kald-4002964",
+   "baslik": "Altın, Fed kararı sonrası kazanımlarını törpüledi; dolar dengelendi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-fed-kaynakl-kazanclar-geri-verdi-dolar-sabit-kald-4002964",
+   "saat": "04:26",
+   "tarih_iso": "2026-07-30T04:26:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T05:01:09.289832+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/fed-baskani-warsh-tan-enflasyon-hedefi-aciklamasi-3902042-ekonomi",
    "baslik": "Fed Başkanı Warsh'tan 'enflasyon hedefi' açıklaması",
    "kaynak": "Habertürk Ekonomi",
@@ -874,6 +884,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/gold-pares-feddriven-gains-as-markets-digest-warsh-comments-dollar-steadies-4822232",
+   "baslik": "Gold pares Fed-driven gains as markets digest Warsh comments, dollar steadies",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-pares-feddriven-gains-as-markets-digest-warsh-comments-dollar-steadies-4822232",
+   "saat": "04:26",
+   "tarih_iso": "2026-07-30T04:26:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T05:01:09.289832+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/strategy-q2-earnings-preview-bitcoin-sales-in-focus-93CH-4822219",
+   "baslik": "Strategy Q2 earnings preview: Bitcoin sales in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/strategy-q2-earnings-preview-bitcoin-sales-in-focus-93CH-4822219",
+   "saat": "04:12",
+   "tarih_iso": "2026-07-30T04:12:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T05:01:09.289832+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-capcom-stock-sliding-today-93CH-4822218",
    "baslik": "Why is Capcom stock sliding today?",
@@ -2053,29 +2083,29 @@
    "tarih_iso": "2026-07-29T19:16:33+03:00",
    "kodlar": [],
    "eklenme": "2026-07-29T19:31:05.145059+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/news/oil-rises-us-iran-tension-032028533.html",
-   "baslik": "Oil jumps 7% on escalating Middle East airstrikes",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/oil-rises-us-iran-tension-032028533.html",
-   "saat": "19:16",
-   "tarih_iso": "2026-07-29T19:16:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:31:05.145059+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-gain-as-earnings-lift-heavyweights-amid-middle-east-strikes-4818782",
-   "baslik": "FTSE 100 today: Stocks hit fresh record as oil and earnings boost gains",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-gain-as-earnings-lift-heavyweights-amid-middle-east-strikes-4818782",
-   "saat": "19:16",
-   "tarih_iso": "2026-07-29T19:16:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-29T19:50:35.147240+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/altn-fed-kaynakl-kazanclar-geri-verdi-dolar-sabit-kald-4002964",
+   "baslik": "Altın, Fed kararı sonrası kazanımlarını törpüledi; dolar dengelendi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-fed-kaynakl-kazanclar-geri-verdi-dolar-sabit-kald-4002964",
+   "saat": "04:26",
+   "tarih_iso": "2026-07-30T04:26:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T05:01:09.289832+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/gold-pares-feddriven-gains-as-markets-digest-warsh-comments-dollar-steadies-4822232",
+   "baslik": "Gold pares Fed-driven gains as markets digest Warsh comments, dollar steadies",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-pares-feddriven-gains-as-markets-digest-warsh-comments-dollar-steadies-4822232",
+   "saat": "04:26",
+   "tarih_iso": "2026-07-30T04:26:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T05:01:09.289832+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/golds-bearish-moving-average-stack-caps-every-recovery-attempt-200684833",
    "baslik": "Gold’s Bearish Moving Average Stack Caps Every Recovery Attempt",
@@ -2307,5 +2337,5 @@
    "eklenme": "2026-07-29T09:01:11.956257+03:00"
   }
  ],
- "guncelleme": "2026-07-30T04:31:00.339249+03:00"
+ "guncelleme": "2026-07-30T05:01:09.289832+03:00"
 }
