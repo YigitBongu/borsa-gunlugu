@@ -2,6 +2,19 @@
  "tarih": "2026-07-30",
  "kap": [
   {
+   "id": "kap-my-TOASO-202607300956",
+   "baslik": "TOFAŞ TÜRK OTOMOBİL FABRİKASI A.Ş. — Geleceğe Dönük Değerlendirmeler",
+   "sirket": "TOFAŞ TÜRK OTOMOBİL FABRİKASI A.Ş.",
+   "kodlar": [
+    "TOASO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:56",
+   "tarih_iso": "2026-07-30T09:56:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-30T10:30:58.623314+03:00"
+  },
+  {
    "id": "kap-my-GARAN-202607300800",
    "baslik": "TÜRKİYE GARANTİ BANKASI A.Ş. — Banka Finansal Rapor",
    "sirket": "TÜRKİYE GARANTİ BANKASI A.Ş.",
@@ -105,6 +118,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/fed-baskani-warshtan-enflasyon-mesaji-tek-hedef-yuzde-2-geri-adim-yok-3448265",
+   "baslik": "Fed Başkanı Warsh'tan enflasyon mesajı: Tek hedef yüzde 2, geri adım yok",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/fed-baskani-warshtan-enflasyon-mesaji-tek-hedef-yuzde-2-geri-adim-yok-3448265",
+   "saat": "12:58",
+   "tarih_iso": "2026-07-30T12:58:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T10:30:58.623314+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fed-karar-sonras-wall-streette-sert-sats-bist-bask-altnda-4003239",
+   "baslik": "Fed kararı sonrası Wall Street’te sert satış, BIST baskı altında",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fed-karar-sonras-wall-streette-sert-sats-bist-bask-altnda-4003239",
+   "saat": "10:15",
+   "tarih_iso": "2026-07-30T10:15:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T10:30:58.623314+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/finecobank-guclu-net-faiz-geliriyle-2c-beklentilerini-ast-93CH-4003176",
    "baslik": "FinecoBank güçlü net faiz geliriyle 2Ç beklentilerini aştı",
@@ -267,6 +300,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ayvens-reports-q2-profit-miss-on-used-car-weakness-93CH-4822546",
+   "baslik": "Ayvens reports Q2 profit miss on used car weakness",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ayvens-reports-q2-profit-miss-on-used-car-weakness-93CH-4822546",
+   "saat": "10:12",
+   "tarih_iso": "2026-07-30T10:12:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T10:30:58.623314+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Shell profits double as oil prices rise due to Iran war",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+   "saat": "10:11",
+   "tarih_iso": "2026-07-30T10:11:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T10:30:58.623314+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/one-of-the-markets-most-durable-growth-sectors-has-been-passed-over-for-ai-says-jpmorgan-b726011c?mod=mw_rss_topstories",
+   "baslik": "One of the market’s ‘most durable growth’ sectors has been passed over for AI, says JPMorgan",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/one-of-the-markets-most-durable-growth-sectors-has-been-passed-over-for-ai-says-jpmorgan-b726011c?mod=mw_rss_topstories",
+   "saat": "10:11",
+   "tarih_iso": "2026-07-30T10:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T10:30:58.623314+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-070-4822515",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.70%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-070-4822515",
+   "saat": "10:00",
+   "tarih_iso": "2026-07-30T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T10:30:58.623314+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cirsa-reports-10-revenue-growth-in-second-quarter-2026-93CH-4822514",
+   "baslik": "Cirsa reports 10% revenue growth in second quarter 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cirsa-reports-10-revenue-growth-in-second-quarter-2026-93CH-4822514",
+   "saat": "09:59",
+   "tarih_iso": "2026-07-30T09:59:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T10:30:58.623314+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/arkema-reports-second-quarter-earnings-above-expectations-93CH-4822513",
+   "baslik": "Arkema reports second quarter earnings above expectations",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/arkema-reports-second-quarter-earnings-above-expectations-93CH-4822513",
+   "saat": "09:59",
+   "tarih_iso": "2026-07-30T09:59:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-30T10:30:58.623314+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/30/us-treasury-yields-divided-fed-interest-rates-hold-steady-.html",
    "baslik": "Treasury sell-off continues after divided Fed holds interest rates steady",
@@ -680,6 +773,26 @@
    "eklenme": "2026-07-30T09:01:05.104735+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-fed-hold-shifts-focus-to-pce-inflation-data-200684854",
+   "baslik": "Gold: Fed Hold Shifts Focus to PCE Inflation Data",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-fed-hold-shifts-focus-to-pce-inflation-data-200684854",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-30T10:30:58.623314+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-price-rises-after-fed-holds-interest-rates-steady-200684853",
+   "baslik": "Gold Price Rises After Fed Holds Interest Rates Steady",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-price-rises-after-fed-holds-interest-rates-steady-200684853",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-30T10:30:58.623314+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-futures-break-above-vc-pmi-mean-as-cycle-analysis-targets-4260-resistance-200684845",
    "baslik": "Gold Futures Break Above VC PMI Mean as Cycle Analysis Targets $4,260 Resistance",
    "kaynak": "Investing Emtia",
@@ -730,5 +843,5 @@
    "eklenme": "2026-07-30T09:01:05.104735+03:00"
   }
  ],
- "guncelleme": "2026-07-30T10:01:05.391974+03:00"
+ "guncelleme": "2026-07-30T10:30:58.623314+03:00"
 }
