@@ -373,6 +373,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.haberturk.com/tcmb-den-doviz-duzenlemesi-3902549-ekonomi",
+   "baslik": "TCMB'den döviz düzenlemesi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/tcmb-den-doviz-duzenlemesi-3902549-ekonomi",
+   "saat": "00:41",
+   "tarih_iso": "2026-08-01T00:41:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T01:01:16.205516+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmbden-doviz-donusum-desteginde-yeni-duzenleme-katma-deger-esas-alinacak-haberi-834494",
+   "baslik": "TCMB'den döviz dönüşüm desteğinde yeni düzenleme: Katma değer esas alınacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmbden-doviz-donusum-desteginde-yeni-duzenleme-katma-deger-esas-alinacak-haberi-834494",
+   "saat": "00:37",
+   "tarih_iso": "2026-08-01T00:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T01:01:16.205516+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmbden-doviz-donusum-desteginin-etkinligini-artiracak-adimlar/4015428",
    "baslik": "TCMB'den döviz dönüşüm desteğinin etkinliğini artıracak adımlar",
    "kaynak": "AA Ekonomi",
@@ -624,6 +644,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories",
+   "baslik": "The S&P 500 is making a change by adding this little-known industrial stock",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-s-p-500-is-making-a-change-by-adding-this-little-known-industrial-stock-da648bd1?mod=mw_rss_topstories",
+   "saat": "00:53",
+   "tarih_iso": "2026-08-01T00:53:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T01:01:16.205516+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chevron-records-highest-quarterly-profit-in-six-years-beating-analyst-estimates-4827406",
+   "baslik": "Chevron records highest quarterly profit in six years, beating analyst estimates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chevron-records-highest-quarterly-profit-in-six-years-beating-analyst-estimates-4827406",
+   "saat": "00:30",
+   "tarih_iso": "2026-08-01T00:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T01:01:16.205516+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-053-4829315",
+   "baslik": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.53%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-053-4829315",
+   "saat": "00:30",
+   "tarih_iso": "2026-08-01T00:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T01:01:16.205516+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ferguson-stock-surges-on-sp-500-inclusion-announcement-93CH-4829313",
+   "baslik": "Ferguson stock surges on S&P 500 inclusion announcement",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ferguson-stock-surges-on-sp-500-inclusion-announcement-93CH-4829313",
+   "saat": "00:26",
+   "tarih_iso": "2026-08-01T00:26:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T01:01:16.205516+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-212-4829312",
+   "baslik": "Colombia stocks higher at close of trade; COLCAP up 2.12%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-212-4829312",
+   "saat": "00:25",
+   "tarih_iso": "2026-08-01T00:25:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T01:01:16.205516+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/system1-rating-upgraded-by-sp-on-debt-restructuring-93CH-4829253",
    "baslik": "System1 rating upgraded by S&P on debt restructuring",
@@ -1773,56 +1843,6 @@
    "tarih_iso": "2026-07-31T17:59:15+03:00",
    "kodlar": [],
    "eklenme": "2026-07-31T18:30:59.101746+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-005-4828826",
-   "baslik": "Norway stocks higher at close of trade; Oslo OBX up 0.05%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-005-4828826",
-   "saat": "17:55",
-   "tarih_iso": "2026-07-31T17:55:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-31T18:01:09.930917+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-132-4828825",
-   "baslik": "Israel stocks higher at close of trade; TA 35 up 1.32%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-132-4828825",
-   "saat": "17:55",
-   "tarih_iso": "2026-07-31T17:55:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-31T18:01:09.930917+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/currencies/articles/yen-weakens-intervention-led-surge-002908369.html",
-   "baslik": "Dollar eases against yen as intervention risks keep traders wary",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/currencies/articles/yen-weakens-intervention-led-surge-002908369.html",
-   "saat": "17:54",
-   "tarih_iso": "2026-07-31T17:54:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-31T18:30:59.101746+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tyler-technologies-stock-sliding-today-93CH-4828819",
-   "baslik": "Why is Tyler Technologies stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-tyler-technologies-stock-sliding-today-93CH-4828819",
-   "saat": "17:52",
-   "tarih_iso": "2026-07-31T17:52:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-31T18:01:09.930917+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/a-spot-is-opening-up-in-the-s-p-500-and-these-stocks-are-top-candidates-to-fill-the-void-5e72dd5d?mod=mw_rss_topstories",
-   "baslik": "A spot is opening up in the S&P 500, and these stocks are top candidates to fill the void",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/a-spot-is-opening-up-in-the-s-p-500-and-these-stocks-are-top-candidates-to-fill-the-void-5e72dd5d?mod=mw_rss_topstories",
-   "saat": "17:51",
-   "tarih_iso": "2026-07-31T17:51:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-31T18:01:09.930917+03:00"
   }
  ],
  "altin_haber": [
@@ -2057,5 +2077,5 @@
    "eklenme": "2026-07-31T09:01:04.984174+03:00"
   }
  ],
- "guncelleme": "2026-08-01T00:33:42.560526+03:00"
+ "guncelleme": "2026-08-01T01:01:16.205516+03:00"
 }
