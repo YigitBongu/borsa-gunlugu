@@ -2,6 +2,71 @@
  "tarih": "2026-07-31",
  "kap": [
   {
+   "id": "kap-my-ISGYO-202607311939",
+   "baslik": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Finansal Rapor",
+   "sirket": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+   "kodlar": [
+    "ISGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:39",
+   "tarih_iso": "2026-07-31T19:39:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
+  {
+   "id": "kap-my-SOKM-202607311938",
+   "baslik": "ŞOK MARKETLER TİCARET A.Ş. — Bağımsız Denetim Kuruluşunun Belirlenmesi",
+   "sirket": "ŞOK MARKETLER TİCARET A.Ş.",
+   "kodlar": [
+    "SOKM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:38",
+   "tarih_iso": "2026-07-31T19:38:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
+  {
+   "id": "kap-my-SOKM-202607311937",
+   "baslik": "ŞOK MARKETLER TİCARET A.Ş. — Kayıtlı Sermaye Tavanı İşlemlerine İlişkin Bildirim",
+   "sirket": "ŞOK MARKETLER TİCARET A.Ş.",
+   "kodlar": [
+    "SOKM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:37",
+   "tarih_iso": "2026-07-31T19:37:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
+  {
+   "id": "kap-my-SOKM-202607311934",
+   "baslik": "ŞOK MARKETLER TİCARET A.Ş. — Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+   "sirket": "ŞOK MARKETLER TİCARET A.Ş.",
+   "kodlar": [
+    "SOKM"
+   ],
+   "kategori": "Temettü",
+   "saat": "19:34",
+   "tarih_iso": "2026-07-31T19:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
+  {
+   "id": "kap-my-SOKM-202607311929",
+   "baslik": "ŞOK MARKETLER TİCARET A.Ş. — Genel Kurul İşlemlerine İlişkin Bildirim",
+   "sirket": "ŞOK MARKETLER TİCARET A.Ş.",
+   "kodlar": [
+    "SOKM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:29",
+   "tarih_iso": "2026-07-31T19:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
+  {
    "id": "kap-my-EKGYO-202607311657",
    "baslik": "HALK VARLIK KİRALAMA A.Ş. — Tertip İhraç Belgesi",
    "sirket": "HALK VARLIK KİRALAMA A.Ş.",
@@ -296,6 +361,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/hazineden-uc-ayda-12-trilyon-liralik-ic-borclanma-plani-haberi-834485",
+   "baslik": "Hazine'den üç ayda 1,2 trilyon liralık iç borçlanma planı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazineden-uc-ayda-12-trilyon-liralik-ic-borclanma-plani-haberi-834485",
+   "saat": "21:21",
+   "tarih_iso": "2026-07-31T21:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hazine-ve-maliye-bakanligi-acikladi-hazinenin-vergi-disi-normal-gelirleri-242-milyar-lira-oldu-haberi-834465",
+   "baslik": "Hazine ve Maliye Bakanlığı açıkladı: Hazine'nin vergi dışı normal gelirleri 24,2 milyar lira oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazine-ve-maliye-bakanligi-acikladi-hazinenin-vergi-disi-normal-gelirleri-242-milyar-lira-oldu-haberi-834465",
+   "saat": "18:58",
+   "tarih_iso": "2026-07-31T18:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/ekonomist-muhammet-bayramdan-kritik-uyari-fed-karari-sonrasi-altin-icin-beklenti-ne-yukselecek-mi-dusecek-mi-3448720",
    "baslik": "Ekonomist Muhammet Bayram'dan kritik uyarı: Fed kararı sonrası altın için beklenti ne? Yükselecek mi, düşecek mi?",
    "kaynak": "CNN Türk Ekonomi",
@@ -507,6 +592,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/system1-rating-upgraded-by-sp-on-debt-restructuring-93CH-4829253",
+   "baslik": "System1 rating upgraded by S&P on debt restructuring",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/system1-rating-upgraded-by-sp-on-debt-restructuring-93CH-4829253",
+   "saat": "23:44",
+   "tarih_iso": "2026-07-31T23:44:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-053-4829239",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.53%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-053-4829239",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-31T23:30:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-079-4829237",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.79%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-079-4829237",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-31T23:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-047-4829234",
+   "baslik": "Brazil stocks higher at close of trade; Bovespa up 0.47%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-047-4829234",
+   "saat": "23:30",
+   "tarih_iso": "2026-07-31T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/bmo-names-top-energy-transition-stock-pick-93CH-4829188",
    "baslik": "BMO names top energy transition stock pick",
@@ -1666,49 +1791,19 @@
    "tarih_iso": "2026-07-31T17:50:03+03:00",
    "kodlar": [],
    "eklenme": "2026-07-31T18:01:09.930917+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1",
-   "baslik": "US Treasury warns banks it may intervene in yen",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/0f9b2fe7-bde4-4f5f-b49e-93ccb5da9ea8?syn-25a6b1a6=1",
-   "saat": "17:50",
-   "tarih_iso": "2026-07-31T17:50:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-31T21:30:59.916200+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/vistra-stock-may-move-64-on-aug-7-earnings-release-93CH-4828804",
-   "baslik": "Vistra stock may move 6.4% on Aug. 7 earnings release",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/vistra-stock-may-move-64-on-aug-7-earnings-release-93CH-4828804",
-   "saat": "17:50",
-   "tarih_iso": "2026-07-31T17:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-31T18:01:09.930917+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/coinbase-q2-2026-earnings-miss-144916215.html",
-   "baslik": "Coinbase Q2 2026 earnings miss: $359 million net loss",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-q2-2026-earnings-miss-144916215.html",
-   "saat": "17:49",
-   "tarih_iso": "2026-07-31T17:49:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-31T18:01:09.930917+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/oklo-shares-may-move-13-on-aug-7-earnings-release-93CH-4828801",
-   "baslik": "Oklo shares may move 13% on Aug. 7 earnings release",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/oklo-shares-may-move-13-on-aug-7-earnings-release-93CH-4828801",
-   "saat": "17:48",
-   "tarih_iso": "2026-07-31T17:48:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-31T18:01:09.930917+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/golds-bullish-setup-gains-support-from-low-investor-allocations-200685005",
+   "baslik": "Gold’s Bullish Setup Gains Support From Low Investor Allocations",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-bullish-setup-gains-support-from-low-investor-allocations-200685005",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-01T00:01:10.666219+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/news/stock-market-news/tsx-futures-rise-amid-earnings-deluge-upcoming-gdp-data-4827901",
    "baslik": "Canada stocks fall as gold slump hits miners despite stronger-than-expected GDP",
@@ -1930,5 +2025,5 @@
    "eklenme": "2026-07-31T09:01:04.984174+03:00"
   }
  ],
- "guncelleme": "2026-07-31T23:31:04.984507+03:00"
+ "guncelleme": "2026-08-01T00:01:10.666219+03:00"
 }
