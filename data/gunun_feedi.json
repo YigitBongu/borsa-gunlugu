@@ -2,6 +2,19 @@
  "tarih": "2026-07-31",
  "kap": [
   {
+   "id": "kap-my-ODAS-202607311149",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ODAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:49",
+   "tarih_iso": "2026-07-31T11:49:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
    "id": "kap-my-KORDS-202607311121",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -108,6 +121,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/vw-passat-sedan-geri-mi-donuyor-dogus-otomotiv-yonetim-kurulu-baskani-ali-bilaloglu-otospor-da-acikladi-3902204-ekonomi",
+   "baslik": "Passat sedan geri mi dönüyor?",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/vw-passat-sedan-geri-mi-donuyor-dogus-otomotiv-yonetim-kurulu-baskani-ali-bilaloglu-otospor-da-acikladi-3902204-ekonomi",
+   "saat": "11:57",
+   "tarih_iso": "2026-07-31T11:57:19+03:00",
+   "kodlar": [
+    "DOAS"
+   ],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/turk-telekom-international-ile-uluslararasi-alanda-buyuk-guven-haberi-834403",
    "baslik": "Türk Telekom International ile uluslararası alanda büyük güven",
    "kaynak": "Dünya",
@@ -157,6 +182,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/enflasyon-rakamlari-ne-zaman-aciklanacak-temmuz-enflasyon-orani-hangi-gun-aciklanacak-haberi-834407",
+   "baslik": "Enflasyon rakamları ne zaman açıklanacak? Temmuz enflasyon oranı hangi gün açıklanacak?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/enflasyon-rakamlari-ne-zaman-aciklanacak-temmuz-enflasyon-orani-hangi-gun-aciklanacak-haberi-834407",
+   "saat": "12:17",
+   "tarih_iso": "2026-07-31T12:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkiye-yilin-ilk-6-ayinda-turizmden-25-milyar-746-milyon-dolar-elde-etti/4014737",
+   "baslik": "Türkiye yılın ilk 6 ayında turizmden 25 milyar 746 milyon dolar elde etti",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-yilin-ilk-6-ayinda-turizmden-25-milyar-746-milyon-dolar-elde-etti/4014737",
+   "saat": "12:07",
+   "tarih_iso": "2026-07-31T12:07:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomik-veriler/turizmde-kisi-basi-gecelik-harcama-113-dolar-haberi-834383",
    "baslik": "Turizmde kişi başı gecelik harcama 113 dolar",
@@ -239,6 +284,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zabka-stock-surging-today-93CH-4827203",
+   "baslik": "Why is Żabka stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-zabka-stock-surging-today-93CH-4827203",
+   "saat": "12:25",
+   "tarih_iso": "2026-07-31T12:25:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/amazon-jumps-as-aws-growth-soothes-fears-over-rising-ai-spending-4827202",
+   "baslik": "Amazon jumps as AWS growth soothes fears over rising AI spending",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/amazon-jumps-as-aws-growth-soothes-fears-over-rising-ai-spending-4827202",
+   "saat": "12:24",
+   "tarih_iso": "2026-07-31T12:24:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-industrie-de-nora-stock-surging-today-93CH-4827200",
+   "baslik": "Why is Industrie De Nora stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-industrie-de-nora-stock-surging-today-93CH-4827200",
+   "saat": "12:24",
+   "tarih_iso": "2026-07-31T12:24:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-godaddy-stock-tumbling-today-93CH-4827199",
+   "baslik": "Why is GoDaddy stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-godaddy-stock-tumbling-today-93CH-4827199",
+   "saat": "12:24",
+   "tarih_iso": "2026-07-31T12:24:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-western-union-stock-sliding-today-93CH-4827187",
+   "baslik": "Why is Western Union stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-western-union-stock-sliding-today-93CH-4827187",
+   "saat": "12:23",
+   "tarih_iso": "2026-07-31T12:23:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-coinbase-stock-sliding-today-93CH-4827186",
+   "baslik": "Why is Coinbase stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-coinbase-stock-sliding-today-93CH-4827186",
+   "saat": "12:23",
+   "tarih_iso": "2026-07-31T12:23:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-astera-labs-stock-surging-today-93CH-4827184",
+   "baslik": "Why is Astera Labs stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-astera-labs-stock-surging-today-93CH-4827184",
+   "saat": "12:22",
+   "tarih_iso": "2026-07-31T12:22:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-melrose-industries-stock-sliding-today-93CH-4827133",
+   "baslik": "Why is Melrose Industries stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-melrose-industries-stock-sliding-today-93CH-4827133",
+   "saat": "12:10",
+   "tarih_iso": "2026-07-31T12:10:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ig-stock-dropping-today-93CH-4827132",
+   "baslik": "Why is IG stock dropping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ig-stock-dropping-today-93CH-4827132",
+   "saat": "12:10",
+   "tarih_iso": "2026-07-31T12:10:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/f54e632e-f8b4-4554-9f2e-c8a2ded0555b",
+   "baslik": "Eurozone inflation rises to 2.9% in July",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/f54e632e-f8b4-4554-9f2e-c8a2ded0555b",
+   "saat": "12:01",
+   "tarih_iso": "2026-07-31T12:01:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T12:31:10.660373+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-rivian-automotive-stock-surging-today-93CH-4827033",
    "baslik": "Why is Rivian Automotive stock surging today?",
@@ -912,5 +1057,5 @@
    "eklenme": "2026-07-31T09:01:04.984174+03:00"
   }
  ],
- "guncelleme": "2026-07-31T12:01:26.890388+03:00"
+ "guncelleme": "2026-07-31T12:31:10.660373+03:00"
 }
