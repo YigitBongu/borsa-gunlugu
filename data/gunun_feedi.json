@@ -2,6 +2,19 @@
  "tarih": "2026-07-31",
  "kap": [
   {
+   "id": "kap-my-CWENE-202607311213",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:13",
+   "tarih_iso": "2026-07-31T12:13:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
+  {
    "id": "kap-my-ODAS-202607311149",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -183,6 +196,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.haberturk.com/yurt-disinda-aylik-1-milyar-dolar-harcama-3902398-ekonomi",
+   "baslik": "Yurt dışı gezilerinde ayda milyar dolar harcıyoruz",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/yurt-disinda-aylik-1-milyar-dolar-harcama-3902398-ekonomi",
+   "saat": "12:39",
+   "tarih_iso": "2026-07-31T12:39:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/enflasyon-rakamlari-ne-zaman-aciklanacak-temmuz-enflasyon-orani-hangi-gun-aciklanacak-haberi-834407",
    "baslik": "Enflasyon rakamları ne zaman açıklanacak? Temmuz enflasyon oranı hangi gün açıklanacak?",
    "kaynak": "Dünya",
@@ -284,6 +307,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/south-koreas-chip-giants-just-logged-their-biggest-rally-ever-what-it-means-for-the-global-ai-trade-94d7e914?mod=mw_rss_topstories",
+   "baslik": "South Korea’s chip giants just logged their biggest rally ever. What it means for the global AI trade.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/south-koreas-chip-giants-just-logged-their-biggest-rally-ever-what-it-means-for-the-global-ai-trade-94d7e914?mod=mw_rss_topstories",
+   "saat": "12:48",
+   "tarih_iso": "2026-07-31T12:48:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-viridien-stock-surging-today-93CH-4827239",
+   "baslik": "Why is Viridien stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-viridien-stock-surging-today-93CH-4827239",
+   "saat": "12:37",
+   "tarih_iso": "2026-07-31T12:37:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-corbion-stock-sliding-today-93CH-4827238",
+   "baslik": "Why is Corbion stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-corbion-stock-sliding-today-93CH-4827238",
+   "saat": "12:37",
+   "tarih_iso": "2026-07-31T12:37:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-konica-minolta-stock-plunging-today-93CH-4827237",
+   "baslik": "Why is Konica Minolta stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-konica-minolta-stock-plunging-today-93CH-4827237",
+   "saat": "12:37",
+   "tarih_iso": "2026-07-31T12:37:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/barclays-bullish-on-cvs-as-australia-expansion-boosts-earnings-outlook-4827233",
+   "baslik": "Barclays bullish on CVS as Australia expansion boosts earnings outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/barclays-bullish-on-cvs-as-australia-expansion-boosts-earnings-outlook-4827233",
+   "saat": "12:34",
+   "tarih_iso": "2026-07-31T12:34:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nomura-research-stock-tumbles-despite-beating-q1-estimates-93CH-4827232",
+   "baslik": "Nomura Research stock tumbles despite beating Q1 estimates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nomura-research-stock-tumbles-despite-beating-q1-estimates-93CH-4827232",
+   "saat": "12:33",
+   "tarih_iso": "2026-07-31T12:33:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-surging-today-93CH-4827231",
+   "baslik": "Why is Kioxia stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kioxia-stock-surging-today-93CH-4827231",
+   "saat": "12:33",
+   "tarih_iso": "2026-07-31T12:33:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-abivax-stock-climbing-today-93CH-4827212",
+   "baslik": "Why is Abivax stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-abivax-stock-climbing-today-93CH-4827212",
+   "saat": "12:29",
+   "tarih_iso": "2026-07-31T12:29:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-magna-international-stock-rising-today-93CH-4827211",
+   "baslik": "Why is Magna International stock rising today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-magna-international-stock-rising-today-93CH-4827211",
+   "saat": "12:29",
+   "tarih_iso": "2026-07-31T12:29:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-prada-stock-surging-today-93CH-4827210",
+   "baslik": "Why is Prada stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-prada-stock-surging-today-93CH-4827210",
+   "saat": "12:29",
+   "tarih_iso": "2026-07-31T12:29:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:01:07.681922+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zabka-stock-surging-today-93CH-4827203",
    "baslik": "Why is Żabka stock surging today?",
@@ -1057,5 +1180,5 @@
    "eklenme": "2026-07-31T09:01:04.984174+03:00"
   }
  ],
- "guncelleme": "2026-07-31T12:31:10.660373+03:00"
+ "guncelleme": "2026-07-31T13:01:07.681922+03:00"
 }
