@@ -239,6 +239,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/anadolu-efes-ten-25-4-milyon-dolarlik-satin-alma-3902320-ekonomi",
+   "baslik": "Anadolu Efes'ten 25,4 milyon dolarlık satın alma",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/anadolu-efes-ten-25-4-milyon-dolarlik-satin-alma-3902320-ekonomi",
+   "saat": "08:06",
+   "tarih_iso": "2026-07-31T08:06:03+03:00",
+   "kodlar": [
+    "AEFES"
+   ],
+   "eklenme": "2026-07-31T08:30:59.077640+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/yapi-kredi-ceosu-erun-statejik-buyumede-donum-noktasindayiz-haberi-834305",
    "baslik": "Yapı Kredi CEO’su Erün: Statejik büyümede dönüm noktasındayız",
    "kaynak": "Dünya",
@@ -384,6 +396,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/12-yargi-paketi-yururluge-girdi-iban-kullandirana-ceza-indirimi-kanuni-faiz-degisti-haberi-834365",
+   "baslik": "12. Yargı Paketi yürürlüğe girdi: IBAN kullandırana ceza indirimi, kanuni faiz değişti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/12-yargi-paketi-yururluge-girdi-iban-kullandirana-ceza-indirimi-kanuni-faiz-degisti-haberi-834365",
+   "saat": "08:04",
+   "tarih_iso": "2026-07-31T08:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T08:30:59.077640+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-31-temmuz-cuma-doviz-kurlari-haberi-834358",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (31 Temmuz Cuma Döviz Kurları)",
@@ -2079,6 +2101,16 @@
    "eklenme": "2026-07-31T07:01:04.452163+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-4-aylik-dusus-serisi-icin-son-sinavda-galeri-834354",
+   "baslik": "Altın 4 aylık düşüş serisi için son sınavda",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-4-aylik-dusus-serisi-icin-son-sinavda-galeri-834354",
+   "saat": "06:26",
+   "tarih_iso": "2026-07-31T06:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T08:30:59.077640+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/news/stock-market-news/tsx-futures-point-higher-amid-earnings-deluge-mideast-tensions-4824199",
    "baslik": "Canada’s TSX edges higher, supported by resource stocks and firmer gold",
    "kaynak": "Investing.com",
@@ -2259,5 +2291,5 @@
    "eklenme": "2026-07-30T09:01:05.104735+03:00"
   }
  ],
- "guncelleme": "2026-07-31T08:01:11.174346+03:00"
+ "guncelleme": "2026-07-31T08:30:59.077640+03:00"
 }
