@@ -2,6 +2,19 @@
  "tarih": "2026-07-31",
  "kap": [
   {
+   "id": "kap-my-KORDS-202607311121",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:21",
+   "tarih_iso": "2026-07-31T11:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-31T11:42:44.169720+03:00"
+  },
+  {
    "id": "kap-my-YEOTK-202607310929",
    "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -707,6 +720,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisini-umutlandiran-tahmin-guclu-destek-seviyesi-aciklandi-galeri-834399",
+   "baslik": "Altın yatırımcısını umutlandıran tahmin: Güçlü destek seviyesi açıklandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisini-umutlandiran-tahmin-guclu-destek-seviyesi-aciklandi-galeri-834399",
+   "saat": "11:18",
+   "tarih_iso": "2026-07-31T11:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T11:42:44.169720+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-iran-conflict-leaves-bullion-caught-between-risk-and-resistance-200684952",
    "baslik": "Gold: Iran Conflict Leaves Bullion Caught Between Risk and Resistance",
    "kaynak": "Investing Emtia",
@@ -777,5 +800,5 @@
    "eklenme": "2026-07-31T09:01:04.984174+03:00"
   }
  ],
- "guncelleme": "2026-07-31T11:30:59.843319+03:00"
+ "guncelleme": "2026-07-31T11:42:44.169720+03:00"
 }
