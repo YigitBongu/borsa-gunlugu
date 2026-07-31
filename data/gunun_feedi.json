@@ -2,6 +2,32 @@
  "tarih": "2026-07-31",
  "kap": [
   {
+   "id": "kap-my-BRSAN-202607311409",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BRSAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:09",
+   "tarih_iso": "2026-07-31T14:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-31T14:27:00.702879+03:00"
+  },
+  {
+   "id": "kap-my-SKBNK-202607311402",
+   "baslik": "ŞEKERBANK T.A.Ş. — Olağan Dışı Fiyat ve Miktar Hareketleri",
+   "sirket": "ŞEKERBANK T.A.Ş.",
+   "kodlar": [
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:02",
+   "tarih_iso": "2026-07-31T14:02:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-07-31T14:27:00.702879+03:00"
+  },
+  {
    "id": "kap-my-CWENE-202607311213",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -232,6 +258,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/ekonomist-muhammet-bayramdan-kritik-uyari-fed-karari-sonrasi-altin-icin-beklenti-ne-yukselecek-mi-dusecek-mi-3448720",
+   "baslik": "Ekonomist Muhammet Bayram'dan kritik uyarı: Fed kararı sonrası altın için beklenti ne? Yükselecek mi, düşecek mi?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/ekonomist-muhammet-bayramdan-kritik-uyari-fed-karari-sonrasi-altin-icin-beklenti-ne-yukselecek-mi-dusecek-mi-3448720",
+   "saat": "17:02",
+   "tarih_iso": "2026-07-31T17:02:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T14:27:00.702879+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-enflasyon-yukseldi-temmuzda-yillik-oran-yuzde-29-oldu-haberi-834414",
    "baslik": "Euro Bölgesi'nde enflasyon yükseldi: Temmuzda yıllık oran yüzde 2,9 oldu",
    "kaynak": "Dünya",
@@ -363,6 +399,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-moderna-stock-sliding-today-93CH-4827644",
+   "baslik": "Why is Moderna stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-sliding-today-93CH-4827644",
+   "saat": "14:12",
+   "tarih_iso": "2026-07-31T14:12:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T14:27:00.702879+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-telus-stock-sliding-today-93CH-4827626",
+   "baslik": "Why is Telus stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-telus-stock-sliding-today-93CH-4827626",
+   "saat": "14:11",
+   "tarih_iso": "2026-07-31T14:11:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T14:27:00.702879+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
    "baslik": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
@@ -1236,6 +1292,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/video/ekonomi/ekonomist-muhammet-bayramdan-kritik-uyari-fed-karari-sonrasi-altin-icin-beklenti-ne-yukselecek-mi-dusecek-mi-3448720",
+   "baslik": "Ekonomist Muhammet Bayram'dan kritik uyarı: Fed kararı sonrası altın için beklenti ne? Yükselecek mi, düşecek mi?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/ekonomist-muhammet-bayramdan-kritik-uyari-fed-karari-sonrasi-altin-icin-beklenti-ne-yukselecek-mi-dusecek-mi-3448720",
+   "saat": "17:02",
+   "tarih_iso": "2026-07-31T17:02:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T14:27:00.702879+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-softer-inflation-and-slower-growth-support-recovery-200684953",
    "baslik": "Gold: Softer Inflation and Slower Growth Support Recovery",
    "kaynak": "Investing Emtia",
@@ -1346,5 +1412,5 @@
    "eklenme": "2026-07-31T09:01:04.984174+03:00"
   }
  ],
- "guncelleme": "2026-07-31T14:01:06.645250+03:00"
+ "guncelleme": "2026-07-31T14:27:00.702879+03:00"
 }
