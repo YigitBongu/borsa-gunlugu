@@ -121,6 +121,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/turizmde-kisi-basi-gecelik-harcama-113-dolar-haberi-834383",
+   "baslik": "Turizmde kişi başı gecelik harcama 113 dolar",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/turizmde-kisi-basi-gecelik-harcama-113-dolar-haberi-834383",
+   "saat": "10:01",
+   "tarih_iso": "2026-07-31T10:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T10:30:56.569363+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/japonya-merkez-bankasi-faizi-sabit-birakti-3902328-ekonomi",
    "baslik": "Japonya Merkez Bankası faizi sabit bıraktı",
    "kaynak": "Habertürk Ekonomi",
@@ -192,6 +202,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/air-taxi-developers-pivot-to-military-market-amid-civil-certification-delays-4826847",
+   "baslik": "Air taxi developers pivot to military market amid civil certification delays",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/air-taxi-developers-pivot-to-military-market-amid-civil-certification-delays-4826847",
+   "saat": "10:07",
+   "tarih_iso": "2026-07-31T10:07:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T10:30:56.569363+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-386-4826839",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 3.86%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-386-4826839",
+   "saat": "10:00",
+   "tarih_iso": "2026-07-31T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T10:30:56.569363+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-010-4826801",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.10%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-010-4826801",
+   "saat": "09:30",
+   "tarih_iso": "2026-07-31T09:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T10:30:56.569363+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-chipmakers-ai-stocks-surge-on-wall-st-tech-cheer-monthend-buying-4826800",
+   "baslik": "Asia chipmakers, AI stocks surge on Wall St tech cheer, month-end buying",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-chipmakers-ai-stocks-surge-on-wall-st-tech-cheer-monthend-buying-4826800",
+   "saat": "09:29",
+   "tarih_iso": "2026-07-31T09:29:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T10:30:56.569363+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/unicaja-banco-raises-2026-profit-guidance-after-second-quarter-beat-93CH-4826780",
    "baslik": "Unicaja Banco raises 2026 profit guidance after second quarter beat",
@@ -495,6 +545,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-tests-weekly-sell-zone-as-bull-market-continues-200684934",
+   "baslik": "Gold Tests Weekly Sell Zone as Bull Market Continues",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-tests-weekly-sell-zone-as-bull-market-continues-200684934",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-31T10:30:56.569363+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-faces-directional-risk-as-trumps-iran-stance-keeps-shifting-200684903",
    "baslik": "Gold Faces Directional Risk as Trump’s Iran Stance Keeps Shifting",
    "kaynak": "Investing Emtia",
@@ -545,5 +605,5 @@
    "eklenme": "2026-07-31T09:01:04.984174+03:00"
   }
  ],
- "guncelleme": "2026-07-31T10:01:11.227192+03:00"
+ "guncelleme": "2026-07-31T10:30:56.569363+03:00"
 }
