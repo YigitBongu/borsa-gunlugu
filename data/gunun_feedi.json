@@ -95,6 +95,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-sturm-graz-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sampiyonlar-ligi-maci-tarihi-haberi-834390",
+   "baslik": "Fenerbahçe Sturm Graz maçı ne zaman, saat kaçta, hangi kanalda? FB Şampiyonlar Ligi maçı tarihi...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-sturm-graz-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sampiyonlar-ligi-maci-tarihi-haberi-834390",
+   "saat": "10:36",
+   "tarih_iso": "2026-07-31T10:36:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-07-31T11:01:11.656953+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/anadolu-efes-ten-25-4-milyon-dolarlik-satin-alma-3902320-ekonomi",
    "baslik": "Anadolu Efes'ten 25,4 milyon dolarlık satın alma",
    "kaynak": "Habertürk Ekonomi",
@@ -202,6 +214,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-infineon-technologies-stock-surging-today-93CH-4826922",
+   "baslik": "Why is Infineon Technologies stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-infineon-technologies-stock-surging-today-93CH-4826922",
+   "saat": "10:58",
+   "tarih_iso": "2026-07-31T10:58:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T11:01:11.656953+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-taylor-wimpey-stock-sliding-today-93CH-4826903",
+   "baslik": "Why is Taylor Wimpey stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-taylor-wimpey-stock-sliding-today-93CH-4826903",
+   "saat": "10:46",
+   "tarih_iso": "2026-07-31T10:46:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T11:01:11.656953+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-imi-stock-rallying-today-93CH-4826878",
+   "baslik": "Why is IMI stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-imi-stock-rallying-today-93CH-4826878",
+   "saat": "10:26",
+   "tarih_iso": "2026-07-31T10:26:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T11:01:11.656953+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-tracking-global-tech-rally-4826877",
+   "baslik": "FTSE 100 today: Stocks rise, tracking global tech rally",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-tracking-global-tech-rally-4826877",
+   "saat": "10:26",
+   "tarih_iso": "2026-07-31T10:26:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T11:01:11.656953+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-international-consolidated-airlines-stock-sliding-today-93CH-4826876",
+   "baslik": "Why is International Consolidated Airlines stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-international-consolidated-airlines-stock-sliding-today-93CH-4826876",
+   "saat": "10:25",
+   "tarih_iso": "2026-07-31T10:25:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T11:01:11.656953+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/air-taxi-developers-pivot-to-military-market-amid-civil-certification-delays-4826847",
    "baslik": "Air taxi developers pivot to military market amid civil certification delays",
@@ -545,6 +607,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-iran-conflict-leaves-bullion-caught-between-risk-and-resistance-200684952",
+   "baslik": "Gold: Iran Conflict Leaves Bullion Caught Between Risk and Resistance",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-iran-conflict-leaves-bullion-caught-between-risk-and-resistance-200684952",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-07-31T11:01:11.656953+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-tests-weekly-sell-zone-as-bull-market-continues-200684934",
    "baslik": "Gold Tests Weekly Sell Zone as Bull Market Continues",
    "kaynak": "Investing Emtia",
@@ -605,5 +677,5 @@
    "eklenme": "2026-07-31T09:01:04.984174+03:00"
   }
  ],
- "guncelleme": "2026-07-31T10:30:56.569363+03:00"
+ "guncelleme": "2026-07-31T11:01:11.656953+03:00"
 }
