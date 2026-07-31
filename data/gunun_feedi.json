@@ -134,6 +134,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/dijital-baglantinin-bolgesel-merkezi-turkiye-3902440-teknoloji",
+   "baslik": "Dijital bağlantının bölgesel merkezi Türkiye",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/dijital-baglantinin-bolgesel-merkezi-turkiye-3902440-teknoloji",
+   "saat": "13:39",
+   "tarih_iso": "2026-07-31T13:39:12+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-07-31T14:01:06.645250+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/cemal-onaran-odeme-ve-tapu-devri-es-zamanli-gerceklesecek-3902410-ekonomi",
    "baslik": "\"Ödeme ve tapu devri eş zamanlı gerçekleşecek\"",
    "kaynak": "Habertürk Ekonomi",
@@ -168,6 +180,18 @@
     "TTKOM"
    ],
    "eklenme": "2026-07-31T12:01:26.890388+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-kardemir-celik-icin-caldi/4014667",
+   "baslik": "Borsa İstanbul'da gong Kardemir Çelik için çaldı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-kardemir-celik-icin-caldi/4014667",
+   "saat": "11:12",
+   "tarih_iso": "2026-07-31T11:12:13+03:00",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "eklenme": "2026-07-31T14:01:06.645250+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-sturm-graz-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sampiyonlar-ligi-maci-tarihi-haberi-834390",
@@ -339,6 +363,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
+   "baslik": "Exxon and Chevron profits surge on rising oil prices due to Iran war",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/31/exxon-xom-chevron-cvx-q2-earnings.html",
+   "saat": "14:00",
+   "tarih_iso": "2026-07-31T14:00:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T14:01:06.645250+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-fresh-volatility-means-a-valuation-opportunity-is-opening-up-in-u-s-stocks-9dbef149?mod=mw_rss_topstories",
+   "baslik": "Why fresh volatility means a ‘valuation opportunity’ is opening up in U.S. stocks",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-fresh-volatility-means-a-valuation-opportunity-is-opening-up-in-u-s-stocks-9dbef149?mod=mw_rss_topstories",
+   "saat": "13:49",
+   "tarih_iso": "2026-07-31T13:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T14:01:06.645250+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chevron-records-highest-quarterly-profit-in-six-years-beating-analyst-estimates-4827406",
+   "baslik": "Chevron records highest quarterly profit in six years, beating analyst estimates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chevron-records-highest-quarterly-profit-in-six-years-beating-analyst-estimates-4827406",
+   "saat": "13:48",
+   "tarih_iso": "2026-07-31T13:48:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T14:01:06.645250+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/exxonmobil-quarterly-profit-hits-fouryear-high-but-misses-analyst-estimates-4827464",
+   "baslik": "ExxonMobil quarterly profit hits four-year high but misses analyst estimates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/exxonmobil-quarterly-profit-hits-fouryear-high-but-misses-analyst-estimates-4827464",
+   "saat": "13:37",
+   "tarih_iso": "2026-07-31T13:37:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T14:01:06.645250+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/a417eb44-bffe-4584-b14e-570e76d3fb23?syn-25a6b1a6=1",
+   "baslik": "Chevron and Exxon earnings soar as Trump threatens price interventions",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/a417eb44-bffe-4584-b14e-570e76d3fb23?syn-25a6b1a6=1",
+   "saat": "13:30",
+   "tarih_iso": "2026-07-31T13:30:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T14:01:06.645250+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-027-4827445",
+   "baslik": "India stocks higher at close of trade; Nifty 50 up 0.27%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-027-4827445",
+   "saat": "13:30",
+   "tarih_iso": "2026-07-31T13:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T14:01:06.645250+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/medacta-reports-sales-miss-as-north-america-growth-slows-93CH-4827342",
    "baslik": "Medacta reports sales miss as North America growth slows",
@@ -1262,5 +1346,5 @@
    "eklenme": "2026-07-31T09:01:04.984174+03:00"
   }
  ],
- "guncelleme": "2026-07-31T13:30:59.853307+03:00"
+ "guncelleme": "2026-07-31T14:01:06.645250+03:00"
 }
