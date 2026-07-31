@@ -134,6 +134,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/cemal-onaran-odeme-ve-tapu-devri-es-zamanli-gerceklesecek-3902410-ekonomi",
+   "baslik": "\"Ödeme ve tapu devri eş zamanlı gerçekleşecek\"",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/cemal-onaran-odeme-ve-tapu-devri-es-zamanli-gerceklesecek-3902410-ekonomi",
+   "saat": "13:23",
+   "tarih_iso": "2026-07-31T13:23:11+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-07-31T13:30:59.853307+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/vw-passat-sedan-geri-mi-donuyor-dogus-otomotiv-yonetim-kurulu-baskani-ali-bilaloglu-otospor-da-acikladi-3902204-ekonomi",
    "baslik": "Passat sedan geri mi dönüyor?",
    "kaynak": "Habertürk Ekonomi",
@@ -195,6 +207,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-enflasyon-yukseldi-temmuzda-yillik-oran-yuzde-29-oldu-haberi-834414",
+   "baslik": "Euro Bölgesi'nde enflasyon yükseldi: Temmuzda yıllık oran yüzde 2,9 oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/euro-bolgesinde-enflasyon-yukseldi-temmuzda-yillik-oran-yuzde-29-oldu-haberi-834414",
+   "saat": "12:59",
+   "tarih_iso": "2026-07-31T12:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:30:59.853307+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/bakan-simsek-turizm-verilerini-degerlendirdi-gelir-652-milyar-dolar-oldu-haberi-834413",
+   "baslik": "Bakan Şimşek turizm verilerini değerlendirdi: Gelir 65,2 milyar dolar oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bakan-simsek-turizm-verilerini-degerlendirdi-gelir-652-milyar-dolar-oldu-haberi-834413",
+   "saat": "12:50",
+   "tarih_iso": "2026-07-31T12:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:30:59.853307+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/yurt-disinda-aylik-1-milyar-dolar-harcama-3902398-ekonomi",
    "baslik": "Yurt dışı gezilerinde ayda milyar dolar harcıyoruz",
@@ -307,6 +339,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/medacta-reports-sales-miss-as-north-america-growth-slows-93CH-4827342",
+   "baslik": "Medacta reports sales miss as North America growth slows",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/medacta-reports-sales-miss-as-north-america-growth-slows-93CH-4827342",
+   "saat": "13:12",
+   "tarih_iso": "2026-07-31T13:12:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:30:59.853307+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-upbeat-amazon-earnings-apple-slides-4826634",
+   "baslik": "U.S. stock futures rise following tech recovery rally",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-upbeat-amazon-earnings-apple-slides-4826634",
+   "saat": "13:06",
+   "tarih_iso": "2026-07-31T13:06:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:30:59.853307+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bank-of-ireland-raises-2026-profit-outlook-on-lower-impairments-93CH-4827301",
+   "baslik": "Bank of Ireland raises 2026 profit outlook on lower impairments",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bank-of-ireland-raises-2026-profit-outlook-on-lower-impairments-93CH-4827301",
+   "saat": "13:05",
+   "tarih_iso": "2026-07-31T13:05:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:30:59.853307+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-replimune-stock-surging-today-93CH-4827296",
+   "baslik": "Why is Replimune stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-replimune-stock-surging-today-93CH-4827296",
+   "saat": "13:02",
+   "tarih_iso": "2026-07-31T13:02:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:30:59.853307+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/f54e632e-f8b4-4554-9f2e-c8a2ded0555b?syn-25a6b1a6=1",
+   "baslik": "Eurozone inflation rises to 2.9% in July",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/f54e632e-f8b4-4554-9f2e-c8a2ded0555b?syn-25a6b1a6=1",
+   "saat": "12:51",
+   "tarih_iso": "2026-07-31T12:51:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T13:30:59.853307+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/south-koreas-chip-giants-just-logged-their-biggest-rally-ever-what-it-means-for-the-global-ai-trade-94d7e914?mod=mw_rss_topstories",
    "baslik": "South Korea’s chip giants just logged their biggest rally ever. What it means for the global AI trade.",
@@ -1180,5 +1262,5 @@
    "eklenme": "2026-07-31T09:01:04.984174+03:00"
   }
  ],
- "guncelleme": "2026-07-31T13:01:07.681922+03:00"
+ "guncelleme": "2026-07-31T13:30:59.853307+03:00"
 }
