@@ -385,6 +385,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-31-temmuz-cuma-doviz-kurlari-haberi-834358",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (31 Temmuz Cuma Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-31-temmuz-cuma-doviz-kurlari-haberi-834358",
+   "saat": "07:17",
+   "tarih_iso": "2026-07-31T07:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T07:31:00.844378+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-borsalar-yukseldi-kospi-toparland-boj-faizi-sabit-tuttu-4005859",
+   "baslik": "Asya borsaları yükseldi: KOSPI toparlandı, BOJ faiz sabit tuttu",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-borsalar-yukseldi-kospi-toparland-boj-faizi-sabit-tuttu-4005859",
+   "saat": "06:37",
+   "tarih_iso": "2026-07-31T06:37:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T07:31:00.844378+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/apnimed-halka-arzda-hisse-basna-16-dolar-fiyat-belirledi-192-milyon-dolar-toplad-432SI-4005846",
    "baslik": "Apnimed halka arzda hisse başına 16 dolar fiyat belirledi, 192 milyon dolar topladı",
    "kaynak": "Investing TR",
@@ -846,6 +866,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
+   "baslik": "Oil prices ease as recovering Hormuz Strait traffic tempers war premium",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/07/31/oil-prices-today-brent-wti-hormuz-trump-iran-.html",
+   "saat": "07:25",
+   "tarih_iso": "2026-07-31T07:25:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T07:31:00.844378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-minimax-stock-surging-today-93CH-4826731",
+   "baslik": "Why is MiniMax stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-minimax-stock-surging-today-93CH-4826731",
+   "saat": "07:16",
+   "tarih_iso": "2026-07-31T07:16:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-07-31T07:31:00.844378+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html",
    "baslik": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target",
@@ -2025,26 +2065,6 @@
    "tarih_iso": "2026-07-30T19:06:46+03:00",
    "kodlar": [],
    "eklenme": "2026-07-30T19:23:20.823426+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-q2-earnings-call-160423931.html",
-   "baslik": "FTAI Aviation Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ftai-aviation-q2-earnings-call-160423931.html",
-   "saat": "19:04",
-   "tarih_iso": "2026-07-30T19:04:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T19:30:56.377264+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/exelon-q2-earnings-call-highlights-160422767.html",
-   "baslik": "Exelon Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/exelon-q2-earnings-call-highlights-160422767.html",
-   "saat": "19:04",
-   "tarih_iso": "2026-07-30T19:04:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-07-30T19:30:56.377264+03:00"
   }
  ],
  "altin_haber": [
@@ -2239,5 +2259,5 @@
    "eklenme": "2026-07-30T09:01:05.104735+03:00"
   }
  ],
- "guncelleme": "2026-07-31T07:01:04.452163+03:00"
+ "guncelleme": "2026-07-31T07:31:00.844378+03:00"
 }
