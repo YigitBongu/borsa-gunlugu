@@ -67,7 +67,20 @@
    "eklenme": "2026-08-01T09:01:06.647502+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcenin-borcu-aciklandi-haberi-834540",
+   "baslik": "Fenerbahçe'nin borcu açıklandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcenin-borcu-aciklandi-haberi-834540",
+   "saat": "12:23",
+   "tarih_iso": "2026-08-01T12:23:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-01T12:31:00.730777+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/tcmbden-doviz-icin-yeni-karar-sure-2027ye-kadar-uzatildi-3448992",
@@ -394,6 +407,16 @@
    "eklenme": "2026-08-01T11:31:03.312858+03:00"
   },
   {
+   "id": "alt-https://www.haberturk.com/altinin-onsunda-ibre-5-ay-sonra-ilk-kez-yukari-dondu-3902603-ekonomi",
+   "baslik": "Altında ibre 5 ay sonra yukarı döndü",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/altinin-onsunda-ibre-5-ay-sonra-ilk-kez-yukari-dondu-3902603-ekonomi",
+   "saat": "11:58",
+   "tarih_iso": "2026-08-01T11:58:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-01T12:31:00.730777+03:00"
+  },
+  {
    "id": "alt-https://www.aa.com.tr/tr/ekonomi/altinin-onsunda-ibre-5-ay-sonra-ilk-kez-yukari-dondu/4015572",
    "baslik": "Altının onsunda ibre 5 ay sonra ilk kez yukarı döndü",
    "kaynak": "AA Ekonomi",
@@ -494,5 +517,5 @@
    "eklenme": "2026-08-01T09:01:06.647502+03:00"
   }
  ],
- "guncelleme": "2026-08-01T12:01:09.382583+03:00"
+ "guncelleme": "2026-08-01T12:31:00.730777+03:00"
 }
