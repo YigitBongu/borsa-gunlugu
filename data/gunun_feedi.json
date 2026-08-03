@@ -1,6 +1,46 @@
 {
  "tarih": "2026-08-03",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-CIMSA-202608030805",
+   "baslik": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "CIMSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:05",
+   "tarih_iso": "2026-08-03T08:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-03T09:30:59.524410+03:00"
+  },
+  {
+   "id": "kap-my-EGEEN-202608030745",
+   "baslik": "EGE ENDÜSTRİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "EGEEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "07:45",
+   "tarih_iso": "2026-08-03T07:45:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-03T09:30:59.524410+03:00"
+  },
+  {
+   "id": "kap-my-SAHOL-202608030730",
+   "baslik": "HACI ÖMER SABANCI HOLDİNG A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "07:30",
+   "tarih_iso": "2026-08-03T07:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-03T09:30:59.524410+03:00"
+  }
+ ],
  "sirket": [],
  "makro": [
   {
@@ -65,6 +105,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4829827",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted unchanged",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4829827",
+   "saat": "09:05",
+   "tarih_iso": "2026-08-03T09:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T09:30:59.524410+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/weride-expands-to-denmark-in-continued-european-market-push-93CH-4829824",
    "baslik": "WeRide expands to Denmark in continued European market push",
@@ -278,5 +328,5 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   }
  ],
- "guncelleme": "2026-08-03T09:01:14.673739+03:00"
+ "guncelleme": "2026-08-03T09:30:59.524410+03:00"
 }
