@@ -2,6 +2,19 @@
  "tarih": "2026-08-03",
  "kap": [
   {
+   "id": "kap-my-SDTTR-202608031200",
+   "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:00",
+   "tarih_iso": "2026-08-03T12:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202608031003",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -56,6 +69,16 @@
  ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/turkiyeye-gelen-turistlerin-gozdesi-belli-oldu-milyarlarca-dolar-harcadilar-3449722",
+   "baslik": "Türkiye'ye gelen turistlerin gözdesi belli oldu! Milyarlarca dolar harcadılar",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/turkiyeye-gelen-turistlerin-gozdesi-belli-oldu-milyarlarca-dolar-harcadilar-3449722",
+   "saat": "15:17",
+   "tarih_iso": "2026-08-03T15:17:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/turistler-turkiyede-yedi-icti-6-milyar-dolar-harcadi-haberi-834732",
    "baslik": "Turistler Türkiye'de yedi içti, 6 milyar dolar harcadı",
@@ -209,6 +232,56 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/warsh-tightened-more-by-pausing-than-by-lifting-rates-this-bond-market-veteran-argues-heres-the-math-31cb15a1?mod=mw_rss_topstories",
+   "baslik": "Warsh tightened more by pausing than by lifting rates, this bond-market veteran argues. Here’s the math.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/warsh-tightened-more-by-pausing-than-by-lifting-rates-this-bond-market-veteran-argues-heres-the-math-31cb15a1?mod=mw_rss_topstories",
+   "saat": "12:18",
+   "tarih_iso": "2026-08-03T12:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ferguson-stock-surging-today-93CH-4830156",
+   "baslik": "Why is Ferguson stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ferguson-stock-surging-today-93CH-4830156",
+   "saat": "12:17",
+   "tarih_iso": "2026-08-03T12:17:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-xpeng-stock-sliding-today-93CH-4830155",
+   "baslik": "Why is Xpeng stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-xpeng-stock-sliding-today-93CH-4830155",
+   "saat": "12:17",
+   "tarih_iso": "2026-08-03T12:17:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ig-stock-sliding-today-93CH-4830133",
+   "baslik": "Why is IG stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ig-stock-sliding-today-93CH-4830133",
+   "saat": "12:16",
+   "tarih_iso": "2026-08-03T12:16:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mersen-stock-surging-today-93CH-4830082",
+   "baslik": "Why is Mersen stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mersen-stock-surging-today-93CH-4830082",
+   "saat": "12:01",
+   "tarih_iso": "2026-08-03T12:01:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-atkore-stock-surging-today-93CH-4830041",
    "baslik": "Why is Atkore stock surging today?",
    "kaynak": "Investing.com",
@@ -217,6 +290,16 @@
    "tarih_iso": "2026-08-03T11:50:14+03:00",
    "kodlar": [],
    "eklenme": "2026-08-03T12:01:43.645634+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-down-22-heres-085000550.html",
+   "baslik": "Semiconductor Stocks Are Down 22%. Here's the 1 Chip Stock I'd Buy Right Now.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-down-22-heres-085000550.html",
+   "saat": "11:50",
+   "tarih_iso": "2026-08-03T11:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-elis-stock-rallying-today-93CH-4830034",
@@ -499,6 +582,16 @@
    "eklenme": "2026-08-03T11:01:12.733285+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/once-bankrupt-atari-returns-profit-071207629.html",
+   "baslik": "Once-bankrupt Atari returns to profit with decade-high revenue",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/once-bankrupt-atari-returns-profit-071207629.html",
+   "saat": "10:12",
+   "tarih_iso": "2026-08-03T10:12:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/this-chip-stock-is-among-bernsteins-best-ideas-for-q3-2026-93CH-4829895",
    "baslik": "This Chip Stock is Among Bernstein’s Best Ideas for Q3 2026",
    "kaynak": "Investing.com",
@@ -619,6 +712,36 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/shein-weighs-cost-reset-stage-053237706.html",
+   "baslik": "Shein weighs cost reset for late-stage investors ahead of Hong Kong IPO, Bloomberg News reports",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/shein-weighs-cost-reset-stage-053237706.html",
+   "saat": "08:44",
+   "tarih_iso": "2026-08-03T08:44:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
+   "baslik": "Oil slumps on hopes of Iran deal, yen firms after intervention",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
+   "saat": "08:43",
+   "tarih_iso": "2026-08-03T08:43:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/shein-weighs-cost-reset-stage-053237486.html",
+   "baslik": "Shein proposes cash payouts, more shares for late-stage investors ahead of IPO",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/shein-weighs-cost-reset-stage-053237486.html",
+   "saat": "08:32",
+   "tarih_iso": "2026-08-03T08:32:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-toto-stock-tumbling-today-93CH-4829800",
    "baslik": "Why is TOTO stock tumbling today?",
    "kaynak": "Investing.com",
@@ -639,6 +762,16 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/analysis-big-investors-think-might-052016359.html",
+   "baslik": "Analysis-Big investors think it might be time to buy in South Korea",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/analysis-big-investors-think-might-052016359.html",
+   "saat": "08:20",
+   "tarih_iso": "2026-08-03T08:20:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/03/oil-prices-today-wti-brent-hormuz-trump-iran.html",
    "baslik": "Oil drops over 5% as Middle East tensions ebb on diplomatic efforts",
    "kaynak": "CNBC",
@@ -647,6 +780,26 @@
    "tarih_iso": "2026-08-03T07:35:13+03:00",
    "kodlar": [],
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+   "baslik": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-amd-sandisk-eli-lilly-earnings-loom/?src=A00220&yptr=yahoo",
+   "saat": "07:21",
+   "tarih_iso": "2026-08-03T07:21:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/articles/freight-market-5-signals-capacity-041055064.html",
+   "baslik": "Freight Market Update: 5 Signals Capacity Is Tight",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/articles/freight-market-5-signals-capacity-041055064.html",
+   "saat": "07:10",
+   "tarih_iso": "2026-08-03T07:10:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
   },
   {
    "id": "yab-https://www.ft.com/content/90550cee-2dd4-437f-8bda-b1ff41317d23",
@@ -720,6 +873,16 @@
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/aktuel/damada-20-milyon-tl-nakit-geline-kilolarca-altin-takildi-500-kilo-et-yediler-galeri-834738",
+   "baslik": "Damada 20 milyon TL nakit, geline kilolarca altın takıldı! 500 kilo et yediler",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/aktuel/damada-20-milyon-tl-nakit-geline-kilolarca-altin-takildi-500-kilo-et-yediler-galeri-834738",
+   "saat": "12:03",
+   "tarih_iso": "2026-08-03T12:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-weak-technicals-meet-sticky-inflation-concerns-200685043",
    "baslik": "Gold: Weak Technicals Meet Sticky Inflation Concerns",
@@ -881,5 +1044,5 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   }
  ],
- "guncelleme": "2026-08-03T12:01:43.645634+03:00"
+ "guncelleme": "2026-08-03T12:31:06.022151+03:00"
 }
