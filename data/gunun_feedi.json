@@ -44,6 +44,16 @@
  "sirket": [],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmbden-dijital-turk-lirasi-projesi-ekosistemine-katilim-cagrisina-iliskin-aciklama/4016649",
+   "baslik": "TCMB'den \"Dijital Türk Lirası Projesi\" ekosistemine katılım çağrısına ilişkin açıklama",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-dijital-turk-lirasi-projesi-ekosistemine-katilim-cagrisina-iliskin-aciklama/4016649",
+   "saat": "09:45",
+   "tarih_iso": "2026-08-03T09:45:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:01:15.172381+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/kripto-paralarin-degeri-temmuzda-123-milyar-dolar-artti-3902885-ekonomi",
    "baslik": "Kripto paraların değeri temmuzda 123 milyar dolar arttı",
    "kaynak": "Habertürk Ekonomi",
@@ -105,6 +115,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-047-4829847",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.47%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-047-4829847",
+   "saat": "09:30",
+   "tarih_iso": "2026-08-03T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:01:15.172381+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-retreat-as-kospi-sinks-4-ai-selloff-outweighs-iran-optimism-4829761",
+   "baslik": "Asia stocks tumble as KOSPI extends losses; AI shares drag regional markets",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-retreat-as-kospi-sinks-4-ai-selloff-outweighs-iran-optimism-4829761",
+   "saat": "09:27",
+   "tarih_iso": "2026-08-03T09:27:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:01:15.172381+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/seeens-2025-revenue-jumps-65-as-ebitda-loss-narrows-93CH-4829843",
+   "baslik": "Seeen’s 2025 revenue jumps 65% as EBITDA loss narrows",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/seeens-2025-revenue-jumps-65-as-ebitda-loss-narrows-93CH-4829843",
+   "saat": "09:23",
+   "tarih_iso": "2026-08-03T09:23:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:01:15.172381+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/microlise-reports-10-revenue-drop-in-h1-amid-hardware-weakness-93CH-4829840",
+   "baslik": "Microlise reports 10% revenue drop in H1 amid hardware weakness",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/microlise-reports-10-revenue-drop-in-h1-amid-hardware-weakness-93CH-4829840",
+   "saat": "09:19",
+   "tarih_iso": "2026-08-03T09:19:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:01:15.172381+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4829827",
    "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted unchanged",
@@ -258,6 +308,16 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/the-3-pillars-of-golds-secular-bull-market-200685032",
+   "baslik": "The 3 Pillars of Gold’s Secular Bull Market",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/the-3-pillars-of-golds-secular-bull-market-200685032",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:01:15.172381+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-bullish-setup-gains-support-from-low-investor-allocations-200685005",
    "baslik": "Gold’s Bullish Setup Gains Support From Low Investor Allocations",
    "kaynak": "Investing Emtia",
@@ -328,5 +388,5 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   }
  ],
- "guncelleme": "2026-08-03T09:30:59.524410+03:00"
+ "guncelleme": "2026-08-03T10:01:15.172381+03:00"
 }
