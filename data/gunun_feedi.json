@@ -67,7 +67,20 @@
    "eklenme": "2026-08-03T09:30:59.524410+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcenin-sampiyonlar-ligi-play-off-turundaki-olasi-rakibi-belli-oldu-haberi-834751",
+   "baslik": "Fenerbahçe'nin Şampiyonlar Ligi play-off turundaki olası rakibi belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcenin-sampiyonlar-ligi-play-off-turundaki-olasi-rakibi-belli-oldu-haberi-834751",
+   "saat": "13:14",
+   "tarih_iso": "2026-08-03T13:14:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/turkiyeye-gelen-turistlerin-gozdesi-belli-oldu-milyarlarca-dolar-harcadilar-3449722",
@@ -78,6 +91,26 @@
    "tarih_iso": "2026-08-03T15:17:47+03:00",
    "kodlar": [],
    "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/cinin-londian-wason-abd-halka-arznda-17-milyar-dolar-degerleme-hedefliyor-93CH-4008931",
+   "baslik": "Çin’in Londian Wason’ı ABD halka arzında 1,7 milyar dolar değerleme hedefliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/cinin-londian-wason-abd-halka-arznda-17-milyar-dolar-degerleme-hedefliyor-93CH-4008931",
+   "saat": "13:18",
+   "tarih_iso": "2026-08-03T13:18:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbulda-dikkat-ceken-tablo-yukselen-hisseler-ilk-7-ayda-dusenleri-geride-birakti-haberi-834753",
+   "baslik": "Borsa İstanbul'da dikkat çeken tablo! Yükselen hisseler ilk 7 ayda düşenleri geride bıraktı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbulda-dikkat-ceken-tablo-yukselen-hisseler-ilk-7-ayda-dusenleri-geride-birakti-haberi-834753",
+   "saat": "13:18",
+   "tarih_iso": "2026-08-03T13:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/yunanistan-47-milyar-euro-erken-borc-odemesi-yapacak-haberi-834746",
@@ -241,6 +274,166 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/oil-prices-fall-to-three-week-low-after-trump-calls-off-planned-attack-631a8683?mod=mw_rss_topstories",
+   "baslik": "Oil prices fall to three-week low after Trump calls off planned attack",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/oil-prices-fall-to-three-week-low-after-trump-calls-off-planned-attack-631a8683?mod=mw_rss_topstories",
+   "saat": "13:26",
+   "tarih_iso": "2026-08-03T13:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/spacexs-first-results-put-musks-ai-spending-under-wall-street-microscope-4830348",
+   "baslik": "SpaceX’s first results put Musk’s AI spending under Wall Street microscope",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/spacexs-first-results-put-musks-ai-spending-under-wall-street-microscope-4830348",
+   "saat": "13:19",
+   "tarih_iso": "2026-08-03T13:19:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canaccord-sees-ai-spending-surge-in-strong-earnings-season-93CH-4830344",
+   "baslik": "Canaccord sees AI spending surge in strong earnings season",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canaccord-sees-ai-spending-surge-in-strong-earnings-season-93CH-4830344",
+   "saat": "13:18",
+   "tarih_iso": "2026-08-03T13:18:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/thank-mr-tariff-trump-says-101500164.html",
+   "baslik": "‘Thank you, Mr. Tariff!’: Trump says his tariffs led to the biggest deficit drop 'in history.’ Are they still working?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/thank-mr-tariff-trump-says-101500164.html",
+   "saat": "13:15",
+   "tarih_iso": "2026-08-03T13:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/latigo-biotherapeutics-files-for-nasdaq-ipo-at-up-to-18-per-share-432SI-4830320",
+   "baslik": "Latigo Biotherapeutics files for Nasdaq IPO at up to $18 per share",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/latigo-biotherapeutics-files-for-nasdaq-ipo-at-up-to-18-per-share-432SI-4830320",
+   "saat": "13:13",
+   "tarih_iso": "2026-08-03T13:13:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-touts-iran-negotiations-4829740",
+   "baslik": "U.S. stock futures tick higher as Trump touts Iran negotiations",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-touts-iran-negotiations-4829740",
+   "saat": "13:12",
+   "tarih_iso": "2026-08-03T13:12:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-q1-profit-falls-100817010.html",
+   "baslik": "Maruti Suzuki Q1 profit falls despite rise in net sales",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-q1-profit-falls-100817010.html",
+   "saat": "13:08",
+   "tarih_iso": "2026-08-03T13:08:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/exclusive-feds-williams-expects-inflation-100542847.html",
+   "baslik": "Exclusive-Fed's Williams expects inflation to ease, says Fed will act if it doesn't",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/exclusive-feds-williams-expects-inflation-100542847.html",
+   "saat": "13:05",
+   "tarih_iso": "2026-08-03T13:05:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stabilus-q3-earnings-call-highlights-100214569.html",
+   "baslik": "Stabilus Q3 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stabilus-q3-earnings-call-highlights-100214569.html",
+   "saat": "13:02",
+   "tarih_iso": "2026-08-03T13:02:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/15-israel-englanders-240-billion-100100377.html",
+   "baslik": "15% Of Israel Englander's $240 Billion Millennium Portfolio Sits in Just 10 Stocks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/15-israel-englanders-240-billion-100100377.html",
+   "saat": "13:01",
+   "tarih_iso": "2026-08-03T13:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-3-2026-you-can-earn-up-to-415-apy-100000400.html",
+   "baslik": "Best high-yield savings interest rates today, Monday, August 3, 2026: You can earn up to 4.15% APY",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-3-2026-you-can-earn-up-to-415-apy-100000400.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-08-03T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-3-2026-lock-in-up-to-410-apy-100000001.html",
+   "baslik": "Best CD rates today, Monday, August 3, 2026: Lock in up to 4.10% APY",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-3-2026-lock-in-up-to-410-apy-100000001.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-08-03T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-3-2026-purchase-and-refi-rates-mixed-to-start-the-week-100000044.html",
+   "baslik": "Mortgage and refinance rates today, Monday, August 3, 2026: Purchase and refi rates mixed to start the week",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-3-2026-purchase-and-refi-rates-mixed-to-start-the-week-100000044.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-08-03T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-3-2026-just-a-2-basis-point-differential-100000140.html",
+   "baslik": "HELOC and home equity loan rates today, Monday, August 3, 2026: Just a 2-basis-point differential",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-3-2026-just-a-2-basis-point-differential-100000140.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-08-03T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/oil-companies-expensive-future-struggle-energy-market-share-90090535?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Oil Companies Have Raked in Massive Profits During the Iran War but Their Future Will Be Expensive",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/oil-companies-expensive-future-struggle-energy-market-share-90090535?siteid=yhoof2&yptr=yahoo",
+   "saat": "12:55",
+   "tarih_iso": "2026-08-03T12:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/bristol-myers-squibb-stock-merger-astrazeneca-9b775ac3?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Bristol Myers Squibb Stock Soars on Report of $400 Billion Merger Talks With AstraZeneca",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/bristol-myers-squibb-stock-merger-astrazeneca-9b775ac3?siteid=yhoof2&yptr=yahoo",
+   "saat": "12:54",
+   "tarih_iso": "2026-08-03T12:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/had-1-000-invest-today-093500140.html",
    "baslik": "If I Had $1,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
@@ -924,6 +1117,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-survived-the-fed-can-it-survive-payrolls-200685072",
+   "baslik": "Gold Survived the Fed. Can It Survive Payrolls?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-survived-the-fed-can-it-survive-payrolls-200685072",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/aktuel/damada-20-milyon-tl-nakit-geline-kilolarca-altin-takildi-500-kilo-et-yediler-galeri-834738",
    "baslik": "Damada 20 milyon TL nakit, geline kilolarca altın takıldı! 500 kilo et yediler",
    "kaynak": "Dünya",
@@ -1094,5 +1297,5 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   }
  ],
- "guncelleme": "2026-08-03T13:01:05.656020+03:00"
+ "guncelleme": "2026-08-03T13:31:07.208748+03:00"
 }
