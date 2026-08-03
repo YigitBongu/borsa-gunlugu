@@ -2,6 +2,46 @@
  "tarih": "2026-08-03",
  "kap": [
   {
+   "id": "kap-my-ISCTR-202608031811",
+   "baslik": "TÜRKİYE İŞ BANKASI A.Ş. — Banka Finansal Rapor",
+   "sirket": "TÜRKİYE İŞ BANKASI A.Ş.",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:11",
+   "tarih_iso": "2026-08-03T18:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "kap-my-ISGYO-202608031759",
+   "baslik": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+   "kodlar": [
+    "ISGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:59",
+   "tarih_iso": "2026-08-03T17:59:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "kap-my-GESAN-202608031745",
+   "baslik": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş. — İhale Süreci / Sonucu",
+   "sirket": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
+   "kodlar": [
+    "GESAN",
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:45",
+   "tarih_iso": "2026-08-03T17:45:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
    "id": "kap-my-EREGL-202608031720",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -223,6 +263,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-834787",
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-834787",
+   "saat": "18:23",
+   "tarih_iso": "2026-08-03T18:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/ubs-kara-para-aklamay-onleme-yasasn-ihlal-nedeniyle-125-milyon-dolar-ceza-ald-93CH-4010017",
    "baslik": "UBS kara para aklamayı önleme yasasını ihlal nedeniyle 125 milyon dolar ceza aldı",
@@ -455,6 +505,136 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-touts-iran-negotiations-4829740",
+   "baslik": "Wall Street surges to kick off August as Trump touts Iran negotiations",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-as-trump-touts-iran-negotiations-4829740",
+   "saat": "18:15",
+   "tarih_iso": "2026-08-03T18:15:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nissan-swings-q1-profit-holds-151448406.html",
+   "baslik": "Nissan swings to Q1 profit, holds FY26 target steady",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nissan-swings-q1-profit-holds-151448406.html",
+   "saat": "18:14",
+   "tarih_iso": "2026-08-03T18:14:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ares-management-stock-surging-today-93CH-4831816",
+   "baslik": "Why is Ares Management stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ares-management-stock-surging-today-93CH-4831816",
+   "saat": "18:12",
+   "tarih_iso": "2026-08-03T18:12:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-018-4831804",
+   "baslik": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.18%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-018-4831804",
+   "saat": "18:10",
+   "tarih_iso": "2026-08-03T18:10:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-astrazeneca-stock-tumbling-today-93CH-4831796",
+   "baslik": "Why is AstraZeneca stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-astrazeneca-stock-tumbling-today-93CH-4831796",
+   "saat": "18:07",
+   "tarih_iso": "2026-08-03T18:07:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+   "baslik": "Amazon tops $3 trillion market cap as stock continues post-earnings surge",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html",
+   "saat": "18:05",
+   "tarih_iso": "2026-08-03T18:05:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/uber-reports-earnings-aug-5-150400366.html",
+   "baslik": "Uber Reports Earnings on Aug. 5, Followed by Lyft on Aug. 6. Here's the Better Buy Now.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/uber-reports-earnings-aug-5-150400366.html",
+   "saat": "18:04",
+   "tarih_iso": "2026-08-03T18:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
+   "baslik": "Why tech stocks are likely to take a back seat for the rest of 2026, according to JPMorgan strategists",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-tech-stocks-are-likely-to-take-a-back-seat-for-the-rest-of-2026-according-to-jpmorgan-strategists-93e1c61f?mod=mw_rss_topstories",
+   "saat": "18:03",
+   "tarih_iso": "2026-08-03T18:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tyson-foods-q3-earnings-call-150246870.html",
+   "baslik": "Tyson Foods Q3 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-q3-earnings-call-150246870.html",
+   "saat": "18:02",
+   "tarih_iso": "2026-08-03T18:02:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/sally-beauty-q3-earnings-call-150245164.html",
+   "baslik": "Sally Beauty Q3 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sally-beauty-q3-earnings-call-150245164.html",
+   "saat": "18:02",
+   "tarih_iso": "2026-08-03T18:02:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-q2-earnings-call-150244147.html",
+   "baslik": "CNH Industrial Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cnh-industrial-q2-earnings-call-150244147.html",
+   "saat": "18:02",
+   "tarih_iso": "2026-08-03T18:02:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/twist-bioscience-q3-earnings-call-150244176.html",
+   "baslik": "Twist Bioscience Q3 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/twist-bioscience-q3-earnings-call-150244176.html",
+   "saat": "18:02",
+   "tarih_iso": "2026-08-03T18:02:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/next-glp-1-billion-dollar-145554150.html",
+   "baslik": "Next GLP-1 Billion-Dollar Market: Fireside Chat with Conexeu Sciences CEO Miles Harrison",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/next-glp-1-billion-dollar-145554150.html",
+   "saat": "17:55",
+   "tarih_iso": "2026-08-03T17:55:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T18:31:02.599946+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/article/gamestop-stock-sinks-to-lowest-level-since-august-2024-144436234.html",
    "baslik": "GameStop stock sinks to lowest level since August 2024",
@@ -1524,136 +1704,6 @@
    "tarih_iso": "2026-08-03T13:47:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-03T14:01:06.838977+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ibm-fallen-33-high-yields-104600877.html",
-   "baslik": "IBM Has Fallen 33% From Its High and Yields 3%. Here's What That Dividend Actually Costs the Company.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-fallen-33-high-yields-104600877.html",
-   "saat": "13:46",
-   "tarih_iso": "2026-08-03T13:46:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T14:01:06.838977+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/goldman-sachs-warns-on-fed-communication-strategy-risks-93CH-4830480",
-   "baslik": "Goldman Sachs warns on Fed communication strategy risks",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-warns-on-fed-communication-strategy-risks-93CH-4830480",
-   "saat": "13:43",
-   "tarih_iso": "2026-08-03T13:43:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T14:01:06.838977+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
-   "baslik": "AstraZeneca tie-up talks with Bristol-Myers Squibb are moving stocks. Analysts are puzzled.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
-   "saat": "13:43",
-   "tarih_iso": "2026-08-03T13:43:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T14:01:06.838977+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-226d8148?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Auto & Transport Roundup: Market Talk",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-226d8148?siteid=yhoof2&yptr=yahoo",
-   "saat": "13:42",
-   "tarih_iso": "2026-08-03T13:42:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T14:01:06.838977+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/warfueled-oil-rally-set-to-lift-shale-profits-to-highest-since-2022-4830385",
-   "baslik": "War-fueled oil rally set to lift shale profits to highest since 2022",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/warfueled-oil-rally-set-to-lift-shale-profits-to-highest-since-2022-4830385",
-   "saat": "13:31",
-   "tarih_iso": "2026-08-03T13:31:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T14:01:06.838977+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/microsoft-joins-broadcom-exits-goldmans-topstocks-list-4830378",
-   "baslik": "Microsoft joins, Broadcom exits Goldman’s top-stocks list",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/microsoft-joins-broadcom-exits-goldmans-topstocks-list-4830378",
-   "saat": "13:30",
-   "tarih_iso": "2026-08-03T13:30:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T14:01:06.838977+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-160-4830375",
-   "baslik": "India stocks higher at close of trade; Nifty 50 up 1.60%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-160-4830375",
-   "saat": "13:30",
-   "tarih_iso": "2026-08-03T13:30:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T14:01:06.838977+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/oil-prices-fall-to-three-week-low-after-trump-calls-off-planned-attack-631a8683?mod=mw_rss_topstories",
-   "baslik": "Oil prices fall to three-week low after Trump calls off planned attack",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/oil-prices-fall-to-three-week-low-after-trump-calls-off-planned-attack-631a8683?mod=mw_rss_topstories",
-   "saat": "13:26",
-   "tarih_iso": "2026-08-03T13:26:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T13:31:07.208748+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/japans-nissan-sees-profit-latest-102327579.html",
-   "baslik": "Japan's Nissan sees profit for latest quarter but warns of Middle East and China woes",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/japans-nissan-sees-profit-latest-102327579.html",
-   "saat": "13:23",
-   "tarih_iso": "2026-08-03T13:23:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T14:01:06.838977+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/spacexs-first-results-put-musks-ai-spending-under-wall-street-microscope-4830348",
-   "baslik": "SpaceX’s first results put Musk’s AI spending under Wall Street microscope",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/spacexs-first-results-put-musks-ai-spending-under-wall-street-microscope-4830348",
-   "saat": "13:19",
-   "tarih_iso": "2026-08-03T13:19:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T13:31:07.208748+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/canaccord-sees-ai-spending-surge-in-strong-earnings-season-93CH-4830344",
-   "baslik": "Canaccord sees AI spending surge in strong earnings season",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/canaccord-sees-ai-spending-surge-in-strong-earnings-season-93CH-4830344",
-   "saat": "13:18",
-   "tarih_iso": "2026-08-03T13:18:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T13:31:07.208748+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/thank-mr-tariff-trump-says-101500164.html",
-   "baslik": "‘Thank you, Mr. Tariff!’: Trump says his tariffs led to the biggest deficit drop 'in history.’ Are they still working?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/thank-mr-tariff-trump-says-101500164.html",
-   "saat": "13:15",
-   "tarih_iso": "2026-08-03T13:15:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T13:31:07.208748+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/latigo-biotherapeutics-files-for-nasdaq-ipo-at-up-to-18-per-share-432SI-4830320",
-   "baslik": "Latigo Biotherapeutics files for Nasdaq IPO at up to $18 per share",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/latigo-biotherapeutics-files-for-nasdaq-ipo-at-up-to-18-per-share-432SI-4830320",
-   "saat": "13:13",
-   "tarih_iso": "2026-08-03T13:13:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T13:31:07.208748+03:00"
   }
  ],
  "altin_haber": [
@@ -1898,5 +1948,5 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   }
  ],
- "guncelleme": "2026-08-03T18:01:11.207252+03:00"
+ "guncelleme": "2026-08-03T18:31:02.599946+03:00"
 }
