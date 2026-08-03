@@ -2,6 +2,19 @@
  "tarih": "2026-08-03",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202608031003",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "10:03",
+   "tarih_iso": "2026-08-03T10:03:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-03T10:31:37.902127+03:00"
+  },
+  {
    "id": "kap-my-CIMSA-202608030805",
    "baslik": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
@@ -43,6 +56,36 @@
  ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/enflasyon-rakamlari-aciklandi/4016673",
+   "baslik": "Enflasyon rakamları açıklandı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/enflasyon-rakamlari-aciklandi/4016673",
+   "saat": "10:02",
+   "tarih_iso": "2026-08-03T10:02:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:31:37.902127+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/son-dakika-temmuz-ayi-enflasyon-orani-belli-oldu-haberi-834720",
+   "baslik": "Son dakika... Temmuz ayı enflasyon oranı belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/son-dakika-temmuz-ayi-enflasyon-orani-belli-oldu-haberi-834720",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-03T10:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:31:37.902127+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmbden-dijital-turk-lirasi-projesinde-yeni-adim-haberi-834717",
+   "baslik": "TCMB'den Dijital Türk Lirası Projesi'nde yeni adım",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmbden-dijital-turk-lirasi-projesinde-yeni-adim-haberi-834717",
+   "saat": "09:55",
+   "tarih_iso": "2026-08-03T09:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:31:37.902127+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmbden-dijital-turk-lirasi-projesi-ekosistemine-katilim-cagrisina-iliskin-aciklama/4016649",
    "baslik": "TCMB'den \"Dijital Türk Lirası Projesi\" ekosistemine katılım çağrısına ilişkin açıklama",
@@ -115,6 +158,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/this-chip-stock-is-among-bernsteins-best-ideas-for-q3-2026-93CH-4829895",
+   "baslik": "This Chip Stock is Among Bernstein’s Best Ideas for Q3 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/this-chip-stock-is-among-bernsteins-best-ideas-for-q3-2026-93CH-4829895",
+   "saat": "10:08",
+   "tarih_iso": "2026-08-03T10:08:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:31:37.902127+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/can-broadening-earnings-growth-keep-european-stocks-climbing-4829889",
+   "baslik": "Can broadening earnings growth keep European stocks climbing?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/can-broadening-earnings-growth-keep-european-stocks-climbing-4829889",
+   "saat": "10:04",
+   "tarih_iso": "2026-08-03T10:04:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:31:37.902127+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-102-4829882",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 1.02%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-102-4829882",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-03T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:31:37.902127+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/can-robust-sp-500-earnings-outweigh-ai-market-turbulence-4829855",
+   "baslik": "Can robust S&P 500 earnings outweigh AI market turbulence?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/can-robust-sp-500-earnings-outweigh-ai-market-turbulence-4829855",
+   "saat": "09:38",
+   "tarih_iso": "2026-08-03T09:38:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:31:37.902127+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-047-4829847",
    "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.47%",
@@ -308,6 +391,36 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-futures-at-a-critical-pivot-vc-pmi-targets-42134240-200685037",
+   "baslik": "Gold Futures at a Critical Pivot: VC PMI Targets $4,213–$4,240",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-futures-at-a-critical-pivot-vc-pmi-targets-42134240-200685037",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:31:37.902127+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-oil-outlook-usiran-tensions-leave-markets-at-a-crossroads-200685017",
+   "baslik": "Gold, Oil Outlook: US-Iran Tensions Leave Markets at a Crossroads",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-oil-outlook-usiran-tensions-leave-markets-at-a-crossroads-200685017",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:31:37.902127+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/can-gold-really-reach-20000-the-market-conditions-behind-the-forecast-200685010",
+   "baslik": "Can Gold Really Reach $20,000? The Market Conditions Behind the Forecast",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/can-gold-really-reach-20000-the-market-conditions-behind-the-forecast-200685010",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-03T10:31:37.902127+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/the-3-pillars-of-golds-secular-bull-market-200685032",
    "baslik": "The 3 Pillars of Gold’s Secular Bull Market",
    "kaynak": "Investing Emtia",
@@ -388,5 +501,5 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   }
  ],
- "guncelleme": "2026-08-03T10:01:15.172381+03:00"
+ "guncelleme": "2026-08-03T10:31:37.902127+03:00"
 }
