@@ -2,6 +2,19 @@
  "tarih": "2026-08-03",
  "kap": [
   {
+   "id": "kap-my-TAVHL-202608031326",
+   "baslik": "TAV HAVALİMANLARI HOLDİNG A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:26",
+   "tarih_iso": "2026-08-03T13:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
+  },
+  {
    "id": "kap-my-SDTTR-202608031200",
    "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Yeni İş İlişkisi",
    "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
@@ -91,6 +104,16 @@
    "tarih_iso": "2026-08-03T15:17:47+03:00",
    "kodlar": [],
    "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fedden-enflasyon-uyarisi-dusus-gelmezse-faiz-artirimi-masada-haberi-834757",
+   "baslik": "Fed’den enflasyon uyarısı, düşüş gelmezse faiz artırımı masada",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fedden-enflasyon-uyarisi-dusus-gelmezse-faiz-artirimi-masada-haberi-834757",
+   "saat": "13:28",
+   "tarih_iso": "2026-08-03T13:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/cinin-londian-wason-abd-halka-arznda-17-milyar-dolar-degerleme-hedefliyor-93CH-4008931",
@@ -275,6 +298,96 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/commodities/articles/world-cotton-trade-reach-10-104812979.html",
+   "baslik": "World cotton trade to reach 10.3m tonnes by 2028/29",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/world-cotton-trade-reach-10-104812979.html",
+   "saat": "13:48",
+   "tarih_iso": "2026-08-03T13:48:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-25004551?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Energy & Utilities Roundup: Market Talk",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/business/energy-oil/energy-utilities-roundup-market-talk-25004551?siteid=yhoof2&yptr=yahoo",
+   "saat": "13:47",
+   "tarih_iso": "2026-08-03T13:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ibm-fallen-33-high-yields-104600877.html",
+   "baslik": "IBM Has Fallen 33% From Its High and Yields 3%. Here's What That Dividend Actually Costs the Company.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ibm-fallen-33-high-yields-104600877.html",
+   "saat": "13:46",
+   "tarih_iso": "2026-08-03T13:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/goldman-sachs-warns-on-fed-communication-strategy-risks-93CH-4830480",
+   "baslik": "Goldman Sachs warns on Fed communication strategy risks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-warns-on-fed-communication-strategy-risks-93CH-4830480",
+   "saat": "13:43",
+   "tarih_iso": "2026-08-03T13:43:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
+   "baslik": "AstraZeneca tie-up talks with Bristol-Myers Squibb are moving stocks. Analysts are puzzled.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/astrazeneca-tie-up-talks-with-bristol-myers-squibb-are-moving-stocks-analysts-are-puzzled-7ae60fef?mod=mw_rss_topstories",
+   "saat": "13:43",
+   "tarih_iso": "2026-08-03T13:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-226d8148?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Auto & Transport Roundup: Market Talk",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/business/earnings/auto-transport-roundup-market-talk-226d8148?siteid=yhoof2&yptr=yahoo",
+   "saat": "13:42",
+   "tarih_iso": "2026-08-03T13:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/warfueled-oil-rally-set-to-lift-shale-profits-to-highest-since-2022-4830385",
+   "baslik": "War-fueled oil rally set to lift shale profits to highest since 2022",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/warfueled-oil-rally-set-to-lift-shale-profits-to-highest-since-2022-4830385",
+   "saat": "13:31",
+   "tarih_iso": "2026-08-03T13:31:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/microsoft-joins-broadcom-exits-goldmans-topstocks-list-4830378",
+   "baslik": "Microsoft joins, Broadcom exits Goldman’s top-stocks list",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/microsoft-joins-broadcom-exits-goldmans-topstocks-list-4830378",
+   "saat": "13:30",
+   "tarih_iso": "2026-08-03T13:30:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-160-4830375",
+   "baslik": "India stocks higher at close of trade; Nifty 50 up 1.60%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-160-4830375",
+   "saat": "13:30",
+   "tarih_iso": "2026-08-03T13:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/oil-prices-fall-to-three-week-low-after-trump-calls-off-planned-attack-631a8683?mod=mw_rss_topstories",
    "baslik": "Oil prices fall to three-week low after Trump calls off planned attack",
    "kaynak": "MarketWatch",
@@ -283,6 +396,16 @@
    "tarih_iso": "2026-08-03T13:26:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/japans-nissan-sees-profit-latest-102327579.html",
+   "baslik": "Japan's Nissan sees profit for latest quarter but warns of Middle East and China woes",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/japans-nissan-sees-profit-latest-102327579.html",
+   "saat": "13:23",
+   "tarih_iso": "2026-08-03T13:23:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/spacexs-first-results-put-musks-ai-spending-under-wall-street-microscope-4830348",
@@ -333,6 +456,16 @@
    "tarih_iso": "2026-08-03T13:12:07+03:00",
    "kodlar": [],
    "eklenme": "2026-08-03T13:31:07.208748+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/spacexs-first-results-put-musks-101204785.html",
+   "baslik": "SpaceX's first results put Musk's AI spending under Wall Street microscope",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/spacexs-first-results-put-musks-101204785.html",
+   "saat": "13:12",
+   "tarih_iso": "2026-08-03T13:12:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T14:01:06.838977+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/maruti-suzuki-q1-profit-falls-100817010.html",
@@ -1297,5 +1430,5 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   }
  ],
- "guncelleme": "2026-08-03T13:31:07.208748+03:00"
+ "guncelleme": "2026-08-03T14:01:06.838977+03:00"
 }
