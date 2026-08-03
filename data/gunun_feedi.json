@@ -173,6 +173,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-03-agustos-2026/4017169",
+   "baslik": "60 saniyede ekonomide bugün (03 Ağustos 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-03-agustos-2026/4017169",
+   "saat": "16:08",
+   "tarih_iso": "2026-08-03T16:08:37+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/thyden-tum-zamanlarin-yolcu-ve-ucus-rekoru/4017075",
    "baslik": "THY'den tüm zamanların yolcu ve uçuş rekoru",
    "kaynak": "AA Ekonomi",
@@ -198,6 +210,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/ubs-kara-para-aklamay-onleme-yasasn-ihlal-nedeniyle-125-milyon-dolar-ceza-ald-93CH-4010017",
+   "baslik": "UBS kara para aklamayı önleme yasasını ihlal nedeniyle 125 milyon dolar ceza aldı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/ubs-kara-para-aklamay-onleme-yasasn-ihlal-nedeniyle-125-milyon-dolar-ceza-ald-93CH-4010017",
+   "saat": "17:17",
+   "tarih_iso": "2026-08-03T17:17:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/turkiyeye-gelen-turistlerin-gozdesi-belli-oldu-milyarlarca-dolar-harcadilar-3449722",
    "baslik": "Türkiye'ye gelen turistlerin gözdesi belli oldu! Milyarlarca dolar harcadılar",
@@ -420,6 +442,136 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/temasek-prices-585-million-10year-bond-at-265-annual-rate-93CH-4831655",
+   "baslik": "Temasek prices $585 million 10-year bond at 2.65% annual rate",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/temasek-prices-585-million-10year-bond-at-265-annual-rate-93CH-4831655",
+   "saat": "17:26",
+   "tarih_iso": "2026-08-03T17:26:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/upwork-shares-may-move-16-on-aug-10-earnings-release-93CH-4831649",
+   "baslik": "Upwork shares may move 16% on Aug. 10 earnings release",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/upwork-shares-may-move-16-on-aug-10-earnings-release-93CH-4831649",
+   "saat": "17:24",
+   "tarih_iso": "2026-08-03T17:24:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/oil-prices-fall-trump-seeks-141035057.html",
+   "baslik": "Oil prices fall as Trump seeks Iran nuclear deal",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-trump-seeks-141035057.html",
+   "saat": "17:10",
+   "tarih_iso": "2026-08-03T17:10:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/options/articles/3-etfs-turn-market-fear-140604809.html",
+   "baslik": "These 3 ETFs Turn Market Fear Into Double Digit Monthly Income",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/options/articles/3-etfs-turn-market-fear-140604809.html",
+   "saat": "17:06",
+   "tarih_iso": "2026-08-03T17:06:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/marriott-international-q2-earnings-call-140437860.html",
+   "baslik": "Marriott International Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/marriott-international-q2-earnings-call-140437860.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-03T17:04:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/indivior-q2-earnings-call-highlights-140436845.html",
+   "baslik": "Indivior Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/indivior-q2-earnings-call-highlights-140436845.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-03T17:04:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/compugen-q2-earnings-call-highlights-140436944.html",
+   "baslik": "Compugen Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/compugen-q2-earnings-call-highlights-140436944.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-03T17:04:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/lindblad-expeditions-q2-earnings-call-140436442.html",
+   "baslik": "Lindblad Expeditions Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lindblad-expeditions-q2-earnings-call-140436442.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-03T17:04:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html",
+   "baslik": "Tech stocks today: Investors eye SpaceX's first earnings report",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-03T17:04:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/articles/experts-putting-every-dollar-toward-140000861.html",
+   "baslik": "Experts say putting every dollar toward $35,000 in credit card debt could backfire — here's another approach",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/articles/experts-putting-every-dollar-toward-140000861.html",
+   "saat": "17:00",
+   "tarih_iso": "2026-08-03T17:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/boeing-stock-aerospace-defense/?src=A00220&yptr=yahoo",
+   "baslik": "Boeing Stock Lifts Dow After Double Upgrade",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/boeing-stock-aerospace-defense/?src=A00220&yptr=yahoo",
+   "saat": "16:48",
+   "tarih_iso": "2026-08-03T16:48:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/amazon-enters-3-trillion-club-134557825.html",
+   "baslik": "Amazon enters $3 trillion club as AI, cloud growth power rally",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/amazon-enters-3-trillion-club-134557825.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-08-03T16:45:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tyson-foods-cuts-profit-outlook-134425950.html",
+   "baslik": "Tyson Foods Cuts Profit Outlook, Asks “Where’s the Beef?”",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-cuts-profit-outlook-134425950.html",
+   "saat": "16:44",
+   "tarih_iso": "2026-08-03T16:44:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/article/semiconductor-stocks-sink-over-fears-of-increased-competition-from-china-133938642.html",
    "baslik": "Semiconductor stocks sink over fears of increased competition from China",
@@ -1489,139 +1641,29 @@
    "tarih_iso": "2026-08-03T12:54:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-03T13:31:07.208748+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/had-1-000-invest-today-093500140.html",
-   "baslik": "If I Had $1,000 to Invest Today, Here's the Trillion-Dollar Stock I'd Buy Instead of SpaceX",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/had-1-000-invest-today-093500140.html",
-   "saat": "12:35",
-   "tarih_iso": "2026-08-03T12:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T13:01:05.656020+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-092516872.html",
-   "baslik": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Trump calls off Iran attack, oil and bond yields ease",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-092516872.html",
-   "saat": "12:25",
-   "tarih_iso": "2026-08-03T12:25:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T12:34:52.727460+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-chevron-stock-sliding-today-93CH-4830170",
-   "baslik": "Why is Chevron stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-chevron-stock-sliding-today-93CH-4830170",
-   "saat": "12:21",
-   "tarih_iso": "2026-08-03T12:21:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T13:01:05.656020+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/investors-panicking-memory-stocks-micron-092000883.html",
-   "baslik": "Some Investors Are Panicking About Memory Stocks. Micron Shareholders Should Keep a Cool Head.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-panicking-memory-stocks-micron-092000883.html",
-   "saat": "12:20",
-   "tarih_iso": "2026-08-03T12:20:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T13:01:05.656020+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/warsh-tightened-more-by-pausing-than-by-lifting-rates-this-bond-market-veteran-argues-heres-the-math-31cb15a1?mod=mw_rss_topstories",
-   "baslik": "Warsh tightened more by pausing than by lifting rates, this bond-market veteran argues. Here’s the math.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/warsh-tightened-more-by-pausing-than-by-lifting-rates-this-bond-market-veteran-argues-heres-the-math-31cb15a1?mod=mw_rss_topstories",
-   "saat": "12:18",
-   "tarih_iso": "2026-08-03T12:18:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T12:31:06.022151+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ferguson-stock-surging-today-93CH-4830156",
-   "baslik": "Why is Ferguson stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ferguson-stock-surging-today-93CH-4830156",
-   "saat": "12:17",
-   "tarih_iso": "2026-08-03T12:17:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T12:31:06.022151+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-xpeng-stock-sliding-today-93CH-4830155",
-   "baslik": "Why is Xpeng stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-xpeng-stock-sliding-today-93CH-4830155",
-   "saat": "12:17",
-   "tarih_iso": "2026-08-03T12:17:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T12:31:06.022151+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ig-stock-sliding-today-93CH-4830133",
-   "baslik": "Why is IG stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ig-stock-sliding-today-93CH-4830133",
-   "saat": "12:16",
-   "tarih_iso": "2026-08-03T12:16:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T12:31:06.022151+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mersen-stock-surging-today-93CH-4830082",
-   "baslik": "Why is Mersen stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-mersen-stock-surging-today-93CH-4830082",
-   "saat": "12:01",
-   "tarih_iso": "2026-08-03T12:01:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T12:31:06.022151+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-atkore-stock-surging-today-93CH-4830041",
-   "baslik": "Why is Atkore stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-atkore-stock-surging-today-93CH-4830041",
-   "saat": "11:50",
-   "tarih_iso": "2026-08-03T11:50:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T12:01:43.645634+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-down-22-heres-085000550.html",
-   "baslik": "Semiconductor Stocks Are Down 22%. Here's the 1 Chip Stock I'd Buy Right Now.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-down-22-heres-085000550.html",
-   "saat": "11:50",
-   "tarih_iso": "2026-08-03T11:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T12:31:06.022151+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-elis-stock-rallying-today-93CH-4830034",
-   "baslik": "Why is Elis stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-elis-stock-rallying-today-93CH-4830034",
-   "saat": "11:49",
-   "tarih_iso": "2026-08-03T11:49:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T12:01:43.645634+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-thales-stock-gaining-today-93CH-4830033",
-   "baslik": "Why is Thales stock gaining today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-thales-stock-gaining-today-93CH-4830033",
-   "saat": "11:48",
-   "tarih_iso": "2026-08-03T11:48:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-03T12:01:43.645634+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://finance.yahoo.com/markets/commodities/articles/vertex-minerals-announces-first-production-141916700.html",
+   "baslik": "Vertex Minerals announces first production firing at Reward Gold Mine",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/vertex-minerals-announces-first-production-141916700.html",
+   "saat": "17:19",
+   "tarih_iso": "2026-08-03T17:19:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/dunya/guney-koreden-altin-piyasasini-etkileyecek-karar-haberi-834774",
+   "baslik": "Güney Kore'den altın piyasasını etkileyecek karar",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/guney-koreden-altin-piyasasini-etkileyecek-karar-haberi-834774",
+   "saat": "16:48",
+   "tarih_iso": "2026-08-03T16:48:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T17:31:01.070157+03:00"
+  },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/deutsche-bank-gercek-degeri-acikladi-iste-altinin-yil-sonunda-gorecegi-rakam-galeri-834772",
    "baslik": "Deutsche Bank 'gerçek değeri' açıkladı: İşte altının yıl sonunda göreceği rakam",
@@ -1843,5 +1885,5 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   }
  ],
- "guncelleme": "2026-08-03T17:01:10.083686+03:00"
+ "guncelleme": "2026-08-03T17:31:01.070157+03:00"
 }
