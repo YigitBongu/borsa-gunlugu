@@ -121,6 +121,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/thyden-tum-zamanlarin-yolcu-ve-ucus-rekoru/4017075",
+   "baslik": "THY'den tüm zamanların yolcu ve uçuş rekoru",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thyden-tum-zamanlarin-yolcu-ve-ucus-rekoru/4017075",
+   "saat": "14:47",
+   "tarih_iso": "2026-08-03T14:47:17+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahcenin-sampiyonlar-ligi-play-off-turundaki-olasi-rakibi-belli-oldu-haberi-834751",
    "baslik": "Fenerbahçe'nin Şampiyonlar Ligi play-off turundaki olası rakibi belli oldu",
    "kaynak": "Dünya",
@@ -143,6 +155,16 @@
    "tarih_iso": "2026-08-03T15:17:47+03:00",
    "kodlar": [],
    "eklenme": "2026-08-03T12:31:06.022151+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-rezervlerinde-artis-haberi-834766",
+   "baslik": "Merkez Bankası rezervlerinde artış",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/merkez-bankasi-rezervlerinde-artis-haberi-834766",
+   "saat": "14:49",
+   "tarih_iso": "2026-08-03T14:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/savunma-sanayisinden-ihracat-atagi-12-ayda-112-milyar-dolar-haberi-834763",
@@ -346,6 +368,146 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/spacexs-first-ever-earnings-report-is-a-big-deal-but-not-because-of-the-numbers-9e53bc43?mod=mw_rss_topstories",
+   "baslik": "SpaceX’s first-ever earnings report is a big deal — but not because of the numbers",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/spacexs-first-ever-earnings-report-is-a-big-deal-but-not-because-of-the-numbers-9e53bc43?mod=mw_rss_topstories",
+   "saat": "14:54",
+   "tarih_iso": "2026-08-03T14:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-just-made-bold-114600560.html",
+   "baslik": "Jamie Dimon Just Made a Bold Call on the Future of the Stock Market. History Says Investors Should Make This 1 Move",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-just-made-bold-114600560.html",
+   "saat": "14:46",
+   "tarih_iso": "2026-08-03T14:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/tariff-recovery-fuels-major-profit-114410467.html",
+   "baslik": "Tariff recovery fuels major profit upswing in Columbia Sportswear’s Q2",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/tariff-recovery-fuels-major-profit-114410467.html",
+   "saat": "14:44",
+   "tarih_iso": "2026-08-03T14:44:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ebay-stock-sliding-today-93CH-4830821",
+   "baslik": "Why is eBay stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ebay-stock-sliding-today-93CH-4830821",
+   "saat": "14:43",
+   "tarih_iso": "2026-08-03T14:43:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/amc-stock-rises-after-record-weekend-revenue-performance-93CH-4830815",
+   "baslik": "AMC stock rises after record weekend revenue performance",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/amc-stock-rises-after-record-weekend-revenue-performance-93CH-4830815",
+   "saat": "14:42",
+   "tarih_iso": "2026-08-03T14:42:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/commodities/articles/tyson-trims-annual-profit-forecast-114225792.html",
+   "baslik": "Tyson trims annual profit forecast as tight cattle supplies squeeze beef business",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/tyson-trims-annual-profit-forecast-114225792.html",
+   "saat": "14:42",
+   "tarih_iso": "2026-08-03T14:42:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-treasury-yields-near-multidecade-highs-and-what-it-means-for-equities-93CH-4830814",
+   "baslik": "US Treasury yields near multi-decade highs and what it means for equities",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-treasury-yields-near-multidecade-highs-and-what-it-means-for-equities-93CH-4830814",
+   "saat": "14:42",
+   "tarih_iso": "2026-08-03T14:42:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citi-says-buy-these-3-chip-stocks-on-pullback-4830812",
+   "baslik": "Citi says buy these 3 chip stocks on pullback",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citi-says-buy-these-3-chip-stocks-on-pullback-4830812",
+   "saat": "14:42",
+   "tarih_iso": "2026-08-03T14:42:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/spacex-earnings-outlook-loss-expected-as-insider-unlock-looms-93CH-4830810",
+   "baslik": "SpaceX earnings outlook: loss expected as insider unlock looms",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/spacex-earnings-outlook-loss-expected-as-insider-unlock-looms-93CH-4830810",
+   "saat": "14:40",
+   "tarih_iso": "2026-08-03T14:40:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-mcdonalds-world-cup-boost-may-not-be-enough-for-the-stock-93CH-4830807",
+   "baslik": "Why McDonald’s World Cup boost may not be enough for the stock",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-mcdonalds-world-cup-boost-may-not-be-enough-for-the-stock-93CH-4830807",
+   "saat": "14:39",
+   "tarih_iso": "2026-08-03T14:39:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/world-indices/articles/dow-futures-rise-400-points-113903815.html",
+   "baslik": "Dow futures rise 400 points on Trump Iran de-escalation",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/world-indices/articles/dow-futures-rise-400-points-113903815.html",
+   "saat": "14:39",
+   "tarih_iso": "2026-08-03T14:39:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/astrazeneca-investors-baulk-at-400-billion-bristol-myers-talks-4830232",
+   "baslik": "AstraZeneca investors baulk at $400 billion Bristol Myers talks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/astrazeneca-investors-baulk-at-400-billion-bristol-myers-talks-4830232",
+   "saat": "14:38",
+   "tarih_iso": "2026-08-03T14:38:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/world-rsquo-largest-energy-lender-113140139.html",
+   "baslik": "World’s Largest Energy Lender Steers Federal Financing Toward Baseload, Transmission, and Nuclear",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/world-rsquo-largest-energy-lender-113140139.html",
+   "saat": "14:31",
+   "tarih_iso": "2026-08-03T14:31:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/currencies/articles/yen-leaps-intervention-leaving-dollar-010808551.html",
+   "baslik": "Yen climbs for third straight session, euro/dollar awaits US data",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/currencies/articles/yen-leaps-intervention-leaving-dollar-010808551.html",
+   "saat": "14:25",
+   "tarih_iso": "2026-08-03T14:25:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-03T15:01:12.809451+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/the-gap-between-big-tech-and-the-rest-of-the-market-just-vanished-heres-what-it-means-for-investors-e783d2dc?mod=mw_rss_topstories",
    "baslik": "The gap between big tech and the rest of the market just vanished. Here’s what it means for investors.",
@@ -1579,5 +1741,5 @@
    "eklenme": "2026-08-03T09:01:14.673739+03:00"
   }
  ],
- "guncelleme": "2026-08-03T14:31:00.892504+03:00"
+ "guncelleme": "2026-08-03T15:01:12.809451+03:00"
 }
