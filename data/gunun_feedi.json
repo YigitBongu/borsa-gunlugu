@@ -144,6 +144,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-temmuzda-aylik-yuzde-1-93-artti/4018211",
+   "baslik": "Mevsim etkilerinden arındırılmış özel kapsamlı TÜFE temmuzda aylık yüzde 1,93 arttı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-temmuzda-aylik-yuzde-1-93-artti/4018211",
+   "saat": "16:30",
+   "tarih_iso": "2026-08-04T16:30:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T16:31:06.141811+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-acikladi-reel-efektif-doviz-kuru-temmuzda-yukseldi-haberi-834899",
    "baslik": "Merkez Bankası açıkladı: Reel efektif döviz kuru temmuzda yükseldi",
    "kaynak": "Dünya",
@@ -266,6 +276,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bellring-brands-cuts-earnings-forecast-132516597.html",
+   "baslik": "BellRing Brands cuts earnings forecast amid inventory issues",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bellring-brands-cuts-earnings-forecast-132516597.html",
+   "saat": "16:25",
+   "tarih_iso": "2026-08-04T16:25:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T16:31:06.141811+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/semicap-equipment-stocks-bofa-names-top-picks-as-wfe-spending-accelerates-93CH-4834564",
+   "baslik": "Semicap Equipment Stocks: BofA Names Top Picks as WFE Spending Accelerates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/semicap-equipment-stocks-bofa-names-top-picks-as-wfe-spending-accelerates-93CH-4834564",
+   "saat": "16:22",
+   "tarih_iso": "2026-08-04T16:22:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T16:31:06.141811+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-near-record-highs-as-overbought-signals-and-short-interest-rise-93CH-4834547",
+   "baslik": "S&P 500 near record highs as overbought signals and short interest rise",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-near-record-highs-as-overbought-signals-and-short-interest-rise-93CH-4834547",
+   "saat": "16:19",
+   "tarih_iso": "2026-08-04T16:19:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T16:31:06.141811+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
+   "baslik": "Philadelphia Fed President Paulson content with rates at current level, but keeping an open mind",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/04/philadelphia-fed-president-paulson-content-with-current-rates-but-keeping-an-open-mind.html",
+   "saat": "16:18",
+   "tarih_iso": "2026-08-04T16:18:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T16:31:06.141811+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-4-2026-investors-closely-monitoring-clarity-act-progress-131534156.html",
+   "baslik": "Bitcoin and ethereum prices today, Tuesday, August 4, 2026: Investors closely monitoring Clarity Act progress",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-august-4-2026-investors-closely-monitoring-clarity-act-progress-131534156.html",
+   "saat": "16:15",
+   "tarih_iso": "2026-08-04T16:15:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T16:31:06.141811+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/eyes-spacexs-aug-4-earnings-131300363.html",
+   "baslik": "All Eyes Are on SpaceX's Aug. 4 Earnings Report. But These 3 Unstoppable Growth Stocks Are Better Buys Hiding in Plain Sight.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/eyes-spacexs-aug-4-earnings-131300363.html",
+   "saat": "16:13",
+   "tarih_iso": "2026-08-04T16:13:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T16:31:06.141811+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/03/bessent-fed-japan-yen-fima-repo-facility.html",
    "baslik": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense",
    "kaynak": "CNBC",
@@ -276,6 +346,26 @@
    "eklenme": "2026-08-04T16:14:49.415013+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/energy/articles/marathon-petroleum-q2-2026-earnings-130918444.html",
+   "baslik": "Marathon Petroleum Q2 2026 earnings beat on refining margin surge",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/marathon-petroleum-q2-2026-earnings-130918444.html",
+   "saat": "16:09",
+   "tarih_iso": "2026-08-04T16:09:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T16:31:06.141811+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/donnelley-financial-dfin-q2-2026-130838953.html",
+   "baslik": "Donnelley Financial (DFIN) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/donnelley-financial-dfin-q2-2026-130838953.html",
+   "saat": "16:08",
+   "tarih_iso": "2026-08-04T16:08:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T16:31:06.141811+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/04/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
    "baslik": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
    "kaynak": "CNBC",
@@ -284,6 +374,26 @@
    "tarih_iso": "2026-08-04T16:06:53+03:00",
    "kodlar": [],
    "eklenme": "2026-08-04T16:14:49.415013+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/reddit-reddit-why-retail-traders-130550750.html",
+   "baslik": "Reddit on Reddit: Why Retail Traders Are Split on the Stock Now",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-reddit-why-retail-traders-130550750.html",
+   "saat": "16:05",
+   "tarih_iso": "2026-08-04T16:05:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T16:31:06.141811+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/snap-stock-q2-2026-earnings-snapchat/?src=A00220&yptr=yahoo",
+   "baslik": "Snap Stock Gets Boost After Q2 Report. Why Results Are 'Step In Right Direction'",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/snap-stock-q2-2026-earnings-snapchat/?src=A00220&yptr=yahoo",
+   "saat": "16:05",
+   "tarih_iso": "2026-08-04T16:05:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T16:31:06.141811+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ag-barr-expects-sales-growth-130526316.html",
@@ -1364,106 +1474,6 @@
    "tarih_iso": "2026-08-04T12:00:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-04T12:30:58.910115+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/meet-magnificent-vanguard-etf-crushing-085900139.html",
-   "baslik": "Meet the Magnificent Vanguard ETF Crushing the S&P 500 in 2026, Thanks to Its Unique Momentum-Driven Strategy",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/meet-magnificent-vanguard-etf-crushing-085900139.html",
-   "saat": "11:59",
-   "tarih_iso": "2026-08-04T11:59:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T12:30:58.910115+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/samsungs-retail-investors-seek-extra-085440620.html",
-   "baslik": "Samsung's retail investors seek extra shareholder meeting over buybacks, bonuses",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/samsungs-retail-investors-seek-extra-085440620.html",
-   "saat": "11:54",
-   "tarih_iso": "2026-08-04T11:54:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T12:30:58.910115+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-metro-bank-stock-sliding-today-93CH-4833113",
-   "baslik": "Why is Metro Bank stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-metro-bank-stock-sliding-today-93CH-4833113",
-   "saat": "11:41",
-   "tarih_iso": "2026-08-04T11:41:50+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T12:01:06.861183+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-synthomer-stock-surging-today-93CH-4833112",
-   "baslik": "Why is Synthomer stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-synthomer-stock-surging-today-93CH-4833112",
-   "saat": "11:41",
-   "tarih_iso": "2026-08-04T11:41:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T12:01:06.861183+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/dollar-index-trapped-below-9988-in-downtrend-live-levels-93CH-4833095",
-   "baslik": "Dollar Index tests 100.17 resistance in bearish trend: Live levels",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/dollar-index-trapped-below-9988-in-downtrend-live-levels-93CH-4833095",
-   "saat": "11:39",
-   "tarih_iso": "2026-08-04T11:39:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T12:01:06.861183+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/04/japan-takaichi-food-tax-cut-jgb-boj.html",
-   "baslik": "Takaichi’s fiscal push could lift growth — and Japan’s already-rising interest bill",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/04/japan-takaichi-food-tax-cut-jgb-boj.html",
-   "saat": "11:36",
-   "tarih_iso": "2026-08-04T11:36:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T12:01:06.861183+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-move-higher-wall-003819857.html",
-   "baslik": "Stocks rise despite Iran tensions, oil up, yen eases",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-move-higher-wall-003819857.html",
-   "saat": "11:27",
-   "tarih_iso": "2026-08-04T11:27:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T12:30:58.910115+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
-   "baslik": "Saudi Aramco profits jump 33% in second quarter as Iran war squeezes oil supply",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
-   "saat": "11:23",
-   "tarih_iso": "2026-08-04T11:23:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T16:01:05.663211+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-verbio-vereinigte-bioenergie-stock-surging-today-93CH-4833055",
-   "baslik": "Why is Verbio Vereinigte Bioenergie stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-verbio-vereinigte-bioenergie-stock-surging-today-93CH-4833055",
-   "saat": "11:17",
-   "tarih_iso": "2026-08-04T11:17:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T11:31:45.076759+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/robinhoods-second-private-markets-fund-targets-200-million-us-ipo-4831471",
-   "baslik": "Robinhood’s second private markets fund targets $200 million US IPO",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/robinhoods-second-private-markets-fund-targets-200-million-us-ipo-4831471",
-   "saat": "11:12",
-   "tarih_iso": "2026-08-04T11:12:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T11:31:45.076759+03:00"
   }
  ],
  "altin_haber": [
@@ -1648,5 +1658,5 @@
    "eklenme": "2026-08-04T09:01:07.372395+03:00"
   }
  ],
- "guncelleme": "2026-08-04T16:14:49.415013+03:00"
+ "guncelleme": "2026-08-04T16:31:06.141811+03:00"
 }
