@@ -2,6 +2,32 @@
  "tarih": "2026-08-04",
  "kap": [
   {
+   "id": "kap-my-DOHOL-202608041659",
+   "baslik": "DOĞAN ŞİRKETLER GRUBU HOLDİNG A.Ş. — Finansal Takvim",
+   "sirket": "DOĞAN ŞİRKETLER GRUBU HOLDİNG A.Ş.",
+   "kodlar": [
+    "DOHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:59",
+   "tarih_iso": "2026-08-04T16:59:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-04T17:31:00.796735+03:00"
+  },
+  {
+   "id": "kap-my-BOBET-202608041651",
+   "baslik": "BORSA İSTANBUL A.Ş. — Hak Kullanımı",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:51",
+   "tarih_iso": "2026-08-04T16:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-04T17:31:00.796735+03:00"
+  },
+  {
    "id": "kap-my-FENER-202608041627",
    "baslik": "FENERBAHÇE FUTBOL A.Ş. — Genel Kurul İşlemlerine İlişkin Bildirim",
    "sirket": "FENERBAHÇE FUTBOL A.Ş.",
@@ -301,6 +327,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-strong-message-141700770.html",
+   "baslik": "Mark Zuckerberg sends a strong message to Meta stock investors",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-strong-message-141700770.html",
+   "saat": "17:17",
+   "tarih_iso": "2026-08-04T17:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T17:31:00.796735+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/worried-market-hide-3-high-141155880.html",
+   "baslik": "Worried About the Market? Hide Out in These 3 High-Yielding Dividend Stocks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/worried-market-hide-3-high-141155880.html",
+   "saat": "17:11",
+   "tarih_iso": "2026-08-04T17:11:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T17:31:00.796735+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/federal-signal-fss-q2-2026-141031038.html",
+   "baslik": "Federal Signal (FSS) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/federal-signal-fss-q2-2026-141031038.html",
+   "saat": "17:10",
+   "tarih_iso": "2026-08-04T17:10:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T17:31:00.796735+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/yen-intervention-rattles-japan-as-global-stocks-barely-notice-alphacheck-140841053.html",
+   "baslik": "Yen intervention rattles Japan as global stocks barely notice: AlphaCheck",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/yen-intervention-rattles-japan-as-global-stocks-barely-notice-alphacheck-140841053.html",
+   "saat": "17:08",
+   "tarih_iso": "2026-08-04T17:08:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T17:31:00.796735+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/04/someone-on-wall-street-thinks-spacex-could-triple-this-week.html",
+   "baslik": "Someone on Wall Street thinks SpaceX could triple this week",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/04/someone-on-wall-street-thinks-spacex-could-triple-this-week.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-08-04T17:05:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T17:31:00.796735+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/space-stock-voyager-airbus-starlab-earnings/?src=A00220&yptr=yahoo",
+   "baslik": "Airbus Partner Designing Starlab Space Station Soars 25% On Earnings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/space-stock-voyager-airbus-starlab-earnings/?src=A00220&yptr=yahoo",
+   "saat": "16:59",
+   "tarih_iso": "2026-08-04T16:59:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T17:31:00.796735+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/04/amd-earnings-are-a-key-test-for-chips-and-momentum-stocks-heres-what-the-options-market-is-saying.html",
    "baslik": "AMD earnings are a key test for chips and momentum stocks. Here's what the options market is saying",
    "kaynak": "CNBC",
@@ -369,6 +455,16 @@
    "tarih_iso": "2026-08-04T16:37:28+03:00",
    "kodlar": [],
    "eklenme": "2026-08-04T17:01:08.424089+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/spotify-stock-sinks-as-streaming-giants-monthly-active-users-forecast-misses-estimates-133728671.html",
+   "baslik": "Spotify stock sinks as streaming giant's monthly active users forecast misses estimates",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/spotify-stock-sinks-as-streaming-giants-monthly-active-users-forecast-misses-estimates-133728671.html",
+   "saat": "16:37",
+   "tarih_iso": "2026-08-04T16:37:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T17:31:00.796735+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/walmart-downgraded-palantir-upgraded-wall-133705916.html",
@@ -559,6 +655,16 @@
    "tarih_iso": "2026-08-04T16:02:59+03:00",
    "kodlar": [],
    "eklenme": "2026-08-04T16:14:49.415013+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/snap-stock-jumps-13-on-improved-advertising-world-cup-boost-130259116.html",
+   "baslik": "Snap stock jumps 13% on improved advertising, World Cup boost",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/snap-stock-jumps-13-on-improved-advertising-world-cup-boost-130259116.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-08-04T16:02:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T17:31:00.796735+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-edge-toward-record-highs-as--earnings-boost-risk-appetite-4832849",
@@ -1261,6 +1367,16 @@
    "eklenme": "2026-08-04T13:31:07.601629+03:00"
   },
   {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+   "baslik": "BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cg5l11m02j3o?at_medium=RSS&at_campaign=rss",
+   "saat": "13:07",
+   "tarih_iso": "2026-08-04T13:07:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T17:31:00.796735+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/synthomer-h1-earnings-call-highlights-100347912.html",
    "baslik": "Synthomer H1 Earnings Call Highlights",
    "kaynak": "Yahoo Finance",
@@ -1409,96 +1525,6 @@
    "tarih_iso": "2026-08-04T12:43:46+03:00",
    "kodlar": [],
    "eklenme": "2026-08-04T13:01:08.464014+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-deutsche-lufthansa-stock-plunging-today-93CH-4833334",
-   "baslik": "Why is Deutsche Lufthansa stock plunging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-deutsche-lufthansa-stock-plunging-today-93CH-4833334",
-   "saat": "12:43",
-   "tarih_iso": "2026-08-04T12:43:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T13:01:08.464014+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/nasdaq-futures-underpinned-by-strong-ai-forecasts-focus-on-earnings-data-4833332",
-   "baslik": "Nasdaq futures underpinned by strong AI forecasts; focus on earnings, data",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/nasdaq-futures-underpinned-by-strong-ai-forecasts-focus-on-earnings-data-4833332",
-   "saat": "12:43",
-   "tarih_iso": "2026-08-04T12:43:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T13:01:08.464014+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-touch-record-high-as-earnings-tech-gains-lift-sentiment-4833330",
-   "baslik": "European stocks touch record high as earnings, tech gains lift sentiment",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-stocks-touch-record-high-as-earnings-tech-gains-lift-sentiment-4833330",
-   "saat": "12:42",
-   "tarih_iso": "2026-08-04T12:42:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T13:01:08.464014+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-says-gold-may-recover-if-real-rate-pressure-eases-93CH-4833329",
-   "baslik": "Jefferies says gold may recover if real rate pressure eases",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/jefferies-says-gold-may-recover-if-real-rate-pressure-eases-93CH-4833329",
-   "saat": "12:42",
-   "tarih_iso": "2026-08-04T12:42:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T13:01:08.464014+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-sees-selective-currency-volatility-plays-ahead-of-fed-hikes-93CH-4833320",
-   "baslik": "BofA sees selective currency volatility plays ahead of Fed hikes",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/bofa-sees-selective-currency-volatility-plays-ahead-of-fed-hikes-93CH-4833320",
-   "saat": "12:37",
-   "tarih_iso": "2026-08-04T12:37:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T13:01:08.464014+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/nippon-steel-raises-fy2026-profit-forecast-on-strong-us-steel-earnings-4833309",
-   "baslik": "Nippon Steel raises FY2026 profit forecast on strong U.S. Steel earnings",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/nippon-steel-raises-fy2026-profit-forecast-on-strong-us-steel-earnings-4833309",
-   "saat": "12:36",
-   "tarih_iso": "2026-08-04T12:36:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T13:01:08.464014+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/energy-shock-delivers-144-boost-in-profits-for-bp-a5337d03?mod=mw_rss_topstories",
-   "baslik": "Energy shock delivers 144% boost in profits for BP",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/energy-shock-delivers-144-boost-in-profits-for-bp-a5337d03?mod=mw_rss_topstories",
-   "saat": "12:25",
-   "tarih_iso": "2026-08-04T12:25:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T12:30:58.910115+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/continental-posts-q2-profit-beat-but-warns-of-worsening-raw-material-costs-4833258",
-   "baslik": "Continental posts Q2 profit beat, but warns of worsening raw material costs",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/continental-posts-q2-profit-beat-but-warns-of-worsening-raw-material-costs-4833258",
-   "saat": "12:24",
-   "tarih_iso": "2026-08-04T12:24:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T12:30:58.910115+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-reports-mixed-protein-market-trends-in-monthly-monitor-93CH-4833252",
-   "baslik": "BofA reports mixed protein market trends in monthly monitor",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/bofa-reports-mixed-protein-market-trends-in-monthly-monitor-93CH-4833252",
-   "saat": "12:22",
-   "tarih_iso": "2026-08-04T12:22:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T12:30:58.910115+03:00"
   }
  ],
  "altin_haber": [
@@ -1683,5 +1709,5 @@
    "eklenme": "2026-08-04T09:01:07.372395+03:00"
   }
  ],
- "guncelleme": "2026-08-04T17:01:08.424089+03:00"
+ "guncelleme": "2026-08-04T17:31:00.796735+03:00"
 }
