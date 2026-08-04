@@ -2,6 +2,48 @@
  "tarih": "2026-08-04",
  "kap": [
   {
+   "id": "kap-my-ISGYO-202608041827",
+   "baslik": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
+   "sirket": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+   "kodlar": [
+    "ISGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:27",
+   "tarih_iso": "2026-08-04T18:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "18:27"
+  },
+  {
+   "id": "kap-my-TUPRS-202608041825",
+   "baslik": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş. — Geleceğe Dönük Değerlendirmeler",
+   "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:25",
+   "tarih_iso": "2026-08-04T18:25:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "18:25"
+  },
+  {
+   "id": "kap-my-TUPRS-202608041824",
+   "baslik": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş. — Finansal Rapor",
+   "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:24",
+   "tarih_iso": "2026-08-04T18:24:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "18:24"
+  },
+  {
    "id": "kap-my-YKBNK-202608041800",
    "baslik": "BORSA İSTANBUL A.Ş. — VİOP İşlem İptali Duyuruları",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -158,6 +200,19 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/aksa-elektrik-bm-kuresel-ilkeler-sozlesmesi-ni-imzaladi-3903317-ekonomi",
+   "baslik": "Aksa Elektrik, BM Küresel İlkeler Sözleşmesi'ni imzaladı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/aksa-elektrik-bm-kuresel-ilkeler-sozlesmesi-ni-imzaladi-3903317-ekonomi",
+   "saat": "16:49",
+   "tarih_iso": "2026-08-04T16:49:55+03:00",
+   "kodlar": [
+    "AKSA"
+   ],
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "16:49"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-4-agustos-2026/4018163",
    "baslik": "60 saniyede ekonomide bugün (4 Ağustos 2026)",
    "kaynak": "AA Ekonomi",
@@ -237,6 +292,28 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-baskani-karahan-dezenflasyon-sureci-siki-para-politikasiyla-guclenecek-haberi-834942",
+   "baslik": "TCMB Başkanı Karahan: Dezenflasyon süreci sıkı para politikasıyla güçlenecek",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-baskani-karahan-dezenflasyon-sureci-siki-para-politikasiyla-guclenecek-haberi-834942",
+   "saat": "18:39",
+   "tarih_iso": "2026-08-04T18:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "18:39"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-834939",
+   "baslik": "Borsa İstanbul günü yükselişle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-834939",
+   "saat": "18:31",
+   "tarih_iso": "2026-08-04T18:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "18:31"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-temmuzda-aylik-yuzde-1-93-artti/4018211",
    "baslik": "Mevsim etkilerinden arındırılmış özel kapsamlı TÜFE temmuzda aylık yüzde 1,93 arttı",
@@ -383,6 +460,61 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investors.com/news/technology/amazon-stock-bezos-sell-rally/?src=A00220&yptr=yahoo",
+   "baslik": "Amazon Stock Falls After Rally As Bezos Plans $4 Billion Share Sale",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/amazon-stock-bezos-sell-rally/?src=A00220&yptr=yahoo",
+   "saat": "18:40",
+   "tarih_iso": "2026-08-04T18:40:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "18:40"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/stocks-could-soar-in-august-here-are-six-potential-drivers-89d91780?mod=mw_rss_topstories",
+   "baslik": "Stocks could soar in August. Here are six potential drivers.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/stocks-could-soar-in-august-here-are-six-potential-drivers-89d91780?mod=mw_rss_topstories",
+   "saat": "18:33",
+   "tarih_iso": "2026-08-04T18:33:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "18:33"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/does-billiontoone-blln-another-major-153021542.html",
+   "baslik": "Does BillionToOne (BLLN) Have Another Major Growth Engine Beyond Prenatal Testing?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/does-billiontoone-blln-another-major-153021542.html",
+   "saat": "18:30",
+   "tarih_iso": "2026-08-04T18:30:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "18:30"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/decent-holding-reports-first-half-153008312.html",
+   "baslik": "Decent Holding Reports First-Half Fiscal 2026 Revenue Growth as Suncare Business Expands",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/decent-holding-reports-first-half-153008312.html",
+   "saat": "18:30",
+   "tarih_iso": "2026-08-04T18:30:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "18:30"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/could-gilead-sciences-gild-major-151946319.html",
+   "baslik": "Could Gilead Sciences (GILD) Have a Major HIV Growth Engine in Yeztugo?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/could-gilead-sciences-gild-major-151946319.html",
+   "saat": "18:19",
+   "tarih_iso": "2026-08-04T18:19:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "18:19"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hugo-boss-finds-profit-sales-151759208.html",
    "baslik": "Hugo Boss Finds Profit in a Sales Slump",
    "kaynak": "Yahoo Finance",
@@ -391,6 +523,17 @@
    "tarih_iso": "2026-08-04T18:17:59+03:00",
    "kodlar": [],
    "eklenme": "2026-08-04T18:31:02.193706+03:00",
+   "saat_g": "18:17"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/edwards-lifesciences-ew-growth-runway-151732264.html",
+   "baslik": "Edwards Lifesciences (EW) Has a Growth Runway Competitors May Struggle to Match",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/edwards-lifesciences-ew-growth-runway-151732264.html",
+   "saat": "18:17",
+   "tarih_iso": "2026-08-04T18:17:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
    "saat_g": "18:17"
   },
   {
@@ -502,6 +645,17 @@
    "kodlar": [],
    "eklenme": "2026-08-04T18:31:02.193706+03:00",
    "saat_g": "17:49"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
+   "baslik": "Palantir jumps 27% on 'otherworldly' commercial revenue — here's what's driving the demand",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/04/palantir-2q-earnings-ai-sovereign-tools.html",
+   "saat": "17:47",
+   "tarih_iso": "2026-08-04T17:47:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T18:53:13.049172+03:00",
+   "saat_g": "17:47"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
@@ -1624,83 +1778,6 @@
    "kodlar": [],
    "eklenme": "2026-08-04T14:01:11.984387+03:00",
    "saat_g": "13:45"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/prologis-stock-falls-on-2-billion-share-offering-for-segro-deal-93CH-4833586",
-   "baslik": "Prologis stock falls on $2 billion share offering for Segro deal",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/prologis-stock-falls-on-2-billion-share-offering-for-segro-deal-93CH-4833586",
-   "saat": "13:45",
-   "tarih_iso": "2026-08-04T13:45:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T14:01:11.984387+03:00",
-   "saat_g": "13:45"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/news/morning-bid-earnings-overload-104206363.html",
-   "baslik": "Morning Bid: Earnings overload",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/morning-bid-earnings-overload-104206363.html",
-   "saat": "13:42",
-   "tarih_iso": "2026-08-04T13:42:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T14:01:11.984387+03:00",
-   "saat_g": "13:42"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
-   "baslik": "Oil prices rise after vessel reports being hit in Strait of Hormuz",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/oil-prices-rise-after-vessel-reports-being-hit-in-strait-of-hormuz-db6ce867?mod=mw_rss_topstories",
-   "saat": "13:39",
-   "tarih_iso": "2026-08-04T13:39:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T14:01:11.984387+03:00",
-   "saat_g": "13:39"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-genius-artificial-intelligence-ai-103500994.html",
-   "baslik": "3 Genius Artificial Intelligence (AI) Stocks to Buy Right Now",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-genius-artificial-intelligence-ai-103500994.html",
-   "saat": "13:35",
-   "tarih_iso": "2026-08-04T13:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T14:01:11.984387+03:00",
-   "saat_g": "13:35"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-   "baslik": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
-   "saat": "13:34",
-   "tarih_iso": "2026-08-04T13:34:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T14:01:11.984387+03:00",
-   "saat_g": "13:34"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/04/merck-mrk-earnings-q2-2026.html",
-   "baslik": "Merck hikes revenue outlook as new drug sales grow, but cuts profit guidance due to deal charges",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/04/merck-mrk-earnings-q2-2026.html",
-   "saat": "13:34",
-   "tarih_iso": "2026-08-04T13:34:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T14:01:11.984387+03:00",
-   "saat_g": "13:34"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/7da4af42-178d-431a-91db-7e82eecc98dd?syn-25a6b1a6=1",
-   "baslik": "OpenAI hits back at Apple over ‘oddly personal’ trade secrets fight",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/7da4af42-178d-431a-91db-7e82eecc98dd?syn-25a6b1a6=1",
-   "saat": "13:31",
-   "tarih_iso": "2026-08-04T13:31:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T14:01:11.984387+03:00",
-   "saat_g": "13:31"
   }
  ],
  "altin_haber": [
@@ -1925,5 +2002,5 @@
    "saat_g": "dün 18:30"
   }
  ],
- "guncelleme": "2026-08-04T18:31:02.193706+03:00"
+ "guncelleme": "2026-08-04T18:53:13.049172+03:00"
 }
