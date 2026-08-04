@@ -2,6 +2,19 @@
  "tarih": "2026-08-04",
  "kap": [
   {
+   "id": "kap-my-MAVI-202608041107",
+   "baslik": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş. — Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+   "sirket": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "MAVI"
+   ],
+   "kategori": "Sermaye",
+   "saat": "11:07",
+   "tarih_iso": "2026-08-04T11:07:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-04T11:29:33.473667+03:00"
+  },
+  {
    "id": "kap-my-EKGYO-202608041033",
    "baslik": "HALK YATIRIM MENKUL DEĞERLER A.Ş. — Likidite Sağlayıcılık Kapsamındaki İşlemler",
    "sirket": "HALK YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -43,6 +56,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/enerji-sirketi-bpnin-yilin-ikinci-ceyregindeki-kari-yuzde-150-artisla-5-7-milyar-dolar-oldu/4017788",
+   "baslik": "Enerji şirketi bp'nin yılın ikinci çeyreğindeki karı yüzde 150 artışla 5,7 milyar dolar oldu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/enerji-sirketi-bpnin-yilin-ikinci-ceyregindeki-kari-yuzde-150-artisla-5-7-milyar-dolar-oldu/4017788",
+   "saat": "11:26",
+   "tarih_iso": "2026-08-04T11:26:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T11:29:33.473667+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/goldman-sachstan-turkiye-icin-faiz-uyarisi-indirim-beklentisi-otelenebilir-haberi-834864",
    "baslik": "Goldman Sachs'tan Türkiye için faiz uyarısı: İndirim beklentisi ötelenebilir",
@@ -95,6 +118,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-verbio-vereinigte-bioenergie-stock-surging-today-93CH-4833055",
+   "baslik": "Why is Verbio Vereinigte Bioenergie stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-verbio-vereinigte-bioenergie-stock-surging-today-93CH-4833055",
+   "saat": "11:17",
+   "tarih_iso": "2026-08-04T11:17:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T11:29:33.473667+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/robinhoods-second-private-markets-fund-targets-200-million-us-ipo-4831471",
+   "baslik": "Robinhood’s second private markets fund targets $200 million US IPO",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/robinhoods-second-private-markets-fund-targets-200-million-us-ipo-4831471",
+   "saat": "11:12",
+   "tarih_iso": "2026-08-04T11:12:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T11:29:33.473667+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/04/treasury-yields-investors-peace-talks-uncertainty.html",
+   "baslik": "Treasury yields are broadly flat as investors mull uncertainty around peace talks",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/04/treasury-yields-investors-peace-talks-uncertainty.html",
+   "saat": "11:08",
+   "tarih_iso": "2026-08-04T11:08:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T11:29:33.473667+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-acciona-stock-plunging-today-93CH-4833012",
+   "baslik": "Why is Acciona stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-acciona-stock-plunging-today-93CH-4833012",
+   "saat": "10:56",
+   "tarih_iso": "2026-08-04T10:56:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T11:29:33.473667+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-travis-perkins-stock-surging-today-93CH-4833002",
+   "baslik": "Why is Travis Perkins stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-travis-perkins-stock-surging-today-93CH-4833002",
+   "saat": "10:49",
+   "tarih_iso": "2026-08-04T10:49:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T11:29:33.473667+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/big-investors-think-it-might-be-time-to-buy-in-south-korea-4833001",
+   "baslik": "Big investors think it might be time to buy in South Korea",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/big-investors-think-it-might-be-time-to-buy-in-south-korea-4833001",
+   "saat": "10:48",
+   "tarih_iso": "2026-08-04T10:48:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T11:29:33.473667+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sig-plc-stock-sliding-today-93CH-4832995",
    "baslik": "Why is SIG Plc stock sliding today?",
@@ -598,5 +681,5 @@
    "eklenme": "2026-08-04T09:01:07.372395+03:00"
   }
  ],
- "guncelleme": "2026-08-04T11:07:23.458132+03:00"
+ "guncelleme": "2026-08-04T11:29:33.473667+03:00"
 }
