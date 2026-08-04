@@ -2,6 +2,19 @@
  "tarih": "2026-08-04",
  "kap": [
   {
+   "id": "kap-my-YEOTK-202608041451",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Merkezi Kayıt Kuruluşu A.Ş. Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:51",
+   "tarih_iso": "2026-08-04T14:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
+  },
+  {
    "id": "kap-my-GLYHO-202608041353",
    "baslik": "GLOBAL YATIRIM HOLDİNG A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
    "sirket": "GLOBAL YATIRIM HOLDİNG A.Ş.",
@@ -79,6 +92,18 @@
     "PGSUS"
    ],
    "eklenme": "2026-08-04T13:31:07.601629+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/cimsa-dan-25-4-milyar-tl-satis-geliri-3903239-ekonomi",
+   "baslik": "Çimsa'dan 25,4 milyar TL satış geliri",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/cimsa-dan-25-4-milyar-tl-satis-geliri-3903239-ekonomi",
+   "saat": "12:20",
+   "tarih_iso": "2026-08-04T12:20:12+03:00",
+   "kodlar": [
+    "CIMSA"
+   ],
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-maci-ne-zaman-fb-sturm-graz-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-haberi-834848",
@@ -229,6 +254,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-121122455.html",
+   "baslik": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Apple, CoreWeave, eBay, Exxon Mobil, Intuit, Nebius Group, Palantir Technologies, SK hynix, and More",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-121122455.html",
+   "saat": "15:11",
+   "tarih_iso": "2026-08-04T15:11:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/why-palantir-stock-is-ripping-higher-after-earnings-alphaspace-stat-of-the-morning-121006694.html",
+   "baslik": "Why Palantir stock is ripping higher after earnings: AlphaSpace stat of the morning",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/why-palantir-stock-is-ripping-higher-after-earnings-alphaspace-stat-of-the-morning-121006694.html",
+   "saat": "15:10",
+   "tarih_iso": "2026-08-04T15:10:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/diamondback-energy-reveals-brutal-truth-120829415.html",
+   "baslik": "Diamondback Energy Reveals Brutal Truth: High Oil Prices Are Here to Stay",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/diamondback-energy-reveals-brutal-truth-120829415.html",
+   "saat": "15:08",
+   "tarih_iso": "2026-08-04T15:08:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/merck-cuts-2026-profit-forecast-120742934.html",
+   "baslik": "Merck cuts 2026 profit forecast on Terns acquisition charges",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/merck-cuts-2026-profit-forecast-120742934.html",
+   "saat": "15:07",
+   "tarih_iso": "2026-08-04T15:07:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/block-xyz-ai-reset-signals-120729862.html",
+   "baslik": "Block’s (XYZ) AI Reset Signals New Earnings Phase",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/block-xyz-ai-reset-signals-120729862.html",
+   "saat": "15:07",
+   "tarih_iso": "2026-08-04T15:07:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/caterpillar-stock-pops-9-on-record-quarterly-revenue-120556209.html",
+   "baslik": "Caterpillar stock pops 9% on record quarterly revenue",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/caterpillar-stock-pops-9-on-record-quarterly-revenue-120556209.html",
+   "saat": "15:05",
+   "tarih_iso": "2026-08-04T15:05:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/feds-paulson-keeps-open-mind-120134252.html",
+   "baslik": "Fed's Paulson keeps 'open mind' on rate policy outlook amid high inflation",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/feds-paulson-keeps-open-mind-120134252.html",
+   "saat": "15:01",
+   "tarih_iso": "2026-08-04T15:01:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/broadridge-quarterly-profit-climbs-investor-115415420.html",
+   "baslik": "Broadridge quarterly profit climbs on investor communications strength",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/broadridge-quarterly-profit-climbs-investor-115415420.html",
+   "saat": "14:54",
+   "tarih_iso": "2026-08-04T14:54:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/caterpillar-lifts-2026-sales-growth-115130477.html",
    "baslik": "Caterpillar lifts 2026 sales growth target after quarterly profit beat",
    "kaynak": "Yahoo Finance",
@@ -329,6 +434,16 @@
    "eklenme": "2026-08-04T15:01:08.942232+03:00"
   },
   {
+   "id": "yab-https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
+   "baslik": "McDonald's earnings beat estimates, chain announces new U.S. head to accelerate growth",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/04/mcdonalds-mcd-q2-2026-earnings.html",
+   "saat": "14:34",
+   "tarih_iso": "2026-08-04T14:34:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/technology/articles/mark-zuckerberg-tells-investors-why-113000485.html",
    "baslik": "Mark Zuckerberg tells investors why Meta is selling compute and still buying more — as capex guidance rises to $130B",
    "kaynak": "Yahoo Finance",
@@ -357,6 +472,16 @@
    "tarih_iso": "2026-08-04T14:22:28+03:00",
    "kodlar": [],
    "eklenme": "2026-08-04T14:30:56.467182+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/mcdonalds-posts-strong-second-quarter-112203456.html",
+   "baslik": "McDonald's posts strong second quarter profit, names new chief of US operations",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-posts-strong-second-quarter-112203456.html",
+   "saat": "14:22",
+   "tarih_iso": "2026-08-04T14:22:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T15:31:07.885812+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-energizer-stock-sliding-today-93CH-4833883",
@@ -1327,106 +1452,6 @@
    "tarih_iso": "2026-08-04T09:39:53+03:00",
    "kodlar": [],
    "eklenme": "2026-08-04T10:01:14.516265+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
-   "baslik": "Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
-   "saat": "09:34",
-   "tarih_iso": "2026-08-04T09:34:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T10:01:14.516265+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-steady-as-china-tech-rebounds-japan-extends-losses-4832754",
-   "baslik": "Asia stocks edge higher as AI shares stabilize; Australia leads regional gains",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-steady-as-china-tech-rebounds-japan-extends-losses-4832754",
-   "saat": "09:33",
-   "tarih_iso": "2026-08-04T09:33:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T10:01:14.516265+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-140-4832878",
-   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 1.40%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-140-4832878",
-   "saat": "09:30",
-   "tarih_iso": "2026-08-04T09:30:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T10:01:14.516265+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
-   "baslik": "BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
-   "saat": "09:24",
-   "tarih_iso": "2026-08-04T09:24:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T09:31:00.178208+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4832838",
-   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted unchanged",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4832838",
-   "saat": "09:05",
-   "tarih_iso": "2026-08-04T09:05:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T09:31:00.178208+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/apple-seeks-preliminary-injunction-against-openai-in-trade-secrets-case-4832833",
-   "baslik": "Apple seeks preliminary injunction against OpenAI in trade secrets case",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/apple-seeks-preliminary-injunction-against-openai-in-trade-secrets-case-4832833",
-   "saat": "09:01",
-   "tarih_iso": "2026-08-04T09:01:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T09:31:00.178208+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
-   "baslik": "Saudi Aramco profits jump 33% in second quarter as Iran war squeezes oil supply",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/04/saudi-aramco-earnings-2q-oil-iran-war.html",
-   "saat": "08:56",
-   "tarih_iso": "2026-08-04T08:56:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T09:01:07.372395+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/toyota-profit-drops-for-fifth-straight-quarter-on-china-slump-iran-war-impact-4832799",
-   "baslik": "Toyota lifts annual forecast despite Q1 profit drop on weak China sales",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/toyota-profit-drops-for-fifth-straight-quarter-on-china-slump-iran-war-impact-4832799",
-   "saat": "08:42",
-   "tarih_iso": "2026-08-04T08:42:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T09:01:07.372395+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
-   "baslik": "HSBC resumes share buybacks as quarterly profit soars to $10.1bn",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1",
-   "saat": "08:39",
-   "tarih_iso": "2026-08-04T08:39:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T09:01:07.372395+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/australia-lithium-stocks-rally-as-liontown-update-lifts-sector-4832806",
-   "baslik": "Australia lithium stocks rally as Liontown update lifts sector",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/australia-lithium-stocks-rally-as-liontown-update-lifts-sector-4832806",
-   "saat": "08:25",
-   "tarih_iso": "2026-08-04T08:25:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T09:01:07.372395+03:00"
   }
  ],
  "altin_haber": [
@@ -1561,5 +1586,5 @@
    "eklenme": "2026-08-04T09:01:07.372395+03:00"
   }
  ],
- "guncelleme": "2026-08-04T15:01:08.942232+03:00"
+ "guncelleme": "2026-08-04T15:31:07.885812+03:00"
 }
