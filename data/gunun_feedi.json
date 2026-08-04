@@ -15,7 +15,20 @@
    "eklenme": "2026-08-04T09:01:07.372395+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-maci-ne-zaman-fb-sturm-graz-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-haberi-834848",
+   "baslik": "Fenerbahçe Şampiyonlar Ligi maçı ne zaman? FB - Sturm Graz maçı ne zaman, saat kaçta, hangi kanalda? Şifresiz mi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-maci-ne-zaman-fb-sturm-graz-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-haberi-834848",
+   "saat": "09:30",
+   "tarih_iso": "2026-08-04T09:30:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-04T10:01:14.516265+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/shein-hong-kong-halka-arznda-3040-milyar-dolar-degerleme-hedefliyor-93CH-4010744",
@@ -49,6 +62,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rotork-reports-stable-h1-revenue-completes-40m-buyback-93CH-4832910",
+   "baslik": "Rotork reports stable H1 revenue, completes £40m buyback",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rotork-reports-stable-h1-revenue-completes-40m-buyback-93CH-4832910",
+   "saat": "09:44",
+   "tarih_iso": "2026-08-04T09:44:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T10:01:14.516265+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/keller-reports-11-revenue-growth-in-first-half-on-north-america-strength-93CH-4832908",
+   "baslik": "Keller reports 11% revenue growth in first half on North America strength",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/keller-reports-11-revenue-growth-in-first-half-on-north-america-strength-93CH-4832908",
+   "saat": "09:42",
+   "tarih_iso": "2026-08-04T09:42:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T10:01:14.516265+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/filtronic-reports-revenue-miss-on-spacex-charges-and-fx-headwinds-93CH-4832907",
+   "baslik": "Filtronic reports revenue miss on SpaceX charges and FX headwinds",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/filtronic-reports-revenue-miss-on-spacex-charges-and-fx-headwinds-93CH-4832907",
+   "saat": "09:41",
+   "tarih_iso": "2026-08-04T09:41:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T10:01:14.516265+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/synthomer-upgrades-2026-outlook-after-h1-revenue-rises-67-93CH-4832904",
+   "baslik": "Synthomer upgrades 2026 outlook after H1 revenue rises 6.7%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/synthomer-upgrades-2026-outlook-after-h1-revenue-rises-67-93CH-4832904",
+   "saat": "09:39",
+   "tarih_iso": "2026-08-04T09:39:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T10:01:14.516265+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
+   "baslik": "Trump warns Iran talks are ‘last chance’ to end war — oil prices rise as Tehran denies negotiations",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html",
+   "saat": "09:34",
+   "tarih_iso": "2026-08-04T09:34:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T10:01:14.516265+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-steady-as-china-tech-rebounds-japan-extends-losses-4832754",
+   "baslik": "Asia stocks edge higher as AI shares stabilize; Australia leads regional gains",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-steady-as-china-tech-rebounds-japan-extends-losses-4832754",
+   "saat": "09:33",
+   "tarih_iso": "2026-08-04T09:33:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T10:01:14.516265+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-140-4832878",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 1.40%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-140-4832878",
+   "saat": "09:30",
+   "tarih_iso": "2026-08-04T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-04T10:01:14.516265+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/04/bp-2q-earnings-oil-iran-war.html",
    "baslik": "BP profit more than doubles as Trump blasts Big Oil for ‘making too much money’",
@@ -392,5 +475,5 @@
    "eklenme": "2026-08-04T09:01:07.372395+03:00"
   }
  ],
- "guncelleme": "2026-08-04T09:31:00.178208+03:00"
+ "guncelleme": "2026-08-04T10:01:14.516265+03:00"
 }
