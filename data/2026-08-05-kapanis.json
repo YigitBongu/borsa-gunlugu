@@ -200,6 +200,19 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/bakan-fidan-mescid-i-aksa-turkiyenin-kutsal-yerlerinden-biri-haberi-835095",
+   "baslik": "Bakan Fidan: Mescid-i Aksa Türkiye'nin kutsal yerlerinden biri",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/bakan-fidan-mescid-i-aksa-turkiyenin-kutsal-yerlerinden-biri-haberi-835095",
+   "saat": "18:11",
+   "tarih_iso": "2026-08-05T18:11:00+03:00",
+   "kodlar": [
+    "AKSA"
+   ],
+   "eklenme": "2026-08-05T18:30:58.568189+03:00",
+   "saat_g": "18:11"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahceden-uefa-kadrosunda-son-dakika-degisikligi-haberi-835071",
    "baslik": "Fenerbahçe'den UEFA kadrosunda son dakika değişikliği",
    "kaynak": "Dünya",
@@ -331,6 +344,17 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/csn-cimento-birimi-icin-29-milyar-dolar-istiyor-dort-teklif-bekliyor-93CH-4014964",
+   "baslik": "CSN çimento birimi için 2,9 milyar dolar istiyor, dört teklif bekliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/csn-cimento-birimi-icin-29-milyar-dolar-istiyor-dort-teklif-bekliyor-93CH-4014964",
+   "saat": "17:57",
+   "tarih_iso": "2026-08-05T17:57:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:30:58.568189+03:00",
+   "saat_g": "17:57"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-tarihte-aciklaniyor-fed-faiz-artiracak-mi-haberi-835085",
    "baslik": "Fed faiz kararı ne zaman, hangi tarihte açıklanıyor? Fed faiz artıracak mı?",
@@ -520,6 +544,94 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-things-stock-market-crashes-150800870.html",
+   "baslik": "3 Things to Do if the Stock Market Crashes as Soon as You Retire",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-things-stock-market-crashes-150800870.html",
+   "saat": "18:08",
+   "tarih_iso": "2026-08-05T18:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:30:58.568189+03:00",
+   "saat_g": "18:08"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/uber-stock-drops-as-bookings-guidance-disappoints-ceo-bets-on-robotaxi-push-to-grow-overall-business-150729446.html",
+   "baslik": "Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/uber-stock-drops-as-bookings-guidance-disappoints-ceo-bets-on-robotaxi-push-to-grow-overall-business-150729446.html",
+   "saat": "18:07",
+   "tarih_iso": "2026-08-05T18:07:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:30:58.568189+03:00",
+   "saat_g": "18:07"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/airbnb-vs-comcast-stock-better-150652494.html",
+   "baslik": "Airbnb vs. Comcast: Which Stock Is a Better Buy in 2026?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-vs-comcast-stock-better-150652494.html",
+   "saat": "18:06",
+   "tarih_iso": "2026-08-05T18:06:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:30:58.568189+03:00",
+   "saat_g": "18:06"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/globalfoundries-q2-earnings-call-highlights-150426141.html",
+   "baslik": "GlobalFoundries Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-q2-earnings-call-highlights-150426141.html",
+   "saat": "18:04",
+   "tarih_iso": "2026-08-05T18:04:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:30:58.568189+03:00",
+   "saat_g": "18:04"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ftc-solar-q2-earnings-call-150425268.html",
+   "baslik": "FTC Solar Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ftc-solar-q2-earnings-call-150425268.html",
+   "saat": "18:04",
+   "tarih_iso": "2026-08-05T18:04:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:30:58.568189+03:00",
+   "saat_g": "18:04"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/real-estate/articles/frp-q2-earnings-call-highlights-150424952.html",
+   "baslik": "FRP Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/real-estate/articles/frp-q2-earnings-call-highlights-150424952.html",
+   "saat": "18:04",
+   "tarih_iso": "2026-08-05T18:04:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:30:58.568189+03:00",
+   "saat_g": "18:04"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/shopifys-stock-heads-for-best-day-in-a-year-after-the-company-left-no-doubt-about-its-growth-trajectory-79551270?mod=mw_rss_topstories",
+   "baslik": "Shopify’s stock heads for best day in a year after the company ‘left no doubt’ about its growth trajectory",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/shopifys-stock-heads-for-best-day-in-a-year-after-the-company-left-no-doubt-about-its-growth-trajectory-79551270?mod=mw_rss_topstories",
+   "saat": "17:59",
+   "tarih_iso": "2026-08-05T17:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:30:58.568189+03:00",
+   "saat_g": "17:59"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/insulet-stock-insulet-earnings-q2-2026/?src=A00220&yptr=yahoo",
+   "baslik": "These Two Medical Stocks Are Screaming Sell — Here's What Happened",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/insulet-stock-insulet-earnings-q2-2026/?src=A00220&yptr=yahoo",
+   "saat": "17:52",
+   "tarih_iso": "2026-08-05T17:52:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:30:58.568189+03:00",
+   "saat_g": "17:52"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/its-the-worst-time-in-years-to-invest-in-ai-credit-markets-almost-no-upside-and-plenty-of-downside-a200d5c7?mod=mw_rss_topstories",
    "baslik": "It’s the worst time in years to invest in AI credit markets: ‘Almost no upside and plenty of downside’",
@@ -1751,94 +1863,6 @@
    "kodlar": [],
    "eklenme": "2026-08-05T13:31:04.883649+03:00",
    "saat_g": "13:04"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/article/spacexs-first-earnings-reveal-the-cost-of-becoming-an-ai-giant-chart-of-the-day-100100357.html",
-   "baslik": "SpaceX's first earnings reveal the cost of becoming an AI giant: Chart of the Day",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/spacexs-first-earnings-reveal-the-cost-of-becoming-an-ai-giant-chart-of-the-day-100100357.html",
-   "saat": "13:01",
-   "tarih_iso": "2026-08-05T13:01:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T13:31:04.883649+03:00",
-   "saat_g": "13:01"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-august-5-2026-rates-mixed-as-iran-negotiations-focus-on-hormuz-100000767.html",
-   "baslik": "Mortgage and refinance rates today, Wednesday, August 5, 2026: Rates mixed as Iran negotiations focus on Hormuz",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-august-5-2026-rates-mixed-as-iran-negotiations-focus-on-hormuz-100000767.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-08-05T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T13:31:04.883649+03:00",
-   "saat_g": "13:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/article/sandisk-stock-is-bouncing--how-to-play-earnings-with-limited-risk-alpha-options-playbook-100000967.html",
-   "baslik": "Sandisk stock is bouncing — how to play earnings with limited risk: Alpha Options Playbook",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/sandisk-stock-is-bouncing--how-to-play-earnings-with-limited-risk-alpha-options-playbook-100000967.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-08-05T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T13:31:04.883649+03:00",
-   "saat_g": "13:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-5-2026-earn-up-to-415-apy-100000064.html",
-   "baslik": "Best CD rates today, Wednesday, August 5, 2026: Earn up to 4.15% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-august-5-2026-earn-up-to-415-apy-100000064.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-08-05T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T13:31:04.883649+03:00",
-   "saat_g": "13:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/article/wall-street-is-set-for-a-bonus-boom-big-banks-have-the-edge-100000424.html",
-   "baslik": "Wall Street is set for a bonus boom. Big banks have the edge.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/wall-street-is-set-for-a-bonus-boom-big-banks-have-the-edge-100000424.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-08-05T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T13:31:04.883649+03:00",
-   "saat_g": "13:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
-   "baslik": "Oil prices move higher after Yemen's Iran-backed Houthis claim Saudi tanker strike",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
-   "saat": "12:53",
-   "tarih_iso": "2026-08-05T12:53:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T13:01:10.833059+03:00",
-   "saat_g": "12:53"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/elon-musk-addresses-memory-chip-stock-concerns-with-one-simple-observation-df134d47?mod=mw_rss_topstories",
-   "baslik": "Elon Musk addresses memory-chip stock concerns with one simple observation",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/elon-musk-addresses-memory-chip-stock-concerns-with-one-simple-observation-df134d47?mod=mw_rss_topstories",
-   "saat": "12:45",
-   "tarih_iso": "2026-08-05T12:45:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T13:01:10.833059+03:00",
-   "saat_g": "12:45"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-093653327.html",
-   "baslik": "Stock market today: Dow and S&P 500 rise as oil falls, Nasdaq digests tech earnings",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-093653327.html",
-   "saat": "12:36",
-   "tarih_iso": "2026-08-05T12:36:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T13:31:04.883649+03:00",
-   "saat_g": "12:36"
   }
  ],
  "altin_haber": [
@@ -2096,5 +2120,5 @@
    "saat_g": "dün 18:00"
   }
  ],
- "guncelleme": "2026-08-05T18:01:19.496972+03:00"
+ "guncelleme": "2026-08-05T18:30:58.568189+03:00"
 }
