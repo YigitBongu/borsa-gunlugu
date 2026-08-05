@@ -200,6 +200,19 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/oyak-tekfen-holdingde-ilk-yonetim-kurulu-toplantisini-gerceklestirdi-haberi-835098",
+   "baslik": "OYAK, Tekfen Holding'de ilk yönetim kurulu toplantısını gerçekleştirdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/oyak-tekfen-holdingde-ilk-yonetim-kurulu-toplantisini-gerceklestirdi-haberi-835098",
+   "saat": "18:24",
+   "tarih_iso": "2026-08-05T18:24:00+03:00",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "eklenme": "2026-08-05T18:36:56.202434+03:00",
+   "saat_g": "18:24"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/bakan-fidan-mescid-i-aksa-turkiyenin-kutsal-yerlerinden-biri-haberi-835095",
    "baslik": "Bakan Fidan: Mescid-i Aksa Türkiye'nin kutsal yerlerinden biri",
    "kaynak": "Dünya",
@@ -344,6 +357,17 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-835100",
+   "baslik": "Borsa İstanbul günü yükselişle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-835100",
+   "saat": "18:32",
+   "tarih_iso": "2026-08-05T18:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:36:56.202434+03:00",
+   "saat_g": "18:32"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/csn-cimento-birimi-icin-29-milyar-dolar-istiyor-dort-teklif-bekliyor-93CH-4014964",
    "baslik": "CSN çimento birimi için 2,9 milyar dolar istiyor, dört teklif bekliyor",
@@ -545,6 +569,17 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-paying-month-151455738.html",
+   "baslik": "5 Dividend Stocks Paying Out This Month – But There’s a Catch",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-paying-month-151455738.html",
+   "saat": "18:14",
+   "tarih_iso": "2026-08-05T18:14:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:36:56.202434+03:00",
+   "saat_g": "18:14"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-things-stock-market-crashes-150800870.html",
    "baslik": "3 Things to Do if the Stock Market Crashes as Soon as You Retire",
    "kaynak": "Yahoo Finance",
@@ -686,6 +721,17 @@
    "kodlar": [],
    "eklenme": "2026-08-05T18:01:19.496972+03:00",
    "saat_g": "17:35"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
+   "baslik": "Oil prices fall on negotiations to manage ship traffic in Strait of Hormuz",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/oil-prices-iran-war-houthis-saudi-tanker.html",
+   "saat": "17:33",
+   "tarih_iso": "2026-08-05T17:33:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T18:36:56.202434+03:00",
+   "saat_g": "17:33"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/aaon-aaon-growth-strategy-positions-142537693.html",
@@ -1841,28 +1887,6 @@
    "kodlar": [],
    "eklenme": "2026-08-05T13:31:04.883649+03:00",
    "saat_g": "13:04"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/mplx-q2-earnings-call-highlights-100406808.html",
-   "baslik": "Mplx Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/mplx-q2-earnings-call-highlights-100406808.html",
-   "saat": "13:04",
-   "tarih_iso": "2026-08-05T13:04:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T13:31:04.883649+03:00",
-   "saat_g": "13:04"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/deutsche-post-q2-earnings-call-100404684.html",
-   "baslik": "Deutsche Post Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/deutsche-post-q2-earnings-call-100404684.html",
-   "saat": "13:04",
-   "tarih_iso": "2026-08-05T13:04:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T13:31:04.883649+03:00",
-   "saat_g": "13:04"
   }
  ],
  "altin_haber": [
@@ -2120,5 +2144,5 @@
    "saat_g": "dün 18:00"
   }
  ],
- "guncelleme": "2026-08-05T18:30:58.568189+03:00"
+ "guncelleme": "2026-08-05T18:36:56.202434+03:00"
 }
