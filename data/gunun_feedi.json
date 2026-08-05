@@ -2,6 +2,19 @@
  "tarih": "2026-08-05",
  "kap": [
   {
+   "id": "kap-my-GLYHO-202608051004",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:04",
+   "tarih_iso": "2026-08-05T10:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
    "id": "kap-my-BOBET-202608050908",
    "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -93,6 +106,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-yetkilisinden-enflasyon-uyarisi-faiz-artirimi-olacak-mi-haberi-835018",
+   "baslik": "Fed yetkilisinden enflasyon uyarısı: Faiz artırımı olacak mı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-yetkilisinden-enflasyon-uyarisi-faiz-artirimi-olacak-mi-haberi-835018",
+   "saat": "10:23",
+   "tarih_iso": "2026-08-05T10:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/aktuel/taze-incir-ihracatinda-yeni-sezon-basladi-hedef-100-milyon-dolar-galeri-835010",
    "baslik": "Taze incir ihracatında yeni sezon başladı: Hedef 100 milyon dolar",
    "kaynak": "Dünya",
@@ -101,6 +124,16 @@
    "tarih_iso": "2026-08-05T09:47:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-05T10:01:19.656462+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/hsbc-bistte-agrlk-artr-citi-faiz-patikasna-ihtiyatla-yaklasyor-4013444",
+   "baslik": "HSBC BIST’te ’ağırlık artır’: Citi faiz patikasına ihtiyatla yaklaşıyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/hsbc-bistte-agrlk-artr-citi-faiz-patikasna-ihtiyatla-yaklasyor-4013444",
+   "saat": "09:46",
+   "tarih_iso": "2026-08-05T09:46:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/dunya/ecbden-avrupa-bankalarina-kritik-uyari-jeopolitik-krizlere-hazir-degiller-haberi-835008",
@@ -144,6 +177,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html",
+   "baslik": "Novo Nordisk stock falls after raised forecast fails to change the debate over its obesity business",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html",
+   "saat": "10:23",
+   "tarih_iso": "2026-08-05T10:23:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-trade-near-peaks-as-corporate-earnings-boost-risk-appetite-4836415",
+   "baslik": "European stocks trade near peaks as corporate earnings boost risk appetite",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-trade-near-peaks-as-corporate-earnings-boost-risk-appetite-4836415",
+   "saat": "10:18",
+   "tarih_iso": "2026-08-05T10:18:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-3-discount-retailer-stocks-to-consider-before-q2-earnings-according-to-bernstein-93CH-4836498",
+   "baslik": "Top 3 Discount Retailer Stocks to Consider Before Q2 Earnings, According to Bernstein",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-3-discount-retailer-stocks-to-consider-before-q2-earnings-according-to-bernstein-93CH-4836498",
+   "saat": "10:13",
+   "tarih_iso": "2026-08-05T10:13:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/lockup-expiry-will-offer-the-next-test-of-investor-appetite-for-spacex-shares-4836362",
+   "baslik": "Lockup expiry will offer the next test of investor appetite for SpaceX shares",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/lockup-expiry-will-offer-the-next-test-of-investor-appetite-for-spacex-shares-4836362",
+   "saat": "10:12",
+   "tarih_iso": "2026-08-05T10:12:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-iranus-hormuz-deal-nears-4836491",
+   "baslik": "FTSE 100 today: Stocks rise as Iran-U.S. Hormuz deal nears",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-iranus-hormuz-deal-nears-4836491",
+   "saat": "10:10",
+   "tarih_iso": "2026-08-05T10:10:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-360-4836475",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 3.60%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-360-4836475",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-05T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/india-services-growth-slows-to-53month-low-in-july-93CH-4836470",
+   "baslik": "India services growth slows to 53-month low in July",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/india-services-growth-slows-to-53month-low-in-july-93CH-4836470",
+   "saat": "09:59",
+   "tarih_iso": "2026-08-05T09:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-minimax-stock-surging-today-93CH-4836458",
+   "baslik": "Why is MiniMax stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-minimax-stock-surging-today-93CH-4836458",
+   "saat": "09:51",
+   "tarih_iso": "2026-08-05T09:51:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zai-stock-surging-today-93CH-4836457",
+   "baslik": "Why is ZAI stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-zai-stock-surging-today-93CH-4836457",
+   "saat": "09:51",
+   "tarih_iso": "2026-08-05T09:51:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business-4835745",
+   "baslik": "SpaceX revenue jumps in debut results as satellite, AI businesses surge",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business-4835745",
+   "saat": "09:43",
+   "tarih_iso": "2026-08-05T09:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-090-4836439",
    "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.90%",
@@ -417,6 +550,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-holds-key-vc-pmi-support-as-cycle-dates-signal-potential-breakout-200685214",
+   "baslik": "Gold Holds Key VC PMI Support as Cycle Dates Signal Potential Breakout",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-holds-key-vc-pmi-support-as-cycle-dates-signal-potential-breakout-200685214",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-05T10:31:04.409103+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/news/stock-market-news/gold-steadies-as-mideast-diplomacy-fed-outlook-keep-traders-cautious-4836345",
    "baslik": "Gold tops $4,200 as Hormuz deal hopes trim Fed hike bets, dollar slips",
    "kaynak": "Investing.com",
@@ -547,5 +690,5 @@
    "eklenme": "2026-08-05T09:01:08.073530+03:00"
   }
  ],
- "guncelleme": "2026-08-05T10:01:19.656462+03:00"
+ "guncelleme": "2026-08-05T10:31:04.409103+03:00"
 }
