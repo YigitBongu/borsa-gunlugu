@@ -69,6 +69,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ozyegin-universitesi-mavi-su-verimliligi-belgesi-aldi-3903492-ekonomi",
+   "baslik": "Özyeğin Üniversitesi mavi su verimliliği belgesi aldı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ozyegin-universitesi-mavi-su-verimliligi-belgesi-aldi-3903492-ekonomi",
+   "saat": "11:29",
+   "tarih_iso": "2026-08-05T11:29:12+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-05T12:31:02.802305+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/aselsan-in-ilk-6-aylik-cirosu-88-5-milyar-lira-oldu-3903486-teknoloji",
    "baslik": "ASELSAN'ın ilk 6 aylık cirosu 88,5 milyar lira oldu",
    "kaynak": "Habertürk Ekonomi",
@@ -142,6 +154,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/rbi-faiz-oranlarn-sabit-tuttu-politikada-yumusak-sinyal-verdi-93CH-4013816",
+   "baslik": "RBI faiz oranlarını sabit tuttu, politikada yumuşak sinyal verdi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/rbi-faiz-oranlarn-sabit-tuttu-politikada-yumusak-sinyal-verdi-93CH-4013816",
+   "saat": "12:19",
+   "tarih_iso": "2026-08-05T12:19:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T12:31:02.802305+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-hangi-gun-aciklanacak-haberi-835034",
+   "baslik": "ABD enflasyon rakamları ne zaman, hangi gün açıklanacak?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-hangi-gun-aciklanacak-haberi-835034",
+   "saat": "12:06",
+   "tarih_iso": "2026-08-05T12:06:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T12:31:02.802305+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/enerji/kuresel-nukleer-enerji-yatirimlarinda-hedef-yillik-250-milyar-dolar-haberi-835027",
    "baslik": "Küresel nükleer enerji yatırımlarında hedef yıllık 250 milyar dolar",
@@ -244,6 +276,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-rs-stock-sliding-today-93CH-4836779",
+   "baslik": "Why is R&S stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-rs-stock-sliding-today-93CH-4836779",
+   "saat": "12:18",
+   "tarih_iso": "2026-08-05T12:18:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T12:31:02.802305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rbi-keeps-rates-unchanged-signals-dovish-stance-on-policy-93CH-4836778",
+   "baslik": "RBI keeps rates unchanged, signals dovish stance on policy",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rbi-keeps-rates-unchanged-signals-dovish-stance-on-policy-93CH-4836778",
+   "saat": "12:18",
+   "tarih_iso": "2026-08-05T12:18:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T12:31:02.802305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/elia-rises-as-ubs-sees-growth-story-intact-after-postresults-selloff-4836773",
+   "baslik": "Elia rises as UBS sees growth story intact after post-results selloff",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/elia-rises-as-ubs-sees-growth-story-intact-after-postresults-selloff-4836773",
+   "saat": "12:14",
+   "tarih_iso": "2026-08-05T12:14:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T12:31:02.802305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-voestalpine-stock-sliding-today-93CH-4836725",
+   "baslik": "Why is Voestalpine stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-voestalpine-stock-sliding-today-93CH-4836725",
+   "saat": "11:58",
+   "tarih_iso": "2026-08-05T11:58:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T12:31:02.802305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/uber-stock-rises-as-london-approves-autonomous-vehicle-licenses-93CH-4836722",
+   "baslik": "Uber stock rises as London approves autonomous vehicle licenses",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/uber-stock-rises-as-london-approves-autonomous-vehicle-licenses-93CH-4836722",
+   "saat": "11:56",
+   "tarih_iso": "2026-08-05T11:56:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T12:31:02.802305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jp-morgan-bullish-on-nexans-as-transmission-growth-drives-earnings-shares-rise-4836710",
+   "baslik": "J.P. Morgan bullish on Nexans as transmission growth drives earnings; shares rise",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jp-morgan-bullish-on-nexans-as-transmission-growth-drives-earnings-shares-rise-4836710",
+   "saat": "11:52",
+   "tarih_iso": "2026-08-05T11:52:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T12:31:02.802305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/gran-tierra-energy-shares-jump-31-on-colombia-ecuador-sale-93CH-4836700",
+   "baslik": "Gran Tierra Energy shares jump 31% on Colombia, Ecuador sale",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gran-tierra-energy-shares-jump-31-on-colombia-ecuador-sale-93CH-4836700",
+   "saat": "11:50",
+   "tarih_iso": "2026-08-05T11:50:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T12:31:02.802305+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-teradata-stock-tumbling-today-93CH-4836663",
    "baslik": "Why is Teradata stock tumbling today?",
@@ -775,6 +877,16 @@
    "eklenme": "2026-08-05T09:01:08.073530+03:00"
   },
   {
+   "id": "yab-https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
+   "baslik": "Here's what to expect when Disney reports earnings before the bell",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/disney-dis-earnings-q3-2026.html",
+   "saat": "07:01",
+   "tarih_iso": "2026-08-05T07:01:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T12:31:02.802305+03:00"
+  },
+  {
    "id": "yab-https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
    "baslik": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
    "kaynak": "BBC Business",
@@ -1097,5 +1209,5 @@
    "eklenme": "2026-08-05T09:01:08.073530+03:00"
   }
  ],
- "guncelleme": "2026-08-05T12:01:07.431302+03:00"
+ "guncelleme": "2026-08-05T12:31:02.802305+03:00"
 }
