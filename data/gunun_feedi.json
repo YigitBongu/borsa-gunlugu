@@ -2,6 +2,19 @@
  "tarih": "2026-08-05",
  "kap": [
   {
+   "id": "kap-my-SKBNK-202608051540",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:40",
+   "tarih_iso": "2026-08-05T15:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
    "id": "kap-my-REEDR-202608051403",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -342,6 +355,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-5-2026-crypto-prices-rise-as-investors-watch-hormuz-negotiations-and-jobs-report-closely-124640660.html",
+   "baslik": "Bitcoin and ethereum prices today, Wednesday, August 5, 2026:  Crypto prices rise as investors watch Hormuz negotiations and jobs report closely",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-5-2026-crypto-prices-rise-as-investors-watch-hormuz-negotiations-and-jobs-report-closely-124640660.html",
+   "saat": "15:46",
+   "tarih_iso": "2026-08-05T15:46:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Dow Rises After Surprise Jobs Data; AMD, SpaceX Plunge On Earnings (Live Coverage)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/?src=A00220&yptr=yahoo",
+   "saat": "15:46",
+   "tarih_iso": "2026-08-05T15:46:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/options/articles/happens-stock-implied-volatility-outpaces-124208065.html",
+   "baslik": "What Happens When Stock Implied Volatility Outpaces the SPY",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/options/articles/happens-stock-implied-volatility-outpaces-124208065.html",
+   "saat": "15:42",
+   "tarih_iso": "2026-08-05T15:42:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/miivo-ai-highlights-customer-growth-123800550.html",
+   "baslik": "Miivo AI highlights customer growth, expanding AI product portfolio",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/miivo-ai-highlights-customer-growth-123800550.html",
+   "saat": "15:38",
+   "tarih_iso": "2026-08-05T15:38:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-q2-2026-earnings-123545495.html",
+   "baslik": "Kraft Heinz Q2 2026 earnings beat, raises annual forecast",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-q2-2026-earnings-123545495.html",
+   "saat": "15:35",
+   "tarih_iso": "2026-08-05T15:35:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/05/were-adding-to-our-position-in-a-chipmaker-as-the-ai-trade-regains-its-footing.html",
+   "baslik": "We're adding to our position in a chipmaker as the AI trade regains its footing",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/were-adding-to-our-position-in-a-chipmaker-as-the-ai-trade-regains-its-footing.html",
+   "saat": "15:35",
+   "tarih_iso": "2026-08-05T15:35:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/arista-networks-just-delivered-first-123453558.html",
+   "baslik": "Arista Networks Just Delivered Its First $3 Billion Quarter. Here's What It Means for the AI Networking Trade.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-just-delivered-first-123453558.html",
+   "saat": "15:34",
+   "tarih_iso": "2026-08-05T15:34:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/guardant-health-gh-sees-48-123107538.html",
+   "baslik": "Guardant Health (GH) Sees 48% Growth as Its Cancer Tests Gain Momentum",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/guardant-health-gh-sees-48-123107538.html",
+   "saat": "15:31",
+   "tarih_iso": "2026-08-05T15:31:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/the-government-owns-some-of-the-same-stocks-you-do-heres-why-that-is-risky-6ad6462d?mod=mw_rss_topstories",
    "baslik": "The government owns some of the same stocks you do. Here’s why that is risky.",
    "kaynak": "MarketWatch",
@@ -362,6 +455,26 @@
    "eklenme": "2026-08-05T15:30:56.869052+03:00"
   },
   {
+   "id": "yab-https://www.marketwatch.com/story/adp-says-businesses-add-the-fewer-new-jobs-in-six-months-0923d6b4?mod=mw_rss_topstories",
+   "baslik": "ADP says businesses add the fewest new jobs in six months. Labor market is still sluggish.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/adp-says-businesses-add-the-fewer-new-jobs-in-six-months-0923d6b4?mod=mw_rss_topstories",
+   "saat": "15:25",
+   "tarih_iso": "2026-08-05T15:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/05/stock-bears-obliterated-as-nasdaq-logs-top-10-bullish-stat-of-past-decade.html",
+   "baslik": "Stock bears obliterated as Nasdaq 100 logs top 10 bullish stat of past decade",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/stock-bears-obliterated-as-nasdaq-logs-top-10-bullish-stat-of-past-decade.html",
+   "saat": "15:22",
+   "tarih_iso": "2026-08-05T15:22:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/uber-profit-narrowly-beat-forecasts-as-trips-across-its-platform-surge-4a22ce2d?mod=mw_rss_topstories",
    "baslik": "Uber profit narrowly beat forecasts as trips across its platform surge",
    "kaynak": "MarketWatch",
@@ -372,6 +485,16 @@
    "eklenme": "2026-08-05T15:30:56.869052+03:00"
   },
   {
+   "id": "yab-https://www.cnbc.com/2026/08/05/irs-form-1099-da-crypto-tax-reporting-rules.html",
+   "baslik": "The IRS is getting better at spotting crypto tax mistakes. Here's what it means for investors",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/irs-form-1099-da-crypto-tax-reporting-rules.html",
+   "saat": "15:15",
+   "tarih_iso": "2026-08-05T15:15:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/economy/policy/article/kansas-city-feds-schmid-favors-higher-rates-to-bring-down-inflation-120930312.html",
    "baslik": "Kansas City Fed's Schmid favors higher rates to bring down inflation",
    "kaynak": "Yahoo Finance",
@@ -380,6 +503,16 @@
    "tarih_iso": "2026-08-05T15:09:30+03:00",
    "kodlar": [],
    "eklenme": "2026-08-05T15:30:56.869052+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/news/yen-finds-footing-intervention-dollar-013635105.html",
+   "baslik": "Yen drifts after intervention whirlwind; Iran optimism dents dollar",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/yen-finds-footing-intervention-dollar-013635105.html",
+   "saat": "15:08",
+   "tarih_iso": "2026-08-05T15:08:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tesla-vs-rocket-lab-better-120500137.html",
@@ -1420,129 +1553,19 @@
    "tarih_iso": "2026-08-05T11:18:32+03:00",
    "kodlar": [],
    "eklenme": "2026-08-05T11:31:05.300851+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
-   "baslik": "SoftBank jumps 13% as Asia tech stocks track Wall Street AI rally",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/05/softbank-samsung-sk-hynix-samsung-tech-rally.html",
-   "saat": "11:05",
-   "tarih_iso": "2026-08-05T11:05:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T15:01:10.839367+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/foxconns-monthly-revenue-hits-record-in-july-on-ai-demand-4836554",
-   "baslik": "Foxconn’s monthly revenue hits record in July on AI demand",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/foxconns-monthly-revenue-hits-record-in-july-on-ai-demand-4836554",
-   "saat": "10:49",
-   "tarih_iso": "2026-08-05T10:49:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:28:18.016018+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fresenius-stock-surging-today-93CH-4836540",
-   "baslik": "Why is Fresenius stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-fresenius-stock-surging-today-93CH-4836540",
-   "saat": "10:42",
-   "tarih_iso": "2026-08-05T10:42:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:28:18.016018+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-investors-await-progress-in-mideast-talks-4836539",
-   "baslik": "European shares edge higher as investors await progress in Mideast talks",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-investors-await-progress-in-mideast-talks-4836539",
-   "saat": "10:42",
-   "tarih_iso": "2026-08-05T10:42:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:28:18.016018+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-deutsche-post-stock-sliding-today-93CH-4836527",
-   "baslik": "Why is Deutsche Post stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-deutsche-post-stock-sliding-today-93CH-4836527",
-   "saat": "10:37",
-   "tarih_iso": "2026-08-05T10:37:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:01:08.892854+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-infineon-technologies-stock-slipping-today-93CH-4836525",
-   "baslik": "Why is Infineon Technologies stock slipping today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-infineon-technologies-stock-slipping-today-93CH-4836525",
-   "saat": "10:35",
-   "tarih_iso": "2026-08-05T10:35:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:01:08.892854+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-ai-rally-returns-japan-korea-surge-4836372",
-   "baslik": "Asia stocks rally as tech rebounds, ASX hits record after Wall Street gains",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-ai-rally-returns-japan-korea-surge-4836372",
-   "saat": "10:35",
-   "tarih_iso": "2026-08-05T10:35:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:01:08.892854+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-next-stock-surging-today-93CH-4836521",
-   "baslik": "Why is Next stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-next-stock-surging-today-93CH-4836521",
-   "saat": "10:29",
-   "tarih_iso": "2026-08-05T10:29:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:01:08.892854+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-siemens-energy-stock-climbing-today-93CH-4836519",
-   "baslik": "Why is Siemens Energy stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-siemens-energy-stock-climbing-today-93CH-4836519",
-   "saat": "10:26",
-   "tarih_iso": "2026-08-05T10:26:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:01:08.892854+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html",
-   "baslik": "Novo Nordisk stock falls after raised forecast fails to change the debate over its obesity business",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/05/novo-nordisk-stock-guidance-earnings-wegovy-ozempic-eli-lilly.html",
-   "saat": "10:23",
-   "tarih_iso": "2026-08-05T10:23:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T10:31:04.409103+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-glencore-stock-rallying-today-93CH-4836513",
-   "baslik": "Why is Glencore stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-glencore-stock-rallying-today-93CH-4836513",
-   "saat": "10:23",
-   "tarih_iso": "2026-08-05T10:23:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:01:08.892854+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-novo-nordisk-stock-sliding-today-93CH-4836512",
-   "baslik": "Why is Novo Nordisk stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-novo-nordisk-stock-sliding-today-93CH-4836512",
-   "saat": "10:22",
-   "tarih_iso": "2026-08-05T10:22:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:01:08.892854+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/the-gold-trade-is-waking-up-again-200685252",
+   "baslik": "The Gold Trade Is Waking Up Again",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/the-gold-trade-is-waking-up-again-200685252",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:01:08.807029+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-wednesday-august-5-2026-gold-prices-are-holding-awaiting-news-on-hormuz-deal-120800834.html",
    "baslik": "Gold prices today, Wednesday, August 5, 2026: Gold prices are holding, awaiting news on Hormuz deal",
@@ -1744,5 +1767,5 @@
    "eklenme": "2026-08-05T09:01:08.073530+03:00"
   }
  ],
- "guncelleme": "2026-08-05T15:30:56.869052+03:00"
+ "guncelleme": "2026-08-05T16:01:08.807029+03:00"
 }
