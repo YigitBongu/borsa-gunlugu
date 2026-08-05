@@ -2,6 +2,19 @@
  "tarih": "2026-08-05",
  "kap": [
   {
+   "id": "kap-my-SKBNK-202608051553",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:53",
+   "tarih_iso": "2026-08-05T15:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
+  {
    "id": "kap-my-SKBNK-202608051540",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -94,6 +107,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahceden-uefa-kadrosunda-son-dakika-degisikligi-haberi-835071",
+   "baslik": "Fenerbahçe'den UEFA kadrosunda son dakika değişikliği",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahceden-uefa-kadrosunda-son-dakika-degisikligi-haberi-835071",
+   "saat": "16:23",
+   "tarih_iso": "2026-08-05T16:23:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/turk-hava-yollar-hissesi-bugun-neden-dusuyor-93CH-4013975",
    "baslik": "Türk Hava Yolları hissesi bugün neden düşüyor?",
@@ -354,6 +379,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+   "baslik": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+   "saat": "16:22",
+   "tarih_iso": "2026-08-05T16:22:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-rivian-stock-fell-12-132000861.html",
+   "baslik": "Why Rivian Stock Fell 12% Last Month",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-rivian-stock-fell-12-132000861.html",
+   "saat": "16:20",
+   "tarih_iso": "2026-08-05T16:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-e-l-f-beauty-131942215.html",
+   "baslik": "Why e.l.f. Beauty Stock Jumped 12% in July",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-e-l-f-beauty-131942215.html",
+   "saat": "16:19",
+   "tarih_iso": "2026-08-05T16:19:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+   "saat": "16:17",
+   "tarih_iso": "2026-08-05T16:17:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/7-numbers-from-amd-earnings-reveal-an-ultra-bullish-future-alphaspace-stats-to-know-131200091.html",
+   "baslik": "7 numbers from AMD earnings reveal an ultra-bullish future: AlphaSpace stats to know",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/7-numbers-from-amd-earnings-reveal-an-ultra-bullish-future-alphaspace-stats-to-know-131200091.html",
+   "saat": "16:12",
+   "tarih_iso": "2026-08-05T16:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/this-spacex-number-is-spooking-already-skittish-investors-130824734.html",
+   "baslik": "This SpaceX number is spooking already skittish investors",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/this-spacex-number-is-spooking-already-skittish-investors-130824734.html",
+   "saat": "16:08",
+   "tarih_iso": "2026-08-05T16:08:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/3-reasons-amds-stock-is-falling-in-the-face-of-its-latest-earnings-report-c2e16c71?mod=mw_rss_topstories",
    "baslik": "3 reasons AMD’s stock is falling in the face of its latest earnings report",
@@ -1493,69 +1578,19 @@
    "tarih_iso": "2026-08-05T11:24:15+03:00",
    "kodlar": [],
    "eklenme": "2026-08-05T11:31:05.300851+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-coupang-stock-sliding-today-93CH-4836608",
-   "baslik": "Why is Coupang stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-coupang-stock-sliding-today-93CH-4836608",
-   "saat": "11:23",
-   "tarih_iso": "2026-08-05T11:23:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:31:05.300851+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-safilo-stock-surging-today-93CH-4836607",
-   "baslik": "Why is Safilo stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-safilo-stock-surging-today-93CH-4836607",
-   "saat": "11:23",
-   "tarih_iso": "2026-08-05T11:23:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:31:05.300851+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-dropping-today-93CH-4836606",
-   "baslik": "Why is Advanced Micro Devices stock dropping today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-dropping-today-93CH-4836606",
-   "saat": "11:23",
-   "tarih_iso": "2026-08-05T11:23:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:31:05.300851+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-sliding-today-93CH-4836605",
-   "baslik": "Why is Space Exploration Technologies stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-sliding-today-93CH-4836605",
-   "saat": "11:23",
-   "tarih_iso": "2026-08-05T11:23:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:31:05.300851+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-pinterest-stock-sliding-today-93CH-4836604",
-   "baslik": "Why is Pinterest stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-pinterest-stock-sliding-today-93CH-4836604",
-   "saat": "11:21",
-   "tarih_iso": "2026-08-05T11:21:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:31:05.300851+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
-   "baslik": "SpaceX dives 10% after AI spending surge rattles investors",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
-   "saat": "11:20",
-   "tarih_iso": "2026-08-05T11:20:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:28:18.016018+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.haberturk.com/altin-kritik-seviyeyi-test-etti-alman-devi-yil-sonu-tahminini-acikladi-3903572-ekonomi",
+   "baslik": "Altın kritik seviyeyi test etti",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/altin-kritik-seviyeyi-test-etti-alman-devi-yil-sonu-tahminini-acikladi-3903572-ekonomi",
+   "saat": "16:19",
+   "tarih_iso": "2026-08-05T16:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/the-gold-trade-is-waking-up-again-200685252",
    "baslik": "The Gold Trade Is Waking Up Again",
@@ -1767,5 +1802,5 @@
    "eklenme": "2026-08-05T09:01:08.073530+03:00"
   }
  ],
- "guncelleme": "2026-08-05T16:10:11.769074+03:00"
+ "guncelleme": "2026-08-05T16:31:03.481366+03:00"
 }
