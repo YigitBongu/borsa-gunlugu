@@ -69,6 +69,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/aselsan-in-ilk-6-aylik-cirosu-88-5-milyar-lira-oldu-3903486-teknoloji",
+   "baslik": "ASELSAN'ın ilk 6 aylık cirosu 88,5 milyar lira oldu",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/aselsan-in-ilk-6-aylik-cirosu-88-5-milyar-lira-oldu-3903486-teknoloji",
+   "saat": "11:07",
+   "tarih_iso": "2026-08-05T11:07:58+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-08-05T11:28:18.016018+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sturm-graz-maci-tarihi-ve-saati-muhtemel-11ler-haberi-835022",
    "baslik": "Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda? FB - Sturm Graz maçı tarihi ve saati... Muhtemel 11'ler...",
    "kaynak": "Dünya",
@@ -222,6 +234,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+   "baslik": "SpaceX dives 10% after AI spending surge rattles investors",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+   "saat": "11:20",
+   "tarih_iso": "2026-08-05T11:20:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T11:28:18.016018+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/foxconns-monthly-revenue-hits-record-in-july-on-ai-demand-4836554",
+   "baslik": "Foxconn’s monthly revenue hits record in July on AI demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/foxconns-monthly-revenue-hits-record-in-july-on-ai-demand-4836554",
+   "saat": "10:49",
+   "tarih_iso": "2026-08-05T10:49:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T11:28:18.016018+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fresenius-stock-surging-today-93CH-4836540",
+   "baslik": "Why is Fresenius stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-fresenius-stock-surging-today-93CH-4836540",
+   "saat": "10:42",
+   "tarih_iso": "2026-08-05T10:42:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T11:28:18.016018+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-investors-await-progress-in-mideast-talks-4836539",
+   "baslik": "European shares edge higher as investors await progress in Mideast talks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-edge-higher-as-investors-await-progress-in-mideast-talks-4836539",
+   "saat": "10:42",
+   "tarih_iso": "2026-08-05T10:42:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T11:28:18.016018+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-deutsche-post-stock-sliding-today-93CH-4836527",
    "baslik": "Why is Deutsche Post stock sliding today?",
@@ -835,5 +887,5 @@
    "eklenme": "2026-08-05T09:01:08.073530+03:00"
   }
  ],
- "guncelleme": "2026-08-05T11:07:12.622159+03:00"
+ "guncelleme": "2026-08-05T11:28:18.016018+03:00"
 }
