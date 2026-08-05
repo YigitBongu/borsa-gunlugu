@@ -383,6 +383,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/japonyada-ucretler-haziranda-34-artt-faiz-artsn-destekliyor-93CH-4013340",
+   "baslik": "Japonya’da ücretler Haziran’da %3,4 arttı, faiz artışını destekliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/japonyada-ucretler-haziranda-34-artt-faiz-artsn-destekliyor-93CH-4013340",
+   "saat": "05:20",
+   "tarih_iso": "2026-08-05T05:20:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T06:01:05.468231+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/altn-orta-dogu-diplomasisi-ve-fed-gorunumu-ile-sabit-seyrediyor-4013342",
+   "baslik": "Altın, Orta Doğu diplomasisi ve Fed görünümü ile sabit seyrediyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-orta-dogu-diplomasisi-ve-fed-gorunumu-ile-sabit-seyrediyor-4013342",
+   "saat": "05:20",
+   "tarih_iso": "2026-08-05T05:20:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T06:01:05.468231+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/tcmbden-fiyat-gelismeleri-raporu-enflasyonun-ana-egilimi-temmuzda-yavasladi-haberi-834966",
    "baslik": "TCMB'den Fiyat Gelişmeleri Raporu: Enflasyonun ana eğilimi Temmuz'da yavaşladı",
    "kaynak": "Dünya",
@@ -564,6 +584,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-softbank-corp-stock-rallying-today-93CH-4836349",
+   "baslik": "Why is SoftBank Corp stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-corp-stock-rallying-today-93CH-4836349",
+   "saat": "05:32",
+   "tarih_iso": "2026-08-05T05:32:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T06:01:05.468231+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japans-services-sector-growth-slows-in-july-on-weak-demand-pmi-shows-93CH-4836348",
+   "baslik": "Japan’s services sector growth slows in July on weak demand, PMI shows",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japans-services-sector-growth-slows-in-july-on-weak-demand-pmi-shows-93CH-4836348",
+   "saat": "05:31",
+   "tarih_iso": "2026-08-05T05:31:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T06:01:05.468231+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/gold-steadies-as-mideast-diplomacy-fed-outlook-keep-traders-cautious-4836345",
+   "baslik": "Gold steadies as Mideast diplomacy, Fed outlook keep traders cautious",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-steadies-as-mideast-diplomacy-fed-outlook-keep-traders-cautious-4836345",
+   "saat": "05:20",
+   "tarih_iso": "2026-08-05T05:20:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T06:01:05.468231+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japans-wages-climb-34-in-june-supporting-rate-hike-case-93CH-4836344",
+   "baslik": "Japan’s wages climb 3.4% in June, supporting rate hike case",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japans-wages-climb-34-in-june-supporting-rate-hike-case-93CH-4836344",
+   "saat": "05:19",
+   "tarih_iso": "2026-08-05T05:19:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T06:01:05.468231+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/some-boj-members-see-inflation-rising-later-this-year-june-meeting-minutes-show-93CH-4836343",
+   "baslik": "Some BOJ members see inflation rising later this year, June meeting minutes show",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/some-boj-members-see-inflation-rising-later-this-year-june-meeting-minutes-show-93CH-4836343",
+   "saat": "05:19",
+   "tarih_iso": "2026-08-05T05:19:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T06:01:05.468231+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/china-ai-hardware-stocks-slump-after-news-us-plans-to-ban-imports-of-chinese-components-4836331",
    "baslik": "China AI hardware stocks slump after news US plans to ban imports of Chinese components",
@@ -1713,59 +1783,29 @@
    "tarih_iso": "2026-08-04T18:45:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-04T20:01:06.892857+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/technology/amazon-stock-bezos-sell-rally/?src=A00220&yptr=yahoo",
-   "baslik": "Amazon Stock Falls After Rally As Bezos Plans $4 Billion Share Sale",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/technology/amazon-stock-bezos-sell-rally/?src=A00220&yptr=yahoo",
-   "saat": "18:40",
-   "tarih_iso": "2026-08-04T18:40:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T18:53:13.049172+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/04/wayfair-w-earnings-q2-2026.html",
-   "baslik": "Wayfair stock jumps more than 25% as retailer posts strongest U.S. growth since 2020",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/04/wayfair-w-earnings-q2-2026.html",
-   "saat": "18:36",
-   "tarih_iso": "2026-08-04T18:36:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T20:01:06.892857+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-177-4835089",
-   "baslik": "Poland stocks higher at close of trade; WIG30 up 1.77%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-177-4835089",
-   "saat": "18:35",
-   "tarih_iso": "2026-08-04T18:35:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T19:01:07.221171+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/stocks-could-soar-in-august-here-are-six-potential-drivers-89d91780?mod=mw_rss_topstories",
-   "baslik": "Stocks could soar in August. Here are six potential drivers.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/stocks-could-soar-in-august-here-are-six-potential-drivers-89d91780?mod=mw_rss_topstories",
-   "saat": "18:33",
-   "tarih_iso": "2026-08-04T18:33:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T18:53:13.049172+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/does-billiontoone-blln-another-major-153021542.html",
-   "baslik": "Does BillionToOne (BLLN) Have Another Major Growth Engine Beyond Prenatal Testing?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/does-billiontoone-blln-another-major-153021542.html",
-   "saat": "18:30",
-   "tarih_iso": "2026-08-04T18:30:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T18:53:13.049172+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/altn-orta-dogu-diplomasisi-ve-fed-gorunumu-ile-sabit-seyrediyor-4013342",
+   "baslik": "Altın, Orta Doğu diplomasisi ve Fed görünümü ile sabit seyrediyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-orta-dogu-diplomasisi-ve-fed-gorunumu-ile-sabit-seyrediyor-4013342",
+   "saat": "05:20",
+   "tarih_iso": "2026-08-05T05:20:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T06:01:05.468231+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/gold-steadies-as-mideast-diplomacy-fed-outlook-keep-traders-cautious-4836345",
+   "baslik": "Gold steadies as Mideast diplomacy, Fed outlook keep traders cautious",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-steadies-as-mideast-diplomacy-fed-outlook-keep-traders-cautious-4836345",
+   "saat": "05:20",
+   "tarih_iso": "2026-08-05T05:20:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T06:01:05.468231+03:00"
+  },
   {
    "id": "alt-https://www.mining.com/artemis-golds-blackwater-mill-bill-balloons/",
    "baslik": "Artemis Gold’s Blackwater mill bill balloons",
@@ -2037,5 +2077,5 @@
    "eklenme": "2026-08-04T09:01:07.372395+03:00"
   }
  ],
- "guncelleme": "2026-08-05T05:30:57.189188+03:00"
+ "guncelleme": "2026-08-05T06:01:05.468231+03:00"
 }
