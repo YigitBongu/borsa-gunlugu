@@ -383,6 +383,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-5-agustos-carsamba-doviz-kurlari-haberi-834988",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (5 Ağustos Çarşamba Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-5-agustos-carsamba-doviz-kurlari-haberi-834988",
+   "saat": "07:14",
+   "tarih_iso": "2026-08-05T07:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T07:31:03.587298+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomik-veriler/japonyada-faiz-baskisi-buyudu-ucretler-hizlandi-hizmetlerde-talep-zayifladi-haberi-834983",
    "baslik": "Japonya’da faiz baskısı büyüdü: Ücretler hızlandı, hizmetlerde talep zayıfladı",
    "kaynak": "Dünya",
@@ -594,6 +604,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ibiden-stock-surging-today-93CH-4836374",
+   "baslik": "Why is Ibiden stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ibiden-stock-surging-today-93CH-4836374",
+   "saat": "07:20",
+   "tarih_iso": "2026-08-05T07:20:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T07:31:03.587298+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-ai-rally-returns-japan-korea-surge-4836372",
+   "baslik": "Asia stocks jump as AI rally returns; Japan, Korea surge",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-jump-as-ai-rally-returns-japan-korea-surge-4836372",
+   "saat": "07:17",
+   "tarih_iso": "2026-08-05T07:17:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T07:31:03.587298+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/lockup-expiry-will-offer-the-next-test-of-investor-appetite-for-spacex-shares-4836362",
    "baslik": "Lockup expiry will offer the next test of investor appetite for SpaceX shares",
@@ -1773,26 +1803,6 @@
    "tarih_iso": "2026-08-04T19:03:47+03:00",
    "kodlar": [],
    "eklenme": "2026-08-04T19:31:02.260433+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/centene-corp-cnc-surged-earnings-160339963.html",
-   "baslik": "Centene Corp. (CNC) Surged on Earnings Beat and Improved Outlook",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/centene-corp-cnc-surged-earnings-160339963.html",
-   "saat": "19:03",
-   "tarih_iso": "2026-08-04T19:03:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T19:31:02.260433+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html",
-   "baslik": "Oil prices tumble after Bessent says Strait of Hormuz deal may come this week",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/04/oil-rises-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain.html",
-   "saat": "18:57",
-   "tarih_iso": "2026-08-04T18:57:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T21:31:08.258336+03:00"
   }
  ],
  "altin_haber": [
@@ -2097,5 +2107,5 @@
    "eklenme": "2026-08-04T09:01:07.372395+03:00"
   }
  ],
- "guncelleme": "2026-08-05T07:01:13.391538+03:00"
+ "guncelleme": "2026-08-05T07:31:03.587298+03:00"
 }
