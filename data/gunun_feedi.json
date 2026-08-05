@@ -2,6 +2,19 @@
  "tarih": "2026-08-05",
  "kap": [
   {
+   "id": "kap-my-BERA-202608051632",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "BERA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:32",
+   "tarih_iso": "2026-08-05T16:32:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
+  },
+  {
    "id": "kap-my-SKBNK-202608051553",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -118,6 +131,18 @@
     "FENER"
    ],
    "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-05-agustos-2026/4019157",
+   "baslik": "60 saniyede ekonomide bugün (05 Ağustos 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-05-agustos-2026/4019157",
+   "saat": "15:56",
+   "tarih_iso": "2026-08-05T15:56:37+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/turk-hava-yollar-hissesi-bugun-neden-dusuyor-93CH-4013975",
@@ -380,6 +405,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/article/eli-lilly-stock-soars-on-strong-demand-for-weight-loss-drugs-135325819.html",
+   "baslik": "Eli Lilly stock soars on strong demand for weight loss drugs",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/eli-lilly-stock-soars-on-strong-demand-for-weight-loss-drugs-135325819.html",
+   "saat": "16:53",
+   "tarih_iso": "2026-08-05T16:53:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bloom-energys-pullback-entry-point-135000572.html",
+   "baslik": "Bloom Energy's Pullback Is the Entry Point Long-Term Investors Wanted",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energys-pullback-entry-point-135000572.html",
+   "saat": "16:50",
+   "tarih_iso": "2026-08-05T16:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
+   "baslik": "AMD sinks 5% despite earnings beat, strong data center revenue",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/amd-stock-today-earnings-q2.html",
+   "saat": "16:48",
+   "tarih_iso": "2026-08-05T16:48:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+   "baslik": "SpaceX dives 9% after AI spending surge rattles investors",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/spacex-spcx-stock-today-earnings.html",
+   "saat": "16:41",
+   "tarih_iso": "2026-08-05T16:41:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/amds-data-center-business-doubled-134100020.html",
+   "baslik": "AMD's Data Center Business Doubled to $6.7 Billion. The Stock Fell 9% Because of What That Growth Costs.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/amds-data-center-business-doubled-134100020.html",
+   "saat": "16:41",
+   "tarih_iso": "2026-08-05T16:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/galaxy-digital-stock-drops-5-134000968.html",
+   "baslik": "Galaxy Digital’s Stock Drops 5% As Financial Results Disappoint",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/galaxy-digital-stock-drops-5-134000968.html",
+   "saat": "16:40",
+   "tarih_iso": "2026-08-05T16:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/nike-stock-is-underperforming-on-a-historic-scale-alphaspace-stat-to-know-133834175.html",
+   "baslik": "Nike stock is underperforming on a historic scale: AlphaSpace stat to know",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/nike-stock-is-underperforming-on-a-historic-scale-alphaspace-stat-to-know-133834175.html",
+   "saat": "16:38",
+   "tarih_iso": "2026-08-05T16:38:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/world-indices/articles/asia-shares-surge-tech-mood-014132859.html",
+   "baslik": "Stocks get AI boost; investors on tenterhooks over Mideast peace talks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-surge-tech-mood-014132859.html",
+   "saat": "16:32",
+   "tarih_iso": "2026-08-05T16:32:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
    "baslik": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
    "kaynak": "CNBC",
@@ -398,6 +503,16 @@
    "tarih_iso": "2026-08-05T16:20:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-moat-built-131953527.html",
+   "baslik": "Intercontinental Exchange’s (ICE) Moat Is Built to Outlast Market Jitters",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-moat-built-131953527.html",
+   "saat": "16:19",
+   "tarih_iso": "2026-08-05T16:19:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-e-l-f-beauty-131942215.html",
@@ -1488,96 +1603,6 @@
    "tarih_iso": "2026-08-05T11:36:49+03:00",
    "kodlar": [],
    "eklenme": "2026-08-05T12:01:07.431302+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zeta-global-stock-sliding-today-93CH-4836656",
-   "baslik": "Why is Zeta Global stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-zeta-global-stock-sliding-today-93CH-4836656",
-   "saat": "11:33",
-   "tarih_iso": "2026-08-05T11:33:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T12:01:07.431302+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-compass-stock-surging-today-93CH-4836655",
-   "baslik": "Why is Compass stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-compass-stock-surging-today-93CH-4836655",
-   "saat": "11:33",
-   "tarih_iso": "2026-08-05T11:33:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T12:01:07.431302+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-basler-stock-sliding-today-93CH-4836654",
-   "baslik": "Why is Basler stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-basler-stock-sliding-today-93CH-4836654",
-   "saat": "11:33",
-   "tarih_iso": "2026-08-05T11:33:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T12:01:07.431302+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-beyond-stock-sliding-today-93CH-4836628",
-   "baslik": "Why is Beyond stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-beyond-stock-sliding-today-93CH-4836628",
-   "saat": "11:32",
-   "tarih_iso": "2026-08-05T11:32:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T12:01:07.431302+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/amd-falls-as-investors-seek-bigger-ai-payoff-4836627",
-   "baslik": "AMD falls as investors seek bigger AI payoff",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/amd-falls-as-investors-seek-bigger-ai-payoff-4836627",
-   "saat": "11:30",
-   "tarih_iso": "2026-08-05T11:30:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T12:01:07.431302+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-057-4836624",
-   "baslik": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.57%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-057-4836624",
-   "saat": "11:30",
-   "tarih_iso": "2026-08-05T11:30:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T12:01:07.431302+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/amd-falls-as-investors-seek-bigger-ai-payoff-082709887.html",
-   "baslik": "AMD falls as investors seek bigger AI payoff",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/amd-falls-as-investors-seek-bigger-ai-payoff-082709887.html",
-   "saat": "11:27",
-   "tarih_iso": "2026-08-05T11:27:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T13:31:04.883649+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lattice-semiconductor-stock-sliding-today-93CH-4836611",
-   "baslik": "Why is Lattice Semiconductor stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-lattice-semiconductor-stock-sliding-today-93CH-4836611",
-   "saat": "11:25",
-   "tarih_iso": "2026-08-05T11:25:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:31:05.300851+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hiscox-stock-gaining-today-93CH-4836610",
-   "baslik": "Why is Hiscox stock gaining today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-hiscox-stock-gaining-today-93CH-4836610",
-   "saat": "11:24",
-   "tarih_iso": "2026-08-05T11:24:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-05T11:31:05.300851+03:00"
   }
  ],
  "altin_haber": [
@@ -1590,6 +1615,16 @@
    "tarih_iso": "2026-08-05T16:19:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-05T16:31:03.481366+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/anlasma-umudu-altini-ucurdu-kritik-seviye-asildi-galeri-835072",
+   "baslik": "Anlaşma umudu altını uçurdu: Kritik seviye aşıldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/anlasma-umudu-altini-ucurdu-kritik-seviye-asildi-galeri-835072",
+   "saat": "16:10",
+   "tarih_iso": "2026-08-05T16:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T17:01:12.803333+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/the-gold-trade-is-waking-up-again-200685252",
@@ -1802,5 +1837,5 @@
    "eklenme": "2026-08-05T09:01:08.073530+03:00"
   }
  ],
- "guncelleme": "2026-08-05T16:31:03.481366+03:00"
+ "guncelleme": "2026-08-05T17:01:12.803333+03:00"
 }
