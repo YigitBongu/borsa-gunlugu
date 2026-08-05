@@ -1,6 +1,46 @@
 {
  "tarih": "2026-08-05",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-BOBET-202608050908",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:08",
+   "tarih_iso": "2026-08-05T09:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-05T09:31:02.566956+03:00"
+  },
+  {
+   "id": "kap-my-THYAO-202608050801",
+   "baslik": "TÜRK HAVA YOLLARI A.O. — Katılım Finansı İlkeleri Bilgi Formu",
+   "sirket": "TÜRK HAVA YOLLARI A.O.",
+   "kodlar": [
+    "THYAO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:01",
+   "tarih_iso": "2026-08-05T08:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-05T09:31:02.566956+03:00"
+  },
+  {
+   "id": "kap-my-THYAO-202608050800",
+   "baslik": "TÜRK HAVA YOLLARI A.O. — Finansal Rapor",
+   "sirket": "TÜRK HAVA YOLLARI A.O.",
+   "kodlar": [
+    "THYAO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:00",
+   "tarih_iso": "2026-08-05T08:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-05T09:31:02.566956+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.dunya.com/gundem/yeni-partili-veli-agbabanin-agabeyi-gozaltina-alindi-haberi-835000",
@@ -84,6 +124,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/gold-steadies-as-mideast-diplomacy-fed-outlook-keep-traders-cautious-4836345",
+   "baslik": "Gold tops $4,200 as Hormuz deal hopes trim Fed hike bets, dollar slips",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-steadies-as-mideast-diplomacy-fed-outlook-keep-traders-cautious-4836345",
+   "saat": "09:16",
+   "tarih_iso": "2026-08-05T09:16:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T09:31:02.566956+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4836425",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted unchanged",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4836425",
+   "saat": "09:05",
+   "tarih_iso": "2026-08-05T09:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T09:31:02.566956+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
+   "baslik": "Europe is blowing up riverbeds as an extreme drought wreaks havoc on its economy",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/05/drought-rhine-danube-water-levels-economy.html",
+   "saat": "09:01",
+   "tarih_iso": "2026-08-05T09:01:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T09:31:02.566956+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/05/india-rbi-interest-rate-inflation-iran-war.html",
    "baslik": "India's central bank keeps benchmark rates steady, cites 'moderate' core inflation",
@@ -317,6 +387,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/news/stock-market-news/gold-steadies-as-mideast-diplomacy-fed-outlook-keep-traders-cautious-4836345",
+   "baslik": "Gold tops $4,200 as Hormuz deal hopes trim Fed hike bets, dollar slips",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-steadies-as-mideast-diplomacy-fed-outlook-keep-traders-cautious-4836345",
+   "saat": "09:16",
+   "tarih_iso": "2026-08-05T09:16:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T09:31:02.566956+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-faces-a-policy-trap-as-inflation-and-rate-hikes-pull-opposite-ways-200685193",
    "baslik": "Gold Faces a Policy Trap as Inflation and Rate Hikes Pull Opposite Ways",
    "kaynak": "Investing Emtia",
@@ -387,6 +467,16 @@
    "eklenme": "2026-08-05T09:01:08.073530+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/gram-altinda-yeni-esik-gorundu-galeri-834981",
+   "baslik": "Gram altında yeni eşik göründü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/gram-altinda-yeni-esik-gorundu-galeri-834981",
+   "saat": "05:49",
+   "tarih_iso": "2026-08-05T05:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T09:31:02.566956+03:00"
+  },
+  {
    "id": "alt-https://www.mining.com/artemis-golds-blackwater-mill-bill-balloons/",
    "baslik": "Artemis Gold’s Blackwater mill bill balloons",
    "kaynak": "Mining.com",
@@ -427,5 +517,5 @@
    "eklenme": "2026-08-05T09:01:08.073530+03:00"
   }
  ],
- "guncelleme": "2026-08-05T09:01:08.073530+03:00"
+ "guncelleme": "2026-08-05T09:31:02.566956+03:00"
 }
