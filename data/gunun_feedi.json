@@ -383,6 +383,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/japonyada-faiz-baskisi-buyudu-ucretler-hizlandi-hizmetlerde-talep-zayifladi-haberi-834983",
+   "baslik": "Japonya’da faiz baskısı büyüdü: Ücretler hızlandı, hizmetlerde talep zayıfladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/japonyada-faiz-baskisi-buyudu-ucretler-hizlandi-hizmetlerde-talep-zayifladi-haberi-834983",
+   "saat": "06:34",
+   "tarih_iso": "2026-08-05T06:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T07:01:13.391538+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/japonyada-ucretler-haziranda-34-artt-faiz-artsn-destekliyor-93CH-4013340",
    "baslik": "Japonya’da ücretler Haziran’da %3,4 arttı, faiz artışını destekliyor",
    "kaynak": "Investing TR",
@@ -584,6 +594,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/lockup-expiry-will-offer-the-next-test-of-investor-appetite-for-spacex-shares-4836362",
+   "baslik": "Lockup expiry will offer the next test of investor appetite for SpaceX shares",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/lockup-expiry-will-offer-the-next-test-of-investor-appetite-for-spacex-shares-4836362",
+   "saat": "06:42",
+   "tarih_iso": "2026-08-05T06:42:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-05T07:01:13.391538+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/china-ai-optical-stocks-fall-on-report-us-weighs-ban-on-data-center-components-4836355",
    "baslik": "China AI optical stocks fall on report U.S. weighs ban on data center components",
@@ -1773,16 +1793,6 @@
    "tarih_iso": "2026-08-04T18:57:10+03:00",
    "kodlar": [],
    "eklenme": "2026-08-04T21:31:08.258336+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/chlor-alkali-market-tightening-drives-154611702.html",
-   "baslik": "Chlor-alkali Market Tightening Drives Olin Corp. (OLN) Stock Recovery",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/chlor-alkali-market-tightening-drives-154611702.html",
-   "saat": "18:46",
-   "tarih_iso": "2026-08-04T18:46:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-04T19:31:02.260433+03:00"
   }
  ],
  "altin_haber": [
@@ -2087,5 +2097,5 @@
    "eklenme": "2026-08-04T09:01:07.372395+03:00"
   }
  ],
- "guncelleme": "2026-08-05T06:30:57.745871+03:00"
+ "guncelleme": "2026-08-05T07:01:13.391538+03:00"
 }
