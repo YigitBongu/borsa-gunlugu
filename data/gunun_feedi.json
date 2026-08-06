@@ -69,6 +69,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/sturm-graz-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sampiyonlar-ligi-maci-hangi-tarihte-haberi-835165",
+   "baslik": "Sturm Graz - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda? FB Şampiyonlar Ligi maçı hangi tarihte?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/sturm-graz-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sampiyonlar-ligi-maci-hangi-tarihte-haberi-835165",
+   "saat": "09:42",
+   "tarih_iso": "2026-08-06T09:42:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-06T10:01:04.346331+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/hradec-kralove-besiktas-maci-ne-zaman-saat-kacta-hangi-kanalda-bjk-maci-sifresiz-mi-haberi-835158",
    "baslik": "Hradec Kralove - Beşiktaş maçı ne zaman, saat kaçta, hangi kanalda? BJK maçı şifresiz mi?",
    "kaynak": "Dünya",
@@ -126,6 +138,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+   "baslik": "SoftBank posts profit beat boosted by stakes in Intel and TikTok-owner ByteDance",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/06/softbank-q1-earnings-intel-bytedance-stakes.html",
+   "saat": "09:58",
+   "tarih_iso": "2026-08-06T09:58:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T10:01:04.346331+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1",
    "baslik": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving",
@@ -559,5 +581,5 @@
    "eklenme": "2026-08-06T09:01:07.603100+03:00"
   }
  ],
- "guncelleme": "2026-08-06T09:30:56.482356+03:00"
+ "guncelleme": "2026-08-06T10:01:04.346331+03:00"
 }
