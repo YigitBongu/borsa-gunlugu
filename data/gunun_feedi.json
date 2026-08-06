@@ -2,6 +2,19 @@
  "tarih": "2026-08-06",
  "kap": [
   {
+   "id": "kap-my-PETKM-202608061207",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "PETKM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:07",
+   "tarih_iso": "2026-08-06T12:07:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
+  {
    "id": "kap-my-PETKM-202608060726",
    "baslik": "PETKİM PETROKİMYA HOLDİNG A.Ş. — Geleceğe Dönük Değerlendirmeler",
    "sirket": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
@@ -69,6 +82,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/turk-telekomdan-17-2-milyar-lira-karla-yilin-ilk-yarisinda-guclu-performans/4019855",
+   "baslik": "Türk Telekomdan 17,2 milyar lira karla yılın ilk yarısında güçlü performans",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekomdan-17-2-milyar-lira-karla-yilin-ilk-yarisinda-guclu-performans/4019855",
+   "saat": "11:50",
+   "tarih_iso": "2026-08-06T11:50:30+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/turk-telekom-dan-142-2-milyar-tl-gelir-3903722-teknoloji",
    "baslik": "Türk Telekom'dan 142,2 milyar TL gelir",
    "kaynak": "Habertürk Ekonomi",
@@ -131,6 +156,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/avro-banknotlari-degisiyor-ecb-yeni-tasarimlar-icin-sureci-baslatti-3451025",
+   "baslik": "Avro banknotları değişiyor! ECB yeni tasarımlar için süreci başlattı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/avro-banknotlari-degisiyor-ecb-yeni-tasarimlar-icin-sureci-baslatti-3451025",
+   "saat": "15:05",
+   "tarih_iso": "2026-08-06T15:05:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-quick-sigorta-icin-caldi/4019850",
    "baslik": "Borsa İstanbul'da gong Quick Sigorta için çaldı",
    "kaynak": "AA Ekonomi",
@@ -172,6 +207,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-moderna-stock-rallying-today-93CH-4840476",
+   "baslik": "Why is Moderna stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-rallying-today-93CH-4840476",
+   "saat": "12:12",
+   "tarih_iso": "2026-08-06T12:12:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-elf-beauty-stock-sliding-today-93CH-4840462",
+   "baslik": "Why is e.l.f. Beauty stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-elf-beauty-stock-sliding-today-93CH-4840462",
+   "saat": "12:08",
+   "tarih_iso": "2026-08-06T12:08:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
+   "baslik": "Ukraine’s military hits one of Russia’s biggest oil refineries in long-range drone attack",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/06/ukraine-war-russia-zelenskyy-oil-refinery.html",
+   "saat": "12:07",
+   "tarih_iso": "2026-08-06T12:07:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zurich-insurance-stock-sliding-today-93CH-4840455",
+   "baslik": "Why is Zurich Insurance stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-zurich-insurance-stock-sliding-today-93CH-4840455",
+   "saat": "12:05",
+   "tarih_iso": "2026-08-06T12:05:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-harbour-energy-stock-surging-today-93CH-4840419",
+   "baslik": "Why is Harbour Energy stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-harbour-energy-stock-surging-today-93CH-4840419",
+   "saat": "12:01",
+   "tarih_iso": "2026-08-06T12:01:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
+   "baslik": "SpaceX insiders get their first chance to cash out — but the stock’s slide will limit their opportunity",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/spacex-insiders-get-their-first-chance-to-cash-out-but-the-stocks-slide-will-limit-their-opportunity-5c94b0f5?mod=mw_rss_topstories",
+   "saat": "12:00",
+   "tarih_iso": "2026-08-06T12:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/bill-cosby-takes-6-million-new-york-city-home-off-the-market-11ba015f?mod=mw_rss_topstories",
+   "baslik": "Bill Cosby takes $6 million New York City home off the market",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/bill-cosby-takes-6-million-new-york-city-home-off-the-market-11ba015f?mod=mw_rss_topstories",
+   "saat": "11:58",
+   "tarih_iso": "2026-08-06T11:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-forfarmers-stock-rallying-today-93CH-4840386",
+   "baslik": "Why is ForFarmers stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-forfarmers-stock-rallying-today-93CH-4840386",
+   "saat": "11:55",
+   "tarih_iso": "2026-08-06T11:55:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-atlassian-stock-sliding-today-93CH-4840378",
    "baslik": "Why is Atlassian stock sliding today?",
@@ -915,5 +1030,5 @@
    "eklenme": "2026-08-06T09:01:07.603100+03:00"
   }
  ],
- "guncelleme": "2026-08-06T12:01:09.227129+03:00"
+ "guncelleme": "2026-08-06T12:31:08.940429+03:00"
 }
