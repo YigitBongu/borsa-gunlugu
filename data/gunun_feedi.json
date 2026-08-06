@@ -2,6 +2,32 @@
  "tarih": "2026-08-06",
  "kap": [
   {
+   "id": "kap-my-PETKM-202608060726",
+   "baslik": "PETKİM PETROKİMYA HOLDİNG A.Ş. — Geleceğe Dönük Değerlendirmeler",
+   "sirket": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+   "kodlar": [
+    "PETKM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "07:26",
+   "tarih_iso": "2026-08-06T07:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-06T09:30:56.482356+03:00"
+  },
+  {
+   "id": "kap-my-PETKM-202608060703",
+   "baslik": "PETKİM PETROKİMYA HOLDİNG A.Ş. — Finansal Rapor",
+   "sirket": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+   "kodlar": [
+    "PETKM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "07:03",
+   "tarih_iso": "2026-08-06T07:03:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-06T09:30:56.482356+03:00"
+  },
+  {
    "id": "kap-my-TTRAK-202608051912",
    "baslik": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş.",
@@ -42,6 +68,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/hradec-kralove-besiktas-maci-ne-zaman-saat-kacta-hangi-kanalda-bjk-maci-sifresiz-mi-haberi-835158",
+   "baslik": "Hradec Kralove - Beşiktaş maçı ne zaman, saat kaçta, hangi kanalda? BJK maçı şifresiz mi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/hradec-kralove-besiktas-maci-ne-zaman-saat-kacta-hangi-kanalda-bjk-maci-sifresiz-mi-haberi-835158",
+   "saat": "09:13",
+   "tarih_iso": "2026-08-06T09:13:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-06T09:30:56.482356+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/koc-holding-den-ilk-yarida-36-4-milyar-dolarlik-gelir-3903624-ekonomi",
    "baslik": "Koç Holding'den 36,4 milyar dolarlık gelir",
@@ -88,6 +126,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1",
+   "baslik": "OpenAI says Apple’s trade secrets lawsuit aims to stop employees leaving",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/d9e9cbbe-8443-4c10-821a-1834e4965236?syn-25a6b1a6=1",
+   "saat": "09:09",
+   "tarih_iso": "2026-08-06T09:09:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T09:30:56.482356+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/06/asia-tech-selloff-wall-street-samsung-sk-hynix.html",
    "baslik": "Asian tech stocks drop with SK Hynix plunging 10% after Wall Street AI names fall",
@@ -441,6 +489,16 @@
    "eklenme": "2026-08-06T09:01:07.603100+03:00"
   },
   {
+   "id": "alt-https://www.haberturk.com/yatirimcilar-dikkat-altin-yedi-haftanin-zirvesinde-gram-6500-tl-sinirini-asti-iste-6-agustos-2026-gucel-gram-altin-ceyrek-altin-cumhuriyet-altin-fiyatlari-3903682-ekonomi",
+   "baslik": "Altın yedi haftanın zirvesinde",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/yatirimcilar-dikkat-altin-yedi-haftanin-zirvesinde-gram-6500-tl-sinirini-asti-iste-6-agustos-2026-gucel-gram-altin-ceyrek-altin-cumhuriyet-altin-fiyatlari-3903682-ekonomi",
+   "saat": "08:59",
+   "tarih_iso": "2026-08-06T08:59:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T09:30:56.482356+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/news/stock-market-news/watch-these-gold-mining-stocks-as-bullion-prices-rebound-93CH-4840012",
    "baslik": "Watch these gold mining stocks as bullion prices rebound",
    "kaynak": "Investing.com",
@@ -501,5 +559,5 @@
    "eklenme": "2026-08-06T09:01:07.603100+03:00"
   }
  ],
- "guncelleme": "2026-08-06T09:01:07.603100+03:00"
+ "guncelleme": "2026-08-06T09:30:56.482356+03:00"
 }
