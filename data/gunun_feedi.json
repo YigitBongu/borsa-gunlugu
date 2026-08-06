@@ -2,6 +2,32 @@
  "tarih": "2026-08-06",
  "kap": [
   {
+   "id": "kap-my-MIATK-202608061359",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Genel Kurul İşlemlerine İlişkin Bildirim",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:59",
+   "tarih_iso": "2026-08-06T13:59:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
+   "id": "kap-my-MIATK-202608061358",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Temettü",
+   "saat": "13:58",
+   "tarih_iso": "2026-08-06T13:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
    "id": "kap-my-PETKM-202608061207",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -206,6 +232,16 @@
    "eklenme": "2026-08-06T14:03:28.421432+03:00"
   },
   {
+   "id": "rss-https://www.bloomberght.com/borsa-istanbulda-gong-quick-sigorta-icin-caldi-3784868",
+   "baslik": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/borsa-istanbulda-gong-quick-sigorta-icin-caldi-3784868",
+   "saat": "12:03",
+   "tarih_iso": "2026-08-06T12:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-quick-sigorta-icin-caldi/4019850",
    "baslik": "Borsa İstanbul'da gong Quick Sigorta için çaldı",
    "kaynak": "AA Ekonomi",
@@ -214,6 +250,26 @@
    "tarih_iso": "2026-08-06T11:44:33+03:00",
    "kodlar": [],
    "eklenme": "2026-08-06T12:01:09.227129+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-6-agustos-2026-doviz-fiyatlari-pkh2-3784852",
+   "baslik": "Dolar ve Euro kuru bugün ne kadar oldu? 6 Ağustos 2026 döviz fiyatları…",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-6-agustos-2026-doviz-fiyatlari-pkh2-3784852",
+   "saat": "09:30",
+   "tarih_iso": "2026-08-06T09:30:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/fed-yetkililerinden-sahin-aciklamalar-3784846",
+   "baslik": "Fed yetkililerinden şahin açıklamalar",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/fed-yetkililerinden-sahin-aciklamalar-3784846",
+   "saat": "08:53",
+   "tarih_iso": "2026-08-06T08:53:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/fedden-eylul-uyarisi-enflasyon-hizlanirsa-sert-adim-gelebilir-haberi-835151",
@@ -247,6 +303,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html",
+   "baslik": "Peloton posts first ever annual net profit, but shares drop as outlook disappoints",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html",
+   "saat": "14:20",
+   "tarih_iso": "2026-08-06T14:20:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/warner-bros-discovery-revenue-disappoints-on-soft-ad-sales-weaker-box-office-performance-4841339",
+   "baslik": "Warner Bros Discovery revenue disappoints on soft ad sales, weaker box office performance",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/warner-bros-discovery-revenue-disappoints-on-soft-ad-sales-weaker-box-office-performance-4841339",
+   "saat": "14:07",
+   "tarih_iso": "2026-08-06T14:07:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/hedge-funds-forced-out-of-tech-stocks-may-leave-the-market-at-the-mercy-of-retail-traders-bfb0a867?mod=mw_rss_topstories",
+   "baslik": "Hedge funds forced out of tech stocks may leave the market at the mercy of retail traders",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/hedge-funds-forced-out-of-tech-stocks-may-leave-the-market-at-the-mercy-of-retail-traders-bfb0a867?mod=mw_rss_topstories",
+   "saat": "14:06",
+   "tarih_iso": "2026-08-06T14:06:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/softbank-earnings-exceed-expectations-even-without-an-openai-boost-this-u-s-chip-company-saved-the-day-2223845e?mod=mw_rss_topstories",
+   "baslik": "SoftBank earnings exceed expectations, even without an OpenAI boost. This U.S. chip company saved the day.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/softbank-earnings-exceed-expectations-even-without-an-openai-boost-this-u-s-chip-company-saved-the-day-2223845e?mod=mw_rss_topstories",
+   "saat": "14:03",
+   "tarih_iso": "2026-08-06T14:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sandisk-western-digital-drag-on-chip-stocks-as-lofty-expectations-eclipse-strong-earnings-4841255",
+   "baslik": "Sandisk, Western Digital drag on chip stocks as lofty expectations eclipse strong earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sandisk-western-digital-drag-on-chip-stocks-as-lofty-expectations-eclipse-strong-earnings-4841255",
+   "saat": "14:00",
+   "tarih_iso": "2026-08-06T14:00:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/debe096f-ec89-424f-a8ca-d3843ef53549?syn-25a6b1a6=1",
+   "baslik": "Kevin Warsh to stick with lean Fed messaging despite market backlash",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/debe096f-ec89-424f-a8ca-d3843ef53549?syn-25a6b1a6=1",
+   "saat": "14:00",
+   "tarih_iso": "2026-08-06T14:00:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-loreal-stock-climbing-today-93CH-4841151",
+   "baslik": "Why is L’Oreal stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-loreal-stock-climbing-today-93CH-4841151",
+   "saat": "13:53",
+   "tarih_iso": "2026-08-06T13:53:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/evercore-raises-2026-home-improvement-growth-view-to-2-93CH-4841128",
+   "baslik": "Evercore raises 2026 home improvement growth view to 2%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/evercore-raises-2026-home-improvement-growth-view-to-2-93CH-4841128",
+   "saat": "13:50",
+   "tarih_iso": "2026-08-06T13:50:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-softbank-stock-sliding-today-93CH-4841090",
    "baslik": "Why is SoftBank stock sliding today?",
@@ -1210,6 +1346,16 @@
    "eklenme": "2026-08-06T10:30:59.746951+03:00"
   },
   {
+   "id": "alt-https://www.bloomberght.com/gram-altinda-son-durum-ne-6-agustos-2026-persembe-altin-fiyatlari-pkh1-3784859",
+   "baslik": "Gram altında son durum ne? 6 Ağustos 2026 Perşembe altın fiyatları…",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/gram-altinda-son-durum-ne-6-agustos-2026-persembe-altin-fiyatlari-pkh1-3784859",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-06T10:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T14:31:02.047346+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-momentum-looks-stretched-before-the-4500-bullish-trigger-200685282",
    "baslik": "Gold Momentum Looks Stretched Before the $4,500 Bullish Trigger",
    "kaynak": "Investing Emtia",
@@ -1320,5 +1466,5 @@
    "eklenme": "2026-08-06T09:01:07.603100+03:00"
   }
  ],
- "guncelleme": "2026-08-06T14:03:28.421432+03:00"
+ "guncelleme": "2026-08-06T14:31:02.047346+03:00"
 }
