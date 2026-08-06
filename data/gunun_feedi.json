@@ -69,6 +69,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/turk-telekom-dan-142-2-milyar-tl-gelir-3903722-teknoloji",
+   "baslik": "Türk Telekom'dan 142,2 milyar TL gelir",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/turk-telekom-dan-142-2-milyar-tl-gelir-3903722-teknoloji",
+   "saat": "10:47",
+   "tarih_iso": "2026-08-06T10:47:45+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekomdan-414-milyar-liralik-dev-yatirim-gelir-ve-karini-cift-haneli-buyuttu-haberi-835178",
+   "baslik": "Türk Telekom'dan 41,4 milyar liralık dev yatırım! Gelir ve kârını çift haneli büyüttü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekomdan-414-milyar-liralik-dev-yatirim-gelir-ve-karini-cift-haneli-buyuttu-haberi-835178",
+   "saat": "10:35",
+   "tarih_iso": "2026-08-06T10:35:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/sturm-graz-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sampiyonlar-ligi-maci-hangi-tarihte-haberi-835165",
    "baslik": "Sturm Graz - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda? FB Şampiyonlar Ligi maçı hangi tarihte?",
    "kaynak": "Dünya",
@@ -138,6 +162,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/06/nintendo-first-quarter-earnings-switch2.html",
+   "baslik": "Nintendo's fiscal first-quarter profit and revenue beat estimates, despite Switch 2 sales slump",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/06/nintendo-first-quarter-earnings-switch2.html",
+   "saat": "10:43",
+   "tarih_iso": "2026-08-06T10:43:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-scale-record-peak-on-earnings-usiran-optimism-4840191",
+   "baslik": "European shares scale record peak on earnings, US-Iran optimism",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-scale-record-peak-on-earnings-usiran-optimism-4840191",
+   "saat": "10:43",
+   "tarih_iso": "2026-08-06T10:43:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-adecco-stock-sliding-today-93CH-4840188",
+   "baslik": "Why is Adecco stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-adecco-stock-sliding-today-93CH-4840188",
+   "saat": "10:42",
+   "tarih_iso": "2026-08-06T10:42:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-deutsche-telekom-stock-surging-today-93CH-4840185",
+   "baslik": "Why is Deutsche Telekom stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-deutsche-telekom-stock-surging-today-93CH-4840185",
+   "saat": "10:40",
+   "tarih_iso": "2026-08-06T10:40:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sbm-offshore-stock-rallying-today-93CH-4840183",
+   "baslik": "Why is SBM Offshore stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sbm-offshore-stock-rallying-today-93CH-4840183",
+   "saat": "10:37",
+   "tarih_iso": "2026-08-06T10:37:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-glanbia-stock-surging-today-93CH-4840182",
+   "baslik": "Why is Glanbia stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-glanbia-stock-surging-today-93CH-4840182",
+   "saat": "10:34",
+   "tarih_iso": "2026-08-06T10:34:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-siemens-energy-stock-slipping-today-93CH-4840179",
+   "baslik": "Why is Siemens Energy stock slipping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-siemens-energy-stock-slipping-today-93CH-4840179",
+   "saat": "10:33",
+   "tarih_iso": "2026-08-06T10:33:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-2-eu-utility-stocks-for-2026-according-to-bofa-93CH-4840175",
+   "baslik": "Top 2 EU Utility Stocks for 2026, According to BofA",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-2-eu-utility-stocks-for-2026-according-to-bofa-93CH-4840175",
+   "saat": "10:30",
+   "tarih_iso": "2026-08-06T10:30:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-hold-near-record-highs-as-tech-pressure-offsets-earnings-support-4840058",
    "baslik": "European stocks hold near record highs as tech pressure offsets earnings support",
@@ -297,6 +401,16 @@
    "tarih_iso": "2026-08-06T07:24:28+03:00",
    "kodlar": [],
    "eklenme": "2026-08-06T09:01:07.603100+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/76646dc7-c24b-45fb-8667-9617714a122b?syn-25a6b1a6=1",
+   "baslik": "Ares scales back €1bn private credit fund after investors balk at loan valuations",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/76646dc7-c24b-45fb-8667-9617714a122b?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-08-06T07:00:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/08/06/jpmorgan-jamie-dimon-leverage-market-disruption.html",
@@ -541,6 +655,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-rebounds-as-easing-oil-fears-weigh-on-us-dollar-200685309",
+   "baslik": "Gold Rebounds as Easing Oil Fears Weigh on US Dollar",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-rebounds-as-easing-oil-fears-weigh-on-us-dollar-200685309",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-surges-nearly-7-in-3-sessions-is-profit-booking-the-next-move-before-nfp-200685300",
+   "baslik": "Gold Surges Nearly 7% in 3 Sessions: Is Profit Booking the Next Move Before NFP?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-surges-nearly-7-in-3-sessions-is-profit-booking-the-next-move-before-nfp-200685300",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-breaks-above-vc-pmi-mean-as-4381-and-4458-targets-come-into-focus-200685293",
    "baslik": "Gold Breaks Above VC PMI Mean as $4,381 and $4,458 Targets Come Into Focus",
    "kaynak": "Investing Emtia",
@@ -549,6 +683,16 @@
    "tarih_iso": "",
    "kodlar": [],
    "eklenme": "2026-08-06T10:30:59.746951+03:00"
+  },
+  {
+   "id": "alt-https://www.haberturk.com/trumpin-altin-filosu-daha-denize-inmeden-butceyi-batirdi-15-geminin-faturasi-275-milyar-dolar-3903710-ekonomi",
+   "baslik": "Trump’ın “Altın Filosu” daha denize inmeden bütçeyi batırdı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/trumpin-altin-filosu-daha-denize-inmeden-butceyi-batirdi-15-geminin-faturasi-275-milyar-dolar-3903710-ekonomi",
+   "saat": "10:26",
+   "tarih_iso": "2026-08-06T10:26:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T11:01:05.318617+03:00"
   },
   {
    "id": "alt-https://www.haberturk.com/yapay-zeka-endiseleri-piyasalari-karistirdi-3903708-ekonomi",
@@ -671,5 +815,5 @@
    "eklenme": "2026-08-06T09:01:07.603100+03:00"
   }
  ],
- "guncelleme": "2026-08-06T10:30:59.746951+03:00"
+ "guncelleme": "2026-08-06T11:01:05.318617+03:00"
 }
