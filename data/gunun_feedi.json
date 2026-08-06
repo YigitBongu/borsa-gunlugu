@@ -108,6 +108,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/aktuel/bu-otelde-para-gecmiyor-konaklamak-icin-tek-bir-sart-var-galeri-835223",
+   "baslik": "Bu otelde para geçmiyor, konaklamak için tek bir şart var",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/aktuel/bu-otelde-para-gecmiyor-konaklamak-icin-tek-bir-sart-var-galeri-835223",
+   "saat": "14:49",
+   "tarih_iso": "2026-08-06T14:49:00+03:00",
+   "kodlar": [
+    "KONYA"
+   ],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/turk-telekomdan-17-2-milyar-lira-karla-yilin-ilk-yarisinda-guclu-performans/4019855",
    "baslik": "Türk Telekomdan 17,2 milyar lira karla yılın ilk yarısında güçlü performans",
    "kaynak": "AA Ekonomi",
@@ -182,6 +194,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/son-dakika-merkez-bankasi-rezervleri-aciklandi-1-haftada-1-8-milyar-dolar-artti-3451109",
+   "baslik": "SON DAKİKA | Merkez Bankası rezervleri açıklandı! 1 haftada 1,8 milyar dolar arttı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/son-dakika-merkez-bankasi-rezervleri-aciklandi-1-haftada-1-8-milyar-dolar-artti-3451109",
+   "saat": "17:37",
+   "tarih_iso": "2026-08-06T17:37:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/turkiye-6-ayda-gunes-gozlugune-162-milyon-dolar-odedi-zirvede-italya-var-3451032",
    "baslik": "Türkiye 6 ayda güneş gözlüğüne 162 milyon dolar ödedi! Zirvede İtalya var",
    "kaynak": "CNN Türk Ekonomi",
@@ -200,6 +222,26 @@
    "tarih_iso": "2026-08-06T15:05:44+03:00",
    "kodlar": [],
    "eklenme": "2026-08-06T12:31:08.940429+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-rezervlerinde-artis-haberi-835224",
+   "baslik": "TCMB rezervlerinde artış",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-rezervlerinde-artis-haberi-835224",
+   "saat": "14:51",
+   "tarih_iso": "2026-08-06T14:51:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/dolartl-icin-yeni-tahminler-aciklandi-kur-yil-sonunda-ne-olacak-galeri-835222",
+   "baslik": "Dolar/TL için yeni tahminler açıklandı: Kur yıl sonunda ne olacak?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/dolartl-icin-yeni-tahminler-aciklandi-kur-yil-sonunda-ne-olacak-galeri-835222",
+   "saat": "14:17",
+   "tarih_iso": "2026-08-06T14:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkiye-findik-ihracatindan-11-ayda-2-4-milyar-dolar-gelir-sagladi/4020077",
@@ -303,6 +345,126 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/06/warner-bros-discovery-streaming-revenue-paramount-combination.html",
+   "baslik": "Warner Bros. Discovery reports 10% jump in streaming revenue ahead of proposed Paramount combination",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/06/warner-bros-discovery-streaming-revenue-paramount-combination.html",
+   "saat": "14:51",
+   "tarih_iso": "2026-08-06T14:51:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-geo-stock-climbing-today-93CH-4841665",
+   "baslik": "Why is Geo stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-geo-stock-climbing-today-93CH-4841665",
+   "saat": "14:47",
+   "tarih_iso": "2026-08-06T14:47:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-arhaus-stock-surging-today-93CH-4841664",
+   "baslik": "Why is Arhaus stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-arhaus-stock-surging-today-93CH-4841664",
+   "saat": "14:47",
+   "tarih_iso": "2026-08-06T14:47:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/celestica-stock-tumbles-15-on-3-billion-equity-offering-93CH-4841663",
+   "baslik": "Celestica stock tumbles 15% on $3 billion equity offering",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/celestica-stock-tumbles-15-on-3-billion-equity-offering-93CH-4841663",
+   "saat": "14:47",
+   "tarih_iso": "2026-08-06T14:47:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-six-flags-entertainment-stock-sliding-today-93CH-4841650",
+   "baslik": "Why is Six Flags Entertainment stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-six-flags-entertainment-stock-sliding-today-93CH-4841650",
+   "saat": "14:46",
+   "tarih_iso": "2026-08-06T14:46:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kenvue-stock-sliding-today-93CH-4841649",
+   "baslik": "Why is Kenvue stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kenvue-stock-sliding-today-93CH-4841649",
+   "saat": "14:46",
+   "tarih_iso": "2026-08-06T14:46:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dwave-quantum-stock-sliding-today-93CH-4841634",
+   "baslik": "Why is D-Wave Quantum stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-dwave-quantum-stock-sliding-today-93CH-4841634",
+   "saat": "14:44",
+   "tarih_iso": "2026-08-06T14:44:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-unity-software-stock-surging-today-93CH-4841633",
+   "baslik": "Why is Unity Software stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-unity-software-stock-surging-today-93CH-4841633",
+   "saat": "14:44",
+   "tarih_iso": "2026-08-06T14:44:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-molson-coors-brewing-stock-climbing-today-93CH-4841631",
+   "baslik": "Why is Molson Coors Brewing stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-molson-coors-brewing-stock-climbing-today-93CH-4841631",
+   "saat": "14:44",
+   "tarih_iso": "2026-08-06T14:44:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-becton-dickinson-stock-climbing-today-93CH-4841630",
+   "baslik": "Why is Becton Dickinson stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-becton-dickinson-stock-climbing-today-93CH-4841630",
+   "saat": "14:43",
+   "tarih_iso": "2026-08-06T14:43:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-krispy-kreme-stock-rising-today-93CH-4841629",
+   "baslik": "Why is Krispy Kreme stock rising today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-krispy-kreme-stock-rising-today-93CH-4841629",
+   "saat": "14:43",
+   "tarih_iso": "2026-08-06T14:43:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/33-stocks-to-bet-on-foreign-markets-continuing-to-beat-the-s-p-500-7d63dabc?mod=mw_rss_topstories",
+   "baslik": "33 stocks to bet on foreign markets continuing to beat the S&P 500",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/33-stocks-to-bet-on-foreign-markets-continuing-to-beat-the-s-p-500-7d63dabc?mod=mw_rss_topstories",
+   "saat": "14:30",
+   "tarih_iso": "2026-08-06T14:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-06T15:01:08.514034+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html",
    "baslik": "Peloton posts first ever annual net profit, but shares drop as outlook disappoints",
@@ -1466,5 +1628,5 @@
    "eklenme": "2026-08-06T09:01:07.603100+03:00"
   }
  ],
- "guncelleme": "2026-08-06T14:31:02.047346+03:00"
+ "guncelleme": "2026-08-06T15:01:08.514034+03:00"
 }
