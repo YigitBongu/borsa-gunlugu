@@ -186,6 +186,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/thy-temmuzda-95-milyon-yolcu-tasiyarak-rekor-kirdi-haberi-835364",
+   "baslik": "THY temmuzda 9,5 milyon yolcu taşıyarak rekor kırdı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/thy-temmuzda-95-milyon-yolcu-tasiyarak-rekor-kirdi-haberi-835364",
+   "saat": "16:07",
+   "tarih_iso": "2026-08-07T16:07:00+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-08-07T16:31:05.011595+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-temmuzda-9-5-milyon-yolcu-tasidi/4021159",
    "baslik": "THY temmuzda 9,5 milyon yolcu taşıdı",
    "kaynak": "AA Ekonomi",
@@ -259,6 +271,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-toplantisi-ne-zaman-fed-faiz-karari-hangi-gun-aciklanacak-haberi-835365",
+   "baslik": "Fed toplantısı ne zaman? Fed faiz kararı hangi gün açıklanacak?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-toplantisi-ne-zaman-fed-faiz-karari-hangi-gun-aciklanacak-haberi-835365",
+   "saat": "16:12",
+   "tarih_iso": "2026-08-07T16:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T16:31:05.011595+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-aciklanacak-abd-tufe-oranlari-hangi-gun-ilan-edilecek-haberi-835362",
+   "baslik": "ABD enflasyon rakamları ne zaman açıklanacak? ABD TÜFE oranları hangi gün ilan edilecek?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-aciklanacak-abd-tufe-oranlari-hangi-gun-ilan-edilecek-haberi-835362",
+   "saat": "15:56",
+   "tarih_iso": "2026-08-07T15:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T16:31:05.011595+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/fed-ve-yen-riskleri-artarken-amerikay-sat-taktigi-geri-dondu-4020240",
    "baslik": "Fed ve yen riskleri artarken ’Amerika’yı sat’ taktiği geri döndü",
@@ -351,6 +383,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/five-earnings-winners-lead-fridays-premarket-surge-93CH-4846652",
+   "baslik": "Five earnings winners lead Friday’s premarket surge",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/five-earnings-winners-lead-fridays-premarket-surge-93CH-4846652",
+   "saat": "16:22",
+   "tarih_iso": "2026-08-07T16:22:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T16:31:05.011595+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/fed-rate-strategy-and-the-jpy-carry-trade-the-case-for-cuts-93CH-4846594",
+   "baslik": "Fed rate strategy and the JPY carry trade: the case for cuts",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/fed-rate-strategy-and-the-jpy-carry-trade-the-case-for-cuts-93CH-4846594",
+   "saat": "16:12",
+   "tarih_iso": "2026-08-07T16:12:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T16:31:05.011595+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/07/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday-.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Friday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/07/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday-.html",
+   "saat": "16:09",
+   "tarih_iso": "2026-08-07T16:09:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T16:31:05.011595+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-lloyds-flags-mortgage-pain-as-oil-bites-4845231",
+   "baslik": "FTSE 100 today: Stocks up as Saudi pact signed, Lloyds warns on mortgages",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-lloyds-flags-mortgage-pain-as-oil-bites-4845231",
+   "saat": "16:00",
+   "tarih_iso": "2026-08-07T16:00:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T16:31:05.011595+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html",
    "baslik": "U.S. economy unexpectedly lost 23,000 jobs in July",
@@ -1504,6 +1576,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.haberturk.com/altinda-hizli-yukselis-3904071-ekonomi",
+   "baslik": "Altında hızlı yükseliş",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/altinda-hizli-yukselis-3904071-ekonomi",
+   "saat": "16:01",
+   "tarih_iso": "2026-08-07T16:01:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T16:31:05.011595+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/abdden-gelen-veri-altini-atesledi-fiyatlar-bir-anda-sicradi-galeri-835366",
+   "baslik": "ABD'den gelen veri altını ateşledi! Fiyatlar bir anda sıçradı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/abdden-gelen-veri-altini-atesledi-fiyatlar-bir-anda-sicradi-galeri-835366",
+   "saat": "15:59",
+   "tarih_iso": "2026-08-07T15:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T16:31:05.011595+03:00"
+  },
+  {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-7-2026-gold-prices-continue-to-rise-ahead-of-july-jobs-report-122102132.html",
    "baslik": "Gold prices today, Friday, August 7, 2026: Gold prices continue to rise ahead of July jobs report",
    "kaynak": "Yahoo Finance",
@@ -1744,5 +1836,5 @@
    "eklenme": "2026-08-07T09:01:07.179527+03:00"
   }
  ],
- "guncelleme": "2026-08-07T16:01:13.454848+03:00"
+ "guncelleme": "2026-08-07T16:31:05.011595+03:00"
 }
