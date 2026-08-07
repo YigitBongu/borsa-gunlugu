@@ -414,6 +414,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/blossomhill-therapeutics-halka-arz-150-milyon-dolar-toplad-432SI-4019071",
+   "baslik": "BlossomHill Therapeutics halka arzı 150 milyon dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/blossomhill-therapeutics-halka-arz-150-milyon-dolar-toplad-432SI-4019071",
+   "saat": "03:19",
+   "tarih_iso": "2026-08-07T03:19:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T04:01:05.482139+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/borsa-istanbulda-gong-quick-sigorta-icin-caldi-haberi-835266",
    "baslik": "Borsa İstanbul’da gong Quick Sigorta için çaldı",
    "kaynak": "Dünya",
@@ -625,6 +635,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-upbeat-earnings-payrolls-in-focus-4844987",
+   "baslik": "US stock futures rise on upbeat earnings; payrolls in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-on-upbeat-earnings-payrolls-in-focus-4844987",
+   "saat": "03:44",
+   "tarih_iso": "2026-08-07T03:44:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T04:01:05.482139+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Trump imposes 15% tariff on key chip material to counter China",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
+   "saat": "03:44",
+   "tarih_iso": "2026-08-07T03:44:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T04:01:05.482139+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1",
+   "baslik": "US euro sale to prop up yen blindsided European Central Bank",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1",
+   "saat": "03:36",
+   "tarih_iso": "2026-08-07T03:36:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T04:01:05.482139+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/07/japan-us-yen-intervention-global-currency-markets.html",
    "baslik": "A 'weaponized' yen: How the U.S.-Japan intervention may reshape global currency markets",
@@ -1794,36 +1834,6 @@
    "tarih_iso": "2026-08-06T17:00:37+03:00",
    "kodlar": [],
    "eklenme": "2026-08-06T18:40:45.558027+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/investors-confidence-bio-techne-corp-135731395.html",
-   "baslik": "Investors’ Confidence in Bio-Techne Corp. (TECH) Strengthens as Headwind Eases",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-confidence-bio-techne-corp-135731395.html",
-   "saat": "16:57",
-   "tarih_iso": "2026-08-06T16:57:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-06T17:31:02.745216+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/how-to-earn-a-9-dividend-yield-while-cutting-your-risk-in-the-stock-market-348de255?mod=mw_rss_topstories",
-   "baslik": "How to earn a 9% dividend yield while cutting your risk in the stock market",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/how-to-earn-a-9-dividend-yield-while-cutting-your-risk-in-the-stock-market-348de255?mod=mw_rss_topstories",
-   "saat": "16:56",
-   "tarih_iso": "2026-08-06T16:56:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-06T17:01:14.597037+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/broad-based-growth-lifted-west-135529849.html",
-   "baslik": "Broad-Based Growth Lifted West Pharmaceuticals (WST) in Q2",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/broad-based-growth-lifted-west-135529849.html",
-   "saat": "16:55",
-   "tarih_iso": "2026-08-06T16:55:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-06T17:31:02.745216+03:00"
   }
  ],
  "altin_haber": [
@@ -2148,5 +2158,5 @@
    "eklenme": "2026-08-06T09:01:07.603100+03:00"
   }
  ],
- "guncelleme": "2026-08-07T03:30:56.666541+03:00"
+ "guncelleme": "2026-08-07T04:01:05.482139+03:00"
 }
