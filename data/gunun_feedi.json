@@ -2,6 +2,19 @@
  "tarih": "2026-08-07",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202608071352",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Toptan Alış Satış İşlemi Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:52",
+   "tarih_iso": "2026-08-07T13:52:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-07T14:31:02.574969+03:00"
+  },
+  {
    "id": "kap-my-EGEEN-202608071249",
    "baslik": "EGE ENDÜSTRİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
@@ -160,6 +173,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/turkcelle-rekor-ilgi-58-bin-basvuru-arasindan-secilen-252-genc-ise-basladi-haberi-835348",
+   "baslik": "Turkcell'e rekor ilgi! 58 bin başvuru arasından seçilen 252 genç işe başladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turkcelle-rekor-ilgi-58-bin-basvuru-arasindan-secilen-252-genc-ise-basladi-haberi-835348",
+   "saat": "14:15",
+   "tarih_iso": "2026-08-07T14:15:00+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-08-07T14:31:02.574969+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/murat-sela-kentsel-donusum-ve-afet-bolgesindeki-cimento-ihtiyacini-karsiladik-3904014-ekonomi",
    "baslik": "\"Kentsel dönüşüm ve afet bölgesindeki çimento ihtiyacını karşıladık\"",
    "kaynak": "Habertürk Ekonomi",
@@ -291,6 +316,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gravity-co-stock-surging-today-93CH-4845910",
+   "baslik": "Why is Gravity Co stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-gravity-co-stock-surging-today-93CH-4845910",
+   "saat": "14:11",
+   "tarih_iso": "2026-08-07T14:11:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T14:31:02.574969+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-guardian-pharmacy-services-stock-rallying-today-93CH-4845882",
+   "baslik": "Why is Guardian Pharmacy Services stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-guardian-pharmacy-services-stock-rallying-today-93CH-4845882",
+   "saat": "14:05",
+   "tarih_iso": "2026-08-07T14:05:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T14:31:02.574969+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-halozyme-therapeutics-stock-surging-today-93CH-4845881",
+   "baslik": "Why is Halozyme Therapeutics stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-halozyme-therapeutics-stock-surging-today-93CH-4845881",
+   "saat": "14:05",
+   "tarih_iso": "2026-08-07T14:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T14:31:02.574969+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/optical-stocks-have-a-china-problem-that-most-investors-are-missing-45523981?mod=mw_rss_topstories",
+   "baslik": "Optical stocks have a China problem that most investors are missing",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/optical-stocks-have-a-china-problem-that-most-investors-are-missing-45523981?mod=mw_rss_topstories",
+   "saat": "14:00",
+   "tarih_iso": "2026-08-07T14:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T14:31:02.574969+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-usa-rare-earth-stock-rallying-today-93CH-4845842",
+   "baslik": "Why is USA Rare Earth stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-usa-rare-earth-stock-rallying-today-93CH-4845842",
+   "saat": "13:57",
+   "tarih_iso": "2026-08-07T13:57:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T14:31:02.574969+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
    "baslik": "How S&P 500 options action may help explain volatility in memory stocks",
@@ -1134,6 +1209,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/ekonomi/cinden-altin-hamlesi-rezervlere-yaklasik-20-ton-daha-eklendi-haberi-835350",
+   "baslik": "Çin'den altın hamlesi: Rezervlere yaklaşık 20 ton daha eklendi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/cinden-altin-hamlesi-rezervlere-yaklasik-20-ton-daha-eklendi-haberi-835350",
+   "saat": "14:18",
+   "tarih_iso": "2026-08-07T14:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T14:31:02.574969+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/bonds-just-gave-gold-and-silver-a-second-wind-200685411",
    "baslik": "Bonds Just Gave Gold and Silver a Second Wind",
    "kaynak": "Investing Emtia",
@@ -1344,5 +1429,5 @@
    "eklenme": "2026-08-07T09:01:07.179527+03:00"
   }
  ],
- "guncelleme": "2026-08-07T14:01:11.484060+03:00"
+ "guncelleme": "2026-08-07T14:31:02.574969+03:00"
 }
