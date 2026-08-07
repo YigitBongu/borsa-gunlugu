@@ -2,6 +2,19 @@
  "tarih": "2026-08-07",
  "kap": [
   {
+   "id": "kap-my-KRDMD-202608071632",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:32",
+   "tarih_iso": "2026-08-07T16:32:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-07T17:01:11.181606+03:00"
+  },
+  {
    "id": "kap-my-TAVHL-202608071500",
    "baslik": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
    "sirket": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş.",
@@ -185,6 +198,30 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/aziz-yildirimin-kizinin-fotografini-paylasan-suphelinin-cezasi-belli-oldu-haberi-835368",
+   "baslik": "Aziz Yıldırım'ın kızının fotoğrafını paylaşan şüphelinin cezası belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/aziz-yildirimin-kizinin-fotografini-paylasan-suphelinin-cezasi-belli-oldu-haberi-835368",
+   "saat": "16:41",
+   "tarih_iso": "2026-08-07T16:41:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-07T17:01:11.181606+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-07-agustos-2026/4021218",
+   "baslik": "60 saniyede ekonomide bugün (07 Ağustos 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-07-agustos-2026/4021218",
+   "saat": "16:08",
+   "tarih_iso": "2026-08-07T16:08:44+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-07T17:01:11.181606+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/thy-temmuzda-95-milyon-yolcu-tasiyarak-rekor-kirdi-haberi-835364",
    "baslik": "THY temmuzda 9,5 milyon yolcu taşıyarak rekor kırdı",
@@ -383,6 +420,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pfe-builds-bull-case-at-26-after-earnings-beat-and-insider-buys-93CH-4846732",
+   "baslik": "PFE builds bull case at $26 after earnings beat and insider buys",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pfe-builds-bull-case-at-26-after-earnings-beat-and-insider-buys-93CH-4846732",
+   "saat": "16:42",
+   "tarih_iso": "2026-08-07T16:42:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T17:01:11.181606+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-nasdaq-open-higher-as-surprise-payrolls-fall-quells-ratehike-fears-4846709",
+   "baslik": "S&P, Nasdaq open higher as surprise payrolls fall quells rate-hike fears",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-nasdaq-open-higher-as-surprise-payrolls-fall-quells-ratehike-fears-4846709",
+   "saat": "16:36",
+   "tarih_iso": "2026-08-07T16:36:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T17:01:11.181606+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
+   "baslik": "Odds the Fed will hike in September tumble following big July jobs miss",
+   "kaynak": "CNBC Finans",
+   "link": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html",
+   "saat": "16:34",
+   "tarih_iso": "2026-08-07T16:34:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T17:01:11.181606+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/five-earnings-winners-lead-fridays-premarket-surge-93CH-4846652",
    "baslik": "Five earnings winners lead Friday’s premarket surge",
@@ -1552,29 +1619,19 @@
    "tarih_iso": "2026-08-06T22:38:44+03:00",
    "kodlar": [],
    "eklenme": "2026-08-07T09:01:07.179527+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
-   "baslik": "SpaceX stock could face further pressure as first batch of shares unlock since IPO",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html",
-   "saat": "18:19",
-   "tarih_iso": "2026-08-06T18:19:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-07T09:01:07.179527+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html",
-   "baslik": "Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026",
-   "kaynak": "CNBC Finans",
-   "link": "https://www.cnbc.com/2026/08/06/traders-on-kalshi-say-its-likely-sp-500-will-hit-8000-in-2026.html",
-   "saat": "17:48",
-   "tarih_iso": "2026-08-06T17:48:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-07T09:01:07.179527+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-gains-as-dovish-fed-expectations-pressure-dxy-and-treasury-yields-200685419",
+   "baslik": "Gold Gains as Dovish Fed Expectations Pressure DXY and Treasury Yields",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-gains-as-dovish-fed-expectations-pressure-dxy-and-treasury-yields-200685419",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-07T17:01:11.181606+03:00"
+  },
   {
    "id": "alt-https://www.haberturk.com/altinda-hizli-yukselis-3904071-ekonomi",
    "baslik": "Altında hızlı yükseliş",
@@ -1836,5 +1893,5 @@
    "eklenme": "2026-08-07T09:01:07.179527+03:00"
   }
  ],
- "guncelleme": "2026-08-07T16:31:05.011595+03:00"
+ "guncelleme": "2026-08-07T17:01:11.181606+03:00"
 }
