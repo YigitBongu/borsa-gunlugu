@@ -414,6 +414,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/meta-cocuk-guvenligi-davasnda-567-milyon-dolar-odemeye-mahkum-4019213",
+   "baslik": "Meta çocuk güvenliği davasında 567 milyon dolar ödemeye mahkum",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/meta-cocuk-guvenligi-davasnda-567-milyon-dolar-odemeye-mahkum-4019213",
+   "saat": "07:30",
+   "tarih_iso": "2026-08-07T07:30:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T08:01:17.500571+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-7-agustos-cuma-doviz-kurlari-haberi-835294",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (7 Ağustos Cuma Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-7-agustos-cuma-doviz-kurlari-haberi-835294",
+   "saat": "07:23",
+   "tarih_iso": "2026-08-07T07:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T08:01:17.500571+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/blossomhill-therapeutics-halka-arz-150-milyon-dolar-toplad-432SI-4019071",
    "baslik": "BlossomHill Therapeutics halka arzı 150 milyon dolar topladı",
    "kaynak": "Investing TR",
@@ -635,6 +655,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
+   "baslik": "China's exports growth beats estimates in July, as AI-driven shipments surge",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/07/china-july-trade-exports-imports-surplus-imbalance-tariffs-.html",
+   "saat": "07:44",
+   "tarih_iso": "2026-08-07T07:44:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T08:01:17.500571+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-draftkings-stock-falling-in-aftermarket-trade-93CH-4845074",
+   "baslik": "Why is DraftKings stock falling in aftermarket trade?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-draftkings-stock-falling-in-aftermarket-trade-93CH-4845074",
+   "saat": "07:41",
+   "tarih_iso": "2026-08-07T07:41:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T08:01:17.500571+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/europes-getting-hotter-markets-are-taking-note-4845070",
    "baslik": "Europe’s getting hotter, markets are taking note",
@@ -1814,26 +1854,6 @@
    "tarih_iso": "2026-08-06T17:39:06+03:00",
    "kodlar": [],
    "eklenme": "2026-08-06T18:01:16.384348+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/jdcom-stock-may-move-51-on-earnings-release-next-week-93CH-4842965",
-   "baslik": "JD.com stock may move 5.1% on earnings release next week",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/jdcom-stock-may-move-51-on-earnings-release-next-week-93CH-4842965",
-   "saat": "17:37",
-   "tarih_iso": "2026-08-06T17:37:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-06T18:01:16.384348+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/commodities/articles/bnp-paribas-sees-gold-hitting-143605898.html",
-   "baslik": "BNP Paribas Sees Gold Hitting $5,000 as Trump’s Pressure on the Fed Weakens the Dollar",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/commodities/articles/bnp-paribas-sees-gold-hitting-143605898.html",
-   "saat": "17:36",
-   "tarih_iso": "2026-08-06T17:36:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-06T18:01:16.384348+03:00"
   }
  ],
  "altin_haber": [
@@ -2168,5 +2188,5 @@
    "eklenme": "2026-08-06T09:01:07.603100+03:00"
   }
  ],
- "guncelleme": "2026-08-07T07:30:59.041428+03:00"
+ "guncelleme": "2026-08-07T08:01:17.500571+03:00"
 }
