@@ -2,6 +2,45 @@
  "tarih": "2026-08-07",
  "kap": [
   {
+   "id": "kap-my-TAVHL-202608070912",
+   "baslik": "TAV HAVALİMANLARI HOLDİNG A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:12",
+   "tarih_iso": "2026-08-07T09:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-07T09:30:58.565008+03:00"
+  },
+  {
+   "id": "kap-my-PGSUS-202608070814",
+   "baslik": "PEGASUS HAVA TAŞIMACILIĞI A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+   "kodlar": [
+    "PGSUS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:14",
+   "tarih_iso": "2026-08-07T08:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-07T09:30:58.565008+03:00"
+  },
+  {
+   "id": "kap-my-TKFEN-202608070751",
+   "baslik": "TEKFEN HOLDİNG A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TEKFEN HOLDİNG A.Ş.",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "07:51",
+   "tarih_iso": "2026-08-07T07:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-07T09:30:58.565008+03:00"
+  },
+  {
    "id": "kap-my-VESBE-202608061932",
    "baslik": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş. — İhraç Tavanına İlişkin Bildirim",
    "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
@@ -96,6 +135,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/kripto-para/en-guvenli-bitcoin-yontemi-de-kirildi-milyonlarca-dolar-buhar-oldu-haberi-835307",
+   "baslik": "En güvenli Bitcoin yöntemi de kırıldı: Milyonlarca dolar buhar oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/kripto-para/en-guvenli-bitcoin-yontemi-de-kirildi-milyonlarca-dolar-buhar-oldu-haberi-835307",
+   "saat": "08:50",
+   "tarih_iso": "2026-08-07T08:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T09:30:58.565008+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-7-agustos-cuma-doviz-kurlari-haberi-835294",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (7 Ağustos Cuma Döviz Kurları)",
    "kaynak": "Dünya",
@@ -108,6 +157,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/finnair-reports-passenger-growth-in-july-despite-regional-challenges-93CH-4845127",
+   "baslik": "Finnair reports passenger growth in July despite regional challenges",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/finnair-reports-passenger-growth-in-july-despite-regional-challenges-93CH-4845127",
+   "saat": "09:17",
+   "tarih_iso": "2026-08-07T09:17:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T09:30:58.565008+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/analysiskorean-ants-swarm-back-to-wall-street-as-kospi-rout-dents-homecoming-drive-4845111",
+   "baslik": "Analysis-Korean ’ants’ swarm back to Wall Street as KOSPI rout dents homecoming drive",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/analysiskorean-ants-swarm-back-to-wall-street-as-kospi-rout-dents-homecoming-drive-4845111",
+   "saat": "09:06",
+   "tarih_iso": "2026-08-07T09:06:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T09:30:58.565008+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4845109",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted unchanged",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4845109",
+   "saat": "09:05",
+   "tarih_iso": "2026-08-07T09:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T09:30:58.565008+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-kospi-heads-for-worst-weekly-loss-in-over-a-month-4845056",
+   "baslik": "Asian stocks mixed as China leads gains; KOSPI, Nikkei lag on chip weakness",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-kospi-heads-for-worst-weekly-loss-in-over-a-month-4845056",
+   "saat": "09:02",
+   "tarih_iso": "2026-08-07T09:02:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T09:30:58.565008+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
    "baslik": "Oil rises as Iran's draft plan sees U.S. and Israel banned from Strait of Hormuz",
    "kaynak": "CNBC",
@@ -116,6 +205,16 @@
    "tarih_iso": "2026-08-07T08:27:03+03:00",
    "kodlar": [],
    "eklenme": "2026-08-07T09:01:07.179527+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/india-2wheeler-sales-surge-28-in-july-these-stocks-are-the-biggest-winners-93CH-4845095",
+   "baslik": "India 2-wheeler sales surge 28% in July: These stocks are the biggest winners",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/india-2wheeler-sales-surge-28-in-july-these-stocks-are-the-biggest-winners-93CH-4845095",
+   "saat": "08:24",
+   "tarih_iso": "2026-08-07T08:24:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T09:30:58.565008+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australias-amp-head-for-best-week-in-nearly-4-months-after-bumper-earnings-93CH-4845093",
@@ -420,5 +519,5 @@
    "eklenme": "2026-08-07T09:01:07.179527+03:00"
   }
  ],
- "guncelleme": "2026-08-07T09:01:07.179527+03:00"
+ "guncelleme": "2026-08-07T09:30:58.565008+03:00"
 }
