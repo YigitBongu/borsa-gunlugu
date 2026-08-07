@@ -2,6 +2,71 @@
  "tarih": "2026-08-07",
  "kap": [
   {
+   "id": "kap-my-YEOTK-202608071939",
+   "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Esas Sözleşme",
+   "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Yeni İş / Sözleşme",
+   "saat": "19:39",
+   "tarih_iso": "2026-08-07T19:39:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
+   "id": "kap-my-VESBE-202608071938",
+   "baslik": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş. — TSRS Uyumlu Sürdürülebilirlik Raporu",
+   "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "VESBE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:38",
+   "tarih_iso": "2026-08-07T19:38:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
+   "id": "kap-my-TTKOM-202608071927",
+   "baslik": "TÜRK TELEKOMÜNİKASYON A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:27",
+   "tarih_iso": "2026-08-07T19:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
+   "id": "kap-my-VAKBN-202608071921",
+   "baslik": "TÜRKİYE VAKIFLAR BANKASI T.A.O. — Banka Finansal Rapor",
+   "sirket": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:21",
+   "tarih_iso": "2026-08-07T19:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
+   "id": "kap-my-REEDR-202608071917",
+   "baslik": "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:17",
+   "tarih_iso": "2026-08-07T19:17:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
    "id": "kap-my-AKSA-202608071812",
    "baslik": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş. — İlişkili Taraf İşlemleri",
    "sirket": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş.",
@@ -303,6 +368,42 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/halkbanktan-sermaye-artirimi-karari-ikincil-halka-arz-sureci-baslatildi-haberi-835397",
+   "baslik": "Halkbank'tan sermaye artırımı kararı: İkincil halka arz süreci başlatıldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/halkbanktan-sermaye-artirimi-karari-ikincil-halka-arz-sureci-baslatildi-haberi-835397",
+   "saat": "21:30",
+   "tarih_iso": "2026-08-07T21:30:00+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/vakifbanktan-ilk-yarida-guclu-bilanco-net-kar-30-milyar-liraya-ulasti-haberi-835386",
+   "baslik": "VakıfBank'tan ilk yarıda güçlü bilanço: Net kâr 30 milyar liraya ulaştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/vakifbanktan-ilk-yarida-guclu-bilanco-net-kar-30-milyar-liraya-ulasti-haberi-835386",
+   "saat": "19:45",
+   "tarih_iso": "2026-08-07T19:45:00+03:00",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/h-cahit-cinar-kimdir-is-bankasinin-yeni-genel-muduru-h-cahit-cinarin-kariyeri-haberi-835377",
+   "baslik": "H. Cahit Çınar kimdir? İş Bankası'nın yeni Genel Müdürü H. Cahit Çınar'ın kariyeri",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/h-cahit-cinar-kimdir-is-bankasinin-yeni-genel-muduru-h-cahit-cinarin-kariyeri-haberi-835377",
+   "saat": "18:37",
+   "tarih_iso": "2026-08-07T18:37:00+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/is-bankasinda-gorev-degisimi-iddiasi-hakan-aran-gorevden-ayriliyor-haberi-835372",
    "baslik": "İş Bankası'nda görev değişimi iddiası: Hakan Aran görevden ayrılıyor",
    "kaynak": "Dünya",
@@ -450,6 +551,36 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/braveheart-bio-nasdaq-halka-arznda-4399-milyon-dolar-toplad-432SI-4021034",
+   "baslik": "Braveheart Bio, Nasdaq halka arzında 439,9 milyon dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/braveheart-bio-nasdaq-halka-arznda-4399-milyon-dolar-toplad-432SI-4021034",
+   "saat": "23:17",
+   "tarih_iso": "2026-08-07T23:17:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/euro-dolar-altin-borsa-haftanin-en-cok-kazandiran-yatirim-araci-belli-oldu-haberi-835380",
+   "baslik": "Euro, dolar, altın borsa... Haftanın en çok kazandıran yatırım aracı belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/euro-dolar-altin-borsa-haftanin-en-cok-kazandiran-yatirim-araci-belli-oldu-haberi-835380",
+   "saat": "18:50",
+   "tarih_iso": "2026-08-07T18:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-835378",
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-835378",
+   "saat": "18:42",
+   "tarih_iso": "2026-08-07T18:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/fed-toplantisi-ne-zaman-fed-faiz-karari-hangi-gun-aciklanacak-haberi-835365",
    "baslik": "Fed toplantısı ne zaman? Fed faiz kararı hangi gün açıklanacak?",
    "kaynak": "Dünya",
@@ -562,6 +693,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
+   "baslik": "Two reasons why Nvidia’s stock saw its biggest weekly surge in more than a year",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/two-reasons-why-nvidias-stock-saw-its-biggest-weekly-surge-in-more-than-a-year-644875c8?mod=mw_rss_topstories",
+   "saat": "23:41",
+   "tarih_iso": "2026-08-07T23:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-028-4847396",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.28%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-028-4847396",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-07T23:30:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-068-4847394",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.68%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-068-4847394",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-07T23:30:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-173-4847393",
+   "baslik": "Brazil stocks lower at close of trade; Bovespa down 1.73%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-173-4847393",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-07T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
    "baslik": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
    "kaynak": "CNBC",
@@ -570,6 +741,16 @@
    "tarih_iso": "2026-08-07T23:22:17+03:00",
    "kodlar": [],
    "eklenme": "2026-08-07T23:31:03.803345+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/braveheart-bio-raises-4399m-in-upsized-nasdaq-ipo-432SI-4847363",
+   "baslik": "Braveheart Bio raises $439.9M in upsized Nasdaq IPO",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/braveheart-bio-raises-4399m-in-upsized-nasdaq-ipo-432SI-4847363",
+   "saat": "23:17",
+   "tarih_iso": "2026-08-07T23:17:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T00:01:09.801503+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/river-city-bank-completes-1215m-secondary-ipo-on-nasdaq-432SI-4847350",
@@ -1710,56 +1891,6 @@
    "tarih_iso": "2026-08-07T17:43:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-07T18:01:11.788068+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/article/spacexs-influence-ripples-across-markets-alphacheck-144205821.html",
-   "baslik": "SpaceX's influence ripples across markets: AlphaCheck",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/spacexs-influence-ripples-across-markets-alphacheck-144205821.html",
-   "saat": "17:42",
-   "tarih_iso": "2026-08-07T17:42:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-07T18:01:11.788068+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-markets-3-struggling-brands-144036596.html",
-   "baslik": "What Prediction Markets Say About 3 Struggling Brands Fighting to Survive",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-markets-3-struggling-brands-144036596.html",
-   "saat": "17:40",
-   "tarih_iso": "2026-08-07T17:40:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-07T18:01:11.788068+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/nikes-fat-dividend-yield-and-recovery-outlook-as-stock-trades-43-below-its-high-93CH-4846956",
-   "baslik": "Nike’s fat dividend yield and recovery outlook as stock trades 43% below its high",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/nikes-fat-dividend-yield-and-recovery-outlook-as-stock-trades-43-below-its-high-93CH-4846956",
-   "saat": "17:40",
-   "tarih_iso": "2026-08-07T17:40:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-07T18:01:11.788068+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/under-armour-slashes-revenue-outlook-143900185.html",
-   "baslik": "Under Armour slashes revenue outlook as fiscal first quarter sales decline",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/under-armour-slashes-revenue-outlook-143900185.html",
-   "saat": "17:39",
-   "tarih_iso": "2026-08-07T17:39:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-07T18:01:11.788068+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/1-quantum-computing-stock-poised-143653586.html",
-   "baslik": "1 Quantum Computing Stock Poised to Drop After Aug. 10",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-quantum-computing-stock-poised-143653586.html",
-   "saat": "17:36",
-   "tarih_iso": "2026-08-07T17:36:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-07T18:01:11.788068+03:00"
   }
  ],
  "altin_haber": [
@@ -2184,5 +2315,5 @@
    "eklenme": "2026-08-07T09:01:07.179527+03:00"
   }
  ],
- "guncelleme": "2026-08-07T23:31:03.803345+03:00"
+ "guncelleme": "2026-08-08T00:01:09.801503+03:00"
 }
