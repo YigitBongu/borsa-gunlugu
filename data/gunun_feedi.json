@@ -121,6 +121,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/son-dakika-muglada-korkutan-deprem-haberi-835315",
+   "baslik": "Son dakika: Muğla'da korkutan deprem!",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/son-dakika-muglada-korkutan-deprem-haberi-835315",
+   "saat": "10:17",
+   "tarih_iso": "2026-08-07T10:17:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-07T10:31:04.146728+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/yatirim-harcamalarini-yuzde-523-oraninda-artirdi-haberi-835265",
    "baslik": "Yatırım harcamalarını yüzde 52,3 oranında artırdı",
    "kaynak": "Dünya",
@@ -134,6 +146,46 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-yilin-ucuncu-enflasyon-raporunu-13-agustosta-aciklayacak-3451373",
+   "baslik": "TCMB yılın üçüncü Enflasyon Raporu'nu 13 Ağustos'ta açıklayacak",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/tcmb-yilin-ucuncu-enflasyon-raporunu-13-agustosta-aciklayacak-3451373",
+   "saat": "13:17",
+   "tarih_iso": "2026-08-07T13:17:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T10:31:04.146728+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/meta-ya-genclerin-refahina-zarar-vermekten-567-milyon-dolar-ceza-3903978-teknoloji",
+   "baslik": "Meta’ya 567 milyon dolar ceza",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/meta-ya-genclerin-refahina-zarar-vermekten-567-milyon-dolar-ceza-3903978-teknoloji",
+   "saat": "10:08",
+   "tarih_iso": "2026-08-07T10:08:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T10:31:04.146728+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-yilin-3uncu-enflasyon-raporunu-13-agustosta-istanbulda-aciklayacak/4020752",
+   "baslik": "Merkez Bankası, yılın 3'üncü Enflasyon Raporunu 13 Ağustos'ta İstanbul'da açıklayacak",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-yilin-3uncu-enflasyon-raporunu-13-agustosta-istanbulda-aciklayacak/4020752",
+   "saat": "10:06",
+   "tarih_iso": "2026-08-07T10:06:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T10:31:04.146728+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/dunya/abdden-metaya-567-milyon-dolar-ceza-haberi-835314",
+   "baslik": "ABD'den Meta'ya 567 milyon dolar ceza",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/abdden-metaya-567-milyon-dolar-ceza-haberi-835314",
+   "saat": "10:02",
+   "tarih_iso": "2026-08-07T10:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T10:31:04.146728+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/kripto-para/en-guvenli-bitcoin-yontemi-de-kirildi-milyonlarca-dolar-buhar-oldu-haberi-835307",
    "baslik": "En güvenli Bitcoin yöntemi de kırıldı: Milyonlarca dolar buhar oldu",
@@ -156,6 +208,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-on-course-to-lock-in-best-week-since-june-as-earnings-surge-4845142",
+   "baslik": "European stocks on course to lock in best week since June as earnings surge",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-on-course-to-lock-in-best-week-since-june-as-earnings-surge-4845142",
+   "saat": "10:23",
+   "tarih_iso": "2026-08-07T10:23:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T10:31:04.146728+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mobimo-reports-rental-income-growth-in-first-half-of-2026-93CH-4845219",
+   "baslik": "Mobimo reports rental income growth in first half of 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mobimo-reports-rental-income-growth-in-first-half-of-2026-93CH-4845219",
+   "saat": "10:14",
+   "tarih_iso": "2026-08-07T10:14:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T10:31:04.146728+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-007-4845198",
    "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 0.07%",
@@ -459,6 +531,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-faces-critical-test-as-hormuz-hopes-and-fed-bets-collide-200685393",
+   "baslik": "Gold Faces Critical Test as Hormuz Hopes and Fed Bets Collide",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-faces-critical-test-as-hormuz-hopes-and-fed-bets-collide-200685393",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-07T10:31:04.146728+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-futures-consolidate-near-4290-as-vc-pmi-targets-43494398-200685378",
    "baslik": "Gold Futures Consolidate Near $4,290 as VC PMI Targets $4,349–$4,398",
    "kaynak": "Investing Emtia",
@@ -599,5 +681,5 @@
    "eklenme": "2026-08-07T09:01:07.179527+03:00"
   }
  ],
- "guncelleme": "2026-08-07T10:07:21.565478+03:00"
+ "guncelleme": "2026-08-07T10:31:04.146728+03:00"
 }
