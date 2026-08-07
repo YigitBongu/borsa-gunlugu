@@ -2,6 +2,19 @@
  "tarih": "2026-08-07",
  "kap": [
   {
+   "id": "kap-my-TAVHL-202608071500",
+   "baslik": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş.",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:00",
+   "tarih_iso": "2026-08-07T15:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-07T15:31:09.574956+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202608071352",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Toptan Alış Satış İşlemi Bildirimi",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -327,6 +340,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/08/07/housing-k-shaped-economy-luxury-starter-homes.html",
+   "baslik": "K-shaped economy shows up in housing: Luxury sales rise as starter-home buyers struggle",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/07/housing-k-shaped-economy-luxury-starter-homes.html",
+   "saat": "15:15",
+   "tarih_iso": "2026-08-07T15:15:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T15:31:09.574956+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ardelyx-stock-plunging-today-93CH-4846129",
    "baslik": "Why is Ardelyx stock plunging today?",
    "kaynak": "Investing.com",
@@ -455,6 +478,16 @@
    "tarih_iso": "2026-08-07T14:18:43+03:00",
    "kodlar": [],
    "eklenme": "2026-08-07T14:41:34.661497+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/research/reports/ARGUS_47850_MarketSummary_1786101521000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "baslik": "Market Digest: EBAY, EMR, FE, PG, JCI, UPS, VSH, XYZ, SPCX",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/research/reports/ARGUS_47850_MarketSummary_1786101521000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+   "saat": "14:18",
+   "tarih_iso": "2026-08-07T14:18:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T15:31:09.574956+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-jfrog-stock-surging-today-93CH-4845948",
@@ -1359,6 +1392,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-7-2026-gold-prices-continue-to-rise-ahead-of-july-jobs-report-122102132.html",
+   "baslik": "Gold prices today, Friday, August 7, 2026: Gold prices continue to rise ahead of July jobs report",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-7-2026-gold-prices-continue-to-rise-ahead-of-july-jobs-report-122102132.html",
+   "saat": "15:21",
+   "tarih_iso": "2026-08-07T15:21:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-07T15:31:09.574956+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/ekonomi/cinden-altin-hamlesi-rezervlere-yaklasik-20-ton-daha-eklendi-haberi-835350",
    "baslik": "Çin'den altın hamlesi: Rezervlere yaklaşık 20 ton daha eklendi",
    "kaynak": "Dünya",
@@ -1579,5 +1622,5 @@
    "eklenme": "2026-08-07T09:01:07.179527+03:00"
   }
  ],
- "guncelleme": "2026-08-07T15:01:18.867676+03:00"
+ "guncelleme": "2026-08-07T15:31:09.574956+03:00"
 }
