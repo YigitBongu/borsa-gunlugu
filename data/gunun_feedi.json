@@ -69,6 +69,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/son-dakika-yeni-parti-manisa-il-baskani-ilksen-ozalper-tutuklandi-haberi-835461",
+   "baslik": "Son dakika: Yeni Parti Manisa İl Başkanı İlksen Özalper tutuklandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/son-dakika-yeni-parti-manisa-il-baskani-ilksen-ozalper-tutuklandi-haberi-835461",
+   "saat": "15:56",
+   "tarih_iso": "2026-08-08T15:56:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-08T16:01:06.847777+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sektorler/bilim-ve-teknoloji/bilisim-500de-zirve-turk-telekomun-haberi-835446",
    "baslik": "Bilişim 500’de zirve Türk Telekom’un",
    "kaynak": "Dünya",
@@ -152,6 +164,16 @@
    "tarih_iso": "2026-08-08T16:56:03+03:00",
    "kodlar": [],
    "eklenme": "2026-08-08T14:01:06.031912+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/kizlarina-birakacagi-mirasi-kahve-kutusunda-biriktiriyor-hedefi-500-milyon-dolar-haberi-835460",
+   "baslik": "Kızlarına bırakacağı mirası kahve kutusunda biriktiriyor: Hedefi 500 milyon dolar",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/kizlarina-birakacagi-mirasi-kahve-kutusunda-biriktiriyor-hedefi-500-milyon-dolar-haberi-835460",
+   "saat": "15:51",
+   "tarih_iso": "2026-08-08T15:51:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T16:01:06.847777+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/hazine-ve-maliye-bakani-simsek-memlekette-fabrika-cok-genclerimiz-calismak-isterse-is-var-haberi-835456",
@@ -265,6 +287,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
+   "saat": "15:36",
+   "tarih_iso": "2026-08-08T15:36:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T16:01:06.847777+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/berkshire-says-operating-profit-rises-conducts-stock-buybacks-4847654",
+   "baslik": "Berkshire says operating profit rises, conducts stock buybacks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/berkshire-says-operating-profit-rises-conducts-stock-buybacks-4847654",
+   "saat": "15:30",
+   "tarih_iso": "2026-08-08T15:30:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T16:01:06.847777+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+   "baslik": "Dow Jones Futures: What To Do As Stock Market Revs Up; Warren Buffett's Berkshire Beats Views",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-warren-buffett-cisco-lumentum-earnings/?src=A00220&yptr=yahoo",
+   "saat": "15:28",
+   "tarih_iso": "2026-08-08T15:28:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T16:01:06.847777+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/global-payments-gpn-q2-2026-121401823.html",
    "baslik": "Global Payments (GPN) Q2 2026 Earnings Call Transcript",
@@ -738,5 +790,5 @@
    "eklenme": "2026-08-08T09:01:09.681850+03:00"
   }
  ],
- "guncelleme": "2026-08-08T15:31:02.150408+03:00"
+ "guncelleme": "2026-08-08T16:01:06.847777+03:00"
 }
