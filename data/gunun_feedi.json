@@ -69,6 +69,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/iklimlendirme-sirketinde-ortaklik-yapisi-degisiyor-carrierin-paylari-alarko-holdinge-geciyor-3904179-ekonomi",
+   "baslik": "İklimlendirmede 28 yıllık ortaklık bitiyor",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/iklimlendirme-sirketinde-ortaklik-yapisi-degisiyor-carrierin-paylari-alarko-holdinge-geciyor-3904179-ekonomi",
+   "saat": "10:18",
+   "tarih_iso": "2026-08-08T10:18:56+03:00",
+   "kodlar": [
+    "ALARK"
+   ],
+   "eklenme": "2026-08-08T10:30:58.346757+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/son-dakika-terorsuz-turkiye-yasasi-teklifine-onay-haberi-835415",
    "baslik": "Son dakika: Terörsüz Türkiye yasası teklifine onay",
    "kaynak": "Dünya",
@@ -119,6 +131,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/cin-merkez-bankasindan-rekor-altin-alimi-rezervler-2-bin-366-tona-cikti-3451720",
+   "baslik": "Çin Merkez Bankası’ndan rekor altın alımı: Rezervler 2 bin 366 tona çıktı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/cin-merkez-bankasindan-rekor-altin-alimi-rezervler-2-bin-366-tona-cikti-3451720",
+   "saat": "13:07",
+   "tarih_iso": "2026-08-08T13:07:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T10:30:58.346757+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/bitcoin-haftayi-kazancla-kapatti-fed-beklentisi-yonu-degistirdi-haberi-835413",
    "baslik": "Bitcoin haftayı kazançla kapattı: Fed beklentisi yönü değiştirdi",
@@ -394,6 +416,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/cin-merkez-bankasindan-rekor-altin-alimi-rezervler-2-bin-366-tona-cikti-3451720",
+   "baslik": "Çin Merkez Bankası’ndan rekor altın alımı: Rezervler 2 bin 366 tona çıktı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/cin-merkez-bankasindan-rekor-altin-alimi-rezervler-2-bin-366-tona-cikti-3451720",
+   "saat": "13:07",
+   "tarih_iso": "2026-08-08T13:07:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-08T10:30:58.346757+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-rally-tests-key-resistance-as-weak-jobs-data-reshapes-fed-expectations-200685445",
    "baslik": "Gold Rally Tests Key Resistance as Weak Jobs Data Reshapes Fed Expectations",
    "kaynak": "Investing Emtia",
@@ -544,5 +576,5 @@
    "eklenme": "2026-08-08T09:01:09.681850+03:00"
   }
  ],
- "guncelleme": "2026-08-08T10:01:10.390987+03:00"
+ "guncelleme": "2026-08-08T10:30:58.346757+03:00"
 }
