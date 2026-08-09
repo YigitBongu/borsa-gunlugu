@@ -168,6 +168,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-9-agustos-pazar-doviz-kurlari-haberi-835494",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (9 Ağustos Pazar Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-9-agustos-pazar-doviz-kurlari-haberi-835494",
+   "saat": "07:19",
+   "tarih_iso": "2026-08-09T07:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-09T07:31:02.651818+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/gozler-merkez-bankasinda-enflasyon-hedefi-degisecek-mi-3451966",
    "baslik": "Gözler Merkez Bankası'nda: Enflasyon hedefi değişecek mi?",
    "kaynak": "CNN Türk Ekonomi",
@@ -329,6 +339,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/0a6249a2-e28b-4e58-ab2d-2b8615b832dc?syn-25a6b1a6=1",
+   "baslik": "Turkey’s cyber law shifts sweeping powers to presidency",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/0a6249a2-e28b-4e58-ab2d-2b8615b832dc?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-08-09T07:00:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-09T07:31:02.651818+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
+   "baslik": "Investors return to European stocks as strong earnings lift Iran war gloom",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-08-09T07:00:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-09T07:31:02.651818+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/15c56de6-c884-4c7f-a91c-6d1aa59ce1c6?syn-25a6b1a6=1",
    "baslik": "China’s monthly inflation cools as impact from Iran war eases",
@@ -1508,29 +1538,19 @@
    "tarih_iso": "2026-08-08T19:04:04+03:00",
    "kodlar": [],
    "eklenme": "2026-08-08T19:30:59.136827+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/landbridge-q2-earnings-call-highlights-160403049.html",
-   "baslik": "LandBridge Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/landbridge-q2-earnings-call-highlights-160403049.html",
-   "saat": "19:04",
-   "tarih_iso": "2026-08-08T19:04:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-08T19:30:59.136827+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/lci-industries-q2-earnings-call-160403560.html",
-   "baslik": "LCI Industries Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lci-industries-q2-earnings-call-160403560.html",
-   "saat": "19:04",
-   "tarih_iso": "2026-08-08T19:04:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-08T19:30:59.136827+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-9-agustos-2026-haberi-835493",
+   "baslik": "ALTINDA SON DURUM: Gram ve çeyrek altın kaç TL oldu? Altın fiyatları ne kadar? (9 Ağustos 2026)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-9-agustos-2026-haberi-835493",
+   "saat": "07:15",
+   "tarih_iso": "2026-08-09T07:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-09T07:31:02.651818+03:00"
+  },
   {
    "id": "alt-https://www.aa.com.tr/tr/ekonomi/turkiye-ilk-kez-katildigi-nukleer-bilim-olimpiyatindan-4-madalya-cikardi/4022132",
    "baslik": "Türkiye ilk kez katıldığı Nükleer Bilim Olimpiyatı'ndan 4 madalya çıkardı",
@@ -1742,5 +1762,5 @@
    "eklenme": "2026-08-08T09:01:09.681850+03:00"
   }
  ],
- "guncelleme": "2026-08-09T07:01:07.494619+03:00"
+ "guncelleme": "2026-08-09T07:31:02.651818+03:00"
 }
