@@ -97,6 +97,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-upstart-stock-plunged-23-213130249.html",
+   "baslik": "Why Upstart Stock Plunged 23% in July",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-upstart-stock-plunged-23-213130249.html",
+   "saat": "00:31",
+   "tarih_iso": "2026-08-10T00:31:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T01:01:07.718089+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4847756",
+   "baslik": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4847756",
+   "saat": "00:20",
+   "tarih_iso": "2026-08-10T00:20:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T01:01:07.718089+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/technology/articles/alphabets-cloud-computing-business-just-210500670.html",
    "baslik": "Alphabet's Cloud Computing Business Just Posted 82% Revenue Growth. Next Quarter Could Be Even Better.",
    "kaynak": "Yahoo Finance",
@@ -455,6 +475,16 @@
    "tarih_iso": "2026-08-09T22:11:05+03:00",
    "kodlar": [],
    "eklenme": "2026-08-09T22:31:01.510649+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
+   "baslik": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
+   "saat": "22:11",
+   "tarih_iso": "2026-08-09T22:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T01:01:07.718089+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/energy/articles/ring-energy-q2-earnings-call-190403358.html",
@@ -1265,36 +1295,6 @@
    "tarih_iso": "2026-08-09T18:04:19+03:00",
    "kodlar": [],
    "eklenme": "2026-08-09T18:30:59.690738+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/vitesse-energy-q2-earnings-call-150419006.html",
-   "baslik": "Vitesse Energy Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/vitesse-energy-q2-earnings-call-150419006.html",
-   "saat": "18:04",
-   "tarih_iso": "2026-08-09T18:04:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-09T18:30:59.690738+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/vtex-q2-earnings-call-highlights-150419863.html",
-   "baslik": "VTEX Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vtex-q2-earnings-call-highlights-150419863.html",
-   "saat": "18:04",
-   "tarih_iso": "2026-08-09T18:04:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-09T18:30:59.690738+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-q2-earnings-150418815.html",
-   "baslik": "Vishay Precision Group Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vishay-precision-group-q2-earnings-150418815.html",
-   "saat": "18:04",
-   "tarih_iso": "2026-08-09T18:04:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-09T18:30:59.690738+03:00"
   }
  ],
  "altin_haber": [
@@ -1459,5 +1459,5 @@
    "eklenme": "2026-08-09T09:01:07.955060+03:00"
   }
  ],
- "guncelleme": "2026-08-10T00:31:00.706458+03:00"
+ "guncelleme": "2026-08-10T01:01:07.718089+03:00"
 }
