@@ -330,6 +330,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.ft.com/content/15c56de6-c884-4c7f-a91c-6d1aa59ce1c6?syn-25a6b1a6=1",
+   "baslik": "China’s monthly inflation cools as impact from Iran war eases",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/15c56de6-c884-4c7f-a91c-6d1aa59ce1c6?syn-25a6b1a6=1",
+   "saat": "06:05",
+   "tarih_iso": "2026-08-09T06:05:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-09T06:30:58.566801+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/south-korea-stock-volatility-eases-as-leveraged-trades-unwind-4847694",
    "baslik": "South Korea stock volatility eases as leveraged trades unwind",
    "kaynak": "Investing.com",
@@ -1518,16 +1528,6 @@
    "tarih_iso": "2026-08-08T19:04:03+03:00",
    "kodlar": [],
    "eklenme": "2026-08-08T19:30:59.136827+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/media-advertising/articles/lionsgate-studios-q1-earnings-call-160403920.html",
-   "baslik": "Lionsgate Studios Q1 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/media-advertising/articles/lionsgate-studios-q1-earnings-call-160403920.html",
-   "saat": "19:04",
-   "tarih_iso": "2026-08-08T19:04:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-08T19:30:59.136827+03:00"
   }
  ],
  "altin_haber": [
@@ -1742,5 +1742,5 @@
    "eklenme": "2026-08-08T09:01:09.681850+03:00"
   }
  ],
- "guncelleme": "2026-08-09T06:01:06.411734+03:00"
+ "guncelleme": "2026-08-09T06:30:58.566801+03:00"
 }
