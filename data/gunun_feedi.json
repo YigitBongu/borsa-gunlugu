@@ -398,6 +398,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/is-dunyasi/mersinin-hazir-giyim-ihracati-211-milyon-dolar-haberi-835693",
+   "baslik": "Mersin’in hazır giyim ihracatı 211 milyon dolar",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/is-dunyasi/mersinin-hazir-giyim-ihracati-211-milyon-dolar-haberi-835693",
+   "saat": "00:00",
+   "tarih_iso": "2026-08-11T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T00:08:08.311321+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-835682",
    "baslik": "Borsa İstanbul günü yükselişle tamamladı",
    "kaynak": "Dünya",
@@ -569,6 +579,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-surf-air-mobility-stock-sliding-today-93CH-4850342",
+   "baslik": "Why is Surf Air Mobility stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-surf-air-mobility-stock-sliding-today-93CH-4850342",
+   "saat": "00:00",
+   "tarih_iso": "2026-08-11T00:00:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T00:08:08.311321+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-subdued-amid-iran-war-uncertainty-looming-us-inflation-data-4849048",
+   "baslik": "TSX hits new all time high at close helped by rally in IT, energy stocks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-subdued-amid-iran-war-uncertainty-looming-us-inflation-data-4849048",
+   "saat": "23:56",
+   "tarih_iso": "2026-08-10T23:56:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T00:08:08.311321+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hims--hers-health-stock-sliding-today-93CH-4850307",
+   "baslik": "Why is Hims & Hers Health stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hims--hers-health-stock-sliding-today-93CH-4850307",
+   "saat": "23:50",
+   "tarih_iso": "2026-08-10T23:50:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T00:08:08.311321+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/10/trump-spoke-to-fed-chair-kevin-warsh-denies-regular-calls.html",
    "baslik": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls",
@@ -1738,36 +1778,6 @@
    "tarih_iso": "2026-08-10T18:25:52+03:00",
    "kodlar": [],
    "eklenme": "2026-08-10T18:55:55.479137+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-spotify-stock-rallying-today-93CH-4849826",
-   "baslik": "Why is Spotify stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-spotify-stock-rallying-today-93CH-4849826",
-   "saat": "18:22",
-   "tarih_iso": "2026-08-10T18:22:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-10T18:31:05.892608+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-plug-power-stock-slumped-152018848.html",
-   "baslik": "Why Plug Power Stock Slumped Another 24% in July",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-plug-power-stock-slumped-152018848.html",
-   "saat": "18:20",
-   "tarih_iso": "2026-08-10T18:20:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-10T18:31:05.892608+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
-   "baslik": "SpaceX’s stock moves above its IPO price for the first time in almost a month",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/spacexs-stock-moves-above-its-ipo-price-for-the-first-time-in-almost-a-month-fc3f91b7?mod=mw_rss_topstories",
-   "saat": "18:20",
-   "tarih_iso": "2026-08-10T18:20:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-10T18:31:05.892608+03:00"
   }
  ],
  "altin_haber": [
@@ -2132,5 +2142,5 @@
    "eklenme": "2026-08-10T09:01:09.940268+03:00"
   }
  ],
- "guncelleme": "2026-08-11T00:01:07.750811+03:00"
+ "guncelleme": "2026-08-11T00:08:08.311321+03:00"
 }
