@@ -2,6 +2,32 @@
  "tarih": "2026-08-10",
  "kap": [
   {
+   "id": "kap-my-TKFEN-202608101016",
+   "baslik": "TEKFEN HOLDİNG A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TEKFEN HOLDİNG A.Ş.",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:16",
+   "tarih_iso": "2026-08-10T10:16:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
+   "id": "kap-my-TKFEN-202608101011",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:11",
+   "tarih_iso": "2026-08-10T10:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
    "id": "kap-my-SASA-202608100736",
    "baslik": "SASA POLYESTER SANAYİ A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
    "sirket": "SASA POLYESTER SANAYİ A.Ş.",
@@ -44,6 +70,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmbden-net-hata-ve-noksanin-nesi-noksan-videosu-haberi-835609",
+   "baslik": "TCMB'den \"Net Hata ve Noksanın Nesi Noksan?\" videosu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmbden-net-hata-ve-noksanin-nesi-noksan-videosu-haberi-835609",
+   "saat": "10:35",
+   "tarih_iso": "2026-08-10T10:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmbden-net-hata-ve-noksanin-nesi-noksan-baslikli-finansal-okuryazarlik-videosu/4022773",
+   "baslik": "TCMB'den \"Net Hata ve Noksanın Nesi Noksan?\" başlıklı finansal okuryazarlık videosu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-net-hata-ve-noksanin-nesi-noksan-baslikli-finansal-okuryazarlik-videosu/4022773",
+   "saat": "10:16",
+   "tarih_iso": "2026-08-10T10:16:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/kuresel-piyasalar-haftaya-fed-iyimserligiyle-basladi-3904494-ekonomi",
    "baslik": "Küresel piyasalarda Fed iyimserliği",
    "kaynak": "Habertürk Ekonomi",
@@ -85,6 +131,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-stabilus-stock-sliding-today-93CH-4847978",
+   "baslik": "Why is Stabilus stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-stabilus-stock-sliding-today-93CH-4847978",
+   "saat": "10:58",
+   "tarih_iso": "2026-08-10T10:58:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/lubawa-estimates-h1-net-profit-at-43-mln-zlotys-93CH-4847975",
+   "baslik": "Lubawa estimates H1 net profit at 4.3 mln zlotys",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/lubawa-estimates-h1-net-profit-at-43-mln-zlotys-93CH-4847975",
+   "saat": "10:54",
+   "tarih_iso": "2026-08-10T10:54:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/trading-platform-plus500-reports-higher-core-profit-as-us-business-gains-traction-4847967",
+   "baslik": "Trading platform Plus500 reports higher core profit as US business gains traction",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/trading-platform-plus500-reports-higher-core-profit-as-us-business-gains-traction-4847967",
+   "saat": "10:42",
+   "tarih_iso": "2026-08-10T10:42:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vistry-stock-tumbling-today-93CH-4847966",
+   "baslik": "Why is Vistry stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-vistry-stock-tumbling-today-93CH-4847966",
+   "saat": "10:42",
+   "tarih_iso": "2026-08-10T10:42:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-mideast-tensions-iran-blockade-weigh-4847960",
+   "baslik": "FTSE 100 today: Stocks slip as Mideast tensions, Iran blockade weigh",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-mideast-tensions-iran-blockade-weigh-4847960",
+   "saat": "10:28",
+   "tarih_iso": "2026-08-10T10:28:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-european-aeroengine-stocks-according-to-barclays-93CH-4847957",
+   "baslik": "Top European AeroEngine Stocks According to Barclays",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-european-aeroengine-stocks-according-to-barclays-93CH-4847957",
+   "saat": "10:25",
+   "tarih_iso": "2026-08-10T10:25:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-plus500-stock-rallying-today-93CH-4847949",
    "baslik": "Why is Plus500 stock rallying today?",
@@ -328,6 +434,36 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/10-agustos-guncel-altin-fiyatlari-bugun-altin-ne-kadar-gram-altin-ons-altin-ve-kapalicarsida-son-durum-ne-malatya-kuyumcular-ve-3452449",
+   "baslik": "10 AĞUSTOS GÜNCEL ALTIN FİYATLARI: Bugün Altın Ne Kadar? Gram Altın, Ons Altın ve Kapalıçarşı'da Son Durum Ne? Malatya Kuyumcular ve Kapalıçarşı Altın Fiyatlarında Hareketlilik...",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/10-agustos-guncel-altin-fiyatlari-bugun-altin-ne-kadar-gram-altin-ons-altin-ve-kapalicarsida-son-durum-ne-malatya-kuyumcular-ve-3452449",
+   "saat": "13:46",
+   "tarih_iso": "2026-08-10T13:46:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-extends-recovery-as-markets-reassess-weak-nfp-data-200685487",
+   "baslik": "Gold Extends Recovery as Markets Reassess Weak NFP Data",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-extends-recovery-as-markets-reassess-weak-nfp-data-200685487",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-finally-finds-its-4000-floor-200685475",
+   "baslik": "Gold Finally Finds Its $4,000 Floor",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-finally-finds-its-4000-floor-200685475",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:01:10.474348+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/whats-next-for-stocks-commodities-and-precious-metals-200685477",
    "baslik": "What’s Next for Stocks, Commodities and Precious Metals?",
    "kaynak": "Investing Emtia",
@@ -478,5 +614,5 @@
    "eklenme": "2026-08-10T09:01:09.940268+03:00"
   }
  ],
- "guncelleme": "2026-08-10T10:31:01.444142+03:00"
+ "guncelleme": "2026-08-10T11:01:10.474348+03:00"
 }
