@@ -65,6 +65,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-10-agustos-pazartesi-doviz-kurlari-haberi-835579",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (10 Ağustos Pazartesi Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-10-agustos-pazartesi-doviz-kurlari-haberi-835579",
+   "saat": "07:10",
+   "tarih_iso": "2026-08-10T07:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T07:31:12.696318+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/kayiqai-500-bin-dolar-tohum-yatirimla-hayata-gecti-haberi-835552",
    "baslik": "kayIQ.ai, 500 bin dolar tohum yatırımla hayata geçti",
    "kaynak": "Dünya",
@@ -96,6 +106,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/581a7c18-5deb-4cd4-b014-f4d275ba73d2?syn-25a6b1a6=1",
+   "baslik": "German economy minister warns AfD’s rise could deter investors",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/581a7c18-5deb-4cd4-b014-f4d275ba73d2?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-08-10T07:00:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T07:31:12.696318+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-westpac-banking-stock-sliding-today-93CH-4847809",
    "baslik": "Why is Westpac Banking stock sliding today?",
@@ -1285,16 +1305,6 @@
    "tarih_iso": "2026-08-09T20:03:57+03:00",
    "kodlar": [],
    "eklenme": "2026-08-09T20:31:00.746194+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/essential-utilities-q2-earnings-call-170357920.html",
-   "baslik": "Essential Utilities Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/essential-utilities-q2-earnings-call-170357920.html",
-   "saat": "20:03",
-   "tarih_iso": "2026-08-09T20:03:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-09T20:31:00.746194+03:00"
   }
  ],
  "altin_haber": [
@@ -1469,5 +1479,5 @@
    "eklenme": "2026-08-09T09:01:07.955060+03:00"
   }
  ],
- "guncelleme": "2026-08-10T07:01:07.583623+03:00"
+ "guncelleme": "2026-08-10T07:31:12.696318+03:00"
 }
