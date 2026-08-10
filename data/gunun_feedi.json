@@ -1,6 +1,33 @@
 {
  "tarih": "2026-08-10",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-SASA-202608100736",
+   "baslik": "SASA POLYESTER SANAYİ A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
+   "sirket": "SASA POLYESTER SANAYİ A.Ş.",
+   "kodlar": [
+    "SASA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "07:36",
+   "tarih_iso": "2026-08-10T07:36:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-10T09:30:59.716442+03:00"
+  },
+  {
+   "id": "kap-my-SASA-202608100734",
+   "baslik": "SASA POLYESTER SANAYİ A.Ş. — Finansal Rapor",
+   "sirket": "SASA POLYESTER SANAYİ A.Ş.",
+   "kodlar": [
+    "SASA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "07:34",
+   "tarih_iso": "2026-08-10T07:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-10T09:30:59.716442+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/abdulhamid-han-ile-gurur-dolu-4-yil-bakan-bayraktar-gucumuzu-her-gecen-gun-artiriyoruz-3452160",
@@ -48,6 +75,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nitori-stock-surging-today-93CH-4847862",
+   "baslik": "Why is Nitori stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nitori-stock-surging-today-93CH-4847862",
+   "saat": "09:15",
+   "tarih_iso": "2026-08-10T09:15:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T09:30:59.716442+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/marshalls-reports-firsthalf-revenue-decline-amid-weak-demand-93CH-4847861",
+   "baslik": "Marshalls reports first-half revenue decline amid weak demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/marshalls-reports-firsthalf-revenue-decline-amid-weak-demand-93CH-4847861",
+   "saat": "09:13",
+   "tarih_iso": "2026-08-10T09:13:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T09:30:59.716442+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cambricon-technologies-stock-sliding-today-93CH-4847855",
+   "baslik": "Why is Cambricon Technologies stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cambricon-technologies-stock-sliding-today-93CH-4847855",
+   "saat": "09:10",
+   "tarih_iso": "2026-08-10T09:10:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T09:30:59.716442+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4847847",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted unchanged",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4847847",
+   "saat": "09:00",
+   "tarih_iso": "2026-08-10T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T09:30:59.716442+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-boe-technology-stock-sliding-today-93CH-4847843",
+   "baslik": "Why is BOE Technology stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-boe-technology-stock-sliding-today-93CH-4847843",
+   "saat": "08:59",
+   "tarih_iso": "2026-08-10T08:59:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T09:30:59.716442+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/10/oil-prices-today-brent-wti-hormuz-trump-iran.html",
    "baslik": "Oil rises amid uncertainty over U.S.-Iran Strait of Hormuz deal",
@@ -251,5 +328,5 @@
    "eklenme": "2026-08-10T09:01:09.940268+03:00"
   }
  ],
- "guncelleme": "2026-08-10T09:01:09.940268+03:00"
+ "guncelleme": "2026-08-10T09:30:59.716442+03:00"
 }
