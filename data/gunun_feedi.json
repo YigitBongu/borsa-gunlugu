@@ -2,6 +2,19 @@
  "tarih": "2026-08-10",
  "kap": [
   {
+   "id": "kap-my-SASA-202608101035",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SASA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:35",
+   "tarih_iso": "2026-08-10T10:35:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-10T11:31:09.192785+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202608101016",
    "baslik": "TEKFEN HOLDİNG A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "TEKFEN HOLDİNG A.Ş.",
@@ -55,6 +68,54 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-maci-tarihi-ve-saati-sturm-graz-fb-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835614",
+   "baslik": "Fenerbahçe maçı tarihi ve saati: Sturm Graz - FB maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-maci-tarihi-ve-saati-sturm-graz-fb-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-835614",
+   "saat": "11:14",
+   "tarih_iso": "2026-08-10T11:14:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-10T11:31:09.192785+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/opel-yeniden-turkiye-de-uretime-basliyor-3904547-ekonomi",
+   "baslik": "Opel yeniden Türkiye'de üretime başlıyor",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/opel-yeniden-turkiye-de-uretime-basliyor-3904547-ekonomi",
+   "saat": "11:13",
+   "tarih_iso": "2026-08-10T11:13:58+03:00",
+   "kodlar": [
+    "TOASO"
+   ],
+   "eklenme": "2026-08-10T11:31:09.192785+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/kocaeli-de-20-23-agustos-tarihlerinde-duzenlenecek-teknofest-mavi-vatan-oncesinde-hazirlik-toplantisi-gerceklestirildi-3904545-teknoloji",
+   "baslik": "TEKNOFEST Mavi Vatan için Kocaeli'de hazırlık toplantısı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/kocaeli-de-20-23-agustos-tarihlerinde-duzenlenecek-teknofest-mavi-vatan-oncesinde-hazirlik-toplantisi-gerceklestirildi-3904545-teknoloji",
+   "saat": "11:11",
+   "tarih_iso": "2026-08-10T11:11:12+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-10T11:31:09.192785+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/turkcell-ve-teknofest-in-5g-ve-yapay-zeka-ile-akilli-yol-guvenligi-yarismasinda-final-heyecani-3904541-teknoloji",
+   "baslik": "5G ve yapay zeka ile akıllı yol güvenliği",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/turkcell-ve-teknofest-in-5g-ve-yapay-zeka-ile-akilli-yol-guvenligi-yarismasinda-final-heyecani-3904541-teknoloji",
+   "saat": "11:03",
+   "tarih_iso": "2026-08-10T11:03:47+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-08-10T11:31:09.192785+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/abdulhamid-han-ile-gurur-dolu-4-yil-bakan-bayraktar-gucumuzu-her-gecen-gun-artiriyoruz-3452160",
    "baslik": "Abdülhamid Han ile gurur dolu 4 yıl! Bakan Bayraktar: Gücümüzü her geçen gün artırıyoruz",
@@ -131,6 +192,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
+   "baslik": "Berkshire Hathaway finally started spending its nearly $400 billion in cash — on one stock it knows very well",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
+   "saat": "11:21",
+   "tarih_iso": "2026-08-10T11:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:31:09.192785+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/10/us-treasury-yields-investors-eye-key-inflation-data-.html",
+   "baslik": "Treasury yields inch lower as investors look ahead to key inflation data",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/10/us-treasury-yields-investors-eye-key-inflation-data-.html",
+   "saat": "11:11",
+   "tarih_iso": "2026-08-10T11:11:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:31:09.192785+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-stabilus-stock-sliding-today-93CH-4847978",
    "baslik": "Why is Stabilus stock sliding today?",
@@ -614,5 +695,5 @@
    "eklenme": "2026-08-10T09:01:09.940268+03:00"
   }
  ],
- "guncelleme": "2026-08-10T11:01:10.474348+03:00"
+ "guncelleme": "2026-08-10T11:31:09.192785+03:00"
 }
