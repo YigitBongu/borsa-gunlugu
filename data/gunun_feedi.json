@@ -2,6 +2,32 @@
  "tarih": "2026-08-10",
  "kap": [
   {
+   "id": "kap-my-ENJSA-202608101118",
+   "baslik": "AK YATIRIM MENKUL DEĞERLER A.Ş. — Likidite Sağlayıcılık Kapsamındaki İşlemler",
+   "sirket": "AK YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ENJSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:18",
+   "tarih_iso": "2026-08-10T11:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-10T11:56:39.441437+03:00"
+  },
+  {
+   "id": "kap-my-EREGL-202608101106",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EREGL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:06",
+   "tarih_iso": "2026-08-10T11:06:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-10T11:56:39.441437+03:00"
+  },
+  {
    "id": "kap-my-SASA-202608101035",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -131,6 +157,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/bank-of-america-hazine-egrisinin-diklesmeye-yatkn-oldugunu-goruyor-93CH-4021640",
+   "baslik": "Bank of America, Hazine eğrisinin dikleşmeye yatkın olduğunu görüyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/bank-of-america-hazine-egrisinin-diklesmeye-yatkn-oldugunu-goruyor-93CH-4021640",
+   "saat": "11:37",
+   "tarih_iso": "2026-08-10T11:37:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:56:39.441437+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/tcmbden-net-hata-ve-noksanin-nesi-noksan-videosu-haberi-835609",
    "baslik": "TCMB'den \"Net Hata ve Noksanın Nesi Noksan?\" videosu",
    "kaynak": "Dünya",
@@ -193,6 +229,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bank-of-america-sees-treasury-curve-biased-to-steepen-93CH-4848057",
+   "baslik": "Bank of America sees Treasury curve biased to steepen",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bank-of-america-sees-treasury-curve-biased-to-steepen-93CH-4848057",
+   "saat": "11:36",
+   "tarih_iso": "2026-08-10T11:36:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:56:39.441437+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-silence-therapeutics-stock-surging-today-93CH-4848056",
+   "baslik": "Why is Silence Therapeutics stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-silence-therapeutics-stock-surging-today-93CH-4848056",
+   "saat": "11:36",
+   "tarih_iso": "2026-08-10T11:36:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:56:39.441437+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-aumovio-stock-rallying-today-93CH-4848045",
+   "baslik": "Why is Aumovio stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-aumovio-stock-rallying-today-93CH-4848045",
+   "saat": "11:32",
+   "tarih_iso": "2026-08-10T11:32:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:56:39.441437+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-040-4848043",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.40%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-040-4848043",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-10T11:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:56:39.441437+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/berkshire-hathaway-finally-started-spending-its-nearly-400-billion-in-cash-on-one-stock-it-knows-very-well-f9d56389?mod=mw_rss_topstories",
    "baslik": "Berkshire Hathaway finally started spending its nearly $400 billion in cash — on one stock it knows very well",
    "kaynak": "MarketWatch",
@@ -201,6 +277,26 @@
    "tarih_iso": "2026-08-10T11:21:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-10T11:31:09.192785+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bindawood-holding-shares-drop-after-profit-decline-93CH-4847998",
+   "baslik": "BinDawood Holding shares drop after profit decline",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bindawood-holding-shares-drop-after-profit-decline-93CH-4847998",
+   "saat": "11:19",
+   "tarih_iso": "2026-08-10T11:19:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:56:39.441437+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-pharos-energy-stock-sliding-today-93CH-4847987",
+   "baslik": "Why is Pharos Energy stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-pharos-energy-stock-sliding-today-93CH-4847987",
+   "saat": "11:12",
+   "tarih_iso": "2026-08-10T11:12:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:56:39.441437+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/08/10/us-treasury-yields-investors-eye-key-inflation-data-.html",
@@ -525,6 +621,16 @@
    "eklenme": "2026-08-10T11:01:10.474348+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-technical-outlook--key-levels-to-watch-as-xauusd-approaches-resistance-200685458",
+   "baslik": "Gold Technical Outlook : Key Levels to Watch as XAU/USD Approaches Resistance",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-technical-outlook--key-levels-to-watch-as-xauusd-approaches-resistance-200685458",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-10T11:56:39.441437+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-extends-recovery-as-markets-reassess-weak-nfp-data-200685487",
    "baslik": "Gold Extends Recovery as Markets Reassess Weak NFP Data",
    "kaynak": "Investing Emtia",
@@ -695,5 +801,5 @@
    "eklenme": "2026-08-10T09:01:09.940268+03:00"
   }
  ],
- "guncelleme": "2026-08-10T11:31:09.192785+03:00"
+ "guncelleme": "2026-08-10T11:56:39.441437+03:00"
 }
