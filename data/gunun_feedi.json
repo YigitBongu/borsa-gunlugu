@@ -2,6 +2,32 @@
  "tarih": "2026-08-11",
  "kap": [
   {
+   "id": "kap-my-CWENE-202608111018",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:18",
+   "tarih_iso": "2026-08-11T10:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-11T11:01:08.096475+03:00"
+  },
+  {
+   "id": "kap-my-CCOLA-202608111018",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CCOLA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:18",
+   "tarih_iso": "2026-08-11T10:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-11T11:01:08.096475+03:00"
+  },
+  {
    "id": "kap-my-KCAER-202608110823",
    "baslik": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş.",
@@ -55,6 +81,30 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-sampiyonlar-liginde-tur-icin-sahada-sturm-graz-maci-saat-kacta-hangi-kanalda-haberi-835754",
+   "baslik": "Fenerbahçe Şampiyonlar Ligi'nde tur için sahada: Sturm Graz maçı saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-sampiyonlar-liginde-tur-icin-sahada-sturm-graz-maci-saat-kacta-hangi-kanalda-haberi-835754",
+   "saat": "10:41",
+   "tarih_iso": "2026-08-11T10:41:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-11T11:01:08.096475+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ahmet-kursad-ertin-is-modelimizin-dayanikliligini-bir-kez-daha-ortaya-koyduk-3904773-ekonomi",
+   "baslik": "“İş modelimizin dayanıklılığını bir kez daha ortaya koyduk”",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ahmet-kursad-ertin-is-modelimizin-dayanikliligini-bir-kez-daha-ortaya-koyduk-3904773-ekonomi",
+   "saat": "10:29",
+   "tarih_iso": "2026-08-11T10:29:47+03:00",
+   "kodlar": [
+    "CCOLA"
+   ],
+   "eklenme": "2026-08-11T11:01:08.096475+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/gundem/fenerbahce-otobusune-saldiri-sorusturmasi-5-supheli-gozaltina-alindi-haberi-835745",
    "baslik": "Fenerbahçe otobüsüne saldırı soruşturması: 5 şüpheli gözaltına alındı",
@@ -123,6 +173,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tkh-stock-surging-today-93CH-4850888",
+   "baslik": "Why is TKH stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tkh-stock-surging-today-93CH-4850888",
+   "saat": "10:49",
+   "tarih_iso": "2026-08-11T10:49:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T11:01:08.096475+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-salzgitter-stock-sliding-today-93CH-4850885",
+   "baslik": "Why is Salzgitter stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-salzgitter-stock-sliding-today-93CH-4850885",
+   "saat": "10:47",
+   "tarih_iso": "2026-08-11T10:47:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T11:01:08.096475+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-intercontinental-hotels-stock-falling-today-93CH-4850883",
+   "baslik": "Why is InterContinental Hotels stock falling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-intercontinental-hotels-stock-falling-today-93CH-4850883",
+   "saat": "10:47",
+   "tarih_iso": "2026-08-11T10:47:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T11:01:08.096475+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-bessent-bond-market-scorecard-doesnt-look-as-strong-as-it-once-did-afe2f93e?mod=mw_rss_topstories",
+   "baslik": "The Bessent bond-market scorecard doesn’t look as strong as it once did",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-bessent-bond-market-scorecard-doesnt-look-as-strong-as-it-once-did-afe2f93e?mod=mw_rss_topstories",
+   "saat": "10:35",
+   "tarih_iso": "2026-08-11T10:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T11:01:08.096475+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lion-finance-stock-rallying-today-93CH-4850865",
+   "baslik": "Why is Lion Finance stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lion-finance-stock-rallying-today-93CH-4850865",
+   "saat": "10:33",
+   "tarih_iso": "2026-08-11T10:33:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T11:01:08.096475+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alcon-stock-surging-today-93CH-4850864",
+   "baslik": "Why is Alcon stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-alcon-stock-surging-today-93CH-4850864",
+   "saat": "10:33",
+   "tarih_iso": "2026-08-11T10:33:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T11:01:08.096475+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-drift-as-hormuz-impasse-and-energy-spike-test-ai-rally-4850799",
    "baslik": "European stocks drift as Hormuz impasse and energy spike test AI rally",
@@ -636,5 +746,5 @@
    "eklenme": "2026-08-11T09:01:16.668228+03:00"
   }
  ],
- "guncelleme": "2026-08-11T10:31:01.885525+03:00"
+ "guncelleme": "2026-08-11T11:01:08.096475+03:00"
 }
