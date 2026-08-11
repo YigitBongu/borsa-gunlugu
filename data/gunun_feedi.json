@@ -610,6 +610,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
+   "baslik": "Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
+   "saat": "08:01",
+   "tarih_iso": "2026-08-11T08:01:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T08:31:07.469211+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-china-spacesat-stock-sliding-today-93CH-4850761",
    "baslik": "Why is China Spacesat stock sliding today?",
    "kaynak": "Investing.com",
@@ -1798,16 +1808,6 @@
    "tarih_iso": "2026-08-10T19:39:44+03:00",
    "kodlar": [],
    "eklenme": "2026-08-10T20:15:17.182057+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/one-group-restaurant-stock-rising-163726049.html",
-   "baslik": "The ONE Group: A Restaurant Stock With Rising Traffic, Expanding Margins – Quarterly Update Report",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/one-group-restaurant-stock-rising-163726049.html",
-   "saat": "19:37",
-   "tarih_iso": "2026-08-10T19:37:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-10T20:01:07.891976+03:00"
   }
  ],
  "altin_haber": [
@@ -1820,6 +1820,16 @@
    "tarih_iso": "2026-08-11T10:47:51+03:00",
    "kodlar": [],
    "eklenme": "2026-08-11T08:01:07.429651+03:00"
+  },
+  {
+   "id": "alt-https://www.haberturk.com/yatirimcilar-dikkat-altin-iki-ayin-zirvesinde-gram-altin-6-bin-700-tl-yi-gecti-iste-11-agustos-2026--3904737-ekonomi",
+   "baslik": "Altın iki ayın zirvesinde",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/yatirimcilar-dikkat-altin-iki-ayin-zirvesinde-gram-altin-6-bin-700-tl-yi-gecti-iste-11-agustos-2026--3904737-ekonomi",
+   "saat": "07:48",
+   "tarih_iso": "2026-08-11T07:48:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T08:31:07.469211+03:00"
   },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-iki-ayin-zirvesinde-simdi-iki-kritik-sinav-var-galeri-835718",
@@ -2192,5 +2202,5 @@
    "eklenme": "2026-08-10T09:01:09.940268+03:00"
   }
  ],
- "guncelleme": "2026-08-11T08:01:07.429651+03:00"
+ "guncelleme": "2026-08-11T08:31:07.469211+03:00"
 }
