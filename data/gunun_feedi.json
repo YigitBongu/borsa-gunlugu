@@ -2,6 +2,19 @@
  "tarih": "2026-08-11",
  "kap": [
   {
+   "id": "kap-my-BRSAN-202608111109",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BRSAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:09",
+   "tarih_iso": "2026-08-11T11:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
+  {
    "id": "kap-my-CWENE-202608111018",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -173,6 +186,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-pne-wind-stock-collapsing-today-93CH-4850936",
+   "baslik": "Why is PNE Wind stock collapsing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-pne-wind-stock-collapsing-today-93CH-4850936",
+   "saat": "11:42",
+   "tarih_iso": "2026-08-11T11:42:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/intel-now-says-it-is-selling-20-billion-of-stock-166e2dfe?mod=mw_rss_topstories",
+   "baslik": "Intel now says it is selling $20 billion of stock",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/intel-now-says-it-is-selling-20-billion-of-stock-166e2dfe?mod=mw_rss_topstories",
+   "saat": "11:42",
+   "tarih_iso": "2026-08-11T11:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/bears-are-in-pain-as-the-s-p-500-hits-record-highs-that-may-mean-more-upside-for-stocks-db7b659b?mod=mw_rss_topstories",
+   "baslik": "Bears are in pain as the S&P 500 hits record highs. That may mean more upside for stocks.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/bears-are-in-pain-as-the-s-p-500-hits-record-highs-that-may-mean-more-upside-for-stocks-db7b659b?mod=mw_rss_topstories",
+   "saat": "11:40",
+   "tarih_iso": "2026-08-11T11:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html",
+   "baslik": "Treasury yields up as oil prices jump and investors await inflation data",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/11/treasury-yields-up-as-oil-prices-jump-investors-await-inflation-data-.html",
+   "saat": "11:39",
+   "tarih_iso": "2026-08-11T11:39:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-191-4850928",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 1.91%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-191-4850928",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-11T11:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-everpure-stock-gaining-today-93CH-4850927",
+   "baslik": "Why is Everpure stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-everpure-stock-gaining-today-93CH-4850927",
+   "saat": "11:28",
+   "tarih_iso": "2026-08-11T11:28:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ast-spacemobile-stock-down-today-93CH-4850925",
+   "baslik": "Why is AST SpaceMobile stock down today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ast-spacemobile-stock-down-today-93CH-4850925",
+   "saat": "11:26",
+   "tarih_iso": "2026-08-11T11:26:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/home-depot-vs-lowes-valuation-dividends-and-which-stock-offers-more-upside-93CH-4850924",
+   "baslik": "Home Depot vs. Lowe’s: valuation, dividends, and which stock offers more upside",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/home-depot-vs-lowes-valuation-dividends-and-which-stock-offers-more-upside-93CH-4850924",
+   "saat": "11:26",
+   "tarih_iso": "2026-08-11T11:26:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-rtl-stock-rallying-today-93CH-4850919",
+   "baslik": "Why is RTL stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-rtl-stock-rallying-today-93CH-4850919",
+   "saat": "11:19",
+   "tarih_iso": "2026-08-11T11:19:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/plug-power-beats-revenue-estimates-raises-guidance-4850131",
+   "baslik": "Plug Power lifts guidance after topping Q2 revenue forecasts; shares jump",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/plug-power-beats-revenue-estimates-raises-guidance-4850131",
+   "saat": "11:16",
+   "tarih_iso": "2026-08-11T11:16:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-babcock--wilcox-stock-surging-today-93CH-4850911",
    "baslik": "Why is Babcock & Wilcox stock surging today?",
@@ -666,6 +779,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-and-silver-at-extreme-highs-profit-booking-or-fresh-rally-200685570",
+   "baslik": "Gold and Silver at Extreme Highs: Profit Booking or Fresh Rally?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-and-silver-at-extreme-highs-profit-booking-or-fresh-rally-200685570",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/anlik-altin-fiyatlari-11-agustos-ceyrek-altin-gram-altin-yarim-cumhuriyet-altini-ne-kadar-kac-tl-kapalicarsi-canli-altin-fiyatlari-3452784",
    "baslik": "ANLIK ALTIN FİYATLARI 11 AĞUSTOS | Çeyrek altın, gram altın, yarım, cumhuriyet altını ne kadar, kaç TL? Kapalıçarşı canlı altın fiyatları",
    "kaynak": "CNN Türk Ekonomi",
@@ -684,6 +807,16 @@
    "tarih_iso": "",
    "kodlar": [],
    "eklenme": "2026-08-11T11:30:58.880990+03:00"
+  },
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/turk-altn-isletmeleri-hissesi-bugun-neden-dusuyor-93CH-4023910",
+   "baslik": "Türk Altın İşletmeleri hissesi bugün neden düşüyor?",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/turk-altn-isletmeleri-hissesi-bugun-neden-dusuyor-93CH-4023910",
+   "saat": "11:15",
+   "tarih_iso": "2026-08-11T11:15:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T12:01:10.063972+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-seems-to-be-asking-a-different-question-at-least-for-now-200685568",
@@ -816,5 +949,5 @@
    "eklenme": "2026-08-11T09:01:16.668228+03:00"
   }
  ],
- "guncelleme": "2026-08-11T11:30:58.880990+03:00"
+ "guncelleme": "2026-08-11T12:01:10.063972+03:00"
 }
