@@ -54,7 +54,20 @@
    "eklenme": "2026-08-11T09:01:16.668228+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/fenerbahce-otobusune-saldiri-sorusturmasi-5-supheli-gozaltina-alindi-haberi-835745",
+   "baslik": "Fenerbahçe otobüsüne saldırı soruşturması: 5 şüpheli gözaltına alındı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/fenerbahce-otobusune-saldiri-sorusturmasi-5-supheli-gozaltina-alindi-haberi-835745",
+   "saat": "09:48",
+   "tarih_iso": "2026-08-11T09:48:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-11T09:58:21.825124+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.dunya.com/finans/haberler/bitcoinin-65-bin-dolar-atagi-kisa-surdu-kazanclar-silindi-haberi-835728",
@@ -88,6 +101,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sts-group-reports-93-revenue-growth-in-first-half-of-2026-93CH-4850813",
+   "baslik": "STS Group reports 9.3% revenue growth in first half of 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sts-group-reports-93-revenue-growth-in-first-half-of-2026-93CH-4850813",
+   "saat": "09:34",
+   "tarih_iso": "2026-08-11T09:34:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T09:58:21.825124+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dermapharm-reports-29-revenue-growth-in-first-half-of-2026-93CH-4850812",
+   "baslik": "Dermapharm reports 2.9% revenue growth in first half of 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dermapharm-reports-29-revenue-growth-in-first-half-of-2026-93CH-4850812",
+   "saat": "09:33",
+   "tarih_iso": "2026-08-11T09:33:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T09:58:21.825124+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-019-4850807",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.19%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-019-4850807",
+   "saat": "09:30",
+   "tarih_iso": "2026-08-11T09:30:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T09:58:21.825124+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rtl-group-raises-2026-revenue-outlook-after-sky-deutschland-deal-93CH-4850805",
+   "baslik": "RTL Group raises 2026 revenue outlook after Sky Deutschland deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rtl-group-raises-2026-revenue-outlook-after-sky-deutschland-deal-93CH-4850805",
+   "saat": "09:29",
+   "tarih_iso": "2026-08-11T09:29:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T09:58:21.825124+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cancom-reports-34-ebitda-growth-in-first-half-of-2026-93CH-4850802",
+   "baslik": "Cancom reports 34% EBITDA growth in first half of 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cancom-reports-34-ebitda-growth-in-first-half-of-2026-93CH-4850802",
+   "saat": "09:23",
+   "tarih_iso": "2026-08-11T09:23:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-11T09:58:21.825124+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
    "baslik": "‘The market is obviously on fire’: Is it a mistake to take $1,000 from my brokerage account to pay my car loan?",
@@ -471,5 +534,5 @@
    "eklenme": "2026-08-11T09:01:16.668228+03:00"
   }
  ],
- "guncelleme": "2026-08-11T09:33:31.172439+03:00"
+ "guncelleme": "2026-08-11T09:58:21.825124+03:00"
 }
