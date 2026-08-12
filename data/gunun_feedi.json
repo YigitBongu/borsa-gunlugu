@@ -2,6 +2,58 @@
  "tarih": "2026-08-12",
  "kap": [
   {
+   "id": "kap-my-SAHOL-202608121930",
+   "baslik": "HACI ÖMER SABANCI HOLDİNG A.Ş. — TSRS Uyumlu Sürdürülebilirlik Raporu",
+   "sirket": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:30",
+   "tarih_iso": "2026-08-12T19:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "kap-my-SAHOL-202608121853",
+   "baslik": "HACI ÖMER SABANCI HOLDİNG A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
+   "sirket": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:53",
+   "tarih_iso": "2026-08-12T18:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "kap-my-ASTOR-202608121851",
+   "baslik": "ASTOR ENERJİ A.Ş. — Finansal Duran Varlık Satışı",
+   "sirket": "ASTOR ENERJİ A.Ş.",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:51",
+   "tarih_iso": "2026-08-12T18:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "kap-my-SASA-202608121844",
+   "baslik": "SASA POLYESTER SANAYİ A.Ş. — Pay Alım Satım Bildirimi",
+   "sirket": "SASA POLYESTER SANAYİ A.Ş.",
+   "kodlar": [
+    "SASA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:44",
+   "tarih_iso": "2026-08-12T18:44:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
    "id": "kap-my-PGSUS-202608121833",
    "baslik": "PEGASUS HAVA TAŞIMACILIĞI A.Ş. — Finansal Rapor",
    "sirket": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
@@ -133,6 +185,54 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/sektorler/kobi/kobilere-finansal-saglik-raporu-verecek-haberi-835951",
+   "baslik": "KOBİ'lere 'Finansal Sağlık Raporu' verecek",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sektorler/kobi/kobilere-finansal-saglik-raporu-verecek-haberi-835951",
+   "saat": "00:00",
+   "tarih_iso": "2026-08-13T00:00:00+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sehirler/konyaray-sehrin-yukunu-azaltma-hedefine-odakl-haberi-835966",
+   "baslik": "Konyaray, şehrin yükünü azaltma hedefine odakl",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sehirler/konyaray-sehrin-yukunu-azaltma-hedefine-odakl-haberi-835966",
+   "saat": "00:00",
+   "tarih_iso": "2026-08-13T00:00:00+03:00",
+   "kodlar": [
+    "KONYA"
+   ],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekomdan-dev-gayrimenkul-hamlesi-haberi-835976",
+   "baslik": "Türk Telekom'dan dev gayrimenkul hamlesi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekomdan-dev-gayrimenkul-hamlesi-haberi-835976",
+   "saat": "22:32",
+   "tarih_iso": "2026-08-12T22:32:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/belcikali-santrfor-romelu-lukaku-fenerbahcede-haberi-835961",
+   "baslik": "Belçikalı santrfor Romelu Lukaku Fenerbahçe'de",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/belcikali-santrfor-romelu-lukaku-fenerbahcede-haberi-835961",
+   "saat": "18:54",
+   "tarih_iso": "2026-08-12T18:54:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/migrostan-konsolide-satislarla-ilgili-duyuru-3453501",
    "baslik": "Migros'tan konsolide satışlarla ilgili duyuru",
@@ -303,6 +403,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/dunya/abdnin-butce-acigi-temmuzda-432-milyar-dolara-cikti-haberi-835974",
+   "baslik": "ABD’nin bütçe açığı temmuzda 432 milyar dolara çıktı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/abdnin-butce-acigi-temmuzda-432-milyar-dolara-cikti-haberi-835974",
+   "saat": "21:55",
+   "tarih_iso": "2026-08-12T21:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/abdde-enflasyon-temmuzda-yavasladi-yillik-enflasyon-yuzde-3-4-oldu-3453517",
    "baslik": "ABD'de enflasyon temmuzda yavaşladı: Yıllık enflasyon yüzde 3,4 oldu",
@@ -565,6 +675,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
+   "baslik": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
+   "saat": "23:59",
+   "tarih_iso": "2026-08-12T23:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/investors-are-chasing-the-latest-rally-in-gold-as-the-yellow-metal-hits-strongest-level-in-2-months-dd0d5b18?mod=mw_rss_topstories",
+   "baslik": "Investors are chasing the latest rally in gold as the yellow metal hits strongest level in 2 months",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/investors-are-chasing-the-latest-rally-in-gold-as-the-yellow-metal-hits-strongest-level-in-2-months-dd0d5b18?mod=mw_rss_topstories",
+   "saat": "23:58",
+   "tarih_iso": "2026-08-12T23:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
+   "baslik": "Cisco's stock drops despite earnings, revenue beat",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
+   "saat": "23:51",
+   "tarih_iso": "2026-08-12T23:51:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-tumbling-today-93CH-4856122",
+   "baslik": "Why is Cerebras Systems stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-tumbling-today-93CH-4856122",
+   "saat": "23:43",
+   "tarih_iso": "2026-08-12T23:43:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/american-airlines-shakes-up-leadership-as-ceo-faces-pressure-to-close-profit-gap-4856121",
+   "baslik": "American Airlines shakes up leadership as CEO faces pressure to close profit gap",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/american-airlines-shakes-up-leadership-as-ceo-faces-pressure-to-close-profit-gap-4856121",
+   "saat": "23:42",
+   "tarih_iso": "2026-08-12T23:42:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jfrog-leads-security-software-stocks-says-cantor-93CH-4856101",
+   "baslik": "JFrog Leads Security Software Stocks, Says Cantor",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jfrog-leads-security-software-stocks-says-cantor-93CH-4856101",
+   "saat": "23:35",
+   "tarih_iso": "2026-08-12T23:35:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/should-you-buy-target-stock-at-52week-highs-before-earnings-93CH-4856087",
+   "baslik": "Should you buy Target stock at 52-week highs before earnings?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/should-you-buy-target-stock-at-52week-highs-before-earnings-93CH-4856087",
+   "saat": "23:33",
+   "tarih_iso": "2026-08-12T23:33:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cisco-systems-stock-sliding-today-93CH-4856084",
+   "baslik": "Why is Cisco Systems stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cisco-systems-stock-sliding-today-93CH-4856084",
+   "saat": "23:32",
+   "tarih_iso": "2026-08-12T23:32:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-004-4856072",
+   "baslik": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average down 0.04%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-004-4856072",
+   "saat": "23:31",
+   "tarih_iso": "2026-08-12T23:31:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-051-4856070",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.51%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-051-4856070",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-12T23:30:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/12/cerebras-cbrs-q2-earnings-report-2026.html",
    "baslik": "Cerebras stock plunges 14% after second earnings report following IPO",
@@ -1664,106 +1874,6 @@
    "tarih_iso": "2026-08-12T18:28:26+03:00",
    "kodlar": [],
    "eklenme": "2026-08-12T18:55:13.648368+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/1stdibs-dibs-q2-2026-earnings-152615983.html",
-   "baslik": "1stdibs (DIBS) Q2 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1stdibs-dibs-q2-2026-earnings-152615983.html",
-   "saat": "18:26",
-   "tarih_iso": "2026-08-12T18:26:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T18:55:13.648368+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
-   "baslik": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
-   "saat": "18:25",
-   "tarih_iso": "2026-08-12T18:25:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T18:31:01.691562+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
-   "baslik": "AI’s costly build-out complicates the Fed’s inflation fight",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
-   "saat": "18:23",
-   "tarih_iso": "2026-08-12T18:23:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T19:30:58.105088+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/bp-p-l-c-bp-151547864.html",
-   "baslik": "BP p.l.c. (BP) vs. Shell plc (SHEL): Two Oil Majors Cash In on the Iran War, But Tell Different Stories",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/bp-p-l-c-bp-151547864.html",
-   "saat": "18:15",
-   "tarih_iso": "2026-08-12T18:15:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T18:55:13.648368+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/lennar-stock-outlook-bearish-options-surge-as-shares-near-52week-low-93CH-4855552",
-   "baslik": "Lennar stock outlook: bearish options surge as shares near 52-week low",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/lennar-stock-outlook-bearish-options-surge-as-shares-near-52week-low-93CH-4855552",
-   "saat": "18:14",
-   "tarih_iso": "2026-08-12T18:14:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T18:31:01.691562+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/londian-wason-new-energy-tech-opens-at-26-above-ipo-price-of-22-432SI-4855533",
-   "baslik": "Londian Wason New Energy Tech opens at $26, above IPO price of $22",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/londian-wason-new-energy-tech-opens-at-26-above-ipo-price-of-22-432SI-4855533",
-   "saat": "18:14",
-   "tarih_iso": "2026-08-12T18:14:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T18:31:01.691562+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/apple-showing-signs-cratering-month-150738262.html",
-   "baslik": "Apple Is Showing Signs Of Cratering This Month: Is One Wall Street Pro’s Expectation of 33% Gains Persuasive?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-showing-signs-cratering-month-150738262.html",
-   "saat": "18:07",
-   "tarih_iso": "2026-08-12T18:07:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T18:31:01.691562+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/cerebras-systems-cbrs-uniquely-positioned-150720824.html",
-   "baslik": "Cerebras Systems (CBRS) Is Uniquely Positioned to Own the Fast Inference Market",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-cbrs-uniquely-positioned-150720824.html",
-   "saat": "18:07",
-   "tarih_iso": "2026-08-12T18:07:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T18:31:01.691562+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/archrock-aroc-q2-2026-earnings-150522742.html",
-   "baslik": "Archrock (AROC) Q2 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/archrock-aroc-q2-2026-earnings-150522742.html",
-   "saat": "18:05",
-   "tarih_iso": "2026-08-12T18:05:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T18:31:01.691562+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
-   "baslik": "An active fund holding a whopping 800 stocks is beating major indexes. Here’s how.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes-heres-how-6bf73062?mod=mw_rss_topstories",
-   "saat": "18:05",
-   "tarih_iso": "2026-08-12T18:05:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T18:31:01.691562+03:00"
   }
  ],
  "altin_haber": [
@@ -1776,6 +1886,16 @@
    "tarih_iso": "2026-08-13T02:27:40+03:00",
    "kodlar": [],
    "eklenme": "2026-08-12T23:31:01.219454+03:00"
+  },
+  {
+   "id": "alt-https://www.marketwatch.com/story/investors-are-chasing-the-latest-rally-in-gold-as-the-yellow-metal-hits-strongest-level-in-2-months-dd0d5b18?mod=mw_rss_topstories",
+   "baslik": "Investors are chasing the latest rally in gold as the yellow metal hits strongest level in 2 months",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/investors-are-chasing-the-latest-rally-in-gold-as-the-yellow-metal-hits-strongest-level-in-2-months-dd0d5b18?mod=mw_rss_topstories",
+   "saat": "23:58",
+   "tarih_iso": "2026-08-12T23:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T00:01:06.969061+03:00"
   },
   {
    "id": "alt-https://www.cnbc.com/2026/08/12/gold-prices-metals-fed-rate-hike-inflation.html",
@@ -2028,5 +2148,5 @@
    "eklenme": "2026-08-12T09:01:11.380289+03:00"
   }
  ],
- "guncelleme": "2026-08-12T23:31:01.219454+03:00"
+ "guncelleme": "2026-08-13T00:01:06.969061+03:00"
 }
