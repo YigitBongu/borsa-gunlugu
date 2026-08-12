@@ -2,6 +2,32 @@
  "tarih": "2026-08-12",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202608121112",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Finansal Rapor Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:12",
+   "tarih_iso": "2026-08-12T11:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-12T11:45:28.346128+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202608121111",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Finansal Rapor Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:11",
+   "tarih_iso": "2026-08-12T11:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-12T11:45:28.346128+03:00"
+  },
+  {
    "id": "kap-my-AGHOL-202608121000",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -29,6 +55,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/anadolu-efes-hissesi-bugun-neden-dusuyor-93CH-4026119",
+   "baslik": "Anadolu Efes hissesi bugün neden düşüyor?",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/anadolu-efes-hissesi-bugun-neden-dusuyor-93CH-4026119",
+   "saat": "11:43",
+   "tarih_iso": "2026-08-12T11:43:50+03:00",
+   "kodlar": [
+    "AEFES"
+   ],
+   "eklenme": "2026-08-12T11:45:28.346128+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/dort-buyukte-borc-alarmi-fatura-kabardi-haberi-835889",
    "baslik": "Dört büyükte borç alarmı: Fatura kabardı",
@@ -115,6 +153,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/turkiyenin-kiraz-ihracatinda-buyuk-sicrama-235-milyon-dolar-gelir-3453377",
+   "baslik": "Türkiye'nin kiraz ihracatında büyük sıçrama: 235 milyon dolar gelir",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/turkiyenin-kiraz-ihracatinda-buyuk-sicrama-235-milyon-dolar-gelir-3453377",
+   "saat": "14:35",
+   "tarih_iso": "2026-08-12T14:35:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T11:45:28.346128+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/rusyanin-butce-aciginda-dikkat-ceken-artis-7-ayda-6-5-trilyon-ruble-3453308",
    "baslik": "Rusya'nın bütçe açığında dikkat çeken artış! 7 ayda 6,5 trilyon ruble",
@@ -237,6 +285,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/12/treasury-yields-inflation-cpi-data.html",
+   "baslik": "Treasury yields are little changed as investors await key inflation data",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/12/treasury-yields-inflation-cpi-data.html",
+   "saat": "11:31",
+   "tarih_iso": "2026-08-12T11:31:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T11:45:28.346128+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bilfinger-stock-plunging-today-93CH-4853915",
    "baslik": "Why is Bilfinger stock plunging today?",
@@ -960,5 +1018,5 @@
    "eklenme": "2026-08-12T09:01:11.380289+03:00"
   }
  ],
- "guncelleme": "2026-08-12T11:31:00.279290+03:00"
+ "guncelleme": "2026-08-12T11:45:28.346128+03:00"
 }
