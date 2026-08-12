@@ -2,6 +2,19 @@
  "tarih": "2026-08-12",
  "kap": [
   {
+   "id": "kap-my-AGHOL-202608121000",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "AGHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-12T10:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-12T10:31:05.584711+03:00"
+  },
+  {
    "id": "kap-my-GLYHO-202608120945",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -16,6 +29,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/migros-grubu-icra-baskani-ozgur-tort-yaptigi-degerlendirmede-hem-fiziki-magazalarimizda-hem-de-online-kanallarimizda-buyume-stratejimizi-kararlilikla-surduruyoruz-3905015-ekonomi",
+   "baslik": "\"Hem fiziki mağazalarımızda hem de online kanallarımızda büyüme stratejimizi kararlılıkla sürdürüyoruz\"",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/migros-grubu-icra-baskani-ozgur-tort-yaptigi-degerlendirmede-hem-fiziki-magazalarimizda-hem-de-online-kanallarimizda-buyume-stratejimizi-kararlilikla-surduruyoruz-3905015-ekonomi",
+   "saat": "10:12",
+   "tarih_iso": "2026-08-12T10:12:49+03:00",
+   "kodlar": [
+    "MGROS"
+   ],
+   "eklenme": "2026-08-12T10:31:05.584711+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/astor-group-satn-almalarla-2-ceyrekte-yuzde-89-gelir-arts-bildirdi-93CH-4025841",
    "baslik": "Astor Group, satın almalarla 2. çeyrekte yüzde 89 gelir artışı bildirdi",
@@ -727,5 +752,5 @@
    "eklenme": "2026-08-12T09:01:11.380289+03:00"
   }
  ],
- "guncelleme": "2026-08-12T10:17:09.834157+03:00"
+ "guncelleme": "2026-08-12T10:31:05.584711+03:00"
 }
