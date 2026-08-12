@@ -2,6 +2,34 @@
  "tarih": "2026-08-12",
  "kap": [
   {
+   "id": "kap-my-PGSUS-202608121833",
+   "baslik": "PEGASUS HAVA TAŞIMACILIĞI A.Ş. — Finansal Rapor",
+   "sirket": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+   "kodlar": [
+    "PGSUS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:33",
+   "tarih_iso": "2026-08-12T18:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-12T18:55:13.648368+03:00",
+   "saat_g": "18:33"
+  },
+  {
+   "id": "kap-my-AHGAZ-202608121830",
+   "baslik": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:30",
+   "tarih_iso": "2026-08-12T18:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-12T18:55:13.648368+03:00",
+   "saat_g": "18:30"
+  },
+  {
    "id": "kap-my-ISMEN-202608121704",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -588,6 +616,94 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
+   "baslik": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
+   "saat": "18:37",
+   "tarih_iso": "2026-08-12T18:37:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T18:55:13.648368+03:00",
+   "saat_g": "18:37"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/advantage-solutions-adv-q2-2026-153411418.html",
+   "baslik": "Advantage Solutions (ADV) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/advantage-solutions-adv-q2-2026-153411418.html",
+   "saat": "18:34",
+   "tarih_iso": "2026-08-12T18:34:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T18:55:13.648368+03:00",
+   "saat_g": "18:34"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/lifecore-biomedical-lfcr-q2-2026-153130511.html",
+   "baslik": "Lifecore Biomedical (LFCR) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lifecore-biomedical-lfcr-q2-2026-153130511.html",
+   "saat": "18:31",
+   "tarih_iso": "2026-08-12T18:31:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T18:55:13.648368+03:00",
+   "saat_g": "18:31"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dine-brands-din-q2-2026-153130668.html",
+   "baslik": "Dine Brands (DIN) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dine-brands-din-q2-2026-153130668.html",
+   "saat": "18:31",
+   "tarih_iso": "2026-08-12T18:31:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T18:55:13.648368+03:00",
+   "saat_g": "18:31"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cs-disco-law-q2-2026-153129930.html",
+   "baslik": "CS Disco (LAW) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cs-disco-law-q2-2026-153129930.html",
+   "saat": "18:31",
+   "tarih_iso": "2026-08-12T18:31:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T18:55:13.648368+03:00",
+   "saat_g": "18:31"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wall-street-may-sleeping-ai-153048065.html",
+   "baslik": "Wall Street May Be Sleeping on This AI Growth Story, The Stock Has 97% Upside",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-may-sleeping-ai-153048065.html",
+   "saat": "18:30",
+   "tarih_iso": "2026-08-12T18:30:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T18:55:13.648368+03:00",
+   "saat_g": "18:30"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/orion-energy-systems-oesx-q1-152826601.html",
+   "baslik": "Orion Energy Systems (OESX) Q1 2027 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/orion-energy-systems-oesx-q1-152826601.html",
+   "saat": "18:28",
+   "tarih_iso": "2026-08-12T18:28:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T18:55:13.648368+03:00",
+   "saat_g": "18:28"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/1stdibs-dibs-q2-2026-earnings-152615983.html",
+   "baslik": "1stdibs (DIBS) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1stdibs-dibs-q2-2026-earnings-152615983.html",
+   "saat": "18:26",
+   "tarih_iso": "2026-08-12T18:26:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T18:55:13.648368+03:00",
+   "saat_g": "18:26"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/12/wendys-stock-jumps-on-nelson-peltz-takeover-bid-report.html",
    "baslik": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
    "kaynak": "CNBC",
@@ -597,6 +713,17 @@
    "kodlar": [],
    "eklenme": "2026-08-12T18:31:01.691562+03:00",
    "saat_g": "18:25"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/bp-p-l-c-bp-151547864.html",
+   "baslik": "BP p.l.c. (BP) vs. Shell plc (SHEL): Two Oil Majors Cash In on the Iran War, But Tell Different Stories",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/bp-p-l-c-bp-151547864.html",
+   "saat": "18:15",
+   "tarih_iso": "2026-08-12T18:15:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T18:55:13.648368+03:00",
+   "saat_g": "18:15"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/lennar-stock-outlook-bearish-options-surge-as-shares-near-52week-low-93CH-4855552",
@@ -1807,105 +1934,6 @@
    "kodlar": [],
    "eklenme": "2026-08-12T14:31:04.128209+03:00",
    "saat_g": "13:53"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-warren-105000661.html",
-   "baslik": "If a Stock Market Crash Is Coming, Warren Buffett Says Investors Should Make This 1 Move Right Now",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-warren-105000661.html",
-   "saat": "13:50",
-   "tarih_iso": "2026-08-12T13:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T14:02:14.337493+03:00",
-   "saat_g": "13:50"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/news/indias-july-retail-inflation-4-104308940.html",
-   "baslik": "India July inflation accelerates to 4.45%, unlikely to alter RBI rate outlook",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/indias-july-retail-inflation-4-104308940.html",
-   "saat": "13:47",
-   "tarih_iso": "2026-08-12T13:47:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T14:31:04.128209+03:00",
-   "saat_g": "13:47"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html",
-   "baslik": "Hormuz closure squeezes global economy as oil demand destruction intensifies, IEA says",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/12/iea-oil-demand-hormuz.html",
-   "saat": "13:47",
-   "tarih_iso": "2026-08-12T13:47:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T17:01:16.641339+03:00",
-   "saat_g": "13:47"
-  },
-  {
-   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-081226/card/u-s-inflation-data-could-have-limited-influence-on-fed-s-september-rate-decision-lWCUIi1z16ZvWFzpSxOw?siteid=yhoof2&yptr=yahoo",
-   "baslik": "U.S. Inflation Data Could Have Limited Influence on Fed's September Rate Decision",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081226/card/u-s-inflation-data-could-have-limited-influence-on-fed-s-september-rate-decision-lWCUIi1z16ZvWFzpSxOw?siteid=yhoof2&yptr=yahoo",
-   "saat": "13:46",
-   "tarih_iso": "2026-08-12T13:46:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T14:02:14.337493+03:00",
-   "saat_g": "13:46"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/aicpa-seeks-clearer-camt-rules-104547485.html",
-   "baslik": "AICPA seeks clearer CAMT rules from Treasury and IRS",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/aicpa-seeks-clearer-camt-rules-104547485.html",
-   "saat": "13:45",
-   "tarih_iso": "2026-08-12T13:45:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T14:02:14.337493+03:00",
-   "saat_g": "13:45"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/morning-bid-inflation-obscures-104502792.html",
-   "baslik": "Morning Bid: Inflation obscures all",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-inflation-obscures-104502792.html",
-   "saat": "13:45",
-   "tarih_iso": "2026-08-12T13:45:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T14:02:14.337493+03:00",
-   "saat_g": "13:45"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/does-big-shorts-michael-burry-104500954.html",
-   "baslik": "Does the Big Short's Michael Burry Know Something Wall Street Doesn't? The Famed Investor No Longer Views Berkshire Hathaway as 'an Attractive Investment'",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/does-big-shorts-michael-burry-104500954.html",
-   "saat": "13:45",
-   "tarih_iso": "2026-08-12T13:45:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T14:02:14.337493+03:00",
-   "saat_g": "13:45"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-annexon-stock-sliding-today-93CH-4854299",
-   "baslik": "Why is Annexon stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-annexon-stock-sliding-today-93CH-4854299",
-   "saat": "13:42",
-   "tarih_iso": "2026-08-12T13:42:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T14:02:14.337493+03:00",
-   "saat_g": "13:42"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-permafix-environmental-stock-slipping-today-93CH-4854295",
-   "baslik": "Why is Perma-Fix Environmental stock slipping today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-permafix-environmental-stock-slipping-today-93CH-4854295",
-   "saat": "13:40",
-   "tarih_iso": "2026-08-12T13:40:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T14:02:14.337493+03:00",
-   "saat_g": "13:40"
   }
  ],
  "altin_haber": [
@@ -2141,5 +2169,5 @@
    "saat_g": "dün 18:18"
   }
  ],
- "guncelleme": "2026-08-12T18:31:01.691562+03:00"
+ "guncelleme": "2026-08-12T18:55:13.648368+03:00"
 }
