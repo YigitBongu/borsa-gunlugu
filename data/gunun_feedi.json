@@ -1,6 +1,20 @@
 {
  "tarih": "2026-08-12",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-GLYHO-202608120945",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:45",
+   "tarih_iso": "2026-08-12T09:45:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-12T10:17:09.834157+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/astor-group-satn-almalarla-2-ceyrekte-yuzde-89-gelir-arts-bildirdi-93CH-4025841",
@@ -37,6 +51,16 @@
    "tarih_iso": "2026-08-12T12:53:36+03:00",
    "kodlar": [],
    "eklenme": "2026-08-12T09:57:47.546103+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-abdde-enflasyon-dustu-mu-haberi-835877",
+   "baslik": "ABD enflasyon rakamları ne zaman, saat kaçta açıklanacak? ABD'de enflasyon düştü mü?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-abdde-enflasyon-dustu-mu-haberi-835877",
+   "saat": "10:12",
+   "tarih_iso": "2026-08-12T10:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T10:17:09.834157+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/6-ayda-184-milyar-dolar-kazanarak-rekor-kirdi-haberi-835872",
@@ -130,6 +154,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-jenoptik-stock-surging-today-93CH-4853793",
+   "baslik": "Why is Jenoptik stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-jenoptik-stock-surging-today-93CH-4853793",
+   "saat": "10:12",
+   "tarih_iso": "2026-08-12T10:12:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T10:17:09.834157+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vestas-wind-stock-gaining-today-93CH-4853790",
+   "baslik": "Why is Vestas Wind stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-vestas-wind-stock-gaining-today-93CH-4853790",
+   "saat": "10:11",
+   "tarih_iso": "2026-08-12T10:11:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T10:17:09.834157+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-abn-amro-stock-surging-today-93CH-4853789",
+   "baslik": "Why is ABN AMRO stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-abn-amro-stock-surging-today-93CH-4853789",
+   "saat": "10:10",
+   "tarih_iso": "2026-08-12T10:10:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T10:17:09.834157+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
+   "baslik": "World's largest sovereign wealth fund posts record $184 billion profit as it reveals SpaceX stake for the first time",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/12/norway-sovereign-wealth-fund-spacex-nvidia-apple-nbim.html",
+   "saat": "10:01",
+   "tarih_iso": "2026-08-12T10:01:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T10:17:09.834157+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/norway-wealth-fund-holds-12-billion-stake-in-spacex-4852498",
+   "baslik": "Norway wealth fund posts record $184 billion profit in first half of 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/norway-wealth-fund-holds-12-billion-stake-in-spacex-4852498",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-12T10:00:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T10:17:09.834157+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-099-4853773",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.99%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-099-4853773",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-12T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T10:17:09.834157+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/evoke-reports-flat-h1-revenue-as-gaming-duties-weigh-on-profit-93CH-4853747",
    "baslik": "Evoke reports flat H1 revenue as gaming duties weigh on profit",
@@ -513,6 +597,36 @@
    "eklenme": "2026-08-12T09:01:11.380289+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-outlook-hinges-on-hormuz-tensions-and-us-inflation-data-200685670",
+   "baslik": "Gold Outlook Hinges on Hormuz Tensions and US Inflation Data",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-outlook-hinges-on-hormuz-tensions-and-us-inflation-data-200685670",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-12T10:17:09.834157+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-outlook-rally-to-face-reversal-test-ahead-of-cpi-200685661",
+   "baslik": "Gold Outlook: Rally to Face Reversal Test Ahead of CPI?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-outlook-rally-to-face-reversal-test-ahead-of-cpi-200685661",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-12T10:17:09.834157+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-holds-vc-pmi-support-as-logarithmic-cycle-targets-45244648-200685656",
+   "baslik": "Gold Holds VC PMI Support as Logarithmic Cycle Targets $4,524–$4,648",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-holds-vc-pmi-support-as-logarithmic-cycle-targets-45244648-200685656",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-12T10:17:09.834157+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-breaks-the-narrative-why-oil-war-and-debt-point-toward-5000-200685637",
    "baslik": "Gold Breaks the Narrative: Why Oil, War, and Debt Point Toward $5,000",
    "kaynak": "Investing Emtia",
@@ -613,5 +727,5 @@
    "eklenme": "2026-08-12T09:01:11.380289+03:00"
   }
  ],
- "guncelleme": "2026-08-12T10:01:08.720221+03:00"
+ "guncelleme": "2026-08-12T10:17:09.834157+03:00"
 }
