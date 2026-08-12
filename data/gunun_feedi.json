@@ -306,6 +306,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/wall-street-vadeli-islemleri-tufe-ve-hurmuz-riskleriyle-sakin-4025748",
+   "baslik": "Wall Street vadeli işlemleri TÜFE ve Hürmüz riskleriyle sakin",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/wall-street-vadeli-islemleri-tufe-ve-hurmuz-riskleriyle-sakin-4025748",
+   "saat": "04:19",
+   "tarih_iso": "2026-08-12T04:19:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T05:01:09.538647+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/hazine-abd-sirketleri-icin-sahiplik-raporlama-kuraln-kaldrd-4025090",
    "baslik": "Hazine ABD şirketleri için sahiplik raporlama kuralını kaldırdı",
    "kaynak": "Investing TR",
@@ -407,6 +417,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/trump-boarded-secret-turkey-flight-via-catering-truck-due-to-iran-threat-reports-say-4853579",
+   "baslik": "Trump boarded secret Turkey flight via catering truck due to Iran threat, reports say",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/trump-boarded-secret-turkey-flight-via-catering-truck-due-to-iran-threat-reports-say-4853579",
+   "saat": "04:37",
+   "tarih_iso": "2026-08-12T04:37:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T05:01:09.538647+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
    "baslik": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
@@ -1596,16 +1616,6 @@
    "tarih_iso": "2026-08-11T19:04:36+03:00",
    "kodlar": [],
    "eklenme": "2026-08-11T19:31:02.167436+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/highpeak-energy-q2-earnings-call-160435655.html",
-   "baslik": "HighPeak Energy Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/highpeak-energy-q2-earnings-call-160435655.html",
-   "saat": "19:04",
-   "tarih_iso": "2026-08-11T19:04:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-11T19:31:02.167436+03:00"
   }
  ],
  "altin_haber": [
@@ -1990,5 +2000,5 @@
    "eklenme": "2026-08-11T09:01:16.668228+03:00"
   }
  ],
- "guncelleme": "2026-08-12T04:31:11.089742+03:00"
+ "guncelleme": "2026-08-12T05:01:09.538647+03:00"
 }
