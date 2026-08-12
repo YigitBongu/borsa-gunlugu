@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/astor-group-satn-almalarla-2-ceyrekte-yuzde-89-gelir-arts-bildirdi-93CH-4025841",
+   "baslik": "Astor Group, satın almalarla 2. çeyrekte yüzde 89 gelir artışı bildirdi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/astor-group-satn-almalarla-2-ceyrekte-yuzde-89-gelir-arts-bildirdi-93CH-4025841",
+   "saat": "09:05",
+   "tarih_iso": "2026-08-12T09:05:20+03:00",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "eklenme": "2026-08-12T09:31:13.800289+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/cevre-etiketli-urunler-icin-is-birligi-3452994",
    "baslik": "‘Çevre etiketli’ ürünler için iş birliği",
    "kaynak": "CNN Türk Ekonomi",
@@ -16,6 +28,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.haberturk.com/joby-aviationdan-500-milyon-dolar-satin-alma-hava-taksi-vizyonu-savunma-teknolojileriyle-gucleniyor-3904988-teknoloji",
+   "baslik": "Joby Aviation’dan 500 milyon dolar satın alma",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/joby-aviationdan-500-milyon-dolar-satin-alma-hava-taksi-vizyonu-savunma-teknolojileriyle-gucleniyor-3904988-teknoloji",
+   "saat": "09:08",
+   "tarih_iso": "2026-08-12T09:08:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T09:31:13.800289+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-abdnin-enflasyon-verilerine-cevrildi/4024729",
    "baslik": "Küresel piyasalarda gözler ABD'nin enflasyon verilerine çevrildi",
@@ -78,6 +100,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/astor-group-reports-89-revenue-jump-in-q2-on-acquisitions-93CH-4853699",
+   "baslik": "Astor Group reports 89% revenue jump in Q2 on acquisitions",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/astor-group-reports-89-revenue-jump-in-q2-on-acquisitions-93CH-4853699",
+   "saat": "09:09",
+   "tarih_iso": "2026-08-12T09:09:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T09:31:13.800289+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chinese-aluminum-stocks-rise-as-norsk-hydro-cuts-brazil-output-4853698",
+   "baslik": "Chinese aluminum stocks rise as Norsk Hydro cuts Brazil output",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chinese-aluminum-stocks-rise-as-norsk-hydro-cuts-brazil-output-4853698",
+   "saat": "09:08",
+   "tarih_iso": "2026-08-12T09:08:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T09:31:13.800289+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4853691",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted unchanged",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4853691",
+   "saat": "09:00",
+   "tarih_iso": "2026-08-12T09:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T09:31:13.800289+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/delignit-reports-12-revenue-growth-in-first-half-of-2026-93CH-4853689",
+   "baslik": "Delignit reports 12% revenue growth in first half of 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/delignit-reports-12-revenue-growth-in-first-half-of-2026-93CH-4853689",
+   "saat": "08:58",
+   "tarih_iso": "2026-08-12T08:58:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T09:31:13.800289+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/gesco-reports-48-revenue-growth-in-first-half-of-2026-93CH-4853681",
    "baslik": "Gesco reports 4.8% revenue growth in first half of 2026",
@@ -451,5 +513,5 @@
    "eklenme": "2026-08-12T09:01:11.380289+03:00"
   }
  ],
- "guncelleme": "2026-08-12T09:01:11.380289+03:00"
+ "guncelleme": "2026-08-12T09:31:13.800289+03:00"
 }
