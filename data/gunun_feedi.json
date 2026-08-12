@@ -306,6 +306,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/fedden-piyasalari-gerecek-mesaj-eylulde-faiz-artisi-masada-haberi-835853",
+   "baslik": "Fed’den piyasaları gerecek mesaj: Eylülde faiz artışı masada",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fedden-piyasalari-gerecek-mesaj-eylulde-faiz-artisi-masada-haberi-835853",
+   "saat": "07:46",
+   "tarih_iso": "2026-08-12T07:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T08:01:06.760868+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-12-agustos-carsamba-doviz-kurlari-haberi-835847",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (12 Ağustos Çarşamba Döviz Kurları)",
    "kaynak": "Dünya",
@@ -314,6 +324,16 @@
    "tarih_iso": "2026-08-12T07:15:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-12T07:31:09.550225+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-borsalar-yukseldi-kospi-frlad-tufe-ve-hurmuz-riskleri-teknoloji-rallisini-snrlyor-4025794",
+   "baslik": "Asya borsaları yükseldi, KOSPI fırladı; TÜFE ve Hürmüz riskleri teknoloji rallisini sınırlıyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-borsalar-yukseldi-kospi-frlad-tufe-ve-hurmuz-riskleri-teknoloji-rallisini-snrlyor-4025794",
+   "saat": "07:13",
+   "tarih_iso": "2026-08-12T07:13:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T08:01:06.760868+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/wall-street-vadeli-islemleri-tufe-ve-hurmuz-riskleriyle-sakin-4025748",
@@ -427,6 +447,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tencent-music-entertainment-stock-tumbling-today-93CH-4853651",
+   "baslik": "Why is Tencent Music Entertainment stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tencent-music-entertainment-stock-tumbling-today-93CH-4853651",
+   "saat": "07:43",
+   "tarih_iso": "2026-08-12T07:43:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T08:01:06.760868+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sanrio-shares-plunge-as-quarterly-profit-underwhelms-4853648",
+   "baslik": "Sanrio shares plunge as quarterly profit underwhelms",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sanrio-shares-plunge-as-quarterly-profit-underwhelms-4853648",
+   "saat": "07:30",
+   "tarih_iso": "2026-08-12T07:30:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T08:01:06.760868+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/airline-exposure-to-oil-price-spikes-which-carriers-face-the-most-risk-93CH-4853647",
+   "baslik": "Airline exposure to oil price spikes: which carriers face the most risk?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/airline-exposure-to-oil-price-spikes-which-carriers-face-the-most-risk-93CH-4853647",
+   "saat": "07:28",
+   "tarih_iso": "2026-08-12T07:28:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T08:01:06.760868+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-surging-today-93CH-4853646",
+   "baslik": "Why is Samsung Electronics stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-surging-today-93CH-4853646",
+   "saat": "07:27",
+   "tarih_iso": "2026-08-12T07:27:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T08:01:06.760868+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4853645",
+   "baslik": "Why is SK Hynix stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4853645",
+   "saat": "07:27",
+   "tarih_iso": "2026-08-12T07:27:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T08:01:06.760868+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-kospi-surges-cpi-hormuz-risks-temper-tech-rally-4853641",
    "baslik": "Asian stocks rise as KOSPI surges; CPI, Hormuz risks temper tech rally",
@@ -1576,59 +1646,19 @@
    "tarih_iso": "2026-08-11T19:25:01+03:00",
    "kodlar": [],
    "eklenme": "2026-08-11T20:01:12.056428+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/blue-owl-finance-subsidiary-plans-500-million-bond-sale--bloomberg-93CH-4852316",
-   "baslik": "Blue Owl Finance subsidiary plans $500 million bond sale - Bloomberg",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/blue-owl-finance-subsidiary-plans-500-million-bond-sale--bloomberg-93CH-4852316",
-   "saat": "19:20",
-   "tarih_iso": "2026-08-11T19:20:50+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-11T20:01:12.056428+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ai-hyperscalers-upend-usual-earnings-stock-swing-pattern-4852314",
-   "baslik": "AI hyperscalers upend usual earnings stock swing pattern",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ai-hyperscalers-upend-usual-earnings-stock-swing-pattern-4852314",
-   "saat": "19:19",
-   "tarih_iso": "2026-08-11T19:19:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-11T20:01:12.056428+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
-   "baslik": "U.S. oil rises above $83 a barrel as Iran says Strait of Hormuz won't open until conditions are met",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/11/oil-prices-today-us-crude-84.html",
-   "saat": "19:18",
-   "tarih_iso": "2026-08-11T19:18:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-11T20:01:12.056428+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/onon-options-activity-surges-as-stock-drops-19-volatility-falls-93CH-4852310",
-   "baslik": "ONON options activity surges as stock drops 19%, volatility falls",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/onon-options-activity-surges-as-stock-drops-19-volatility-falls-93CH-4852310",
-   "saat": "19:16",
-   "tarih_iso": "2026-08-11T19:16:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-11T20:01:12.056428+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-drift-as-hormuz-impasse-and-energy-spike-test-ai-rally-4850799",
-   "baslik": "European stocks mixed as investors weigh Hormuz impasse",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-stocks-drift-as-hormuz-impasse-and-energy-spike-test-ai-rally-4850799",
-   "saat": "19:15",
-   "tarih_iso": "2026-08-11T19:15:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-11T20:01:12.056428+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.cnnturk.com/video/ekonomi/altinda-yeni-ralli-mi-basliyor-3453260",
+   "baslik": "Altında yeni ralli mi başlıyor?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/altinda-yeni-ralli-mi-basliyor-3453260",
+   "saat": "10:36",
+   "tarih_iso": "2026-08-12T10:36:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T08:01:06.760868+03:00"
+  },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altinda-butun-hesap-degisebilir-gozler-saat-1530a-cevrildi-galeri-835842",
    "baslik": "Altında bütün hesap değişebilir: Gözler saat 15.30’a çevrildi",
@@ -2020,5 +2050,5 @@
    "eklenme": "2026-08-11T09:01:16.668228+03:00"
   }
  ],
- "guncelleme": "2026-08-12T07:31:09.550225+03:00"
+ "guncelleme": "2026-08-12T08:01:06.760868+03:00"
 }
