@@ -2,6 +2,32 @@
  "tarih": "2026-08-12",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202608121704",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-12T17:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
+  },
+  {
+   "id": "kap-my-DOAS-202608121647",
+   "baslik": "BORSA İSTANBUL A.Ş. — Hak Kullanımı",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "DOAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:47",
+   "tarih_iso": "2026-08-12T16:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
+  },
+  {
    "id": "kap-my-CWENE-202608121255",
    "baslik": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş. — Yeni İş İlişkisi",
    "sirket": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.",
@@ -116,6 +142,18 @@
     "KONYA"
    ],
    "eklenme": "2026-08-12T16:31:07.250061+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-12-agustos-2026/4025325",
+   "baslik": "60 saniyede ekonomide bugün (12 Ağustos 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-12-agustos-2026/4025325",
+   "saat": "16:07",
+   "tarih_iso": "2026-08-12T16:07:57+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
   },
   {
    "id": "rss-https://www.haberturk.com/thy-tarihinin-en-uzun-aktarmasiz-ucusunu-gerceklestirdi-3905106-ekonomi",
@@ -248,6 +286,16 @@
    "tarih_iso": "2026-08-12T19:01:19+03:00",
    "kodlar": [],
    "eklenme": "2026-08-12T16:31:07.250061+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/new-york-borsasi-abdnin-enflasyon-verilerinin-ardindan-yukselisle-acildi-haberi-835943",
+   "baslik": "New York borsası ABD'nin enflasyon verilerinin ardından yükselişle açıldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/new-york-borsasi-abdnin-enflasyon-verilerinin-ardindan-yukselisle-acildi-haberi-835943",
+   "saat": "17:15",
+   "tarih_iso": "2026-08-12T17:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-ne-zaman-hangi-gun-aciklanacak-haberi-835940",
@@ -481,6 +529,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-0ee46339?mod=mw_rss_topstories",
+   "baslik": "Lumentum’s stock surges, giving a further boost to the optical-networking trade",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/lumentums-stock-surges-giving-a-further-boost-to-the-optical-networking-trade-0ee46339?mod=mw_rss_topstories",
+   "saat": "17:20",
+   "tarih_iso": "2026-08-12T17:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/coinbase-polymarket-kalshi-face-nyc-141747160.html",
+   "baslik": "Coinbase, Polymarket, Kalshi Face NYC Prediction Market Investigation",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/coinbase-polymarket-kalshi-face-nyc-141747160.html",
+   "saat": "17:17",
+   "tarih_iso": "2026-08-12T17:17:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/global-e-online-q2-earnings-140504960.html",
+   "baslik": "Global-e Online Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/global-e-online-q2-earnings-140504960.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-08-12T17:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/national-vision-q2-earnings-call-140504983.html",
+   "baslik": "National Vision Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/national-vision-q2-earnings-call-140504983.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-08-12T17:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/eastern-q2-earnings-call-highlights-140504705.html",
+   "baslik": "Eastern Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/eastern-q2-earnings-call-highlights-140504705.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-08-12T17:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/anterix-q1-earnings-call-highlights-140503538.html",
+   "baslik": "Anterix Q1 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/anterix-q1-earnings-call-highlights-140503538.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-08-12T17:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/aquestive-therapeutics-q2-earnings-call-140503279.html",
+   "baslik": "Aquestive Therapeutics Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/aquestive-therapeutics-q2-earnings-call-140503279.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-08-12T17:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/why-fast-food-chains-like-mcdonalds-and-starbucks-are-going-all-in-on-energy-drinks-140403330.html",
+   "baslik": "Why fast food chains like McDonald's and Starbucks are going all in on energy drinks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/why-fast-food-chains-like-mcdonalds-and-starbucks-are-going-all-in-on-energy-drinks-140403330.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-12T17:04:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/airbnb-vs-opendoor-technologies-stock-134551990.html",
    "baslik": "Airbnb vs. Opendoor Technologies: Which Stock Is a Better Buy in 2026?",
@@ -1600,86 +1728,6 @@
    "tarih_iso": "2026-08-12T12:23:08+03:00",
    "kodlar": [],
    "eklenme": "2026-08-12T12:31:07.622375+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-clariant-stock-rallying-today-93CH-4854046",
-   "baslik": "Why is Clariant stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-clariant-stock-rallying-today-93CH-4854046",
-   "saat": "12:22",
-   "tarih_iso": "2026-08-12T12:22:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T12:31:07.622375+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/should-you-buy-intel-stock-after-20-billion-equity-offering-bofa-answers-93CH-4854044",
-   "baslik": "Should you buy Intel stock after $20 billion equity offering? BofA answers",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/should-you-buy-intel-stock-after-20-billion-equity-offering-bofa-answers-93CH-4854044",
-   "saat": "12:21",
-   "tarih_iso": "2026-08-12T12:21:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T12:31:07.622375+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
-   "baslik": "Stock market today: Dow and S&P 500 futures muted ahead of CPI data, Nasdaq rises",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
-   "saat": "12:15",
-   "tarih_iso": "2026-08-12T12:15:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T13:31:00.726572+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
-   "baslik": "Chinese tech giant Tencent posts revenue beat on accelerating games sales, AI-driven ads",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/12/china-tencent-earnings-q2-2026-gaming-ai-advertising.html",
-   "saat": "12:15",
-   "tarih_iso": "2026-08-12T12:15:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T12:57:24.149884+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/berenberg-starts-raspberry-pi-coverage-on-growth-potential-margin-pressure-4854025",
-   "baslik": "Berenberg starts Raspberry Pi coverage on growth potential, margin pressure",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/berenberg-starts-raspberry-pi-coverage-on-growth-potential-margin-pressure-4854025",
-   "saat": "12:15",
-   "tarih_iso": "2026-08-12T12:15:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T12:31:07.622375+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-says-the-era-of-cheap-food-is-over-warrenai-picks-the-best-stocks-to-play-it-93CH-4854024",
-   "baslik": "UBS says the era of cheap food is over. WarrenAI picks the best stocks to play it",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ubs-says-the-era-of-cheap-food-is-over-warrenai-picks-the-best-stocks-to-play-it-93CH-4854024",
-   "saat": "12:15",
-   "tarih_iso": "2026-08-12T12:15:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T12:31:07.622375+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/acs-stock-rises-after-deutsche-bank-upgrade-to-buy-93CH-4854020",
-   "baslik": "ACS stock rises after Deutsche Bank upgrade to Buy",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/acs-stock-rises-after-deutsche-bank-upgrade-to-buy-93CH-4854020",
-   "saat": "12:13",
-   "tarih_iso": "2026-08-12T12:13:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T12:31:07.622375+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ocado-stock-rises-after-positive-comments-at-jpmorgan-93CH-4854005",
-   "baslik": "Ocado stock rises after positive comments at JPMorgan",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ocado-stock-rises-after-positive-comments-at-jpmorgan-93CH-4854005",
-   "saat": "12:07",
-   "tarih_iso": "2026-08-12T12:07:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T12:31:07.622375+03:00"
   }
  ],
  "altin_haber": [
@@ -1692,6 +1740,16 @@
    "tarih_iso": "2026-08-12T16:42:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-12T16:55:13.571009+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/salares-norte-lifts-gold-fields-as-other-mines-falter/",
+   "baslik": "Salares Norte lifts Gold Fields as other mines falter",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/salares-norte-lifts-gold-fields-as-other-mines-falter/",
+   "saat": "15:58",
+   "tarih_iso": "2026-08-12T15:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T17:31:05.617224+03:00"
   },
   {
    "id": "alt-https://www.dunya.com/finans/altin/abd-enflasyonu-altini-atesledi-ons-fiyatinda-ibre-yukari-yonlu-haberi-835936",
@@ -1884,5 +1942,5 @@
    "eklenme": "2026-08-12T09:01:11.380289+03:00"
   }
  ],
- "guncelleme": "2026-08-12T17:01:16.641339+03:00"
+ "guncelleme": "2026-08-12T17:31:05.617224+03:00"
 }
