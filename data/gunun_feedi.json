@@ -404,6 +404,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/nextera-energy-gaz-santralleri-icin-33-milyar-dolar-ald-93CH-4027786",
+   "baslik": "NextEra Energy gaz santralleri için 3,3 milyar dolar aldı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/nextera-energy-gaz-santralleri-icin-33-milyar-dolar-ald-93CH-4027786",
+   "saat": "00:07",
+   "tarih_iso": "2026-08-13T00:07:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T01:01:23.625513+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/dunya/abdnin-butce-acigi-temmuzda-432-milyar-dolara-cikti-haberi-835974",
    "baslik": "ABD’nin bütçe açığı temmuzda 432 milyar dolara çıktı",
    "kaynak": "Dünya",
@@ -676,6 +686,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cerebras-raises-annual-targets-on-strong-ai-chip-demand-4855988",
+   "baslik": "Cerebras shares plummet 16% after results fail to impress investors",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cerebras-raises-annual-targets-on-strong-ai-chip-demand-4855988",
+   "saat": "00:31",
+   "tarih_iso": "2026-08-13T00:31:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T01:01:23.625513+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-029-4856278",
+   "baslik": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.29%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-029-4856278",
+   "saat": "00:30",
+   "tarih_iso": "2026-08-13T00:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T01:01:23.625513+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-029-4856266",
+   "baslik": "Colombia stocks higher at close of trade; COLCAP up 0.29%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-029-4856266",
+   "saat": "00:25",
+   "tarih_iso": "2026-08-13T00:25:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T01:01:23.625513+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-112-4856247",
+   "baslik": "Russia stocks lower at close of trade; MOEX Russia Index down 1.12%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-112-4856247",
+   "saat": "00:20",
+   "tarih_iso": "2026-08-13T00:20:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T01:01:23.625513+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
    "baslik": "Cisco sees record results from an AI ‘supercycle,’ but its stock pulls back",
    "kaynak": "MarketWatch",
@@ -724,6 +774,16 @@
    "tarih_iso": "2026-08-13T00:08:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T00:31:03.403433+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nextera-energy-secures-33-billion-for-gas-power-projects-93CH-4856195",
+   "baslik": "NextEra Energy secures $3.3 billion for gas power projects",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nextera-energy-secures-33-billion-for-gas-power-projects-93CH-4856195",
+   "saat": "00:06",
+   "tarih_iso": "2026-08-13T00:06:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T01:01:23.625513+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
@@ -1824,56 +1884,6 @@
    "tarih_iso": "2026-08-12T18:43:26+03:00",
    "kodlar": [],
    "eklenme": "2026-08-12T19:01:11.605951+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/griffon-gff-q3-2026-earnings-154325971.html",
-   "baslik": "Griffon (GFF) Q3 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/griffon-gff-q3-2026-earnings-154325971.html",
-   "saat": "18:43",
-   "tarih_iso": "2026-08-12T18:43:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T19:01:11.605951+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
-   "baslik": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/12/retail-investors-truthapi-earnings-trump.html",
-   "saat": "18:37",
-   "tarih_iso": "2026-08-12T18:37:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T18:55:13.648368+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-039-4855613",
-   "baslik": "Poland stocks higher at close of trade; WIG30 up 0.39%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-039-4855613",
-   "saat": "18:35",
-   "tarih_iso": "2026-08-12T18:35:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T19:30:58.105088+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/livanova-livn-q2-2026-earnings-153440720.html",
-   "baslik": "LivaNova (LIVN) Q2 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/livanova-livn-q2-2026-earnings-153440720.html",
-   "saat": "18:34",
-   "tarih_iso": "2026-08-12T18:34:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T19:01:11.605951+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/advantage-solutions-adv-q2-2026-153411418.html",
-   "baslik": "Advantage Solutions (ADV) Q2 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/advantage-solutions-adv-q2-2026-153411418.html",
-   "saat": "18:34",
-   "tarih_iso": "2026-08-12T18:34:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T18:55:13.648368+03:00"
   }
  ],
  "altin_haber": [
@@ -2148,5 +2158,5 @@
    "eklenme": "2026-08-12T09:01:11.380289+03:00"
   }
  ],
- "guncelleme": "2026-08-13T00:31:03.403433+03:00"
+ "guncelleme": "2026-08-13T01:01:23.625513+03:00"
 }
