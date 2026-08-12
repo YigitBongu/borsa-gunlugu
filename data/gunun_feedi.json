@@ -306,6 +306,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-12-agustos-carsamba-doviz-kurlari-haberi-835847",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (12 Ağustos Çarşamba Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-12-agustos-carsamba-doviz-kurlari-haberi-835847",
+   "saat": "07:15",
+   "tarih_iso": "2026-08-12T07:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T07:31:09.550225+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/wall-street-vadeli-islemleri-tufe-ve-hurmuz-riskleriyle-sakin-4025748",
    "baslik": "Wall Street vadeli işlemleri TÜFE ve Hürmüz riskleriyle sakin",
    "kaynak": "Investing TR",
@@ -417,6 +427,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-kospi-surges-cpi-hormuz-risks-temper-tech-rally-4853641",
+   "baslik": "Asian stocks rise as KOSPI surges; CPI, Hormuz risks temper tech rally",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-kospi-surges-cpi-hormuz-risks-temper-tech-rally-4853641",
+   "saat": "07:13",
+   "tarih_iso": "2026-08-12T07:13:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T07:31:09.550225+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
+   "baslik": "Europe’s carbon mechanism is a tariff by another name",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/99bbb4e9-32de-40cb-aa15-537937d70889",
+   "saat": "07:00",
+   "tarih_iso": "2026-08-12T07:00:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-12T07:31:09.550225+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-square-enix-stock-rallying-today-93CH-4853629",
    "baslik": "Why is Square Enix stock rallying today?",
@@ -1596,26 +1626,6 @@
    "tarih_iso": "2026-08-11T19:15:58+03:00",
    "kodlar": [],
    "eklenme": "2026-08-11T20:01:12.056428+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/haverty-furniture-hvt-q2-2026-161244876.html",
-   "baslik": "Haverty Furniture (HVT) Q2 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/haverty-furniture-hvt-q2-2026-161244876.html",
-   "saat": "19:12",
-   "tarih_iso": "2026-08-11T19:12:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-11T19:31:02.167436+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-020-4852304",
-   "baslik": "Spain stocks higher at close of trade; IBEX 35 up 0.20%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/spain-stocks-higher-at-close-of-trade-ibex-35-up-020-4852304",
-   "saat": "19:08",
-   "tarih_iso": "2026-08-11T19:08:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-11T19:31:02.167436+03:00"
   }
  ],
  "altin_haber": [
@@ -2010,5 +2020,5 @@
    "eklenme": "2026-08-11T09:01:16.668228+03:00"
   }
  ],
- "guncelleme": "2026-08-12T07:01:11.581763+03:00"
+ "guncelleme": "2026-08-12T07:31:09.550225+03:00"
 }
