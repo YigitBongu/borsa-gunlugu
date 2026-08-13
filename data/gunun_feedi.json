@@ -2,6 +2,19 @@
  "tarih": "2026-08-13",
  "kap": [
   {
+   "id": "kap-my-KARSN-202608131408",
+   "baslik": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş. — İhale Süreci / Sonucu",
+   "sirket": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "KARSN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:08",
+   "tarih_iso": "2026-08-13T14:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-13T15:01:18.154619+03:00"
+  },
+  {
    "id": "kap-my-CCOLA-202608131358",
    "baslik": "COCA-COLA İÇECEK A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "COCA-COLA İÇECEK A.Ş.",
@@ -203,6 +216,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/merkez-bankasi-acikladi-rezervlerde-dikkat-ceken-artis-haberi-836072",
+   "baslik": "Merkez Bankası açıkladı: Rezervlerde dikkat çeken artış",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/merkez-bankasi-acikladi-rezervlerde-dikkat-ceken-artis-haberi-836072",
+   "saat": "14:59",
+   "tarih_iso": "2026-08-13T14:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T15:01:18.154619+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-yeni-abd-enflasyon-verisi-oncesi-yukseldi-4028703",
    "baslik": "TSX vadeli işlemleri yeni ABD enflasyon verisi öncesi yükseldi",
@@ -425,6 +448,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-airo-group-stock-surging-today-93CH-4857569",
+   "baslik": "Why is AIRO Group stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-airo-group-stock-surging-today-93CH-4857569",
+   "saat": "14:46",
+   "tarih_iso": "2026-08-13T14:46:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T15:01:18.154619+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cellebrite-stock-plunging-today-93CH-4857545",
+   "baslik": "Why is Cellebrite stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cellebrite-stock-plunging-today-93CH-4857545",
+   "saat": "14:42",
+   "tarih_iso": "2026-08-13T14:42:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T15:01:18.154619+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
+   "baslik": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
+   "saat": "14:40",
+   "tarih_iso": "2026-08-13T14:40:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T15:01:18.154619+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-komax-stock-surging-today-93CH-4857534",
+   "baslik": "Why is Komax stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-komax-stock-surging-today-93CH-4857534",
+   "saat": "14:39",
+   "tarih_iso": "2026-08-13T14:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T15:01:18.154619+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dell-hp-stocks-rises-on-lenovos-strong-quarterly-results-93CH-4857519",
+   "baslik": "Dell, HP stocks rises on Lenovo’s strong quarterly results",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dell-hp-stocks-rises-on-lenovos-strong-quarterly-results-93CH-4857519",
+   "saat": "14:35",
+   "tarih_iso": "2026-08-13T14:35:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T15:01:18.154619+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tapestry-stock-sliding-today-93CH-4857469",
    "baslik": "Why is Tapestry stock sliding today?",
@@ -1688,5 +1761,5 @@
    "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
- "guncelleme": "2026-08-13T14:31:06.504222+03:00"
+ "guncelleme": "2026-08-13T15:01:18.154619+03:00"
 }
