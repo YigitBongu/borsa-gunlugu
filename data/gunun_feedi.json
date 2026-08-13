@@ -2,6 +2,19 @@
  "tarih": "2026-08-13",
  "kap": [
   {
+   "id": "kap-my-SMRTG-202608131234",
+   "baslik": "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:34",
+   "tarih_iso": "2026-08-13T12:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
+  },
+  {
    "id": "kap-my-BRYAT-202608131159",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -90,6 +103,30 @@
     "BERA"
    ],
    "eklenme": "2026-08-13T12:01:13.222885+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/turkiye-nin-vergi-rekortmenleri-aciklandi-3905331-ekonomi",
+   "baslik": "Türkiye'nin vergi rekortmenleri açıklandı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/turkiye-nin-vergi-rekortmenleri-aciklandi-3905331-ekonomi",
+   "saat": "12:52",
+   "tarih_iso": "2026-08-13T12:52:15+03:00",
+   "kodlar": [
+    "KCHOL"
+   ],
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/nurdan-tunay-gunayli-altin-ve-temiz-enerji-alanlarinda-iki-yeni-fonu-hayata-gecirdik-3905328-ekonomi",
+   "baslik": "“Altın ve temiz enerji alanlarında iki yeni fonu hayata geçirdik”",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/nurdan-tunay-gunayli-altin-ve-temiz-enerji-alanlarinda-iki-yeni-fonu-hayata-gecirdik-3905328-ekonomi",
+   "saat": "12:28",
+   "tarih_iso": "2026-08-13T12:28:34+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkiyenin-en-cok-vergi-veren-isimleri-belli-oldu/4026117",
@@ -332,6 +369,76 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/what-is-driving-the-rapid-shift-as-south-koreas-bear-market-turns-back-into-a-bull-3e602e66?mod=mw_rss_topstories",
+   "baslik": "What is driving the rapid shift as South Korea’s bear market turns back into a bull",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/what-is-driving-the-rapid-shift-as-south-koreas-bear-market-turns-back-into-a-bull-3e602e66?mod=mw_rss_topstories",
+   "saat": "12:57",
+   "tarih_iso": "2026-08-13T12:57:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cisco-shares-are-falling-despite-earnings-beat-where-to-buy-the-dip-93CH-4857027",
+   "baslik": "Cisco shares are falling despite earnings beat. Where to buy the dip?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cisco-shares-are-falling-despite-earnings-beat-where-to-buy-the-dip-93CH-4857027",
+   "saat": "12:45",
+   "tarih_iso": "2026-08-13T12:45:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fastned-stock-surging-today-93CH-4857025",
+   "baslik": "Why is Fastned stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-fastned-stock-surging-today-93CH-4857025",
+   "saat": "12:44",
+   "tarih_iso": "2026-08-13T12:44:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/smic-profit-more-than-triples-on-aidriven-chip-demand-4857024",
+   "baslik": "SMIC profit more than triples on AI-driven chip demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/smic-profit-more-than-triples-on-aidriven-chip-demand-4857024",
+   "saat": "12:43",
+   "tarih_iso": "2026-08-13T12:43:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/our-ai-knew-it-43-30-these-stocks-posted-massive-earnings-and-keep-climbing-4856471",
+   "baslik": "Our AI knew it: +43%, 30%, these stocks posted massive earnings, and keep climbing",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/our-ai-knew-it-43-30-these-stocks-posted-massive-earnings-and-keep-climbing-4856471",
+   "saat": "12:36",
+   "tarih_iso": "2026-08-13T12:36:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-birkenstock-stock-surging-today-93CH-4856992",
+   "baslik": "Why is Birkenstock stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-birkenstock-stock-surging-today-93CH-4856992",
+   "saat": "12:32",
+   "tarih_iso": "2026-08-13T12:32:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/is-dollar-general-turnaround-on-track-and-should-you-own-the-stock-in-2026-93CH-4856991",
+   "baslik": "Is Dollar General turnaround on track and should you own the stock in 2026?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/is-dollar-general-turnaround-on-track-and-should-you-own-the-stock-in-2026-93CH-4856991",
+   "saat": "12:32",
+   "tarih_iso": "2026-08-13T12:32:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/birkenstock-raises-annual-revenue-forecast-on-strong-demand-4856977",
    "baslik": "Birkenstock raises annual revenue forecast on strong demand",
    "kaynak": "Investing.com",
@@ -430,6 +537,16 @@
    "tarih_iso": "2026-08-13T11:46:26+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T12:01:13.222885+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+   "baslik": "Oil prices fall as investors weigh falling demand against Middle East tensions",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
+   "saat": "11:43",
+   "tarih_iso": "2026-08-13T11:43:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-valneva-stock-sliding-today-93CH-4856894",
@@ -1104,6 +1221,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.haberturk.com/nurdan-tunay-gunayli-altin-ve-temiz-enerji-alanlarinda-iki-yeni-fonu-hayata-gecirdik-3905328-ekonomi",
+   "baslik": "“Altın ve temiz enerji alanlarında iki yeni fonu hayata geçirdik”",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/nurdan-tunay-gunayli-altin-ve-temiz-enerji-alanlarinda-iki-yeni-fonu-hayata-gecirdik-3905328-ekonomi",
+   "saat": "12:28",
+   "tarih_iso": "2026-08-13T12:28:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:59:17.442066+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-rally-loses-momentum-as-hormuz-uncertainty-keeps-markets-on-edge-200685752",
    "baslik": "Gold Rally Loses Momentum as Hormuz Uncertainty Keeps Markets on Edge",
    "kaynak": "Investing Emtia",
@@ -1234,5 +1361,5 @@
    "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
- "guncelleme": "2026-08-13T12:31:05.610377+03:00"
+ "guncelleme": "2026-08-13T12:59:17.442066+03:00"
 }
