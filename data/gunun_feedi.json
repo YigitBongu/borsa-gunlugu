@@ -2,6 +2,19 @@
  "tarih": "2026-08-13",
  "kap": [
   {
+   "id": "kap-my-AGHOL-202608131526",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "AGHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:26",
+   "tarih_iso": "2026-08-13T15:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
    "id": "kap-my-CCOLA-202608131438",
    "baslik": "COCA-COLA İÇECEK A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "COCA-COLA İÇECEK A.Ş.",
@@ -229,6 +242,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.haberturk.com/tcmb-rezervlerinde-artis-3905392-ekonomi",
+   "baslik": "Merkez Bankası rezervlerinde artış",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/tcmb-rezervlerinde-artis-3905392-ekonomi",
+   "saat": "15:47",
+   "tarih_iso": "2026-08-13T15:47:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomik-veriler/merkez-bankasi-acikladi-rezervlerde-dikkat-ceken-artis-haberi-836072",
    "baslik": "Merkez Bankası açıkladı: Rezervlerde dikkat çeken artış",
@@ -461,6 +484,156 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+   "baslik": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+   "saat": "15:48",
+   "tarih_iso": "2026-08-13T15:48:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/fervo-energy-company-frvo-future-124725246.html",
+   "baslik": "Is Fervo Energy Company (FRVO) the Future of Baseload Power?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/fervo-energy-company-frvo-future-124725246.html",
+   "saat": "15:47",
+   "tarih_iso": "2026-08-13T15:47:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Dow Rises On Surprise Inflation Data; Cisco, AI Name Cerebras Plunge On Earnings (Live Coverage)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo",
+   "saat": "15:45",
+   "tarih_iso": "2026-08-13T15:45:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
+   "baslik": "Trump-linked oil venture delays Greenland drilling plans after government warning",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
+   "saat": "15:43",
+   "tarih_iso": "2026-08-13T15:43:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/wholesale-inflation-flattens-out-in-july-and-price-pressure-ease-c0ea1b91?mod=mw_rss_topstories",
+   "baslik": "Wholesale inflation flattens out in July and price pressures ease",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/wholesale-inflation-flattens-out-in-july-and-price-pressure-ease-c0ea1b91?mod=mw_rss_topstories",
+   "saat": "15:38",
+   "tarih_iso": "2026-08-13T15:38:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-flat-after-inline-cpi-upbeat-tech-earnings-4856478",
+   "baslik": "U.S. stock futures show little initial reaction to largely soft PPI data",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-after-inline-cpi-upbeat-tech-earnings-4856478",
+   "saat": "15:35",
+   "tarih_iso": "2026-08-13T15:35:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-yeti-stock-sliding-today-93CH-4857899",
+   "baslik": "Why is YETI stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-yeti-stock-sliding-today-93CH-4857899",
+   "saat": "15:35",
+   "tarih_iso": "2026-08-13T15:35:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-abeona-therapeutics-stock-slumping-today-93CH-4857898",
+   "baslik": "Why is Abeona Therapeutics stock slumping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-abeona-therapeutics-stock-slumping-today-93CH-4857898",
+   "saat": "15:35",
+   "tarih_iso": "2026-08-13T15:35:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/5-strong-buy-dividend-aristocrats-123534605.html",
+   "baslik": "5 Strong Buy Dividend Aristocrats Posted Huge Q2 Earnings: Grab Them Before September",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/5-strong-buy-dividend-aristocrats-123534605.html",
+   "saat": "15:35",
+   "tarih_iso": "2026-08-13T15:35:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/commodities/articles/gunnison-copper-swings-profit-johnson-123400041.html",
+   "baslik": "Gunnison Copper swings to profit on Johnson Camp production ramp",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/gunnison-copper-swings-profit-johnson-123400041.html",
+   "saat": "15:34",
+   "tarih_iso": "2026-08-13T15:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cerebras-slumps-as-mixed-quarterly-results-test-ai-growth-narrative-4857805",
+   "baslik": "Cerebras slumps as mixed quarterly results test AI growth narrative",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cerebras-slumps-as-mixed-quarterly-results-test-ai-growth-narrative-4857805",
+   "saat": "15:30",
+   "tarih_iso": "2026-08-13T15:30:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/13/midterm-democrats-polling-primary-wisconsin-michigan-minnesota.html",
+   "baslik": "Wisconsin, Michigan primaries expose limits of polls and prediction markets",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/13/midterm-democrats-polling-primary-wisconsin-michigan-minnesota.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-08-13T15:30:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/us-treasury-reveals-america-insolvent-123000176.html",
+   "baslik": "US Treasury reveals America is insolvent and famed economists warn of ‘fiscal catastrophe.’ Is your portfolio prepared?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/us-treasury-reveals-america-insolvent-123000176.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-08-13T15:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/is-amat-stock-set-up-for-a-postearnings-pullback-93CH-4857845",
+   "baslik": "Is AMAT stock set up for a post-earnings pullback?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/is-amat-stock-set-up-for-a-postearnings-pullback-93CH-4857845",
+   "saat": "15:29",
+   "tarih_iso": "2026-08-13T15:29:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/morgan-stanleys-adam-jonas-lays-out-how-spacex-can-unlock-a-long-term-bullish-stock-move-122945460.html",
+   "baslik": "Morgan Stanley's Adam Jonas lays out how SpaceX can unlock a long-term bullish stock move",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/morgan-stanleys-adam-jonas-lays-out-how-spacex-can-unlock-a-long-term-bullish-stock-move-122945460.html",
+   "saat": "15:29",
+   "tarih_iso": "2026-08-13T15:29:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/13/heres-what-to-know-before-the-market-opens.html",
    "baslik": "Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk",
@@ -1510,159 +1683,19 @@
    "tarih_iso": "2026-08-13T09:06:35+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T09:31:05.706289+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4856631",
-   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted unchanged",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4856631",
-   "saat": "09:00",
-   "tarih_iso": "2026-08-13T09:00:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:31:05.706289+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-weride-stock-sliding-today-93CH-4856629",
-   "baslik": "Why is WeRide stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-weride-stock-sliding-today-93CH-4856629",
-   "saat": "08:57",
-   "tarih_iso": "2026-08-13T08:57:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:31:05.706289+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bloks-stock-surging-today-93CH-4856628",
-   "baslik": "Why is Bloks stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-bloks-stock-surging-today-93CH-4856628",
-   "saat": "08:56",
-   "tarih_iso": "2026-08-13T08:56:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:31:05.706289+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsonite-stock-climbing-today-93CH-4856627",
-   "baslik": "Why is Samsonite stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-samsonite-stock-climbing-today-93CH-4856627",
-   "saat": "08:56",
-   "tarih_iso": "2026-08-13T08:56:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:31:05.706289+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/chinas-lenovo-posts-43-jump-in-q1-revenue-4856574",
-   "baslik": "China’s Lenovo posts 43% jump in Q1 revenue, highest in five years",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/chinas-lenovo-posts-43-jump-in-q1-revenue-4856574",
-   "saat": "08:55",
-   "tarih_iso": "2026-08-13T08:55:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:01:12.089576+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ayala-land-stock-sliding-today-93CH-4856618",
-   "baslik": "Why is Ayala Land stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ayala-land-stock-sliding-today-93CH-4856618",
-   "saat": "08:32",
-   "tarih_iso": "2026-08-13T08:32:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:01:12.089576+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
-   "baslik": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
-   "saat": "08:22",
-   "tarih_iso": "2026-08-13T08:22:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:01:12.089576+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/analysiswhy-uk-food-inflation-has-yet-to-surge-4856608",
-   "baslik": "Analysis-Why UK food inflation has yet to surge",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/analysiswhy-uk-food-inflation-has-yet-to-surge-4856608",
-   "saat": "08:18",
-   "tarih_iso": "2026-08-13T08:18:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:01:12.089576+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/tencent-falls-as-q2-profit-miss-raises-concern-over-rising-ai-investment-costs-4856602",
-   "baslik": "Tencent falls as Q2 profit miss raises concern over rising AI investment costs",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/tencent-falls-as-q2-profit-miss-raises-concern-over-rising-ai-investment-costs-4856602",
-   "saat": "08:03",
-   "tarih_iso": "2026-08-13T08:03:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:01:12.089576+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/three-japanese-bigcap-stocks-for-space-and-rocket-tech-exposure-93CH-4856591",
-   "baslik": "Three Japanese big-cap stocks for space and rocket tech exposure",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/three-japanese-bigcap-stocks-for-space-and-rocket-tech-exposure-93CH-4856591",
-   "saat": "07:45",
-   "tarih_iso": "2026-08-13T07:45:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:01:12.089576+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1",
-   "baslik": "Anthropic investors bet on $2tn valuation in record IPO",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1",
-   "saat": "07:00",
-   "tarih_iso": "2026-08-13T07:00:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:01:12.089576+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
-   "baslik": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
-   "saat": "05:06",
-   "tarih_iso": "2026-08-13T05:06:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:01:12.089576+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
-   "baslik": "EVs dominate China’s car market: 5 takeaways from the country's latest auto sales data",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html",
-   "saat": "04:31",
-   "tarih_iso": "2026-08-13T04:31:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:01:12.089576+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/japan-ppi-inflation-energy-prices-takaichi-cpi.html",
-   "baslik": "Japan wholesale inflation eases slightly to 7.2%, undershooting expectations",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/japan-ppi-inflation-energy-prices-takaichi-cpi.html",
-   "saat": "04:25",
-   "tarih_iso": "2026-08-13T04:25:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:01:12.089576+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
-   "baslik": "Cisco sees record results from an AI ‘supercycle,’ but its stock pulls back",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/cisco-sees-record-results-from-an-ai-supercycle-but-its-stock-pulls-back-2635b81a?mod=mw_rss_topstories",
-   "saat": "04:16",
-   "tarih_iso": "2026-08-13T04:16:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/dun-yukseldi-bugun-yon-degistirdi-altin-fiyatlari-kar-satisi-sonrasi-dustu-galeri-836081",
+   "baslik": "Dün yükseldi, bugün yön değiştirdi: Altın fiyatları kâr satışı sonrası düştü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/dun-yukseldi-bugun-yon-degistirdi-altin-fiyatlari-kar-satisi-sonrasi-dustu-galeri-836081",
+   "saat": "15:48",
+   "tarih_iso": "2026-08-13T15:48:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-13-2026-gold-up-nearly-10-month-over-month-ahead-of-ppi-report-120512700.html",
    "baslik": "Gold prices today, Thursday, August 13, 2026: Gold up nearly 10% month-over-month ahead of PPI report",
@@ -1672,6 +1705,16 @@
    "tarih_iso": "2026-08-13T15:05:12+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T15:31:05.498219+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/antofagastas-2b-profit-eclipsed-by-chile-copper-woes/",
+   "baslik": "Antofagasta’s $2B profit eclipsed by Chile copper woes",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/antofagastas-2b-profit-eclipsed-by-chile-copper-woes/",
+   "saat": "13:48",
+   "tarih_iso": "2026-08-13T13:48:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T16:01:09.799163+03:00"
   },
   {
    "id": "alt-https://www.haberturk.com/nurdan-tunay-gunayli-altin-ve-temiz-enerji-alanlarinda-iki-yeni-fonu-hayata-gecirdik-3905328-ekonomi",
@@ -1814,5 +1857,5 @@
    "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
- "guncelleme": "2026-08-13T15:31:05.498219+03:00"
+ "guncelleme": "2026-08-13T16:01:09.799163+03:00"
 }
