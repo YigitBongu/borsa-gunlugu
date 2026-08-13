@@ -2,6 +2,19 @@
  "tarih": "2026-08-13",
  "kap": [
   {
+   "id": "kap-my-DOAS-202608130904",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "DOAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:04",
+   "tarih_iso": "2026-08-13T09:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-13T09:31:05.706289+03:00"
+  },
+  {
    "id": "kap-my-SAHOL-202608121930",
    "baslik": "HACI ÖMER SABANCI HOLDİNG A.Ş. — TSRS Uyumlu Sürdürülebilirlik Raporu",
    "sirket": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
@@ -59,6 +72,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+   "baslik": "UK economic growth slows between April and June",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+   "saat": "09:25",
+   "tarih_iso": "2026-08-13T09:25:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T09:31:05.706289+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/container-shipping-group-maersk-q2-profit-beats-forecasts-raises-outlook-4856637",
+   "baslik": "Container shipping group Maersk Q2 profit beats forecasts, raises outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/container-shipping-group-maersk-q2-profit-beats-forecasts-raises-outlook-4856637",
+   "saat": "09:06",
+   "tarih_iso": "2026-08-13T09:06:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T09:31:05.706289+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4856631",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted unchanged",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4856631",
+   "saat": "09:00",
+   "tarih_iso": "2026-08-13T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T09:31:05.706289+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-weride-stock-sliding-today-93CH-4856629",
+   "baslik": "Why is WeRide stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-weride-stock-sliding-today-93CH-4856629",
+   "saat": "08:57",
+   "tarih_iso": "2026-08-13T08:57:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T09:31:05.706289+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bloks-stock-surging-today-93CH-4856628",
+   "baslik": "Why is Bloks stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bloks-stock-surging-today-93CH-4856628",
+   "saat": "08:56",
+   "tarih_iso": "2026-08-13T08:56:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T09:31:05.706289+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsonite-stock-climbing-today-93CH-4856627",
+   "baslik": "Why is Samsonite stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-samsonite-stock-climbing-today-93CH-4856627",
+   "saat": "08:56",
+   "tarih_iso": "2026-08-13T08:56:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T09:31:05.706289+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/chinas-lenovo-posts-43-jump-in-q1-revenue-4856574",
    "baslik": "China’s Lenovo posts 43% jump in Q1 revenue, highest in five years",
@@ -452,5 +525,5 @@
    "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
- "guncelleme": "2026-08-13T09:01:12.089576+03:00"
+ "guncelleme": "2026-08-13T09:31:05.706289+03:00"
 }
