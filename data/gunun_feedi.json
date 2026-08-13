@@ -243,6 +243,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/merkez-bankasi-rezervleri-178-4-milyar-dolara-yukseldi-3454023",
+   "baslik": "Merkez Bankası rezervleri 178,4 milyar dolara yükseldi",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/merkez-bankasi-rezervleri-178-4-milyar-dolara-yukseldi-3454023",
+   "saat": "19:52",
+   "tarih_iso": "2026-08-13T19:52:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T17:01:10.799425+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/tcmb-rezervlerinde-artis-3905392-ekonomi",
    "baslik": "Merkez Bankası rezervlerinde artış",
    "kaynak": "Habertürk Ekonomi",
@@ -593,6 +603,16 @@
    "tarih_iso": "2026-08-13T16:30:31+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T16:55:27.334593+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-chief-accounting-officer-133001822.html",
+   "baslik": "Freeport-McMoRan Chief Accounting Officer Sells $334,000 Worth of Stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/freeport-mcmoran-chief-accounting-officer-133001822.html",
+   "saat": "16:30",
+   "tarih_iso": "2026-08-13T16:30:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T17:01:10.799425+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
@@ -1673,16 +1693,6 @@
    "tarih_iso": "2026-08-13T11:40:17+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T13:31:03.615062+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-valneva-stock-sliding-today-93CH-4856894",
-   "baslik": "Why is Valneva stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-valneva-stock-sliding-today-93CH-4856894",
-   "saat": "11:39",
-   "tarih_iso": "2026-08-13T11:39:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T12:01:13.222885+03:00"
   }
  ],
  "altin_haber": [
@@ -1857,5 +1867,5 @@
    "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
- "guncelleme": "2026-08-13T16:55:27.334593+03:00"
+ "guncelleme": "2026-08-13T17:01:10.799425+03:00"
 }
