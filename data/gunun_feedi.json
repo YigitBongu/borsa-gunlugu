@@ -2,6 +2,19 @@
  "tarih": "2026-08-13",
  "kap": [
   {
+   "id": "kap-my-TKFEN-202608131009",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:09",
+   "tarih_iso": "2026-08-13T10:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
+  },
+  {
    "id": "kap-my-DOAS-202608130904",
    "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -28,7 +41,32 @@
    "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/huyuk-mucizesi-1700-futbol-sahasi-buyuklugundeki-alana-diktiler-galeri-836029",
+   "baslik": "Hüyük mucizesi! 1700 futbol sahası büyüklüğündeki alana diktiler!",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/huyuk-mucizesi-1700-futbol-sahasi-buyuklugundeki-alana-diktiler-galeri-836029",
+   "saat": "10:44",
+   "tarih_iso": "2026-08-13T10:44:00+03:00",
+   "kodlar": [
+    "KONYA"
+   ],
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/sabanci-holdingin-ilk-yarida-net-kri-14-5-milyar-tl-oldu-3905288-ekonomi",
+   "baslik": "Sabancı'nın net kârı 14,5 milyar TL",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/sabanci-holdingin-ilk-yarida-net-kri-14-5-milyar-tl-oldu-3905288-ekonomi",
+   "saat": "10:37",
+   "tarih_iso": "2026-08-13T10:37:59+03:00",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/cari-acik-haziranda-beklentilerin-altinda-kaldi-3453841",
@@ -49,6 +87,26 @@
    "tarih_iso": "2026-08-13T12:36:19+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T10:02:41.894175+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/son-dakika-yilin-ucuncu-enflasyon-raporu-aciklaniyor-3905276-ekonomi",
+   "baslik": "Yılın üçüncü enflasyon raporu açıklanıyor",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/son-dakika-yilin-ucuncu-enflasyon-raporu-aciklaniyor-3905276-ekonomi",
+   "saat": "10:42",
+   "tarih_iso": "2026-08-13T10:42:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-baskani-karahan-yilin-3-enflasyon-raporunu-acikliyor-gozler-yeni-tahminlerde-haberi-836023",
+   "baslik": "Merkez Bankası Başkanı Karahan yılın 3. Enflasyon Raporu'nu açıklıyor: Gözler yeni tahminlerde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/merkez-bankasi-baskani-karahan-yilin-3-enflasyon-raporunu-acikliyor-gozler-yeni-tahminlerde-haberi-836023",
+   "saat": "10:25",
+   "tarih_iso": "2026-08-13T10:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-motorinde-kademeli-otv-uygulamasini-degerlendirdi/4025933",
@@ -142,6 +200,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
+   "baslik": "Maersk shares jump 7% after shipping giant smashes profit estimates and hikes outlook",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/13/maersk-earnings-shipping-hormuz-red-sea.html",
+   "saat": "10:56",
+   "tarih_iso": "2026-08-13T10:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lanxess-stock-tumbling-today-93CH-4856780",
+   "baslik": "Why is Lanxess stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lanxess-stock-tumbling-today-93CH-4856780",
+   "saat": "10:38",
+   "tarih_iso": "2026-08-13T10:38:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/kospi-enters-bull-market-as-ai-rally-returns-japan-gains-china-tech-mixed-4856577",
+   "baslik": "KOSPI exits bear market as tech rally returns; Nikkei gains, China slips",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/kospi-enters-bull-market-as-ai-rally-returns-japan-gains-china-tech-mixed-4856577",
+   "saat": "10:38",
+   "tarih_iso": "2026-08-13T10:38:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ap-moeller--maersk-stock-surging-today-93CH-4856779",
+   "baslik": "Why is AP Moeller - Maersk stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ap-moeller--maersk-stock-surging-today-93CH-4856779",
+   "saat": "10:37",
+   "tarih_iso": "2026-08-13T10:37:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-evotec-stock-down-today-93CH-4856775",
+   "baslik": "Why is Evotec stock down today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-evotec-stock-down-today-93CH-4856775",
+   "saat": "10:35",
+   "tarih_iso": "2026-08-13T10:35:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-rsted-stock-sliding-today-93CH-4856760",
+   "baslik": "Why is Ørsted stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-rsted-stock-sliding-today-93CH-4856760",
+   "saat": "10:20",
+   "tarih_iso": "2026-08-13T10:20:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
+   "baslik": "Ukraine attacks Russian grain export terminals in Black Sea, prompting warning about food markets",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/13/ukraine-russia-novorossiysk-grain.html",
+   "saat": "10:20",
+   "tarih_iso": "2026-08-13T10:20:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T11:01:10.484071+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asx-posts-higher-annual-profit-on-strong-trading-activity-shares-rise-4856472",
    "baslik": "ASX logs best day in six years as volatility-driven trading boom lifts profit",
@@ -705,5 +833,5 @@
    "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
- "guncelleme": "2026-08-13T10:31:03.629354+03:00"
+ "guncelleme": "2026-08-13T11:01:10.484071+03:00"
 }
