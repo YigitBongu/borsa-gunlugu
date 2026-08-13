@@ -404,6 +404,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/haberler/fed-korkusu-zayifladi-asya-borsalari-sicradi-avrupa-vadelileri-artida-haberi-835984",
+   "baslik": "Fed korkusu zayıfladı: Asya borsaları sıçradı, Avrupa vadelileri artıda",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/fed-korkusu-zayifladi-asya-borsalari-sicradi-avrupa-vadelileri-artida-haberi-835984",
+   "saat": "05:54",
+   "tarih_iso": "2026-08-13T05:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T06:30:59.688468+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/avustralya-rio-tintonun-tomago-aluminyum-tesisine-176-milyar-dolar-93CH-4027924",
    "baslik": "Avustralya, Rio Tinto’nun Tomago alüminyum tesisine 1,76 milyar dolar",
    "kaynak": "Investing TR",
@@ -695,6 +705,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-telstra-stock-sliding-today-93CH-4856554",
+   "baslik": "Why is Telstra stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-telstra-stock-sliding-today-93CH-4856554",
+   "saat": "05:59",
+   "tarih_iso": "2026-08-13T05:59:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T06:30:59.688468+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/telstra-fy-profit-rises-slightly-announces-706-mln-buyback-93CH-4856553",
+   "baslik": "Telstra FY profit rises slightly, announces $706 mln buyback",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/telstra-fy-profit-rises-slightly-announces-706-mln-buyback-93CH-4856553",
+   "saat": "05:59",
+   "tarih_iso": "2026-08-13T05:59:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T06:30:59.688468+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-origin-energy-stock-rallying-today-93CH-4856543",
    "baslik": "Why is Origin Energy stock rallying today?",
@@ -1874,29 +1904,19 @@
    "tarih_iso": "2026-08-12T19:43:28+03:00",
    "kodlar": [],
    "eklenme": "2026-08-12T20:01:07.658332+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/articles/stocks-inch-oil-dips-traders-163401004.html",
-   "baslik": "Stocks inch up, oil dips as traders eye US-Iran talks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/articles/stocks-inch-oil-dips-traders-163401004.html",
-   "saat": "19:40",
-   "tarih_iso": "2026-08-12T19:40:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T20:01:07.658332+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/news/oil-rises-doubts-over-us-063114070.html",
-   "baslik": "Oil prices little changed as investors weigh lower demand against US-Iran talks deadlock",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/oil-rises-doubts-over-us-063114070.html",
-   "saat": "19:37",
-   "tarih_iso": "2026-08-12T19:37:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T20:01:07.658332+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-4400-dolarin-uzerinde-gram-altinda-yeni-hesap-basladi-galeri-835985",
+   "baslik": "Altın 4.400 doların üzerinde: Gram altında yeni hesap başladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-4400-dolarin-uzerinde-gram-altinda-yeni-hesap-basladi-galeri-835985",
+   "saat": "06:09",
+   "tarih_iso": "2026-08-13T06:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T06:30:59.688468+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/guvenli-liman-altin-yukselisini-surduruyor-3453712",
    "baslik": "Güvenli liman altın yükselişini sürdürüyor",
@@ -2168,5 +2188,5 @@
    "eklenme": "2026-08-12T09:01:11.380289+03:00"
   }
  ],
- "guncelleme": "2026-08-13T06:01:12.062672+03:00"
+ "guncelleme": "2026-08-13T06:30:59.688468+03:00"
 }
