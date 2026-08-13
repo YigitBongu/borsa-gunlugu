@@ -2,6 +2,19 @@
  "tarih": "2026-08-13",
  "kap": [
   {
+   "id": "kap-my-BRYAT-202608131159",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BRYAT"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:59",
+   "tarih_iso": "2026-08-13T11:59:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202608131009",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -43,6 +56,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/son-dakika-turkiyenin-en-cok-gelir-vergisi-odeyen-isimleri-belli-oldu-3453890",
+   "baslik": "SON DAKİKA... Türkiye'nin en çok gelir vergisi ödeyen isimleri belli oldu",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/son-dakika-turkiyenin-en-cok-gelir-vergisi-odeyen-isimleri-belli-oldu-3453890",
+   "saat": "15:24",
+   "tarih_iso": "2026-08-13T15:24:34+03:00",
+   "kodlar": [
+    "KCHOL"
+   ],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/medya-sektorunde-cifte-standart-dijital-platformlara-reklam-ozgurlugu-yerli-medyaya-agir-yuk-3453883",
+   "baslik": "Medya sektöründe çifte standart! Dijital platformlara reklam özgürlüğü, yerli medyaya ağır yük",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/medya-sektorunde-cifte-standart-dijital-platformlara-reklam-ozgurlugu-yerli-medyaya-agir-yuk-3453883",
+   "saat": "15:24",
+   "tarih_iso": "2026-08-13T15:24:20+03:00",
+   "kodlar": [
+    "BERA"
+   ],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/dijital-platformlarla-yerli-medya-arasinda-reklam-ve-vergi-farki-gelirin-yuzde-75i-dijitale-gidiyor-3453883",
    "baslik": "Dijital platformlarla yerli medya arasında reklam ve vergi farkı! Gelirin yüzde 75'i dijitale gidiyor",
    "kaynak": "CNN Türk Ekonomi",
@@ -53,6 +90,18 @@
     "BERA"
    ],
    "eklenme": "2026-08-13T12:01:13.222885+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkiyenin-en-cok-vergi-veren-isimleri-belli-oldu/4026117",
+   "baslik": "Türkiye'nin en çok vergi veren isimleri belli oldu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-en-cok-vergi-veren-isimleri-belli-oldu/4026117",
+   "saat": "12:08",
+   "tarih_iso": "2026-08-13T12:08:30+03:00",
+   "kodlar": [
+    "KCHOL"
+   ],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/huyuk-mucizesi-1700-futbol-sahasi-buyuklugundeki-alana-diktiler-galeri-836029",
@@ -99,6 +148,16 @@
    "tarih_iso": "2026-08-13T12:36:19+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T10:02:41.894175+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmbden-finans-hesabi-revizyonlari-ve-net-hata-ve-noksana-etkileri-analizi-haberi-836048",
+   "baslik": "TCMB'den 'Finans Hesabı Revizyonları ve Net Hata ve Noksan'a Etkileri' analizi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmbden-finans-hesabi-revizyonlari-ve-net-hata-ve-noksana-etkileri-analizi-haberi-836048",
+   "saat": "11:58",
+   "tarih_iso": "2026-08-13T11:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
   },
   {
    "id": "rss-https://www.haberturk.com/haziranda-cari-acik-42-milyar-dolar-oldu-3905314-ekonomi",
@@ -273,6 +332,76 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/birkenstock-raises-annual-revenue-forecast-on-strong-demand-4856977",
+   "baslik": "Birkenstock raises annual revenue forecast on strong demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/birkenstock-raises-annual-revenue-forecast-on-strong-demand-4856977",
+   "saat": "12:24",
+   "tarih_iso": "2026-08-13T12:24:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-leslies-stock-plunging-today-93CH-4856971",
+   "baslik": "Why is Leslie’s stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-leslies-stock-plunging-today-93CH-4856971",
+   "saat": "12:20",
+   "tarih_iso": "2026-08-13T12:20:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/is-lululemon-stock-a-value-trap-given-cheap-valuation-bearish-technicals-93CH-4856964",
+   "baslik": "Is Lululemon stock a value trap given cheap valuation, bearish technicals?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/is-lululemon-stock-a-value-trap-given-cheap-valuation-bearish-technicals-93CH-4856964",
+   "saat": "12:15",
+   "tarih_iso": "2026-08-13T12:15:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
+   "baslik": "‘My husband and I are at odds’: Should we tap our home equity or sell stocks to build a $100,000 emergency fund?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
+   "saat": "12:15",
+   "tarih_iso": "2026-08-13T12:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chinas-weride-eyes-australia-southeast-asia-among-potential-new-markets-after-strong-q2-4856956",
+   "baslik": "China’s WeRide eyes Australia, Southeast Asia among potential new markets after strong Q2",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chinas-weride-eyes-australia-southeast-asia-among-potential-new-markets-after-strong-q2-4856956",
+   "saat": "12:12",
+   "tarih_iso": "2026-08-13T12:12:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-swissquote-stock-plunging-today-93CH-4856952",
+   "baslik": "Why is Swissquote stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-swissquote-stock-plunging-today-93CH-4856952",
+   "saat": "12:11",
+   "tarih_iso": "2026-08-13T12:11:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-latest-rally-has-energized-the-stock-market-but-left-the-credit-market-concerned-70e3d296?mod=mw_rss_topstories",
+   "baslik": "The latest rally has energized the stock market but left the credit market concerned",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-latest-rally-has-energized-the-stock-market-but-left-the-credit-market-concerned-70e3d296?mod=mw_rss_topstories",
+   "saat": "12:01",
+   "tarih_iso": "2026-08-13T12:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/actresstamara-melloof-shes-all-that-puts-l-a-home-on-the-market-for-1-5-million-0046941f?mod=mw_rss_topstories",
    "baslik": "Actress Tamara Mello of ‘She’s All That’ puts L.A. home on the market for $1.5 million",
    "kaynak": "MarketWatch",
@@ -281,6 +410,16 @@
    "tarih_iso": "2026-08-13T11:58:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T12:01:13.222885+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citi-upgrades-suzuki-motor-stock-rating-on-india-sales-strength-93CH-4856923",
+   "baslik": "Citi upgrades Suzuki Motor stock rating on India sales strength",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citi-upgrades-suzuki-motor-stock-rating-on-india-sales-strength-93CH-4856923",
+   "saat": "11:53",
+   "tarih_iso": "2026-08-13T11:53:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T12:31:05.610377+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-virgin-galactic-stock-sliding-today-93CH-4856915",
@@ -1095,5 +1234,5 @@
    "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
- "guncelleme": "2026-08-13T12:01:13.222885+03:00"
+ "guncelleme": "2026-08-13T12:31:05.610377+03:00"
 }
