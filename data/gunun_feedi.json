@@ -2,6 +2,19 @@
  "tarih": "2026-08-13",
  "kap": [
   {
+   "id": "kap-my-CCOLA-202608131358",
+   "baslik": "COCA-COLA İÇECEK A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "COCA-COLA İÇECEK A.Ş.",
+   "kodlar": [
+    "CCOLA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:58",
+   "tarih_iso": "2026-08-13T13:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-13T14:31:06.504222+03:00"
+  },
+  {
    "id": "kap-my-SMRTG-202608131234",
    "baslik": "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş.",
@@ -190,6 +203,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-yeni-abd-enflasyon-verisi-oncesi-yukseldi-4028703",
+   "baslik": "TSX vadeli işlemleri yeni ABD enflasyon verisi öncesi yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-yeni-abd-enflasyon-verisi-oncesi-yukseldi-4028703",
+   "saat": "14:18",
+   "tarih_iso": "2026-08-13T14:18:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T14:31:06.504222+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/cari-acik-haziranda-beklentilerin-altinda-kaldi-3453841",
    "baslik": "Cari açık haziranda beklentilerin altında kaldı",
@@ -402,6 +425,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tapestry-stock-sliding-today-93CH-4857469",
+   "baslik": "Why is Tapestry stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tapestry-stock-sliding-today-93CH-4857469",
+   "saat": "14:22",
+   "tarih_iso": "2026-08-13T14:22:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T14:31:06.504222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/freight-market-outlook-three-shipping-stocks-that-pass-the-value-test-93CH-4857449",
+   "baslik": "Freight market outlook: three shipping stocks that pass the value test",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/freight-market-outlook-three-shipping-stocks-that-pass-the-value-test-93CH-4857449",
+   "saat": "14:18",
+   "tarih_iso": "2026-08-13T14:18:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T14:31:06.504222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-rise-with-fresh-us-inflation-data-ahead-4857448",
+   "baslik": "TSX futures rise with fresh U.S. inflation data ahead",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-rise-with-fresh-us-inflation-data-ahead-4857448",
+   "saat": "14:18",
+   "tarih_iso": "2026-08-13T14:18:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T14:31:06.504222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-freight-technologies-stock-surging-today-93CH-4857423",
+   "baslik": "Why is Freight Technologies stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-freight-technologies-stock-surging-today-93CH-4857423",
+   "saat": "14:14",
+   "tarih_iso": "2026-08-13T14:14:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T14:31:06.504222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-marqeta-stock-rallying-today-93CH-4857420",
+   "baslik": "Why is Marqeta stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-marqeta-stock-rallying-today-93CH-4857420",
+   "saat": "14:12",
+   "tarih_iso": "2026-08-13T14:12:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T14:31:06.504222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-accelerant-holdings-stock-surging-today-93CH-4857398",
+   "baslik": "Why is Accelerant Holdings stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-accelerant-holdings-stock-surging-today-93CH-4857398",
+   "saat": "14:12",
+   "tarih_iso": "2026-08-13T14:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T14:31:06.504222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-netflix-stock-climbing-today-93CH-4857377",
+   "baslik": "Why is Netflix stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-netflix-stock-climbing-today-93CH-4857377",
+   "saat": "14:05",
+   "tarih_iso": "2026-08-13T14:05:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T14:31:06.504222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/hershey-stock-112-upside-to-fair-value-as-cocoa-costs-weigh-on-margins-93CH-4857361",
+   "baslik": "Hershey stock: 11.2% upside to fair value as cocoa costs weigh on margins",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/hershey-stock-112-upside-to-fair-value-as-cocoa-costs-weigh-on-margins-93CH-4857361",
+   "saat": "14:03",
+   "tarih_iso": "2026-08-13T14:03:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T14:31:06.504222+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/bill-ackman-once-exited-netflix-stake-in-a-huff-why-hes-buying-the-streaming-giant-again-as-well-as-these-five-stocks-ae0d9220?mod=mw_rss_topstories",
    "baslik": "Bill Ackman once exited Netflix stake in a huff. Why he’s buying the streaming giant again as well as these five stocks.",
@@ -1585,5 +1688,5 @@
    "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
- "guncelleme": "2026-08-13T14:03:34.959431+03:00"
+ "guncelleme": "2026-08-13T14:31:06.504222+03:00"
 }
