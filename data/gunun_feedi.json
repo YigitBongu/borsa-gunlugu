@@ -186,6 +186,19 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/surdurulebilir-dunya/mavi-nefesle-denizlerde-335-bin-kilogram-atik-toplandi-haberi-836117",
+   "baslik": "Mavi Nefes’le denizlerde 335 bin kilogram atık toplandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/surdurulebilir-dunya/mavi-nefesle-denizlerde-335-bin-kilogram-atik-toplandi-haberi-836117",
+   "saat": "00:00",
+   "tarih_iso": "2026-08-14T00:00:00+03:00",
+   "kodlar": [
+    "GARAN",
+    "MAVI"
+   ],
+   "eklenme": "2026-08-14T00:09:55.669525+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/spkden-3-sirketin-bedelsiz-sermaye-artirimina-onay-haberi-836137",
    "baslik": "SPK'den 3 şirketin bedelsiz sermaye artırımına onay",
    "kaynak": "Dünya",
@@ -343,6 +356,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/sektorler/sanayici-dusuk-faiz-tuketici-taksit-istiyor-haberi-836111",
+   "baslik": "Sanayici düşük faiz tüketici taksit istiyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sektorler/sanayici-dusuk-faiz-tuketici-taksit-istiyor-haberi-836111",
+   "saat": "00:00",
+   "tarih_iso": "2026-08-14T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T00:09:55.669525+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/gundem/fidan-turkiye-misir-ticaretinde-15-milyar-dolar-hedefliyoruz-haberi-836136",
    "baslik": "Fidan: Türkiye-Mısır ticaretinde 15 milyar dolar hedefliyoruz",
@@ -774,6 +797,16 @@
    "tarih_iso": "2026-08-13T22:23:04+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T23:01:07.365355+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
+   "baslik": "The 10 housing markets where the most sellers have listed their homes for less than what they paid",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
+   "saat": "22:23",
+   "tarih_iso": "2026-08-13T22:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T00:09:55.669525+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/cisco-systems-options-outlook-after-95-postearnings-drop-93CH-4858996",
@@ -1814,16 +1847,6 @@
    "tarih_iso": "2026-08-13T18:01:36+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T18:31:15.674076+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/hormuz-stalemate-raises-risk-120-150000321.html",
-   "baslik": "Hormuz Stalemate Raises Risk of $120 Oil",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/hormuz-stalemate-raises-risk-120-150000321.html",
-   "saat": "18:00",
-   "tarih_iso": "2026-08-13T18:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T19:31:00.565464+03:00"
   }
  ],
  "altin_haber": [
@@ -2038,5 +2061,5 @@
    "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
- "guncelleme": "2026-08-14T00:01:10.123115+03:00"
+ "guncelleme": "2026-08-14T00:09:55.669525+03:00"
 }
