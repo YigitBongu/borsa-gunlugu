@@ -404,6 +404,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/avustralya-rio-tintonun-tomago-aluminyum-tesisine-176-milyar-dolar-93CH-4027924",
+   "baslik": "Avustralya, Rio Tinto’nun Tomago alüminyum tesisine 1,76 milyar dolar",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/avustralya-rio-tintonun-tomago-aluminyum-tesisine-176-milyar-dolar-93CH-4027924",
+   "saat": "03:42",
+   "tarih_iso": "2026-08-13T03:42:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T04:01:12.173372+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/nextera-energy-gaz-santralleri-icin-33-milyar-dolar-ald-93CH-4027786",
    "baslik": "NextEra Energy gaz santralleri için 3,3 milyar dolar aldı",
    "kaynak": "Investing TR",
@@ -685,6 +695,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-flat-after-inline-cpi-upbeat-tech-earnings-4856478",
+   "baslik": "U.S. stock futures flat after in-line CPI, upbeat tech earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-after-inline-cpi-upbeat-tech-earnings-4856478",
+   "saat": "03:34",
+   "tarih_iso": "2026-08-13T03:34:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-13T04:01:12.173372+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
    "baslik": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
@@ -1874,16 +1894,6 @@
    "tarih_iso": "2026-08-12T19:30:09+03:00",
    "kodlar": [],
    "eklenme": "2026-08-12T20:01:07.658332+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/norway-2-3-trillion-wealth-163000186.html",
-   "baslik": "Norway $2.3 Trillion Wealth Fund Posts Record-High Profit in H1",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/norway-2-3-trillion-wealth-163000186.html",
-   "saat": "19:30",
-   "tarih_iso": "2026-08-12T19:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-12T20:31:00.602524+03:00"
   }
  ],
  "altin_haber": [
@@ -2158,5 +2168,5 @@
    "eklenme": "2026-08-12T09:01:11.380289+03:00"
   }
  ],
- "guncelleme": "2026-08-13T03:31:02.131189+03:00"
+ "guncelleme": "2026-08-13T04:01:12.173372+03:00"
 }
