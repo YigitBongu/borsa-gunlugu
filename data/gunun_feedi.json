@@ -2,6 +2,32 @@
  "tarih": "2026-08-13",
  "kap": [
   {
+   "id": "kap-my-AGHOL-202608131928",
+   "baslik": "AG ANADOLU GRUBU HOLDİNG A.Ş. — TSRS Uyumlu Sürdürülebilirlik Raporu",
+   "sirket": "AG ANADOLU GRUBU HOLDİNG A.Ş.",
+   "kodlar": [
+    "AGHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:28",
+   "tarih_iso": "2026-08-13T19:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-14T00:01:10.123115+03:00"
+  },
+  {
+   "id": "kap-my-AKSEN-202608131928",
+   "baslik": "AKSA ENERJİ ÜRETİM A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
+   "sirket": "AKSA ENERJİ ÜRETİM A.Ş.",
+   "kodlar": [
+    "AKSEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:28",
+   "tarih_iso": "2026-08-13T19:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-14T00:01:10.123115+03:00"
+  },
+  {
    "id": "kap-my-PGSUS-202608131825",
    "baslik": "PEGASUS HAVA TAŞIMACILIĞI A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
    "sirket": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
@@ -160,6 +186,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/spkden-3-sirketin-bedelsiz-sermaye-artirimina-onay-haberi-836137",
+   "baslik": "SPK'den 3 şirketin bedelsiz sermaye artırımına onay",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/spkden-3-sirketin-bedelsiz-sermaye-artirimina-onay-haberi-836137",
+   "saat": "23:32",
+   "tarih_iso": "2026-08-13T23:32:00+03:00",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "eklenme": "2026-08-14T00:01:10.123115+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/smart-gunes-smrtg-zarardan-kara-gecti-haberi-836122",
+   "baslik": "Smart Güneş (SMRTG) zarardan kâra geçti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/smart-gunes-smrtg-zarardan-kara-gecti-haberi-836122",
+   "saat": "19:14",
+   "tarih_iso": "2026-08-13T19:14:00+03:00",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "eklenme": "2026-08-14T00:01:10.123115+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/bim-14-agustos-aktuel-katalogu-bu-hafta-bimde-neler-var-hangi-urunler-indirimde-iste-14-agustos-cuma-bim-aktuel-urunler-katalogu-3453921",
    "baslik": "BİM 14 AĞUSTOS AKTÜEL KATALOĞU: Bu Hafta BİM'de Neler Var, Hangi Ürünler İndirimde? İşte 14 Ağustos Cuma BİM Aktüel Ürünler Kataloğu...",
    "kaynak": "CNN Türk Ekonomi",
@@ -293,6 +343,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/fidan-turkiye-misir-ticaretinde-15-milyar-dolar-hedefliyoruz-haberi-836136",
+   "baslik": "Fidan: Türkiye-Mısır ticaretinde 15 milyar dolar hedefliyoruz",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/fidan-turkiye-misir-ticaretinde-15-milyar-dolar-hedefliyoruz-haberi-836136",
+   "saat": "23:27",
+   "tarih_iso": "2026-08-13T23:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T00:01:10.123115+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/abdde-ufe-temmuzda-beklentilerin-altinda-kaldi-3454029",
    "baslik": "ABD'de ÜFE temmuzda beklentilerin altında kaldı",
@@ -565,6 +625,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-sliding-today-93CH-4859258",
+   "baslik": "Why is Applied Materials stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-sliding-today-93CH-4859258",
+   "saat": "23:55",
+   "tarih_iso": "2026-08-13T23:55:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T00:01:10.123115+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-rise-with-fresh-us-inflation-data-ahead-4857448",
+   "baslik": "Canada’s TSX hits record high for fifth straight day as tech stocks lead gains",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-rise-with-fresh-us-inflation-data-ahead-4857448",
+   "saat": "23:37",
+   "tarih_iso": "2026-08-13T23:37:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T00:01:10.123115+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-013-4859169",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.13%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-013-4859169",
+   "saat": "23:31",
+   "tarih_iso": "2026-08-13T23:31:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T00:01:10.123115+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-026-4859164",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.26%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-026-4859164",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-13T23:30:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T00:01:10.123115+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-023-4859163",
+   "baslik": "Brazil stocks lower at close of trade; Bovespa down 0.23%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-023-4859163",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-13T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T00:01:10.123115+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/exclusivesp-500-ceo-pay-jumps-to-record-as-muskinspired-compensation-plans-spread-4858371",
+   "baslik": "S&P 500 CEO pay jumps to record as Musk-inspired compensation plans spread",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/exclusivesp-500-ceo-pay-jumps-to-record-as-muskinspired-compensation-plans-spread-4858371",
+   "saat": "23:24",
+   "tarih_iso": "2026-08-13T23:24:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T00:01:10.123115+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
    "baslik": "These charts show why stocks keep rallying. Profit margins are the highest on record",
@@ -1704,66 +1824,6 @@
    "tarih_iso": "2026-08-13T18:00:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-13T19:31:00.565464+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/lower-capex-outlook-leadership-change-145810733.html",
-   "baslik": "Lower Capex Outlook and Leadership Change Weighed on Expand Energy Corp. (EXE)",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/lower-capex-outlook-leadership-change-145810733.html",
-   "saat": "17:58",
-   "tarih_iso": "2026-08-13T17:58:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T18:31:15.674076+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
-   "baslik": "The 10 housing markets where the most sellers have listed their homes for less than what they paid",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
-   "saat": "17:57",
-   "tarih_iso": "2026-08-13T17:57:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T18:01:16.267263+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/devon-energy-corp-dvn-slipped-145027877.html",
-   "baslik": "Devon Energy Corp. (DVN) Slipped Post-Acquisition",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-corp-dvn-slipped-145027877.html",
-   "saat": "17:50",
-   "tarih_iso": "2026-08-13T17:50:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T18:31:15.674076+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/inflation-falls-2-months-straight-144453057.html",
-   "baslik": "Inflation Falls for 2 Months Straight — Is a Fed September Rate Hike Still on the Table?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/inflation-falls-2-months-straight-144453057.html",
-   "saat": "17:44",
-   "tarih_iso": "2026-08-13T17:44:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T18:01:16.267263+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/klic-q3-2026-earnings-call-143848668.html",
-   "baslik": "KLIC Q3 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/klic-q3-2026-earnings-call-143848668.html",
-   "saat": "17:38",
-   "tarih_iso": "2026-08-13T17:38:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T17:52:46.505422+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/cisco-palantir-among-market-cap-stock-movers-on-thursday-93CH-4858497",
-   "baslik": "Cisco, Palantir among market cap stock movers on Thursday",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/cisco-palantir-among-market-cap-stock-movers-on-thursday-93CH-4858497",
-   "saat": "17:36",
-   "tarih_iso": "2026-08-13T17:36:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-13T17:52:46.505422+03:00"
   }
  ],
  "altin_haber": [
@@ -1978,5 +2038,5 @@
    "eklenme": "2026-08-13T09:01:12.089576+03:00"
   }
  ],
- "guncelleme": "2026-08-13T23:31:03.586577+03:00"
+ "guncelleme": "2026-08-14T00:01:10.123115+03:00"
 }
