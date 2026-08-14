@@ -2,6 +2,45 @@
  "tarih": "2026-08-14",
  "kap": [
   {
+   "id": "kap-my-KAYSE-202608141934",
+   "baslik": "KAYSERİ ŞEKER FABRİKASI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "KAYSERİ ŞEKER FABRİKASI A.Ş.",
+   "kodlar": [
+    "KAYSE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:34",
+   "tarih_iso": "2026-08-14T19:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-15T00:01:01.748393+03:00"
+  },
+  {
+   "id": "kap-my-ENKAI-202608141924",
+   "baslik": "ENKA İNŞAAT VE SANAYİ A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
+   "sirket": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+   "kodlar": [
+    "ENKAI"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:24",
+   "tarih_iso": "2026-08-14T19:24:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-15T00:01:01.748393+03:00"
+  },
+  {
+   "id": "kap-my-ENKAI-202608141922",
+   "baslik": "ENKA İNŞAAT VE SANAYİ A.Ş. — Finansal Rapor",
+   "sirket": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+   "kodlar": [
+    "ENKAI"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:22",
+   "tarih_iso": "2026-08-14T19:22:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-15T00:01:01.748393+03:00"
+  },
+  {
    "id": "kap-my-KMPUR-202608141546",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -133,6 +172,30 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcenin-olimpik-lyon-maclarinin-oyuncu-listesi-belli-oldu-haberi-836274",
+   "baslik": "Fenerbahçe'nin Olimpik Lyon maçlarının oyuncu listesi belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcenin-olimpik-lyon-maclarinin-oyuncu-listesi-belli-oldu-haberi-836274",
+   "saat": "22:41",
+   "tarih_iso": "2026-08-14T22:41:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-15T00:01:01.748393+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/gundem/fenerbahce-otobusune-saldiri-dosyasinda-1-tutuklama-haberi-836268",
+   "baslik": "Fenerbahçe otobüsüne saldırı dosyasında 1 tutuklama",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/fenerbahce-otobusune-saldiri-dosyasinda-1-tutuklama-haberi-836268",
+   "saat": "20:16",
+   "tarih_iso": "2026-08-14T20:16:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-15T00:01:01.748393+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/turk-telekom-teknolojisi-turk-futbolunun-destekcisi-3905677-teknoloji",
    "baslik": "Türk futboluna teknoloji desteği",
@@ -303,6 +366,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/wsj-stripe-ve-advent-paypal-icin-hisse-basna-6050-dolar-teklif-etti-4031470",
+   "baslik": "WSJ: Stripe ve Advent, PayPal için hisse başına 60,50 dolar teklif etti",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/wsj-stripe-ve-advent-paypal-icin-hisse-basna-6050-dolar-teklif-etti-4031470",
+   "saat": "22:57",
+   "tarih_iso": "2026-08-14T22:57:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-15T00:01:01.748393+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/bu-ay-fed-toplantisi-olacak-mi-fed-faiz-karari-ne-zaman-aciklaniyor-haberi-836249",
    "baslik": "Bu ay Fed toplantısı olacak mı? Fed faiz kararı ne zaman açıklanıyor?",
@@ -505,6 +578,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/berkshire-buys-more-alphabet-which-becomes-its-thirdlargest-stock-investment-4861495",
+   "baslik": "Berkshire buys more Alphabet, which becomes its third-largest stock investment",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/berkshire-buys-more-alphabet-which-becomes-its-thirdlargest-stock-investment-4861495",
+   "saat": "23:49",
+   "tarih_iso": "2026-08-14T23:49:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-15T00:01:01.748393+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-020-4861484",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.20%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-020-4861484",
+   "saat": "23:31",
+   "tarih_iso": "2026-08-14T23:31:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-15T00:01:01.748393+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-008-4861481",
    "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.08%",
@@ -1684,29 +1777,19 @@
    "tarih_iso": "2026-08-14T17:40:47+03:00",
    "kodlar": [],
    "eklenme": "2026-08-14T18:14:38.519590+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-applied-optoelectronics-stock-surging-today-93CH-4861187",
-   "baslik": "Why is Applied Optoelectronics stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-applied-optoelectronics-stock-surging-today-93CH-4861187",
-   "saat": "17:39",
-   "tarih_iso": "2026-08-14T17:39:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T18:01:01.912566+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/walmart-set-line-q2-investors-143800559.html",
-   "baslik": "Walmart set for in-line Q2 as investors eye tariff refund plans, 2H guidance",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-set-line-q2-investors-143800559.html",
-   "saat": "17:38",
-   "tarih_iso": "2026-08-14T17:38:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T18:01:01.912566+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-keeps-failing-at-4500--but-the-structural-bull-case-is-getting-stronger-200685878",
+   "baslik": "Gold Keeps Failing at $4,500 — But the Structural Bull Case Is Getting Stronger",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-keeps-failing-at-4500--but-the-structural-bull-case-is-getting-stronger-200685878",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-15T00:01:01.748393+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-tests-a-major-resistance-as-selloff-risk-builds--watch-this-weeks-close-200685866",
    "baslik": "Gold Tests a Major Resistance as Sell-Off Risk Builds — Watch This Week’s Close",
@@ -1978,5 +2061,5 @@
    "eklenme": "2026-08-14T09:01:08.271418+03:00"
   }
  ],
- "guncelleme": "2026-08-14T23:51:44.198395+03:00"
+ "guncelleme": "2026-08-15T00:01:01.748393+03:00"
 }
