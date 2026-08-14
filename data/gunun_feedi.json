@@ -2,6 +2,32 @@
  "tarih": "2026-08-14",
  "kap": [
   {
+   "id": "kap-my-TAVHL-202608141026",
+   "baslik": "TAV HAVALİMANLARI HOLDİNG A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:26",
+   "tarih_iso": "2026-08-14T10:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
+   "id": "kap-my-SDTTR-202608141011",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:11",
+   "tarih_iso": "2026-08-14T10:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
    "id": "kap-my-SISE-202608140952",
    "baslik": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
@@ -56,6 +82,42 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcede-fred-donemi-sona-erdi-haberi-836192",
+   "baslik": "Fenerbahçe'de Fred dönemi sona erdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcede-fred-donemi-sona-erdi-haberi-836192",
+   "saat": "11:08",
+   "tarih_iso": "2026-08-14T11:08:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/karsan-in-hollanda-daki-ikinci-otonom-projesi-hayata-gecti-3905554-ekonomi",
+   "baslik": "Hollanda'daki ikinci otonom projesi hayata geçti",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/karsan-in-hollanda-daki-ikinci-otonom-projesi-hayata-gecti-3905554-ekonomi",
+   "saat": "11:05",
+   "tarih_iso": "2026-08-14T11:05:34+03:00",
+   "kodlar": [
+    "KARSN"
+   ],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/turkcellden-ikinci-ceyrekte-52-milyar-tl-net-kar-abone-sayisinda-tarihi-esik-asildi-haberi-836191",
+   "baslik": "Turkcell’den ikinci çeyrekte 5,2 milyar TL net kâr: Abone sayısında tarihi eşik aşıldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turkcellden-ikinci-ceyrekte-52-milyar-tl-net-kar-abone-sayisinda-tarihi-esik-asildi-haberi-836191",
+   "saat": "11:00",
+   "tarih_iso": "2026-08-14T11:00:00+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/teknofest-mavi-vatanda-adrenalin-zirvede-3905533-teknoloji",
    "baslik": "Mavi Vatan’da adrenalin zirvede",
    "kaynak": "Habertürk Ekonomi",
@@ -93,6 +155,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/enerji/savas-petrol-devlerine-yaradi-kasalarina-1528-milyar-dolar-girdi-haberi-836194",
+   "baslik": "Savaş petrol devlerine yaradı: Kasalarına 152,8 milyar dolar girdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/enerji/savas-petrol-devlerine-yaradi-kasalarina-1528-milyar-dolar-girdi-haberi-836194",
+   "saat": "11:07",
+   "tarih_iso": "2026-08-14T11:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/yased-yilin-ilk-yarisinda-turkiyeye-42-milyar-dolar-degerinde-uluslararasi-dogrudan-yatirim-geldi-haberi-836190",
+   "baslik": "YASED: Yılın ilk yarısında Türkiye’ye 4,2 milyar dolar değerinde uluslararası doğrudan yatırım geldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/yased-yilin-ilk-yarisinda-turkiyeye-42-milyar-dolar-degerinde-uluslararasi-dogrudan-yatirim-geldi-haberi-836190",
+   "saat": "10:57",
+   "tarih_iso": "2026-08-14T10:57:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/borsa/bist-100de-sinirli-yukselis-gune-14137-puandan-basladi-haberi-836179",
    "baslik": "BIST 100'de sınırlı yükseliş: Güne 14.137 puandan başladı",
@@ -185,6 +267,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dfds-stock-surging-today-93CH-4859926",
+   "baslik": "Why is DFDS stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-dfds-stock-surging-today-93CH-4859926",
+   "saat": "11:13",
+   "tarih_iso": "2026-08-14T11:13:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gb-stock-plunging-today-93CH-4859922",
+   "baslik": "Why is GB stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-gb-stock-plunging-today-93CH-4859922",
+   "saat": "11:12",
+   "tarih_iso": "2026-08-14T11:12:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/usbased-diversified-energy-in-early-talks-to-acquire-birch-resources-4859903",
+   "baslik": "US-based Diversified Energy in early talks to acquire Birch Resources",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/usbased-diversified-energy-in-early-talks-to-acquire-birch-resources-4859903",
+   "saat": "11:06",
+   "tarih_iso": "2026-08-14T11:06:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ck-asset-stock-sliding-today-93CH-4859914",
+   "baslik": "Why is CK Asset stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ck-asset-stock-sliding-today-93CH-4859914",
+   "saat": "11:02",
+   "tarih_iso": "2026-08-14T11:02:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ck-hutchison-stock-sliding-today-93CH-4859904",
+   "baslik": "Why is CK Hutchison stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ck-hutchison-stock-sliding-today-93CH-4859904",
+   "saat": "10:54",
+   "tarih_iso": "2026-08-14T10:54:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tivoli-reports-6-revenue-growth-in-first-half-of-2026-93CH-4859899",
+   "baslik": "Tivoli reports 6% revenue growth in first half of 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tivoli-reports-6-revenue-growth-in-first-half-of-2026-93CH-4859899",
+   "saat": "10:52",
+   "tarih_iso": "2026-08-14T10:52:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-flat-but-set-for-weekly-loss-as-iran-tensions-lift-oil-4859863",
    "baslik": "European shares flat, but set for weekly loss as Iran tensions lift oil",
@@ -668,6 +810,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-risks-deeper-selloff-as-hormuz-crisis-keeps-markets-uneasy-200685820",
+   "baslik": "Gold Risks Deeper Selloff as Hormuz Crisis Keeps Markets Uneasy",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-risks-deeper-selloff-as-hormuz-crisis-keeps-markets-uneasy-200685820",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-14T11:30:52.577596+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-momentum-turns-positive-can-bulls-reclaim-4443-and-target-4552-200685811",
    "baslik": "Gold Momentum Turns Positive: Can Bulls Reclaim $4,443 and Target $4,552?",
    "kaynak": "Investing Emtia",
@@ -758,5 +910,5 @@
    "eklenme": "2026-08-14T09:01:08.271418+03:00"
   }
  ],
- "guncelleme": "2026-08-14T10:30:52.025246+03:00"
+ "guncelleme": "2026-08-14T11:30:52.577596+03:00"
 }
