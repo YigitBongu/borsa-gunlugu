@@ -134,6 +134,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/turk-telekom-teknolojisi-turk-futbolunun-destekcisi-3905677-teknoloji",
+   "baslik": "Türk futboluna teknoloji desteği",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/turk-telekom-teknolojisi-turk-futbolunun-destekcisi-3905677-teknoloji",
+   "saat": "17:01",
+   "tarih_iso": "2026-08-14T17:01:37+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/fatih-erunsal-teknoloji-ekosistemine-uzun-vadeli-deger-uretmeye-devam-edecegiz-3905671-ekonomi",
    "baslik": "\"Teknoloji ekosistemine uzun vadeli değer üretmeye devam edeceğiz”",
    "kaynak": "Habertürk Ekonomi",
@@ -291,6 +303,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/bu-ay-fed-toplantisi-olacak-mi-fed-faiz-karari-ne-zaman-aciklaniyor-haberi-836249",
+   "baslik": "Bu ay Fed toplantısı olacak mı? Fed faiz kararı ne zaman açıklanıyor?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bu-ay-fed-toplantisi-olacak-mi-fed-faiz-karari-ne-zaman-aciklaniyor-haberi-836249",
+   "saat": "17:19",
+   "tarih_iso": "2026-08-14T17:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/morgan-stanley-fedin-yl-sonuna-kadar-beklemede-kalacagn-ongoruyor-93CH-4031006",
    "baslik": "Morgan Stanley Fed’in yıl sonuna kadar beklemede kalacağını öngörüyor",
@@ -484,6 +506,96 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/replimune-group-stock-may-move-56-on-earnings-release-93CH-4861104",
+   "baslik": "Replimune Group stock may move 5.6% on earnings release",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/replimune-group-stock-may-move-56-on-earnings-release-93CH-4861104",
+   "saat": "17:22",
+   "tarih_iso": "2026-08-14T17:22:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/miniso-group-shares-may-move-64-on-aug-21-earnings-report-93CH-4861103",
+   "baslik": "Miniso Group shares may move 6.4% on Aug. 21 earnings report",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/miniso-group-shares-may-move-64-on-aug-21-earnings-report-93CH-4861103",
+   "saat": "17:20",
+   "tarih_iso": "2026-08-14T17:20:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bjs-wholesale-club-shares-may-move-58-on-earnings-report-93CH-4861100",
+   "baslik": "BJ’s Wholesale Club shares may move 5.8% on earnings report",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bjs-wholesale-club-shares-may-move-58-on-earnings-report-93CH-4861100",
+   "saat": "17:19",
+   "tarih_iso": "2026-08-14T17:19:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nasdaq-100-stalls-below-30000-bull-trap-zone-live-levels-93CH-4849697",
+   "baslik": "Nasdaq 100 presses major resistance at 30,267: Live levels",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-stalls-below-30000-bull-trap-zone-live-levels-93CH-4849697",
+   "saat": "17:16",
+   "tarih_iso": "2026-08-14T17:16:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-teases-alltime-high-with-double-top-risk-live-levels-93CH-4849695",
+   "baslik": "S&P 500 hits ATH with bearish divergence: Live levels",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-teases-alltime-high-with-double-top-risk-live-levels-93CH-4849695",
+   "saat": "17:16",
+   "tarih_iso": "2026-08-14T17:16:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dow-jones-slips-from-ath-as-bears-eye-53849-support-live-93CH-4849696",
+   "baslik": "Dow Jones stuck in 53,800-54,150 chop zone: Hourly levels",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dow-jones-slips-from-ath-as-bears-eye-53849-support-live-93CH-4849696",
+   "saat": "17:16",
+   "tarih_iso": "2026-08-14T17:16:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/real-estate/articles/strawberry-fields-reit-strw-q2-140702332.html",
+   "baslik": "Strawberry Fields REIT (STRW) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/real-estate/articles/strawberry-fields-reit-strw-q2-140702332.html",
+   "saat": "17:07",
+   "tarih_iso": "2026-08-14T17:07:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/where-vanguard-p-500-etf-140500676.html",
+   "baslik": "Where Will the Vanguard S&P 500 ETF (VOO) Be in 20 Years? Here's What Decades of Stock Market History Suggests.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/where-vanguard-p-500-etf-140500676.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-08-14T17:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/lanzatech-global-q2-earnings-call-140429024.html",
+   "baslik": "LanzaTech Global Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lanzatech-global-q2-earnings-call-140429024.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-14T17:04:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-space-exploration-technologies-stock-sliding-today-93CH-4861069",
    "baslik": "Why is Space Exploration Technologies stock sliding today?",
    "kaynak": "Investing.com",
@@ -492,6 +604,166 @@
    "tarih_iso": "2026-08-14T17:04:28+03:00",
    "kodlar": [],
    "eklenme": "2026-08-14T17:13:46.071944+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/gemini-space-station-q2-earnings-140428475.html",
+   "baslik": "Gemini Space Station Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/gemini-space-station-q2-earnings-140428475.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-14T17:04:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/immucell-q2-earnings-call-highlights-140428851.html",
+   "baslik": "ImmuCell Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/immucell-q2-earnings-call-highlights-140428851.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-14T17:04:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/digi-power-x-q2-earnings-140427175.html",
+   "baslik": "Digi Power X Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/digi-power-x-q2-earnings-140427175.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-14T17:04:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stratec-q2-earnings-call-highlights-140426047.html",
+   "baslik": "Stratec Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stratec-q2-earnings-call-highlights-140426047.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-14T17:04:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/airjoule-technologies-q2-earnings-call-140426524.html",
+   "baslik": "AirJoule Technologies Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/airjoule-technologies-q2-earnings-call-140426524.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-14T17:04:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/higher-federal-student-loan-rates-140238406.html",
+   "baslik": "Are higher federal student loan rates driving more to private loans?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/higher-federal-student-loan-rates-140238406.html",
+   "saat": "17:02",
+   "tarih_iso": "2026-08-14T17:02:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+   "baslik": "Drone stocks rally after Trump orders tariffs on foreign-made components",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
+   "saat": "17:01",
+   "tarih_iso": "2026-08-14T17:01:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+   "baslik": "Housing investors say this is their worst market in at least 3 years",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/14/housing-investors-say-this-is-their-worst-market-in-at-least-3-years.html",
+   "saat": "17:00",
+   "tarih_iso": "2026-08-14T17:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/news/yens-weekly-loss-puts-more-061643422.html",
+   "baslik": "Dollar falls on surprise drop in US retail sales",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/yens-weekly-loss-puts-more-061643422.html",
+   "saat": "16:58",
+   "tarih_iso": "2026-08-14T16:58:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/microsoft-msft-ai-strategy-cloud-135455507.html",
+   "baslik": "Microsoft’s (MSFT) AI Strategy: Cloud Growth, Big Bets, and Key Risks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-ai-strategy-cloud-135455507.html",
+   "saat": "16:54",
+   "tarih_iso": "2026-08-14T16:54:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/dell-stock-scores-price-target-hike-after-breakout/?src=A00220&yptr=yahoo",
+   "baslik": "Dell Stock Scores Price-Target Hike After Breakout",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/dell-stock-scores-price-target-hike-after-breakout/?src=A00220&yptr=yahoo",
+   "saat": "16:51",
+   "tarih_iso": "2026-08-14T16:51:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/evaluating-moody-corporation-mco-long-134541660.html",
+   "baslik": "Re-evaluating Moody’s Corporation (MCO) Long-Term Growth Strategy",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/evaluating-moody-corporation-mco-long-134541660.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-08-14T16:45:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/fund-admits-multi-stock-holdings-134424118.html",
+   "baslik": "Fund Admits Multi-Year Stock Holdings in Accenture (ACN) Were a “Costly Mistake”",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fund-admits-multi-stock-holdings-134424118.html",
+   "saat": "16:44",
+   "tarih_iso": "2026-08-14T16:44:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/stocks-subdued-as-earnings-season-begins-to-wind-down-alphacheck-134418155.html",
+   "baslik": "Stocks subdued as earnings season begins to wind down: AlphaCheck",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/stocks-subdued-as-earnings-season-begins-to-wind-down-alphacheck-134418155.html",
+   "saat": "16:44",
+   "tarih_iso": "2026-08-14T16:44:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Dow Falls After Surprise Retail Sales; Applied Materials Dives On Earnings (Live Coverage)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-retail-sales-applied-materials-stock-amat/?src=A00220&yptr=yahoo",
+   "saat": "16:40",
+   "tarih_iso": "2026-08-14T16:40:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/why-did-oscar-health-oscr-133340254.html",
+   "baslik": "Why Did Oscar Health (OSCR) Fall After Record Profit and a Guidance Hike?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/why-did-oscar-health-oscr-133340254.html",
+   "saat": "16:33",
+   "tarih_iso": "2026-08-14T16:33:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zentalis-pharmaceuticals-stock-tumbling-today-93CH-4860904",
@@ -512,6 +784,16 @@
    "tarih_iso": "2026-08-14T16:17:25+03:00",
    "kodlar": [],
    "eklenme": "2026-08-14T17:00:58.655445+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/sandisk-stock-surges-as-wall-street-cheers-flash-memory-makers-bullish-outlook-131502540.html",
+   "baslik": "Sandisk stock surges as Wall Street cheers flash memory maker's bullish outlook",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/sandisk-stock-surges-as-wall-street-cheers-flash-memory-makers-bullish-outlook-131502540.html",
+   "saat": "16:15",
+   "tarih_iso": "2026-08-14T16:15:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
@@ -834,6 +1116,16 @@
    "eklenme": "2026-08-14T13:54:48.165691+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
+   "baslik": "Stock market today: Dow, S&P 500, Nasdaq waver after stocks hit record high",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
+   "saat": "13:26",
+   "tarih_iso": "2026-08-14T13:26:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ap-moeller--maersk-stock-surging-today-93CH-4860217",
    "baslik": "Why is AP Moeller - Maersk stock surging today?",
    "kaynak": "Investing.com",
@@ -902,6 +1194,16 @@
    "tarih_iso": "2026-08-14T13:00:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-14T13:30:57.483572+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/reddit-stock-surges-after-sp-500-inclusion--heres-the-platforms-next-big-opportunity-093635663.html",
+   "baslik": "Reddit stock surges after S&P 500 inclusion — here's the platform's next big opportunity",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/reddit-stock-surges-after-sp-500-inclusion--heres-the-platforms-next-big-opportunity-093635663.html",
+   "saat": "12:36",
+   "tarih_iso": "2026-08-14T12:36:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T17:31:16.992445+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hellofresh-stock-sliding-today-93CH-4860068",
@@ -1402,286 +1704,6 @@
    "tarih_iso": "2026-08-14T09:08:32+03:00",
    "kodlar": [],
    "eklenme": "2026-08-14T09:30:58.096382+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/adesso-reports-13-sales-growth-in-first-half-of-2026-93CH-4859777",
-   "baslik": "Adesso reports 13% sales growth in first half of 2026",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/adesso-reports-13-sales-growth-in-first-half-of-2026-93CH-4859777",
-   "saat": "09:06",
-   "tarih_iso": "2026-08-14T09:06:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:30:58.096382+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/posti-reports-16-sales-growth-as-parcel-volumes-rise-93CH-4859772",
-   "baslik": "Posti reports 1.6% sales growth as parcel volumes rise",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/posti-reports-16-sales-growth-as-parcel-volumes-rise-93CH-4859772",
-   "saat": "09:04",
-   "tarih_iso": "2026-08-14T09:04:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:30:58.096382+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4859763",
-   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted unchanged",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-unchanged-4859763",
-   "saat": "09:00",
-   "tarih_iso": "2026-08-14T09:00:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:30:58.096382+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/81-49-48-how-propicks-ai-caught-this-weeks-top-earnings-breakouts-4859619",
-   "baslik": "+81%, +49%, +48%: How ProPicks AI caught this week’s top earnings breakouts",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/81-49-48-how-propicks-ai-caught-this-weeks-top-earnings-breakouts-4859619",
-   "saat": "08:53",
-   "tarih_iso": "2026-08-14T08:53:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/these-four-crypto-stocks-outperformed-even-as-bitcoin-crashed-from-record-highs-93CH-4859715",
-   "baslik": "These four crypto stocks outperformed even as Bitcoin crashed from record highs",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/these-four-crypto-stocks-outperformed-even-as-bitcoin-crashed-from-record-highs-93CH-4859715",
-   "saat": "08:26",
-   "tarih_iso": "2026-08-14T08:26:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsonite-stock-falling-today-93CH-4859714",
-   "baslik": "Why is Samsonite stock falling today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-samsonite-stock-falling-today-93CH-4859714",
-   "saat": "08:25",
-   "tarih_iso": "2026-08-14T08:25:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-china-gold-international-resources-stock-surging-today-93CH-4859713",
-   "baslik": "Why is China Gold International Resources stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-china-gold-international-resources-stock-surging-today-93CH-4859713",
-   "saat": "08:24",
-   "tarih_iso": "2026-08-14T08:24:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gds-holdings-hk-stock-surging-today-93CH-4859712",
-   "baslik": "Why is GDS Holdings HK stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-gds-holdings-hk-stock-surging-today-93CH-4859712",
-   "saat": "08:24",
-   "tarih_iso": "2026-08-14T08:24:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
-   "baslik": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
-   "saat": "08:00",
-   "tarih_iso": "2026-08-14T08:00:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/us-treasury-sec-bessent-vows-never-been-seen-measures-on-iran-93CH-4859692",
-   "baslik": "US Treasury Sec Bessent vows ’never been seen’ measures on Iran",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/us-treasury-sec-bessent-vows-never-been-seen-measures-on-iran-93CH-4859692",
-   "saat": "07:45",
-   "tarih_iso": "2026-08-14T07:45:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-   "baslik": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
-   "saat": "04:52",
-   "tarih_iso": "2026-08-14T04:52:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories",
-   "baslik": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories",
-   "saat": "03:19",
-   "tarih_iso": "2026-08-14T03:19:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
-   "baslik": "Reddit stock jumps on inclusion in S&P 500",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
-   "saat": "02:04",
-   "tarih_iso": "2026-08-14T02:04:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
-   "baslik": "Dell’s stock has beaten Micron and AMD this year — and now it’s adding to its gains",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/dells-stock-has-beaten-micron-and-amd-this-year-and-now-its-adding-to-its-gains-11c00117?mod=mw_rss_topstories",
-   "saat": "01:09",
-   "tarih_iso": "2026-08-14T01:09:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
-   "baslik": "Salesforce’s stock gets a boost as J.P. Morgan says AI fears are overblown",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/salesforces-stock-gets-a-boost-as-j-p-morgan-says-ai-fears-are-overblown-feebb221?mod=mw_rss_topstories",
-   "saat": "01:07",
-   "tarih_iso": "2026-08-14T01:07:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-   "baslik": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-   "saat": "01:05",
-   "tarih_iso": "2026-08-14T01:05:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
-   "baslik": "Markets are looking eerily calm as investors chase FOMO rally",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/markets-are-looking-eerily-calm-as-investors-chase-fomo-rally-bed22de9?mod=mw_rss_topstories",
-   "saat": "01:05",
-   "tarih_iso": "2026-08-14T01:05:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-   "baslik": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-   "saat": "01:00",
-   "tarih_iso": "2026-08-14T01:00:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories",
-   "baslik": "Workday’s stock sees a record surge. Could a buyout spark a software revival?",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories",
-   "saat": "00:34",
-   "tarih_iso": "2026-08-14T00:34:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
-   "baslik": "Cisco shares slide 8% despite earnings beat and stronger-than-expected guidance",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
-   "saat": "23:57",
-   "tarih_iso": "2026-08-13T23:57:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
-   "baslik": "These charts show why stocks keep rallying. Profit margins are the highest on record",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/these-charts-show-why-stocks-keep-rallying-profit-margins-are-highest-on-record.html",
-   "saat": "23:21",
-   "tarih_iso": "2026-08-13T23:21:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
-   "baslik": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
-   "saat": "22:59",
-   "tarih_iso": "2026-08-13T22:59:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
-   "baslik": "Trade court upholds Trump's closure of 'de minimis' loophole",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/trump-trade-court-de-minimis-tariffs-ieepa.html",
-   "saat": "22:56",
-   "tarih_iso": "2026-08-13T22:56:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
-   "baslik": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html",
-   "saat": "21:44",
-   "tarih_iso": "2026-08-13T21:44:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/top-energy-plays-for-the-rest-of-the-year-including-a-behind-the-meter-power-play.html",
-   "baslik": "Top energy plays for the rest of the year... including a 'behind-the-meter' power play",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/top-energy-plays-for-the-rest-of-the-year-including-a-behind-the-meter-power-play.html",
-   "saat": "20:08",
-   "tarih_iso": "2026-08-13T20:08:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-   "baslik": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-   "saat": "19:38",
-   "tarih_iso": "2026-08-13T19:38:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
-   "baslik": "Trump-linked oil venture delays Greenland drilling plans after government warning",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
-   "saat": "19:06",
-   "tarih_iso": "2026-08-13T19:06:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-   "baslik": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
-   "saat": "18:16",
-   "tarih_iso": "2026-08-13T18:16:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T09:01:08.271418+03:00"
   }
  ],
  "altin_haber": [
@@ -1866,5 +1888,5 @@
    "eklenme": "2026-08-14T09:01:08.271418+03:00"
   }
  ],
- "guncelleme": "2026-08-14T17:13:46.071944+03:00"
+ "guncelleme": "2026-08-14T17:31:16.992445+03:00"
 }
