@@ -108,6 +108,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkcellin-yilin-ikinci-ceyreginde-net-kari-5-2-milyar-lira-oldu/4027266",
+   "baslik": "Turkcell'in yılın ikinci çeyreğinde net karı 5,2 milyar lira oldu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkcellin-yilin-ikinci-ceyreginde-net-kari-5-2-milyar-lira-oldu/4027266",
+   "saat": "12:24",
+   "tarih_iso": "2026-08-14T12:24:55+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-08-14T12:30:52.937014+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-cindeki-ucus-agina-cengduyu-ekliyor/4027209",
    "baslik": "THY, Çin'deki uçuş ağına Çengdu'yu ekliyor",
    "kaynak": "AA Ekonomi",
@@ -205,6 +217,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/altin/altinda-yeni-fiyatlama-donemi-mi-basliyor-3454380",
+   "baslik": "Uzman isim o tarihe dikkat çekti! Altında yeni fiyatlama sinyali: Fed beklentileri ve kâr satışları öne çıktı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/altin/altinda-yeni-fiyatlama-donemi-mi-basliyor-3454380",
+   "saat": "15:22",
+   "tarih_iso": "2026-08-14T15:22:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T12:30:52.937014+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/evren-cakarer-merkez-bankasinin-enflasyon-revizyonu-faiz-indiriminin-onunu-acabilir-haberi-836202",
+   "baslik": "Evren Çakarer: Merkez Bankası'nın enflasyon revizyonu faiz indiriminin önünü açabilir",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/evren-cakarer-merkez-bankasinin-enflasyon-revizyonu-faiz-indiriminin-onunu-acabilir-haberi-836202",
+   "saat": "12:01",
+   "tarih_iso": "2026-08-14T12:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T12:30:52.937014+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/tcmb-enflasyon-raporunda-tahmin-beklentinin-uzerinde-revize-edildi-kurumlar-temkinli-gevseme-sinyaline-odaklandi-haberi-836197",
    "baslik": "TCMB Enflasyon Raporu’nda tahmin beklentinin üzerinde revize edildi, kurumlar temkinli gevşeme sinyaline odaklandı",
@@ -327,6 +359,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hellofresh-stock-sliding-today-93CH-4860068",
+   "baslik": "Why is HelloFresh stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hellofresh-stock-sliding-today-93CH-4860068",
+   "saat": "12:14",
+   "tarih_iso": "2026-08-14T12:14:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T12:30:52.937014+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-rallying-today-93CH-4860044",
+   "baslik": "Why is SanDisk stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-rallying-today-93CH-4860044",
+   "saat": "12:08",
+   "tarih_iso": "2026-08-14T12:08:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T12:30:52.937014+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-psk-holdings-stock-rallying-today-93CH-4860043",
+   "baslik": "Why is PSK Holdings stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-psk-holdings-stock-rallying-today-93CH-4860043",
+   "saat": "12:06",
+   "tarih_iso": "2026-08-14T12:06:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T12:30:52.937014+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/applied-materials-slips-as-investors-seek-faster-growth-after-stellar-run-4860032",
+   "baslik": "Applied Materials slips as investors seek faster growth after stellar run",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/applied-materials-slips-as-investors-seek-faster-growth-after-stellar-run-4860032",
+   "saat": "12:00",
+   "tarih_iso": "2026-08-14T12:00:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T12:30:52.937014+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nintendo-stock-can-pokemon-pokopia-and-switch-2-fuel-more-upside-after-26-surge-93CH-4860027",
+   "baslik": "Nintendo stock: Can Pokémon Pokopia and Switch 2 fuel more upside after 26% surge?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nintendo-stock-can-pokemon-pokopia-and-switch-2-fuel-more-upside-after-26-surge-93CH-4860027",
+   "saat": "11:58",
+   "tarih_iso": "2026-08-14T11:58:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T12:30:52.937014+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-birkenstock-stock-sliding-today-93CH-4860026",
+   "baslik": "Why is Birkenstock stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-birkenstock-stock-sliding-today-93CH-4860026",
+   "saat": "11:57",
+   "tarih_iso": "2026-08-14T11:57:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T12:30:52.937014+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-swarmer-stock-sliding-today-93CH-4860013",
    "baslik": "Why is Swarmer stock sliding today?",
@@ -1040,6 +1132,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/altinda-yeni-fiyatlama-donemi-mi-basliyor-3454380",
+   "baslik": "Uzman isim o tarihe dikkat çekti! Altında yeni fiyatlama sinyali: Fed beklentileri ve kâr satışları öne çıktı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/altin/altinda-yeni-fiyatlama-donemi-mi-basliyor-3454380",
+   "saat": "15:22",
+   "tarih_iso": "2026-08-14T15:22:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T12:30:52.937014+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-risks-deeper-selloff-as-hormuz-crisis-keeps-markets-uneasy-200685820",
    "baslik": "Gold Risks Deeper Selloff as Hormuz Crisis Keeps Markets Uneasy",
    "kaynak": "Investing Emtia",
@@ -1150,5 +1252,5 @@
    "eklenme": "2026-08-14T09:01:08.271418+03:00"
   }
  ],
- "guncelleme": "2026-08-14T12:01:02.289375+03:00"
+ "guncelleme": "2026-08-14T12:30:52.937014+03:00"
 }
