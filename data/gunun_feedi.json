@@ -2,6 +2,19 @@
  "tarih": "2026-08-14",
  "kap": [
   {
+   "id": "kap-my-KMPUR-202608141546",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KMPUR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:46",
+   "tarih_iso": "2026-08-14T15:46:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-14T16:30:50.910601+03:00"
+  },
+  {
    "id": "kap-my-SDTTR-202608141300",
    "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
    "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
@@ -120,6 +133,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/fatih-erunsal-teknoloji-ekosistemine-uzun-vadeli-deger-uretmeye-devam-edecegiz-3905671-ekonomi",
+   "baslik": "\"Teknoloji ekosistemine uzun vadeli değer üretmeye devam edeceğiz”",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/fatih-erunsal-teknoloji-ekosistemine-uzun-vadeli-deger-uretmeye-devam-edecegiz-3905671-ekonomi",
+   "saat": "16:23",
+   "tarih_iso": "2026-08-14T16:23:50+03:00",
+   "kodlar": [
+    "PENTA"
+   ],
+   "eklenme": "2026-08-14T16:30:50.910601+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/sirketler/turk-telekom-teknoloji-gucunu-yesil-sahalara-tasiyor-haberi-836221",
    "baslik": "Türk Telekom teknoloji gücünü yeşil sahalara taşıyor",
@@ -446,6 +471,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+   "baslik": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
+   "saat": "16:00",
+   "tarih_iso": "2026-08-14T16:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T16:30:50.910601+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sandisk-upgraded-at-jpmorgan-after-investor-day-shares-climb-4860797",
+   "baslik": "SanDisk upgraded at JPMorgan after investor day; shares climb",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sandisk-upgraded-at-jpmorgan-after-investor-day-shares-climb-4860797",
+   "saat": "15:54",
+   "tarih_iso": "2026-08-14T15:54:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-14T16:30:50.910601+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-michael-page-stock-rallying-today-93CH-4860796",
    "baslik": "Why is Michael Page stock rallying today?",
@@ -1769,5 +1814,5 @@
    "eklenme": "2026-08-14T09:01:08.271418+03:00"
   }
  ],
- "guncelleme": "2026-08-14T16:01:06.009722+03:00"
+ "guncelleme": "2026-08-14T16:30:50.910601+03:00"
 }
