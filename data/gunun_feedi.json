@@ -367,6 +367,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/jane-street-teknoloji-sats-sonras-15-milyar-dolar-kaybetti-4031553",
+   "baslik": "Jane Street teknoloji satışı sonrası 15 milyar dolar kaybetti",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/jane-street-teknoloji-sats-sonras-15-milyar-dolar-kaybetti-4031553",
+   "saat": "00:51",
+   "tarih_iso": "2026-08-15T00:51:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-15T01:01:01.168869+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/wsj-stripe-ve-advent-paypal-icin-hisse-basna-6050-dolar-teklif-etti-4031470",
    "baslik": "WSJ: Stripe ve Advent, PayPal için hisse başına 60,50 dolar teklif etti",
    "kaynak": "Investing TR",
@@ -578,6 +588,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/anthropic-quarterly-revenue-eclipses-115-billion-amid-ipo-prep--bloomberg-4861580",
+   "baslik": "Anthropic quarterly revenue eclipses $11.5 billion amid IPO prep - Bloomberg",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/anthropic-quarterly-revenue-eclipses-115-billion-amid-ipo-prep--bloomberg-4861580",
+   "saat": "00:39",
+   "tarih_iso": "2026-08-15T00:39:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-15T01:01:01.168869+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
+   "baslik": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
+   "saat": "00:34",
+   "tarih_iso": "2026-08-15T00:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-15T01:01:01.168869+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-066-4861558",
+   "baslik": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.66%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-066-4861558",
+   "saat": "00:30",
+   "tarih_iso": "2026-08-15T00:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-15T01:01:01.168869+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-084-4861554",
+   "baslik": "Colombia stocks higher at close of trade; COLCAP up 0.84%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-084-4861554",
+   "saat": "00:25",
+   "tarih_iso": "2026-08-15T00:25:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-15T01:01:01.168869+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-418-4861550",
+   "baslik": "Russia stocks lower at close of trade; MOEX Russia Index down 4.18%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-418-4861550",
+   "saat": "00:20",
+   "tarih_iso": "2026-08-15T00:20:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-15T01:01:01.168869+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
    "baslik": "Jane Street suffers $15bn loss in July market ructions",
@@ -1727,56 +1787,6 @@
    "tarih_iso": "2026-08-14T17:57:35+03:00",
    "kodlar": [],
    "eklenme": "2026-08-14T18:14:38.519590+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/13/midterm-democrats-polling-primary-wisconsin-michigan-minnesota.html",
-   "baslik": "Wisconsin, Michigan primaries expose limits of polls and prediction markets",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/13/midterm-democrats-polling-primary-wisconsin-michigan-minnesota.html",
-   "saat": "17:50",
-   "tarih_iso": "2026-08-14T17:50:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T18:01:01.912566+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/eli-lilly-just-scored-europes-145000859.html",
-   "baslik": "Eli Lilly Just Scored Europe's First Weight Loss Pill Approval -- and the Growth Story Keeps Getting Bigger",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/eli-lilly-just-scored-europes-145000859.html",
-   "saat": "17:50",
-   "tarih_iso": "2026-08-14T17:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T18:14:38.519590+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/orion-properties-onl-q2-2026-144320911.html",
-   "baslik": "Orion Properties (ONL) Q2 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/orion-properties-onl-q2-2026-144320911.html",
-   "saat": "17:43",
-   "tarih_iso": "2026-08-14T17:43:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T18:14:38.519590+03:00"
-  },
-  {
-   "id": "yab-https://www.barrons.com/articles/spacex-stock-price-unlocked-rival-52f9fc3a?siteid=yhoof2&yptr=yahoo",
-   "baslik": "SpaceX Stock Drops as Musk’s Rockets Face a Fresh Rival",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.barrons.com/articles/spacex-stock-price-unlocked-rival-52f9fc3a?siteid=yhoof2&yptr=yahoo",
-   "saat": "17:42",
-   "tarih_iso": "2026-08-14T17:42:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T18:14:38.519590+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/rocket-companies-rkt-q2-2026-144120839.html",
-   "baslik": "Rocket Companies (RKT) Q2 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rocket-companies-rkt-q2-2026-144120839.html",
-   "saat": "17:41",
-   "tarih_iso": "2026-08-14T17:41:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T18:14:38.519590+03:00"
   }
  ],
  "altin_haber": [
@@ -2061,5 +2071,5 @@
    "eklenme": "2026-08-14T09:01:08.271418+03:00"
   }
  ],
- "guncelleme": "2026-08-15T00:30:52.716846+03:00"
+ "guncelleme": "2026-08-15T01:01:01.168869+03:00"
 }
