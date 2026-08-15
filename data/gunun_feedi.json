@@ -43,6 +43,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-sezona-maglubiyetle-basladi-haberi-836359",
+   "baslik": "Fenerbahçe sezona mağlubiyetle başladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-sezona-maglubiyetle-basladi-haberi-836359",
+   "saat": "23:26",
+   "tarih_iso": "2026-08-15T23:26:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-16T00:00:57.041996+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/muhtemel-11ler-genclerbirligi-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-836298",
    "baslik": "MUHTEMEL 11'LER... Gençlerbirliği Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
    "kaynak": "Dünya",
@@ -92,6 +104,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/morgan-stanleyden-fede-uyari-enflasyon-icin-iki-risk-one-cikiyor-haberi-836358",
+   "baslik": "Morgan Stanley’den Fed’e uyarı: Enflasyon için iki risk öne çıkıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/morgan-stanleyden-fede-uyari-enflasyon-icin-iki-risk-one-cikiyor-haberi-836358",
+   "saat": "23:18",
+   "tarih_iso": "2026-08-15T23:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-16T00:00:57.041996+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/nvidia-ohiodaki-yapay-zeka-veri-merkezi-icin-sb-energyye-3-milyar-dolar-yatrm-degerlendiriyor-4031791",
+   "baslik": "Nvidia, Ohio’daki yapay zeka veri merkezi için SB Energy’e 3 milyar dolar yatırım değerlendiriyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/nvidia-ohiodaki-yapay-zeka-veri-merkezi-icin-sb-energyye-3-milyar-dolar-yatrm-degerlendiriyor-4031791",
+   "saat": "23:07",
+   "tarih_iso": "2026-08-15T23:07:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-16T00:00:57.041996+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/turkiye-cumhuriyet-merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-faizler-dusecek-mi-haberi-836337",
    "baslik": "Türkiye Cumhuriyet Merkez Bankası faiz kararı ne zaman açıklanacak? Faizler düşecek mi?",
@@ -145,6 +177,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-cintas-stock-slipped-despite-203302385.html",
+   "baslik": "Why Has Cintas Stock Slipped Despite Record Margins? What to Know Amid a Founder's Vesting",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-cintas-stock-slipped-despite-203302385.html",
+   "saat": "23:33",
+   "tarih_iso": "2026-08-15T23:33:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-16T00:00:57.041996+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/nvidia-weighs-3-bln-in-sb-energy-for-ohio-ai-data-center--the-information-4861850",
    "baslik": "Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information",
    "kaynak": "Investing.com",
@@ -153,6 +195,16 @@
    "tarih_iso": "2026-08-15T23:07:24+03:00",
    "kodlar": [],
    "eklenme": "2026-08-15T23:30:47.115960+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-bill-ackmans-stock-picks-200700109.html",
+   "baslik": "3 of Bill Ackman's New Stock Picks Are Interesting: S&P Global Trades 28% Below Its High While Visa and Mastercard Sit Near Theirs",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-bill-ackmans-stock-picks-200700109.html",
+   "saat": "23:07",
+   "tarih_iso": "2026-08-15T23:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-16T00:00:57.041996+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/xmag-outperforming-p-500-2026-200504954.html",
@@ -1127,5 +1179,5 @@
    "eklenme": "2026-08-15T09:00:59.838613+03:00"
   }
  ],
- "guncelleme": "2026-08-15T23:30:47.115960+03:00"
+ "guncelleme": "2026-08-16T00:00:57.041996+03:00"
 }
