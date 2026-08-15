@@ -367,6 +367,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-15-agustos-cumartesi-doviz-kurlari-haberi-836284",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (15 Ağustos Cumartesi Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-15-agustos-cumartesi-doviz-kurlari-haberi-836284",
+   "saat": "07:27",
+   "tarih_iso": "2026-08-15T07:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-15T08:01:00.084660+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/jane-street-teknoloji-sats-sonras-15-milyar-dolar-kaybetti-4031553",
    "baslik": "Jane Street teknoloji satışı sonrası 15 milyar dolar kaybetti",
    "kaynak": "Investing TR",
@@ -588,6 +598,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/anthropic-ipo-valuation-rests-on-up-to-200-billion-2028-revenue-target--reuters-4861731",
+   "baslik": "Anthropic IPO valuation rests on up to $200 billion 2028 revenue target - Reuters",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/anthropic-ipo-valuation-rests-on-up-to-200-billion-2028-revenue-target--reuters-4861731",
+   "saat": "07:19",
+   "tarih_iso": "2026-08-15T07:19:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-15T08:01:00.084660+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/singapore-stocks-record-rally-gets-boost-from-goldilocks-economy-4861721",
    "baslik": "Singapore stocks’ record rally gets boost from ‘Goldilocks’ economy",
@@ -1777,16 +1797,6 @@
    "tarih_iso": "2026-08-14T18:02:26+03:00",
    "kodlar": [],
    "eklenme": "2026-08-14T21:11:31.692908+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/openai-annualized-revenue-tops-40-150033141.html",
-   "baslik": "OpenAI Annualized Revenue Tops $40 Billion Ahead of $1 Trillion IPO Push",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/openai-annualized-revenue-tops-40-150033141.html",
-   "saat": "18:00",
-   "tarih_iso": "2026-08-14T18:00:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-14T18:14:38.519590+03:00"
   }
  ],
  "altin_haber": [
@@ -2071,5 +2081,5 @@
    "eklenme": "2026-08-14T09:01:08.271418+03:00"
   }
  ],
- "guncelleme": "2026-08-15T07:31:07.081983+03:00"
+ "guncelleme": "2026-08-15T08:01:00.084660+03:00"
 }
