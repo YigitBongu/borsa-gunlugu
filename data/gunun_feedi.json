@@ -349,6 +349,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/nvidia-sb-energyye-1-5-milyar-dolar-yatirim-yapacak/4029764",
+   "baslik": "Nvidia, SB Energy'ye 1,5 milyar dolar yatırım yapacak",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/nvidia-sb-energyye-1-5-milyar-dolar-yatirim-yapacak/4029764",
+   "saat": "19:30",
+   "tarih_iso": "2026-08-17T19:30:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T00:30:48.095799+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/nvidia-sb-energyye-15-milyar-dolar-yatirim-yapacak-haberi-836581",
    "baslik": "Nvidia, SB Energy'ye 1,5 milyar dolar yatırım yapacak",
    "kaynak": "Dünya",
@@ -620,6 +630,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/theres-a-49-chance-the-dow-will-finish-this-year-up-double-digits-heres-why-6871e569?mod=mw_rss_topstories",
+   "baslik": "There’s a 49% chance the Dow will finish this year up double digits. Here’s why.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/theres-a-49-chance-the-dow-will-finish-this-year-up-double-digits-heres-why-6871e569?mod=mw_rss_topstories",
+   "saat": "00:22",
+   "tarih_iso": "2026-08-18T00:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T00:30:48.095799+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-210-4864001",
+   "baslik": "Russia stocks lower at close of trade; MOEX Russia Index down 2.10%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-210-4864001",
+   "saat": "00:20",
+   "tarih_iso": "2026-08-18T00:20:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T00:30:48.095799+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+   "baslik": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-number-of-negative-beta-stocks-in-the-s-p-500-just-hit-a-new-record-high-what-that-means-for-investors-992ca307?mod=mw_rss_topstories",
+   "saat": "00:15",
+   "tarih_iso": "2026-08-18T00:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T00:30:48.095799+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
    "baslik": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
@@ -1789,36 +1829,6 @@
    "tarih_iso": "2026-08-17T18:24:10+03:00",
    "kodlar": [],
    "eklenme": "2026-08-17T18:48:41.640407+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/september-historically-worst-month-stock-152214012.html",
-   "baslik": "September Is Historically the Worst Month for the Stock Market. Is Now the Time to Cash Out?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/september-historically-worst-month-stock-152214012.html",
-   "saat": "18:22",
-   "tarih_iso": "2026-08-17T18:22:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T18:48:41.640407+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-sandisk-stock-rocketed-higher-152206213.html",
-   "baslik": "Why Sandisk Stock Rocketed Higher (Again) Today",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-sandisk-stock-rocketed-higher-152206213.html",
-   "saat": "18:22",
-   "tarih_iso": "2026-08-17T18:22:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T18:48:41.640407+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-draftkings-stock-sliding-today-93CH-4863605",
-   "baslik": "Why is DraftKings stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-draftkings-stock-sliding-today-93CH-4863605",
-   "saat": "18:20",
-   "tarih_iso": "2026-08-17T18:20:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T18:48:41.640407+03:00"
   }
  ],
  "altin_haber": [
@@ -2133,5 +2143,5 @@
    "eklenme": "2026-08-17T09:00:56.869153+03:00"
   }
  ],
- "guncelleme": "2026-08-18T00:00:56.845741+03:00"
+ "guncelleme": "2026-08-18T00:30:48.095799+03:00"
 }
