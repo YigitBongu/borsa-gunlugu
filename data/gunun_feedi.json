@@ -4,6 +4,16 @@
  "sirket": [],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/emlak/hafta-sonu-kacamagi-icin-almisti-istedigi-fiyatin-500-bin-dolar-altina-satti-galeri-836475",
+   "baslik": "Hafta sonu kaçamağı için almıştı, istediği fiyatın 500 bin dolar altına sattı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/emlak/hafta-sonu-kacamagi-icin-almisti-istedigi-fiyatin-500-bin-dolar-altina-satti-galeri-836475",
+   "saat": "09:03",
+   "tarih_iso": "2026-08-17T09:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T09:30:48.284479+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/otomotiv-ihracati-yilin-7-ayinda-24-4-milyar-dolar-oldu/4029068",
    "baslik": "Otomotiv ihracatı yılın 7 ayında 24,4 milyar dolar oldu",
    "kaynak": "AA Ekonomi",
@@ -45,6 +55,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-015-4862158",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.15%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-015-4862158",
+   "saat": "09:00",
+   "tarih_iso": "2026-08-17T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T09:30:48.284479+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/alphabet-eyes-inaugural-australian-dollar-bond-bookrunners-message-says-4862099",
    "baslik": "Alphabet eyes inaugural Australian dollar bond, bookrunner’s message says",
@@ -218,6 +238,16 @@
    "eklenme": "2026-08-17T09:00:56.869153+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altinda-firsat-seviyesi-aciklandi-yukselis-icin-takvim-belli-oldu-galeri-836476",
+   "baslik": "Altında fırsat seviyesi açıklandı: Yükseliş için takvim belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altinda-firsat-seviyesi-aciklandi-yukselis-icin-takvim-belli-oldu-galeri-836476",
+   "saat": "08:46",
+   "tarih_iso": "2026-08-17T08:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T09:30:48.284479+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/gumuste-sert-hareket-gram-101-lirayi-gecti-ons-66-dolari-test-etti-galeri-836468",
    "baslik": "Gümüşte sert hareket: Gram 101 lirayı geçti, ons 66 doları test etti",
    "kaynak": "Dünya",
@@ -248,5 +278,5 @@
    "eklenme": "2026-08-17T09:00:56.869153+03:00"
   }
  ],
- "guncelleme": "2026-08-17T09:04:07.547564+03:00"
+ "guncelleme": "2026-08-17T09:30:48.284479+03:00"
 }
