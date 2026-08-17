@@ -2,6 +2,45 @@
  "tarih": "2026-08-17",
  "kap": [
   {
+   "id": "kap-my-EKGYO-202608171934",
+   "baslik": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
+   "sirket": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+   "kodlar": [
+    "EKGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:34",
+   "tarih_iso": "2026-08-17T19:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-18T00:00:56.845741+03:00"
+  },
+  {
+   "id": "kap-my-SELEC-202608171908",
+   "baslik": "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş. — Finansal Rapor",
+   "sirket": "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş.",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:08",
+   "tarih_iso": "2026-08-17T19:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-18T00:00:56.845741+03:00"
+  },
+  {
+   "id": "kap-my-YEOTK-202608171905",
+   "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Finansal Rapor",
+   "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:05",
+   "tarih_iso": "2026-08-17T19:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-18T00:00:56.845741+03:00"
+  },
+  {
    "id": "kap-my-SASA-202608171822",
    "baslik": "SASA POLYESTER SANAYİ A.Ş. — Sermaye Artırımından Elde Edilecek - Edilen Fonun Kullanımına İlişkin Rapor",
    "sirket": "SASA POLYESTER SANAYİ A.Ş.",
@@ -212,6 +251,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fred-fenerbahceye-veda-etti-haberi-836605",
+   "baslik": "Fred, Fenerbahçe'ye veda etti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fred-fenerbahceye-veda-etti-haberi-836605",
+   "saat": "22:34",
+   "tarih_iso": "2026-08-17T22:34:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-18T00:00:56.845741+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/yeo-teknoloji-karlilikta-vites-yukseltti-haberi-836582",
+   "baslik": "YEO Teknoloji kârlılıkta vites yükseltti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/yeo-teknoloji-karlilikta-vites-yukseltti-haberi-836582",
+   "saat": "19:28",
+   "tarih_iso": "2026-08-17T19:28:00+03:00",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "eklenme": "2026-08-18T00:00:56.845741+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-17-agustos-2026/4029678",
    "baslik": "60 saniyede ekonomide bugün (17 Ağustos 2026)",
    "kaynak": "AA Ekonomi",
@@ -285,6 +348,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/nvidia-sb-energyye-15-milyar-dolar-yatirim-yapacak-haberi-836581",
+   "baslik": "Nvidia, SB Energy'ye 1,5 milyar dolar yatırım yapacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/nvidia-sb-energyye-15-milyar-dolar-yatirim-yapacak-haberi-836581",
+   "saat": "19:27",
+   "tarih_iso": "2026-08-17T19:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T00:00:56.845741+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-836578",
    "baslik": "Borsa İstanbul günü düşüşle tamamladı",
@@ -547,6 +620,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+   "baslik": "Micron, Sandisk and other chip stocks climb as investors get more confident about AI spending",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-chip-stocks-climb-as-investors-are-more-confident-about-ai-spending-128374fa?mod=mw_rss_topstories",
+   "saat": "23:43",
+   "tarih_iso": "2026-08-17T23:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T00:00:56.845741+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/targa-resources-stock-rises-on-exxonmobil-midstream-deal-93CH-4863956",
    "baslik": "Targa Resources stock rises on ExxonMobil midstream deal",
@@ -1736,16 +1819,6 @@
    "tarih_iso": "2026-08-17T18:20:33+03:00",
    "kodlar": [],
    "eklenme": "2026-08-17T18:48:41.640407+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-flutter-entertainment-stock-sliding-today-93CH-4863603",
-   "baslik": "Why is Flutter Entertainment stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-flutter-entertainment-stock-sliding-today-93CH-4863603",
-   "saat": "18:20",
-   "tarih_iso": "2026-08-17T18:20:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T18:48:41.640407+03:00"
   }
  ],
  "altin_haber": [
@@ -2060,5 +2133,5 @@
    "eklenme": "2026-08-17T09:00:56.869153+03:00"
   }
  ],
- "guncelleme": "2026-08-17T23:49:33.344778+03:00"
+ "guncelleme": "2026-08-18T00:00:56.845741+03:00"
 }
