@@ -2,6 +2,19 @@
  "tarih": "2026-08-17",
  "kap": [
   {
+   "id": "kap-my-EKGYO-202608171534",
+   "baslik": "HALK VARLIK KİRALAMA A.Ş. — Tertip İhraç Belgesi",
+   "sirket": "HALK VARLIK KİRALAMA A.Ş.",
+   "kodlar": [
+    "EKGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:34",
+   "tarih_iso": "2026-08-17T15:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202608171438",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -117,6 +130,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/japonya-ekonomisi-cikmaza-girdi-faiz-mi-tesvik-mi-haberi-836553",
+   "baslik": "Japonya ekonomisi çıkmaza girdi: Faiz mi, teşvik mi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/japonya-ekonomisi-cikmaza-girdi-faiz-mi-tesvik-mi-haberi-836553",
+   "saat": "15:17",
+   "tarih_iso": "2026-08-17T15:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/mosfedden-faiz-indirimi-sureci-icin-cagri-mevduat-stopaji-da-kademeli-dusurulmeli-haberi-836551",
    "baslik": "MOSFED'den faiz indirimi süreci için çağrı: Mevduat stopajı da kademeli düşürülmeli",
@@ -290,6 +313,76 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.barrons.com/articles/nvidia-stock-price-openai-4466ab53?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Nvidia Rows Back on $250 Billion OpenAI Pledge and the Stock Rises",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/nvidia-stock-price-openai-4466ab53?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:46",
+   "tarih_iso": "2026-08-17T15:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-rate-hike-fears-ease-earnings-buoy-stocks-4862054",
+   "baslik": "Stock futures mixed as traders gear up for Fed minutes, retail earnings this week",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-rate-hike-fears-ease-earnings-buoy-stocks-4862054",
+   "saat": "15:38",
+   "tarih_iso": "2026-08-17T15:38:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/boeing-stock-army-grounds-apache-helicopters-25211417?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Boeing Stock Wobbles After U.S. Army Grounds Apache Helicopters",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/boeing-stock-army-grounds-apache-helicopters-25211417?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:35",
+   "tarih_iso": "2026-08-17T15:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-serve-robotics-stock-rallying-today-93CH-4863099",
+   "baslik": "Why is Serve Robotics stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-serve-robotics-stock-rallying-today-93CH-4863099",
+   "saat": "15:34",
+   "tarih_iso": "2026-08-17T15:34:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/serve-robotics-stock-jumps-on-doordash-grubhub-expansion-93CH-4863076",
+   "baslik": "Serve Robotics stock jumps on DoorDash, Grubhub expansion",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/serve-robotics-stock-jumps-on-doordash-grubhub-expansion-93CH-4863076",
+   "saat": "15:31",
+   "tarih_iso": "2026-08-17T15:31:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/billionaires-betting-overlooked-stock-buy-123021412.html",
+   "baslik": "Billionaires Are Betting on This Overlooked Stock. Should You Buy?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaires-betting-overlooked-stock-buy-123021412.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-08-17T15:30:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/citius-oncology-shares-tumble-q3-122803657.html",
+   "baslik": "Citius Oncology shares tumble as Q3 revenue misses forecasts despite LYMPHIR launch momentum",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/citius-oncology-shares-tumble-q3-122803657.html",
+   "saat": "15:28",
+   "tarih_iso": "2026-08-17T15:28:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/markets-are-pricing-in-goldilocks-deutsche-bank-asks-what-could-go-wrong-4863061",
    "baslik": "Markets are pricing in Goldilocks. Deutsche Bank asks what could go wrong",
    "kaynak": "Investing.com",
@@ -310,6 +403,46 @@
    "eklenme": "2026-08-17T15:30:50.531411+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/goldman-sachs-september-fed-rate-122249555.html",
+   "baslik": "Goldman Sachs: September Fed rate hike very unlikely as inflation slows",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/goldman-sachs-september-fed-rate-122249555.html",
+   "saat": "15:22",
+   "tarih_iso": "2026-08-17T15:22:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Stocks to Watch: Alibaba, L3Harris, Diana Shipping, BHP",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:22",
+   "tarih_iso": "2026-08-17T15:22:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/4-very-well-known-high-122030768.html",
+   "baslik": "4 Very Well-Known High-Yielding Stocks to Load the Boat on Now (2 Yield Over 6%)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/4-very-well-known-high-122030768.html",
+   "saat": "15:20",
+   "tarih_iso": "2026-08-17T15:20:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/palantir-trades-74x-sales-history-122000062.html",
+   "baslik": "Palantir Trades at 74x Sales. History Says This Is What Happens to Software Stocks That Cross That Multiple After a Blowout Quarter.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-trades-74x-sales-history-122000062.html",
+   "saat": "15:20",
+   "tarih_iso": "2026-08-17T15:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
    "baslik": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
    "kaynak": "CNBC",
@@ -318,6 +451,16 @@
    "tarih_iso": "2026-08-17T15:19:50+03:00",
    "kodlar": [],
    "eklenme": "2026-08-17T15:30:50.531411+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/oracle-software-stocks-fall-as-ai-trade-seesaws-0e0c47d4?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Oracle, Software Stocks Fall as AI Trade Seesaws",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/oracle-software-stocks-fall-as-ai-trade-seesaws-0e0c47d4?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:15",
+   "tarih_iso": "2026-08-17T15:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/energy/articles/peter-thiels-thiel-macro-buys-121220238.html",
@@ -338,6 +481,26 @@
    "tarih_iso": "2026-08-17T15:12:05+03:00",
    "kodlar": [],
    "eklenme": "2026-08-17T15:30:50.531411+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/workday-stock-downgraded-buyout-report-9068d277?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Workday Stock Is Downgraded After Buyout Report as Growth Expectations Are ‘Too Optimistic’",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/workday-stock-downgraded-buyout-report-9068d277?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:11",
+   "tarih_iso": "2026-08-17T15:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/tesla-stock-price-today-spacex-a37b62ef?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Why Tesla Stock Moves Are Increasingly Tied to SpaceX",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/tesla-stock-price-today-spacex-a37b62ef?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:10",
+   "tarih_iso": "2026-08-17T15:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/small-business/articles/embedded-insurance-gains-pace-ikea-120710362.html",
@@ -1348,146 +1511,6 @@
    "tarih_iso": "2026-08-17T11:24:55+03:00",
    "kodlar": [],
    "eklenme": "2026-08-17T12:00:59.919951+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ashok-leyland-stock-climbing-today-93CH-4862320",
-   "baslik": "Why is Ashok Leyland stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ashok-leyland-stock-climbing-today-93CH-4862320",
-   "saat": "11:24",
-   "tarih_iso": "2026-08-17T11:24:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T12:00:59.919951+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sandoz-stock-climbing-today-93CH-4862314",
-   "baslik": "Why is Sandoz stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sandoz-stock-climbing-today-93CH-4862314",
-   "saat": "11:18",
-   "tarih_iso": "2026-08-17T11:18:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T12:00:59.919951+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vista-oil--gas-stock-rallying-today-93CH-4862306",
-   "baslik": "Why is Vista Oil & Gas stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-vista-oil--gas-stock-rallying-today-93CH-4862306",
-   "saat": "11:13",
-   "tarih_iso": "2026-08-17T11:13:13+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T11:30:48.022267+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gulf-marine-services-stock-rallying-today-93CH-4862300",
-   "baslik": "Why is Gulf Marine Services stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-gulf-marine-services-stock-rallying-today-93CH-4862300",
-   "saat": "11:06",
-   "tarih_iso": "2026-08-17T11:06:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T11:30:48.022267+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sig-stock-plunging-today-93CH-4862297",
-   "baslik": "Why is SIG stock plunging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sig-stock-plunging-today-93CH-4862297",
-   "saat": "11:00",
-   "tarih_iso": "2026-08-17T11:00:13+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T11:30:48.022267+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/indian-oil-giant-secures-u-075000286.html",
-   "baslik": "Indian Oil Giant Secures U.S. License to Return to Venezuela",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/indian-oil-giant-secures-u-075000286.html",
-   "saat": "10:50",
-   "tarih_iso": "2026-08-17T10:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T12:30:51.982420+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-argenx-stock-surging-today-93CH-4862279",
-   "baslik": "Why is Argen-X stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-argenx-stock-surging-today-93CH-4862279",
-   "saat": "10:49",
-   "tarih_iso": "2026-08-17T10:49:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T11:00:58.580720+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tomtom-stock-sliding-today-93CH-4862277",
-   "baslik": "Why is TomTom stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-tomtom-stock-sliding-today-93CH-4862277",
-   "saat": "10:46",
-   "tarih_iso": "2026-08-17T10:46:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T11:00:58.580720+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/commodities/articles/asian-shares-mark-time-gulf-011925462.html",
-   "baslik": "Shares rise, dollar slips as markets pare Fed rate risks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/commodities/articles/asian-shares-mark-time-gulf-011925462.html",
-   "saat": "10:29",
-   "tarih_iso": "2026-08-17T10:29:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T12:30:51.982420+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-soft-us-retail-data-trims-fed-rate-bets-4862246",
-   "baslik": "FTSE 100 today: Stocks rise as soft U.S. retail data trims Fed rate bets",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-soft-us-retail-data-trims-fed-rate-bets-4862246",
-   "saat": "10:27",
-   "tarih_iso": "2026-08-17T10:27:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T10:48:41.535722+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-astrazeneca-stock-up-today-93CH-4862253",
-   "baslik": "Why is AstraZeneca stock up today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-astrazeneca-stock-up-today-93CH-4862253",
-   "saat": "10:26",
-   "tarih_iso": "2026-08-17T10:26:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T10:48:41.535722+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
-   "baslik": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
-   "saat": "10:20",
-   "tarih_iso": "2026-08-17T10:20:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T10:30:53.155108+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-edge-up-as-falling-yields-and-fed-pause-bets-lift-sentiment-4862175",
-   "baslik": "European stocks edge up as falling yields and Fed pause bets lift sentiment",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-stocks-edge-up-as-falling-yields-and-fed-pause-bets-lift-sentiment-4862175",
-   "saat": "10:04",
-   "tarih_iso": "2026-08-17T10:04:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T10:30:53.155108+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/anthropic-ipo-valuation-hinges-on-190200-billion-2028-revenue-forecast-sources-say-4862222",
-   "baslik": "Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-ipo-valuation-hinges-on-190200-billion-2028-revenue-forecast-sources-say-4862222",
-   "saat": "10:00",
-   "tarih_iso": "2026-08-17T10:00:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T10:30:53.155108+03:00"
   }
  ],
  "altin_haber": [
@@ -1510,6 +1533,16 @@
    "tarih_iso": "2026-08-17T14:56:49+03:00",
    "kodlar": [],
    "eklenme": "2026-08-17T12:00:59.919951+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/oceanagold-expands-to-australia-with-553m-ausgold-buy/",
+   "baslik": "OceanaGold expands to Australia with $553M Ausgold buy",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/oceanagold-expands-to-australia-with-553m-ausgold-buy/",
+   "saat": "13:44",
+   "tarih_iso": "2026-08-17T13:44:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T16:01:04.414508+03:00"
   },
   {
    "id": "alt-https://finance.yahoo.com/markets/commodities/articles/gold-rises-towards-4-400-092243418.html",
@@ -1692,5 +1725,5 @@
    "eklenme": "2026-08-17T09:00:56.869153+03:00"
   }
  ],
- "guncelleme": "2026-08-17T15:33:57.838466+03:00"
+ "guncelleme": "2026-08-17T16:01:04.414508+03:00"
 }
