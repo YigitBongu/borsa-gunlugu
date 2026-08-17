@@ -4,6 +4,26 @@
  "sirket": [],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbul-haftaya-yukselisle-basladi-haberi-836492",
+   "baslik": "Borsa İstanbul haftaya yükselişle başladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/borsa-istanbul-haftaya-yukselisle-basladi-haberi-836492",
+   "saat": "10:12",
+   "tarih_iso": "2026-08-17T10:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T10:30:53.155108+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-yukseliste-fed-beklentileri-destek-veriyor-4032117",
+   "baslik": "Avrupa hisseleri yükselişte, Fed beklentileri destek veriyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-yukseliste-fed-beklentileri-destek-veriyor-4032117",
+   "saat": "10:04",
+   "tarih_iso": "2026-08-17T10:04:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T10:30:53.155108+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/emlak/hafta-sonu-kacamagi-icin-almisti-istedigi-fiyatin-500-bin-dolar-altina-satti-galeri-836475",
    "baslik": "Hafta sonu kaçamağı için almıştı, istediği fiyatın 500 bin dolar altına sattı",
    "kaynak": "Dünya",
@@ -55,6 +75,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
+   "baslik": "China's economy slows further in July as retail sales barely grow, investment slump steepens",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
+   "saat": "10:20",
+   "tarih_iso": "2026-08-17T10:20:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T10:30:53.155108+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-edge-up-as-falling-yields-and-fed-pause-bets-lift-sentiment-4862175",
+   "baslik": "European stocks edge up as falling yields and Fed pause bets lift sentiment",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-edge-up-as-falling-yields-and-fed-pause-bets-lift-sentiment-4862175",
+   "saat": "10:04",
+   "tarih_iso": "2026-08-17T10:04:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T10:30:53.155108+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/anthropic-ipo-valuation-hinges-on-190200-billion-2028-revenue-forecast-sources-say-4862222",
+   "baslik": "Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/anthropic-ipo-valuation-hinges-on-190200-billion-2028-revenue-forecast-sources-say-4862222",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-17T10:00:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T10:30:53.155108+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-070-4862221",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.70%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-070-4862221",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-17T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T10:30:53.155108+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-japan-gdp-misses-forecasts-china-data-tech-in-focus-4862114",
    "baslik": "Asian stocks rise as China, Hong Kong lead gains on tech boost",
@@ -328,5 +388,5 @@
    "eklenme": "2026-08-17T09:00:56.869153+03:00"
   }
  ],
- "guncelleme": "2026-08-17T10:00:59.209306+03:00"
+ "guncelleme": "2026-08-17T10:30:53.155108+03:00"
 }
