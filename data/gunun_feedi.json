@@ -2,6 +2,45 @@
  "tarih": "2026-08-17",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202608171721",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "17:21",
+   "tarih_iso": "2026-08-17T17:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202608171720",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:20",
+   "tarih_iso": "2026-08-17T17:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "kap-my-BERA-202608171716",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "BERA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:16",
+   "tarih_iso": "2026-08-17T17:16:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
    "id": "kap-my-DOAS-202608171700",
    "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
    "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
@@ -168,6 +207,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-tarihte-aciklanacak-fed-faiz-artiracak-mi-haberi-836569",
+   "baslik": "Fed faiz kararı ne zaman, hangi tarihte açıklanacak? Fed faiz artıracak mı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-tarihte-aciklanacak-fed-faiz-artiracak-mi-haberi-836569",
+   "saat": "17:44",
+   "tarih_iso": "2026-08-17T17:44:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/benzin-fiyatlari-sicradi-kanadada-enflasyon-beklentiyi-asti-haberi-836562",
    "baslik": "Benzin fiyatları sıçradı: Kanada'da enflasyon beklentiyi aştı",
@@ -390,6 +439,116 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4863521",
+   "baslik": "Why is SK hynix stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-surging-today-93CH-4863521",
+   "saat": "17:45",
+   "tarih_iso": "2026-08-17T17:45:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/shopify-stock-falls-after-phillip-securities-downgrade-93CH-4863520",
+   "baslik": "Shopify stock falls after Phillip Securities downgrade",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/shopify-stock-falls-after-phillip-securities-downgrade-93CH-4863520",
+   "saat": "17:45",
+   "tarih_iso": "2026-08-17T17:45:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/articles/week-ahead-wall-street-looks-143500591.html",
+   "baslik": "Week ahead: Wall Street looks to retailers for consumer clues",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/articles/week-ahead-wall-street-looks-143500591.html",
+   "saat": "17:35",
+   "tarih_iso": "2026-08-17T17:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/treasury-yields-increase-as-markets-focus-on-fed-minutes-jackson-hole-xSlJq2UQsKJec0yGKqhU?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Treasury Yields Increase as Markets Focus on Fed Minutes, Jackson Hole",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/treasury-yields-increase-as-markets-focus-on-fed-minutes-jackson-hole-xSlJq2UQsKJec0yGKqhU?siteid=yhoof2&yptr=yahoo",
+   "saat": "17:33",
+   "tarih_iso": "2026-08-17T17:33:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wingstop-stock-down-62-1-143100399.html",
+   "baslik": "Wingstop Stock Is Down 62% in 1 Year. Could the Sell-Off Be Nearing an End?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wingstop-stock-down-62-1-143100399.html",
+   "saat": "17:31",
+   "tarih_iso": "2026-08-17T17:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/aviva-h1-profit-falls-49-142629507.html",
+   "baslik": "Aviva’s H1 profit falls by 49%",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/aviva-h1-profit-falls-49-142629507.html",
+   "saat": "17:26",
+   "tarih_iso": "2026-08-17T17:26:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/sofi-stock-buy-bullish-case-fintech-27801263?siteid=yhoof2&yptr=yahoo",
+   "baslik": "SoFi Is Dividing Wall Street. This Is the Bull Case for the Fintech Stock.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/sofi-stock-buy-bullish-case-fintech-27801263?siteid=yhoof2&yptr=yahoo",
+   "saat": "17:26",
+   "tarih_iso": "2026-08-17T17:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/billionaires-battle-one-stock-warren-142423999.html",
+   "baslik": "Billionaires Battle on One Stock: Warren Buffett’s Berkshire Sells While Dan Loeb Loads Up",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaires-battle-one-stock-warren-142423999.html",
+   "saat": "17:24",
+   "tarih_iso": "2026-08-17T17:24:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-kkr-co-142307968.html",
+   "baslik": "NVIDIA Corporation (NVDA) & KKR & Co (KKR): Wall Street Just Endorsed Jensen Huang’s “Big Concept.” What Happens Next?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-kkr-co-142307968.html",
+   "saat": "17:23",
+   "tarih_iso": "2026-08-17T17:23:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/chip-stocks-make-another-run-at-a-new-bull-market-snIpi7Xy4PRjWZctpRBB?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Chip Stocks Make Another Run at a New Bull Market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/chip-stocks-make-another-run-at-a-new-bull-market-snIpi7Xy4PRjWZctpRBB?siteid=yhoof2&yptr=yahoo",
+   "saat": "17:22",
+   "tarih_iso": "2026-08-17T17:22:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/kbw-keeps-hive-neutral-earnings-142013291.html",
+   "baslik": "KBW keeps HIVE at neutral after earnings beat, flags $276 million GPU funding need",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/kbw-keeps-hive-neutral-earnings-142013291.html",
+   "saat": "17:20",
+   "tarih_iso": "2026-08-17T17:20:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/fulcrum-therapeutics-stock-rises-on-slate-medicines-merger-deal-93CH-4863455",
    "baslik": "Fulcrum Therapeutics stock rises on Slate Medicines merger deal",
@@ -1479,119 +1638,19 @@
    "tarih_iso": "2026-08-17T13:42:49+03:00",
    "kodlar": [],
    "eklenme": "2026-08-17T14:25:09.380151+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/business/auto-transport-roundup-market-talk-13394e4d?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Auto & Transport Roundup: Market Talk",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-13394e4d?siteid=yhoof2&yptr=yahoo",
-   "saat": "13:42",
-   "tarih_iso": "2026-08-17T13:42:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T14:00:58.482595+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/hawaii-hurricane-lala-six-stocks-to-watch-as-markets-open-monday-93CH-4862590",
-   "baslik": "Hawaii Hurricane Lala: six stocks to watch as markets open Monday",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/hawaii-hurricane-lala-six-stocks-to-watch-as-markets-open-monday-93CH-4862590",
-   "saat": "13:40",
-   "tarih_iso": "2026-08-17T13:40:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T13:57:04.403822+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/elon-musk-5-word-statement-103957809.html",
-   "baslik": "Elon Musk’s 5-Word Statement Should Have Every Micron Investor Paying Attention",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-5-word-statement-103957809.html",
-   "saat": "13:39",
-   "tarih_iso": "2026-08-17T13:39:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T14:00:58.482595+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mobileye-stock-jumping-over-3-today-93CH-4862588",
-   "baslik": "Why is Mobileye stock jumping over 3% today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-mobileye-stock-jumping-over-3-today-93CH-4862588",
-   "saat": "13:38",
-   "tarih_iso": "2026-08-17T13:38:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T13:57:04.403822+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/10-000-oklo-stock-high-103800851.html",
-   "baslik": "$10,000 in Oklo Stock at Its High Is Worth About $2,300 Today",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/10-000-oklo-stock-high-103800851.html",
-   "saat": "13:38",
-   "tarih_iso": "2026-08-17T13:38:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T14:00:58.482595+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/business/financial-services-roundup-market-talk-8ad7a7da?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Financial Services Roundup: Market Talk",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-8ad7a7da?siteid=yhoof2&yptr=yahoo",
-   "saat": "13:38",
-   "tarih_iso": "2026-08-17T13:38:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T14:00:58.482595+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/activist-investor-calls-zevia-board-103755749.html",
-   "baslik": "Activist investor calls on Zevia board to sell business",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/activist-investor-calls-zevia-board-103755749.html",
-   "saat": "13:37",
-   "tarih_iso": "2026-08-17T13:37:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T13:57:04.403822+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-thungela-resources-stock-surging-today-93CH-4862573",
-   "baslik": "Why is Thungela Resources stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-thungela-resources-stock-surging-today-93CH-4862573",
-   "saat": "13:36",
-   "tarih_iso": "2026-08-17T13:36:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T13:57:04.403822+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-okta-stock-rallying-today-93CH-4862563",
-   "baslik": "Why is Okta stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-okta-stock-rallying-today-93CH-4862563",
-   "saat": "13:36",
-   "tarih_iso": "2026-08-17T13:36:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T13:57:04.403822+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sui-group-stock-rallying-today-93CH-4862559",
-   "baslik": "Why is SUI Group stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sui-group-stock-rallying-today-93CH-4862559",
-   "saat": "13:34",
-   "tarih_iso": "2026-08-17T13:34:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T13:57:04.403822+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-56efa474?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Tech, Media & Telecom Roundup: Market Talk",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-56efa474?siteid=yhoof2&yptr=yahoo",
-   "saat": "13:34",
-   "tarih_iso": "2026-08-17T13:34:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T14:00:58.482595+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-breaks-key-support-as-selling-pressure-builds-below-4444-200685950",
+   "baslik": "Gold Breaks Key Support as Selling Pressure Builds Below $4,444",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-breaks-key-support-as-selling-pressure-builds-below-4444-200685950",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-17T17:52:36.451409+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-august-17-2026-gold-ticks-up-after-lower-retail-sales-report-134755206.html",
    "baslik": "Gold prices today, Monday, August 17, 2026: Gold ticks up after lower retail sales report",
@@ -1833,5 +1892,5 @@
    "eklenme": "2026-08-17T09:00:56.869153+03:00"
   }
  ],
- "guncelleme": "2026-08-17T17:30:48.508085+03:00"
+ "guncelleme": "2026-08-17T17:52:36.451409+03:00"
 }
