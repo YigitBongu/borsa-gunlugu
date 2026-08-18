@@ -2,6 +2,20 @@
  "tarih": "2026-08-18",
  "kap": [
   {
+   "id": "kap-my-VAKBN-202608181750",
+   "baslik": "TÜRKİYE VAKIFLAR BANKASI T.A.O. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:50",
+   "tarih_iso": "2026-08-18T17:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "17:50"
+  },
+  {
    "id": "kap-my-TSKB-202608181713",
    "baslik": "YATIRIM VARLIK KİRALAMA A.Ş. — İhraç Tavanına İlişkin Bildirim",
    "sirket": "YATIRIM VARLIK KİRALAMA A.Ş.",
@@ -457,6 +471,28 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yatay-seyirle-tamamladi-haberi-836744",
+   "baslik": "Borsa İstanbul günü yatay seyirle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yatay-seyirle-tamamladi-haberi-836744",
+   "saat": "18:29",
+   "tarih_iso": "2026-08-18T18:29:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "18:29"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/bakan-bolat-23-5-senede-milli-geliri-dolar-bazinda-6-kat-ihracatimizi-da-mal-ve-hizmetler-olarak-8-kat-artirdik/4030787",
+   "baslik": "Bakan Bolat: 23,5 senede milli geliri dolar bazında 6 kat, ihracatımızı da mal ve hizmetler olarak 8 kat artırdık",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-23-5-senede-milli-geliri-dolar-bazinda-6-kat-ihracatimizi-da-mal-ve-hizmetler-olarak-8-kat-artirdik/4030787",
+   "saat": "17:48",
+   "tarih_iso": "2026-08-18T17:48:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "17:48"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/hazine-bugun-duzenledigi-iki-ihaleyle-791-milyar-lira-borclandi-haberi-836719",
    "baslik": "Hazine bugün düzenlediği iki ihaleyle 79,1 milyar lira borçlandı",
    "kaynak": "Dünya",
@@ -602,6 +638,83 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/6-treasury-yields-are-the-biggest-risk-facing-stocks-right-now-heres-why-04fb9bbe?mod=mw_rss_topstories",
+   "baslik": "6% Treasury yields are the biggest risk facing stocks right now. Here’s why.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/6-treasury-yields-are-the-biggest-risk-facing-stocks-right-now-heres-why-04fb9bbe?mod=mw_rss_topstories",
+   "saat": "18:16",
+   "tarih_iso": "2026-08-18T18:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "18:16"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/home-depot-q2-earnings-call-150248120.html",
+   "baslik": "Home Depot Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-q2-earnings-call-150248120.html",
+   "saat": "18:02",
+   "tarih_iso": "2026-08-18T18:02:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "18:02"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/prenetics-global-q2-earnings-call-150247681.html",
+   "baslik": "Prenetics Global Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/prenetics-global-q2-earnings-call-150247681.html",
+   "saat": "18:02",
+   "tarih_iso": "2026-08-18T18:02:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "18:02"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/best-ai-trade-2026-isn-150024293.html",
+   "baslik": "The Best AI Trade of 2026 Isn’t a Chip Stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/best-ai-trade-2026-isn-150024293.html",
+   "saat": "18:00",
+   "tarih_iso": "2026-08-18T18:00:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "18:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cardinal-cdnl-q2-2026-earnings-145807412.html",
+   "baslik": "Cardinal (CDNL) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cardinal-cdnl-q2-2026-earnings-145807412.html",
+   "saat": "17:58",
+   "tarih_iso": "2026-08-18T17:58:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "17:58"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-buying-boring-145802385.html",
+   "baslik": "Billionaire Dan Loeb Is Buying This Boring Non-AI Stock the Market Is Ignoring",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-buying-boring-145802385.html",
+   "saat": "17:58",
+   "tarih_iso": "2026-08-18T17:58:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "17:58"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/billionaire-bruce-berkowitz-reveals-76-145711707.html",
+   "baslik": "Billionaire Bruce Berkowitz Reveals 76% Of Fairholme Capital Is in Just 1 Stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bruce-berkowitz-reveals-76-145711707.html",
+   "saat": "17:57",
+   "tarih_iso": "2026-08-18T17:57:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "17:57"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/sp-affirms-nvidia-rating-at-aa-on-ohio-campus-guarantee-93CH-4865664",
    "baslik": "S&P affirms Nvidia rating at AA on Ohio campus guarantee",
    "kaynak": "Investing.com",
@@ -624,6 +737,17 @@
    "saat_g": "17:53"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-down-more-145236116.html",
+   "baslik": "3 Growth Stocks Down More Than 50% From Their Highs",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-down-more-145236116.html",
+   "saat": "17:52",
+   "tarih_iso": "2026-08-18T17:52:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "17:52"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-4865662",
    "baslik": "Why is Nebius stock sliding today?",
    "kaynak": "Investing.com",
@@ -633,6 +757,17 @@
    "kodlar": [],
    "eklenme": "2026-08-18T18:02:50.477910+03:00",
    "saat_g": "17:51"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/whats-going-metals-company-stock-145000632.html",
+   "baslik": "What's Going On With The Metals Company Stock?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/whats-going-metals-company-stock-145000632.html",
+   "saat": "17:50",
+   "tarih_iso": "2026-08-18T17:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "17:50"
   },
   {
    "id": "yab-https://www.investors.com/news/technology/cybersecurity-stocks-bank-america-hikes-price-targets/?src=A00220&yptr=yahoo",
@@ -1614,6 +1749,17 @@
    "saat_g": "14:30"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/home-depot-q2-earnings-beat-forecasts-as-customers-stick-to-small-projects-housing-market-remains-frozen-113055971.html",
+   "baslik": "Home Depot Q2 earnings beat forecasts as customers stick to small projects, housing market remains 'frozen'",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/home-depot-q2-earnings-beat-forecasts-as-customers-stick-to-small-projects-housing-market-remains-frozen-113055971.html",
+   "saat": "14:30",
+   "tarih_iso": "2026-08-18T14:30:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T18:30:54.792376+03:00",
+   "saat_g": "14:30"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/does-lyondellbasell-industries-lyb-still-113016043.html",
    "baslik": "Does LyondellBasell Industries (LYB) Still Make Sense for Dividend Investors?",
    "kaynak": "Yahoo Finance",
@@ -1810,116 +1956,6 @@
    "kodlar": [],
    "eklenme": "2026-08-18T14:21:02.997260+03:00",
    "saat_g": "14:02"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/articles/uniti-group-eyes-fiber-growth-110201270.html",
-   "baslik": "Uniti Group Eyes Fiber Growth, Hyperscaler Demand and Strategic Alternatives",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/articles/uniti-group-eyes-fiber-growth-110201270.html",
-   "saat": "14:02",
-   "tarih_iso": "2026-08-18T14:02:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T14:21:02.997260+03:00",
-   "saat_g": "14:02"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/reddit-fell-almost-30-80-110102269.html",
-   "baslik": "Reddit Fell Almost 30% This Year: 80% Gains Are In Store According to Wall Street Pros",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-fell-almost-30-80-110102269.html",
-   "saat": "14:01",
-   "tarih_iso": "2026-08-18T14:01:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T14:21:02.997260+03:00",
-   "saat_g": "14:01"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-einride-stock-surging-today-93CH-4864822",
-   "baslik": "Why is Einride stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-einride-stock-surging-today-93CH-4864822",
-   "saat": "14:00",
-   "tarih_iso": "2026-08-18T14:00:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T14:21:02.997260+03:00",
-   "saat_g": "14:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-bearish-on-scor-as-reinsurance-pricing-outlook-weighs-on-earnings-4864815",
-   "baslik": "UBS bearish on Scor as reinsurance pricing outlook weighs on earnings",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ubs-bearish-on-scor-as-reinsurance-pricing-outlook-weighs-on-earnings-4864815",
-   "saat": "14:00",
-   "tarih_iso": "2026-08-18T14:00:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T14:21:02.997260+03:00",
-   "saat_g": "14:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-could-rich-110011463.html",
-   "baslik": "3 Growth Stocks That Could Make You Rich by 2030",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-could-rich-110011463.html",
-   "saat": "14:00",
-   "tarih_iso": "2026-08-18T14:00:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T14:21:02.997260+03:00",
-   "saat_g": "14:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/5-dependable-dividend-stocks-buy-110010208.html",
-   "baslik": "5 Dependable Dividend Stocks to Buy in August",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/5-dependable-dividend-stocks-buy-110010208.html",
-   "saat": "14:00",
-   "tarih_iso": "2026-08-18T14:00:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T14:21:02.997260+03:00",
-   "saat_g": "14:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hometrust-purchase-blue-ridge-bankshares-105918134.html",
-   "baslik": "HomeTrust to purchase Blue Ridge Bankshares in all-stock deal",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hometrust-purchase-blue-ridge-bankshares-105918134.html",
-   "saat": "13:59",
-   "tarih_iso": "2026-08-18T13:59:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T14:21:02.997260+03:00",
-   "saat_g": "13:59"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/warren-buffett-greg-abel-keep-105900681.html",
-   "baslik": "Warren Buffett and Greg Abel Keep Overlooking This Stock -- but It's One of the Most Berkshire-Ready Picks on the Market",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-greg-abel-keep-105900681.html",
-   "saat": "13:59",
-   "tarih_iso": "2026-08-18T13:59:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T14:21:02.997260+03:00",
-   "saat_g": "13:59"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/u-s-30-year-treasury-yield-hits-highest-level-since-2007-amid-global-bond-sell-off-f8dfb1df?mod=mw_rss_topstories",
-   "baslik": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond sell-off",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/u-s-30-year-treasury-yield-hits-highest-level-since-2007-amid-global-bond-sell-off-f8dfb1df?mod=mw_rss_topstories",
-   "saat": "13:58",
-   "tarih_iso": "2026-08-18T13:58:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T14:01:02.642861+03:00",
-   "saat_g": "13:58"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dynatrace-stock-climbing-today-93CH-4864805",
-   "baslik": "Why is Dynatrace stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-dynatrace-stock-climbing-today-93CH-4864805",
-   "saat": "13:52",
-   "tarih_iso": "2026-08-18T13:52:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T14:01:02.642861+03:00",
-   "saat_g": "13:52"
   }
  ],
  "altin_haber": [
@@ -2144,5 +2180,5 @@
    "saat_g": "dün 17:33"
   }
  ],
- "guncelleme": "2026-08-18T18:02:50.477910+03:00"
+ "guncelleme": "2026-08-18T18:30:54.792376+03:00"
 }
