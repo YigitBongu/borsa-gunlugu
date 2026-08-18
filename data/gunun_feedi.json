@@ -349,6 +349,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/haberler/kuresel-borsalar-faiz-baskisi-ile-geriliyor-haberi-836621",
+   "baslik": "Küresel borsalar faiz baskısı ile geriliyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/kuresel-borsalar-faiz-baskisi-ile-geriliyor-haberi-836621",
+   "saat": "07:24",
+   "tarih_iso": "2026-08-18T07:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T07:30:49.992684+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-18-agustos-sali-doviz-kurlari-haberi-836620",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (18 Ağustos Salı Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-18-agustos-sali-doviz-kurlari-haberi-836620",
+   "saat": "07:18",
+   "tarih_iso": "2026-08-18T07:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T07:30:49.992684+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-4400-dolarin-ustunde-tutunamadi-fed-umuduna-tahvil-freni-galeri-836613",
    "baslik": "Altın 4.400 doların üstünde tutunamadı: Fed umuduna tahvil freni",
    "kaynak": "Dünya",
@@ -640,6 +660,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-retreat-as-oil-bond-yields-revive-inflation-concerns-4864253",
+   "baslik": "Asian stocks retreat as oil, bond yields revive inflation concerns",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-retreat-as-oil-bond-yields-revive-inflation-concerns-4864253",
+   "saat": "07:20",
+   "tarih_iso": "2026-08-18T07:20:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T07:30:49.992684+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/bhp-copper-overtakes-iron-ore-as-primary-profit-driver-heres-what-it-means-93CH-4864240",
    "baslik": "BHP: copper overtakes iron ore as primary profit driver, here’s what it means",
@@ -1829,16 +1859,6 @@
    "tarih_iso": "2026-08-17T19:08:33+03:00",
    "kodlar": [],
    "eklenme": "2026-08-17T19:30:48.538939+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-038-4863694",
-   "baslik": "Portugal stocks lower at close of trade; PSI down 0.38%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/portugal-stocks-lower-at-close-of-trade-psi-down-038-4863694",
-   "saat": "19:08",
-   "tarih_iso": "2026-08-17T19:08:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T19:30:48.538939+03:00"
   }
  ],
  "altin_haber": [
@@ -2173,5 +2193,5 @@
    "eklenme": "2026-08-17T09:00:56.869153+03:00"
   }
  ],
- "guncelleme": "2026-08-18T07:01:04.243137+03:00"
+ "guncelleme": "2026-08-18T07:30:49.992684+03:00"
 }
