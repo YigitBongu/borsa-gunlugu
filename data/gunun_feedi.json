@@ -2,6 +2,19 @@
  "tarih": "2026-08-18",
  "kap": [
   {
+   "id": "kap-my-ASTOR-202608181221",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:21",
+   "tarih_iso": "2026-08-18T12:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202608181149",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -134,6 +147,18 @@
    "eklenme": "2026-08-18T10:01:02.594603+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/finans/haberler/astor-enerji-kar-artisi-beklentilerin-uzerinde-oldu-haberi-836687",
+   "baslik": "Astor Enerji kâr artışı beklentilerin üzerinde oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/astor-enerji-kar-artisi-beklentilerin-uzerinde-oldu-haberi-836687",
+   "saat": "12:45",
+   "tarih_iso": "2026-08-18T12:45:00+03:00",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/is-bankasindan-temassiz-odemelerde-yeni-donem-3906405-teknoloji",
    "baslik": "Temassız ödemelerde yeni dönem",
    "kaynak": "Habertürk Ekonomi",
@@ -196,6 +221,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-citlekci-icin-caldi/4030348",
+   "baslik": "Borsa İstanbul'da gong Çitlekçi için çaldı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-citlekci-icin-caldi/4030348",
+   "saat": "12:42",
+   "tarih_iso": "2026-08-18T12:42:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligindan-ekonomi-programinda-koklu-degisiklik-yapilacagi-iddiasina-yanit/4030306",
    "baslik": "Hazine ve Maliye Bakanlığından ekonomi programında köklü değişiklik yapılacağı iddiasına yanıt",
@@ -288,6 +323,146 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html",
+   "baslik": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html",
+   "saat": "12:50",
+   "tarih_iso": "2026-08-18T12:50:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-fading-iran-peace-hopes-lift-oil-bond-yields-4864587",
+   "baslik": "US stock futures drop as fading Iran peace hopes lift oil, bond yields",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-drop-as-fading-iran-peace-hopes-lift-oil-bond-yields-4864587",
+   "saat": "12:48",
+   "tarih_iso": "2026-08-18T12:48:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nvidia-earnings-why-bofa-says-august-26-earnings-will-be-the-moment-of-truth-93CH-4864612",
+   "baslik": "Nvidia earnings: Why BofA says August 26 earnings will be the moment of truth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nvidia-earnings-why-bofa-says-august-26-earnings-will-be-the-moment-of-truth-93CH-4864612",
+   "saat": "12:48",
+   "tarih_iso": "2026-08-18T12:48:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wolfe-research-sees-oil-prices-holding-steady-amid-usiran-standoff-93CH-4864607",
+   "baslik": "Wolfe Research sees oil prices holding steady amid US-Iran standoff",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wolfe-research-sees-oil-prices-holding-steady-amid-usiran-standoff-93CH-4864607",
+   "saat": "12:46",
+   "tarih_iso": "2026-08-18T12:46:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/18/bond-yields-government-us10y-treasury-note-iran.html",
+   "baslik": "Global bond yields hit multi-decade highs as governments pay the price for U.S.-Iran stalemate",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/18/bond-yields-government-us10y-treasury-note-iran.html",
+   "saat": "12:45",
+   "tarih_iso": "2026-08-18T12:45:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bath--body-works-stock-climbing-today-93CH-4864604",
+   "baslik": "Why is Bath & Body Works stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bath--body-works-stock-climbing-today-93CH-4864604",
+   "saat": "12:44",
+   "tarih_iso": "2026-08-18T12:44:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/salesforce-earnings-outlook-valuation-case-meets-execution-risk-93CH-4864600",
+   "baslik": "Salesforce earnings outlook: valuation case meets execution risk",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/salesforce-earnings-outlook-valuation-case-meets-execution-risk-93CH-4864600",
+   "saat": "12:42",
+   "tarih_iso": "2026-08-18T12:42:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-bullish-on-kingspan-as-advnsys-drives-earnings-growth-4864599",
+   "baslik": "Jefferies bullish on Kingspan as Advnsys drives earnings growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jefferies-bullish-on-kingspan-as-advnsys-drives-earnings-growth-4864599",
+   "saat": "12:42",
+   "tarih_iso": "2026-08-18T12:42:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/chilis-marketing-fueled-71-sales-093647759.html",
+   "baslik": "Chili's Marketing Fueled a 71% Sales Run. Its CMO Cashed In Some Stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/chilis-marketing-fueled-71-sales-093647759.html",
+   "saat": "12:36",
+   "tarih_iso": "2026-08-18T12:36:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ed-yardeni-just-raised-2026-093500569.html",
+   "baslik": "Ed Yardeni Just Raised His 2026 Price Target on the S&P 500 to 8,400. 3 Ways The Market Can Get There.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ed-yardeni-just-raised-2026-093500569.html",
+   "saat": "12:35",
+   "tarih_iso": "2026-08-18T12:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/articles/wall-street-futures-fall-middle-092815052.html",
+   "baslik": "Wall Street Futures Fall as Middle East Risks, Oil Prices and Canada Tariffs Take Focus: Dow Jones, S&P, Nasdaq",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/articles/wall-street-futures-fall-middle-092815052.html",
+   "saat": "12:28",
+   "tarih_iso": "2026-08-18T12:28:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-appaloosa-slashed-092600175.html",
+   "baslik": "Billionaire David Tepper of Appaloosa Slashed His Micron Stake and Piled Into a \"Fabulous\" AI Stock for a 6th Consecutive Quarter",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-appaloosa-slashed-092600175.html",
+   "saat": "12:26",
+   "tarih_iso": "2026-08-18T12:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/chilis-parent-just-capped-five-092504127.html",
+   "baslik": "Chili's Parent Just Capped Five Years of Growth. Its CEO Sold Into the Rally",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/chilis-parent-just-capped-five-092504127.html",
+   "saat": "12:25",
+   "tarih_iso": "2026-08-18T12:25:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-money-printing-092000110.html",
+   "baslik": "These 3 Dividend Stocks Are Money-Printing Machines",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-money-printing-092000110.html",
+   "saat": "12:20",
+   "tarih_iso": "2026-08-18T12:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1",
    "baslik": "Global bond sell-off deepens amid fears over inflation and AI issuance",
@@ -1121,6 +1296,46 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-is-stuck-in-a-5-day-sideways-range-from-4310-to-4449-200686014",
+   "baslik": "Gold Is Stuck in a 5 Day Sideways Range From $4,310 to $4,449",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-is-stuck-in-a-5-day-sideways-range-from-4310-to-4449-200686014",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/altn-abd-politika-belirsizligi-ile-4450-dolara-dogru-yukseldi-93CH-4034147",
+   "baslik": "Altın ABD politika belirsizliği ile 4.450 dolara doğru yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-abd-politika-belirsizligi-ile-4450-dolara-dogru-yukseldi-93CH-4034147",
+   "saat": "12:48",
+   "tarih_iso": "2026-08-18T12:48:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/gold-rebounds-toward-4450-on-us-policy-uncertainty-93CH-4864611",
+   "baslik": "Gold rebounds toward $4,450 on US policy uncertainty",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-rebounds-toward-4450-on-us-policy-uncertainty-93CH-4864611",
+   "saat": "12:47",
+   "tarih_iso": "2026-08-18T12:47:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
+   "id": "alt-https://finance.yahoo.com/markets/options/articles/gold-options-traders-chase-more-091744908.html",
+   "baslik": "Gold Options Traders Chase More Upside After 8% August Gain",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/options/articles/gold-options-traders-chase-more-091744908.html",
+   "saat": "12:17",
+   "tarih_iso": "2026-08-18T12:17:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T12:58:03.258281+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-pulls-back-amid-middle-east-tensions-and-fed-rate-uncertainty-200686012",
    "baslik": "Gold Pulls Back Amid Middle East Tensions and Fed Rate Uncertainty",
    "kaynak": "Investing Emtia",
@@ -1261,5 +1476,5 @@
    "eklenme": "2026-08-18T09:01:43.584317+03:00"
   }
  ],
- "guncelleme": "2026-08-18T12:30:48.500416+03:00"
+ "guncelleme": "2026-08-18T12:58:03.258281+03:00"
 }
