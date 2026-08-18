@@ -2,6 +2,19 @@
  "tarih": "2026-08-18",
  "kap": [
   {
+   "id": "kap-my-SDTTR-202608181509",
+   "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+   "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Sermaye",
+   "saat": "15:09",
+   "tarih_iso": "2026-08-18T15:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-18T16:01:01.489785+03:00"
+  },
+  {
    "id": "kap-my-YEOTK-202608181404",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -394,6 +407,56 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/palantir-sandisk-stocks-soaring-wall-124500465.html",
+   "baslik": "Palantir and Sandisk Stocks Are Soaring: Wall Street Says to Buy 1 and Avoid the Other",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/palantir-sandisk-stocks-soaring-wall-124500465.html",
+   "saat": "15:45",
+   "tarih_iso": "2026-08-18T15:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T16:01:01.489785+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/morning-minute-pump-prints-first-123702777.html",
+   "baslik": "Morning Minute: PUMP Prints First Golden Cross as Revenue Hits Seven-Month High",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-pump-prints-first-123702777.html",
+   "saat": "15:37",
+   "tarih_iso": "2026-08-18T15:37:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T16:01:01.489785+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/baidu-q2-2026-earnings-miss-123647523.html",
+   "baslik": "Baidu Q2 2026 earnings miss as ad revenue falls 19%",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/baidu-q2-2026-earnings-miss-123647523.html",
+   "saat": "15:36",
+   "tarih_iso": "2026-08-18T15:36:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T16:01:01.489785+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/top-retail-analyst-target-offers-123628711.html",
+   "baslik": "Top Retail Analyst: Target Offers More Upside Than Walmart Today Ahead of Earnings This Week",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-retail-analyst-target-offers-123628711.html",
+   "saat": "15:36",
+   "tarih_iso": "2026-08-18T15:36:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T16:01:01.489785+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/chevron-corporation-cvx-drops-oil-123322272.html",
+   "baslik": "Chevron Corporation (CVX) Drops as Oil Price Retreats",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/chevron-corporation-cvx-drops-oil-123322272.html",
+   "saat": "15:33",
+   "tarih_iso": "2026-08-18T15:33:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T16:01:01.489785+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/home-depot-revenue-rises-even-as-customers-turn-away-from-bigger-projects-0798f7fd?mod=mw_rss_topstories",
    "baslik": "Home Depot revenue rises even as customers turn away from bigger projects",
    "kaynak": "MarketWatch",
@@ -402,6 +465,16 @@
    "tarih_iso": "2026-08-18T15:32:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-18T15:35:34.892066+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/articles/betting-retirement-big-game-gen-123000699.html",
+   "baslik": "Betting retirement on the big game? Gen Z investors are gambling on sports as a financial plan",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/articles/betting-retirement-big-game-gen-123000699.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-08-18T15:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T16:01:01.489785+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/08/18/treasury-yields-.html",
@@ -422,6 +495,36 @@
    "tarih_iso": "2026-08-18T15:27:47+03:00",
    "kodlar": [],
    "eklenme": "2026-08-18T15:30:55.064695+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/anthropic-could-beat-elon-musks-spacex-for-largest-2026-ipo-prediction-markets-show-122619825.html",
+   "baslik": "Anthropic could beat Elon Musk's SpaceX for largest 2026 IPO, prediction markets show",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/anthropic-could-beat-elon-musks-spacex-for-largest-2026-ipo-prediction-markets-show-122619825.html",
+   "saat": "15:26",
+   "tarih_iso": "2026-08-18T15:26:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T16:01:01.489785+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/home-depot-beats-estimates-frozen-122124759.html",
+   "baslik": "Home Depot Beats Estimates in a “Frozen” Housing Market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-beats-estimates-frozen-122124759.html",
+   "saat": "15:21",
+   "tarih_iso": "2026-08-18T15:21:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T16:01:01.489785+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/investors-focus-higher-capital-spending-122045999.html",
+   "baslik": "Investors’ Focus on Higher Capital Spending Weighed on Northrop Grumman (NOC)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-focus-higher-capital-spending-122045999.html",
+   "saat": "15:20",
+   "tarih_iso": "2026-08-18T15:20:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T16:01:01.489785+03:00"
   },
   {
    "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
@@ -582,6 +685,16 @@
    "tarih_iso": "2026-08-18T14:55:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-18T15:30:55.064695+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/news/dollar-feeble-rate-hike-bets-015445875.html",
+   "baslik": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/dollar-feeble-rate-hike-bets-015445875.html",
+   "saat": "14:48",
+   "tarih_iso": "2026-08-18T14:48:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T16:01:01.489785+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/verizon-dividend-looks-secure-investors-114804997.html",
@@ -1492,106 +1605,6 @@
    "tarih_iso": "2026-08-18T12:04:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-18T12:30:48.500416+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/wells-fargo-resets-inflation-target-090300650.html",
-   "baslik": "Wells Fargo resets its inflation target for 2026 and 2027",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/wells-fargo-resets-inflation-target-090300650.html",
-   "saat": "12:03",
-   "tarih_iso": "2026-08-18T12:03:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T12:30:48.500416+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/chris-pratts-pacific-palisades-home-returns-to-the-market-for-just-under-20-million-1b83f5c3?mod=mw_rss_topstories",
-   "baslik": "Chris Pratt’s Pacific Palisades home returns to the market for just under $20 million",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/chris-pratts-pacific-palisades-home-returns-to-the-market-for-just-under-20-million-1b83f5c3?mod=mw_rss_topstories",
-   "saat": "12:01",
-   "tarih_iso": "2026-08-18T12:01:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T12:26:59.937501+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-docgo-stock-sliding-today-93CH-4864518",
-   "baslik": "Why is DocGo stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-docgo-stock-sliding-today-93CH-4864518",
-   "saat": "11:53",
-   "tarih_iso": "2026-08-18T11:53:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T12:26:59.937501+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/1-top-growth-stock-down-084800621.html",
-   "baslik": "1 Top Growth Stock Down 22% This Year and Built for the Long Haul",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-top-growth-stock-down-084800621.html",
-   "saat": "11:48",
-   "tarih_iso": "2026-08-18T11:48:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T12:26:59.937501+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lanxess-stock-sliding-today-93CH-4864509",
-   "baslik": "Why is Lanxess stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-lanxess-stock-sliding-today-93CH-4864509",
-   "saat": "11:43",
-   "tarih_iso": "2026-08-18T11:43:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T12:00:57.853611+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
-   "baslik": "Bonds, stocks jolted as Middle East tensions shatter market calm",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/oil-prices-climb-bond-yields-011655842.html",
-   "saat": "11:42",
-   "tarih_iso": "2026-08-18T11:42:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T12:26:59.937501+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fabrinet-stock-sliding-today-93CH-4864508",
-   "baslik": "Why is Fabrinet stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-fabrinet-stock-sliding-today-93CH-4864508",
-   "saat": "11:41",
-   "tarih_iso": "2026-08-18T11:41:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T12:00:57.853611+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-faces-7-4-083500108.html",
-   "baslik": "Kraft Heinz Faces a $7.4 Billion Impairment Charge. Is the 6.2% Yielding Stock a Value Trap or a No-Brainer Buy in August?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/kraft-heinz-faces-7-4-083500108.html",
-   "saat": "11:35",
-   "tarih_iso": "2026-08-18T11:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T12:26:59.937501+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/serve-robotics-grew-second-quarter-083400951.html",
-   "baslik": "Serve Robotics Grew Its Second-Quarter Revenue by 400%, but This Shocking News Sent Its Stock Plunging",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-grew-second-quarter-083400951.html",
-   "saat": "11:34",
-   "tarih_iso": "2026-08-18T11:34:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T12:26:59.937501+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-105-4864494",
-   "baslik": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.05%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-105-4864494",
-   "saat": "11:30",
-   "tarih_iso": "2026-08-18T11:30:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T12:00:57.853611+03:00"
   }
  ],
  "altin_haber": [
@@ -1786,5 +1799,5 @@
    "eklenme": "2026-08-18T09:01:43.584317+03:00"
   }
  ],
- "guncelleme": "2026-08-18T15:35:34.892066+03:00"
+ "guncelleme": "2026-08-18T16:01:01.489785+03:00"
 }
