@@ -251,6 +251,19 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/yerli-telefon-2027de-geliyor-3906178-ekonomi",
+   "baslik": "Yerli telefonda sona doğru",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/yerli-telefon-2027de-geliyor-3906178-ekonomi",
+   "saat": "07:15",
+   "tarih_iso": "2026-08-18T07:15:15+03:00",
+   "kodlar": [
+    "ASELS",
+    "TTKOM"
+   ],
+   "eklenme": "2026-08-18T08:00:56.734250+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fred-fenerbahceye-veda-etti-haberi-836605",
    "baslik": "Fred, Fenerbahçe'ye veda etti",
    "kaynak": "Dünya",
@@ -660,6 +673,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/skan-reports-22-sales-jump-in-first-half-returns-to-profit-93CH-4864261",
+   "baslik": "Skan reports 22% sales jump in first half, returns to profit",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/skan-reports-22-sales-jump-in-first-half-returns-to-profit-93CH-4864261",
+   "saat": "07:42",
+   "tarih_iso": "2026-08-18T07:42:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T08:00:56.734250+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-chow-sang-sang-stock-surging-today-93CH-4864259",
+   "baslik": "Why is Chow Sang Sang stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-chow-sang-sang-stock-surging-today-93CH-4864259",
+   "saat": "07:31",
+   "tarih_iso": "2026-08-18T07:31:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T08:00:56.734250+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-eqt-holdings-stock-surging-today-93CH-4864258",
+   "baslik": "Why is EQT Holdings stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-eqt-holdings-stock-surging-today-93CH-4864258",
+   "saat": "07:31",
+   "tarih_iso": "2026-08-18T07:31:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-18T08:00:56.734250+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-retreat-as-oil-bond-yields-revive-inflation-concerns-4864253",
    "baslik": "Asian stocks retreat as oil, bond yields revive inflation concerns",
@@ -1829,36 +1872,6 @@
    "tarih_iso": "2026-08-17T19:10:11+03:00",
    "kodlar": [],
    "eklenme": "2026-08-17T19:30:48.538939+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-sees-dollar-weakness-continuing-with-new-zealand-dollar-gains-93CH-4863697",
-   "baslik": "BofA sees dollar weakness continuing with New Zealand dollar gains",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/bofa-sees-dollar-weakness-continuing-with-new-zealand-dollar-gains-93CH-4863697",
-   "saat": "19:09",
-   "tarih_iso": "2026-08-17T19:09:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T19:30:48.538939+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-025-4863696",
-   "baslik": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.25%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-025-4863696",
-   "saat": "19:08",
-   "tarih_iso": "2026-08-17T19:08:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T19:30:48.538939+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-087-4863695",
-   "baslik": "Spain stocks lower at close of trade; IBEX 35 down 0.87%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-087-4863695",
-   "saat": "19:08",
-   "tarih_iso": "2026-08-17T19:08:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-17T19:30:48.538939+03:00"
   }
  ],
  "altin_haber": [
@@ -2193,5 +2206,5 @@
    "eklenme": "2026-08-17T09:00:56.869153+03:00"
   }
  ],
- "guncelleme": "2026-08-18T07:30:49.992684+03:00"
+ "guncelleme": "2026-08-18T08:00:56.734250+03:00"
 }
