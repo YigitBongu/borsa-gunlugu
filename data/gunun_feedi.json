@@ -2,6 +2,58 @@
  "tarih": "2026-08-19",
  "kap": [
   {
+   "id": "kap-my-GSDHO-202608191936",
+   "baslik": "GSD HOLDİNG A.Ş. — TSRS Uyumlu Sürdürülebilirlik Raporu",
+   "sirket": "GSD HOLDİNG A.Ş.",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:36",
+   "tarih_iso": "2026-08-19T19:36:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-20T00:00:59.758991+03:00"
+  },
+  {
+   "id": "kap-my-GSDHO-202608191934",
+   "baslik": "GSD HOLDİNG A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
+   "sirket": "GSD HOLDİNG A.Ş.",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:34",
+   "tarih_iso": "2026-08-19T19:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-20T00:00:59.758991+03:00"
+  },
+  {
+   "id": "kap-my-GSDHO-202608191933",
+   "baslik": "GSD HOLDİNG A.Ş. — Finansal Rapor",
+   "sirket": "GSD HOLDİNG A.Ş.",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:33",
+   "tarih_iso": "2026-08-19T19:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-20T00:00:59.758991+03:00"
+  },
+  {
+   "id": "kap-my-DOAS-202608191910",
+   "baslik": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
+   "kodlar": [
+    "DOAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:10",
+   "tarih_iso": "2026-08-19T19:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-20T00:00:59.758991+03:00"
+  },
+  {
    "id": "kap-my-BUCIM-202608191834",
    "baslik": "BURSA ÇİMENTO FABRİKASI A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
    "sirket": "BURSA ÇİMENTO FABRİKASI A.Ş.",
@@ -347,6 +399,46 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/fedden-kritik-enflasyon-mesaji-faiz-artirimi-kapida-mi-3456617",
+   "baslik": "Fed'den kritik enflasyon mesajı: Faiz artırımı kapıda mı?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/fedden-kritik-enflasyon-mesaji-faiz-artirimi-kapida-mi-3456617",
+   "saat": "01:39",
+   "tarih_iso": "2026-08-20T01:39:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T00:00:59.758991+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/fed-tutanaklari-enflasyon-dusmezse-faiz-artisi-gerekebilir-3906800-ekonomi",
+   "baslik": "Fed tutanakları: Enflasyon düşmezse faiz artışı gerekebilir",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/fed-tutanaklari-enflasyon-dusmezse-faiz-artisi-gerekebilir-3906800-ekonomi",
+   "saat": "22:49",
+   "tarih_iso": "2026-08-19T22:49:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T00:00:59.758991+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-tutanaklari-enflasyon-dusmezse-faiz-artisi-gundeme-gelebilir-haberi-836938",
+   "baslik": "Fed tutanakları: Enflasyon düşmezse faiz artışı gündeme gelebilir",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-tutanaklari-enflasyon-dusmezse-faiz-artisi-gundeme-gelebilir-haberi-836938",
+   "saat": "22:30",
+   "tarih_iso": "2026-08-19T22:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T00:00:59.758991+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fed-tutanaklari-enflasyonun-dusmemesi-halinde-faiz-artisinin-gundeme-gelebilecegini-gosterdi/4032157",
+   "baslik": "Fed tutanakları, enflasyonun düşmemesi halinde faiz artışının gündeme gelebileceğini gösterdi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-tutanaklari-enflasyonun-dusmemesi-halinde-faiz-artisinin-gundeme-gelebilecegini-gosterdi/4032157",
+   "saat": "22:27",
+   "tarih_iso": "2026-08-19T22:27:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T00:00:59.758991+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/modernada-acga-sats-yapanlar-48-milyar-dolar-kaybetti-4036808",
    "baslik": "Moderna’da açığa satış yapanlar 4,8 milyar dolar kaybetti",
@@ -2122,5 +2214,5 @@
    "eklenme": "2026-08-19T09:02:21.918527+03:00"
   }
  ],
- "guncelleme": "2026-08-19T23:50:28.376615+03:00"
+ "guncelleme": "2026-08-20T00:00:59.758991+03:00"
 }
