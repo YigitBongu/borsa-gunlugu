@@ -2,6 +2,58 @@
  "tarih": "2026-08-19",
  "kap": [
   {
+   "id": "kap-my-MIATK-202608191004",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:04",
+   "tarih_iso": "2026-08-19T10:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
+   "id": "kap-my-BAGFS-202608191004",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BAGFS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:04",
+   "tarih_iso": "2026-08-19T10:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
+   "id": "kap-my-AEFES-202608190953",
+   "baslik": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+   "kodlar": [
+    "AEFES"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "09:53",
+   "tarih_iso": "2026-08-19T09:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
+   "id": "kap-my-GLYHO-202608190944",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:44",
+   "tarih_iso": "2026-08-19T09:44:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
    "id": "kap-my-AEFES-202608190936",
    "baslik": "JCR AVRASYA DERECELENDİRME A.Ş. — Kredi Derecelendirmesi",
    "sirket": "JCR AVRASYA DERECELENDİRME A.Ş.",
@@ -96,6 +148,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-acikladi-turkiyenin-kisa-vadeli-dis-borc-stokunda-artis-haberi-836822",
+   "baslik": "TCMB açıkladı: Türkiye'nin kısa vadeli dış borç stokunda artış!",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-acikladi-turkiyenin-kisa-vadeli-dis-borc-stokunda-artis-haberi-836822",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-19T10:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/rekorlarin-arkasindaki-risk-ecb-yapay-zeka-rallisinin-sonrasina-dikkat-cekti-haberi-836802",
    "baslik": "Rekorların arkasındaki risk: ECB yapay zeka rallisinin sonrasına dikkat çekti",
    "kaynak": "Dünya",
@@ -138,6 +200,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-reel-from-worst-day-in-a-month-lagarde-fed-minutes-awaited-4866488",
+   "baslik": "European stocks reel from worst day in a month; Lagarde, Fed minutes awaited",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-reel-from-worst-day-in-a-month-lagarde-fed-minutes-awaited-4866488",
+   "saat": "10:09",
+   "tarih_iso": "2026-08-19T10:09:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/this-stock-is-needhams-top-semiconductor-equipment-pick-for-2026-93CH-4866516",
+   "baslik": "This Stock is Needham’s Top Semiconductor Equipment Pick for 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/this-stock-is-needhams-top-semiconductor-equipment-pick-for-2026-93CH-4866516",
+   "saat": "10:01",
+   "tarih_iso": "2026-08-19T10:01:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-312-4866508",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 3.12%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-312-4866508",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-19T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
    "baslik": "Goldman studied where AI is squeezing labor markets. Here's what it found",
    "kaynak": "CNBC",
@@ -158,6 +250,26 @@
    "eklenme": "2026-08-19T10:01:03.428511+03:00"
   },
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-rusal-stock-gaining-today-93CH-4866498",
+   "baslik": "Why is Rusal stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-rusal-stock-gaining-today-93CH-4866498",
+   "saat": "09:47",
+   "tarih_iso": "2026-08-19T09:47:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/latours-q2-industrial-sales-rise-3-amid-market-recovery-93CH-4866492",
+   "baslik": "Latour’s Q2 industrial sales rise 3% amid market recovery",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/latours-q2-industrial-sales-rise-3-amid-market-recovery-93CH-4866492",
+   "saat": "09:44",
+   "tarih_iso": "2026-08-19T09:44:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-hit-by-higher-yields-oil-4866292",
    "baslik": "U.S. stock futures dip after Wall St hit by higher yields, oil",
    "kaynak": "Investing.com",
@@ -176,6 +288,16 @@
    "tarih_iso": "2026-08-19T09:30:04+03:00",
    "kodlar": [],
    "eklenme": "2026-08-19T10:01:03.428511+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chinese-robotics-watch-these-stocks-after-unitrees-bumper-shanghai-debut-93CH-4866475",
+   "baslik": "Chinese robotics: Watch these stocks after Unitree’s bumper Shanghai debut",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chinese-robotics-watch-these-stocks-after-unitrees-bumper-shanghai-debut-93CH-4866475",
+   "saat": "09:25",
+   "tarih_iso": "2026-08-19T09:25:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-taiyo-yuden-stock-falling-today-93CH-4866474",
@@ -440,6 +562,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-outlook-cycle-window-targets-44824542-or-breakdown-toward-4322-200686069",
+   "baslik": "Gold Outlook: Cycle Window Targets $4,482–$4,542 or Breakdown Toward $4,322",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-outlook-cycle-window-targets-44824542-or-breakdown-toward-4322-200686069",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-silver-stall-as-us-dollar-refuses-to-buckle-200686080",
    "baslik": "Gold, Silver Stall as US Dollar Refuses to Buckle",
    "kaynak": "Investing Emtia",
@@ -510,5 +642,5 @@
    "eklenme": "2026-08-19T09:02:21.918527+03:00"
   }
  ],
- "guncelleme": "2026-08-19T10:01:03.428511+03:00"
+ "guncelleme": "2026-08-19T10:30:50.238797+03:00"
 }
