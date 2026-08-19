@@ -134,6 +134,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-19-agustos-2026/4031880",
+   "baslik": "60 saniyede ekonomide bugün (19 Ağustos 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-19-agustos-2026/4031880",
+   "saat": "17:08",
+   "tarih_iso": "2026-08-19T17:08:34+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-19T17:28:12.369650+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/ulker-biskuvi-hissesi-bugun-neden-yukseliyor-93CH-4036074",
    "baslik": "Ülker Bisküvi hissesi bugün neden yükseliyor?",
    "kaynak": "Investing TR",
@@ -494,6 +506,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/mortgage-rates-could-move-even-higher-dealing-a-fresh-blow-to-home-buyers-ad8d0f3d?mod=mw_rss_topstories",
+   "baslik": "Mortgage rates could move even higher — dealing a fresh blow to home buyers",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/mortgage-rates-could-move-even-higher-dealing-a-fresh-blow-to-home-buyers-ad8d0f3d?mod=mw_rss_topstories",
+   "saat": "17:23",
+   "tarih_iso": "2026-08-19T17:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T17:28:12.369650+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+   "baslik": "Carvana shares on pace for 10% weekly loss as Mark Walter probe fuels investor jitters",
+   "kaynak": "CNBC Finans",
+   "link": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+   "saat": "17:18",
+   "tarih_iso": "2026-08-19T17:18:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T17:28:12.369650+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/americas-growing-debt-pile-will-be-the-big-focus-wednesday-as-global-bond-rout-deepens-a6955c80?mod=mw_rss_topstories",
+   "baslik": "America’s growing debt pile will be the big focus Wednesday as global bond rout deepens",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/americas-growing-debt-pile-will-be-the-big-focus-wednesday-as-global-bond-rout-deepens-a6955c80?mod=mw_rss_topstories",
+   "saat": "17:15",
+   "tarih_iso": "2026-08-19T17:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T17:28:12.369650+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
+   "baslik": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/meta-is-facing-its-big-tobacco-moment-and-investors-can-profit-e0f27b2d?mod=mw_rss_topstories",
+   "saat": "17:15",
+   "tarih_iso": "2026-08-19T17:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T17:28:12.369650+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html",
+   "baslik": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html",
+   "saat": "17:14",
+   "tarih_iso": "2026-08-19T17:14:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T17:28:12.369650+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dividend-stocks-lost-yield-war-140730677.html",
+   "baslik": "Dividend Stocks Lost the Yield War But May Still Beat the Market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dividend-stocks-lost-yield-war-140730677.html",
+   "saat": "17:07",
+   "tarih_iso": "2026-08-19T17:07:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T17:28:12.369650+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/popular-shoe-brands-stock-erased-140700516.html",
+   "baslik": "Popular shoe brand's stock erased $200 billion in market value",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/popular-shoe-brands-stock-erased-140700516.html",
+   "saat": "17:07",
+   "tarih_iso": "2026-08-19T17:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T17:28:12.369650+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/avation-targets-14-fleet-growth-140438171.html",
+   "baslik": "Avation Targets 14% Fleet Growth Through 2030 as Aircraft Supply Tightens",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/avation-targets-14-fleet-growth-140438171.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-08-19T17:04:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T17:28:12.369650+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
    "baslik": "Pressure on bonds abates as Treasury announces buybacks. What may come next.",
    "kaynak": "MarketWatch",
@@ -782,6 +874,16 @@
    "tarih_iso": "2026-08-19T15:30:37+03:00",
    "kodlar": [],
    "eklenme": "2026-08-19T16:00:58.620299+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
+   "baslik": "World’s largest olive oil company surges over 20% as rivals circle in takeover battle",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
+   "saat": "15:23",
+   "tarih_iso": "2026-08-19T15:23:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T17:28:12.369650+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/howard-hughes-holdings-hhh-vantage-121720714.html",
@@ -1602,96 +1704,6 @@
    "tarih_iso": "2026-08-19T12:32:56+03:00",
    "kodlar": [],
    "eklenme": "2026-08-19T12:58:59.055374+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/billionaire-bond-king-just-compared-093000734.html",
-   "baslik": "The billionaire 'Bond King' just compared Wall Street's $500 billion AI bet to a warehouse full of bananas",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/billionaire-bond-king-just-compared-093000734.html",
-   "saat": "12:30",
-   "tarih_iso": "2026-08-19T12:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T14:20:22.660545+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/nvidia-credit-risk-gauge-hits-new-peak-as-softbank-readies-record-bond-issue-4866761",
-   "baslik": "Nvidia credit risk gauge hits new peak as SoftBank readies record bond issue",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/nvidia-credit-risk-gauge-hits-new-peak-as-softbank-readies-record-bond-issue-4866761",
-   "saat": "12:26",
-   "tarih_iso": "2026-08-19T12:26:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T12:58:59.055374+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-h-lundbeck-b-stock-sliding-today-93CH-4866711",
-   "baslik": "Why is H Lundbeck B stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-h-lundbeck-b-stock-sliding-today-93CH-4866711",
-   "saat": "12:02",
-   "tarih_iso": "2026-08-19T12:02:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T12:28:24.477018+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Jump in energy bills drives UK inflation to highest rate for four months",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-   "saat": "12:02",
-   "tarih_iso": "2026-08-19T12:02:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T15:36:28.037127+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-straumann-stock-sliding-today-93CH-4866710",
-   "baslik": "Why is Straumann stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-straumann-stock-sliding-today-93CH-4866710",
-   "saat": "12:01",
-   "tarih_iso": "2026-08-19T12:01:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T12:28:24.477018+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-palatial-beverly-hills-home-that-paris-hilton-rented-is-back-on-the-market-for-a-whopping-169-000-a-month-0d538750?mod=mw_rss_topstories",
-   "baslik": "The palatial Beverly Hills home that Paris Hilton rented is back on the market for a whopping $169,000 a month",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-palatial-beverly-hills-home-that-paris-hilton-rented-is-back-on-the-market-for-a-whopping-169-000-a-month-0d538750?mod=mw_rss_topstories",
-   "saat": "11:59",
-   "tarih_iso": "2026-08-19T11:59:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T12:00:59.622812+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-oxford-nanopore-technologies-stock-rallying-today-93CH-4866705",
-   "baslik": "Why is Oxford Nanopore Technologies stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-oxford-nanopore-technologies-stock-rallying-today-93CH-4866705",
-   "saat": "11:58",
-   "tarih_iso": "2026-08-19T11:58:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T12:28:24.477018+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/pinewood-technologies-stock-surges-after-takeover-offer-4866704",
-   "baslik": "Pinewood Technologies stock surges after takeover offer",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/pinewood-technologies-stock-surges-after-takeover-offer-4866704",
-   "saat": "11:58",
-   "tarih_iso": "2026-08-19T11:58:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T12:28:24.477018+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/alphabet-raises-39-billion-in-inaugural-australian-dollar-bond-4866697",
-   "baslik": "Alphabet raises $3.9 billion in inaugural Australian dollar bond",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/alphabet-raises-39-billion-in-inaugural-australian-dollar-bond-4866697",
-   "saat": "11:54",
-   "tarih_iso": "2026-08-19T11:54:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T12:28:24.477018+03:00"
   }
  ],
  "altin_haber": [
@@ -1956,5 +1968,5 @@
    "eklenme": "2026-08-19T09:02:21.918527+03:00"
   }
  ],
- "guncelleme": "2026-08-19T17:01:05.044178+03:00"
+ "guncelleme": "2026-08-19T17:28:12.369650+03:00"
 }
