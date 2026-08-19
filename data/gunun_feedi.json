@@ -605,6 +605,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-19-agustos-carsamba-doviz-kurlari-haberi-836793",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (19 Ağustos Çarşamba Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-19-agustos-carsamba-doviz-kurlari-haberi-836793",
+   "saat": "07:22",
+   "tarih_iso": "2026-08-19T07:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T07:30:47.246882+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/hazine-bakanligi-koklu-degisim-iddiasini-yalanladi-3456138",
    "baslik": "Hazine Bakanlığı \"köklü değişim\" iddiasını yalanladı",
    "kaynak": "CNN Türk Ekonomi",
@@ -776,6 +786,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-slump-as-chip-selloff-deepens-kospi-plunges-5-4866415",
+   "baslik": "Asian stocks slump as chip selloff deepens; KOSPI plunges 5%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-slump-as-chip-selloff-deepens-kospi-plunges-5-4866415",
+   "saat": "07:04",
+   "tarih_iso": "2026-08-19T07:04:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T07:30:47.246882+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-4866411",
+   "baslik": "Why is SoftBank Group stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-tumbling-today-93CH-4866411",
+   "saat": "06:57",
+   "tarih_iso": "2026-08-19T06:57:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T07:30:47.246882+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-santos-stock-rallying-today-93CH-4866410",
+   "baslik": "Why is Santos stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-santos-stock-rallying-today-93CH-4866410",
+   "saat": "06:56",
+   "tarih_iso": "2026-08-19T06:56:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T07:30:47.246882+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/xiaomi-shares-climb-after-q2-earnings-as-smartphone-pressure-eases-4866404",
    "baslik": "Xiaomi shares climb after Q2 earnings as smartphone pressure eases",
@@ -1945,36 +1985,6 @@
    "tarih_iso": "2026-08-18T18:30:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-18T18:55:54.020871+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/autolus-autl-q2-2026-earnings-152834110.html",
-   "baslik": "Autolus (AUTL) Q2 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/autolus-autl-q2-2026-earnings-152834110.html",
-   "saat": "18:28",
-   "tarih_iso": "2026-08-18T18:28:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T18:55:54.020871+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cipher-mining-falls-9-terawulf-152741588.html",
-   "baslik": "Cipher Mining Falls 9%, TeraWulf Sinks 7% as Rising Yields Hit the AI Miner Pivot",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cipher-mining-falls-9-terawulf-152741588.html",
-   "saat": "18:27",
-   "tarih_iso": "2026-08-18T18:27:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T18:55:54.020871+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-did-sandisk-stock-drop-152547673.html",
-   "baslik": "Why Did Sandisk Stock Drop Today?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-sandisk-stock-drop-152547673.html",
-   "saat": "18:25",
-   "tarih_iso": "2026-08-18T18:25:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-18T19:01:01.121711+03:00"
   }
  ],
  "altin_haber": [
@@ -2249,5 +2259,5 @@
    "eklenme": "2026-08-18T09:01:43.584317+03:00"
   }
  ],
- "guncelleme": "2026-08-19T07:00:56.830526+03:00"
+ "guncelleme": "2026-08-19T07:30:47.246882+03:00"
 }
