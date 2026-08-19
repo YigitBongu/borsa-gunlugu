@@ -1,7 +1,58 @@
 {
  "tarih": "2026-08-19",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-AEFES-202608190936",
+   "baslik": "JCR AVRASYA DERECELENDİRME A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "JCR AVRASYA DERECELENDİRME A.Ş.",
+   "kodlar": [
+    "AEFES"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "09:36",
+   "tarih_iso": "2026-08-19T09:36:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-19T10:01:03.428511+03:00"
+  },
+  {
+   "id": "kap-my-KZBGY-202608190936",
+   "baslik": "KIZILBÜK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "KIZILBÜK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+   "kodlar": [
+    "KZBGY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:36",
+   "tarih_iso": "2026-08-19T09:36:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-19T10:01:03.428511+03:00"
+  }
+ ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/roberto-carlos-musluman-mi-oldu-haberi-836817",
+   "baslik": "Roberto Carlos Müslüman mı oldu?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/roberto-carlos-musluman-mi-oldu-haberi-836817",
+   "saat": "09:47",
+   "tarih_iso": "2026-08-19T09:47:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-19T10:01:03.428511+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/turkiyenin-uefa-ulke-puani-yukseldi-iste-guncel-siralama-haberi-836815",
+   "baslik": "Türkiye'nin UEFA ülke puanı yükseldi: İşte güncel sıralama",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/turkiyenin-uefa-ulke-puani-yukseldi-iste-guncel-siralama-haberi-836815",
+   "saat": "09:35",
+   "tarih_iso": "2026-08-19T09:35:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-19T10:01:03.428511+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-tur-atladi-mi-elendi-mi-lyon-fb-rovans-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-836811",
    "baslik": "Fenerbahçe tur atladı mı, elendi mi? Lyon - FB rövanş maçı ne zaman, saat kaçta, hangi kanalda?",
@@ -86,6 +137,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+   "baslik": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+   "saat": "09:55",
+   "tarih_iso": "2026-08-19T09:55:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:01:03.428511+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+   "baslik": "Iran reportedly weighs attacks on European military targets as UAE severs trade with Tehran",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+   "saat": "09:52",
+   "tarih_iso": "2026-08-19T09:52:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:01:03.428511+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-hit-by-higher-yields-oil-4866292",
+   "baslik": "U.S. stock futures dip after Wall St hit by higher yields, oil",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-hit-by-higher-yields-oil-4866292",
+   "saat": "09:36",
+   "tarih_iso": "2026-08-19T09:36:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:01:03.428511+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-018-4866478",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.18%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-018-4866478",
+   "saat": "09:30",
+   "tarih_iso": "2026-08-19T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:01:03.428511+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-taiyo-yuden-stock-falling-today-93CH-4866474",
    "baslik": "Why is Taiyo Yuden stock falling today?",
@@ -349,6 +440,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-silver-stall-as-us-dollar-refuses-to-buckle-200686080",
+   "baslik": "Gold, Silver Stall as US Dollar Refuses to Buckle",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-silver-stall-as-us-dollar-refuses-to-buckle-200686080",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-19T10:01:03.428511+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-4435-ceiling-tests-the-strength-of-the-august-recovery-200686063",
    "baslik": "Gold’s $4,435 Ceiling Tests the Strength of the August Recovery",
    "kaynak": "Investing Emtia",
@@ -409,5 +510,5 @@
    "eklenme": "2026-08-19T09:02:21.918527+03:00"
   }
  ],
- "guncelleme": "2026-08-19T09:35:20.194026+03:00"
+ "guncelleme": "2026-08-19T10:01:03.428511+03:00"
 }
