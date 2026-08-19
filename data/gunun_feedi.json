@@ -2,6 +2,19 @@
  "tarih": "2026-08-19",
  "kap": [
   {
+   "id": "kap-my-KMPUR-202608191136",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KMPUR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:36",
+   "tarih_iso": "2026-08-19T11:36:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
    "id": "kap-my-MIATK-202608191004",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -82,6 +95,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/turkcellden-6g-ve-yapay-zeka-hamlesi-avrupanin-6-buyuk-ar-ge-projesinde-yer-alacak-haberi-836843",
+   "baslik": "Turkcell’den 6G ve yapay zekâ hamlesi: Avrupa’nın 6 büyük Ar-Ge projesinde yer alacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turkcellden-6g-ve-yapay-zeka-hamlesi-avrupanin-6-buyuk-ar-ge-projesinde-yer-alacak-haberi-836843",
+   "saat": "11:53",
+   "tarih_iso": "2026-08-19T11:53:00+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ulker-den-yilin-ilk-yarisinda-63-milyar-lira-ciro-3906643-ekonomi",
+   "baslik": "Ülker'den yılın ilk yarısında 63 milyar lira ciro",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ulker-den-yilin-ilk-yarisinda-63-milyar-lira-ciro-3906643-ekonomi",
+   "saat": "11:35",
+   "tarih_iso": "2026-08-19T11:35:02+03:00",
+   "kodlar": [
+    "ULKER"
+   ],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/tcg-anadolu-ve-tcg-heybeliada-nin-selamlama-gecisi-turk-donanmasinin-seckin-platformlari-teknofest-mavi-vatan-oncesi-yalovada-selamlama-gecisi-yapti-3906624-teknoloji",
    "baslik": "TEKNOFEST Mavi Vatan öncesi selamlama",
    "kaynak": "Habertürk Ekonomi",
@@ -160,6 +197,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.haberturk.com/abd-enerji-bakanligi-ndan-kritik-mineralleri-hedefleyen-madencilik-projelerine-162-milyon-dolar-kayn-3906644-ekonomi",
+   "baslik": "ABD Enerji Bakanlığı'ndan belirli madencilik projelerine 162 milyon dolar kaynak",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/abd-enerji-bakanligi-ndan-kritik-mineralleri-hedefleyen-madencilik-projelerine-162-milyon-dolar-kayn-3906644-ekonomi",
+   "saat": "11:37",
+   "tarih_iso": "2026-08-19T11:37:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/ekonomi-yonetimi-yogun-ovp-ve-butce-mesaisinde/4031315",
+   "baslik": "Ekonomi yönetimi yoğun OVP ve bütçe mesaisinde",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ekonomi-yonetimi-yogun-ovp-ve-butce-mesaisinde/4031315",
+   "saat": "11:06",
+   "tarih_iso": "2026-08-19T11:06:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/iso-baskani-bahcivandan-ovp-cikisi-enflasyon-ugruna-sanayi-feda-ediliyor-haberi-836835",
    "baslik": "İSO Başkanı Bahçıvan’dan OVP çıkışı: Enflasyon uğruna sanayi feda ediliyor",
    "kaynak": "Dünya",
@@ -168,6 +225,16 @@
    "tarih_iso": "2026-08-19T11:03:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-19T11:32:22.889733+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/is-dunyasindan-ovp-cikisi-enflasyon-ugruna-sanayi-feda-ediliyor-haberi-836835",
+   "baslik": "İş dünyasından OVP çıkışı: Enflasyon uğruna sanayi feda ediliyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/is-dunyasindan-ovp-cikisi-enflasyon-ugruna-sanayi-feda-ediliyor-haberi-836835",
+   "saat": "11:03",
+   "tarih_iso": "2026-08-19T11:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/1-euroya-aldigi-600-subeli-market-zincirini-satiyor-haberi-836830",
@@ -252,6 +319,76 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/the-palatial-beverly-hills-home-that-paris-hilton-rented-is-back-on-the-market-for-a-whopping-169-000-a-month-0d538750?mod=mw_rss_topstories",
+   "baslik": "The palatial Beverly Hills home that Paris Hilton rented is back on the market for a whopping $169,000 a month",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-palatial-beverly-hills-home-that-paris-hilton-rented-is-back-on-the-market-for-a-whopping-169-000-a-month-0d538750?mod=mw_rss_topstories",
+   "saat": "11:59",
+   "tarih_iso": "2026-08-19T11:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
+   "baslik": "Treasury yields pull back from multi-decade highs ahead of FOMC minutes",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
+   "saat": "11:33",
+   "tarih_iso": "2026-08-19T11:33:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-keysight-technologies-stock-surging-today-93CH-4866660",
+   "baslik": "Why is Keysight Technologies stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-keysight-technologies-stock-surging-today-93CH-4866660",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-19T11:30:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-carlsberg-stock-slipping-today-93CH-4866658",
+   "baslik": "Why is Carlsberg stock slipping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-carlsberg-stock-slipping-today-93CH-4866658",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-19T11:30:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-067-4866657",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.67%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-067-4866657",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-19T11:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-banca-generali-stock-rallying-today-93CH-4866656",
+   "baslik": "Why is Banca Generali stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-banca-generali-stock-rallying-today-93CH-4866656",
+   "saat": "11:29",
+   "tarih_iso": "2026-08-19T11:29:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cogent-communications-stock-dipping-today-93CH-4866655",
+   "baslik": "Why is Cogent Communications stock dipping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cogent-communications-stock-dipping-today-93CH-4866655",
+   "saat": "11:29",
+   "tarih_iso": "2026-08-19T11:29:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
    "baslik": "World’s largest olive oil company pops 17% as rivals circle in takeover battle",
    "kaynak": "CNBC",
@@ -260,6 +397,26 @@
    "tarih_iso": "2026-08-19T11:22:22+03:00",
    "kodlar": [],
    "eklenme": "2026-08-19T11:32:22.889733+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dollar-tree-climbs-after-jefferies-upgrades-stock-on-improving-traffic-4866651",
+   "baslik": "Dollar Tree climbs after Jefferies upgrades stock on improving traffic",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dollar-tree-climbs-after-jefferies-upgrades-stock-on-improving-traffic-4866651",
+   "saat": "11:21",
+   "tarih_iso": "2026-08-19T11:21:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-shurgard-self-storage-stock-sliding-today-93CH-4866645",
+   "baslik": "Why is Shurgard Self Storage stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-shurgard-self-storage-stock-sliding-today-93CH-4866645",
+   "saat": "11:15",
+   "tarih_iso": "2026-08-19T11:15:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-docmorris-stock-sliding-today-93CH-4866631",
@@ -794,6 +951,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-devinden-turkiye-detayi-yatirimcilarin-yonu-degisiyor-galeri-836841",
+   "baslik": "Altın devinden Türkiye detayı: Yatırımcıların yönü değişiyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-devinden-turkiye-detayi-yatirimcilarin-yonu-degisiyor-galeri-836841",
+   "saat": "11:35",
+   "tarih_iso": "2026-08-19T11:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T12:00:59.622812+03:00"
+  },
+  {
    "id": "alt-https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-ekipleri-7-ayda-71-9-milyar-liralik-kacak-esyaya-gecit-vermedi/4031313",
    "baslik": "Ticaret Bakanlığı ekipleri 7 ayda 71,9 milyar liralık kaçak eşyaya geçit vermedi",
    "kaynak": "AA Ekonomi",
@@ -914,5 +1081,5 @@
    "eklenme": "2026-08-19T09:02:21.918527+03:00"
   }
  ],
- "guncelleme": "2026-08-19T11:32:22.889733+03:00"
+ "guncelleme": "2026-08-19T12:00:59.622812+03:00"
 }
