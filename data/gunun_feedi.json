@@ -82,6 +82,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/tcg-anadolu-ve-tcg-heybeliada-nin-selamlama-gecisi-turk-donanmasinin-seckin-platformlari-teknofest-mavi-vatan-oncesi-yalovada-selamlama-gecisi-yapti-3906624-teknoloji",
+   "baslik": "TEKNOFEST Mavi Vatan öncesi selamlama",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/tcg-anadolu-ve-tcg-heybeliada-nin-selamlama-gecisi-turk-donanmasinin-seckin-platformlari-teknofest-mavi-vatan-oncesi-yalovada-selamlama-gecisi-yapti-3906624-teknoloji",
+   "saat": "11:00",
+   "tarih_iso": "2026-08-19T11:00:10+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/roberto-carlos-musluman-mi-oldu-haberi-836817",
    "baslik": "Roberto Carlos Müslüman mı oldu?",
    "kaynak": "Dünya",
@@ -148,6 +160,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/iso-baskani-bahcivandan-ovp-cikisi-enflasyon-ugruna-sanayi-feda-ediliyor-haberi-836835",
+   "baslik": "İSO Başkanı Bahçıvan’dan OVP çıkışı: Enflasyon uğruna sanayi feda ediliyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/iso-baskani-bahcivandan-ovp-cikisi-enflasyon-ugruna-sanayi-feda-ediliyor-haberi-836835",
+   "saat": "11:03",
+   "tarih_iso": "2026-08-19T11:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/1-euroya-aldigi-600-subeli-market-zincirini-satiyor-haberi-836830",
    "baslik": "1 Euro'ya aldığı 600 şubeli market zincirini satıyor",
    "kaynak": "Dünya",
@@ -176,6 +198,16 @@
    "tarih_iso": "2026-08-19T10:00:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-19T10:30:50.238797+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/unlu-yatirimci-tarih-verdi-bitcoinde-100-bin-dolar-beklentisi-galeri-836821",
+   "baslik": "Ünlü yatırımcı tarih verdi: Bitcoin'de 100 bin dolar beklentisi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/unlu-yatirimci-tarih-verdi-bitcoinde-100-bin-dolar-beklentisi-galeri-836821",
+   "saat": "09:30",
+   "tarih_iso": "2026-08-19T09:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/rekorlarin-arkasindaki-risk-ecb-yapay-zeka-rallisinin-sonrasina-dikkat-cekti-haberi-836802",
@@ -219,6 +251,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
+   "baslik": "World’s largest olive oil company pops 17% as rivals circle in takeover battle",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/19/deoleo-takeover-battle-olive-oil-dcoop.html",
+   "saat": "11:22",
+   "tarih_iso": "2026-08-19T11:22:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-docmorris-stock-sliding-today-93CH-4866631",
+   "baslik": "Why is DocMorris stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-docmorris-stock-sliding-today-93CH-4866631",
+   "saat": "11:07",
+   "tarih_iso": "2026-08-19T11:07:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-safestore-stock-sliding-today-93CH-4866617",
+   "baslik": "Why is Safestore stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-safestore-stock-sliding-today-93CH-4866617",
+   "saat": "11:05",
+   "tarih_iso": "2026-08-19T11:05:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bkw-stock-sliding-today-93CH-4866616",
+   "baslik": "Why is BKW stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bkw-stock-sliding-today-93CH-4866616",
+   "saat": "11:04",
+   "tarih_iso": "2026-08-19T11:04:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nordic-mining-stock-sliding-today-93CH-4866614",
+   "baslik": "Why is Nordic Mining stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nordic-mining-stock-sliding-today-93CH-4866614",
+   "saat": "11:03",
+   "tarih_iso": "2026-08-19T11:03:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-amcomri-stock-gaining-today-93CH-4866613",
+   "baslik": "Why is Amcomri stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-amcomri-stock-gaining-today-93CH-4866613",
+   "saat": "11:03",
+   "tarih_iso": "2026-08-19T11:03:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-trainline-stock-tumbling-today-93CH-4866610",
+   "baslik": "Why is Trainline stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-trainline-stock-tumbling-today-93CH-4866610",
+   "saat": "11:01",
+   "tarih_iso": "2026-08-19T11:01:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-smith--nephew-stock-sliding-today-93CH-4866608",
+   "baslik": "Why is Smith & Nephew stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-smith--nephew-stock-sliding-today-93CH-4866608",
+   "saat": "10:58",
+   "tarih_iso": "2026-08-19T10:58:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-slump-as-chip-selloff-deepens-kospi-plunges-5-4866415",
    "baslik": "Asian stocks tumble as chip rout, bond yields hammer South Korea and Japan markets",
@@ -682,6 +794,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-ekipleri-7-ayda-71-9-milyar-liralik-kacak-esyaya-gecit-vermedi/4031313",
+   "baslik": "Ticaret Bakanlığı ekipleri 7 ayda 71,9 milyar liralık kaçak eşyaya geçit vermedi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-ekipleri-7-ayda-71-9-milyar-liralik-kacak-esyaya-gecit-vermedi/4031313",
+   "saat": "11:06",
+   "tarih_iso": "2026-08-19T11:06:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-yarisinda-surpriz-ulke-uretimde-abdyi-geride-birakti-galeri-836831",
+   "baslik": "Altın yarışında sürpriz ülke: Üretimde ABD’yi geride bıraktı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-yarisinda-surpriz-ulke-uretimde-abdyi-geride-birakti-galeri-836831",
+   "saat": "10:49",
+   "tarih_iso": "2026-08-19T10:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-19T11:30:53.316244+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-outlook-darkens-as-rising-yields-and-oil-fuel-stagflation-fears-200686091",
    "baslik": "Gold Outlook Darkens as Rising Yields and Oil Fuel Stagflation Fears",
    "kaynak": "Investing Emtia",
@@ -782,5 +914,5 @@
    "eklenme": "2026-08-19T09:02:21.918527+03:00"
   }
  ],
- "guncelleme": "2026-08-19T11:01:01.206601+03:00"
+ "guncelleme": "2026-08-19T11:30:53.316244+03:00"
 }
