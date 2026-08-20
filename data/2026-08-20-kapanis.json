@@ -2,6 +2,76 @@
  "tarih": "2026-08-20",
  "kap": [
   {
+   "id": "kap-my-SASA-202608201831",
+   "baslik": "SASA POLYESTER SANAYİ A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "SASA POLYESTER SANAYİ A.Ş.",
+   "kodlar": [
+    "SASA"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "18:31",
+   "tarih_iso": "2026-08-20T18:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:31"
+  },
+  {
+   "id": "kap-my-FENER-202608201829",
+   "baslik": "FENERBAHÇE FUTBOL A.Ş. — Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+   "sirket": "FENERBAHÇE FUTBOL A.Ş.",
+   "kodlar": [
+    "FENER"
+   ],
+   "kategori": "Temettü",
+   "saat": "18:29",
+   "tarih_iso": "2026-08-20T18:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:29"
+  },
+  {
+   "id": "kap-my-FENER-202608201828",
+   "baslik": "FENERBAHÇE FUTBOL A.Ş. — Bağımsız Denetim Kuruluşunun Belirlenmesi",
+   "sirket": "FENERBAHÇE FUTBOL A.Ş.",
+   "kodlar": [
+    "FENER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:28",
+   "tarih_iso": "2026-08-20T18:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:28"
+  },
+  {
+   "id": "kap-my-PGSUS-202608201825",
+   "baslik": "PEGASUS HAVA TAŞIMACILIĞI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "PEGASUS HAVA TAŞIMACILIĞI A.Ş.",
+   "kodlar": [
+    "PGSUS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:25",
+   "tarih_iso": "2026-08-20T18:25:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:25"
+  },
+  {
+   "id": "kap-my-GLYHO-202608201820",
+   "baslik": "GLOBAL YATIRIM HOLDİNG A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "GLOBAL YATIRIM HOLDİNG A.Ş.",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:20",
+   "tarih_iso": "2026-08-20T18:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:20"
+  },
+  {
    "id": "kap-my-ISMEN-202608201757",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -222,6 +292,17 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-837062",
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-837062",
+   "saat": "18:28",
+   "tarih_iso": "2026-08-20T18:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:28"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/hazine-alacaklari-254-milyar-liraya-ulasti-haberi-837053",
    "baslik": "Hazine alacakları 254 milyar liraya ulaştı",
@@ -511,6 +592,127 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/deere-raises-lower-end-of-2026-net-income-forecast-range-4869172",
+   "baslik": "Deere raises 2026 profit view as AI construction boom lifts quarterly income, shares jump",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/deere-raises-lower-end-of-2026-net-income-forecast-range-4869172",
+   "saat": "18:43",
+   "tarih_iso": "2026-08-20T18:43:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:43"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/rationale-behind-baron-focused-growth-154228414.html",
+   "baslik": "Rationale Behind Baron Focused Growth Fund’s IDEXX Laboratories (IDXX) Holding",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rationale-behind-baron-focused-growth-154228414.html",
+   "saat": "18:42",
+   "tarih_iso": "2026-08-20T18:42:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:42"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-scansource-stock-soaring-today-154023033.html",
+   "baslik": "Why ScanSource Stock Is Soaring Today",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-scansource-stock-soaring-today-154023033.html",
+   "saat": "18:40",
+   "tarih_iso": "2026-08-20T18:40:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:40"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
+   "baslik": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
+   "saat": "18:40",
+   "tarih_iso": "2026-08-20T18:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:40"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-ibkr-delivers-153751054.html",
+   "baslik": "Interactive Brokers Group (IBKR) Delivers Exceptional Growth at Scale",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-ibkr-delivers-153751054.html",
+   "saat": "18:37",
+   "tarih_iso": "2026-08-20T18:37:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:37"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-20-2026-silver-opens-higher-on-treasurys-news-of-increased-debt-buybacks-153635987.html",
+   "baslik": "Silver prices today, Thursday, August 20, 2026: Silver opens higher on Treasury’s news of increased debt buybacks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-20-2026-silver-opens-higher-on-treasurys-news-of-increased-debt-buybacks-153635987.html",
+   "saat": "18:36",
+   "tarih_iso": "2026-08-20T18:36:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:36"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/berkshire-betting-legacy-retail-stock-153500642.html",
+   "baslik": "Berkshire Is Betting on This Legacy Retail Stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-betting-legacy-retail-stock-153500642.html",
+   "saat": "18:35",
+   "tarih_iso": "2026-08-20T18:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:35"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/yield-hunters-swarming-6-3-153430269.html",
+   "baslik": "Yield Hunters Are Swarming This 6.3%-Dividend Stock—And Big-League Hedge Funds are Quietly Buying the Dip",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/yield-hunters-swarming-6-3-153430269.html",
+   "saat": "18:34",
+   "tarih_iso": "2026-08-20T18:34:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:34"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html",
+   "baslik": "Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html",
+   "saat": "18:33",
+   "tarih_iso": "2026-08-20T18:33:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:33"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/paper-gains-inflate-company-earnings-153300447.html",
+   "baslik": "What are paper gains & how can they inflate company earnings?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/paper-gains-inflate-company-earnings-153300447.html",
+   "saat": "18:33",
+   "tarih_iso": "2026-08-20T18:33:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:33"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/coinbase-global-stock-carries-premium-153036945.html",
+   "baslik": "Coinbase Global Stock Carries A Premium Multiple And A Shrinking Top Line",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/coinbase-global-stock-carries-premium-153036945.html",
+   "saat": "18:30",
+   "tarih_iso": "2026-08-20T18:30:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:30"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
    "baslik": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
    "kaynak": "CNBC",
@@ -541,6 +743,17 @@
    "tarih_iso": "2026-08-20T18:25:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-20T18:28:09.901940+03:00",
+   "saat_g": "18:25"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jim-cramer-names-4-indispensable-152500596.html",
+   "baslik": "Jim Cramer names 4 'indispensable' memory stocks he says investors 'can't afford' to skip as AI demand soars",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-names-4-indispensable-152500596.html",
+   "saat": "18:25",
+   "tarih_iso": "2026-08-20T18:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
    "saat_g": "18:25"
   },
   {
@@ -1697,141 +1910,31 @@
    "kodlar": [],
    "eklenme": "2026-08-20T15:00:59.187448+03:00",
    "saat_g": "14:45"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories",
-   "baslik": "A $420 camera for $10: China’s young consumers would rather rent than buy. It’s a problem for the government and the economy.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/test-driving-that-drone-or-just-renting-why-the-chinese-government-needs-to-know-07ca4d1b?mod=mw_rss_topstories",
-   "saat": "14:44",
-   "tarih_iso": "2026-08-20T14:44:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T14:51:58.899640+03:00",
-   "saat_g": "14:44"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-walmart-stock-sliding-today-93CH-4869388",
-   "baslik": "Why is Walmart stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-walmart-stock-sliding-today-93CH-4869388",
-   "saat": "14:24",
-   "tarih_iso": "2026-08-20T14:24:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T14:30:53.669717+03:00",
-   "saat_g": "14:24"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
-   "baslik": "Treasury’s bond buyback blitz may end up driving yields higher, warns JPMorgan. Here’s their investment advice.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
-   "saat": "14:15",
-   "tarih_iso": "2026-08-20T14:15:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T14:23:35.660161+03:00",
-   "saat_g": "14:15"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/aryzta-shares-fall-6-as-ubs-flags-weaker-growth-and-margin-outlook-4869332",
-   "baslik": "Aryzta shares fall 6% as UBS flags weaker growth and margin outlook",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/aryzta-shares-fall-6-as-ubs-flags-weaker-growth-and-margin-outlook-4869332",
-   "saat": "14:12",
-   "tarih_iso": "2026-08-20T14:12:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T14:30:53.669717+03:00",
-   "saat_g": "14:12"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Carney asks for end to US alcohol ban, province leader says, as trade deal nears",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c3ekl74jnk5o?at_medium=RSS&at_campaign=rss",
-   "saat": "14:10",
-   "tarih_iso": "2026-08-20T14:10:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T16:41:51.514262+03:00",
-   "saat_g": "14:10"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-edge-lower-amid-waning-bond-market-rally-uscanada-trade-talks-4869327",
-   "baslik": "TSX futures edge lower amid waning bond market rally, U.S.-Canada trade talks",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-lower-amid-waning-bond-market-rally-uscanada-trade-talks-4869327",
-   "saat": "14:08",
-   "tarih_iso": "2026-08-20T14:08:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T14:30:53.669717+03:00",
-   "saat_g": "14:08"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-atour-lifestyle-stock-climbing-today-93CH-4869260",
-   "baslik": "Why is Atour Lifestyle stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-atour-lifestyle-stock-climbing-today-93CH-4869260",
-   "saat": "13:56",
-   "tarih_iso": "2026-08-20T13:56:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T14:23:35.660161+03:00",
-   "saat_g": "13:56"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nebius-stock-climbing-today-93CH-4869259",
-   "baslik": "Why is Nebius stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-climbing-today-93CH-4869259",
-   "saat": "13:55",
-   "tarih_iso": "2026-08-20T13:55:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T14:23:35.660161+03:00",
-   "saat_g": "13:55"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/bonds-bounce-on-us-buybacks-but-relief-may-be-brief-4868662",
-   "baslik": "US Treasury buyback limits bond market pain, but relief may be brief",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/bonds-bounce-on-us-buybacks-but-relief-may-be-brief-4868662",
-   "saat": "13:48",
-   "tarih_iso": "2026-08-20T13:48:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T14:23:35.660161+03:00",
-   "saat_g": "13:48"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/oil-prices-jump-after-trump-declares-economic-war-on-iran-457e7ad9?mod=mw_rss_topstories",
-   "baslik": "Oil prices jump after Trump declares economic war on Iran",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/oil-prices-jump-after-trump-declares-economic-war-on-iran-457e7ad9?mod=mw_rss_topstories",
-   "saat": "13:46",
-   "tarih_iso": "2026-08-20T13:46:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T13:56:06.203570+03:00",
-   "saat_g": "13:46"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-advance-auto-parts-stock-plunging-today-93CH-4869216",
-   "baslik": "Why is Advance Auto Parts stock plunging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-advance-auto-parts-stock-plunging-today-93CH-4869216",
-   "saat": "13:43",
-   "tarih_iso": "2026-08-20T13:43:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T13:56:06.203570+03:00",
-   "saat_g": "13:43"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alibaba-adr-stock-sliding-today-93CH-4869215",
-   "baslik": "Why is Alibaba ADR stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-alibaba-adr-stock-sliding-today-93CH-4869215",
-   "saat": "13:43",
-   "tarih_iso": "2026-08-20T13:43:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T13:56:06.203570+03:00",
-   "saat_g": "13:43"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html",
+   "baslik": "Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html",
+   "saat": "18:33",
+   "tarih_iso": "2026-08-20T18:33:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "18:33"
+  },
+  {
+   "id": "alt-https://www.mining.com/colombia-gold-mine-collapse-kills-13-worker/",
+   "baslik": "Colombia gold mine collapse kills 13 worker",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/colombia-gold-mine-collapse-kills-13-worker/",
+   "saat": "17:03",
+   "tarih_iso": "2026-08-20T17:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T18:59:21.191833+03:00",
+   "saat_g": "17:03"
+  },
   {
    "id": "alt-https://www.dunya.com/ekonomi/altin-duser-mi-gram-altin-yukselecek-mi-altinda-son-durum-ne-haberi-837026",
    "baslik": "Altın düşer mi, gram altın yükselecek mi? Altında son durum ne?",
@@ -2020,5 +2123,5 @@
    "saat_g": "dün 23:37"
   }
  ],
- "guncelleme": "2026-08-20T18:30:54.103183+03:00"
+ "guncelleme": "2026-08-20T18:59:21.191833+03:00"
 }
