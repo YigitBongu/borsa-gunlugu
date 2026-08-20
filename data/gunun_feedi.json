@@ -57,6 +57,16 @@
  "sirket": [],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/yurt-disi-ufe-temmuzda-aylik-yuzde-2-51-yillik-yuzde-29-67-artti-/4032367",
+   "baslik": "Yurt dışı ÜFE temmuzda aylık yüzde 2,51, yıllık yüzde 29,67 arttı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yurt-disi-ufe-temmuzda-aylik-yuzde-2-51-yillik-yuzde-29-67-artti-/4032367",
+   "saat": "10:17",
+   "tarih_iso": "2026-08-20T10:17:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T10:30:52.687430+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/is-dunyasi/samsungda-yatirimcisina-72-milyar-dolar-hazirligi-haberi-836962",
    "baslik": "Samsung’da yatırımcısına 72 milyar dolar hazırlığı",
    "kaynak": "Dünya",
@@ -138,6 +148,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-jd-sports-stock-plummeting-today-93CH-4868823",
+   "baslik": "Why is JD Sports stock plummeting today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-jd-sports-stock-plummeting-today-93CH-4868823",
+   "saat": "10:24",
+   "tarih_iso": "2026-08-20T10:24:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T10:30:52.687430+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-down-as-usiran-hormuz-standoff-drags-on-4868820",
+   "baslik": "FTSE 100 today: Stocks down as U.S.-Iran Hormuz standoff drags on",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-down-as-usiran-hormuz-standoff-drags-on-4868820",
+   "saat": "10:21",
+   "tarih_iso": "2026-08-20T10:21:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T10:30:52.687430+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-languish-at-aug-lows-as-hawkish-central-banks-counter-bond-rebound-4868726",
+   "baslik": "European shares languish at Aug lows as hawkish central banks counter bond rebound",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-languish-at-aug-lows-as-hawkish-central-banks-counter-bond-rebound-4868726",
+   "saat": "10:11",
+   "tarih_iso": "2026-08-20T10:11:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T10:30:52.687430+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-names-top-cybersecurity-stocks-as-ai-reshapes-threat-landscape-93CH-4868805",
+   "baslik": "BofA Names Top Cybersecurity Stocks as AI Reshapes Threat Landscape",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bofa-names-top-cybersecurity-stocks-as-ai-reshapes-threat-landscape-93CH-4868805",
+   "saat": "10:09",
+   "tarih_iso": "2026-08-20T10:09:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T10:30:52.687430+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-treasury-buybacks-revive-risk-appetite-kospi-surges-4868669",
+   "baslik": "Asian stocks rally as Treasury buybacks ease yields; KOSPI surges nearly 6%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-treasury-buybacks-revive-risk-appetite-kospi-surges-4868669",
+   "saat": "10:06",
+   "tarih_iso": "2026-08-20T10:06:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T10:30:52.687430+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-146-4868795",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 1.46%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-146-4868795",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-20T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T10:30:52.687430+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/wastbygg-gruppen-q2-revenue-drops-336-as-net-loss-narrows-93CH-4868764",
    "baslik": "Wästbygg Gruppen Q2 revenue drops 33.6% as net loss narrows",
@@ -561,6 +631,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-faces-key-test-as-fed-minutes-shift-rate-outlook-200686178",
+   "baslik": "Gold Faces Key Test as Fed Minutes Shift Rate Outlook",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-faces-key-test-as-fed-minutes-shift-rate-outlook-200686178",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-20T10:30:52.687430+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-bullish-momentum-supported-by-lower-treasury-yields-and-a-weaker-us-dollar-200686173",
+   "baslik": "Gold Bullish Momentum Supported by Lower Treasury Yields and a Weaker US Dollar",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-bullish-momentum-supported-by-lower-treasury-yields-and-a-weaker-us-dollar-200686173",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-20T10:30:52.687430+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-silver-surge-as-treasury-fans-embers-of-us-dollar-debasement-trade-200686153",
    "baslik": "Gold, Silver Surge as Treasury Fans Embers of US Dollar Debasement Trade",
    "kaynak": "Investing Emtia",
@@ -671,5 +761,5 @@
    "eklenme": "2026-08-20T09:02:19.446360+03:00"
   }
  ],
- "guncelleme": "2026-08-20T10:00:58.411505+03:00"
+ "guncelleme": "2026-08-20T10:30:52.687430+03:00"
 }
