@@ -400,6 +400,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-borsalar-hazine-geri-almlaryla-toparland-kospi-yukseldi-4037284",
+   "baslik": "Asya borsaları Hazine geri alımlarıyla toparlandı; KOSPI yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-borsalar-hazine-geri-almlaryla-toparland-kospi-yukseldi-4037284",
+   "saat": "07:33",
+   "tarih_iso": "2026-08-20T07:33:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T08:01:03.597238+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/dolar-kac-tl-oldu-euro-ne-kadar-20-agustos-persembe-doviz-kurlari-haberi-836948",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (20 Ağustos Perşembe Döviz Kurları)",
    "kaynak": "Dünya",
@@ -701,6 +711,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-treasury-buybacks-revive-risk-appetite-kospi-surges-4868669",
+   "baslik": "Asian stocks rebound as Treasury buybacks revive risk appetite; KOSPI surges",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-treasury-buybacks-revive-risk-appetite-kospi-surges-4868669",
+   "saat": "07:33",
+   "tarih_iso": "2026-08-20T07:33:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T08:01:03.597238+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-pony-ai-stock-rising-today-93CH-4868666",
+   "baslik": "Why is Pony AI stock rising today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-pony-ai-stock-rising-today-93CH-4868666",
+   "saat": "07:30",
+   "tarih_iso": "2026-08-20T07:30:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T08:01:03.597238+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sakura-internet-stock-sliding-today-93CH-4868663",
+   "baslik": "Why is Sakura Internet stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sakura-internet-stock-sliding-today-93CH-4868663",
+   "saat": "07:12",
+   "tarih_iso": "2026-08-20T07:12:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T08:01:03.597238+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/bonds-bounce-on-us-buybacks-but-relief-may-be-brief-4868662",
    "baslik": "Bonds bounce on US buybacks, but relief may be brief",
@@ -1870,39 +1910,19 @@
    "tarih_iso": "2026-08-19T19:04:12+03:00",
    "kodlar": [],
    "eklenme": "2026-08-19T23:50:28.376615+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/datavault-ai-agrees-buy-bankwyse-160400344.html",
-   "baslik": "Datavault AI Agrees to Buy BankWyse, Reports 287% Q2 Revenue Growth",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/datavault-ai-agrees-buy-bankwyse-160400344.html",
-   "saat": "19:04",
-   "tarih_iso": "2026-08-19T19:04:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T19:52:58.723589+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/one-wall-street-best-known-160328183.html",
-   "baslik": "One of Wall Street’s Best-Known Hedge Funds Just Loaded Up on These 5 Stocks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/one-wall-street-best-known-160328183.html",
-   "saat": "19:03",
-   "tarih_iso": "2026-08-19T19:03:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T19:30:56.851187+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/analog-devices-q3-earnings-call-160220246.html",
-   "baslik": "Analog Devices Q3 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-q3-earnings-call-160220246.html",
-   "saat": "19:02",
-   "tarih_iso": "2026-08-19T19:02:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T19:30:56.851187+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.haberturk.com/altin-iki-ayin-zirvesinde-gram-altin-6-bin-900-tl-yi-gecti-3906828-ekonomi",
+   "baslik": "Altın iki ayın zirvesinde",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/altin-iki-ayin-zirvesinde-gram-altin-6-bin-900-tl-yi-gecti-3906828-ekonomi",
+   "saat": "07:30",
+   "tarih_iso": "2026-08-20T07:30:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T08:01:03.597238+03:00"
+  },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlarinda-4500-dolar-savasi-basladi-galeri-836945",
    "baslik": "Altın fiyatlarında 4.500 dolar savaşı başladı",
@@ -2264,5 +2284,5 @@
    "eklenme": "2026-08-19T09:02:21.918527+03:00"
   }
  ],
- "guncelleme": "2026-08-20T07:30:51.322528+03:00"
+ "guncelleme": "2026-08-20T08:01:03.597238+03:00"
 }
