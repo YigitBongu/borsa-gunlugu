@@ -2,6 +2,19 @@
  "tarih": "2026-08-20",
  "kap": [
   {
+   "id": "kap-my-ALARK-202608201125",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ALARK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:25",
+   "tarih_iso": "2026-08-20T11:25:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-20T12:01:04.535829+03:00"
+  },
+  {
    "id": "kap-my-GSDHO-202608191936",
    "baslik": "GSD HOLDİNG A.Ş. — TSRS Uyumlu Sürdürülebilirlik Raporu",
    "sirket": "GSD HOLDİNG A.Ş.",
@@ -54,8 +67,31 @@
    "eklenme": "2026-08-20T09:02:19.446360+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/son-dakika-istanbulda-tramvay-raydan-cikti-cok-sayida-ekip-sevk-edildi-haberi-836993",
+   "baslik": "Son dakika: İstanbul'da tramvay raydan çıktı: Çok sayıda ekip sevk edildi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/son-dakika-istanbulda-tramvay-raydan-cikti-cok-sayida-ekip-sevk-edildi-haberi-836993",
+   "saat": "11:48",
+   "tarih_iso": "2026-08-20T11:48:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-20T12:01:04.535829+03:00"
+  }
+ ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-kuresel-motorin-fiyatindaki-gelismeleri-degerlendirdi/4032512",
+   "baslik": "Hazine ve Maliye Bakanı Şimşek küresel motorin fiyatındaki gelişmeleri değerlendirdi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-kuresel-motorin-fiyatindaki-gelismeleri-degerlendirdi/4032512",
+   "saat": "11:54",
+   "tarih_iso": "2026-08-20T11:54:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T12:01:04.535829+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/fkb-yil-sonu-beklentilerini-acikladi-buyume-tahmini-geriledi-enflasyon-yukseldi-haberi-836991",
    "baslik": "FKB yıl sonu beklentilerini açıkladı: Büyüme tahmini geriledi, enflasyon yükseldi",
@@ -168,6 +204,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/more-spacex-stock-is-about-to-hit-the-market-heres-what-to-know-789923d4?mod=mw_rss_topstories",
+   "baslik": "More SpaceX stock is about to hit the market. Here’s what to know.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/more-spacex-stock-is-about-to-hit-the-market-heres-what-to-know-789923d4?mod=mw_rss_topstories",
+   "saat": "12:00",
+   "tarih_iso": "2026-08-20T12:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T12:01:04.535829+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sartorius-stedim-biotech-stock-surging-today-93CH-4868945",
+   "baslik": "Why is Sartorius Stedim Biotech stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sartorius-stedim-biotech-stock-surging-today-93CH-4868945",
+   "saat": "11:44",
+   "tarih_iso": "2026-08-20T11:44:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T12:01:04.535829+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-merck-stock-sliding-today-93CH-4868920",
+   "baslik": "Why is Merck stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-merck-stock-sliding-today-93CH-4868920",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-20T11:30:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T12:01:04.535829+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-moderna-stock-tumbling-today-93CH-4868919",
+   "baslik": "Why is Moderna stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-tumbling-today-93CH-4868919",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-20T11:30:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T12:01:04.535829+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-177-4868917",
+   "baslik": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.77%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-177-4868917",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-20T11:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T12:01:04.535829+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-billcom-stock-surging-today-93CH-4868913",
+   "baslik": "Why is Bill.com stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-billcom-stock-surging-today-93CH-4868913",
+   "saat": "11:25",
+   "tarih_iso": "2026-08-20T11:25:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T12:01:04.535829+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-wolfspeed-stock-tumbling-today-93CH-4868910",
+   "baslik": "Why is Wolfspeed stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-wolfspeed-stock-tumbling-today-93CH-4868910",
+   "saat": "11:24",
+   "tarih_iso": "2026-08-20T11:24:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T12:01:04.535829+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-webull-stock-surging-today-93CH-4868904",
+   "baslik": "Why is Webull stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-webull-stock-surging-today-93CH-4868904",
+   "saat": "11:23",
+   "tarih_iso": "2026-08-20T11:23:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T12:01:04.535829+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-amplifon-stock-sliding-today-93CH-4868901",
    "baslik": "Why is Amplifon stock sliding today?",
@@ -851,5 +967,5 @@
    "eklenme": "2026-08-20T09:02:19.446360+03:00"
   }
  ],
- "guncelleme": "2026-08-20T11:32:28.493719+03:00"
+ "guncelleme": "2026-08-20T12:01:04.535829+03:00"
 }
