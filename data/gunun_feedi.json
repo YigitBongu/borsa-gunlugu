@@ -400,6 +400,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlarinda-4500-dolar-savasi-basladi-galeri-836945",
+   "baslik": "Altın fiyatlarında 4.500 dolar savaşı başladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlarinda-4500-dolar-savasi-basladi-galeri-836945",
+   "saat": "06:11",
+   "tarih_iso": "2026-08-20T06:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T07:00:58.150079+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/fedden-kritik-enflasyon-mesaji-faiz-artirimi-kapida-mi-3456617",
    "baslik": "Fed'den kritik enflasyon mesajı: Faiz artırımı kapıda mı?",
    "kaynak": "CNN Türk Ekonomi",
@@ -681,6 +691,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
+   "baslik": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/20/sk-hynixs-south-korean-shares-surge-stock-buyback-.html",
+   "saat": "06:30",
+   "tarih_iso": "2026-08-20T06:30:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T07:00:58.150079+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ubtech-robotics-stock-falling-today-93CH-4868652",
+   "baslik": "Why is Ubtech Robotics stock falling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ubtech-robotics-stock-falling-today-93CH-4868652",
+   "saat": "06:22",
+   "tarih_iso": "2026-08-20T06:22:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T07:00:58.150079+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/20/china-defies-global-bond-yield-surge-safe-haven.html",
    "baslik": "China is defying the global bond yield surge, boosting its diversification appeal",
@@ -1860,29 +1890,19 @@
    "tarih_iso": "2026-08-19T18:43:20+03:00",
    "kodlar": [],
    "eklenme": "2026-08-19T19:01:05.917170+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-near-multi-month-013146327.html",
-   "baslik": "Dollar weakens after Treasury boosts long-dated bond repurchases",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-near-multi-month-013146327.html",
-   "saat": "18:43",
-   "tarih_iso": "2026-08-19T18:43:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T20:01:03.725867+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/polands-kghm-posts-higher-q2-profit-on-strong-copper-prices-93CH-4867879",
-   "baslik": "Poland’s KGHM posts higher Q2 profit on strong copper prices",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/polands-kghm-posts-higher-q2-profit-on-strong-copper-prices-93CH-4867879",
-   "saat": "18:42",
-   "tarih_iso": "2026-08-19T18:42:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-19T18:56:31.525653+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlarinda-4500-dolar-savasi-basladi-galeri-836945",
+   "baslik": "Altın fiyatlarında 4.500 dolar savaşı başladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlarinda-4500-dolar-savasi-basladi-galeri-836945",
+   "saat": "06:11",
+   "tarih_iso": "2026-08-20T06:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T07:00:58.150079+03:00"
+  },
   {
    "id": "alt-https://www.mining.com/omai-values-guyana-gold-project-at-4b/",
    "baslik": "Omai values Guyana gold project at $4B",
@@ -2234,5 +2254,5 @@
    "eklenme": "2026-08-19T09:02:21.918527+03:00"
   }
  ],
- "guncelleme": "2026-08-20T06:30:55.046713+03:00"
+ "guncelleme": "2026-08-20T07:00:58.150079+03:00"
 }
