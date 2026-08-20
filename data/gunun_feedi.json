@@ -2,6 +2,19 @@
  "tarih": "2026-08-20",
  "kap": [
   {
+   "id": "kap-my-ULKER-202608201451",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ULKER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:51",
+   "tarih_iso": "2026-08-20T14:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
    "id": "kap-my-KONYA-202608201158",
    "baslik": "KONYA ÇİMENTO SANAYİİ A.Ş. — TSRS Uyumlu Sürdürülebilirlik Raporu",
    "sirket": "KONYA ÇİMENTO SANAYİİ A.Ş.",
@@ -119,6 +132,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-183-5-milyar-dolara-yukseldi/4032884",
+   "baslik": "Merkez Bankası rezervleri 183,5 milyar dolara yükseldi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-183-5-milyar-dolara-yukseldi/4032884",
+   "saat": "15:16",
+   "tarih_iso": "2026-08-20T15:16:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-rezervlerinde-dikkat-ceken-toparlanma-haberi-837025",
+   "baslik": "TCMB rezervlerinde dikkat çeken toparlanma!",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-rezervlerinde-dikkat-ceken-toparlanma-haberi-837025",
+   "saat": "15:08",
+   "tarih_iso": "2026-08-20T15:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-toplantisi-ne-zaman-mb-faiz-karari-hangi-tarihte-aciklanacak-haberi-837015",
    "baslik": "Merkez Bankası toplantısı ne zaman? MB faiz kararı hangi tarihte açıklanacak?",
@@ -332,6 +365,126 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/sk-hynix-tentative-wage-deal-121721133.html",
+   "baslik": "SK Hynix tentative wage deal pays 60% of bonuses in stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-tentative-wage-deal-121721133.html",
+   "saat": "15:17",
+   "tarih_iso": "2026-08-20T15:17:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Walmart Takes A Dive (Live Coverage)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
+   "saat": "15:16",
+   "tarih_iso": "2026-08-20T15:16:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/?src=A00220&yptr=yahoo",
+   "baslik": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/?src=A00220&yptr=yahoo",
+   "saat": "15:16",
+   "tarih_iso": "2026-08-20T15:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/sbc-medical-sbc-q2-2026-121308496.html",
+   "baslik": "SBC Medical (SBC) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/sbc-medical-sbc-q2-2026-121308496.html",
+   "saat": "15:13",
+   "tarih_iso": "2026-08-20T15:13:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/deere-q3-2026-earnings-profit-120751377.html",
+   "baslik": "Deere Q3 2026 earnings: profit rises as construction offsets farm weakness",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/deere-q3-2026-earnings-profit-120751377.html",
+   "saat": "15:07",
+   "tarih_iso": "2026-08-20T15:07:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/walmart-posts-weakest-sales-growth-120600940.html",
+   "baslik": "Walmart Posts Weakest Sales Growth in Years",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-posts-weakest-sales-growth-120600940.html",
+   "saat": "15:06",
+   "tarih_iso": "2026-08-20T15:06:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/1-trillion-stock-wall-street-120450929.html",
+   "baslik": "The $1 Trillion Stock Wall Street Says Could Grow Earnings 107% a Year",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/1-trillion-stock-wall-street-120450929.html",
+   "saat": "15:04",
+   "tarih_iso": "2026-08-20T15:04:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wolfe-remains-broadly-bullish-on-ai-semis-stocks-names-top-pick-4869541",
+   "baslik": "Wolfe remains \"broadly bullish on AI semis stocks\", names Top Pick",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wolfe-remains-broadly-bullish-on-ai-semis-stocks-names-top-pick-4869541",
+   "saat": "15:02",
+   "tarih_iso": "2026-08-20T15:02:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/bkv-maps-path-2-9-120202461.html",
+   "baslik": "BKV Maps Path to 2.9 GW Power Buildout, CCUS Growth and Contracted Cash Flow",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/bkv-maps-path-2-9-120202461.html",
+   "saat": "15:02",
+   "tarih_iso": "2026-08-20T15:02:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/etfs-and-funds/etfs/bonds-have-done-terribly-for-years-is-it-dumb-to-buy-them/?src=A00220&yptr=yahoo",
+   "baslik": "Bonds Have Done Terribly For Years — Is It Dumb To Buy Them?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/etfs-and-funds/etfs/bonds-have-done-terribly-for-years-is-it-dumb-to-buy-them/?src=A00220&yptr=yahoo",
+   "saat": "15:01",
+   "tarih_iso": "2026-08-20T15:01:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/research/the-income-investor/water-scarcity-utility-stock-h2o-america-income-investor/?src=A00220&yptr=yahoo",
+   "baslik": "Feel The Flow With This Water Utility Stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/research/the-income-investor/water-scarcity-utility-stock-h2o-america-income-investor/?src=A00220&yptr=yahoo",
+   "saat": "15:01",
+   "tarih_iso": "2026-08-20T15:01:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/walmart-earnings-the-biggest-and-most-influential-retail-report/?src=A00220&yptr=yahoo",
+   "baslik": "Walmart Earnings Top, But Stock Tumbles On Weak U.S. Sales, Guidance",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/walmart-earnings-the-biggest-and-most-influential-retail-report/?src=A00220&yptr=yahoo",
+   "saat": "15:00",
+   "tarih_iso": "2026-08-20T15:00:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/20/oil-prices-brent-wti-hormuz-trump.html",
    "baslik": "Oil prices rise 3% as Trump sharpens Iran rhetoric amid talks impasse",
    "kaynak": "CNBC",
@@ -340,6 +493,16 @@
    "tarih_iso": "2026-08-20T14:59:29+03:00",
    "kodlar": [],
    "eklenme": "2026-08-20T15:00:59.187448+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/options/articles/bonds-recover-after-us-treasury-comes-to-the-rescue-054757285.html",
+   "baslik": "Bond relief ebbs, stocks fall as investors question Treasury's rescue efforts",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/options/articles/bonds-recover-after-us-treasury-comes-to-the-rescue-054757285.html",
+   "saat": "14:58",
+   "tarih_iso": "2026-08-20T14:58:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-10year-treasury-yield-rises-undermining-bessents-yen-intervention-93CH-4869457",
@@ -722,6 +885,16 @@
    "eklenme": "2026-08-20T12:29:09.082831+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html",
+   "baslik": "Bank of America sends message on Capital One stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html",
+   "saat": "12:03",
+   "tarih_iso": "2026-08-20T12:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
+  {
    "id": "yab-https://www.ft.com/content/785aafd1-705a-47da-b016-032d66e449c0?syn-25a6b1a6=1",
    "baslik": "Trump announces new drive to isolate and crush Iranian economy",
    "kaynak": "FT",
@@ -910,6 +1083,16 @@
    "tarih_iso": "2026-08-20T11:12:58+03:00",
    "kodlar": [],
    "eklenme": "2026-08-20T11:32:28.493719+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
+   "baslik": "Stock market today: Dow, S&P 500, Nasdaq futures mixed after Treasury's bond intervention buoys markets",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
+   "saat": "11:11",
+   "tarih_iso": "2026-08-20T11:11:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gens-aurea-stock-climbing-today-93CH-4868884",
@@ -1380,59 +1563,19 @@
    "tarih_iso": "2026-08-19T22:49:28+03:00",
    "kodlar": [],
    "eklenme": "2026-08-20T09:02:19.446360+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-   "baslik": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-   "saat": "21:54",
-   "tarih_iso": "2026-08-19T21:54:50+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T09:02:19.446360+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-   "baslik": "US retail giant receives $1bn boost from tariff refunds",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c78gp4y8d3eo?at_medium=RSS&at_campaign=rss",
-   "saat": "20:07",
-   "tarih_iso": "2026-08-19T20:07:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T09:02:19.446360+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Jump in energy bills drives UK inflation to highest rate for four months",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss",
-   "saat": "19:12",
-   "tarih_iso": "2026-08-19T19:12:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T09:02:19.446360+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
-   "baslik": "Hedge funds are about to jump into prediction markets in a big way",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
-   "saat": "19:04",
-   "tarih_iso": "2026-08-19T19:04:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T09:02:19.446360+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
-   "baslik": "UAE severs trade with Iran after reported missile strike",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
-   "saat": "18:38",
-   "tarih_iso": "2026-08-19T18:38:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T09:02:19.446360+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/ekonomi/altin-duser-mi-gram-altin-yukselecek-mi-altinda-son-durum-ne-haberi-837026",
+   "baslik": "Altın düşer mi, gram altın yükselecek mi? Altında son durum ne?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/altin-duser-mi-gram-altin-yukselecek-mi-altinda-son-durum-ne-haberi-837026",
+   "saat": "15:16",
+   "tarih_iso": "2026-08-20T15:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-20T15:30:52.550564+03:00"
+  },
   {
    "id": "alt-https://www.marketwatch.com/story/why-bessents-treasury-operations-have-breathed-life-back-into-the-gold-trade-d0a8419e?mod=mw_rss_topstories",
    "baslik": "Why Bessent’s Treasury operations have breathed life back into the gold trade",
@@ -1594,5 +1737,5 @@
    "eklenme": "2026-08-20T09:02:19.446360+03:00"
   }
  ],
- "guncelleme": "2026-08-20T15:00:59.187448+03:00"
+ "guncelleme": "2026-08-20T15:30:52.550564+03:00"
 }
