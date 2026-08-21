@@ -108,6 +108,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-asya-pasifikte-ucus-frekanslarini-yuzde-15-20-artirmayi-hedefliyor/4033717",
+   "baslik": "THY, Asya-Pasifik'te uçuş frekanslarını yüzde 15-20 artırmayı hedefliyor",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thy-asya-pasifikte-ucus-frekanslarini-yuzde-15-20-artirmayi-hedefliyor/4033717",
+   "saat": "12:58",
+   "tarih_iso": "2026-08-21T12:58:45+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-08-21T13:01:00.846247+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/golcuk-tersanesinin-hikayesi-mavi-vatan-deneyim-alaninda-anlatiliyor/4033616",
    "baslik": "Gölcük Tersanesi'nin hikayesi \"Mavi Vatan Deneyim Alanı\"nda anlatılıyor",
    "kaynak": "AA Ekonomi",
@@ -207,6 +219,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-raises-uk-earnings-growth-forecast-sees-supportive-backdrop-for-equities-4871151",
+   "baslik": "UBS raises UK earnings growth forecast, sees supportive backdrop for equities",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-raises-uk-earnings-growth-forecast-sees-supportive-backdrop-for-equities-4871151",
+   "saat": "12:37",
+   "tarih_iso": "2026-08-21T12:37:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T13:01:00.846247+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ross-stores-jumps-after-raising-fullyear-profit-guidance-4871144",
+   "baslik": "Ross Stores jumps after raising full-year profit guidance",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ross-stores-jumps-after-raising-fullyear-profit-guidance-4871144",
+   "saat": "12:30",
+   "tarih_iso": "2026-08-21T12:30:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T13:01:00.846247+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-flowers-foods-stock-sliding-today-93CH-4871137",
    "baslik": "Why is Flowers Foods stock sliding today?",
@@ -860,6 +892,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/ozel-haber-altinda-yeni-rota-belli-oldu-ekonomist-muhammet-bayram-acikladi-kasima-kadar-8-bin-tl-3457302",
+   "baslik": "Özel Haber | Altında yeni rota belli oldu! Ekonomist Muhammet Bayram açıkladı: \"Kasıma kadar 8 bin TL\"",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/altin/ozel-haber-altinda-yeni-rota-belli-oldu-ekonomist-muhammet-bayram-acikladi-kasima-kadar-8-bin-tl-3457302",
+   "saat": "15:44",
+   "tarih_iso": "2026-08-21T15:44:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T13:01:00.846247+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/ozel-haber-ekonomist-muhammet-bayram-acikladi-altinda-yeni-rota-belli-oldu-kasima-kadar-8-bin-tl-3457302",
    "baslik": "Özel Haber | Ekonomist Muhammet Bayram açıkladı! Altında yeni rota belli oldu: Kasıma kadar 8 bin TL",
    "kaynak": "CNN Türk Ekonomi",
@@ -1010,5 +1052,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-21T12:32:18.405756+03:00"
+ "guncelleme": "2026-08-21T13:01:00.846247+03:00"
 }
