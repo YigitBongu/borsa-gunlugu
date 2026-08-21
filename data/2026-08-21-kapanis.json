@@ -2,6 +2,20 @@
  "tarih": "2026-08-21",
  "kap": [
   {
+   "id": "kap-my-TKFEN-202608211747",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:47",
+   "tarih_iso": "2026-08-21T17:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "17:47"
+  },
+  {
    "id": "kap-my-AEFES-202608211715",
    "baslik": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş. — İhraç Tavanına İlişkin Bildirim",
    "sirket": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
@@ -475,6 +489,72 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-climbing-today-93CH-4871887",
+   "baslik": "Why is MongoDB stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-climbing-today-93CH-4871887",
+   "saat": "18:07",
+   "tarih_iso": "2026-08-21T18:07:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "18:07"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-parsons-stock-rallying-today-93CH-4871886",
+   "baslik": "Why is Parsons stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-parsons-stock-rallying-today-93CH-4871886",
+   "saat": "18:07",
+   "tarih_iso": "2026-08-21T18:07:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "18:07"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+   "baslik": "Canada 'should fight' as US trade deadline looms, Manitoba premier says",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
+   "saat": "18:06",
+   "tarih_iso": "2026-08-21T18:06:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "18:06"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/parsons-stock-jumps-after-baird-upgrades-to-outperform-93CH-4871882",
+   "baslik": "Parsons stock jumps after Baird upgrades to Outperform",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/parsons-stock-jumps-after-baird-upgrades-to-outperform-93CH-4871882",
+   "saat": "18:03",
+   "tarih_iso": "2026-08-21T18:03:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "18:03"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/marvell-12-2-billion-google-150056156.html",
+   "baslik": "Marvell’s $12.2 Billion Google Deal Changes the Bull Case for MRVL Stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-12-2-billion-google-150056156.html",
+   "saat": "18:00",
+   "tarih_iso": "2026-08-21T18:00:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "18:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mongodb-stock-gains-after-evercore-isi-initiates-at-outperform-93CH-4871878",
+   "baslik": "MongoDB stock gains after Evercore ISI initiates at Outperform",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mongodb-stock-gains-after-evercore-isi-initiates-at-outperform-93CH-4871878",
+   "saat": "18:00",
+   "tarih_iso": "2026-08-21T18:00:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "18:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
    "baslik": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
    "kaynak": "MarketWatch",
@@ -484,6 +564,50 @@
    "kodlar": [],
    "eklenme": "2026-08-21T18:05:03.945576+03:00",
    "saat_g": "18:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/walmart-beat-earnings-raised-guidance-145701470.html",
+   "baslik": "Walmart Beat Earnings and Raised Guidance. So Why Did the Stock Crash?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/walmart-beat-earnings-raised-guidance-145701470.html",
+   "saat": "17:57",
+   "tarih_iso": "2026-08-21T17:57:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "17:57"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-081-4871875",
+   "baslik": "Norway stocks higher at close of trade; Oslo OBX up 0.81%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-081-4871875",
+   "saat": "17:55",
+   "tarih_iso": "2026-08-21T17:55:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "17:55"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-boston-beer-stock-sliding-today-93CH-4871874",
+   "baslik": "Why is Boston Beer stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-boston-beer-stock-sliding-today-93CH-4871874",
+   "saat": "17:55",
+   "tarih_iso": "2026-08-21T17:55:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "17:55"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bank-americas-sell-signals-flashing-145500469.html",
+   "baslik": "Bank of America's sell signals are flashing red, but 56% of fund managers are going all-in on stocks anyway",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-sell-signals-flashing-145500469.html",
+   "saat": "17:55",
+   "tarih_iso": "2026-08-21T17:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "17:55"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/boston-beer-stock-falls-as-cfo-reynoso-to-depart-93CH-4871871",
@@ -935,6 +1059,17 @@
    "kodlar": [],
    "eklenme": "2026-08-21T17:00:57.963755+03:00",
    "saat_g": "16:37"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/applied-industrial-ait-record-quarter-133259038.html",
+   "baslik": "Applied Industrial’s (AIT) Record Quarter Reignites The Growth Story",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/applied-industrial-ait-record-quarter-133259038.html",
+   "saat": "16:32",
+   "tarih_iso": "2026-08-21T16:32:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T18:30:53.662113+03:00",
+   "saat_g": "16:32"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/nuclear-maritime-investing-smr-stocks-and-lng-shipping-in-a-shifting-energy-landscape-93CH-4871724",
@@ -1672,127 +1807,6 @@
    "kodlar": [],
    "eklenme": "2026-08-21T10:38:30.302617+03:00",
    "saat_g": "10:27"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hunting-stock-plummeting-today-93CH-4870936",
-   "baslik": "Why is Hunting stock plummeting today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-hunting-stock-plummeting-today-93CH-4870936",
-   "saat": "10:22",
-   "tarih_iso": "2026-08-21T10:22:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T10:38:30.302617+03:00",
-   "saat_g": "10:22"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-metals-rally-masks-weak-retail-sales-4870934",
-   "baslik": "FTSE 100 today: Stocks rise as metals rally masks weak retail sales",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-metals-rally-masks-weak-retail-sales-4870934",
-   "saat": "10:18",
-   "tarih_iso": "2026-08-21T10:18:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T10:38:30.302617+03:00",
-   "saat_g": "10:18"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-on-course-to-cap-worst-week-since-july-on-oil-bond-pressure-4870879",
-   "baslik": "European stocks on course to cap worst week since July on oil, bond pressure",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-stocks-on-course-to-cap-worst-week-since-july-on-oil-bond-pressure-4870879",
-   "saat": "10:12",
-   "tarih_iso": "2026-08-21T10:12:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T10:30:50.648111+03:00",
-   "saat_g": "10:12"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/barclays-downgrades-renault-after-strong-stock-performance-shares-slip-4870915",
-   "baslik": "Barclays downgrades Renault after strong stock performance; shares slip",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/barclays-downgrades-renault-after-strong-stock-performance-shares-slip-4870915",
-   "saat": "10:08",
-   "tarih_iso": "2026-08-21T10:08:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T10:30:50.648111+03:00",
-   "saat_g": "10:08"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-kospi-rises-but-weekly-losses-linger-on-bond-oil-risks-4870824",
-   "baslik": "Asian stocks mostly rise as South Korea leads rebound; Nikkei set for weekly loss",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-rebound-as-kospi-rises-but-weekly-losses-linger-on-bond-oil-risks-4870824",
-   "saat": "10:02",
-   "tarih_iso": "2026-08-21T10:02:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T10:30:50.648111+03:00",
-   "saat_g": "10:02"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-036-4870906",
-   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 0.36%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-036-4870906",
-   "saat": "10:00",
-   "tarih_iso": "2026-08-21T10:00:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T10:30:50.648111+03:00",
-   "saat_g": "10:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/medistim-reports-195-revenue-growth-in-second-quarter-93CH-4870899",
-   "baslik": "Medistim reports 19.5% revenue growth in second quarter",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/medistim-reports-195-revenue-growth-in-second-quarter-93CH-4870899",
-   "saat": "09:52",
-   "tarih_iso": "2026-08-21T09:52:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T10:00:57.812479+03:00",
-   "saat_g": "09:52"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-slides-on-rising-treasury-yields-4870666",
-   "baslik": "U.S. stock futures tick up after Wall St slides on rising Treasury yields",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-slides-on-rising-treasury-yields-4870666",
-   "saat": "09:50",
-   "tarih_iso": "2026-08-21T09:50:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T10:00:57.812479+03:00",
-   "saat_g": "09:50"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/walmart-earnings-signal-us-consumer-slowdown-which-stocks-are-most-vulnerable-93CH-4870874",
-   "baslik": "Walmart earnings signal U.S. consumer slowdown: which stocks are most vulnerable?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/walmart-earnings-signal-us-consumer-slowdown-which-stocks-are-most-vulnerable-93CH-4870874",
-   "saat": "09:32",
-   "tarih_iso": "2026-08-21T09:32:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T10:00:57.812479+03:00",
-   "saat_g": "09:32"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-027-4870871",
-   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.27%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-027-4870871",
-   "saat": "09:30",
-   "tarih_iso": "2026-08-21T09:30:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T09:37:25.326517+03:00",
-   "saat_g": "09:30"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-051-4870853",
-   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.51%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-051-4870853",
-   "saat": "09:00",
-   "tarih_iso": "2026-08-21T09:00:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T09:30:49.318516+03:00",
-   "saat_g": "09:00"
   }
  ],
  "altin_haber": [
@@ -2127,5 +2141,5 @@
    "saat_g": "dün 17:03"
   }
  ],
- "guncelleme": "2026-08-21T18:05:03.945576+03:00"
+ "guncelleme": "2026-08-21T18:30:53.662113+03:00"
 }
