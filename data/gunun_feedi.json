@@ -348,6 +348,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-21-agustos-cuma-doviz-kurlari-haberi-837107",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (21 Ağustos Cuma Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-21-agustos-cuma-doviz-kurlari-haberi-837107",
+   "saat": "07:16",
+   "tarih_iso": "2026-08-21T07:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T07:30:50.603226+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/abdnin-tahvil-mudahalesi-ters-tepti-dolar-endeksi-uc-ayin-dibine-yaklasti-haberi-837105",
+   "baslik": "ABD'nin tahvil müdahalesi ters tepti: Dolar endeksi üç ayın dibine yaklaştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/abdnin-tahvil-mudahalesi-ters-tepti-dolar-endeksi-uc-ayin-dibine-yaklasti-haberi-837105",
+   "saat": "07:01",
+   "tarih_iso": "2026-08-21T07:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T07:30:50.603226+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-hazine-getirilerinde-yukselis-sonras-sabit-4038953",
    "baslik": "ABD hisse senedi vadeli işlemleri Hazine getirilerinde yükseliş sonrası sabit",
    "kaynak": "Investing TR",
@@ -640,6 +660,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1",
+   "baslik": "Scott Bessent takes on bond vigilantes in $32tn Treasury market",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-08-21T07:00:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T07:30:50.603226+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/4b7b8d3f-5625-4dba-ad90-66192c101956?syn-25a6b1a6=1",
+   "baslik": "Feminism didn’t kill the male breadwinner model, the economy did",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/4b7b8d3f-5625-4dba-ad90-66192c101956?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-08-21T07:00:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T07:30:50.603226+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+   "baslik": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+   "saat": "06:59",
+   "tarih_iso": "2026-08-21T06:59:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T07:30:50.603226+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alibaba-hk-stock-sliding-today-93CH-4870814",
+   "baslik": "Why is Alibaba HK stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-alibaba-hk-stock-sliding-today-93CH-4870814",
+   "saat": "06:53",
+   "tarih_iso": "2026-08-21T06:53:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T07:30:50.603226+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-charter-hall-stock-sliding-today-93CH-4870809",
    "baslik": "Why is Charter Hall stock sliding today?",
    "kaynak": "Investing.com",
@@ -658,6 +718,16 @@
    "tarih_iso": "2026-08-21T06:27:51+03:00",
    "kodlar": [],
    "eklenme": "2026-08-21T07:00:56.467030+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab",
+   "baslik": "North Korea’s economy enjoys rare ‘dash for flash’",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab",
+   "saat": "06:21",
+   "tarih_iso": "2026-08-21T06:21:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T07:30:50.603226+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/henderson-land-shares-jump-to-more-than-2month-high-after-h1-profit-soars-4870802",
@@ -1788,56 +1858,6 @@
    "tarih_iso": "2026-08-20T19:08:38+03:00",
    "kodlar": [],
    "eklenme": "2026-08-20T19:57:31.148700+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-015-4870220",
-   "baslik": "Spain stocks lower at close of trade; IBEX 35 down 0.15%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/spain-stocks-lower-at-close-of-trade-ibex-35-down-015-4870220",
-   "saat": "19:08",
-   "tarih_iso": "2026-08-20T19:08:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T19:30:52.045117+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/huron-consulting-group-hurn-ai-160826764.html",
-   "baslik": "Huron Consulting Group (HURN): Is AI Fears Overblown for This Consulting Stock?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/huron-consulting-group-hurn-ai-160826764.html",
-   "saat": "19:08",
-   "tarih_iso": "2026-08-20T19:08:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T19:57:31.148700+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-048-4870219",
-   "baslik": "Portugal stocks higher at close of trade; PSI up 0.48%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/portugal-stocks-higher-at-close-of-trade-psi-up-048-4870219",
-   "saat": "19:08",
-   "tarih_iso": "2026-08-20T19:08:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T19:30:52.045117+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/mercury-systems-mrcy-defense-stock-160733259.html",
-   "baslik": "Mercury Systems (MRCY): Is This Defense Stock Entering a New Growth Phase?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-mrcy-defense-stock-160733259.html",
-   "saat": "19:07",
-   "tarih_iso": "2026-08-20T19:07:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T19:57:31.148700+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/technology/sitime-stock-buy-rating-technology-disruptor/?src=A00220&yptr=yahoo",
-   "baslik": "Leaderboard Chip Stock Called 'Technology Disruptor'",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/technology/sitime-stock-buy-rating-technology-disruptor/?src=A00220&yptr=yahoo",
-   "saat": "19:07",
-   "tarih_iso": "2026-08-20T19:07:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T19:30:52.045117+03:00"
   }
  ],
  "altin_haber": [
@@ -2112,5 +2132,5 @@
    "eklenme": "2026-08-20T09:02:19.446360+03:00"
   }
  ],
- "guncelleme": "2026-08-21T07:00:56.467030+03:00"
+ "guncelleme": "2026-08-21T07:30:50.603226+03:00"
 }
