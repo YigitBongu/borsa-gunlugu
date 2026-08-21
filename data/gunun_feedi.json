@@ -329,6 +329,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/milli-denizalti-yapay-zekayla-donatilacak-haberi-837191",
+   "baslik": "Milli Denizaltı yapay zekâyla donatılacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/milli-denizalti-yapay-zekayla-donatilacak-haberi-837191",
+   "saat": "00:00",
+   "tarih_iso": "2026-08-22T00:00:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-22T00:30:58.501043+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ssb-baskani-haluk-gorgun-genclerin-teknoloji-projelerini-inceledi-3907264-teknoloji",
    "baslik": "Görgün’den TEKNOFEST Mavi Vatan ziyareti",
    "kaynak": "Habertürk Ekonomi",
@@ -554,6 +566,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-060-4872173",
+   "baslik": "Russia stocks higher at close of trade; MOEX Russia Index up 0.60%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-060-4872173",
+   "saat": "00:20",
+   "tarih_iso": "2026-08-22T00:20:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T00:30:58.501043+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/live-cattle-futures-slip-on-tariff-news-and-weak-cash-market-93CH-4872165",
+   "baslik": "Live cattle futures slip on tariff news and weak cash market",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/live-cattle-futures-slip-on-tariff-news-and-weak-cash-market-93CH-4872165",
+   "saat": "00:12",
+   "tarih_iso": "2026-08-22T00:12:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T00:30:58.501043+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/mizuho-names-top-small--midcap-biotech-stock-93CH-4872143",
    "baslik": "Mizuho Names Top Small & Midcap Biotech Stock",
@@ -1733,26 +1765,6 @@
    "tarih_iso": "2026-08-21T17:35:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-21T18:01:03.320039+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-merck-stock-surging-to-a-52week-high-today-93CH-4871851",
-   "baslik": "Why is Merck stock surging to a 52-week high today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-merck-stock-surging-to-a-52week-high-today-93CH-4871851",
-   "saat": "17:33",
-   "tarih_iso": "2026-08-21T17:33:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T18:01:03.320039+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/stock-market-rally-buckles-moderna-gold-bitcoin-surge-walmart-tumbles/?src=A00220&yptr=yahoo",
-   "baslik": "Stock Market Rally Buckles; Moderna, Gold, Bitcoin Surge While Walmart Tumbles: Weekly Review",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/stock-market-rally-buckles-moderna-gold-bitcoin-surge-walmart-tumbles/?src=A00220&yptr=yahoo",
-   "saat": "17:31",
-   "tarih_iso": "2026-08-21T17:31:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T18:01:03.320039+03:00"
   }
  ],
  "altin_haber": [
@@ -2157,5 +2169,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-22T00:00:57.918384+03:00"
+ "guncelleme": "2026-08-22T00:30:58.501043+03:00"
 }
