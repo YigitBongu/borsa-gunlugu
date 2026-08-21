@@ -2,6 +2,19 @@
  "tarih": "2026-08-21",
  "kap": [
   {
+   "id": "kap-my-AKBNK-202608211637",
+   "baslik": "AKBANK T.A.Ş. — İhraç Tavanına İlişkin Bildirim",
+   "sirket": "AKBANK T.A.Ş.",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:37",
+   "tarih_iso": "2026-08-21T16:37:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-21T17:00:57.963755+03:00"
+  },
+  {
    "id": "kap-my-KMPUR-202608211601",
    "baslik": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
    "sirket": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş.",
@@ -159,6 +172,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/-60-saniyede-ekonomide-bugun-21-agustos-2026/4033925",
+   "baslik": "60 saniyede ekonomide bugün (21 Ağustos 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/-60-saniyede-ekonomide-bugun-21-agustos-2026/4033925",
+   "saat": "15:48",
+   "tarih_iso": "2026-08-21T15:48:22+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-21T17:00:57.963755+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/teknofest-mavi-vatanin-ikinci-gununde-vatandaslardan-milli-gurur-vurgusu/4033872",
    "baslik": "TEKNOFEST Mavi Vatan'ın ikinci gününde vatandaşlardan \"milli gurur\" vurgusu",
@@ -362,6 +387,56 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bruce-markets-overnight-volumes-jump-144-as-us-equity-night-session-scales-4871800",
+   "baslik": "Bruce Markets overnight volumes jump 144% as U.S. equity night session scales",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bruce-markets-overnight-volumes-jump-144-as-us-equity-night-session-scales-4871800",
+   "saat": "16:52",
+   "tarih_iso": "2026-08-21T16:52:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T17:00:57.963755+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-freeportmcmoran-copper--gold-stock-surging-today-93CH-4871799",
+   "baslik": "Why is Freeport-McMoran Copper & Gold stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-freeportmcmoran-copper--gold-stock-surging-today-93CH-4871799",
+   "saat": "16:51",
+   "tarih_iso": "2026-08-21T16:51:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T17:00:57.963755+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-moderna-stock-rallying-today-93CH-4871796",
+   "baslik": "Why is Moderna stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-rallying-today-93CH-4871796",
+   "saat": "16:48",
+   "tarih_iso": "2026-08-21T16:48:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T17:00:57.963755+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tg-therapeutics-stock-rallying-today-93CH-4871792",
+   "baslik": "Why is TG Therapeutics stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tg-therapeutics-stock-rallying-today-93CH-4871792",
+   "saat": "16:46",
+   "tarih_iso": "2026-08-21T16:46:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T17:00:57.963755+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-modine-manufacturing-stock-surging-today-93CH-4871783",
+   "baslik": "Why is Modine Manufacturing stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-modine-manufacturing-stock-surging-today-93CH-4871783",
+   "saat": "16:44",
+   "tarih_iso": "2026-08-21T16:44:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T17:00:57.963755+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
    "baslik": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
    "kaynak": "CNBC",
@@ -370,6 +445,16 @@
    "tarih_iso": "2026-08-21T16:40:13+03:00",
    "kodlar": [],
    "eklenme": "2026-08-21T16:40:53.594197+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+   "baslik": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+   "saat": "16:37",
+   "tarih_iso": "2026-08-21T16:37:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T17:00:57.963755+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/nuclear-maritime-investing-smr-stocks-and-lng-shipping-in-a-shifting-energy-landscape-93CH-4871724",
@@ -1464,6 +1549,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/news/stock-market-news/tsx-futures-edge-higher-amid-bond-market-ructions-uscanada-trade-talks-4871373",
+   "baslik": "Canada opens higher helped by rally in gold amid bond market ructions",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-higher-amid-bond-market-ructions-uscanada-trade-talks-4871373",
+   "saat": "16:52",
+   "tarih_iso": "2026-08-21T16:52:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T17:00:57.963755+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/why-is-freeportmcmoran-copper--gold-stock-surging-today-93CH-4871799",
+   "baslik": "Why is Freeport-McMoran Copper & Gold stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-freeportmcmoran-copper--gold-stock-surging-today-93CH-4871799",
+   "saat": "16:51",
+   "tarih_iso": "2026-08-21T16:51:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T17:00:57.963755+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/can-treasury-intervention-keep-the-gold-rally-alive-200686283",
    "baslik": "Can Treasury Intervention Keep the Gold Rally Alive?",
    "kaynak": "Investing Emtia",
@@ -1472,6 +1577,16 @@
    "tarih_iso": "",
    "kodlar": [],
    "eklenme": "2026-08-21T16:30:53.324852+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/ekonomi/abdnin-borc-yuku-dolari-asagi-cekiyor-para-altin-ve-bitcoine-kayiyor-haberi-837172",
+   "baslik": "ABD'nin borç yükü doları aşağı çekiyor: Para altın ve Bitcoin'e kayıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/abdnin-borc-yuku-dolari-asagi-cekiyor-para-altin-ve-bitcoine-kayiyor-haberi-837172",
+   "saat": "16:21",
+   "tarih_iso": "2026-08-21T16:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T17:00:57.963755+03:00"
   },
   {
    "id": "alt-https://www.cnnturk.com/ekonomi/canli-gumus-takip-grafigi-21-agustos-guncel-gram-gumus-fiyatlari-bugun-gumus-fiyatlari-ne-kadar-3457340",
@@ -1704,5 +1819,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-21T16:40:53.594197+03:00"
+ "guncelleme": "2026-08-21T17:00:57.963755+03:00"
 }
