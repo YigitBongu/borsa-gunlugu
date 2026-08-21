@@ -2,6 +2,19 @@
  "tarih": "2026-08-21",
  "kap": [
   {
+   "id": "kap-my-BOBET-202608211037",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:37",
+   "tarih_iso": "2026-08-21T10:37:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-21T11:00:57.843027+03:00"
+  },
+  {
    "id": "kap-my-AKBNK-202608211022",
    "baslik": "AKBANK T.A.Ş. — İhraç Tavanına İlişkin Bildirim",
    "sirket": "AKBANK T.A.Ş.",
@@ -101,6 +114,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-renault-stock-sliding-today-93CH-4870989",
+   "baslik": "Why is Renault stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-renault-stock-sliding-today-93CH-4870989",
+   "saat": "10:55",
+   "tarih_iso": "2026-08-21T10:55:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T11:00:57.843027+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bavarian-nordic-stock-surging-today-93CH-4870976",
+   "baslik": "Why is Bavarian Nordic stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bavarian-nordic-stock-surging-today-93CH-4870976",
+   "saat": "10:50",
+   "tarih_iso": "2026-08-21T10:50:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T11:00:57.843027+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-steady-set-for-weekly-loss-as-oil-prices-yields-stay-elevated-4870973",
+   "baslik": "European stocks steady, set for weekly loss as oil prices, yields stay elevated",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-steady-set-for-weekly-loss-as-oil-prices-yields-stay-elevated-4870973",
+   "saat": "10:48",
+   "tarih_iso": "2026-08-21T10:48:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T11:00:57.843027+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-synsam-stock-surging-today-93CH-4870971",
+   "baslik": "Why is Synsam stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-synsam-stock-surging-today-93CH-4870971",
+   "saat": "10:46",
+   "tarih_iso": "2026-08-21T10:46:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T11:00:57.843027+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-siegfried-stock-surging-today-93CH-4870970",
+   "baslik": "Why is Siegfried stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-siegfried-stock-surging-today-93CH-4870970",
+   "saat": "10:44",
+   "tarih_iso": "2026-08-21T10:44:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T11:00:57.843027+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/48-37-earnings-wins-lead-week-of-aipicked-breakouts-amid-higher-volatility-4870663",
    "baslik": "+48%, +37%: Earnings wins lead week of AI-picked breakouts amid higher volatility",
@@ -664,5 +727,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-21T10:38:30.302617+03:00"
+ "guncelleme": "2026-08-21T11:00:57.843027+03:00"
 }
