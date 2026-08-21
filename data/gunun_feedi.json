@@ -630,6 +630,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+   "baslik": "Japan headline inflation rate hits highest this year as energy prices bite",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+   "saat": "02:47",
+   "tarih_iso": "2026-08-21T02:47:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T03:01:00.752591+03:00"
+  },
+  {
    "id": "yab-https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
    "baslik": "Why the US economy is ringing alarm bells",
    "kaynak": "BBC Business",
@@ -1818,19 +1828,19 @@
    "tarih_iso": "2026-08-20T18:30:36+03:00",
    "kodlar": [],
    "eklenme": "2026-08-20T18:59:21.191833+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-   "baslik": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-   "saat": "18:26",
-   "tarih_iso": "2026-08-20T18:26:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T18:30:54.103183+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.mining.com/lassonde-backed-cadillac-drilling-points-to-more-ontario-gold/",
+   "baslik": "Lassonde-backed Cadillac drilling points to more Ontario gold",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/lassonde-backed-cadillac-drilling-points-to-more-ontario-gold/",
+   "saat": "02:45",
+   "tarih_iso": "2026-08-21T02:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T03:01:00.752591+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-faces-renewed-pressure-as-longterm-treasury-yields-rebound-200686232",
    "baslik": "Gold Faces Renewed Pressure as Long-Term Treasury Yields Rebound",
@@ -2072,5 +2082,5 @@
    "eklenme": "2026-08-20T09:02:19.446360+03:00"
   }
  ],
- "guncelleme": "2026-08-21T02:30:49.095509+03:00"
+ "guncelleme": "2026-08-21T03:01:00.752591+03:00"
 }
