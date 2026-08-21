@@ -2,6 +2,19 @@
  "tarih": "2026-08-21",
  "kap": [
   {
+   "id": "kap-my-BOBET-202608211257",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:57",
+   "tarih_iso": "2026-08-21T12:57:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-21T13:24:20.242940+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202608211119",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -107,6 +120,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/bakan-uraloglu-teknofest-mavi-vatan-da-3907170-ekonomi",
+   "baslik": "Bakan Uraloğlu TEKNOFEST Mavi Vatan'da",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/bakan-uraloglu-teknofest-mavi-vatan-da-3907170-ekonomi",
+   "saat": "12:59",
+   "tarih_iso": "2026-08-21T12:59:37+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-21T13:24:20.242940+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-asya-pasifikte-ucus-frekanslarini-yuzde-15-20-artirmayi-hedefliyor/4033717",
    "baslik": "THY, Asya-Pasifik'te uçuş frekanslarını yüzde 15-20 artırmayı hedefliyor",
@@ -219,6 +244,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
+   "baslik": "New York unseats San Francisco as the top market for tech talent, CBRE reports",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
+   "saat": "13:12",
+   "tarih_iso": "2026-08-21T13:12:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T13:24:20.242940+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-raises-eurozone-earnings-outlook-on-broadening-profit-growth-4871198",
+   "baslik": "UBS raises Eurozone earnings outlook on broadening profit growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-raises-eurozone-earnings-outlook-on-broadening-profit-growth-4871198",
+   "saat": "13:01",
+   "tarih_iso": "2026-08-21T13:01:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T13:24:20.242940+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-21-2026-up-to-435-apy-return-available-to-boost-savings-100000741.html",
+   "baslik": "Best CD rates today, Friday, August 21, 2026: Up to 4.35% APY return available to boost savings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-august-21-2026-up-to-435-apy-return-available-to-boost-savings-100000741.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-08-21T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T13:24:20.242940+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html",
+   "baslik": "Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-08-21T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T13:24:20.242940+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wolfe-research-sees-strong-sp-500-earnings-momentum-93CH-4871189",
+   "baslik": "Wolfe Research sees strong S&P 500 earnings momentum",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wolfe-research-sees-strong-sp-500-earnings-momentum-93CH-4871189",
+   "saat": "12:51",
+   "tarih_iso": "2026-08-21T12:51:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T13:24:20.242940+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-oi-glass-stock-rallying-over-6-today-93CH-4871172",
+   "baslik": "Why is O-I Glass stock rallying over 6% today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-oi-glass-stock-rallying-over-6-today-93CH-4871172",
+   "saat": "12:47",
+   "tarih_iso": "2026-08-21T12:47:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T13:24:20.242940+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ubs-raises-uk-earnings-growth-forecast-sees-supportive-backdrop-for-equities-4871151",
    "baslik": "UBS raises UK earnings growth forecast, sees supportive backdrop for equities",
@@ -892,6 +977,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/canli-gumus-takip-grafigi-21-agustos-guncel-gram-gumus-fiyatlari-bugun-gumus-fiyatlari-ne-kadar-3457340",
+   "baslik": "CANLI GÜMÜŞ TAKİP GRAFİĞİ! 21 Ağustos Güncel Gram Gümüş Fiyatları: Bugün Gümüş Fiyatları Ne Kadar?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/canli-gumus-takip-grafigi-21-agustos-guncel-gram-gumus-fiyatlari-bugun-gumus-fiyatlari-ne-kadar-3457340",
+   "saat": "15:57",
+   "tarih_iso": "2026-08-21T15:57:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T13:24:20.242940+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/ozel-haber-altinda-yeni-rota-belli-oldu-ekonomist-muhammet-bayram-acikladi-kasima-kadar-8-bin-tl-3457302",
    "baslik": "Özel Haber | Altında yeni rota belli oldu! Ekonomist Muhammet Bayram açıkladı: \"Kasıma kadar 8 bin TL\"",
    "kaynak": "CNN Türk Ekonomi",
@@ -1052,5 +1147,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-21T13:01:00.846247+03:00"
+ "guncelleme": "2026-08-21T13:24:20.242940+03:00"
 }
