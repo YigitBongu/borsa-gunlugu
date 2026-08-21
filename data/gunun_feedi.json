@@ -2,6 +2,19 @@
  "tarih": "2026-08-21",
  "kap": [
   {
+   "id": "kap-my-AKBNK-202608211022",
+   "baslik": "AKBANK T.A.Ş. — İhraç Tavanına İlişkin Bildirim",
+   "sirket": "AKBANK T.A.Ş.",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:22",
+   "tarih_iso": "2026-08-21T10:22:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-21T10:38:30.302617+03:00"
+  },
+  {
    "id": "kap-my-ISDMR-202608210930",
    "baslik": "İSKENDERUN DEMİR VE ÇELİK A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
    "sirket": "İSKENDERUN DEMİR VE ÇELİK A.Ş.",
@@ -88,6 +101,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/48-37-earnings-wins-lead-week-of-aipicked-breakouts-amid-higher-volatility-4870663",
+   "baslik": "+48%, +37%: Earnings wins lead week of AI-picked breakouts amid higher volatility",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/48-37-earnings-wins-lead-week-of-aipicked-breakouts-amid-higher-volatility-4870663",
+   "saat": "10:27",
+   "tarih_iso": "2026-08-21T10:27:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T10:38:30.302617+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hunting-stock-plummeting-today-93CH-4870936",
+   "baslik": "Why is Hunting stock plummeting today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hunting-stock-plummeting-today-93CH-4870936",
+   "saat": "10:22",
+   "tarih_iso": "2026-08-21T10:22:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T10:38:30.302617+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-metals-rally-masks-weak-retail-sales-4870934",
+   "baslik": "FTSE 100 today: Stocks rise as metals rally masks weak retail sales",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-metals-rally-masks-weak-retail-sales-4870934",
+   "saat": "10:18",
+   "tarih_iso": "2026-08-21T10:18:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T10:38:30.302617+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-on-course-to-cap-worst-week-since-july-on-oil-bond-pressure-4870879",
    "baslik": "European stocks on course to cap worst week since July on oil, bond pressure",
@@ -621,5 +664,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-21T10:30:50.648111+03:00"
+ "guncelleme": "2026-08-21T10:38:30.302617+03:00"
 }
