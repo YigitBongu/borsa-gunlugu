@@ -2,6 +2,19 @@
  "tarih": "2026-08-21",
  "kap": [
   {
+   "id": "kap-my-ALFAS-202608211351",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ALFAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:51",
+   "tarih_iso": "2026-08-21T13:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-21T14:24:38.309637+03:00"
+  },
+  {
    "id": "kap-my-BOBET-202608211257",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -276,6 +289,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-lifts-sp-500-eps-forecasts-says-bull-market-has-further-to-run-4871388",
+   "baslik": "UBS lifts S&P 500 EPS forecasts, says bull market has further to run",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-lifts-sp-500-eps-forecasts-says-bull-market-has-further-to-run-4871388",
+   "saat": "14:04",
+   "tarih_iso": "2026-08-21T14:04:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T14:24:38.309637+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-edge-higher-amid-bond-market-ructions-uscanada-trade-talks-4871373",
+   "baslik": "TSX futures edge higher amid bond market ructions, U.S.-Canada trade talks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-higher-amid-bond-market-ructions-uscanada-trade-talks-4871373",
+   "saat": "14:02",
+   "tarih_iso": "2026-08-21T14:02:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T14:24:38.309637+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/walmart-reports-rare-comparable-sales-miss-as-consumers-pare-back-spending-4869318",
+   "baslik": "Walmart sales growth slowdown tests consumer resilience, shares slide 9%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/walmart-reports-rare-comparable-sales-miss-as-consumers-pare-back-spending-4869318",
+   "saat": "13:55",
+   "tarih_iso": "2026-08-21T13:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T14:24:38.309637+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
    "baslik": "Nvidia earnings could rescue a stalling stock market — if the AI chip maker breaks this trend",
@@ -1139,6 +1182,16 @@
    "eklenme": "2026-08-21T12:01:02.969067+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/what-to-watch-as-capital-rotates-back-to-gold-200686274",
+   "baslik": "What to Watch as Capital Rotates Back to Gold?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/what-to-watch-as-capital-rotates-back-to-gold-200686274",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-21T14:24:38.309637+03:00"
+  },
+  {
    "id": "alt-https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
    "baslik": "Bitcoin and gold surge as Bessent’s bond market intervention weighs on dollar",
    "kaynak": "FT",
@@ -1299,5 +1352,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-21T14:00:56.938401+03:00"
+ "guncelleme": "2026-08-21T14:24:38.309637+03:00"
 }
