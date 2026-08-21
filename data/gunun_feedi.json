@@ -2,6 +2,19 @@
  "tarih": "2026-08-21",
  "kap": [
   {
+   "id": "kap-my-ISDMR-202608210930",
+   "baslik": "İSKENDERUN DEMİR VE ÇELİK A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "İSKENDERUN DEMİR VE ÇELİK A.Ş.",
+   "kodlar": [
+    "ISDMR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:30",
+   "tarih_iso": "2026-08-21T09:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-21T10:00:57.812479+03:00"
+  },
+  {
    "id": "kap-my-ODAS-202608201921",
    "baslik": "ODAŞ ELEKTRİK ÜRETİM SANAYİ TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "ODAŞ ELEKTRİK ÜRETİM SANAYİ TİCARET A.Ş.",
@@ -44,6 +57,16 @@
  "sirket": [],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/bessentin-hamlesi-dengeleri-degistirdi-fedin-faiz-hesabi-karisti-haberi-837121",
+   "baslik": "Bessent’in hamlesi dengeleri değiştirdi: Fed’in faiz hesabı karıştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bessentin-hamlesi-dengeleri-degistirdi-fedin-faiz-hesabi-karisti-haberi-837121",
+   "saat": "09:36",
+   "tarih_iso": "2026-08-21T09:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T10:00:57.812479+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-21-agustos-cuma-doviz-kurlari-haberi-837107",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (21 Ağustos Cuma Döviz Kurları)",
    "kaynak": "Dünya",
@@ -65,6 +88,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/medistim-reports-195-revenue-growth-in-second-quarter-93CH-4870899",
+   "baslik": "Medistim reports 19.5% revenue growth in second quarter",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/medistim-reports-195-revenue-growth-in-second-quarter-93CH-4870899",
+   "saat": "09:52",
+   "tarih_iso": "2026-08-21T09:52:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T10:00:57.812479+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-slides-on-rising-treasury-yields-4870666",
+   "baslik": "U.S. stock futures tick up after Wall St slides on rising Treasury yields",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-slides-on-rising-treasury-yields-4870666",
+   "saat": "09:50",
+   "tarih_iso": "2026-08-21T09:50:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T10:00:57.812479+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/walmart-earnings-signal-us-consumer-slowdown-which-stocks-are-most-vulnerable-93CH-4870874",
+   "baslik": "Walmart earnings signal U.S. consumer slowdown: which stocks are most vulnerable?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/walmart-earnings-signal-us-consumer-slowdown-which-stocks-are-most-vulnerable-93CH-4870874",
+   "saat": "09:32",
+   "tarih_iso": "2026-08-21T09:32:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T10:00:57.812479+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-027-4870871",
    "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.27%",
@@ -408,6 +461,16 @@
    "eklenme": "2026-08-21T09:30:49.318516+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-vs-silver-spreads-analyzing-market-friction-for-commodity-day-traders-200686259",
+   "baslik": "Gold vs. Silver Spreads: Analyzing Market Friction for Commodity Day Traders",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-vs-silver-spreads-analyzing-market-friction-for-commodity-day-traders-200686259",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-21T10:00:57.812479+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-faces-renewed-pressure-as-longterm-treasury-yields-rebound-200686232",
    "baslik": "Gold Faces Renewed Pressure as Long-Term Treasury Yields Rebound",
    "kaynak": "Investing Emtia",
@@ -508,5 +571,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-21T09:37:25.326517+03:00"
+ "guncelleme": "2026-08-21T10:00:57.812479+03:00"
 }
