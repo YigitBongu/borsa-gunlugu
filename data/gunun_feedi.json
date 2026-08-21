@@ -475,6 +475,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/dunya/tiktok-cocuklarin-gizliligi-davasinda-abdye-400-milyon-dolar-odeyecek-haberi-837207",
+   "baslik": "TikTok, çocukların gizliliği davasında ABD’ye 400 milyon dolar ödeyecek",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/tiktok-cocuklarin-gizliligi-davasinda-abdye-400-milyon-dolar-odeyecek-haberi-837207",
+   "saat": "00:54",
+   "tarih_iso": "2026-08-22T00:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T01:01:01.145797+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/jpmorgandan-tl-ve-faiz-analizi-tcmbnin-eli-gucleniyor-haberi-837171",
    "baslik": "JPMorgan’dan TL ve faiz analizi: TCMB’nin eli güçleniyor",
    "kaynak": "Dünya",
@@ -566,6 +576,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-214-4872182",
+   "baslik": "Mexico stocks higher at close of trade; S&P/BMV IPC up 2.14%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-214-4872182",
+   "saat": "00:30",
+   "tarih_iso": "2026-08-22T00:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T01:01:01.145797+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-061-4872177",
+   "baslik": "Colombia stocks higher at close of trade; COLCAP up 0.61%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-061-4872177",
+   "saat": "00:25",
+   "tarih_iso": "2026-08-22T00:25:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T01:01:01.145797+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-060-4872173",
    "baslik": "Russia stocks higher at close of trade; MOEX Russia Index up 0.60%",
@@ -1745,26 +1775,6 @@
    "tarih_iso": "2026-08-21T17:40:44+03:00",
    "kodlar": [],
    "eklenme": "2026-08-21T18:05:03.945576+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/goldman-sachs-and-alibaba-among-market-cap-stock-movers-on-friday-93CH-4871858",
-   "baslik": "Goldman Sachs and Alibaba among market cap stock movers on Friday",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-and-alibaba-among-market-cap-stock-movers-on-friday-93CH-4871858",
-   "saat": "17:37",
-   "tarih_iso": "2026-08-21T17:37:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T18:01:03.320039+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/looking-generate-passive-income-stocks-143500552.html",
-   "baslik": "Looking to Generate Passive Income From Stocks? 3 Magnificent High-Yield Dividend Stocks to Buy Now",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/looking-generate-passive-income-stocks-143500552.html",
-   "saat": "17:35",
-   "tarih_iso": "2026-08-21T17:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T18:01:03.320039+03:00"
   }
  ],
  "altin_haber": [
@@ -2169,5 +2179,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-22T00:30:58.501043+03:00"
+ "guncelleme": "2026-08-22T01:01:01.145797+03:00"
 }
