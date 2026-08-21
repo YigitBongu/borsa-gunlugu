@@ -2,6 +2,19 @@
  "tarih": "2026-08-21",
  "kap": [
   {
+   "id": "kap-my-TKFEN-202608211119",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:19",
+   "tarih_iso": "2026-08-21T11:19:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
    "id": "kap-my-GESAN-202608211105",
    "baslik": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş. — İhale Süreci / Sonucu",
    "sirket": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
@@ -121,6 +134,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/dolar-dunyada-eriyor-tlde-ayni-dusus-neden-yasanmiyor-galeri-837144",
+   "baslik": "Dolar dünyada eriyor: TL'de aynı düşüş neden yaşanmıyor?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/dolar-dunyada-eriyor-tlde-ayni-dusus-neden-yasanmiyor-galeri-837144",
+   "saat": "11:40",
+   "tarih_iso": "2026-08-21T11:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-bilesik-pmi-9-ayin-en-yuksegine-cikti-haberi-837143",
+   "baslik": "Euro Bölgesi'nde bileşik PMI 9 ayın en yükseğine çıktı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/euro-bolgesinde-bilesik-pmi-9-ayin-en-yuksegine-cikti-haberi-837143",
+   "saat": "11:34",
+   "tarih_iso": "2026-08-21T11:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/bessentin-hamlesi-dengeleri-degistirdi-fedin-faiz-hesabi-karisti-haberi-837121",
    "baslik": "Bessent’in hamlesi dengeleri değiştirdi: Fed’in faiz hesabı karıştı",
    "kaynak": "Dünya",
@@ -152,6 +185,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+   "baslik": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+   "saat": "11:55",
+   "tarih_iso": "2026-08-21T11:55:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cts-eventim-stock-sliding-today-93CH-4871082",
+   "baslik": "Why is CTS Eventim stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cts-eventim-stock-sliding-today-93CH-4871082",
+   "saat": "11:53",
+   "tarih_iso": "2026-08-21T11:53:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/is-fiscal-dominance-becoming-markets-biggest-risk-barclays-weighs-in-4871077",
+   "baslik": "Is fiscal dominance becoming markets’ biggest risk? Barclays weighs in",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/is-fiscal-dominance-becoming-markets-biggest-risk-barclays-weighs-in-4871077",
+   "saat": "11:47",
+   "tarih_iso": "2026-08-21T11:47:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-circle-internet-stock-surging-today-93CH-4871070",
+   "baslik": "Why is Circle Internet stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-circle-internet-stock-surging-today-93CH-4871070",
+   "saat": "11:41",
+   "tarih_iso": "2026-08-21T11:41:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-robinhood-stock-rallying-today-93CH-4871069",
+   "baslik": "Why is Robinhood stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-robinhood-stock-rallying-today-93CH-4871069",
+   "saat": "11:40",
+   "tarih_iso": "2026-08-21T11:40:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-coinbase-stock-surging-today-93CH-4871067",
+   "baslik": "Why is Coinbase stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-coinbase-stock-surging-today-93CH-4871067",
+   "saat": "11:39",
+   "tarih_iso": "2026-08-21T11:39:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-strategy-stock-surging-today-93CH-4871066",
+   "baslik": "Why is Strategy stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-strategy-stock-surging-today-93CH-4871066",
+   "saat": "11:39",
+   "tarih_iso": "2026-08-21T11:39:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ross-stores-stock-surging-today-93CH-4871061",
+   "baslik": "Why is Ross Stores stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ross-stores-stock-surging-today-93CH-4871061",
+   "saat": "11:37",
+   "tarih_iso": "2026-08-21T11:37:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dino-polska-stock-surging-today-93CH-4871058",
+   "baslik": "Why is Dino Polska stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-dino-polska-stock-surging-today-93CH-4871058",
+   "saat": "11:33",
+   "tarih_iso": "2026-08-21T11:33:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
    "baslik": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
@@ -655,6 +778,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/ozel-haber-ekonomist-muhammet-bayram-acikladi-altinda-yeni-rota-belli-oldu-kasima-kadar-8-bin-tl-3457302",
+   "baslik": "Özel Haber | Ekonomist Muhammet Bayram açıkladı! Altında yeni rota belli oldu: Kasıma kadar 8 bin TL",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/altin/ozel-haber-ekonomist-muhammet-bayram-acikladi-altinda-yeni-rota-belli-oldu-kasima-kadar-8-bin-tl-3457302",
+   "saat": "14:59",
+   "tarih_iso": "2026-08-21T14:59:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlarinda-son-durum-21-agustos-altin-fiyatlari-ne-kapalicarsi-gram-ceyrek-yarim-tam-altin-fiyati-ne-kadar-yatirimcilarin-3457227",
    "baslik": "Altın Fiyatlarında Son Durum: 21 Ağustos Altın Fiyatları Ne? Kapalıçarşı Gram, Çeyrek, Yarım, Tam Altın Fiyatı Ne Kadar? Yatırımcıların Gözünde Altın Fiyatları ve Ons Altın Hareketleri",
    "kaynak": "CNN Türk Ekonomi",
@@ -663,6 +796,16 @@
    "tarih_iso": "2026-08-21T12:27:14+03:00",
    "kodlar": [],
    "eklenme": "2026-08-21T09:30:49.318516+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/european-stocks-steady-set-for-weekly-loss-as-oil-prices-yields-stay-elevated-4870973",
+   "baslik": "European shares climb on gold boost; weekly decline still in sight",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-steady-set-for-weekly-loss-as-oil-prices-yields-stay-elevated-4870973",
+   "saat": "11:36",
+   "tarih_iso": "2026-08-21T11:36:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T12:01:02.969067+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-enters-critical-cycle-window-buy-corrections-as-breakout-targets-4649-200686243",
@@ -785,5 +928,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-21T11:34:09.894491+03:00"
+ "guncelleme": "2026-08-21T12:01:02.969067+03:00"
 }
