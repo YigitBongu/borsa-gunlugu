@@ -2,6 +2,32 @@
  "tarih": "2026-08-21",
  "kap": [
   {
+   "id": "kap-my-KMPUR-202608211601",
+   "baslik": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "KMPUR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:01",
+   "tarih_iso": "2026-08-21T16:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-21T16:30:53.324852+03:00"
+  },
+  {
+   "id": "kap-my-CWENE-202608211540",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:40",
+   "tarih_iso": "2026-08-21T15:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-21T16:30:53.324852+03:00"
+  },
+  {
    "id": "kap-my-ALFAS-202608211351",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -244,6 +270,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/jpmorgandan-tl-ve-faiz-analizi-tcmbnin-eli-gucleniyor-haberi-837171",
+   "baslik": "JPMorgan’dan TL ve faiz analizi: TCMB’nin eli güçleniyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/jpmorgandan-tl-ve-faiz-analizi-tcmbnin-eli-gucleniyor-haberi-837171",
+   "saat": "16:19",
+   "tarih_iso": "2026-08-21T16:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T16:30:53.324852+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/dolar-magazalar-gelecek-hafta-acklanacak-kazanclar-oncesi-karsk-gorunum-sergiliyor-gordon-haskett-yorumluyor-93CH-4039544",
    "baslik": "Dolar mağazaları gelecek hafta açıklanacak kazançlar öncesi karışık görünüm sergiliyor, Gordon Haskett yorumluyor",
    "kaynak": "Investing TR",
@@ -325,6 +361,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/these-4-stocks-offer-strong-riskreward-after-recent-wild-swings-93CH-4871649",
+   "baslik": "These 4 stocks offer strong risk-reward after recent wild swings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/these-4-stocks-offer-strong-riskreward-after-recent-wild-swings-93CH-4871649",
+   "saat": "16:04",
+   "tarih_iso": "2026-08-21T16:04:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T16:30:53.324852+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/bitcoin-on-track-for-best-week-in-more-than-two-years-has-the-next-crypto-bull-market-arrived-0181180c?mod=mw_rss_topstories",
+   "baslik": "Bitcoin on track for best week in more than two years. Can this mean the next crypto bull market has arrived?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/bitcoin-on-track-for-best-week-in-more-than-two-years-has-the-next-crypto-bull-market-arrived-0181180c?mod=mw_rss_topstories",
+   "saat": "16:01",
+   "tarih_iso": "2026-08-21T16:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T16:30:53.324852+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/21/here-are-the-top-10-things-were-watching-in-the-stock-market-friday.html",
+   "baslik": "Here are the top 10 things we're watching in the stock market Friday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/21/here-are-the-top-10-things-were-watching-in-the-stock-market-friday.html",
+   "saat": "15:59",
+   "tarih_iso": "2026-08-21T15:59:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T16:30:53.324852+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bmo-starts-chip-stocks-coverage-here-are-its-preferred-picks-4871629",
+   "baslik": "BMO starts chip stocks coverage: Here are its preferred picks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bmo-starts-chip-stocks-coverage-here-are-its-preferred-picks-4871629",
+   "saat": "15:58",
+   "tarih_iso": "2026-08-21T15:58:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T16:30:53.324852+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asure-software-stock-gains-on-aws-marketplace-expansion-93CH-4871619",
    "baslik": "Asure Software stock gains on AWS Marketplace expansion",
@@ -1358,6 +1434,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/can-treasury-intervention-keep-the-gold-rally-alive-200686283",
+   "baslik": "Can Treasury Intervention Keep the Gold Rally Alive?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/can-treasury-intervention-keep-the-gold-rally-alive-200686283",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-21T16:30:53.324852+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/canli-gumus-takip-grafigi-21-agustos-guncel-gram-gumus-fiyatlari-bugun-gumus-fiyatlari-ne-kadar-3457340",
    "baslik": "CANLI GÜMÜŞ TAKİP GRAFİĞİ! 21 Ağustos Güncel Gram Gümüş Fiyatları: Bugün Gümüş Fiyatları Ne Kadar?",
    "kaynak": "CNN Türk Ekonomi",
@@ -1416,6 +1502,16 @@
    "tarih_iso": "",
    "kodlar": [],
    "eklenme": "2026-08-21T14:24:38.309637+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/metals-exploration-locks-in-27m-as-la-india-first-gold-nears/",
+   "baslik": "Metals Exploration locks in $27M as La India first gold nears",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/metals-exploration-locks-in-27m-as-la-india-first-gold-nears/",
+   "saat": "14:08",
+   "tarih_iso": "2026-08-21T14:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T16:30:53.324852+03:00"
   },
   {
    "id": "alt-https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
@@ -1578,5 +1674,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-21T16:00:58.439434+03:00"
+ "guncelleme": "2026-08-21T16:30:53.324852+03:00"
 }
