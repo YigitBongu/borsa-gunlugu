@@ -2,6 +2,19 @@
  "tarih": "2026-08-21",
  "kap": [
   {
+   "id": "kap-my-GESAN-202608211105",
+   "baslik": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş. — İhale Süreci / Sonucu",
+   "sirket": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
+   "kodlar": [
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:05",
+   "tarih_iso": "2026-08-21T11:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-21T11:30:48.444116+03:00"
+  },
+  {
    "id": "kap-my-BOBET-202608211037",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -80,7 +93,32 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/teknofest-mavi-vatan-savunma-sanayisine-genc-yetenekler-kazandiriyor/4033565",
+   "baslik": "TEKNOFEST Mavi Vatan, savunma sanayisine genç yetenekler kazandırıyor",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/teknofest-mavi-vatan-savunma-sanayisine-genc-yetenekler-kazandiriyor/4033565",
+   "saat": "11:11",
+   "tarih_iso": "2026-08-21T11:11:39+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-21T11:30:48.444116+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/sibel-kaya-son-bes-yilda-kadin-girisimcilere-350-milyar-tl-finansman-sagladik-3907133-ekonomi",
+   "baslik": "Kadın girişimcilere 3 milyon TL ödül",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/sibel-kaya-son-bes-yilda-kadin-girisimcilere-350-milyar-tl-finansman-sagladik-3907133-ekonomi",
+   "saat": "11:09",
+   "tarih_iso": "2026-08-21T11:09:37+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-08-21T11:30:48.444116+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.dunya.com/ekonomi/bessentin-hamlesi-dengeleri-degistirdi-fedin-faiz-hesabi-karisti-haberi-837121",
@@ -114,6 +152,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+   "baslik": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+   "saat": "11:28",
+   "tarih_iso": "2026-08-21T11:28:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T11:30:48.444116+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-straumann-stock-gaining-and-retreating-today-93CH-4870995",
+   "baslik": "Why is Straumann stock gaining and retreating today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-straumann-stock-gaining-and-retreating-today-93CH-4870995",
+   "saat": "11:01",
+   "tarih_iso": "2026-08-21T11:01:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T11:30:48.444116+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-renault-stock-sliding-today-93CH-4870989",
    "baslik": "Why is Renault stock sliding today?",
@@ -727,5 +785,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-21T11:00:57.843027+03:00"
+ "guncelleme": "2026-08-21T11:30:48.444116+03:00"
 }
