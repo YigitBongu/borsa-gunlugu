@@ -348,6 +348,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-hazine-getirilerinde-yukselis-sonras-sabit-4038953",
+   "baslik": "ABD hisse senedi vadeli işlemleri Hazine getirilerinde yükseliş sonrası sabit",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-hazine-getirilerinde-yukselis-sonras-sabit-4038953",
+   "saat": "03:18",
+   "tarih_iso": "2026-08-21T03:18:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T03:30:53.261530+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbulda-gong-turker-veyas-icin-caldi-haberi-837066",
    "baslik": "Borsa İstanbul’da gong Türker VEYAŞ için çaldı",
    "kaynak": "Dünya",
@@ -629,6 +639,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-slides-on-rising-treasury-yields-4870666",
+   "baslik": "U.S. stock futures steady after Wall St slides on rising Treasury yields",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-slides-on-rising-treasury-yields-4870666",
+   "saat": "03:18",
+   "tarih_iso": "2026-08-21T03:18:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T03:30:53.261530+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tpg-telecom-reports-higher-profit-as-mobile-gains-offset-sluggish-broadband-93CH-4870647",
+   "baslik": "TPG Telecom reports higher profit as mobile gains offset sluggish broadband",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tpg-telecom-reports-higher-profit-as-mobile-gains-offset-sluggish-broadband-93CH-4870647",
+   "saat": "02:54",
+   "tarih_iso": "2026-08-21T02:54:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-21T03:30:53.261530+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
    "baslik": "Japan headline inflation rate hits highest this year as energy prices bite",
@@ -1808,26 +1838,6 @@
    "tarih_iso": "2026-08-20T18:33:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-20T18:59:21.191833+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/options/articles/bonds-recover-after-us-treasury-comes-to-the-rescue-054757285.html",
-   "baslik": "Bond relief ebbs, stocks fall as investors question Treasury's rescue efforts",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/options/articles/bonds-recover-after-us-treasury-comes-to-the-rescue-054757285.html",
-   "saat": "18:31",
-   "tarih_iso": "2026-08-20T18:31:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T19:57:31.148700+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/coinbase-global-stock-carries-premium-153036945.html",
-   "baslik": "Coinbase Global Stock Carries A Premium Multiple And A Shrinking Top Line",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/coinbase-global-stock-carries-premium-153036945.html",
-   "saat": "18:30",
-   "tarih_iso": "2026-08-20T18:30:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-20T18:59:21.191833+03:00"
   }
  ],
  "altin_haber": [
@@ -2082,5 +2092,5 @@
    "eklenme": "2026-08-20T09:02:19.446360+03:00"
   }
  ],
- "guncelleme": "2026-08-21T03:01:00.752591+03:00"
+ "guncelleme": "2026-08-21T03:30:53.261530+03:00"
 }
