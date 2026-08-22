@@ -43,6 +43,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-teknik-ataturk-havalimaninda-yedinci-hangarini-hizmete-acti/4034418",
+   "baslik": "THY Teknik, Atatürk Havalimanı'nda yedinci hangarını hizmete açtı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thy-teknik-ataturk-havalimaninda-yedinci-hangarini-hizmete-acti/4034418",
+   "saat": "10:47",
+   "tarih_iso": "2026-08-22T10:47:07+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-08-22T11:00:58.977838+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fb-mac-saati-fenerbahce-konyaspor-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-ilk-11ler-haberi-837227",
    "baslik": "FB maç saati... Fenerbahçe - Konyaspor maçı ne zaman, saat kaçta, hangi kanalda? Muhtemel ilk 11'ler...",
    "kaynak": "Dünya",
@@ -89,6 +101,26 @@
    "tarih_iso": "2026-08-22T11:45:22+03:00",
    "kodlar": [],
    "eklenme": "2026-08-22T09:00:58.207951+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-altin-cinsinden-fiziki-varliklarin-finansal-sisteme-kazandirilmasina-yonelik-tebligi-yururlukten-kaldirdi/4034406",
+   "baslik": "TCMB altın cinsinden fiziki varlıkların finansal sisteme kazandırılmasına yönelik tebliği yürürlükten kaldırdı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-altin-cinsinden-fiziki-varliklarin-finansal-sisteme-kazandirilmasina-yonelik-tebligi-yururlukten-kaldirdi/4034406",
+   "saat": "10:27",
+   "tarih_iso": "2026-08-22T10:27:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T11:00:58.977838+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/altin-sahipleri-dikkat-resmi-gazete-de-yayimlandi-tcmb-den-yastik-alti-altin-karari-3907318-ekonomi",
+   "baslik": "TCMB'den \"yastık altı altın\" kararı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/altin-sahipleri-dikkat-resmi-gazete-de-yayimlandi-tcmb-den-yastik-alti-altin-karari-3907318-ekonomi",
+   "saat": "10:23",
+   "tarih_iso": "2026-08-22T10:23:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T11:00:58.977838+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/finans/altin/tcmbden-fiziki-altinlar-icin-yeni-karar-haberi-837219",
@@ -415,6 +447,26 @@
    "eklenme": "2026-08-22T09:00:58.207951+03:00"
   },
   {
+   "id": "alt-https://www.aa.com.tr/tr/ekonomi/tcmb-altin-cinsinden-fiziki-varliklarin-finansal-sisteme-kazandirilmasina-yonelik-tebligi-yururlukten-kaldirdi/4034406",
+   "baslik": "TCMB altın cinsinden fiziki varlıkların finansal sisteme kazandırılmasına yönelik tebliği yürürlükten kaldırdı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-altin-cinsinden-fiziki-varliklarin-finansal-sisteme-kazandirilmasina-yonelik-tebligi-yururlukten-kaldirdi/4034406",
+   "saat": "10:27",
+   "tarih_iso": "2026-08-22T10:27:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T11:00:58.977838+03:00"
+  },
+  {
+   "id": "alt-https://www.haberturk.com/altin-sahipleri-dikkat-resmi-gazete-de-yayimlandi-tcmb-den-yastik-alti-altin-karari-3907318-ekonomi",
+   "baslik": "TCMB'den \"yastık altı altın\" kararı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/altin-sahipleri-dikkat-resmi-gazete-de-yayimlandi-tcmb-den-yastik-alti-altin-karari-3907318-ekonomi",
+   "saat": "10:23",
+   "tarih_iso": "2026-08-22T10:23:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T11:00:58.977838+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/is-gold-back-fiscal-risks-and-etf-demand-fuel-the-rebound-200686311",
    "baslik": "Is Gold Back? Fiscal Risks and ETF Demand Fuel the Rebound",
    "kaynak": "Investing Emtia",
@@ -555,5 +607,5 @@
    "eklenme": "2026-08-22T09:00:58.207951+03:00"
   }
  ],
- "guncelleme": "2026-08-22T10:30:49.285393+03:00"
+ "guncelleme": "2026-08-22T11:00:58.977838+03:00"
 }
