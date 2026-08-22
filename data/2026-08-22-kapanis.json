@@ -46,6 +46,19 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahceden-talisca-aciklamasi-kadro-disi-mi-birakildi-haberi-837273",
+   "baslik": "Fenerbahçe'den Talisca açıklaması: Kadro dışı mı bırakıldı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahceden-talisca-aciklamasi-kadro-disi-mi-birakildi-haberi-837273",
+   "saat": "18:16",
+   "tarih_iso": "2026-08-22T18:16:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-22T18:30:50.875248+03:00",
+   "saat_g": "18:16"
+  },
+  {
    "id": "rss-https://www.dunya.com/sektorler/bilim-ve-teknoloji/aselsandan-deniz-savunmasina-60-milyon-euroluk-yeni-yatirim-3-tesis-ve-2-test-cihazi-geliyor-haberi-837257",
    "baslik": "ASELSAN’dan deniz savunmasına 60 milyon Euro'luk yeni yatırım: 3 tesis ve 2 test cihazı geliyor",
    "kaynak": "Dünya",
@@ -226,6 +239,105 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
+   "baslik": "Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
+   "saat": "18:08",
+   "tarih_iso": "2026-08-22T18:08:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T18:30:50.875248+03:00",
+   "saat_g": "18:08"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/warren-buffett-sends-investors-10-150700366.html",
+   "baslik": "Warren Buffett sends investors 10-word stock market warning",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-sends-investors-10-150700366.html",
+   "saat": "18:07",
+   "tarih_iso": "2026-08-22T18:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T18:30:50.875248+03:00",
+   "saat_g": "18:07"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/forget-rate-hikes-3-vanguard-150500254.html",
+   "baslik": "Forget Rate Hikes. These 3 Vanguard ETFs Could Be Better Positioned for What Comes Next.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-rate-hikes-3-vanguard-150500254.html",
+   "saat": "18:05",
+   "tarih_iso": "2026-08-22T18:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T18:30:50.875248+03:00",
+   "saat_g": "18:05"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-coreweave-stock-double-date-150003395.html",
+   "baslik": "Prediction: CoreWeave Stock Will Double on This Date",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-coreweave-stock-double-date-150003395.html",
+   "saat": "18:00",
+   "tarih_iso": "2026-08-22T18:00:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T18:30:50.875248+03:00",
+   "saat_g": "18:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/stock-strategies-study-6f78c897?siteid=yhoof2&yptr=yahoo",
+   "baslik": "The Death of the Easy Beat: Why Classic Stock-Picking Rules No Longer Work",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/stock-strategies-study-6f78c897?siteid=yhoof2&yptr=yahoo",
+   "saat": "17:59",
+   "tarih_iso": "2026-08-22T17:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T18:30:50.875248+03:00",
+   "saat_g": "17:59"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/2-hydrogen-stocks-buy-august-145000459.html",
+   "baslik": "2 Hydrogen Stocks to Buy in August if You Believe in the Turnaround",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-hydrogen-stocks-buy-august-145000459.html",
+   "saat": "17:50",
+   "tarih_iso": "2026-08-22T17:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T18:30:50.875248+03:00",
+   "saat_g": "17:50"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/upstart-stock-buy-falling-55-143543161.html",
+   "baslik": "Is Upstart Stock a Buy After Falling 55% This Year? Here's What to Know as One Insider Disposes of Shares",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/upstart-stock-buy-falling-55-143543161.html",
+   "saat": "17:35",
+   "tarih_iso": "2026-08-22T17:35:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T18:30:50.875248+03:00",
+   "saat_g": "17:35"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/why-shell-other-oil-majors-143501008.html",
+   "baslik": "Why Shell and the Other Oil Majors Aren't Price Gouging",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/why-shell-other-oil-majors-143501008.html",
+   "saat": "17:35",
+   "tarih_iso": "2026-08-22T17:35:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T18:30:50.875248+03:00",
+   "saat_g": "17:35"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/prediction-where-pfizer-stock-2030-143500524.html",
+   "baslik": "Prediction: This Is Where Pfizer Stock Will Be in 2030",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/prediction-where-pfizer-stock-2030-143500524.html",
+   "saat": "17:35",
+   "tarih_iso": "2026-08-22T17:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T18:30:50.875248+03:00",
+   "saat_g": "17:35"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/target-stock-crushed-why-m-143011881.html",
    "baslik": "Target Stock Has Been Crushed. Here’s Why I’m Not Giving Up on It.",
@@ -1153,5 +1265,5 @@
    "saat_g": "dün 18:01"
   }
  ],
- "guncelleme": "2026-08-22T18:01:11.735107+03:00"
+ "guncelleme": "2026-08-22T18:30:50.875248+03:00"
 }
