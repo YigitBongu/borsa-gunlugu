@@ -43,6 +43,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/kafa-travmasi-geciren-kerem-akturkoglu-sahayi-sedyeyle-terk-etti-haberi-837287",
+   "baslik": "Kafa travması geçiren Kerem Aktürkoğlu sahayı sedyeyle terk etti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/kafa-travmasi-geciren-kerem-akturkoglu-sahayi-sedyeyle-terk-etti-haberi-837287",
+   "saat": "00:05",
+   "tarih_iso": "2026-08-23T00:05:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-23T00:30:50.400174+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-konyaspor-karsisinda-farkli-kazandi-haberi-837286",
    "baslik": "Fenerbahçe, Konyaspor karşısında farklı kazandı",
    "kaynak": "Dünya",
@@ -244,6 +256,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/active-etfs-now-42-every-205000491.html",
+   "baslik": "Active ETFs Now Take 42% of Every Dollar Flowing Into ETFs, Up From 26% in 2024",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/active-etfs-now-42-every-205000491.html",
+   "saat": "23:50",
+   "tarih_iso": "2026-08-22T23:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T00:30:50.400174+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/american-assets-trust-executive-chairman-204801823.html",
+   "baslik": "American Assets Trust Executive Chairman Rady Buys $1. Million Shares. Is This a Sign for Investors to Buy?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/american-assets-trust-executive-chairman-204801823.html",
+   "saat": "23:48",
+   "tarih_iso": "2026-08-22T23:48:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T00:30:50.400174+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ross-stores-grew-comparable-sales-204301377.html",
    "baslik": "Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.",
@@ -1647,5 +1679,5 @@
    "eklenme": "2026-08-22T09:00:58.207951+03:00"
   }
  ],
- "guncelleme": "2026-08-23T00:00:57.712976+03:00"
+ "guncelleme": "2026-08-23T00:30:50.400174+03:00"
 }
