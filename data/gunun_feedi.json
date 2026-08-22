@@ -257,6 +257,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/30-treasury-now-yields-dividend-230101985.html",
+   "baslik": "The 30-Year Treasury Now Out-Yields Dividend Stocks by 2.2 Points. History Says What Followed the Last Time.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/30-treasury-now-yields-dividend-230101985.html",
+   "saat": "02:01",
+   "tarih_iso": "2026-08-23T02:01:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T02:30:47.791923+03:00"
+  },
+  {
    "id": "yab-https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
    "baslik": "Struggling households need more help with bills, energy industry says",
    "kaynak": "BBC Business",
@@ -265,6 +275,16 @@
    "tarih_iso": "2026-08-23T02:00:03+03:00",
    "kodlar": [],
    "eklenme": "2026-08-23T02:00:54.571215+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/top-analyst-sees-trouble-looming-230000865.html",
+   "baslik": "Top analyst sees trouble looming for SpaceX stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-sees-trouble-looming-230000865.html",
+   "saat": "02:00",
+   "tarih_iso": "2026-08-23T02:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T02:30:47.791923+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/apple-announced-largest-ever-stock-222000154.html",
@@ -1435,26 +1455,6 @@
    "tarih_iso": "2026-08-21T23:11:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-22T09:00:58.207951+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
-   "baslik": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
-   "saat": "23:11",
-   "tarih_iso": "2026-08-21T23:11:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-22T09:00:58.207951+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-   "baslik": "Bitcoin surges 22% for the week as investor optimism floods back",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
-   "saat": "23:04",
-   "tarih_iso": "2026-08-21T23:04:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-22T09:00:58.207951+03:00"
   }
  ],
  "altin_haber": [
@@ -1679,5 +1679,5 @@
    "eklenme": "2026-08-22T09:00:58.207951+03:00"
   }
  ],
- "guncelleme": "2026-08-23T02:00:54.571215+03:00"
+ "guncelleme": "2026-08-23T02:30:47.791923+03:00"
 }
