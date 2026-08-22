@@ -43,6 +43,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/teknofest-mavi-vatanda-hafta-sonu-yogunlugu-3907368-ekonomi",
+   "baslik": "TEKNOFEST Mavi Vatan’a yoğun ilgi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/teknofest-mavi-vatanda-hafta-sonu-yogunlugu-3907368-ekonomi",
+   "saat": "14:17",
+   "tarih_iso": "2026-08-22T14:17:48+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-22T15:00:59.294840+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-teknik-ataturk-havalimaninda-yedinci-hangarini-hizmete-acti/4034418",
    "baslik": "THY Teknik, Atatürk Havalimanı'nda yedinci hangarını hizmete açtı",
    "kaynak": "AA Ekonomi",
@@ -92,6 +104,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/bofa-hazine-ksa-pozisyonlar-sabit-euro-riskinde-arts-93CH-4040461",
+   "baslik": "BofA: Hazine kısa pozisyonları sabit, euro riskinde artış",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/bofa-hazine-ksa-pozisyonlar-sabit-euro-riskinde-arts-93CH-4040461",
+   "saat": "14:42",
+   "tarih_iso": "2026-08-22T14:42:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T15:00:59.294840+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/dunya/irandan-abd-askerleri-icin-odul-plani-oldurene-veya-yakalayana-26-bin-dolar-haberi-837247",
    "baslik": "İran'dan ABD askerleri için ödül planı: Öldürene veya yakalayana 26 bin dolar",
@@ -174,6 +196,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/these-3-ai-stocks-are-bought-by-both-hedge-funds-and-mutual-funds-4872330",
+   "baslik": "These 3 AI stocks are bought by both hedge funds and mutual funds",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/these-3-ai-stocks-are-bought-by-both-hedge-funds-and-mutual-funds-4872330",
+   "saat": "14:01",
+   "tarih_iso": "2026-08-22T14:01:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T15:00:59.294840+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-saturday-august-22-2026-bond-market-sends-rates-scrambling-100000981.html",
    "baslik": "Mortgage and refinance interest rates today, Saturday, August 22, 2026: Bond market sends rates scrambling",
@@ -647,5 +679,5 @@
    "eklenme": "2026-08-22T09:00:58.207951+03:00"
   }
  ],
- "guncelleme": "2026-08-22T14:30:49.297956+03:00"
+ "guncelleme": "2026-08-22T15:00:59.294840+03:00"
 }
