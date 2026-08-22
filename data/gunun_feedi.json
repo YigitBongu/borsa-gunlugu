@@ -475,6 +475,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fedin-hisse-degerleme-modeli-yeniden-ise-yaryor-mu-4040358",
+   "baslik": "Fed’in hisse değerleme modeli yeniden işe yarıyor mu?",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fedin-hisse-degerleme-modeli-yeniden-ise-yaryor-mu-4040358",
+   "saat": "03:37",
+   "tarih_iso": "2026-08-22T03:37:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T04:00:56.785933+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/dunya/tiktok-cocuklarin-gizliligi-davasinda-abdye-400-milyon-dolar-odeyecek-haberi-837207",
    "baslik": "TikTok, çocukların gizliliği davasında ABD’ye 400 milyon dolar ödeyecek",
    "kaynak": "Dünya",
@@ -576,6 +586,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/is-the-feds-stock-valuation-model-working-again-4872237",
+   "baslik": "Is the Fed’s stock valuation model working again?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/is-the-feds-stock-valuation-model-working-again-4872237",
+   "saat": "03:37",
+   "tarih_iso": "2026-08-22T03:37:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-22T04:00:56.785933+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
    "baslik": "US-Canada trade deal goes down to the wire",
@@ -1765,16 +1785,6 @@
    "tarih_iso": "2026-08-21T17:44:02+03:00",
    "kodlar": [],
    "eklenme": "2026-08-21T18:01:03.320039+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/star-equity-strr-q2-2026-144251956.html",
-   "baslik": "Star Equity (STRR) Q2 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/star-equity-strr-q2-2026-144251956.html",
-   "saat": "17:42",
-   "tarih_iso": "2026-08-21T17:42:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-21T18:01:03.320039+03:00"
   }
  ],
  "altin_haber": [
@@ -2179,5 +2189,5 @@
    "eklenme": "2026-08-21T09:01:07.502058+03:00"
   }
  ],
- "guncelleme": "2026-08-22T03:30:47.876846+03:00"
+ "guncelleme": "2026-08-22T04:00:56.785933+03:00"
 }
