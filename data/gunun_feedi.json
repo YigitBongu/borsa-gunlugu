@@ -43,6 +43,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-konyaspor-karsisinda-farkli-kazandi-haberi-837286",
+   "baslik": "Fenerbahçe, Konyaspor karşısında farklı kazandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-konyaspor-karsisinda-farkli-kazandi-haberi-837286",
+   "saat": "23:28",
+   "tarih_iso": "2026-08-22T23:28:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-23T00:00:57.712976+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/gundem/davayi-kazanan-acun-ilicalinin-locasi-tahrip-edildi-haberi-837281",
+   "baslik": "Davayı kazanan Acun Ilıcalı’nın locası tahrip edildi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/davayi-kazanan-acun-ilicalinin-locasi-tahrip-edildi-haberi-837281",
+   "saat": "21:31",
+   "tarih_iso": "2026-08-22T21:31:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-23T00:00:57.712976+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahceden-talisca-aciklamasi-kadro-disi-mi-birakildi-haberi-837273",
    "baslik": "Fenerbahçe'den Talisca açıklaması: Kadro dışı mı bırakıldı?",
    "kaynak": "Dünya",
@@ -220,6 +244,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ross-stores-grew-comparable-sales-204301377.html",
+   "baslik": "Ross Stores Grew Comparable Sales 10%. TJX Grew 4%. Only One Stock Went Up.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ross-stores-grew-comparable-sales-204301377.html",
+   "saat": "23:43",
+   "tarih_iso": "2026-08-22T23:43:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T00:00:57.712976+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/alpha-metallurgical-resources-director-courtis-201901011.html",
+   "baslik": "Alpha Metallurgical Resources Director Courtis Buys $2.9 Million Shares. What Does This Mean for Investors?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/alpha-metallurgical-resources-director-courtis-201901011.html",
+   "saat": "23:19",
+   "tarih_iso": "2026-08-22T23:19:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T00:00:57.712976+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html",
    "baslik": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks",
@@ -1603,5 +1647,5 @@
    "eklenme": "2026-08-22T09:00:58.207951+03:00"
   }
  ],
- "guncelleme": "2026-08-22T23:30:53.255904+03:00"
+ "guncelleme": "2026-08-23T00:00:57.712976+03:00"
 }
