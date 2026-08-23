@@ -27,6 +27,18 @@
    "eklenme": "2026-08-23T14:00:56.612818+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcede-iki-sakatlik-kerem-ve-asensionun-son-durumu-belli-oldu-haberi-837348",
+   "baslik": "Fenerbahçe'de iki sakatlık: Kerem ve Asensio'nun son durumu belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcede-iki-sakatlik-kerem-ve-asensionun-son-durumu-belli-oldu-haberi-837348",
+   "saat": "16:04",
+   "tarih_iso": "2026-08-23T16:04:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-23T16:30:50.711257+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/lyon-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-mac-tarihi-ve-saati-haberi-837338",
    "baslik": "Lyon Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda? FB maç tarihi ve saati...",
    "kaynak": "Dünya",
@@ -101,6 +113,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/dolar-icin-yeni-uyari-bca-research-alinabilecek-5-para-birimini-acikladi-haberi-837349",
+   "baslik": "Dolar için yeni uyarı: BCA Research alınabilecek 5 para birimini açıkladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/dolar-icin-yeni-uyari-bca-research-alinabilecek-5-para-birimini-acikladi-haberi-837349",
+   "saat": "15:44",
+   "tarih_iso": "2026-08-23T15:44:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T16:30:50.711257+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-amerikan-merkez-bankasi-faizleri-yukseltecek-mi-haberi-837333",
    "baslik": "Fed faiz kararı ne zaman? Amerikan Merkez Bankası faizleri yükseltecek mi?",
@@ -193,6 +215,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/up-another-12-friday-this-aipicked-energy-stock-is-now-up-90-4872447",
+   "baslik": "Up another 12% FRIDAY, this AI-picked energy stock is now up +90%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/up-another-12-friday-this-aipicked-energy-stock-is-now-up-90-4872447",
+   "saat": "16:10",
+   "tarih_iso": "2026-08-23T16:10:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T16:30:50.711257+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
    "baslik": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
@@ -416,6 +448,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-yukselmeyi-surdurecek-mi-iste-dev-bankalardan-guncel-tahminler-galeri-837347",
+   "baslik": "Altın yükselmeyi sürdürecek mi? İşte dev bankalardan güncel tahminler",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-yukselmeyi-surdurecek-mi-iste-dev-bankalardan-guncel-tahminler-galeri-837347",
+   "saat": "15:30",
+   "tarih_iso": "2026-08-23T15:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T16:30:50.711257+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-petrol-ve-dolar-ayni-anda-alarm-veriyor-piyasalarda-stagflasyon-endisesi-galeri-837334",
    "baslik": "Altın, petrol ve dolar aynı anda alarm veriyor: Piyasalarda stagflasyon endişesi",
    "kaynak": "Dünya",
@@ -546,5 +588,5 @@
    "eklenme": "2026-08-23T09:00:58.556657+03:00"
   }
  ],
- "guncelleme": "2026-08-23T16:00:59.137382+03:00"
+ "guncelleme": "2026-08-23T16:30:50.711257+03:00"
 }
