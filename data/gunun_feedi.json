@@ -165,6 +165,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-23-agustos-pazar-doviz-kurlari-haberi-837292",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (23 Ağustos Pazar Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-23-agustos-pazar-doviz-kurlari-haberi-837292",
+   "saat": "07:26",
+   "tarih_iso": "2026-08-23T07:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T08:00:57.482687+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/bofa-hazine-ksa-pozisyonlar-sabit-euro-riskinde-arts-93CH-4040461",
    "baslik": "BofA: Hazine kısa pozisyonları sabit, euro riskinde artış",
    "kaynak": "Investing TR",
@@ -256,6 +266,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1",
+   "baslik": "US buyers snap up Europe’s asset managers at fastest rate in decades",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/dd605c6f-8a6e-4664-970b-f4c07ea7a4d2?syn-25a6b1a6=1",
+   "saat": "07:30",
+   "tarih_iso": "2026-08-23T07:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T08:00:57.482687+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/be3c0c6c-0a65-4add-b675-7a5876f625be?syn-25a6b1a6=1",
+   "baslik": "India’s reliance on Russian oil hits all-time high",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/be3c0c6c-0a65-4add-b675-7a5876f625be?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-08-23T07:00:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T08:00:57.482687+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1",
+   "baslik": "Investors try to catch ‘falling knife’ with bets on risky funds during chip rout",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/5e8072a7-cb99-47a6-9478-e46e7de3b4a2?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-08-23T07:00:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-23T08:00:57.482687+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/technology/ai/articles/wall-street-entered-show-phase-234100406.html",
    "baslik": "Has Wall Street Entered the \"Show Me\" Phase of AI?",
@@ -1425,36 +1465,6 @@
    "tarih_iso": "2026-08-22T01:35:17+03:00",
    "kodlar": [],
    "eklenme": "2026-08-22T09:00:58.207951+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-214-4872182",
-   "baslik": "Mexico stocks higher at close of trade; S&P/BMV IPC up 2.14%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-214-4872182",
-   "saat": "00:30",
-   "tarih_iso": "2026-08-22T00:30:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-22T09:00:58.207951+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-061-4872177",
-   "baslik": "Colombia stocks higher at close of trade; COLCAP up 0.61%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-061-4872177",
-   "saat": "00:25",
-   "tarih_iso": "2026-08-22T00:25:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-22T09:00:58.207951+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-060-4872173",
-   "baslik": "Russia stocks higher at close of trade; MOEX Russia Index up 0.60%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-060-4872173",
-   "saat": "00:20",
-   "tarih_iso": "2026-08-22T00:20:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-22T09:00:58.207951+03:00"
   }
  ],
  "altin_haber": [
@@ -1689,5 +1699,5 @@
    "eklenme": "2026-08-22T09:00:58.207951+03:00"
   }
  ],
- "guncelleme": "2026-08-23T07:30:47.083801+03:00"
+ "guncelleme": "2026-08-23T08:00:57.482687+03:00"
 }
