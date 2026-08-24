@@ -187,6 +187,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-24-agustos-pazartesi-doviz-kurlari-haberi-837399",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (24 Ağustos Pazartesi Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-24-agustos-pazartesi-doviz-kurlari-haberi-837399",
+   "saat": "07:19",
+   "tarih_iso": "2026-08-24T07:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T07:30:49.343163+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/alibaba-yapay-zeka-icin-10-milyar-dolar-toplayacak-4040611",
    "baslik": "Alibaba yapay zeka için 10 milyar dolar toplayacak",
    "kaynak": "Investing TR",
@@ -338,6 +348,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/high-oil-prices-subsidies-and-affordable-models-rev-up-european-ev-sales-4872605",
+   "baslik": "High oil prices, subsidies and affordable models rev up European EV sales",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/high-oil-prices-subsidies-and-affordable-models-rev-up-european-ev-sales-4872605",
+   "saat": "07:12",
+   "tarih_iso": "2026-08-24T07:12:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T07:30:49.343163+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/shein-to-pay-up-to-35-billion-to-select-preipo-investors-around-hong-kong-listing-4872600",
    "baslik": "Shein to pay up to $3.5 billion to select pre-IPO investors around Hong Kong listing",
@@ -1527,19 +1547,19 @@
    "tarih_iso": "2026-08-22T21:17:56+03:00",
    "kodlar": [],
    "eklenme": "2026-08-23T09:00:58.556657+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
-   "baslik": "Mark Carney says Canada ‘at war’ with US over trade",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
-   "saat": "20:22",
-   "tarih_iso": "2026-08-22T20:22:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-23T09:00:58.556657+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-24-agustos-2026-haberi-837398",
+   "baslik": "ALTINDA SON DURUM: Gram ve çeyrek altın kaç TL oldu? Altın fiyatları ne kadar? (24 Ağustos 2026)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-24-agustos-2026-haberi-837398",
+   "saat": "07:13",
+   "tarih_iso": "2026-08-24T07:13:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T07:30:49.343163+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/markets/commodities/articles/alkane-resources-uncovers-high-grade-231900784.html",
    "baslik": "Alkane Resources uncovers new high-grade gold-antimony domain at Costerfield",
@@ -1691,5 +1711,5 @@
    "eklenme": "2026-08-23T09:00:58.556657+03:00"
   }
  ],
- "guncelleme": "2026-08-24T07:00:58.387833+03:00"
+ "guncelleme": "2026-08-24T07:30:49.343163+03:00"
 }
