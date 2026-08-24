@@ -2,6 +2,19 @@
  "tarih": "2026-08-24",
  "kap": [
   {
+   "id": "kap-my-AEFES-202608241134",
+   "baslik": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş. — İhraç Belgesi",
+   "sirket": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+   "kodlar": [
+    "AEFES"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:34",
+   "tarih_iso": "2026-08-24T11:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-24T12:01:03.524926+03:00"
+  },
+  {
    "id": "kap-my-ENJSA-202608241110",
    "baslik": "AK YATIRIM MENKUL DEĞERLER A.Ş. — Likidite Sağlayıcılık Kapsamındaki İşlemler",
    "sirket": "AK YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -169,6 +182,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/samsung-electronics-stock-had-its-worst-day-in-three-weeks-and-the-other-memory-stocks-are-lower-as-well-2080834f?mod=mw_rss_topstories",
+   "baslik": "Samsung Electronics stock had its worst day in three weeks, and the other memory stocks are lower as well",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/samsung-electronics-stock-had-its-worst-day-in-three-weeks-and-the-other-memory-stocks-are-lower-as-well-2080834f?mod=mw_rss_topstories",
+   "saat": "11:41",
+   "tarih_iso": "2026-08-24T11:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T12:01:03.524926+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-060-4872829",
    "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.60%",
@@ -542,6 +565,46 @@
    "eklenme": "2026-08-24T10:30:52.966438+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-faces-a-key-test-as-us-sanctions-on-iran-approach-200686326",
+   "baslik": "Gold Faces a Key Test as US Sanctions on Iran Approach",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-faces-a-key-test-as-us-sanctions-on-iran-approach-200686326",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-24T12:01:03.524926+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/hot-take-the-next-wave-in-gold-could-come-from-the-options-market-200686374",
+   "baslik": "Hot Take: The Next Wave in Gold Could Come From the Options Market",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/hot-take-the-next-wave-in-gold-could-come-from-the-options-market-200686374",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-24T12:01:03.524926+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-breaks-into-escape-velocity-vc-pmi-targets-47884895-200686333",
+   "baslik": "Gold Breaks Into Escape Velocity: VC PMI Targets $4,788–$4,895",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-breaks-into-escape-velocity-vc-pmi-targets-47884895-200686333",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-24T12:01:03.524926+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-nears-double-top-as-iran-sanctions-put-mondays-move-in-focus-200686323",
+   "baslik": "Gold Nears Double Top as Iran Sanctions Put Monday’s Move in Focus",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-nears-double-top-as-iran-sanctions-put-mondays-move-in-focus-200686323",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-24T12:01:03.524926+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-targets-fresh-highs-after-200day-sma-breakout-200686379",
    "baslik": "Gold Targets Fresh Highs After 200-Day SMA Breakout",
    "kaynak": "Investing Emtia",
@@ -652,5 +715,5 @@
    "eklenme": "2026-08-24T09:01:00.277818+03:00"
   }
  ],
- "guncelleme": "2026-08-24T11:41:42.835552+03:00"
+ "guncelleme": "2026-08-24T12:01:03.524926+03:00"
 }
