@@ -1,6 +1,20 @@
 {
  "tarih": "2026-08-24",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-AHGAZ-202608240918",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:18",
+   "tarih_iso": "2026-08-24T09:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-24T09:47:05.379412+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.haberturk.com/teknofest-mavi-vatanda-tanitilan-sistem-yeni-nesil-vurucu-guc-olacak-3907566-ekonomi",
@@ -49,6 +63,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-049-4872717",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.49%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-049-4872717",
+   "saat": "09:30",
+   "tarih_iso": "2026-08-24T09:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T09:47:05.379412+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jp-morgan-upgrades-diploma-on-strong-earnings-growth-and-ma-upside-4872716",
+   "baslik": "J.P. Morgan upgrades Diploma on strong earnings growth and M&A upside",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jp-morgan-upgrades-diploma-on-strong-earnings-growth-and-ma-upside-4872716",
+   "saat": "09:29",
+   "tarih_iso": "2026-08-24T09:29:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T09:47:05.379412+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/india-sugar-stocks-surge-on-higher-prices-festiveseason-demand-4872698",
    "baslik": "India sugar stocks surge on higher prices, festive-season demand",
@@ -322,5 +356,5 @@
    "eklenme": "2026-08-24T09:01:00.277818+03:00"
   }
  ],
- "guncelleme": "2026-08-24T09:30:52.075008+03:00"
+ "guncelleme": "2026-08-24T09:47:05.379412+03:00"
 }
