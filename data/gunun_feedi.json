@@ -69,6 +69,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/halkbank-ureten-kadinlar-yarismasinda-basvurular-basladi-3907753-ekonomi",
+   "baslik": "Halkbank Üreten Kadınlar Yarışması’nda başvurular başladı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/halkbank-ureten-kadinlar-yarismasinda-basvurular-basladi-3907753-ekonomi",
+   "saat": "15:19",
+   "tarih_iso": "2026-08-24T15:19:29+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-24T15:39:13.661471+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/ureten-kadinlar-yarismasinda-6nci-donem-basladi-haberi-837452",
    "baslik": "Üreten Kadınlar Yarışması'nda 6'ncı dönem başladı",
    "kaynak": "Dünya",
@@ -107,6 +119,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fonlar-yapay-zeka-endiseleriyle-yar-iletkenlerden-44-milyar-dolar-satt-93CH-4041480",
+   "baslik": "Fonlar yapay zeka endişeleriyle yarı iletkenlerden 44 milyar dolar sattı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fonlar-yapay-zeka-endiseleriyle-yar-iletkenlerden-44-milyar-dolar-satt-93CH-4041480",
+   "saat": "15:22",
+   "tarih_iso": "2026-08-24T15:22:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T15:39:13.661471+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/mahfi-egilmezden-tcmb-yorumu-fiili-faiz-indirimi-mi-geliyor-haberi-837455",
    "baslik": "Mahfi Eğilmez’den TCMB yorumu: Fiili faiz indirimi mi geliyor?",
@@ -310,6 +332,56 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/why-this-analyst-predicts-circle-stock-could-surge-75-123017242.html",
+   "baslik": "Why this analyst predicts Circle stock could surge 75%",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/why-this-analyst-predicts-circle-stock-could-surge-75-123017242.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-08-24T15:30:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T15:39:13.661471+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jp-morgan-warns-fall-sell-122053226.html",
+   "baslik": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jp-morgan-warns-fall-sell-122053226.html",
+   "saat": "15:20",
+   "tarih_iso": "2026-08-24T15:20:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T15:39:13.661471+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/apple-vs-adobe-seasonal-peaks-122001843.html",
+   "baslik": "Apple vs. Adobe: Seasonal Peaks vs. Steady Growth in Revenue",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-adobe-seasonal-peaks-122001843.html",
+   "saat": "15:20",
+   "tarih_iso": "2026-08-24T15:20:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T15:39:13.661471+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/treasury-may-tap-1-trillion-121830250.html",
+   "baslik": "Treasury may tap $1 trillion cash account for bond buybacks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/treasury-may-tap-1-trillion-121830250.html",
+   "saat": "15:18",
+   "tarih_iso": "2026-08-24T15:18:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T15:39:13.661471+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-facing-growth-slowdown-121811891.html",
+   "baslik": "Is Netflix (NFLX) Facing a Growth Slowdown After Its Strong First Quarter?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-facing-growth-slowdown-121811891.html",
+   "saat": "15:18",
+   "tarih_iso": "2026-08-24T15:18:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T15:39:13.661471+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/hb-fuller-stock-flat-as-board-rejects-ancoras-adhesives-bid-93CH-4873444",
    "baslik": "H.B. Fuller stock flat as board rejects Ancora’s adhesives bid",
    "kaynak": "Investing.com",
@@ -328,6 +400,16 @@
    "tarih_iso": "2026-08-24T15:11:55+03:00",
    "kodlar": [],
    "eklenme": "2026-08-24T15:30:54.382615+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/gates-backed-cascade-sees-opportunity-120529132.html",
+   "baslik": "Gates-Backed Cascade Sees Opportunity in Republic Services That Half of Wall Street Misses",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/gates-backed-cascade-sees-opportunity-120529132.html",
+   "saat": "15:05",
+   "tarih_iso": "2026-08-24T15:05:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T15:39:13.661471+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/economy/policy/articles/treasury-eyes-950b-cash-account-120527032.html",
@@ -408,6 +490,16 @@
    "tarih_iso": "2026-08-24T15:02:46+03:00",
    "kodlar": [],
    "eklenme": "2026-08-24T15:30:54.382615+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html",
+   "baslik": "Oil falls ahead of US announcement of new sanctions on Iran",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/oil-falls-1-ahead-us-231835385.html",
+   "saat": "15:01",
+   "tarih_iso": "2026-08-24T15:01:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-24T15:39:13.661471+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-roche-ag-participation-stock-sliding-today-93CH-4873368",
@@ -1438,76 +1530,6 @@
    "tarih_iso": "2026-08-24T11:02:41+03:00",
    "kodlar": [],
    "eklenme": "2026-08-24T11:30:51.018524+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/barclays-backs-safestore-as-big-yellow-shurgard-face-growth-risks-4872808",
-   "baslik": "Barclays backs Safestore as Big Yellow, Shurgard face growth risks",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/barclays-backs-safestore-as-big-yellow-shurgard-face-growth-risks-4872808",
-   "saat": "11:02",
-   "tarih_iso": "2026-08-24T11:02:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-24T11:30:51.018524+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bw-offshore-stock-sliding-today-93CH-4872797",
-   "baslik": "Why is BW Offshore stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-bw-offshore-stock-sliding-today-93CH-4872797",
-   "saat": "10:50",
-   "tarih_iso": "2026-08-24T10:50:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-24T10:53:44.795362+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-lower-as-iran-sanctions-and-tech-selloff-weigh-4872749",
-   "baslik": "FTSE 100 today: Stocks lower as Iran sanctions and tech selloff weigh",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-lower-as-iran-sanctions-and-tech-selloff-weigh-4872749",
-   "saat": "10:17",
-   "tarih_iso": "2026-08-24T10:17:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-24T10:30:52.966438+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-equities-trade-sideways-as-markets-await-iran-sanctions-4872688",
-   "baslik": "European equities trade sideways as markets await Iran sanctions",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-equities-trade-sideways-as-markets-await-iran-sanctions-4872688",
-   "saat": "10:14",
-   "tarih_iso": "2026-08-24T10:14:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-24T10:30:52.966438+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/could-lower-oil-prices-and-fiscal-support-extend-europes-rally-4872736",
-   "baslik": "Could lower oil prices and fiscal support extend Europe’s rally?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/could-lower-oil-prices-and-fiscal-support-extend-europes-rally-4872736",
-   "saat": "10:05",
-   "tarih_iso": "2026-08-24T10:05:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-24T10:30:52.966438+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-069-4872732",
-   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 0.69%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-069-4872732",
-   "saat": "10:00",
-   "tarih_iso": "2026-08-24T10:00:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-24T10:30:52.966438+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-weekly-losses-nvidia-results-jackson-hole-in-focus-4872516",
-   "baslik": "Wall St futures fall amid elevated yields; Nvidia results, Jackson Hole in focus",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-after-weekly-losses-nvidia-results-jackson-hole-in-focus-4872516",
-   "saat": "09:53",
-   "tarih_iso": "2026-08-24T09:53:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-24T10:01:03.660693+03:00"
   }
  ],
  "altin_haber": [
@@ -1752,5 +1774,5 @@
    "eklenme": "2026-08-24T09:01:00.277818+03:00"
   }
  ],
- "guncelleme": "2026-08-24T15:30:54.382615+03:00"
+ "guncelleme": "2026-08-24T15:39:13.661471+03:00"
 }
