@@ -2,6 +2,19 @@
  "tarih": "2026-08-25",
  "kap": [
   {
+   "id": "kap-my-BOBET-202608251000",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-25T10:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-25T10:30:56.196555+03:00"
+  },
+  {
    "id": "kap-my-CWENE-202608250938",
    "baslik": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş. — Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
    "sirket": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.",
@@ -82,6 +95,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/koc-universitesinin-enflasyon-anketi-aciklandi-dolar-tahmini-yukseldi-enflasyon-beklentisi-dustu-haberi-837533",
+   "baslik": "Koç Üniversitesi’nin enflasyon anketi açıklandı: Dolar tahmini yükseldi, enflasyon beklentisi düştü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/koc-universitesinin-enflasyon-anketi-aciklandi-dolar-tahmini-yukseldi-enflasyon-beklentisi-dustu-haberi-837533",
+   "saat": "10:07",
+   "tarih_iso": "2026-08-25T10:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T10:30:56.196555+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbul-gune-dususle-basladi-haberi-837530",
+   "baslik": "Borsa İstanbul güne düşüşle başladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/borsa-istanbul-gune-dususle-basladi-haberi-837530",
+   "saat": "10:02",
+   "tarih_iso": "2026-08-25T10:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T10:30:56.196555+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/dolar-yeniden-yukseliste-piyasalarin-gozu-abdde-haberi-837520",
    "baslik": "Dolar yeniden yükselişte: Piyasaların gözü ABD'de",
    "kaynak": "Dünya",
@@ -133,6 +166,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-rebound-as-iran-sanctions-threats-fizzle-4874515",
+   "baslik": "European stocks rebound as Iran sanctions threats fizzle",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-rebound-as-iran-sanctions-threats-fizzle-4874515",
+   "saat": "10:11",
+   "tarih_iso": "2026-08-25T10:11:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T10:30:56.196555+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/three-overweightrated-china-auto-stocks-to-consider-according-to-morgan-stanley-93CH-4874549",
+   "baslik": "Three Overweight-rated China auto stocks to consider, according to Morgan Stanley",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/three-overweightrated-china-auto-stocks-to-consider-according-to-morgan-stanley-93CH-4874549",
+   "saat": "10:08",
+   "tarih_iso": "2026-08-25T10:08:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T10:30:56.196555+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-058-4874537",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.58%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-058-4874537",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-25T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T10:30:56.196555+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-treasury-buybacks-a-mistake-costing-credibility-says-druckenmiller-4874531",
    "baslik": "US Treasury buybacks a ’mistake’ costing credibility, says Druckenmiller",
@@ -506,6 +569,26 @@
    "eklenme": "2026-08-25T10:00:59.733208+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-enters-escapevelocity-zone-square-of-9-and-vc-pmi-align-toward-4800-200686453",
+   "baslik": "Gold Enters Escape-Velocity Zone: Square of 9 and VC PMI Align Toward $4,800+",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-enters-escapevelocity-zone-square-of-9-and-vc-pmi-align-toward-4800-200686453",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-25T10:30:56.196555+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-climbs-toward-4700-ahead-of-jackson-hole-symposium-200686445",
+   "baslik": "Gold Climbs Toward $4,700 Ahead of Jackson Hole Symposium",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-climbs-toward-4700-ahead-of-jackson-hole-symposium-200686445",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-25T10:30:56.196555+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/bofa-altinin-gercek-degerine-isaret-etti-buyuk-yatirimcilarin-pozisyonu-degisiyor-galeri-837527",
    "baslik": "BofA altının gerçek değerine işaret etti: Büyük yatırımcıların pozisyonu değişiyor",
    "kaynak": "Dünya",
@@ -666,5 +749,5 @@
    "eklenme": "2026-08-25T09:01:03.730209+03:00"
   }
  ],
- "guncelleme": "2026-08-25T10:00:59.733208+03:00"
+ "guncelleme": "2026-08-25T10:30:56.196555+03:00"
 }
