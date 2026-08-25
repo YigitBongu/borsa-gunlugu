@@ -2,6 +2,45 @@
  "tarih": "2026-08-25",
  "kap": [
   {
+   "id": "kap-my-AHGAZ-202608251830",
+   "baslik": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:30",
+   "tarih_iso": "2026-08-25T18:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-26T00:01:01.095726+03:00"
+  },
+  {
+   "id": "kap-my-GLYHO-202608251821",
+   "baslik": "GLOBAL YATIRIM HOLDİNG A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "GLOBAL YATIRIM HOLDİNG A.Ş.",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:21",
+   "tarih_iso": "2026-08-25T18:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-26T00:01:01.095726+03:00"
+  },
+  {
+   "id": "kap-my-FENER-202608251820",
+   "baslik": "JCR AVRASYA DERECELENDİRME A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "JCR AVRASYA DERECELENDİRME A.Ş.",
+   "kodlar": [
+    "FENER"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "18:20",
+   "tarih_iso": "2026-08-25T18:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-26T00:01:01.095726+03:00"
+  },
+  {
    "id": "kap-my-AKBNK-202608251634",
    "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
    "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
@@ -173,6 +212,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/halkbanktan-dev-finansman-yurt-disindan-11-milyar-dolar-kaynak-sagladi-haberi-837621",
+   "baslik": "Halkbank'tan dev finansman: Yurt dışından 1,1 milyar dolar kaynak sağladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/halkbanktan-dev-finansman-yurt-disindan-11-milyar-dolar-kaynak-sagladi-haberi-837621",
+   "saat": "21:27",
+   "tarih_iso": "2026-08-25T21:27:00+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-26T00:01:01.095726+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/ismail-kartal-elimizden-geleni-yapacagiz-haberi-837616",
+   "baslik": "İsmail Kartal: Elimizden geleni yapacağız",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/ismail-kartal-elimizden-geleni-yapacagiz-haberi-837616",
+   "saat": "20:52",
+   "tarih_iso": "2026-08-25T20:52:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-26T00:01:01.095726+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/ureten-kadinlar-yarismasinin-yeni-donem-basvurulari-basladi-3458745",
    "baslik": "Üreten Kadınlar Yarışması’nın yeni dönem başvuruları başladı",
    "kaynak": "CNN Türk Ekonomi",
@@ -246,6 +309,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/savasin-yeni-cephesi-ekonomi-abdnin-en-buyuk-silahi-dolar-3458998",
+   "baslik": "Savaşın yeni cephesi ekonomi! ABD’nin en büyük silahı dolar",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/savasin-yeni-cephesi-ekonomi-abdnin-en-buyuk-silahi-dolar-3458998",
+   "saat": "02:44",
+   "tarih_iso": "2026-08-26T02:44:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T00:01:01.095726+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/enflasyon-beklentisi-agustos-2026-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-tuik-enflasyon-tahmini-ne-oldu-3458978",
+   "baslik": "ENFLASYON BEKLENTİSİ AĞUSTOS 2026: Enflasyon rakamları ne zaman, saat kaçta açıklanacak? TÜİK enflasyon tahmini ne oldu?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/enflasyon-beklentisi-agustos-2026-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-tuik-enflasyon-tahmini-ne-oldu-3458978",
+   "saat": "00:18",
+   "tarih_iso": "2026-08-26T00:18:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T00:01:01.095726+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/bofadan-faiz-tahmini-100-baz-puanlik-indirim-beklentisi-haberi-837619",
+   "baslik": "BofA'dan faiz tahmini: 100 baz puanlık indirim beklentisi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bofadan-faiz-tahmini-100-baz-puanlik-indirim-beklentisi-haberi-837619",
+   "saat": "21:18",
+   "tarih_iso": "2026-08-25T21:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T00:01:01.095726+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/dolar-zayifladi-altin-guc-kazandi-cin-altin-toplamaya-basladi-bir-plani-mi-var-3458893",
    "baslik": "Dolar zayıfladı, altın güç kazandı! Çin altın toplamaya başladı: Bir planı mı var?",
@@ -428,6 +521,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+   "baslik": "Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
+   "saat": "23:38",
+   "tarih_iso": "2026-08-25T23:38:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T00:01:01.095726+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zoom-video-communications-stock-sliding-today-93CH-4875932",
    "baslik": "Why is Zoom Video Communications stock sliding today?",
@@ -1617,16 +1720,6 @@
    "tarih_iso": "2026-08-25T18:04:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-25T18:30:52.867084+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-traders-parse-u-s-new-measures-on-iran-40b529c7?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Dollar Could Rise if Fed’s Warsh Sounds Credible",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-traders-parse-u-s-new-measures-on-iran-40b529c7?siteid=yhoof2&yptr=yahoo",
-   "saat": "18:04",
-   "tarih_iso": "2026-08-25T18:04:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T18:37:30.883265+03:00"
   }
  ],
  "altin_haber": [
@@ -2021,5 +2114,5 @@
    "eklenme": "2026-08-25T09:01:03.730209+03:00"
   }
  ],
- "guncelleme": "2026-08-25T23:51:40.610319+03:00"
+ "guncelleme": "2026-08-26T00:01:01.095726+03:00"
 }
