@@ -615,6 +615,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+   "baslik": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+   "saat": "05:28",
+   "tarih_iso": "2026-08-25T05:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T05:30:55.160811+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-woodside-energy-stock-rising-today-93CH-4874391",
    "baslik": "Why is Woodside Energy stock rising today?",
    "kaynak": "Investing.com",
@@ -1803,19 +1813,19 @@
    "tarih_iso": "2026-08-24T18:20:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-24T19:01:02.942770+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/trump-threatens-tariffs-on-all-cars-and-trucks-to-50-amid-canada-trade-spat-4873756",
-   "baslik": "Trump threatens 50% tariffs on all cars and trucks from Canada amid trade fight",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/trump-threatens-tariffs-on-all-cars-and-trucks-to-50-amid-canada-trade-spat-4873756",
-   "saat": "18:18",
-   "tarih_iso": "2026-08-24T18:18:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-24T18:30:54.231241+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+   "baslik": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+   "saat": "05:28",
+   "tarih_iso": "2026-08-25T05:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T05:30:55.160811+03:00"
+  },
   {
    "id": "alt-https://www.mining.com/agnico-buys-quebec-gold-junior-stake-for-41m/",
    "baslik": "Agnico buys Quebec gold junior stake for $41M",
@@ -2217,5 +2227,5 @@
    "eklenme": "2026-08-24T09:01:00.277818+03:00"
   }
  ],
- "guncelleme": "2026-08-25T05:01:02.004458+03:00"
+ "guncelleme": "2026-08-25T05:30:55.160811+03:00"
 }
