@@ -2,6 +2,19 @@
  "tarih": "2026-08-25",
  "kap": [
   {
+   "id": "kap-my-AKBNK-202608251634",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:34",
+   "tarih_iso": "2026-08-25T16:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-25T17:01:04.151865+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202608251522",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -222,6 +235,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/fedin-faiz-hesabinda-yeni-sinyal-abdde-ozel-sektor-istihdami-hizlandi-haberi-837580",
+   "baslik": "Fed'in faiz hesabında yeni sinyal! ABD'de özel sektör istihdamı hızlandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fedin-faiz-hesabinda-yeni-sinyal-abdde-ozel-sektor-istihdami-hizlandi-haberi-837580",
+   "saat": "16:43",
+   "tarih_iso": "2026-08-25T16:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T17:01:04.151865+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/bytedance-brezilyada-genclerin-verileri-nedeniyle-30-milyon-dolar-ceza-ald-93CH-4043157",
    "baslik": "ByteDance Brezilya’da gençlerin verileri nedeniyle 30 milyon dolar ceza aldı",
    "kaynak": "Investing TR",
@@ -363,6 +386,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/investors-rotate-into-tech-stocks-as-inflation-concerns-ease-alphacheck-135258775.html",
+   "baslik": "Investors rotate into tech stocks as inflation concerns ease: AlphaCheck",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/investors-rotate-into-tech-stocks-as-inflation-concerns-ease-alphacheck-135258775.html",
+   "saat": "16:52",
+   "tarih_iso": "2026-08-25T16:52:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T17:01:04.151865+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-25-134315492.html",
+   "baslik": "Stock Market Today (Aug. 25, 2026): S&P 500 futures climb ahead of Nvidia earnings, Fed symposium",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-25-134315492.html",
+   "saat": "16:43",
+   "tarih_iso": "2026-08-25T16:43:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T17:01:04.151865+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/exclusive-watch-3-ai-bottlenecks-134127095.html",
+   "baslik": "EXCLUSIVE: Watch These 3 AI Bottlenecks Ahead of Nvidia Earnings, Yorkville CEO Says",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/exclusive-watch-3-ai-bottlenecks-134127095.html",
+   "saat": "16:41",
+   "tarih_iso": "2026-08-25T16:41:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T17:01:04.151865+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/2-artificial-intelligence-ai-stocks-133501240.html",
+   "baslik": "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-artificial-intelligence-ai-stocks-133501240.html",
+   "saat": "16:35",
+   "tarih_iso": "2026-08-25T16:35:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T17:01:04.151865+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/moderna-upgraded-baidu-downgraded-wall-133822050.html",
+   "baslik": "AMD upgraded, Five Below downgraded: Wall Street's top analyst calls",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/moderna-upgraded-baidu-downgraded-wall-133822050.html",
+   "saat": "16:34",
+   "tarih_iso": "2026-08-25T16:34:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T17:01:04.151865+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/pepsi-vs-coke-one-stock-133017835.html",
+   "baslik": "Pepsi vs. Coke: One Stock Is Starting to Pull Ahead",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pepsi-vs-coke-one-stock-133017835.html",
+   "saat": "16:30",
+   "tarih_iso": "2026-08-25T16:30:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T17:01:04.151865+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/vnet-group-vnet-q2-2026-132905866.html",
+   "baslik": "Vnet Group (VNET) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vnet-group-vnet-q2-2026-132905866.html",
+   "saat": "16:29",
+   "tarih_iso": "2026-08-25T16:29:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T17:01:04.151865+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/anything-tech-jim-cramer-bold-132505655.html",
    "baslik": "“Give Me Anything But Tech”: Jim Cramer’s Bold Call on the Market’s Next Big Rotation",
@@ -522,6 +615,16 @@
    "tarih_iso": "2026-08-25T15:42:20+03:00",
    "kodlar": [],
    "eklenme": "2026-08-25T16:30:53.967504+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/news/dollar-struggles-traction-markets-weigh-013056238.html",
+   "baslik": "Dollar fragile as investors weigh Iran sanctions, Treasury buybacks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/dollar-struggles-traction-markets-weigh-013056238.html",
+   "saat": "15:39",
+   "tarih_iso": "2026-08-25T15:39:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T17:01:04.151865+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359",
@@ -1482,89 +1585,19 @@
    "tarih_iso": "2026-08-25T12:34:25+03:00",
    "kodlar": [],
    "eklenme": "2026-08-25T13:01:02.797016+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/commodities/articles/gold-pulls-back-three-month-093355050.html",
-   "baslik": "Gold Pulls Back From Three-Month High Ahead of U.S. Inflation Data and Warsh Speech",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/commodities/articles/gold-pulls-back-three-month-093355050.html",
-   "saat": "12:33",
-   "tarih_iso": "2026-08-25T12:33:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T13:26:17.213391+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fluence-energy-stock-surging-today-93CH-4874773",
-   "baslik": "Why is Fluence Energy stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-fluence-energy-stock-surging-today-93CH-4874773",
-   "saat": "12:33",
-   "tarih_iso": "2026-08-25T12:33:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T13:01:02.797016+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-surging-today-93CH-4874772",
-   "baslik": "Why is Bloom Energy stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-surging-today-93CH-4874772",
-   "saat": "12:32",
-   "tarih_iso": "2026-08-25T12:32:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T13:01:02.797016+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/finance/investing/global-bond-markets-stabilize-as-investors-mull-u-s-buybacks-iran-sanctions-cc1356e6?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Global Bond Markets Stabilize as Investors Mull U.S. Buybacks, Iran Sanctions",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/finance/investing/global-bond-markets-stabilize-as-investors-mull-u-s-buybacks-iran-sanctions-cc1356e6?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:31",
-   "tarih_iso": "2026-08-25T12:31:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T13:26:17.213391+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/franklin-templetons-tokenized-treasury-fund-093027248.html",
-   "baslik": "Franklin Templeton's Tokenized Treasury Fund Lands on HashKey",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/franklin-templetons-tokenized-treasury-fund-093027248.html",
-   "saat": "12:30",
-   "tarih_iso": "2026-08-25T12:30:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T13:01:02.797016+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/real-estate/commercial/investors-are-snapping-up-shabby-hotels-and-whipping-them-into-shape-ca090cf2?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Investors Are Snapping Up Shabby Hotels and Whipping Them Into Shape",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/real-estate/commercial/investors-are-snapping-up-shabby-hotels-and-whipping-them-into-shape-ca090cf2?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:30",
-   "tarih_iso": "2026-08-25T12:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T13:26:17.213391+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/bitcoin-jumps-above-80-000-092630769.html",
-   "baslik": "Bitcoin Jumps Above $80,000 as ‘Debasement Trade’ Pressures Dollar",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-jumps-above-80-000-092630769.html",
-   "saat": "12:26",
-   "tarih_iso": "2026-08-25T12:26:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T13:01:02.797016+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/5-billionaire-money-managers-dumped-092600528.html",
-   "baslik": "5 Billionaire Money Managers Dumped Palantir in the Second Quarter. This Is the AI Applications Stock They're Buying Hand Over Fist Instead.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/5-billionaire-money-managers-dumped-092600528.html",
-   "saat": "12:26",
-   "tarih_iso": "2026-08-25T12:26:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T13:01:02.797016+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.haberturk.com/altin-madeni-nedir-nerede-cikarilir-altin-madeni-nasil-olusur-nerelerde-kullanilir-turkiyede-altin-madeni-yataklari-nerede-bulunur-3908023-ekonomi",
+   "baslik": "Altın Madeni Nedir?",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/altin-madeni-nedir-nerede-cikarilir-altin-madeni-nasil-olusur-nerelerde-kullanilir-turkiyede-altin-madeni-yataklari-nerede-bulunur-3908023-ekonomi",
+   "saat": "16:43",
+   "tarih_iso": "2026-08-25T16:43:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T17:01:04.151865+03:00"
+  },
   {
    "id": "alt-https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
    "baslik": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
@@ -1836,5 +1869,5 @@
    "eklenme": "2026-08-25T09:01:03.730209+03:00"
   }
  ],
- "guncelleme": "2026-08-25T16:44:35.147919+03:00"
+ "guncelleme": "2026-08-25T17:01:04.151865+03:00"
 }
