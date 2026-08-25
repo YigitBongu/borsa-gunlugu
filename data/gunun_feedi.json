@@ -532,6 +532,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Winter energy prices expected to rise to three-year high",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+   "saat": "02:07",
+   "tarih_iso": "2026-08-26T02:07:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T02:30:52.070614+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/25/dicks-sporting-goods-worst-day-ever-jim-cramer-advice.html",
    "baslik": "Dick’s Sporting Goods just had its worst day ever. Here's Jim Cramer's advice on the stock now",
    "kaynak": "CNBC",
@@ -650,6 +660,16 @@
    "tarih_iso": "2026-08-26T00:06:31+03:00",
    "kodlar": [],
    "eklenme": "2026-08-26T00:30:50.436999+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
+   "baslik": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
+   "saat": "00:01",
+   "tarih_iso": "2026-08-26T00:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T02:30:52.070614+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
@@ -1710,29 +1730,19 @@
    "tarih_iso": "2026-08-25T18:16:02+03:00",
    "kodlar": [],
    "eklenme": "2026-08-25T19:30:51.646045+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-rebound-oversold-bounce-151418970.html",
-   "baslik": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-rebound-oversold-bounce-151418970.html",
-   "saat": "18:14",
-   "tarih_iso": "2026-08-25T18:14:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T18:30:52.867084+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/blackrock-helps-pull-more-bitcoin-151338436.html",
-   "baslik": "BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/blackrock-helps-pull-more-bitcoin-151338436.html",
-   "saat": "18:13",
-   "tarih_iso": "2026-08-25T18:13:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T19:01:08.227772+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+   "baslik": "AI gold rush draws crypto firms away from Bitcoin",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+   "saat": "02:11",
+   "tarih_iso": "2026-08-26T02:11:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T02:30:52.070614+03:00"
+  },
   {
    "id": "alt-https://www.dunya.com/finans/altin/yatirimci-guvenli-limana-kactikca-altinda-ralli-surdu-haberi-837592",
    "baslik": "Yatırımcı güvenli limana kaçtıkça altında ralli sürdü",
@@ -2134,5 +2144,5 @@
    "eklenme": "2026-08-25T09:01:03.730209+03:00"
   }
  ],
- "guncelleme": "2026-08-26T02:01:00.751071+03:00"
+ "guncelleme": "2026-08-26T02:30:52.070614+03:00"
 }
