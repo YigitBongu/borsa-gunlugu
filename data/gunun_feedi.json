@@ -283,6 +283,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/lambda-12-milyar-dolarlk-degerlemede-3-milyar-dolar-toplamay-gorusuyor-93CH-4042201",
+   "baslik": "Lambda 12 milyar dolarlık değerlemede 3 milyar dolar toplamayı görüşüyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/lambda-12-milyar-dolarlk-degerlemede-3-milyar-dolar-toplamay-gorusuyor-93CH-4042201",
+   "saat": "03:15",
+   "tarih_iso": "2026-08-25T03:15:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T03:30:51.400217+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/merkez-bankasi-faiz-karari-ne-olacak-2026-merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-3458432",
    "baslik": "MERKEZ BANKASI FAİZ KARARI NE OLACAK? 2026 Merkez Bankası faiz kararı ne zaman açıklanacak?",
    "kaynak": "CNN Türk Ekonomi",
@@ -594,6 +604,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/aub-group-reports-record-underlying-profit-for-fiscal-2026-93CH-4874318",
+   "baslik": "AUB Group reports record underlying profit for fiscal 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/aub-group-reports-record-underlying-profit-for-fiscal-2026-93CH-4874318",
+   "saat": "03:14",
+   "tarih_iso": "2026-08-25T03:14:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T03:30:51.400217+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/sheins-stock-market-listing-will-not-mask-sustainability-challenges-4874285",
    "baslik": "Shein’s stock market listing will not mask sustainability challenges",
@@ -1783,16 +1803,6 @@
    "tarih_iso": "2026-08-24T18:10:03+03:00",
    "kodlar": [],
    "eklenme": "2026-08-24T18:34:21.068451+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html",
-   "baslik": "Dollar edges up, loonie drops after U.S. announces tariffs",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html",
-   "saat": "18:07",
-   "tarih_iso": "2026-08-24T18:07:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-24T18:30:54.231241+03:00"
   }
  ],
  "altin_haber": [
@@ -2197,5 +2207,5 @@
    "eklenme": "2026-08-24T09:01:00.277818+03:00"
   }
  ],
- "guncelleme": "2026-08-25T03:01:00.655143+03:00"
+ "guncelleme": "2026-08-25T03:30:51.400217+03:00"
 }
