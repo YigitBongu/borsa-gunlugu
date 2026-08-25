@@ -283,6 +283,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/wall-street-vadeli-islemleri-nvidia-sonuclar-ve-fed-sinyalleri-oncesi-sakin-4042218",
+   "baslik": "Wall Street vadeli işlemleri Nvidia sonuçları ve Fed sinyalleri öncesi sakin",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/wall-street-vadeli-islemleri-nvidia-sonuclar-ve-fed-sinyalleri-oncesi-sakin-4042218",
+   "saat": "04:05",
+   "tarih_iso": "2026-08-25T04:05:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T04:30:49.578456+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/lambda-12-milyar-dolarlk-degerlemede-3-milyar-dolar-toplamay-gorusuyor-93CH-4042201",
    "baslik": "Lambda 12 milyar dolarlık değerlemede 3 milyar dolar toplamayı görüşüyor",
    "kaynak": "Investing TR",
@@ -604,6 +614,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359",
+   "baslik": "Wall St futures steady as investors brace for Nvidia results, Fed signals",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359",
+   "saat": "04:05",
+   "tarih_iso": "2026-08-25T04:05:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T04:30:49.578456+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+   "baslik": "How Canada could hit back to hurt the US economy - and Trump",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+   "saat": "03:40",
+   "tarih_iso": "2026-08-25T03:40:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T04:30:49.578456+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/aub-group-reports-record-underlying-profit-for-fiscal-2026-93CH-4874318",
    "baslik": "AUB Group reports record underlying profit for fiscal 2026",
@@ -1783,26 +1813,6 @@
    "tarih_iso": "2026-08-24T18:15:53+03:00",
    "kodlar": [],
    "eklenme": "2026-08-24T19:01:02.942770+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/kpmg-australia-plans-to-cut-5-of-jobs-warns-soft-conditions-to-persist-4872535",
-   "baslik": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/kpmg-australia-plans-to-cut-5-of-jobs-warns-soft-conditions-to-persist-4872535",
-   "saat": "18:12",
-   "tarih_iso": "2026-08-24T18:12:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-24T18:34:21.068451+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-069-4873904",
-   "baslik": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.69%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-069-4873904",
-   "saat": "18:10",
-   "tarih_iso": "2026-08-24T18:10:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-24T18:34:21.068451+03:00"
   }
  ],
  "altin_haber": [
@@ -2207,5 +2217,5 @@
    "eklenme": "2026-08-24T09:01:00.277818+03:00"
   }
  ],
- "guncelleme": "2026-08-25T04:00:58.186617+03:00"
+ "guncelleme": "2026-08-25T04:30:49.578456+03:00"
 }
