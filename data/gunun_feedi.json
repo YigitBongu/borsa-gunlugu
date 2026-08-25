@@ -145,6 +145,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/tesla-abdde-cybertruck-fiyatlarn-5000-dolar-artrd-93CH-4042895",
+   "baslik": "Tesla ABD’de Cybertruck fiyatlarını 5.000 dolar artırdı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/tesla-abdde-cybertruck-fiyatlarn-5000-dolar-artrd-93CH-4042895",
+   "saat": "14:12",
+   "tarih_iso": "2026-08-25T14:12:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T14:33:31.968818+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/ecb-bancorp-hissesi-bugun-neden-yukseldi-93CH-4042625",
    "baslik": "ECB Bancorp hissesi bugün neden yükseldi?",
    "kaynak": "Investing TR",
@@ -1097,6 +1107,16 @@
    "eklenme": "2026-08-25T12:31:53.645736+03:00"
   },
   {
+   "id": "yab-https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
+   "baslik": "Bitcoin has beaten stocks and gold over six months. Now it’s crossed the $80,000 mark.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
+   "saat": "11:00",
+   "tarih_iso": "2026-08-25T11:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T14:33:31.968818+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-melrose-industries-stock-surging-today-93CH-4874598",
    "baslik": "Why is Melrose Industries stock surging today?",
    "kaynak": "Investing.com",
@@ -1445,16 +1465,6 @@
    "tarih_iso": "2026-08-25T05:49:22+03:00",
    "kodlar": [],
    "eklenme": "2026-08-25T09:01:03.730209+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
-   "baslik": "Gold hits over three-month high on dollar weakness, Treasury bond buyback plans",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
-   "saat": "05:28",
-   "tarih_iso": "2026-08-25T05:28:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T09:01:03.730209+03:00"
   }
  ],
  "altin_haber": [
@@ -1709,5 +1719,5 @@
    "eklenme": "2026-08-25T09:01:03.730209+03:00"
   }
  ],
- "guncelleme": "2026-08-25T14:30:55.521276+03:00"
+ "guncelleme": "2026-08-25T14:33:31.968818+03:00"
 }
