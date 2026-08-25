@@ -2,6 +2,45 @@
  "tarih": "2026-08-25",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202608251450",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "14:50",
+   "tarih_iso": "2026-08-25T14:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202608251449",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "14:49",
+   "tarih_iso": "2026-08-25T14:49:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "kap-my-PETKM-202608251444",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "PETKM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:44",
+   "tarih_iso": "2026-08-25T14:44:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202608251422",
    "baslik": "BORSA İSTANBUL A.Ş. — Varantların veya Sertifikaların İşlem Görmeye Başlaması",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -170,6 +209,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/dunya/iran-merkez-bankasindan-dovize-500-milyon-dolarlik-mudahale-haberi-837566",
+   "baslik": "İran Merkez Bankası’ndan dövize 500 milyon dolarlık müdahale",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/iran-merkez-bankasindan-dovize-500-milyon-dolarlik-mudahale-haberi-837566",
+   "saat": "15:12",
+   "tarih_iso": "2026-08-25T15:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/tesla-abdde-cybertruck-fiyatlarn-5000-dolar-artrd-93CH-4042895",
    "baslik": "Tesla ABD’de Cybertruck fiyatlarını 5.000 dolar artırdı",
    "kaynak": "Investing TR",
@@ -292,6 +341,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/major-alibaba-figures-make-purchases-as-chinese-giant-sells-10-billion-of-stock-879b52ec?mod=mw_rss_topstories",
+   "baslik": "Major Alibaba figures make purchases as Chinese giant sells $10 billion of stock",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/major-alibaba-figures-make-purchases-as-chinese-giant-sells-10-billion-of-stock-879b52ec?mod=mw_rss_topstories",
+   "saat": "15:22",
+   "tarih_iso": "2026-08-25T15:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/nvidia-stock-is-on-a-7-day-losing-streak-ahead-of-its-big-earnings-report-121527754.html",
+   "baslik": "Nvidia stock is on a 7-day losing streak ahead of its big earnings report",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-is-on-a-7-day-losing-streak-ahead-of-its-big-earnings-report-121527754.html",
+   "saat": "15:15",
+   "tarih_iso": "2026-08-25T15:15:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/salesforce-stock-crm-salesforce-earnings-q2-2026-preview/?src=A00220&yptr=yahoo",
+   "baslik": "Salesforce Faces An Earnings Test As AI Agents Reshape Its Business",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/salesforce-stock-crm-salesforce-earnings-q2-2026-preview/?src=A00220&yptr=yahoo",
+   "saat": "15:01",
+   "tarih_iso": "2026-08-25T15:01:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/cybersecurity-stocks-earnings-artificial-intelligence-high-expectations/?src=A00220&yptr=yahoo",
+   "baslik": "Cybersecurity Stocks Are Priced For Big AI Growth. Earnings Could Bring Fireworks.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/cybersecurity-stocks-earnings-artificial-intelligence-high-expectations/?src=A00220&yptr=yahoo",
+   "saat": "15:00",
+   "tarih_iso": "2026-08-25T15:00:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
    "baslik": "Nvidia’s dependence on hyperscalers faces big test in earnings report",
    "kaynak": "CNBC",
@@ -300,6 +389,56 @@
    "tarih_iso": "2026-08-25T15:00:01+03:00",
    "kodlar": [],
    "eklenme": "2026-08-25T15:01:03.553105+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/morning-minute-coinbase-puts-tokenized-115822092.html",
+   "baslik": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-coinbase-puts-tokenized-115822092.html",
+   "saat": "14:58",
+   "tarih_iso": "2026-08-25T14:58:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/sumitomo-mitsui-trust-enter-vietnam-115629842.html",
+   "baslik": "Sumitomo Mitsui Trust to enter Vietnam asset management market – report",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sumitomo-mitsui-trust-enter-vietnam-115629842.html",
+   "saat": "14:56",
+   "tarih_iso": "2026-08-25T14:56:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/lego-h1-2026-earnings-revenue-115542722.html",
+   "baslik": "Lego H1 2026 earnings: revenue hits record $6.5 billion",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lego-h1-2026-earnings-revenue-115542722.html",
+   "saat": "14:55",
+   "tarih_iso": "2026-08-25T14:55:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
+   "baslik": "Earnings live updates: Dick's Sporting Goods stock tanks after retailer slashes outlook amid 'challenging conditions'",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html",
+   "saat": "14:53",
+   "tarih_iso": "2026-08-25T14:53:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/michael-burry-sold-alibaba-stock-115132973.html",
+   "baslik": "Michael Burry sold Alibaba stock before $10 billion Hong Kong share sale",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sold-alibaba-stock-115132973.html",
+   "saat": "14:51",
+   "tarih_iso": "2026-08-25T14:51:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-immatics-stock-climbing-today-93CH-4875182",
@@ -322,6 +461,16 @@
    "eklenme": "2026-08-25T15:01:03.553105+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/investors-30s-heres-1-glorious-115000473.html",
+   "baslik": "For Investors in Their 30s, Here's 1 Glorious Growth ETF to Buy Hand Over Fist and Hold Forever",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/investors-30s-heres-1-glorious-115000473.html",
+   "saat": "14:50",
+   "tarih_iso": "2026-08-25T14:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
    "baslik": "Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’",
    "kaynak": "CNBC",
@@ -330,6 +479,76 @@
    "tarih_iso": "2026-08-25T14:47:43+03:00",
    "kodlar": [],
    "eklenme": "2026-08-25T15:01:03.553105+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-114544489.html",
+   "baslik": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Advanced Micro Devices, Dynatrace, Five Below, Fortune Brands, Klarna Group, Jersey Mike’s Subs, Moderna, Sherwin-Williams, and More",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-114544489.html",
+   "saat": "14:45",
+   "tarih_iso": "2026-08-25T14:45:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hesai-hsai-q2-2026-earnings-114507969.html",
+   "baslik": "Hesai (HSAI) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hesai-hsai-q2-2026-earnings-114507969.html",
+   "saat": "14:45",
+   "tarih_iso": "2026-08-25T14:45:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/evogene-evgn-q2-2026-earnings-114507743.html",
+   "baslik": "Evogene (EVGN) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/evogene-evgn-q2-2026-earnings-114507743.html",
+   "saat": "14:45",
+   "tarih_iso": "2026-08-25T14:45:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/renew-energy-rnw-q1-2027-114507601.html",
+   "baslik": "ReNew Energy (RNW) Q1 2027 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/renew-energy-rnw-q1-2027-114507601.html",
+   "saat": "14:45",
+   "tarih_iso": "2026-08-25T14:45:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-q2-2026-114342546.html",
+   "baslik": "Pony AI (PONY) Q2 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pony-ai-pony-q2-2026-114342546.html",
+   "saat": "14:43",
+   "tarih_iso": "2026-08-25T14:43:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-q2-2027-114342716.html",
+   "baslik": "Home Depot (HD) Q2 2027 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-q2-2027-114342716.html",
+   "saat": "14:43",
+   "tarih_iso": "2026-08-25T14:43:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-meta-platforms-why-113731387.html",
+   "baslik": "Nvidia Vs. Meta Platforms: Why Wall Street Expects Their Q3 Performance to Lead The Magnificent Seven",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-meta-platforms-why-113731387.html",
+   "saat": "14:37",
+   "tarih_iso": "2026-08-25T14:37:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/technology/articles/interview-bunq-chief-evangelist-joe-113636810.html",
@@ -1320,179 +1539,19 @@
    "tarih_iso": "2026-08-25T10:48:57+03:00",
    "kodlar": [],
    "eklenme": "2026-08-25T11:00:58.938851+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-bitcoin-extends-surge-4874559",
-   "baslik": "FTSE 100 today: Stocks edge higher as bitcoin extends surge",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-bitcoin-extends-surge-4874559",
-   "saat": "10:23",
-   "tarih_iso": "2026-08-25T10:23:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:39:41.559956+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-siemens-energy-stock-climbing-today-93CH-4874558",
-   "baslik": "Why is Siemens Energy stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-siemens-energy-stock-climbing-today-93CH-4874558",
-   "saat": "10:23",
-   "tarih_iso": "2026-08-25T10:23:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:39:41.559956+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vistry-stock-surging-today-93CH-4874557",
-   "baslik": "Why is Vistry stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-vistry-stock-surging-today-93CH-4874557",
-   "saat": "10:21",
-   "tarih_iso": "2026-08-25T10:21:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:39:41.559956+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/air-france-rises-as-kepler-upgrades-to-hold-says-stock-reached-fair-value-4874552",
-   "baslik": "Air France rises as Kepler upgrades to Hold, says stock reached fair value",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/air-france-rises-as-kepler-upgrades-to-hold-says-stock-reached-fair-value-4874552",
-   "saat": "10:17",
-   "tarih_iso": "2026-08-25T10:17:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:39:41.559956+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-rebound-as-iran-sanctions-threats-fizzle-4874515",
-   "baslik": "European stocks rebound as Iran sanctions threats fizzle",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-stocks-rebound-as-iran-sanctions-threats-fizzle-4874515",
-   "saat": "10:11",
-   "tarih_iso": "2026-08-25T10:11:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:30:56.196555+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/three-overweightrated-china-auto-stocks-to-consider-according-to-morgan-stanley-93CH-4874549",
-   "baslik": "Three Overweight-rated China auto stocks to consider, according to Morgan Stanley",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/three-overweightrated-china-auto-stocks-to-consider-according-to-morgan-stanley-93CH-4874549",
-   "saat": "10:08",
-   "tarih_iso": "2026-08-25T10:08:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:30:56.196555+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-058-4874537",
-   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.58%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-058-4874537",
-   "saat": "10:00",
-   "tarih_iso": "2026-08-25T10:00:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:30:56.196555+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
-   "baslik": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
-   "saat": "10:00",
-   "tarih_iso": "2026-08-25T10:00:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T12:00:59.912134+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/us-treasury-buybacks-a-mistake-costing-credibility-says-druckenmiller-4874531",
-   "baslik": "US Treasury buybacks a ’mistake’ costing credibility, says Druckenmiller",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/us-treasury-buybacks-a-mistake-costing-credibility-says-druckenmiller-4874531",
-   "saat": "09:48",
-   "tarih_iso": "2026-08-25T09:48:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:00:59.733208+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hanmi-pharm-stock-sliding-today-93CH-4874529",
-   "baslik": "Why is Hanmi Pharm stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-hanmi-pharm-stock-sliding-today-93CH-4874529",
-   "saat": "09:48",
-   "tarih_iso": "2026-08-25T09:48:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:00:59.733208+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/siemens-energy-hires-goldman-for-steam-turbine-unit-stake-sale-stock-up-premarket-4874527",
-   "baslik": "Siemens Energy hires Goldman for steam turbine unit stake sale; stock up premarket",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/siemens-energy-hires-goldman-for-steam-turbine-unit-stake-sale-stock-up-premarket-4874527",
-   "saat": "09:44",
-   "tarih_iso": "2026-08-25T09:44:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:00:59.733208+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/sinopec-boss-presses-reset-worlds-063702850.html",
-   "baslik": "New Sinopec boss presses reset for world's biggest oil refiner",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/sinopec-boss-presses-reset-worlds-063702850.html",
-   "saat": "09:37",
-   "tarih_iso": "2026-08-25T09:37:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T12:31:53.645736+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-068-4874511",
-   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.68%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-068-4874511",
-   "saat": "09:30",
-   "tarih_iso": "2026-08-25T09:30:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:00:59.733208+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/cadeler-h1-revenue-more-than-doubles-on-fleet-expansion-93CH-4874503",
-   "baslik": "Cadeler H1 revenue more than doubles on fleet expansion",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/cadeler-h1-revenue-more-than-doubles-on-fleet-expansion-93CH-4874503",
-   "saat": "09:23",
-   "tarih_iso": "2026-08-25T09:23:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:00:59.733208+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/zinzino-q2-revenue-climbs-18-as-margins-expand-93CH-4874500",
-   "baslik": "Zinzino Q2 revenue climbs 18% as margins expand",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/zinzino-q2-revenue-climbs-18-as-margins-expand-93CH-4874500",
-   "saat": "09:21",
-   "tarih_iso": "2026-08-25T09:21:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:00:59.733208+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359",
-   "baslik": "Nasdaq futures rise as investors brace for Nvidia results, Fed signals",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-investors-brace-for-nvidia-results-fed-signals-4874359",
-   "saat": "09:19",
-   "tarih_iso": "2026-08-25T09:19:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T10:00:59.733208+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-   "saat": "09:16",
-   "tarih_iso": "2026-08-25T09:16:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T09:30:52.042741+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-25-2026-gold-hits-3-month-high-this-morning-120736963.html",
+   "baslik": "Gold prices today, Tuesday, August 25, 2026: Gold hits 3-month high this morning",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-august-25-2026-gold-hits-3-month-high-this-morning-120736963.html",
+   "saat": "15:07",
+   "tarih_iso": "2026-08-25T15:07:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-25T15:30:51.949437+03:00"
+  },
   {
    "id": "alt-https://www.cnbc.com/2026/08/25/debasement-trade-debt-gold-bitcoin-dollar.html",
    "baslik": "The 'debasement trade' returns after Bessent bond maneuver. Crypto and gold are back in style",
@@ -1744,5 +1803,5 @@
    "eklenme": "2026-08-25T09:01:03.730209+03:00"
   }
  ],
- "guncelleme": "2026-08-25T15:01:03.553105+03:00"
+ "guncelleme": "2026-08-25T15:30:51.949437+03:00"
 }
