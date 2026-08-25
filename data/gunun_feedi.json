@@ -330,6 +330,16 @@
    "eklenme": "2026-08-26T00:01:01.095726+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/sektorler/ode-yalitimdan-eskisehire-5-milyon-dolar-ek-yatirim-haberi-837597",
+   "baslik": "ODE Yalıtım'dan Eskişehir’e 5 milyon dolar ek yatırım",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sektorler/ode-yalitimdan-eskisehire-5-milyon-dolar-ek-yatirim-haberi-837597",
+   "saat": "00:00",
+   "tarih_iso": "2026-08-26T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T00:30:50.436999+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/bofadan-faiz-tahmini-100-baz-puanlik-indirim-beklentisi-haberi-837619",
    "baslik": "BofA'dan faiz tahmini: 100 baz puanlık indirim beklentisi",
    "kaynak": "Dünya",
@@ -521,6 +531,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/zoom-forecasts-quarterly-profit-below-estimates-4875971",
+   "baslik": "Zoom forecasts quarterly profit below estimates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/zoom-forecasts-quarterly-profit-below-estimates-4875971",
+   "saat": "00:06",
+   "tarih_iso": "2026-08-26T00:06:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T00:30:50.436999+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dwave-quantum-stock-slips-as-cfo-announces-retirement-93CH-4875970",
+   "baslik": "D-Wave Quantum stock slips as CFO announces retirement",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dwave-quantum-stock-slips-as-cfo-announces-retirement-93CH-4875970",
+   "saat": "00:06",
+   "tarih_iso": "2026-08-26T00:06:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T00:30:50.436999+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html",
    "baslik": "Dick's Sporting Goods stock falls 30% as retailer misses expectations, cites 'challenging' footwear market",
@@ -1700,29 +1730,19 @@
    "tarih_iso": "2026-08-25T18:06:21+03:00",
    "kodlar": [],
    "eklenme": "2026-08-25T18:30:52.867084+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-   "baslik": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-   "saat": "18:04",
-   "tarih_iso": "2026-08-25T18:04:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T18:30:52.867084+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/what-nvidia-says-on-wednesday-to-address-concerns-about-its-competitiveness-could-be-key-for-the-stock-1f9ef8fd?mod=mw_rss_topstories",
-   "baslik": "What Nvidia says on Wednesday to address concerns about its competitiveness could be key for the stock",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/what-nvidia-says-on-wednesday-to-address-concerns-about-its-competitiveness-could-be-key-for-the-stock-1f9ef8fd?mod=mw_rss_topstories",
-   "saat": "18:04",
-   "tarih_iso": "2026-08-25T18:04:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T18:30:52.867084+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/finans/altin/yatirimci-guvenli-limana-kactikca-altinda-ralli-surdu-haberi-837592",
+   "baslik": "Yatırımcı güvenli limana kaçtıkça altında ralli sürdü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/yatirimci-guvenli-limana-kactikca-altinda-ralli-surdu-haberi-837592",
+   "saat": "00:00",
+   "tarih_iso": "2026-08-26T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T00:30:50.436999+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-miners-show-how-record-margins-amplify-the-bullion-rally-200686525",
    "baslik": "Gold Miners Show How Record Margins Amplify the Bullion Rally",
@@ -2114,5 +2134,5 @@
    "eklenme": "2026-08-25T09:01:03.730209+03:00"
   }
  ],
- "guncelleme": "2026-08-26T00:01:01.095726+03:00"
+ "guncelleme": "2026-08-26T00:30:50.436999+03:00"
 }
