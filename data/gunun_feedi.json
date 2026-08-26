@@ -207,6 +207,18 @@
    "eklenme": "2026-08-27T00:01:03.173347+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-18-yil-aradan-sonra-sampiyonlar-liginde-haberi-837750",
+   "baslik": "Fenerbahçe 18 yıl aradan sonra  Şampiyonlar Ligi'nde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-18-yil-aradan-sonra-sampiyonlar-liginde-haberi-837750",
+   "saat": "23:53",
+   "tarih_iso": "2026-08-26T23:53:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-27T01:01:02.639317+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-26-agustos-2026/4038116",
    "baslik": "60 saniyede ekonomide bugün (26 Ağustos 2026)",
    "kaynak": "AA Ekonomi",
@@ -504,6 +516,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1",
+   "baslik": "Nvidia projects 70% sales growth next year as AI boom shows no sign of slowing",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1",
+   "saat": "00:43",
+   "tarih_iso": "2026-08-27T00:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T01:01:02.639317+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/615a1b65-3949-4297-a87a-e0d23fbfcecf?syn-25a6b1a6=1",
+   "baslik": "‘We got attacked’: Canadians unite in fury against Trump’s latest tariff salvo",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/615a1b65-3949-4297-a87a-e0d23fbfcecf?syn-25a6b1a6=1",
+   "saat": "00:05",
+   "tarih_iso": "2026-08-27T00:05:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T01:01:02.639317+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
    "baslik": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
@@ -1683,26 +1715,6 @@
    "tarih_iso": "2026-08-26T17:26:20+03:00",
    "kodlar": [],
    "eklenme": "2026-08-26T17:39:28.706111+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/news/dollar-moves-narrow-range-ahead-015118187.html",
-   "baslik": "US data lifts dollar as Fed hike expectations edge higher",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/dollar-moves-narrow-range-ahead-015118187.html",
-   "saat": "17:23",
-   "tarih_iso": "2026-08-26T17:23:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T17:39:28.706111+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/small-cap-stocks-waiting-years-142000715.html",
-   "baslik": "Small-Cap Stocks Have Been Waiting Years for Their Moment. Is It Finally Here?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/small-cap-stocks-waiting-years-142000715.html",
-   "saat": "17:20",
-   "tarih_iso": "2026-08-26T17:20:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T17:39:28.706111+03:00"
   }
  ],
  "altin_haber": [
@@ -1927,5 +1939,5 @@
    "eklenme": "2026-08-26T09:00:59.537563+03:00"
   }
  ],
- "guncelleme": "2026-08-27T00:30:51.627402+03:00"
+ "guncelleme": "2026-08-27T01:01:02.639317+03:00"
 }
