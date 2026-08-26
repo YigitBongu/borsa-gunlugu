@@ -17,6 +17,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-iki-odeme-hizmeti-sirketinin-faaliyet-izninin-iptal-edilmesine-karar-verdi/4037559",
+   "baslik": "TCMB  iki ödeme hizmeti şirketinin faaliyet izninin iptal edilmesine karar verdi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-iki-odeme-hizmeti-sirketinin-faaliyet-izninin-iptal-edilmesine-karar-verdi/4037559",
+   "saat": "09:09",
+   "tarih_iso": "2026-08-26T09:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T09:30:54.180010+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-hisseleri-toparland-petrol-dustu-nvidiaya-odak-4043772",
+   "baslik": "Asya hisseleri toparlandı: Petrol düşüyor, Nvidia kazançları bekleniyor, Tayland faiz kararı açıklanacak",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-hisseleri-toparland-petrol-dustu-nvidiaya-odak-4043772",
+   "saat": "07:53",
+   "tarih_iso": "2026-08-26T07:53:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T09:30:54.180010+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-26-agustos-carsamba-doviz-kurlari-haberi-837638",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (26 Ağustos Çarşamba Döviz Kurları)",
    "kaynak": "Dünya",
@@ -68,6 +88,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-148-4876336",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.48%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-148-4876336",
+   "saat": "09:05",
+   "tarih_iso": "2026-08-26T09:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T09:30:54.180010+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-await-pce-inflation-nvidia-results-4876105",
+   "baslik": "U.S. stock futures dip ahead of PCE inflation, Nvidia results",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-fall-as-investors-await-pce-inflation-nvidia-results-4876105",
+   "saat": "08:59",
+   "tarih_iso": "2026-08-26T08:59:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T09:30:54.180010+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/vienna-insurance-firsthalf-pretax-profit-climbs-21-93CH-4876322",
    "baslik": "Vienna Insurance first-half pretax profit climbs 21%",
@@ -127,6 +167,16 @@
    "tarih_iso": "2026-08-26T07:50:05+03:00",
    "kodlar": [],
    "eklenme": "2026-08-26T09:00:59.537563+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+   "baslik": "Oil falls as the U.S. pivots to economic pressure on Iran",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/26/oil-falls-as-the-us-pivots-to-economic-pressure-on-iran-.html",
+   "saat": "07:35",
+   "tarih_iso": "2026-08-26T07:35:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T09:30:54.180010+03:00"
   },
   {
    "id": "yab-https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1",
@@ -391,5 +441,5 @@
    "eklenme": "2026-08-26T09:00:59.537563+03:00"
   }
  ],
- "guncelleme": "2026-08-26T09:04:27.200687+03:00"
+ "guncelleme": "2026-08-26T09:30:54.180010+03:00"
 }
