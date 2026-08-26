@@ -2,6 +2,45 @@
  "tarih": "2026-08-26",
  "kap": [
   {
+   "id": "kap-my-OTKAR-202608261819",
+   "baslik": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.",
+   "kodlar": [
+    "OTKAR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:19",
+   "tarih_iso": "2026-08-26T18:19:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
+  {
+   "id": "kap-my-CWENE-202608261816",
+   "baslik": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş. — Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+   "sirket": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Sermaye",
+   "saat": "18:16",
+   "tarih_iso": "2026-08-26T18:16:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202608261811",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "18:11",
+   "tarih_iso": "2026-08-26T18:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
+  {
    "id": "kap-my-SDTTR-202608261649",
    "baslik": "BORSA İSTANBUL A.Ş. — Hak Kullanımı",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -107,6 +146,30 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/is-dunyasi/kosam-turkiyenin-1-milyon-ilave-isgucune-ihtiyaci-var-haberi-837731",
+   "baslik": "KOSAM: Türkiye’nin 1 milyon ilave işgücüne ihtiyacı var",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/is-dunyasi/kosam-turkiyenin-1-milyon-ilave-isgucune-ihtiyaci-var-haberi-837731",
+   "saat": "00:00",
+   "tarih_iso": "2026-08-27T00:00:00+03:00",
+   "kodlar": [
+    "KONYA"
+   ],
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-sampiyonlar-liginde-haberi-837750",
+   "baslik": "Fenerbahçe Şampiyonlar Ligi'nde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-sampiyonlar-liginde-haberi-837750",
+   "saat": "23:53",
+   "tarih_iso": "2026-08-26T23:53:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-26-agustos-2026/4038116",
    "baslik": "60 saniyede ekonomide bugün (26 Ağustos 2026)",
@@ -405,6 +468,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-veeva-systems-stock-surging-today-93CH-4877929",
+   "baslik": "Why is Veeva Systems stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-veeva-systems-stock-surging-today-93CH-4877929",
+   "saat": "23:44",
+   "tarih_iso": "2026-08-26T23:44:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hp-stock-sliding-today-93CH-4877922",
+   "baslik": "Why is HP stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hp-stock-sliding-today-93CH-4877922",
+   "saat": "23:42",
+   "tarih_iso": "2026-08-26T23:42:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-surging-today-93CH-4877920",
+   "baslik": "Why is Salesforce stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-salesforce-stock-surging-today-93CH-4877920",
+   "saat": "23:40",
+   "tarih_iso": "2026-08-26T23:40:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-sliding-after-hours-today-93CH-4877917",
+   "baslik": "Why is NVIDIA stock sliding after hours today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nvidia-stock-sliding-after-hours-today-93CH-4877917",
+   "saat": "23:38",
+   "tarih_iso": "2026-08-26T23:38:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-crowdstrike-stock-surging-today-93CH-4877915",
+   "baslik": "Why is CrowdStrike stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-crowdstrike-stock-surging-today-93CH-4877915",
+   "saat": "23:36",
+   "tarih_iso": "2026-08-26T23:36:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-synopsys-stock-sliding-today-93CH-4877890",
+   "baslik": "Why is Synopsys stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-synopsys-stock-sliding-today-93CH-4877890",
+   "saat": "23:31",
+   "tarih_iso": "2026-08-26T23:31:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-021-4877889",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.21%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-021-4877889",
+   "saat": "23:31",
+   "tarih_iso": "2026-08-26T23:31:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nvidia-forecasts-quarterly-revenue-above-estimates-4877887",
+   "baslik": "Nvidia forecasts quarterly revenue above estimates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nvidia-forecasts-quarterly-revenue-above-estimates-4877887",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-26T23:30:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T00:01:03.173347+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/hp-forecasts-strong-fourthquarter-profit-on-price-hikes-us-tariff-refunds-4877860",
    "baslik": "HP forecasts strong fourth-quarter profit on price hikes, US tariff refunds",
@@ -1524,86 +1667,6 @@
    "tarih_iso": "2026-08-26T17:15:58+03:00",
    "kodlar": [],
    "eklenme": "2026-08-26T17:30:54.667048+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/technology/nvidia-stock-nvda-fiscal-q2-2027-earnings/?src=A00220&yptr=yahoo",
-   "baslik": "Nvidia Stock Slips Ahead Of Report (Live Coverage)",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/technology/nvidia-stock-nvda-fiscal-q2-2027-earnings/?src=A00220&yptr=yahoo",
-   "saat": "17:15",
-   "tarih_iso": "2026-08-26T17:15:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T17:30:54.667048+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/rumble-drops-7-profit-taking-141452423.html",
-   "baslik": "Rumble Drops 7% on Profit-Taking After a 79% Monthly Run; Trump Media Holds Steady",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rumble-drops-7-profit-taking-141452423.html",
-   "saat": "17:14",
-   "tarih_iso": "2026-08-26T17:14:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T17:30:54.667048+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-alibaba-stock-month-141100594.html",
-   "baslik": "Should You Buy Alibaba Stock This Month?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-alibaba-stock-month-141100594.html",
-   "saat": "17:11",
-   "tarih_iso": "2026-08-26T17:11:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T17:30:54.667048+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-victory-capital-stock-surging-today-93CH-4877457",
-   "baslik": "Why is Victory Capital stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-victory-capital-stock-surging-today-93CH-4877457",
-   "saat": "17:10",
-   "tarih_iso": "2026-08-26T17:10:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T17:30:54.667048+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/zoom-falls-6-soft-q3-140941197.html",
-   "baslik": "Zoom Falls 6% as Soft Q3 Profit Guidance Overshadows a Double Beat; HubSpot and Monday.com Slip",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/zoom-falls-6-soft-q3-140941197.html",
-   "saat": "17:09",
-   "tarih_iso": "2026-08-26T17:09:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T17:30:54.667048+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-l3harris-technologies-stock-gaining-today-93CH-4877454",
-   "baslik": "Why is L3Harris Technologies stock gaining today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-l3harris-technologies-stock-gaining-today-93CH-4877454",
-   "saat": "17:09",
-   "tarih_iso": "2026-08-26T17:09:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T17:30:54.667048+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-message-140700789.html",
-   "baslik": "Jim Cramer sends a strong message to Meta stock investors",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-message-140700789.html",
-   "saat": "17:07",
-   "tarih_iso": "2026-08-26T17:07:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T17:30:54.667048+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/12-stocks-for-bottom-fishing-investors-looking-for-cheap-growth-opportunities-d232ea75?mod=mw_rss_topstories",
-   "baslik": "12 stocks for ‘bottom-fishing’ investors looking for cheap growth opportunities",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/12-stocks-for-bottom-fishing-investors-looking-for-cheap-growth-opportunities-d232ea75?mod=mw_rss_topstories",
-   "saat": "17:06",
-   "tarih_iso": "2026-08-26T17:06:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T17:30:54.667048+03:00"
   }
  ],
  "altin_haber": [
@@ -1828,5 +1891,5 @@
    "eklenme": "2026-08-26T09:00:59.537563+03:00"
   }
  ],
- "guncelleme": "2026-08-26T23:31:04.029892+03:00"
+ "guncelleme": "2026-08-27T00:01:03.173347+03:00"
 }
