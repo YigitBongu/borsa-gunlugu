@@ -147,6 +147,42 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/18-yil-sonra-bir-ilk-sampiyonlar-liginde-iki-turk-takimi-mucadele-edecek-haberi-837752",
+   "baslik": "18 yıl sonra bir ilk: Şampiyonlar Ligi'nde iki Türk takımı mücadele edecek",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/18-yil-sonra-bir-ilk-sampiyonlar-liginde-iki-turk-takimi-mucadele-edecek-haberi-837752",
+   "saat": "00:14",
+   "tarih_iso": "2026-08-27T00:14:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-27T00:30:51.627402+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/aksarayda-portatif-cadir-agil-projesi-suruyu-olumsuz-hava-kosullarindan-koruyor/4038607",
+   "baslik": "Aksaray'da \"Portatif Çadır Ağıl Projesi\" sürüyü olumsuz hava koşullarından koruyor",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/aksarayda-portatif-cadir-agil-projesi-suruyu-olumsuz-hava-kosullarindan-koruyor/4038607",
+   "saat": "00:13",
+   "tarih_iso": "2026-08-27T00:13:02+03:00",
+   "kodlar": [
+    "KONYA"
+   ],
+   "eklenme": "2026-08-27T00:30:51.627402+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/tffden-fenerbahceye-sampiyonlar-ligi-tebrigi-haberi-837751",
+   "baslik": "TFF'den Fenerbahçe'ye Şampiyonlar Ligi tebriği",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/tffden-fenerbahceye-sampiyonlar-ligi-tebrigi-haberi-837751",
+   "saat": "00:11",
+   "tarih_iso": "2026-08-27T00:11:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-27T00:30:51.627402+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/is-dunyasi/kosam-turkiyenin-1-milyon-ilave-isgucune-ihtiyaci-var-haberi-837731",
    "baslik": "KOSAM: Türkiye’nin 1 milyon ilave işgücüne ihtiyacı var",
    "kaynak": "Dünya",
@@ -468,6 +504,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
+   "baslik": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
+   "saat": "23:59",
+   "tarih_iso": "2026-08-26T23:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T00:30:51.627402+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-veeva-systems-stock-surging-today-93CH-4877929",
    "baslik": "Why is Veeva Systems stock surging today?",
@@ -1657,16 +1703,6 @@
    "tarih_iso": "2026-08-26T17:20:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-26T17:39:28.706111+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/article/stocks-in-holding-pattern-ahead-of-nvidia-earnings-alphacheck-141558586.html",
-   "baslik": "Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/stocks-in-holding-pattern-ahead-of-nvidia-earnings-alphacheck-141558586.html",
-   "saat": "17:15",
-   "tarih_iso": "2026-08-26T17:15:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T17:30:54.667048+03:00"
   }
  ],
  "altin_haber": [
@@ -1891,5 +1927,5 @@
    "eklenme": "2026-08-26T09:00:59.537563+03:00"
   }
  ],
- "guncelleme": "2026-08-27T00:01:03.173347+03:00"
+ "guncelleme": "2026-08-27T00:30:51.627402+03:00"
 }
