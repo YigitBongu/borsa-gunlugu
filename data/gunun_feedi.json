@@ -2,6 +2,19 @@
  "tarih": "2026-08-26",
  "kap": [
   {
+   "id": "kap-my-AHGAZ-202608261640",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:40",
+   "tarih_iso": "2026-08-26T16:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-26T17:01:19.963910+03:00"
+  },
+  {
    "id": "kap-my-SDTTR-202608261452",
    "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
    "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
@@ -81,6 +94,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-26-agustos-2026/4038116",
+   "baslik": "60 saniyede ekonomide bugün (26 Ağustos 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-26-agustos-2026/4038116",
+   "saat": "15:49",
+   "tarih_iso": "2026-08-26T15:49:25+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-26T17:01:19.963910+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/is-bankasi-emekli-promosyon-tutari-agustos-2026-is-bankasi-emekli-promosyon-tutari-ne-kadar-ssk-bag-kur-is-bankasi-emekli-maas-3458451",
    "baslik": "İŞ BANKASI EMEKLİ PROMOSYON TUTARI AĞUSTOS 2026: İş Bankası emekli promosyon tutarı ne kadar? SSK, Bağ-Kur İş Bankası emekli maaş promosyonu ne kadar?",
@@ -338,6 +363,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories",
+   "baslik": "Your portfolio can recover from a bear market, but can it survive you living to 110?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories",
+   "saat": "17:00",
+   "tarih_iso": "2026-08-26T17:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T17:01:19.963910+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/smartest-ai-growth-etf-buy-134516318.html",
+   "baslik": "The Smartest AI Growth ETF to Buy With $1,000",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/smartest-ai-growth-etf-buy-134516318.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-08-26T16:45:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T17:01:19.963910+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-26-134309776.html",
+   "baslik": "Stock Market Today (Aug. 26, 2026): S&P 500 futures edge lower ahead Nvidia earnings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-26-134309776.html",
+   "saat": "16:43",
+   "tarih_iso": "2026-08-26T16:43:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T17:01:19.963910+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ceo-edwin-roks-134301837.html",
+   "baslik": "TTM Technologies CEO Edwin Roks Buys 10,000 Shares for $1.1 Million. What Is He Telling Investors?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ttm-technologies-ceo-edwin-roks-134301837.html",
+   "saat": "16:43",
+   "tarih_iso": "2026-08-26T16:43:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T17:01:19.963910+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/target-stock-drops-5-blackface-134240822.html",
+   "baslik": "Target stock drops 5% after blackface costume pulled",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/target-stock-drops-5-blackface-134240822.html",
+   "saat": "16:42",
+   "tarih_iso": "2026-08-26T16:42:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T17:01:19.963910+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/intuit-downgraded-solaredge-upgraded-wall-134109270.html",
+   "baslik": "Intuit downgraded, SolarEdge upgraded: Wall Street's top analyst calls",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/intuit-downgraded-solaredge-upgraded-wall-134109270.html",
+   "saat": "16:41",
+   "tarih_iso": "2026-08-26T16:41:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T17:01:19.963910+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/metas-stock-rises-as-the-company-settles-in-social-media-addiction-trial-78abdfbf?mod=mw_rss_topstories",
    "baslik": "Meta’s stock rises as the company settles case in social-media addiction trial",
    "kaynak": "MarketWatch",
@@ -356,6 +441,36 @@
    "tarih_iso": "2026-08-26T16:37:51+03:00",
    "kodlar": [],
    "eklenme": "2026-08-26T16:50:45.293580+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/best-buy-dollar-general-why-133506679.html",
+   "baslik": "Best Buy or Dollar General: Why One Earnings Report Matters Far More Than the Other",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/best-buy-dollar-general-why-133506679.html",
+   "saat": "16:35",
+   "tarih_iso": "2026-08-26T16:35:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T17:01:19.963910+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/utilitys-dividend-growth-boring-design-133500583.html",
+   "baslik": "This Utility's Dividend Growth Is Boring by Design. That's Exactly Why I Own It.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/utilitys-dividend-growth-boring-design-133500583.html",
+   "saat": "16:35",
+   "tarih_iso": "2026-08-26T16:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T17:01:19.963910+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/eli-lilly-stock-keep-surging-133318930.html",
+   "baslik": "Can Eli Lilly Stock Keep Surging As Drug Prices Fall?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-stock-keep-surging-133318930.html",
+   "saat": "16:33",
+   "tarih_iso": "2026-08-26T16:33:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T17:01:19.963910+03:00"
   },
   {
    "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-082626/card/stocks-waver-after-pce-report-nvidia-is-the-market-s-real-test--rpbNRBw92Lgwsgx01ip3?siteid=yhoof2&yptr=yahoo",
@@ -1446,96 +1561,6 @@
    "tarih_iso": "2026-08-26T12:54:04+03:00",
    "kodlar": [],
    "eklenme": "2026-08-26T13:31:47.808249+03:00"
-  },
-  {
-   "id": "yab-https://www.barrons.com/articles/treasury-yields-oil-prices-inflation-a8304508?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Why Lower Energy Prices Aren’t the Inflation Fix Markets Need",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.barrons.com/articles/treasury-yields-oil-prices-inflation-a8304508?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:52",
-   "tarih_iso": "2026-08-26T12:52:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T13:31:47.808249+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/customers-are-fleeing-turbotax-over-price-and-intuits-stock-is-sliding-a37dcce0?mod=mw_rss_topstories",
-   "baslik": "Customers are fleeing TurboTax over price, and Intuit’s stock is sliding",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/customers-are-fleeing-turbotax-over-price-and-intuits-stock-is-sliding-a37dcce0?mod=mw_rss_topstories",
-   "saat": "12:50",
-   "tarih_iso": "2026-08-26T12:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T13:01:01.599989+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-overlooked-autonomous-vehicle-stocks-095000538.html",
-   "baslik": "3 Overlooked Autonomous Vehicle Stocks Investors Should Jump On",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-overlooked-autonomous-vehicle-stocks-095000538.html",
-   "saat": "12:50",
-   "tarih_iso": "2026-08-26T12:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T13:31:47.808249+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/videos/cly7nm72ne0o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Energy prices to rise to three-year high",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/videos/cly7nm72ne0o?at_medium=RSS&at_campaign=rss",
-   "saat": "12:45",
-   "tarih_iso": "2026-08-26T12:45:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T13:01:01.599989+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/article/4-reasons-nvidia-stock-is-lagging-093542775.html",
-   "baslik": "4 reasons Nvidia stock is lagging",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/article/4-reasons-nvidia-stock-is-lagging-093542775.html",
-   "saat": "12:35",
-   "tarih_iso": "2026-08-26T12:35:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T14:30:49.463711+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/news/dollar-moves-narrow-range-ahead-015118187.html",
-   "baslik": "Dollar inches higher ahead of US inflation data; Aussie gains on rate bets",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/dollar-moves-narrow-range-ahead-015118187.html",
-   "saat": "12:33",
-   "tarih_iso": "2026-08-26T12:33:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T14:30:49.463711+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zoom-video-stock-sliding-today-93CH-4876571",
-   "baslik": "Why is Zoom Video stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-zoom-video-stock-sliding-today-93CH-4876571",
-   "saat": "12:30",
-   "tarih_iso": "2026-08-26T12:30:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T13:01:01.599989+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/forget-nvidias-q2-results-wall-street-is-watching-this-200-billion-exposure-4876568",
-   "baslik": "Forget Nvidia’s Q2 results. Wall Street is watching this $200 billion exposure",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/forget-nvidias-q2-results-wall-street-is-watching-this-200-billion-exposure-4876568",
-   "saat": "12:27",
-   "tarih_iso": "2026-08-26T12:27:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T13:01:01.599989+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/bhp-faces-copper-price-risk-as-tariff-concerns-inflate-rally-93CH-4876560",
-   "baslik": "BHP faces copper price risk as tariff concerns inflate rally",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/bhp-faces-copper-price-risk-as-tariff-concerns-inflate-rally-93CH-4876560",
-   "saat": "12:20",
-   "tarih_iso": "2026-08-26T12:20:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T12:35:42.557046+03:00"
   }
  ],
  "altin_haber": [
@@ -1700,5 +1725,5 @@
    "eklenme": "2026-08-26T09:00:59.537563+03:00"
   }
  ],
- "guncelleme": "2026-08-26T16:50:45.293580+03:00"
+ "guncelleme": "2026-08-26T17:01:19.963910+03:00"
 }
