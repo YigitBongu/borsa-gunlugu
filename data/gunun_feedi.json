@@ -1,6 +1,33 @@
 {
  "tarih": "2026-08-26",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-GLYHO-202608260939",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:39",
+   "tarih_iso": "2026-08-26T09:39:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-26T10:00:59.094864+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202608260917",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:17",
+   "tarih_iso": "2026-08-26T09:17:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-26T10:00:59.094864+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-icin-sahada-lyon-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-837653",
@@ -28,6 +55,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/tcmbden-iki-elektronik-para-sirketine-iptal-karari-payco-ve-junomoneynin-lisanslari-kaldirildi-3459133",
+   "baslik": "TCMB'den iki elektronik para şirketine iptal kararı: Payco ve Junomoney'nin lisansları kaldırıldı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/tcmbden-iki-elektronik-para-sirketine-iptal-karari-payco-ve-junomoneynin-lisanslari-kaldirildi-3459133",
+   "saat": "12:45",
+   "tarih_iso": "2026-08-26T12:45:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:00:59.094864+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-bilgiye-ulasmanin-kolaylastigi-bir-dunyada-farki-ne-kadar-hizli-ogrenebildiginiz-belirleyecek/4037571",
+   "baslik": "TCMB Başkanı Karahan: Bilgiye ulaşmanın kolaylaştığı bir dünyada farkı ne kadar hızlı öğrenebildiğiniz belirleyecek",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-bilgiye-ulasmanin-kolaylastigi-bir-dunyada-farki-ne-kadar-hizli-ogrenebildiginiz-belirleyecek/4037571",
+   "saat": "09:27",
+   "tarih_iso": "2026-08-26T09:27:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:00:59.094864+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-iki-odeme-hizmeti-sirketinin-faaliyet-izninin-iptal-edilmesine-karar-verdi/4037559",
    "baslik": "TCMB  iki ödeme hizmeti şirketinin faaliyet izninin iptal edilmesine karar verdi",
@@ -100,6 +147,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-anta-sports-stock-surging-today-93CH-4876369",
+   "baslik": "Why is ANTA Sports stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-anta-sports-stock-surging-today-93CH-4876369",
+   "saat": "09:43",
+   "tarih_iso": "2026-08-26T09:43:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:00:59.094864+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/26/temasek-unitree-humanoids-robotics-trump-ban-.html",
    "baslik": "Temasek-backed investor behind Unitree pitches Singapore as Chinese robots' path to U.S.",
@@ -443,6 +500,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-4649-support-remains-key-as-jackson-hole-approaches-200686536",
+   "baslik": "Gold: $4,649 Support Remains Key as Jackson Hole Approaches",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-4649-support-remains-key-as-jackson-hole-approaches-200686536",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:00:59.094864+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-eyes-5000-as-rising-rates-signal-a-bigger-debt-and-confidence-crisis-200686515",
    "baslik": "Gold Eyes $5,000 as Rising Rates Signal a Bigger Debt and Confidence Crisis",
    "kaynak": "Investing Emtia",
@@ -533,5 +600,5 @@
    "eklenme": "2026-08-26T09:00:59.537563+03:00"
   }
  ],
- "guncelleme": "2026-08-26T09:39:33.055704+03:00"
+ "guncelleme": "2026-08-26T10:00:59.094864+03:00"
 }
