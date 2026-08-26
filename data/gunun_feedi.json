@@ -2,6 +2,19 @@
  "tarih": "2026-08-26",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202608260950",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "09:50",
+   "tarih_iso": "2026-08-26T09:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-26T10:30:53.887405+03:00"
+  },
+  {
    "id": "kap-my-GLYHO-202608260939",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -64,6 +77,16 @@
    "tarih_iso": "2026-08-26T12:45:56+03:00",
    "kodlar": [],
    "eklenme": "2026-08-26T10:00:59.094864+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/ham-petrol-cokusu-ecbnin-sert-uyarlarn-dengeledi-4043916",
+   "baslik": "Ham petrol çöküşü ECB’nin sert uyarılarını dengeledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/ham-petrol-cokusu-ecbnin-sert-uyarlarn-dengeledi-4043916",
+   "saat": "10:03",
+   "tarih_iso": "2026-08-26T10:03:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:30:53.887405+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-bilgiye-ulasmanin-kolaylastigi-bir-dunyada-farki-ne-kadar-hizli-ogrenebildiginiz-belirleyecek/4037571",
@@ -147,6 +170,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "baslik": "What will the energy cap changes mean for my bills?",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "saat": "10:24",
+   "tarih_iso": "2026-08-26T10:24:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:30:53.887405+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
+   "baslik": "China's short-drama producers flood the market with cheap bets — and let audiences pick the winners",
+   "kaynak": "CNBC Finans",
+   "link": "https://www.cnbc.com/2026/08/26/short-drama-china-production-ai-entertainment-economics.html",
+   "saat": "10:11",
+   "tarih_iso": "2026-08-26T10:11:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:30:53.887405+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-cuts-sap-to-neutral-on-lack-of-ai-catalysts-weak-investor-sentiment-4876395",
+   "baslik": "SAP dips as UBS downgrades stock on lack of AI catalysts, weak investor sentiment",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-cuts-sap-to-neutral-on-lack-of-ai-catalysts-weak-investor-sentiment-4876395",
+   "saat": "10:10",
+   "tarih_iso": "2026-08-26T10:10:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:30:53.887405+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-5-japanese-electronics-stocks-for-ai-exposure-according-to-morgan-stanley-93CH-4876397",
+   "baslik": "Top 5 Japanese Electronics Stocks for AI exposure, According To Morgan Stanley",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-5-japanese-electronics-stocks-for-ai-exposure-according-to-morgan-stanley-93CH-4876397",
+   "saat": "10:08",
+   "tarih_iso": "2026-08-26T10:08:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:30:53.887405+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-drift-higher-as-crude-collapse-offsets-hawkish-ecb-rate-warnings-4876389",
+   "baslik": "European stocks drift higher as crude collapse offsets hawkish ECB rate warnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-drift-higher-as-crude-collapse-offsets-hawkish-ecb-rate-warnings-4876389",
+   "saat": "10:03",
+   "tarih_iso": "2026-08-26T10:03:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:30:53.887405+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nvidia-earnings-on-deck-these-asian-stocks-are-directly-exposed-93CH-4876388",
+   "baslik": "Nvidia earnings on deck: These Asian stocks are directly exposed",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nvidia-earnings-on-deck-these-asian-stocks-are-directly-exposed-93CH-4876388",
+   "saat": "10:03",
+   "tarih_iso": "2026-08-26T10:03:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:30:53.887405+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/innovent-biologics-stock-hit-a-record-high-today-heres-why-93CH-4876387",
+   "baslik": "Innovent Biologics stock hit a record high today, here’s why",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/innovent-biologics-stock-hit-a-record-high-today-heres-why-93CH-4876387",
+   "saat": "10:02",
+   "tarih_iso": "2026-08-26T10:02:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:30:53.887405+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-061-4876380",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.61%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-061-4876380",
+   "saat": "10:00",
+   "tarih_iso": "2026-08-26T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:30:53.887405+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-anta-sports-stock-surging-today-93CH-4876369",
    "baslik": "Why is ANTA Sports stock surging today?",
@@ -500,6 +603,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-in-escapevelocity-mode-4798-breakout-opens-door-to-4895-200686540",
+   "baslik": "Gold in Escape-Velocity Mode: $4,798 Breakout Opens Door to $4,895",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-in-escapevelocity-mode-4798-breakout-opens-door-to-4895-200686540",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-26T10:30:53.887405+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-4649-support-remains-key-as-jackson-hole-approaches-200686536",
    "baslik": "Gold: $4,649 Support Remains Key as Jackson Hole Approaches",
    "kaynak": "Investing Emtia",
@@ -600,5 +713,5 @@
    "eklenme": "2026-08-26T09:00:59.537563+03:00"
   }
  ],
- "guncelleme": "2026-08-26T10:00:59.094864+03:00"
+ "guncelleme": "2026-08-26T10:30:53.887405+03:00"
 }
