@@ -310,6 +310,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-uc-ayin-zirvesinde-tutundu-gozler-abd-enflasyon-verisinde-galeri-837637",
+   "baslik": "Altın üç ayın zirvesinde tutundu: Gözler ABD enflasyon verisinde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-uc-ayin-zirvesinde-tutundu-gozler-abd-enflasyon-verisinde-galeri-837637",
+   "saat": "07:22",
+   "tarih_iso": "2026-08-26T07:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T07:30:52.237199+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/savasin-yeni-cephesi-ekonomi-abdnin-en-buyuk-silahi-dolar-3458998",
    "baslik": "Savaşın yeni cephesi ekonomi! ABD’nin en büyük silahı dolar",
    "kaynak": "CNN Türk Ekonomi",
@@ -531,6 +541,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1",
+   "baslik": "Bessent’s bond intervention puts US Treasury on collision course with Fed",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/a50df99b-0621-44ea-a7c7-c9c685e2eba1?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-08-26T07:00:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T07:30:52.237199+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-worley-stock-tumbling-today-93CH-4876239",
+   "baslik": "Why is Worley stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-worley-stock-tumbling-today-93CH-4876239",
+   "saat": "06:59",
+   "tarih_iso": "2026-08-26T06:59:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T07:30:52.237199+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/worley-fy-profit-slides-35-on-restructuring-costs-meast-disruptions-93CH-4876238",
    "baslik": "Worley FY profit slides 35% on restructuring costs, M.East disruptions",
@@ -1710,29 +1740,19 @@
    "tarih_iso": "2026-08-25T18:57:45+03:00",
    "kodlar": [],
    "eklenme": "2026-08-25T19:30:51.646045+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/research/options/rocket-lab-rklb-satellite-space-options-trade-strategy-income-investing-markets/?src=A00220&yptr=yahoo",
-   "baslik": "Rocket Lab Stock: Launch This Bear Put Spread That Aims For A $295 Profit",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/research/options/rocket-lab-rklb-satellite-space-options-trade-strategy-income-investing-markets/?src=A00220&yptr=yahoo",
-   "saat": "18:55",
-   "tarih_iso": "2026-08-25T18:55:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T19:30:51.646045+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/retail-silence-reshapes-amazon-stock-155502860.html",
-   "baslik": "The Retail Silence That Reshapes The Amazon Stock Bull Case",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/retail-silence-reshapes-amazon-stock-155502860.html",
-   "saat": "18:55",
-   "tarih_iso": "2026-08-25T18:55:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-25T19:30:51.646045+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-uc-ayin-zirvesinde-tutundu-gozler-abd-enflasyon-verisinde-galeri-837637",
+   "baslik": "Altın üç ayın zirvesinde tutundu: Gözler ABD enflasyon verisinde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-uc-ayin-zirvesinde-tutundu-gozler-abd-enflasyon-verisinde-galeri-837637",
+   "saat": "07:22",
+   "tarih_iso": "2026-08-26T07:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-26T07:30:52.237199+03:00"
+  },
   {
    "id": "alt-https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
    "baslik": "AI gold rush draws crypto firms away from Bitcoin",
@@ -2144,5 +2164,5 @@
    "eklenme": "2026-08-25T09:01:03.730209+03:00"
   }
  ],
- "guncelleme": "2026-08-26T07:00:59.397877+03:00"
+ "guncelleme": "2026-08-26T07:30:52.237199+03:00"
 }
