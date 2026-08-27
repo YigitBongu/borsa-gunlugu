@@ -107,6 +107,18 @@
    "eklenme": "2026-08-28T00:01:03.659282+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/sirketler/astor-abdde-tabani-genisletecek-ihracatin-payini-yuzde-70e-cikaracak-haberi-837868",
+   "baslik": "Astor, ABD’de tabanı genişletecek ihracatın payını yüzde 70’e çıkaracak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/astor-abdde-tabani-genisletecek-ihracatin-payini-yuzde-70e-cikaracak-haberi-837868",
+   "saat": "00:00",
+   "tarih_iso": "2026-08-28T00:00:00+03:00",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "eklenme": "2026-08-28T00:30:50.156866+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/halkbank-ikincil-halka-arz-icin-spkye-basvurdu-haberi-837878",
    "baslik": "Halkbank ikincil halka arz için SPK'ye başvurdu",
    "kaynak": "Dünya",
@@ -141,6 +153,18 @@
     "HALKB"
    ],
    "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/halkbanktan-esnaf-kredisi-aciklamasi/4039471",
+   "baslik": "Halkbank'tan esnaf kredisi açıklaması",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/halkbanktan-esnaf-kredisi-aciklamasi/4039471",
+   "saat": "18:47",
+   "tarih_iso": "2026-08-27T18:47:51+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-28T00:30:50.156866+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-27-agustos-2026/4039264",
@@ -333,6 +357,16 @@
    "tarih_iso": "2026-08-28T02:46:54+03:00",
    "kodlar": [],
    "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/citadel-securities-rekor-73-milyar-dolar-gelir-elde-etti-4047220",
+   "baslik": "Citadel Securities rekor 7,3 milyar dolar gelir elde etti",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/citadel-securities-rekor-73-milyar-dolar-gelir-elde-etti-4047220",
+   "saat": "00:15",
+   "tarih_iso": "2026-08-28T00:15:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:30:50.156866+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/fed-yetkilisi-hammackten-enflasyon-uyarisi-harekete-gecme-zamani-geldi-haberi-837880",
@@ -587,6 +621,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-127-4880250",
+   "baslik": "Russia stocks higher at close of trade; MOEX Russia Index up 1.27%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-127-4880250",
+   "saat": "00:20",
+   "tarih_iso": "2026-08-28T00:20:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:30:50.156866+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citadel-securities-hits-record-73-billion-revenue-bloomberg-reports-4880245",
+   "baslik": "Citadel Securities hits record $7.3 billion revenue, Bloomberg reports",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citadel-securities-hits-record-73-billion-revenue-bloomberg-reports-4880245",
+   "saat": "00:15",
+   "tarih_iso": "2026-08-28T00:15:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:30:50.156866+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
+   "baslik": "Marvell is boosting its forecasts, but that’s not enough to lift its stock",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/marvell-is-boosting-its-forecasts-but-thats-not-enough-to-lift-its-stock-c769556a?mod=mw_rss_topstories",
+   "saat": "00:12",
+   "tarih_iso": "2026-08-28T00:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:30:50.156866+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-affirm-stock-up-8-today-93CH-4880223",
+   "baslik": "Why is Affirm stock up 8% today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-affirm-stock-up-8-today-93CH-4880223",
+   "saat": "23:57",
+   "tarih_iso": "2026-08-27T23:57:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:30:50.156866+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-biotechnology-stock-pick-from-guggenheim-93CH-4880222",
+   "baslik": "Top Biotechnology Stock Pick from Guggenheim",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-biotechnology-stock-pick-from-guggenheim-93CH-4880222",
+   "saat": "23:57",
+   "tarih_iso": "2026-08-27T23:57:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:30:50.156866+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ulta-beauty-stock-slipping-today-93CH-4880213",
+   "baslik": "Why is Ulta Beauty stock slipping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ulta-beauty-stock-slipping-today-93CH-4880213",
+   "saat": "23:51",
+   "tarih_iso": "2026-08-27T23:51:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:30:50.156866+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories",
    "baslik": "20 stocks likely to lose money even if the bull market continues",
    "kaynak": "MarketWatch",
@@ -595,6 +689,16 @@
    "tarih_iso": "2026-08-27T23:48:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+   "baslik": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+   "saat": "23:47",
+   "tarih_iso": "2026-08-27T23:47:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:30:50.156866+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-elastic-stock-surging-today-93CH-4880192",
@@ -1715,76 +1819,6 @@
    "tarih_iso": "2026-08-27T17:42:44+03:00",
    "kodlar": [],
    "eklenme": "2026-08-27T18:01:05.981777+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cathie-wood-goes-bargain-hunting-144200327.html",
-   "baslik": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-goes-bargain-hunting-144200327.html",
-   "saat": "17:42",
-   "tarih_iso": "2026-08-27T17:42:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T18:01:05.981777+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-artificial-intelligence-ai-stocks-143900515.html",
-   "baslik": "3 Artificial Intelligence (AI) Stocks Hedge Funds Are Buying Hand Over Fist",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-artificial-intelligence-ai-stocks-143900515.html",
-   "saat": "17:39",
-   "tarih_iso": "2026-08-27T17:39:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T18:01:05.981777+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/jackson-hole-conference-kicks-off-143304791.html",
-   "baslik": "As Jackson Hole conference kicks off, two Fed officials warn about inflation",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/jackson-hole-conference-kicks-off-143304791.html",
-   "saat": "17:38",
-   "tarih_iso": "2026-08-27T17:38:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T18:01:05.981777+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/oracle-stock-fund-638b-backlog-143701574.html",
-   "baslik": "Can Oracle Stock Fund a $638B Backlog Without Breaking Margins?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-fund-638b-backlog-143701574.html",
-   "saat": "17:37",
-   "tarih_iso": "2026-08-27T17:37:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T18:01:05.981777+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/technological-advancements-fueling-badger-meter-143521879.html",
-   "baslik": "Technological Advancements Fueling Badger Meter’s (BMI) Long-Term Growth Potential",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/technological-advancements-fueling-badger-meter-143521879.html",
-   "saat": "17:35",
-   "tarih_iso": "2026-08-27T17:35:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T18:01:05.981777+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-   "baslik": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
-   "saat": "17:30",
-   "tarih_iso": "2026-08-27T17:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T18:30:51.843921+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/focused-leadership-driving-sustainable-growth-142308742.html",
-   "baslik": "Focused Leadership is Driving Sustainable Growth at White Mountains Insurance (WTM)",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/focused-leadership-driving-sustainable-growth-142308742.html",
-   "saat": "17:23",
-   "tarih_iso": "2026-08-27T17:23:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T18:01:05.981777+03:00"
   }
  ],
  "altin_haber": [
@@ -1797,6 +1831,16 @@
    "tarih_iso": "2026-08-28T02:46:54+03:00",
    "kodlar": [],
    "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-monthly-august-2026-sentiment-turns-more-positive-200686701",
+   "baslik": "Gold Monthly August 2026: Sentiment Turns More Positive",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-monthly-august-2026-sentiment-turns-more-positive-200686701",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:30:50.156866+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-onoff-diplomatic-talks-may-overshadow-jackson-hole-200686692",
@@ -2059,5 +2103,5 @@
    "eklenme": "2026-08-27T09:01:05.752051+03:00"
   }
  ],
- "guncelleme": "2026-08-28T00:01:03.659282+03:00"
+ "guncelleme": "2026-08-28T00:30:50.156866+03:00"
 }
