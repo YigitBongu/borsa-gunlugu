@@ -2,6 +2,45 @@
  "tarih": "2026-08-27",
  "kap": [
   {
+   "id": "kap-my-BIMAS-202608271921",
+   "baslik": "BİM BİRLEŞİK MAĞAZALAR A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+   "kodlar": [
+    "BIMAS"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "19:21",
+   "tarih_iso": "2026-08-27T19:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "kap-my-IZENR-202608271820",
+   "baslik": "İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+   "kodlar": [
+    "IZENR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:20",
+   "tarih_iso": "2026-08-27T18:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "kap-my-BIMAS-202608271815",
+   "baslik": "JCR AVRASYA DERECELENDİRME A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "JCR AVRASYA DERECELENDİRME A.Ş.",
+   "kodlar": [
+    "BIMAS"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "18:15",
+   "tarih_iso": "2026-08-27T18:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
    "id": "kap-my-FENER-202608271745",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -55,6 +94,54 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/akbank-emekli-promosyonu-agustos-2026-akbank-emeklilere-ne-kadar-promosyon-oduyor-akbank-emeklilere-kac-tl-promosyon-odemesi-yapiyor-3459907",
+   "baslik": "AKBANK EMEKLİ PROMOSYONU AĞUSTOS 2026: Akbank emeklilere ne kadar promosyon ödüyor? Akbank emeklilere kaç TL promosyon ödemesi yapıyor?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/akbank-emekli-promosyonu-agustos-2026-akbank-emeklilere-ne-kadar-promosyon-oduyor-akbank-emeklilere-kac-tl-promosyon-odemesi-yapiyor-3459907",
+   "saat": "00:08",
+   "tarih_iso": "2026-08-28T00:08:09+03:00",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/halkbank-ikincil-halka-arz-icin-spkye-basvurdu-haberi-837878",
+   "baslik": "Halkbank ikincil halka arz için SPK'ye başvurdu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/halkbank-ikincil-halka-arz-icin-spkye-basvurdu-haberi-837878",
+   "saat": "21:19",
+   "tarih_iso": "2026-08-27T21:19:00+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-ve-galatasarayin-sampiyonlar-ligi-rakipleri-belli-oldu-haberi-837872",
+   "baslik": "Fenerbahçe ve Galatasaray'ın Şampiyonlar Ligi rakipleri belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-ve-galatasarayin-sampiyonlar-ligi-rakipleri-belli-oldu-haberi-837872",
+   "saat": "19:36",
+   "tarih_iso": "2026-08-27T19:36:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/halkbanktan-esnaf-kredisi-aciklamasi-haberi-837863",
+   "baslik": "Halkbank'tan esnaf kredisi açıklaması",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/halkbanktan-esnaf-kredisi-aciklamasi-haberi-837863",
+   "saat": "18:49",
+   "tarih_iso": "2026-08-27T18:49:00+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-27-agustos-2026/4039264",
    "baslik": "60 saniyede ekonomide bugün (27 Ağustos 2026)",
@@ -238,6 +325,46 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-eylul-2026-fed-faiz-karari-saat-kacta-belli-olacak-3459924",
+   "baslik": "FED FAİZ KARARI NE ZAMAN AÇIKLANACAK? Eylül 2026 FED faiz kararı saat kaçta belli olacak?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-eylul-2026-fed-faiz-karari-saat-kacta-belli-olacak-3459924",
+   "saat": "02:46",
+   "tarih_iso": "2026-08-28T02:46:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-yetkilisi-hammackten-enflasyon-uyarisi-harekete-gecme-zamani-geldi-haberi-837880",
+   "baslik": "Fed yetkilisi Hammack'ten enflasyon uyarısı: Harekete geçme zamanı geldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-yetkilisi-hammackten-enflasyon-uyarisi-harekete-gecme-zamani-geldi-haberi-837880",
+   "saat": "21:41",
+   "tarih_iso": "2026-08-27T21:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hisarciklioglundan-bankalara-faiz-cagrisi-3-puanlik-indirimi-ticari-kredilere-yansitin-haberi-837879",
+   "baslik": "Hisarcıklıoğlu’ndan bankalara faiz çağrısı: 3 puanlık indirimi ticari kredilere yansıtın",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hisarciklioglundan-bankalara-faiz-cagrisi-3-puanlik-indirimi-ticari-kredilere-yansitin-haberi-837879",
+   "saat": "21:24",
+   "tarih_iso": "2026-08-27T21:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/arz-portfoyun-yatirim-yaptigi-fasset-1-milyar-dolar-degerlemeyle-unicorn-oldu/4039567",
+   "baslik": "Arz Portföy'ün yatırım yaptığı Fasset 1 milyar dolar değerlemeyle unicorn oldu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/arz-portfoyun-yatirim-yaptigi-fasset-1-milyar-dolar-degerlemeyle-unicorn-oldu/4039567",
+   "saat": "20:46",
+   "tarih_iso": "2026-08-27T20:46:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-rezervleri-188-4-milyar-dolara-yukseldi-altin-rezervlerinde-guclu-artis-3459821",
    "baslik": "TCMB rezervleri 188,4 milyar dolara yükseldi! Altın rezervlerinde güçlü artış",
    "kaynak": "CNN Türk Ekonomi",
@@ -256,6 +383,16 @@
    "tarih_iso": "2026-08-27T19:06:28+03:00",
    "kodlar": [],
    "eklenme": "2026-08-27T16:30:53.349785+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-837861",
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-837861",
+   "saat": "18:46",
+   "tarih_iso": "2026-08-27T18:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/ecbden-faiz-artisi-sinyali-enflasyon-dusmezse-yeni-artis-gundemde-haberi-837844",
@@ -450,6 +587,76 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories",
+   "baslik": "20 stocks likely to lose money even if the bull market continues",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/20-stocks-likely-to-lose-money-even-if-the-bull-market-continues-3f931608?mod=mw_rss_topstories",
+   "saat": "23:48",
+   "tarih_iso": "2026-08-27T23:48:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-elastic-stock-surging-today-93CH-4880192",
+   "baslik": "Why is Elastic stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-elastic-stock-surging-today-93CH-4880192",
+   "saat": "23:36",
+   "tarih_iso": "2026-08-27T23:36:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gap-stock-surging-today-93CH-4880183",
+   "baslik": "Why is Gap stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-gap-stock-surging-today-93CH-4880183",
+   "saat": "23:32",
+   "tarih_iso": "2026-08-27T23:32:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lifevantage-stock-sliding-today-93CH-4880182",
+   "baslik": "Why is Lifevantage stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lifevantage-stock-sliding-today-93CH-4880182",
+   "saat": "23:32",
+   "tarih_iso": "2026-08-27T23:32:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-020-4880170",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.20%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-020-4880170",
+   "saat": "23:31",
+   "tarih_iso": "2026-08-27T23:31:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-006-4880169",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.06%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-006-4880169",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-27T23:30:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-031-4880165",
+   "baslik": "Brazil stocks higher at close of trade; Bovespa up 0.31%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-031-4880165",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-27T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-rubrik-stock-tumbling-today-93CH-4880161",
    "baslik": "Why is Rubrik stock tumbling today?",
    "kaynak": "Investing.com",
@@ -518,6 +725,16 @@
    "tarih_iso": "2026-08-27T23:13:11+03:00",
    "kodlar": [],
    "eklenme": "2026-08-27T23:30:52.057752+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+   "baslik": "CrowdStrike posts best day ever, Okta's stock pops nearly 29% as rising AI threat lifts earnings",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+   "saat": "23:08",
+   "tarih_iso": "2026-08-27T23:08:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/buildabear-shareson-track-for-biggest-drop-ever-on-weak-revenue-outlook-4880037",
@@ -1568,89 +1785,29 @@
    "tarih_iso": "2026-08-27T17:23:08+03:00",
    "kodlar": [],
    "eklenme": "2026-08-27T18:01:05.981777+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nubank-nu-first-billion-dollar-141828745.html",
-   "baslik": "Nubank’s (NU) First Billion-Dollar Quarter Comes With New Questions",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nubank-nu-first-billion-dollar-141828745.html",
-   "saat": "17:18",
-   "tarih_iso": "2026-08-27T17:18:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T18:01:05.981777+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-double-top-confirmed-at-7838-hourly-levels-93CH-4874077",
-   "baslik": "S&P 500 coils in tight range, ADX at 15.7: Live levels",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/sp-500-double-top-confirmed-at-7838-hourly-levels-93CH-4874077",
-   "saat": "17:17",
-   "tarih_iso": "2026-08-27T17:17:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T17:30:55.422380+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hut-8-cfo-sells-company-141600052.html",
-   "baslik": "Hut 8 CFO Sells Company Stock",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hut-8-cfo-sells-company-141600052.html",
-   "saat": "17:16",
-   "tarih_iso": "2026-08-27T17:16:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T17:30:55.422380+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
-   "baslik": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
-   "kaynak": "CNBC Finans",
-   "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
-   "saat": "17:11",
-   "tarih_iso": "2026-08-27T17:11:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T20:01:04.723991+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
-   "baslik": "Nvidia jumps 7% after blockbuster earnings boost AI confidence",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
-   "saat": "17:06",
-   "tarih_iso": "2026-08-27T17:06:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T18:01:05.981777+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/energy-ceo-sells-10-000-140501680.html",
-   "baslik": "Energy CEO Sells 10,000 Shares, Valued at $2.1 Million, Following 53% Rally",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/energy-ceo-sells-10-000-140501680.html",
-   "saat": "17:05",
-   "tarih_iso": "2026-08-27T17:05:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T17:30:55.422380+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/hyperliquid-strategies-q4-earnings-call-140447676.html",
-   "baslik": "Hyperliquid Strategies Q4 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-strategies-q4-earnings-call-140447676.html",
-   "saat": "17:04",
-   "tarih_iso": "2026-08-27T17:04:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T17:30:55.422380+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/materialise-q2-earnings-call-highlights-140443912.html",
-   "baslik": "Materialise Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/materialise-q2-earnings-call-highlights-140443912.html",
-   "saat": "17:04",
-   "tarih_iso": "2026-08-27T17:04:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T17:30:55.422380+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-eylul-2026-fed-faiz-karari-saat-kacta-belli-olacak-3459924",
+   "baslik": "FED FAİZ KARARI NE ZAMAN AÇIKLANACAK? Eylül 2026 FED faiz kararı saat kaçta belli olacak?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-eylul-2026-fed-faiz-karari-saat-kacta-belli-olacak-3459924",
+   "saat": "02:46",
+   "tarih_iso": "2026-08-28T02:46:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-onoff-diplomatic-talks-may-overshadow-jackson-hole-200686692",
+   "baslik": "Gold: On-Off Diplomatic Talks May Overshadow Jackson Hole",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-onoff-diplomatic-talks-may-overshadow-jackson-hole-200686692",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-28T00:01:03.659282+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/what-indias-gold-discount-is-really-telling-us-200686699",
    "baslik": "What India’s Gold Discount Is Really Telling Us",
@@ -1902,5 +2059,5 @@
    "eklenme": "2026-08-27T09:01:05.752051+03:00"
   }
  ],
- "guncelleme": "2026-08-27T23:30:52.057752+03:00"
+ "guncelleme": "2026-08-28T00:01:03.659282+03:00"
 }
