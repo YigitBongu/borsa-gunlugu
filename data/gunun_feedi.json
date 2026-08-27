@@ -1,7 +1,33 @@
 {
  "tarih": "2026-08-27",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-SDTTR-202608270904",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:04",
+   "tarih_iso": "2026-08-27T09:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-27T09:30:50.059524+03:00"
+  }
+ ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcenin-avrupa-zaferleri-mercek-altinda-basari-ulke-ekonomisine-yansiyor-haberi-837767",
+   "baslik": "Fenerbahçe’nin Avrupa zaferleri mercek altında: Başarı ülke ekonomisine yansıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcenin-avrupa-zaferleri-mercek-altinda-basari-ulke-ekonomisine-yansiyor-haberi-837767",
+   "saat": "09:06",
+   "tarih_iso": "2026-08-27T09:06:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-27T09:30:50.059524+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/esnaf-kredilerinde-faiz-destegi-degisti-oranlar-dusuruldu-haberi-837760",
    "baslik": "Esnaf kredilerinde faiz desteği değişti: Oranlar düşürüldü",
@@ -52,6 +78,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-enflasyon-endiseleri-ve-teknoloji-iyimserligi-arasinda-yon-bulmaya-calisiyor/4038684",
+   "baslik": "Küresel piyasalar enflasyon endişeleri ve teknoloji iyimserliği arasında yön bulmaya çalışıyor",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-enflasyon-endiseleri-ve-teknoloji-iyimserligi-arasinda-yon-bulmaya-calisiyor/4038684",
+   "saat": "09:07",
+   "tarih_iso": "2026-08-27T09:07:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T09:30:50.059524+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/petrol-icin-iki-ayri-senaryo-75-dolar-mi-120-dolar-mi-galeri-837765",
    "baslik": "Petrol için iki ayrı senaryo: 75 dolar mı 120 dolar mı?",
@@ -367,5 +403,5 @@
    "eklenme": "2026-08-27T09:01:05.752051+03:00"
   }
  ],
- "guncelleme": "2026-08-27T09:01:05.752051+03:00"
+ "guncelleme": "2026-08-27T09:30:50.059524+03:00"
 }
