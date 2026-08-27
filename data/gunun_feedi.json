@@ -305,6 +305,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/kioxia-japonyada-yeni-hafza-tesisine-627-milyar-dolar-yatrm-yapacak-93CH-4045394",
+   "baslik": "Kioxia Japonya’da yeni hafıza tesisine 6,27 milyar dolar yatırım yapacak",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/kioxia-japonyada-yeni-hafza-tesisine-627-milyar-dolar-yatrm-yapacak-93CH-4045394",
+   "saat": "02:45",
+   "tarih_iso": "2026-08-27T02:45:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T03:30:50.135259+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/abd-ekonomisi-yuzde-1-5-buyudu-enflasyon-gostergesinde-dikkat-ceken-revizyon-3459293",
    "baslik": "ABD ekonomisi yüzde 1,5 büyüdü! Enflasyon göstergesinde dikkat çeken revizyon",
    "kaynak": "CNN Türk Ekonomi",
@@ -516,6 +526,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
+   "baslik": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world’s third-largest energy market",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
+   "saat": "03:21",
+   "tarih_iso": "2026-08-27T03:21:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T03:30:50.135259+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/26/trump-lisa-cook-federal-reserve.html",
+   "baslik": "Fed Gov Lisa Cook’s lawyer fires back at Trump's renewed threat to oust her",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/26/trump-lisa-cook-federal-reserve.html",
+   "saat": "03:15",
+   "tarih_iso": "2026-08-27T03:15:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T03:30:50.135259+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
+   "baslik": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
+   "saat": "03:14",
+   "tarih_iso": "2026-08-27T03:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T03:30:50.135259+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australian-carrier-qantas-fullyear-profit-falls-14-4878063",
    "baslik": "Australian carrier Qantas’ full-year profit falls 14%",
@@ -1685,36 +1725,6 @@
    "tarih_iso": "2026-08-26T18:18:20+03:00",
    "kodlar": [],
    "eklenme": "2026-08-26T19:01:09.587246+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/articles/inflation-ran-little-hotter-expected-144912442.html",
-   "baslik": "Inflation Ran a Little Hotter Than Expected in July",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/articles/inflation-ran-little-hotter-expected-144912442.html",
-   "saat": "17:49",
-   "tarih_iso": "2026-08-26T17:49:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T19:01:09.587246+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/voya-energy-raises-35m-on-metal-fuel-system-launch-93CH-4877514",
-   "baslik": "Voya Energy raises $35M on metal fuel system launch",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/voya-energy-raises-35m-on-metal-fuel-system-launch-93CH-4877514",
-   "saat": "17:40",
-   "tarih_iso": "2026-08-26T17:40:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T18:01:13.179367+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-snap-stock-dropping-today-93CH-4877507",
-   "baslik": "Why is Snap stock dropping today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-snap-stock-dropping-today-93CH-4877507",
-   "saat": "17:38",
-   "tarih_iso": "2026-08-26T17:38:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-26T18:01:13.179367+03:00"
   }
  ],
  "altin_haber": [
@@ -1939,5 +1949,5 @@
    "eklenme": "2026-08-26T09:00:59.537563+03:00"
   }
  ],
- "guncelleme": "2026-08-27T03:01:04.392888+03:00"
+ "guncelleme": "2026-08-27T03:30:50.135259+03:00"
 }
