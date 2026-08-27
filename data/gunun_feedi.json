@@ -2,6 +2,32 @@
  "tarih": "2026-08-27",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202608271617",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:17",
+   "tarih_iso": "2026-08-27T16:17:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202608271614",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "16:14",
+   "tarih_iso": "2026-08-27T16:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
    "id": "kap-my-SDTTR-202608270904",
    "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -16,6 +42,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-27-agustos-2026/4039264",
+   "baslik": "60 saniyede ekonomide bugün (27 Ağustos 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-27-agustos-2026/4039264",
+   "saat": "16:19",
+   "tarih_iso": "2026-08-27T16:19:05+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/gundem/son-dakika-manifest-grubunun-kurucusu-tolga-akis-gozaltina-alindi-haberi-837827",
    "baslik": "Son dakika: Manifest grubunun kurucusu Tolga Akış gözaltına alındı",
@@ -187,6 +225,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-rezervleri-188-4-milyar-dolara-yukseldi-altin-rezervlerinde-guclu-artis-3459821",
+   "baslik": "TCMB rezervleri 188,4 milyar dolara yükseldi! Altın rezervlerinde güçlü artış",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/tcmb-rezervleri-188-4-milyar-dolara-yukseldi-altin-rezervlerinde-guclu-artis-3459821",
+   "saat": "19:53",
+   "tarih_iso": "2026-08-27T19:53:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/bitcoin-hazine-sirketlerinde-buyuk-kayip-80-milyar-dolardan-fazlasi-silindi-3459780",
    "baslik": "Bitcoin hazine şirketlerinde büyük kayıp! 80 milyar dolardan fazlası silindi",
    "kaynak": "CNN Türk Ekonomi",
@@ -205,6 +253,16 @@
    "tarih_iso": "2026-08-27T17:33:46+03:00",
    "kodlar": [],
    "eklenme": "2026-08-27T15:01:02.505517+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/kultur-sanat/8-milyon-dolar-istedi-yarisinin-yarisinin-yarisini-bile-alamayacak-haberi-837836",
+   "baslik": "8 milyon dolar istedi, yarısının yarısının yarısını bile alamayacak!",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/kultur-sanat/8-milyon-dolar-istedi-yarisinin-yarisinin-yarisini-bile-alamayacak-haberi-837836",
+   "saat": "16:44",
+   "tarih_iso": "2026-08-27T16:44:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/fedden-faiz-artisi-mesaji-50-baz-puana-kadar-kapi-acik-haberi-837819",
@@ -359,6 +417,106 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+   "baslik": "Okta skyrockets 20%, CrowdStrike surges 15% as rising AI threat boosts earnings",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+   "saat": "16:59",
+   "tarih_iso": "2026-08-27T16:59:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html",
+   "baslik": "Best Buy beats quarterly estimates and hikes its outlook, but stock falls",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/27/best-buy-bby-q2-2027-earnings.html",
+   "saat": "16:48",
+   "tarih_iso": "2026-08-27T16:48:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-telecom-services-stocks-trading-at-undemanding-valuations-kepler-cheuvreux-93CH-4879591",
+   "baslik": "Top German Telecom Stocks Trading at Undemanding Valuations: Kepler",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-telecom-services-stocks-trading-at-undemanding-valuations-kepler-cheuvreux-93CH-4879591",
+   "saat": "16:42",
+   "tarih_iso": "2026-08-27T16:42:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html",
+   "baslik": "Family offices are making a bullish bet on the stock market, according to CNBC Family Office Portfolio Tracker",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/27/family-offices-making-bullish-bet-on-stocks-according-to-cnbc-tracker.html",
+   "saat": "16:40",
+   "tarih_iso": "2026-08-27T16:40:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/why-figure-could-one-crypto-134000732.html",
+   "baslik": "Why Figure Could Be One of Crypto’s Most Undervalued Stocks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/why-figure-could-one-crypto-134000732.html",
+   "saat": "16:40",
+   "tarih_iso": "2026-08-27T16:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/forget-bloom-energy-stock-207-133500212.html",
+   "baslik": "Forget Bloom Energy Stock at $207 Per Share. Buy This Hydrogen-Focused ETF Instead for Just $43.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-bloom-energy-stock-207-133500212.html",
+   "saat": "16:35",
+   "tarih_iso": "2026-08-27T16:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-twin-earnings-133439422.html",
+   "baslik": "Cybersecurity Stocks Rally on Twin Earnings Beats: Okta Spikes 22%, CrowdStrike Jumps 13%",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-twin-earnings-133439422.html",
+   "saat": "16:34",
+   "tarih_iso": "2026-08-27T16:34:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/demand-signal-underneath-tesla-stocks-133433704.html",
+   "baslik": "The Demand Signal Underneath Tesla Stock's Cash-Burn Debate",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/demand-signal-underneath-tesla-stocks-133433704.html",
+   "saat": "16:34",
+   "tarih_iso": "2026-08-27T16:34:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dicks-sporting-upgraded-trade-desk-134706727.html",
+   "baslik": "First Solar upgraded, Celsius downgraded: Wall Street's top analyst calls",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dicks-sporting-upgraded-trade-desk-134706727.html",
+   "saat": "16:34",
+   "tarih_iso": "2026-08-27T16:34:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-first-solar-stock-rallying-today-93CH-4879556",
+   "baslik": "Why is First Solar stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-first-solar-stock-rallying-today-93CH-4879556",
+   "saat": "16:30",
+   "tarih_iso": "2026-08-27T16:30:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/buying-30-year-bonds-locking-in-todays-rates-could-hurt-your-retirement-planning-4cdcfaca?mod=mw_rss_topstories",
    "baslik": "Buying 30-year bonds? Locking in today’s rates could hurt your retirement planning.",
    "kaynak": "MarketWatch",
@@ -367,6 +525,66 @@
    "tarih_iso": "2026-08-27T16:30:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-27T16:30:53.349785+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-semtech-stock-surging-today-93CH-4879545",
+   "baslik": "Why is Semtech stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-semtech-stock-surging-today-93CH-4879545",
+   "saat": "16:27",
+   "tarih_iso": "2026-08-27T16:27:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/amazon-trades-24x-2027-earnings-132553350.html",
+   "baslik": "Amazon Trades at 24x 2027 Earnings. Citizens Says It Should Be Worth 29x",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/amazon-trades-24x-2027-earnings-132553350.html",
+   "saat": "16:25",
+   "tarih_iso": "2026-08-27T16:25:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bwx-technologies-stock-rallying-today-93CH-4879538",
+   "baslik": "Why is BWX Technologies stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bwx-technologies-stock-rallying-today-93CH-4879538",
+   "saat": "16:24",
+   "tarih_iso": "2026-08-27T16:24:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/talen-energy-corporation-tln-transformed-132238702.html",
+   "baslik": "How Talen Energy Corporation (TLN) Transformed Bankruptcy into a High-Yield Masterclass",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/talen-energy-corporation-tln-transformed-132238702.html",
+   "saat": "16:22",
+   "tarih_iso": "2026-08-27T16:22:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/celsius-holdings-stock-falls-after-deutsche-bank-downgrade-93CH-4879528",
+   "baslik": "Celsius Holdings stock falls after Deutsche Bank downgrade",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/celsius-holdings-stock-falls-after-deutsche-bank-downgrade-93CH-4879528",
+   "saat": "16:21",
+   "tarih_iso": "2026-08-27T16:21:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/first-solar-stock-jumps-on-bmo-upgrade-to-outperform-93CH-4879514",
+   "baslik": "First Solar stock jumps on BMO upgrade to Outperform",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/first-solar-stock-jumps-on-bmo-upgrade-to-outperform-93CH-4879514",
+   "saat": "16:17",
+   "tarih_iso": "2026-08-27T16:17:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tiny-ai-stock-crushed-micron-131500582.html",
@@ -427,6 +645,16 @@
    "tarih_iso": "2026-08-27T16:13:02+03:00",
    "kodlar": [],
    "eklenme": "2026-08-27T16:30:53.349785+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/semtech-stock-jumps-on-northland-upgrade-to-outperform-93CH-4879497",
+   "baslik": "Semtech stock jumps on Northland upgrade to Outperform",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/semtech-stock-jumps-on-northland-upgrade-to-outperform-93CH-4879497",
+   "saat": "16:12",
+   "tarih_iso": "2026-08-27T16:12:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/crowdstrikes-stock-has-jumped-after-record-breaking-earnings-wall-street-is-lapping-it-up-dbdaca83?mod=mw_rss_topstories",
@@ -1387,179 +1615,29 @@
    "tarih_iso": "2026-08-27T07:00:17+03:00",
    "kodlar": [],
    "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/27/japan-startups-ipos-trading-platform-unlisted-companies-.html",
-   "baslik": "Japanese startups, IPOs set for boost with platform to trade unlisted companies",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/27/japan-startups-ipos-trading-platform-unlisted-companies-.html",
-   "saat": "06:41",
-   "tarih_iso": "2026-08-27T06:41:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
-   "baslik": "China industrial profits growth cools to slowest in seven months as economic slowdown deepens",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
-   "saat": "06:22",
-   "tarih_iso": "2026-08-27T06:22:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
-   "baslik": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
-   "saat": "04:01",
-   "tarih_iso": "2026-08-27T04:01:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asian-chip-stocks-rally-after-nvidia-results-reaffirm-ai-spending-boom-4878152",
-   "baslik": "Asian chip stocks rise as Nvidia outlook reinforces AI demand",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asian-chip-stocks-rally-after-nvidia-results-reaffirm-ai-spending-boom-4878152",
-   "saat": "03:49",
-   "tarih_iso": "2026-08-27T03:49:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1",
-   "baslik": "Nvidia projects 70% sales growth next year as it rebuts ‘circular financing’ criticism",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1",
-   "saat": "03:47",
-   "tarih_iso": "2026-08-27T03:47:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
-   "baslik": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
-   "saat": "03:43",
-   "tarih_iso": "2026-08-27T03:43:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/australian-carrier-qantas-fullyear-profit-falls-14-4878063",
-   "baslik": "Qantas upbeat on revenue, brings forward A380 exit as profit falls",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/australian-carrier-qantas-fullyear-profit-falls-14-4878063",
-   "saat": "03:24",
-   "tarih_iso": "2026-08-27T03:24:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
-   "baslik": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world’s third-largest energy market",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/27/india-us-russia-energy-oil-market.html",
-   "saat": "03:21",
-   "tarih_iso": "2026-08-27T03:21:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/26/trump-lisa-cook-federal-reserve.html",
-   "baslik": "Fed Gov Lisa Cook’s lawyer fires back at Trump's renewed threat to oust her",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/26/trump-lisa-cook-federal-reserve.html",
-   "saat": "03:15",
-   "tarih_iso": "2026-08-27T03:15:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
-   "baslik": "Fed’s Lisa Cook denies committing mortgage fraud, says Trump has no grounds to remove her from office",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/feds-lisa-cook-denies-committing-mortgage-fraud-says-trump-has-no-grounds-to-remove-her-from-office-4ea60c9d?mod=mw_rss_topstories",
-   "saat": "03:14",
-   "tarih_iso": "2026-08-27T03:14:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/nvidia-forecasts-quarterly-revenue-above-estimates-4877887",
-   "baslik": "Nvidia forecasts quarterly revenue above estimates, shares rise",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/nvidia-forecasts-quarterly-revenue-above-estimates-4877887",
-   "saat": "03:13",
-   "tarih_iso": "2026-08-27T03:13:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/nvidia-bounce-shows-wall-streets-ai-obsession-is-far-from-over-4878000",
-   "baslik": "Nvidia stock jumps after early dip following results; AI fever is unabated",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/nvidia-bounce-shows-wall-streets-ai-obsession-is-far-from-over-4878000",
-   "saat": "03:12",
-   "tarih_iso": "2026-08-27T03:12:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/hp-forecasts-strong-fourthquarter-profit-on-price-hikes-us-tariff-refunds-4877860",
-   "baslik": "HP’s PC shipments drop overshadows strong revenue growth, shares slide",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/hp-forecasts-strong-fourthquarter-profit-on-price-hikes-us-tariff-refunds-4877860",
-   "saat": "02:42",
-   "tarih_iso": "2026-08-27T02:42:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
-   "baslik": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
-   "saat": "01:50",
-   "tarih_iso": "2026-08-27T01:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-   "baslik": "Nvidia revenue doubles on continued AI demand",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-   "saat": "00:49",
-   "tarih_iso": "2026-08-27T00:49:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
-   "baslik": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
-   "saat": "21:16",
-   "tarih_iso": "2026-08-26T21:16:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/26/fed-survey-warsh-economy-view.html",
-   "baslik": "Economists want Warsh to share more on his view of the economy at Jackson Hole, says CNBC survey",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/26/fed-survey-warsh-economy-view.html",
-   "saat": "20:02",
-   "tarih_iso": "2026-08-26T20:02:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T09:01:05.752051+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.cnnturk.com/ekonomi/tcmb-rezervleri-188-4-milyar-dolara-yukseldi-altin-rezervlerinde-guclu-artis-3459821",
+   "baslik": "TCMB rezervleri 188,4 milyar dolara yükseldi! Altın rezervlerinde güçlü artış",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/tcmb-rezervleri-188-4-milyar-dolara-yukseldi-altin-rezervlerinde-guclu-artis-3459821",
+   "saat": "19:53",
+   "tarih_iso": "2026-08-27T19:53:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-bulls-cautious-ahead-of-jackson-hole-4550-or-4650-200686674",
+   "baslik": "Gold Bulls Cautious Ahead of Jackson Hole: $4.550 or $4.650?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-bulls-cautious-ahead-of-jackson-hole-4550-or-4650-200686674",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-27T17:01:04.199354+03:00"
+  },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/gelecek-tek-mesaj-altinin-yonunu-degistirebilir-gozler-cuma-gununde-galeri-837824",
    "baslik": "Gelecek tek mesaj altının yönünü değiştirebilir: Gözler cuma gününde",
@@ -1711,5 +1789,5 @@
    "eklenme": "2026-08-27T09:01:05.752051+03:00"
   }
  ],
- "guncelleme": "2026-08-27T16:30:53.349785+03:00"
+ "guncelleme": "2026-08-27T17:01:04.199354+03:00"
 }
