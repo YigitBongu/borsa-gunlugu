@@ -17,6 +17,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/garanti-bbva-emeklilik-bes-fonu-yuzde-18-buyudu-3908462-ekonomi",
+   "baslik": "Garanti BBVA Emeklilik BES fonu yüzde 18 büyüdü",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/garanti-bbva-emeklilik-bes-fonu-yuzde-18-buyudu-3908462-ekonomi",
+   "saat": "11:46",
+   "tarih_iso": "2026-08-27T11:46:24+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-08-27T12:01:03.167543+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/borsada-sampiyonlar-ligi-coskusu-3908443-ekonomi",
    "baslik": "Borsada Şampiyonlar Ligi coşkusu",
    "kaynak": "Habertürk Ekonomi",
@@ -218,6 +230,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-asta-energy-stock-surging-today-93CH-4878605",
+   "baslik": "Why is Asta Energy stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-asta-energy-stock-surging-today-93CH-4878605",
+   "saat": "11:45",
+   "tarih_iso": "2026-08-27T11:45:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T12:01:03.167543+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/crowdstrike-shares-jump-on-earnings-beat-raised-outlook-4877850",
+   "baslik": "CrowdStrike shares jump 8% premarket after earnings beat, raised outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/crowdstrike-shares-jump-on-earnings-beat-raised-outlook-4877850",
+   "saat": "11:40",
+   "tarih_iso": "2026-08-27T11:40:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T12:01:03.167543+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/salesforce-jumps-11-following-earnings-blowout-and-upgraded-outlook-4877830",
+   "baslik": "Salesforce jumps 11% following earnings blowout and upgraded outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/salesforce-jumps-11-following-earnings-blowout-and-upgraded-outlook-4877830",
+   "saat": "11:38",
+   "tarih_iso": "2026-08-27T11:38:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T12:01:03.167543+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/ozempic-maker-novo-nordisk-downgraded-to-sell-after-70-stock-price-dive-from-peak-90193914?mod=mw_rss_topstories",
+   "baslik": "Ozempic maker Novo Nordisk downgraded to sell after 70% stock-price dive from peak",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/ozempic-maker-novo-nordisk-downgraded-to-sell-after-70-stock-price-dive-from-peak-90193914?mod=mw_rss_topstories",
+   "saat": "11:37",
+   "tarih_iso": "2026-08-27T11:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T12:01:03.167543+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-131-4878568",
+   "baslik": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.31%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-131-4878568",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-27T11:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T12:01:03.167543+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
    "baslik": "Nvidia jumps 7% in after blockbuster earnings boost AI confidence",
@@ -631,5 +693,5 @@
    "eklenme": "2026-08-27T09:01:05.752051+03:00"
   }
  ],
- "guncelleme": "2026-08-27T11:30:52.734692+03:00"
+ "guncelleme": "2026-08-27T12:01:03.167543+03:00"
 }
