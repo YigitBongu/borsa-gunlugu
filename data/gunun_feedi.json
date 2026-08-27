@@ -147,6 +147,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/esnaf-kredilerinde-faiz-destegi-degisti-oranlar-dusuruldu-haberi-837760",
+   "baslik": "Esnaf kredilerinde faiz desteği değişti: Oranlar düşürüldü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/esnaf-kredilerinde-faiz-destegi-degisti-oranlar-dusuruldu-haberi-837760",
+   "saat": "07:56",
+   "tarih_iso": "2026-08-27T07:56:00+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-27T08:01:01.087246+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/18-yil-sonra-bir-ilk-sampiyonlar-liginde-iki-turk-takimi-mucadele-edecek-haberi-837752",
    "baslik": "18 yıl sonra bir ilk: Şampiyonlar Ligi'nde iki Türk takımı mücadele edecek",
    "kaynak": "Dünya",
@@ -304,6 +316,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-27-agustos-persembe-doviz-kurlari-haberi-837757",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (27 Ağustos Perşembe Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-27-agustos-persembe-doviz-kurlari-haberi-837757",
+   "saat": "07:29",
+   "tarih_iso": "2026-08-27T07:29:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T08:01:01.087246+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlari-yeniden-yukseliste-gozler-fed-baskani-warshta-galeri-837756",
+   "baslik": "Altın fiyatları yeniden yükselişte: Gözler Fed Başkanı Warsh’ta",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlari-yeniden-yukseliste-gozler-fed-baskani-warshta-galeri-837756",
+   "saat": "07:22",
+   "tarih_iso": "2026-08-27T07:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T08:01:01.087246+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/kioxia-japonyada-yeni-hafza-tesisine-627-milyar-dolar-yatrm-yapacak-93CH-4045394",
    "baslik": "Kioxia Japonya’da yeni hafıza tesisine 6,27 milyar dolar yatırım yapacak",
@@ -1729,6 +1761,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlari-yeniden-yukseliste-gozler-fed-baskani-warshta-galeri-837756",
+   "baslik": "Altın fiyatları yeniden yükselişte: Gözler Fed Başkanı Warsh’ta",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlari-yeniden-yukseliste-gozler-fed-baskani-warshta-galeri-837756",
+   "saat": "07:22",
+   "tarih_iso": "2026-08-27T07:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T08:01:01.087246+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/uzman-isim-altinda-kritik-seviyeleri-ve-yil-sonu-beklentisini-anlatti-gram-altin-yeniden-8-bin-tl-olur-mu-3459400",
    "baslik": "Uzman isim altında kritik seviyeleri ve yıl sonu beklentisini anlattı: Gram altın yeniden 8 bin TL olur mu?",
    "kaynak": "CNN Türk Ekonomi",
@@ -1949,5 +1991,5 @@
    "eklenme": "2026-08-26T09:00:59.537563+03:00"
   }
  ],
- "guncelleme": "2026-08-27T07:30:52.033621+03:00"
+ "guncelleme": "2026-08-27T08:01:01.087246+03:00"
 }
