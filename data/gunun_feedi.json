@@ -17,6 +17,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/borsada-sampiyonlar-ligi-coskusu-3908443-ekonomi",
+   "baslik": "Borsada Şampiyonlar Ligi coşkusu",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/borsada-sampiyonlar-ligi-coskusu-3908443-ekonomi",
+   "saat": "10:50",
+   "tarih_iso": "2026-08-27T10:50:04+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-27T11:00:58.437669+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/sampiyonlar-liginde-kura-gunu-galatasaray-ve-fenerbahce-3-torbada-haberi-837779",
+   "baslik": "Şampiyonlar Ligi’nde kura günü: Galatasaray ve Fenerbahçe 3. torbada",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/sampiyonlar-liginde-kura-gunu-galatasaray-ve-fenerbahce-3-torbada-haberi-837779",
+   "saat": "10:41",
+   "tarih_iso": "2026-08-27T10:41:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-27T11:00:58.437669+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-lyonu-eledi-turkiyenin-uefa-ulke-puani-yukseldi-haberi-837774",
    "baslik": "Fenerbahçe Lyon’u eledi, Türkiye’nin UEFA ülke puanı yükseldi",
    "kaynak": "Dünya",
@@ -103,6 +127,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/turkiye-ile-suriye-ticaretinde-yeni-hedef-10-milyar-dolar-haberi-837781",
+   "baslik": "Türkiye ile Suriye ticaretinde yeni hedef: 10 milyar dolar",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/turkiye-ile-suriye-ticaretinde-yeni-hedef-10-milyar-dolar-haberi-837781",
+   "saat": "10:54",
+   "tarih_iso": "2026-08-27T10:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T11:00:58.437669+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-destekli-esnaf-ve-sanatkar-kredi-faizlerine-duzenleme/4038750",
    "baslik": "Hazine destekli esnaf ve sanatkar kredi faizlerine düzenleme",
    "kaynak": "AA Ekonomi",
@@ -184,6 +218,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-verve-stock-plunging-today-93CH-4878482",
+   "baslik": "Why is Verve stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-verve-stock-plunging-today-93CH-4878482",
+   "saat": "10:50",
+   "tarih_iso": "2026-08-27T10:50:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-27T11:00:58.437669+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/london-shares-pull-back-as-easing-middle-east-oil-panic-trims-energy-majors-4878458",
    "baslik": "London shares pull back as easing Middle east oil panic trims energy majors",
@@ -527,5 +571,5 @@
    "eklenme": "2026-08-27T09:01:05.752051+03:00"
   }
  ],
- "guncelleme": "2026-08-27T10:30:54.393323+03:00"
+ "guncelleme": "2026-08-27T11:00:58.437669+03:00"
 }
