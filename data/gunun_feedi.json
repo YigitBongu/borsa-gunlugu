@@ -2,6 +2,58 @@
  "tarih": "2026-08-28",
  "kap": [
   {
+   "id": "kap-my-ALBRK-202608281643",
+   "baslik": "BEREKET VARLIK KİRALAMA A.Ş. — İhraç Belgesi",
+   "sirket": "BEREKET VARLIK KİRALAMA A.Ş.",
+   "kodlar": [
+    "ALBRK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:43",
+   "tarih_iso": "2026-08-28T16:43:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
+  {
+   "id": "kap-my-ALBRK-202608281641",
+   "baslik": "BEREKET VARLIK KİRALAMA A.Ş. — İhraç Tavanına İlişkin Bildirim",
+   "sirket": "BEREKET VARLIK KİRALAMA A.Ş.",
+   "kodlar": [
+    "ALBRK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:41",
+   "tarih_iso": "2026-08-28T16:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
+  {
+   "id": "kap-my-SDTTR-202608281638",
+   "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "16:38",
+   "tarih_iso": "2026-08-28T16:38:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
+  {
+   "id": "kap-my-SDTTR-202608281634",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:34",
+   "tarih_iso": "2026-08-28T16:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
+  {
    "id": "kap-my-SDTTR-202608281534",
    "baslik": "JCR AVRASYA DERECELENDİRME A.Ş. — Kredi Derecelendirmesi",
    "sirket": "JCR AVRASYA DERECELENDİRME A.Ş.",
@@ -55,6 +107,42 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/son-dakika-manifest-grubunun-yapimcisi-tolga-akis-tutuklandi-haberi-837950",
+   "baslik": "Son dakika: Manifest grubunun yapımcısı Tolga Akış tutuklandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/son-dakika-manifest-grubunun-yapimcisi-tolga-akis-tutuklandi-haberi-837950",
+   "saat": "16:43",
+   "tarih_iso": "2026-08-28T16:43:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/devler-liginde-milyarlik-kura-temsilcilerimizi-dev-butceli-rakipler-bekliyor-haberi-837951",
+   "baslik": "Devler Ligi’nde milyarlık kura: Temsilcilerimizi dev bütçeli rakipler bekliyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/devler-liginde-milyarlik-kura-temsilcilerimizi-dev-butceli-rakipler-bekliyor-haberi-837951",
+   "saat": "16:42",
+   "tarih_iso": "2026-08-28T16:42:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/guler-sabanci-yeni-donemde-bayragi-rana-tutcuoglu-devraliyor-3908781-ekonomi",
+   "baslik": "“Yeni dönemde bayrağı Rana Tutcuoğlu devralıyor”",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/guler-sabanci-yeni-donemde-bayragi-rana-tutcuoglu-devraliyor-3908781-ekonomi",
+   "saat": "16:40",
+   "tarih_iso": "2026-08-28T16:40:26+03:00",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/sisecam-artege-50-yasinda-cam-artik-sadece-bir-urun-olmayacak-3908669-ekonomi",
    "baslik": "Cam artık sadece bir ürün olmayacak",
@@ -285,6 +373,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-names-its-top-european-financial-stock-picks-93CH-4881464",
+   "baslik": "UBS Names its Top European Financial Stock Picks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-names-its-top-european-financial-stock-picks-93CH-4881464",
+   "saat": "16:51",
+   "tarih_iso": "2026-08-28T16:51:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-biontech-stock-sliding-today-93CH-4881468",
+   "baslik": "Why is BioNTech stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-biontech-stock-sliding-today-93CH-4881468",
+   "saat": "16:51",
+   "tarih_iso": "2026-08-28T16:51:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/will-freeportmcmorans-fcx-stock-record-run-continue-93CH-4881465",
+   "baslik": "Will Freeport-McMoRan’s (FCX) stock record run continue?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/will-freeportmcmorans-fcx-stock-record-run-continue-93CH-4881465",
+   "saat": "16:50",
+   "tarih_iso": "2026-08-28T16:50:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-street-opens-subdued-ahead-of-warshs-speech-4881436",
+   "baslik": "Wall Street opens subdued ahead of Warsh’s speech",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-street-opens-subdued-ahead-of-warshs-speech-4881436",
+   "saat": "16:36",
+   "tarih_iso": "2026-08-28T16:36:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/starbucks-investors-push-to-split-chair-and-ceo-roles-held-by-niccol-4881400",
+   "baslik": "Starbucks investors push to split chair and CEO roles held by Niccol",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/starbucks-investors-push-to-split-chair-and-ceo-roles-held-by-niccol-4881400",
+   "saat": "16:26",
+   "tarih_iso": "2026-08-28T16:26:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/elastic-hits-52week-high-on-earnings-beat-lock-in-gains-or-ride-the-rally-93CH-4881383",
+   "baslik": "Elastic hits 52-week high on earnings beat: Lock in gains or ride the rally?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/elastic-hits-52week-high-on-earnings-beat-lock-in-gains-or-ride-the-rally-93CH-4881383",
+   "saat": "16:23",
+   "tarih_iso": "2026-08-28T16:23:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T17:01:03.602348+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
    "baslik": "Jim Cramer's top 10 things to watch in the stock market Friday",
@@ -1408,5 +1556,5 @@
    "eklenme": "2026-08-28T09:01:07.377662+03:00"
   }
  ],
- "guncelleme": "2026-08-28T16:30:52.669378+03:00"
+ "guncelleme": "2026-08-28T17:01:03.602348+03:00"
 }
