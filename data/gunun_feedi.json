@@ -2,6 +2,71 @@
  "tarih": "2026-08-28",
  "kap": [
   {
+   "id": "kap-my-MIATK-202608281844",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Esas Sözleşme Tadili",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Yeni İş / Sözleşme",
+   "saat": "18:44",
+   "tarih_iso": "2026-08-28T18:44:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
+   "id": "kap-my-MIATK-202608281841",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Bağımsız Denetim Kuruluşunun Belirlenmesi",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:41",
+   "tarih_iso": "2026-08-28T18:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
+   "id": "kap-my-MIATK-202608281840",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Birleşme İşlemlerine İlişkin Bildirim",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Birleşme / Devralma",
+   "saat": "18:40",
+   "tarih_iso": "2026-08-28T18:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
+   "id": "kap-my-AHGAZ-202608281833",
+   "baslik": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:33",
+   "tarih_iso": "2026-08-28T18:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
+   "id": "kap-my-MIATK-202608281827",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Ayrılma Hakkı Kullanımına İlişkin Bildirim",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:27",
+   "tarih_iso": "2026-08-28T18:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202608281730",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -160,6 +225,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/yapi-kredi-emekli-nakit-promosyon-agustos-2026-yapi-kredi-banka-emekli-maas-promosyonu-ne-kadar-3460256",
+   "baslik": "YAPI KREDİ EMEKLİ NAKİT PROMOSYON AĞUSTOS 2026: Yapı Kredi banka emekli maaş promosyonu ne kadar?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/yapi-kredi-emekli-nakit-promosyon-agustos-2026-yapi-kredi-banka-emekli-maas-promosyonu-ne-kadar-3460256",
+   "saat": "00:39",
+   "tarih_iso": "2026-08-29T00:39:15+03:00",
+   "kodlar": [
+    "YKBNK"
+   ],
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-ganali-stoper-oppongu-kadrosuna-katti-haberi-837982",
+   "baslik": "Fenerbahçe, Ganalı stoper Oppong'u kadrosuna kattı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-ganali-stoper-oppongu-kadrosuna-katti-haberi-837982",
+   "saat": "22:13",
+   "tarih_iso": "2026-08-28T22:13:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/son-dakika-manifest-grubunun-yapimcisi-tolga-akis-tutuklandi-haberi-837950",
    "baslik": "Son dakika: Manifest grubunun yapımcısı Tolga Akış tutuklandı",
    "kaynak": "Dünya",
@@ -306,6 +395,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/enflasyon-rakamlari-beklentisi-agustos-2026-agustos-ayi-enflasyon-oranlari-ne-zaman-aciklanacak-tufe-enflasyon-beklentisi-nedir-3460255",
+   "baslik": "ENFLASYON RAKAMLARI BEKLENTİSİ AĞUSTOS 2026: Ağustos ayı enflasyon oranları ne zaman açıklanacak? TÜFE enflasyon beklentisi nedir?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/enflasyon-rakamlari-beklentisi-agustos-2026-agustos-ayi-enflasyon-oranlari-ne-zaman-aciklanacak-tufe-enflasyon-beklentisi-nedir-3460255",
+   "saat": "00:15",
+   "tarih_iso": "2026-08-29T00:15:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/gumus-iki-ayin-zirvesine-cikti-gozler-fed-baskani-warshin-mesajlarinda-3460157",
    "baslik": "Gümüş iki ayın zirvesine çıktı! Gözler Fed Başkanı Warsh’ın mesajlarında",
    "kaynak": "CNN Türk Ekonomi",
@@ -314,6 +413,16 @@
    "tarih_iso": "2026-08-28T19:06:23+03:00",
    "kodlar": [],
    "eklenme": "2026-08-28T16:30:52.669378+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-enflasyon-hedefe-dogru-ilerlemezse-yapacak-isleri-oldugunu-soyledi/4040416",
+   "baslik": "Fed Başkanı Warsh, enflasyon hedefe doğru ilerlemezse \"yapacak işleri olduğunu\" söyledi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-enflasyon-hedefe-dogru-ilerlemezse-yapacak-isleri-oldugunu-soyledi/4040416",
+   "saat": "18:46",
+   "tarih_iso": "2026-08-28T18:46:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/fed-baskani-warshdan-jackson-holeda-kritik-mesajlar-yuzde-2lik-enflasyon-hedefi-esnetilemez-haberi-837955",
@@ -447,6 +556,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
+   "baslik": "Nvidia’s revenue forecast is so huge that Wall Street wonders if SpaceX is the reason",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidias-revenue-forecast-is-so-huge-that-wall-street-wonders-if-spacex-is-the-reason-1ee7a8a9?mod=mw_rss_topstories",
+   "saat": "23:58",
+   "tarih_iso": "2026-08-28T23:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pentagon-in-talks-for-venezuelan-oil-fields-deal-through-middleman--bloomberg-4881821",
+   "baslik": "Pentagon in talks for Venezuelan oil fields deal through middleman - Bloomberg",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pentagon-in-talks-for-venezuelan-oil-fields-deal-through-middleman--bloomberg-4881821",
+   "saat": "23:37",
+   "tarih_iso": "2026-08-28T23:37:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-002-4881810",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.02%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-002-4881810",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-28T23:30:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-076-4881809",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.76%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-076-4881809",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-28T23:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-030-4881807",
+   "baslik": "Brazil stocks higher at close of trade; Bovespa up 0.30%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-030-4881807",
+   "saat": "23:30",
+   "tarih_iso": "2026-08-28T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pinterest-stock-falls-as-cfo-julia-donnelly-resigns-4881805",
+   "baslik": "Pinterest stock falls as CFO Julia Donnelly resigns",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pinterest-stock-falls-as-cfo-julia-donnelly-resigns-4881805",
+   "saat": "23:26",
+   "tarih_iso": "2026-08-28T23:26:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/bond-market-may-be-pricing-ai-productivity-gains-as-yields-rise-jpmorgan-private-bank-4881791",
    "baslik": "Bond market may be pricing AI productivity gains as yields rise: JPMorgan Private Bank",
@@ -1088,6 +1257,16 @@
    "eklenme": "2026-08-28T19:30:52.611009+03:00"
   },
   {
+   "id": "yab-https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
+   "baslik": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
+   "saat": "19:11",
+   "tarih_iso": "2026-08-28T19:11:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-29T00:02:16.468254+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/two-dollar-stores-beat-sales-161134200.html",
    "baslik": "Two Dollar Stores Beat on Sales. Only One Got Punished, and Cramer Says This Is Why.",
    "kaynak": "Yahoo Finance",
@@ -1576,76 +1755,6 @@
    "tarih_iso": "2026-08-28T17:37:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-28T18:01:07.052136+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/marvell-crowdstrike-among-market-cap-stock-movers-on-friday-93CH-4881577",
-   "baslik": "Marvell, Crowdstrike among market cap stock movers on Friday",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/marvell-crowdstrike-among-market-cap-stock-movers-on-friday-93CH-4881577",
-   "saat": "17:36",
-   "tarih_iso": "2026-08-28T17:36:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-28T18:01:07.052136+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/im-not-selling-exxonmobil-even-143500125.html",
-   "baslik": "I'm Not Selling ExxonMobil, Even With Oil Prices Where They Are",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/im-not-selling-exxonmobil-even-143500125.html",
-   "saat": "17:35",
-   "tarih_iso": "2026-08-28T17:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-28T18:01:07.052136+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/affirm-stock-analysis-strong-earnings-but-rich-valuation-93CH-4881571",
-   "baslik": "Affirm stock analysis: strong earnings but rich valuation",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/affirm-stock-analysis-strong-earnings-but-rich-valuation-93CH-4881571",
-   "saat": "17:32",
-   "tarih_iso": "2026-08-28T17:32:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-28T18:01:07.052136+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-moderna-stock-sliding-today-93CH-4881569",
-   "baslik": "Why is Moderna stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-sliding-today-93CH-4881569",
-   "saat": "17:31",
-   "tarih_iso": "2026-08-28T17:31:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-28T18:01:07.052136+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-palantir-one-clearer-143053722.html",
-   "baslik": "Nvidia vs. Palantir: One Is the Clearer Buy After Earnings",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-palantir-one-clearer-143053722.html",
-   "saat": "17:30",
-   "tarih_iso": "2026-08-28T17:30:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-28T18:01:07.052136+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/t-stocks-margin-hit-multi-143026501.html",
-   "baslik": "AT&T Stock's Margin Hit A Multi-Year Best As Its Copper Network Winds Down",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/t-stocks-margin-hit-multi-143026501.html",
-   "saat": "17:30",
-   "tarih_iso": "2026-08-28T17:30:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-28T18:01:07.052136+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/mizuho-is-bullish-on-broadcom-ahead-of-sept-2-earnings-citing-30quarter-streak-4881564",
-   "baslik": "Mizuho is bullish on Broadcom ahead of Sept. 2 earnings, citing 30-quarter streak",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/mizuho-is-bullish-on-broadcom-ahead-of-sept-2-earnings-citing-30quarter-streak-4881564",
-   "saat": "17:30",
-   "tarih_iso": "2026-08-28T17:30:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-28T18:01:07.052136+03:00"
   }
  ],
  "altin_haber": [
@@ -1910,5 +2019,5 @@
    "eklenme": "2026-08-28T09:01:07.377662+03:00"
   }
  ],
- "guncelleme": "2026-08-28T23:30:55.471949+03:00"
+ "guncelleme": "2026-08-29T00:02:16.468254+03:00"
 }
