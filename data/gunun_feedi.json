@@ -30,6 +30,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/yapay-zeka-ile-tam-otonom-aglar-donemi-3908704-teknoloji",
+   "baslik": "Yapay zeka ile tam otonom ağlar dönemi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/yapay-zeka-ile-tam-otonom-aglar-donemi-3908704-teknoloji",
+   "saat": "11:50",
+   "tarih_iso": "2026-08-28T11:50:05+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-08-28T12:01:12.780092+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sektorler/bilim-ve-teknoloji/turk-telekomdan-sektore-yon-veren-oncu-hamle-yapay-zeka-ile-tam-otonom-aglar-donemi-haberi-837920",
+   "baslik": "Türk Telekom’dan sektöre yön veren öncü hamle: Yapay zeka ile tam otonom ağlar dönemi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sektorler/bilim-ve-teknoloji/turk-telekomdan-sektore-yon-veren-oncu-hamle-yapay-zeka-ile-tam-otonom-aglar-donemi-haberi-837920",
+   "saat": "11:29",
+   "tarih_iso": "2026-08-28T11:29:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-08-28T12:01:12.780092+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/yeo-teknoloji-azerenerji-ile-954-milyon-dolarlik-sozlesme-imzaladi-haberi-837901",
    "baslik": "Yeo Teknoloji, Azerenerji ile 9,54 milyon dolarlık sözleşme imzaladı",
    "kaynak": "Dünya",
@@ -163,6 +187,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/miniso-reports-second-quarter-revenue-meets-analyst-forecasts-93CH-4880734",
+   "baslik": "Miniso reports second quarter revenue meets analyst forecasts",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/miniso-reports-second-quarter-revenue-meets-analyst-forecasts-93CH-4880734",
+   "saat": "11:40",
+   "tarih_iso": "2026-08-28T11:40:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T12:01:12.780092+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-paypal-stock-plunging-today-93CH-4880729",
+   "baslik": "Why is PayPal stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-paypal-stock-plunging-today-93CH-4880729",
+   "saat": "11:38",
+   "tarih_iso": "2026-08-28T11:38:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T12:01:12.780092+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-001-4880699",
+   "baslik": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.01%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-001-4880699",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-28T11:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T12:01:12.780092+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-tumbling-today-93CH-4880696",
+   "baslik": "Why is Marvell Technology stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-marvell-technology-stock-tumbling-today-93CH-4880696",
+   "saat": "11:28",
+   "tarih_iso": "2026-08-28T11:28:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T12:01:12.780092+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/three-eu-apparel-stocks-to-consider-according-to-jpmorgan-93CH-4880694",
+   "baslik": "Three EU apparel stocks to consider, according to JPMorgan",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/three-eu-apparel-stocks-to-consider-according-to-jpmorgan-93CH-4880694",
+   "saat": "11:24",
+   "tarih_iso": "2026-08-28T11:24:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T12:01:12.780092+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
    "baslik": "Treasury yields tread water with all eyes on Kevin Warsh's Jackson Hole keynote speech",
@@ -736,5 +810,5 @@
    "eklenme": "2026-08-28T09:01:07.377662+03:00"
   }
  ],
- "guncelleme": "2026-08-28T11:30:50.695401+03:00"
+ "guncelleme": "2026-08-28T12:01:12.780092+03:00"
 }
