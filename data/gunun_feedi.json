@@ -2,6 +2,19 @@
  "tarih": "2026-08-28",
  "kap": [
   {
+   "id": "kap-my-HALKB-202608281412",
+   "baslik": "TÜRKİYE HALK BANKASI A.Ş. — Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+   "sirket": "TÜRKİYE HALK BANKASI A.Ş.",
+   "kodlar": [
+    "HALKB"
+   ],
+   "kategori": "Sermaye",
+   "saat": "14:12",
+   "tarih_iso": "2026-08-28T14:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-28T14:30:53.841566+03:00"
+  },
+  {
    "id": "kap-my-YEOTK-202608280900",
    "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Yeni İş İlişkisi",
    "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
@@ -128,6 +141,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/dunya/yunanistandan-israile-31-milyar-euroluk-savunma-hamlesi-haberi-837940",
+   "baslik": "Yunanistan'dan İsrail'e 3,1 milyar Euro'luk savunma hamlesi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/yunanistandan-israile-31-milyar-euroluk-savunma-hamlesi-haberi-837940",
+   "saat": "14:02",
+   "tarih_iso": "2026-08-28T14:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T14:30:53.841566+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/ekonomistlerin-tcmb-faiz-beklentileri-netlesti-haberi-837936",
    "baslik": "Ekonomistlerin TCMB faiz beklentileri netleşti",
    "kaynak": "Dünya",
@@ -219,6 +242,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/how-bank-of-america-and-three-other-lenders-could-win-big-from-scott-bessents-and-kevin-warshs-bond-market-mechanations-4e56b581?mod=mw_rss_topstories",
+   "baslik": "How Bank of America and three other lenders could win big from Scott Bessent’s and Kevin Warsh’s bond-market mechanations",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/how-bank-of-america-and-three-other-lenders-could-win-big-from-scott-bessents-and-kevin-warshs-bond-market-mechanations-4e56b581?mod=mw_rss_topstories",
+   "saat": "14:18",
+   "tarih_iso": "2026-08-28T14:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T14:30:53.841566+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/paypals-stock-sinks-as-suitors-reportedly-walk-away-from-their-takeover-bid-b943e5ec?mod=mw_rss_topstories",
+   "baslik": "PayPal’s stock sinks as suitors reportedly walk away from their takeover bid",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/paypals-stock-sinks-as-suitors-reportedly-walk-away-from-their-takeover-bid-b943e5ec?mod=mw_rss_topstories",
+   "saat": "14:10",
+   "tarih_iso": "2026-08-28T14:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T14:30:53.841566+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/marvell-shares-slide-as-concerns-over-timing-of-google-ai-deal-revenue-eclipse-strong-results-4880940",
+   "baslik": "Marvell shares slide as concerns over timing of Google AI deal revenue eclipse strong results",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/marvell-shares-slide-as-concerns-over-timing-of-google-ai-deal-revenue-eclipse-strong-results-4880940",
+   "saat": "14:00",
+   "tarih_iso": "2026-08-28T14:00:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T14:30:53.841566+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/28/navy-blockade-iran-oil-exports-sanctions-trump.html",
    "baslik": "U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare",
@@ -1042,5 +1095,5 @@
    "eklenme": "2026-08-28T09:01:07.377662+03:00"
   }
  ],
- "guncelleme": "2026-08-28T14:01:03.279048+03:00"
+ "guncelleme": "2026-08-28T14:30:53.841566+03:00"
 }
