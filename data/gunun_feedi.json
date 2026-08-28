@@ -2,6 +2,19 @@
  "tarih": "2026-08-28",
  "kap": [
   {
+   "id": "kap-my-YEOTK-202608280900",
+   "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:00",
+   "tarih_iso": "2026-08-28T09:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-28T09:30:52.727878+03:00"
+  },
+  {
    "id": "kap-my-BIMAS-202608271921",
    "baslik": "BİM BİRLEŞİK MAĞAZALAR A.Ş. — Kredi Derecelendirmesi",
    "sirket": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
@@ -16,6 +29,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/sirketler/yeo-teknoloji-azerenerji-ile-954-milyon-dolarlik-sozlesme-imzaladi-haberi-837901",
+   "baslik": "Yeo Teknoloji, Azerenerji ile 9,54 milyon dolarlık sözleşme imzaladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/yeo-teknoloji-azerenerji-ile-954-milyon-dolarlik-sozlesme-imzaladi-haberi-837901",
+   "saat": "09:10",
+   "tarih_iso": "2026-08-28T09:10:00+03:00",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "eklenme": "2026-08-28T09:30:52.727878+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/halkbank-ikincil-halka-arz-icin-spk-ya-basvurdu-3908626-ekonomi",
    "baslik": "Halkbank ikincil halka arz için SPK'ya başvurdu",
@@ -66,6 +91,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-dikkatler-fed-baskani-warshun-jackson-holeda-yapacagi-konusmaya-cevrildi/4039743",
+   "baslik": "Küresel piyasalarda dikkatler Fed Başkanı Warsh'un Jackson Hole'da yapacağı konuşmaya çevrildi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-dikkatler-fed-baskani-warshun-jackson-holeda-yapacagi-konusmaya-cevrildi/4039743",
+   "saat": "09:12",
+   "tarih_iso": "2026-08-28T09:12:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T09:30:52.727878+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-28-agustos-cuma-doviz-kurlari-haberi-837892",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (28 Ağustos Cuma Döviz Kurları)",
@@ -521,5 +556,5 @@
    "eklenme": "2026-08-28T09:01:07.377662+03:00"
   }
  ],
- "guncelleme": "2026-08-28T09:01:07.377662+03:00"
+ "guncelleme": "2026-08-28T09:30:52.727878+03:00"
 }
