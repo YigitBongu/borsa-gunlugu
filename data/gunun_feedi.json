@@ -95,6 +95,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/halkbank-ikincil-halka-arz-icin-spk-ya-basvurdu-3908626-ekonomi",
+   "baslik": "Halkbank ikincil halka arz için SPK'ya başvurdu",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/halkbank-ikincil-halka-arz-icin-spk-ya-basvurdu-3908626-ekonomi",
+   "saat": "07:32",
+   "tarih_iso": "2026-08-28T07:32:36+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-08-28T08:01:06.960907+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/akbank-emekli-promosyonu-agustos-2026-akbank-emeklilere-ne-kadar-promosyon-oduyor-akbank-emeklilere-kac-tl-promosyon-odemesi-yapiyor-3459907",
    "baslik": "AKBANK EMEKLİ PROMOSYONU AĞUSTOS 2026: Akbank emeklilere ne kadar promosyon ödüyor? Akbank emeklilere kaç TL promosyon ödemesi yapıyor?",
    "kaynak": "CNN Türk Ekonomi",
@@ -348,6 +360,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-28-agustos-cuma-doviz-kurlari-haberi-837892",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (28 Ağustos Cuma Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-28-agustos-cuma-doviz-kurlari-haberi-837892",
+   "saat": "07:30",
+   "tarih_iso": "2026-08-28T07:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T08:01:06.960907+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-eylul-2026-fed-faiz-karari-saat-kacta-belli-olacak-3459924",
    "baslik": "FED FAİZ KARARI NE ZAMAN AÇIKLANACAK? Eylül 2026 FED faiz kararı saat kaçta belli olacak?",
@@ -620,6 +642,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/virgin-australia-to-trim-capacity-after-profit-beat-sees-stronger-revenue-4880340",
+   "baslik": "Virgin Australia to trim domestic capacity in line with Qantas, expects revenue gains",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/virgin-australia-to-trim-capacity-after-profit-beat-sees-stronger-revenue-4880340",
+   "saat": "07:24",
+   "tarih_iso": "2026-08-28T07:24:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T08:01:06.960907+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/5-above-30-mtd-q2-earnings-kept-these-aipicked-breakouts-climbing-this-week-4880482",
+   "baslik": "5 above 30% MTD: Q2 earnings kept these AI-picked breakouts climbing this week",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/5-above-30-mtd-q2-earnings-kept-these-aipicked-breakouts-climbing-this-week-4880482",
+   "saat": "07:21",
+   "tarih_iso": "2026-08-28T07:21:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T08:01:06.960907+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chinese-chip-stocks-these-are-the-best-value-plays-93CH-4880480",
+   "baslik": "Chinese chip stocks: These are the best value plays",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chinese-chip-stocks-these-are-the-best-value-plays-93CH-4880480",
+   "saat": "07:14",
+   "tarih_iso": "2026-08-28T07:14:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T08:01:06.960907+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/royalties-royalty-these-are-japans-top-ip-licensing-stocks-93CH-4880477",
    "baslik": "Royalties royalty: These are Japan’s top IP licensing stocks",
@@ -1789,39 +1841,19 @@
    "tarih_iso": "2026-08-27T18:50:11+03:00",
    "kodlar": [],
    "eklenme": "2026-08-27T19:01:09.820225+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nuscale-power-rises-4-oklo-154637877.html",
-   "baslik": "NuScale Power Rises 4%, Oklo Climbs 3% as Risk Appetite Returns, Uranium Energy Ticks Up",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-rises-4-oklo-154637877.html",
-   "saat": "18:46",
-   "tarih_iso": "2026-08-27T18:46:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T19:01:09.820225+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ceo-sells-over-4-000-154501340.html",
-   "baslik": "CEO Sells Over 4,000 Shares of Consumer Stock, Valued at Over $185,000",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ceo-sells-over-4-000-154501340.html",
-   "saat": "18:45",
-   "tarih_iso": "2026-08-27T18:45:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T19:01:09.820225+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/articles/nexteq-densitron-enters-automotive-market-154412994.html",
-   "baslik": "Nexteq’s Densitron enters automotive market with EV display contract",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/articles/nexteq-densitron-enters-automotive-market-154412994.html",
-   "saat": "18:44",
-   "tarih_iso": "2026-08-27T18:44:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-27T19:01:09.820225+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altinda-kritik-gun-piyasalar-warshin-mesajlarina-kilitlendi-galeri-837891",
+   "baslik": "Altında kritik gün: Piyasalar Warsh’ın mesajlarına kilitlendi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altinda-kritik-gun-piyasalar-warshin-mesajlarina-kilitlendi-galeri-837891",
+   "saat": "07:24",
+   "tarih_iso": "2026-08-28T07:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-28T08:01:06.960907+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-eylul-2026-fed-faiz-karari-saat-kacta-belli-olacak-3459924",
    "baslik": "FED FAİZ KARARI NE ZAMAN AÇIKLANACAK? Eylül 2026 FED faiz kararı saat kaçta belli olacak?",
@@ -2103,5 +2135,5 @@
    "eklenme": "2026-08-27T09:01:05.752051+03:00"
   }
  ],
- "guncelleme": "2026-08-28T07:30:54.934894+03:00"
+ "guncelleme": "2026-08-28T08:01:06.960907+03:00"
 }
