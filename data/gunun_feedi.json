@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-samsundan-3-puanla-donuyor-haberi-838150",
+   "baslik": "Fenerbahçe Samsun'dan 3 puanla dönüyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-samsundan-3-puanla-donuyor-haberi-838150",
+   "saat": "23:20",
+   "tarih_iso": "2026-08-30T23:20:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-31T01:01:02.958122+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/samsunspor-fenerbahce-macinin-ilk-11leri-belli-oldu-haberi-838139",
    "baslik": "Samsunspor-Fenerbahçe maçının ilk 11'leri belli oldu",
    "kaynak": "Dünya",
@@ -117,6 +129,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/meet-dividend-stock-warren-buffett-212500098.html",
+   "baslik": "Meet the Dividend Stock That Warren Buffett Backed for Decades. Here's Why Greg Abel Is Still Holding.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/meet-dividend-stock-warren-buffett-212500098.html",
+   "saat": "00:25",
+   "tarih_iso": "2026-08-31T00:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T01:01:02.958122+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4882073",
+   "baslik": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4882073",
+   "saat": "00:20",
+   "tarih_iso": "2026-08-31T00:20:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T01:01:02.958122+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/crowdstrike-just-lit-fire-under-211520650.html",
    "baslik": "CrowdStrike Just Lit a Fire Under Cybersecurity Stocks. Is Palo Alto Networks Next?",
    "kaynak": "Yahoo Finance",
@@ -125,6 +157,16 @@
    "tarih_iso": "2026-08-31T00:15:20+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T00:30:50.772771+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/p-500-12-2026-1907-210401303.html",
+   "baslik": "S&P 500 Is Up 12% in 2026 But a 1907 Crash Signal Is Back",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-12-2026-1907-210401303.html",
+   "saat": "00:04",
+   "tarih_iso": "2026-08-31T00:04:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T01:01:02.958122+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/small-business/articles/taco-bell-returns-unexpected-market-203300355.html",
@@ -869,5 +911,5 @@
    "eklenme": "2026-08-30T09:01:02.183603+03:00"
   }
  ],
- "guncelleme": "2026-08-31T00:30:50.772771+03:00"
+ "guncelleme": "2026-08-31T01:01:02.958122+03:00"
 }
