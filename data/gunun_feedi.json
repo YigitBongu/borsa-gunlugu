@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fb-mac-saati-ve-muhtemel-11i-samsunspor-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-838082",
+   "baslik": "FB maç saati ve muhtemel 11'i... Samsunspor Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fb-mac-saati-ve-muhtemel-11i-samsunspor-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-838082",
+   "saat": "10:05",
+   "tarih_iso": "2026-08-30T10:05:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-30T10:30:51.539982+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/cumhurbaskani-erdogandan-30-agustos-mesaji-turkiyeyi-kutlu-mucadelesinden-kimse-vazgeciremeyecek-haberi-838079",
    "baslik": "Cumhurbaşkanı Erdoğan'dan 30 Ağustos mesajı: Türkiye'yi kutlu mücadelesinden kimse vazgeçiremeyecek",
    "kaynak": "Dünya",
@@ -40,6 +52,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+   "baslik": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+   "saat": "10:27",
+   "tarih_iso": "2026-08-30T10:27:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-30T10:30:51.539982+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
    "baslik": "What’s the fiscal hit from higher yields?",
@@ -213,5 +235,5 @@
    "eklenme": "2026-08-30T09:01:02.183603+03:00"
   }
  ],
- "guncelleme": "2026-08-30T10:00:59.939962+03:00"
+ "guncelleme": "2026-08-30T10:30:51.539982+03:00"
 }
