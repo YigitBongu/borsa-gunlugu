@@ -41,6 +41,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/emtia/emtia-piyasalarinda-fed-baskisi-altin-ve-petrol-haftayi-kayipla-kapatti-haberi-838090",
+   "baslik": "Emtia piyasalarında Fed baskısı: Altın ve petrol haftayı kayıpla kapattı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/emtia/emtia-piyasalarinda-fed-baskisi-altin-ve-petrol-haftayi-kayipla-kapatti-haberi-838090",
+   "saat": "11:16",
+   "tarih_iso": "2026-08-30T11:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-30T11:30:53.688246+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-30-agustos-pazar-doviz-kurlari-haberi-838071",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (30 Ağustos Pazar Döviz Kurları)",
    "kaynak": "Dünya",
@@ -175,6 +185,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/finans/emtia/emtia-piyasalarinda-fed-baskisi-altin-ve-petrol-haftayi-kayipla-kapatti-haberi-838090",
+   "baslik": "Emtia piyasalarında Fed baskısı: Altın ve petrol haftayı kayıpla kapattı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/emtia/emtia-piyasalarinda-fed-baskisi-altin-ve-petrol-haftayi-kayipla-kapatti-haberi-838090",
+   "saat": "11:16",
+   "tarih_iso": "2026-08-30T11:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-30T11:30:53.688246+03:00"
+  },
+  {
+   "id": "alt-https://www.aa.com.tr/tr/ekonomi/emtia-piyasasinda-warshun-sozleri-degerli-metalleri-baskiladi-karadeniz-sevkiyat-riskleri-bugdayi-destekledi/4041363",
+   "baslik": "Emtia piyasasında Warsh'un sözleri değerli metalleri baskıladı, Karadeniz sevkiyat riskleri buğdayı destekledi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/emtia-piyasasinda-warshun-sozleri-degerli-metalleri-baskiladi-karadeniz-sevkiyat-riskleri-bugdayi-destekledi/4041363",
+   "saat": "11:03",
+   "tarih_iso": "2026-08-30T11:03:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-30T11:30:53.688246+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/finans/kripto-para/bitcoin-ve-altinda-dikkat-ceken-hareket-yatirimci-ayni-riskten-kaciyor-haberi-838081",
    "baslik": "Bitcoin ve altında dikkat çeken hareket: Yatırımcı aynı riskten kaçıyor",
    "kaynak": "Dünya",
@@ -235,5 +265,5 @@
    "eklenme": "2026-08-30T09:01:02.183603+03:00"
   }
  ],
- "guncelleme": "2026-08-30T11:00:57.238557+03:00"
+ "guncelleme": "2026-08-30T11:30:53.688246+03:00"
 }
