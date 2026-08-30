@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/samsunspor-fenerbahce-macinin-ilk-11leri-belli-oldu-haberi-838139",
+   "baslik": "Samsunspor-Fenerbahçe maçının ilk 11'leri belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/samsunspor-fenerbahce-macinin-ilk-11leri-belli-oldu-haberi-838139",
+   "saat": "20:30",
+   "tarih_iso": "2026-08-30T20:30:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-31T00:01:03.617270+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fb-maci-bilgileri-samsunspor-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-838082",
    "baslik": "FB MAÇI BİLGİLERİ... Samsunspor Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
    "kaynak": "Dünya",
@@ -105,6 +117,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/small-business/articles/taco-bell-returns-unexpected-market-203300355.html",
+   "baslik": "Taco Bell returns to unexpected market after 14 years",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/small-business/articles/taco-bell-returns-unexpected-market-203300355.html",
+   "saat": "23:33",
+   "tarih_iso": "2026-08-30T23:33:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T00:01:03.617270+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/crypto/articles/strategy-bitcoin-2-8-billion-193955159.html",
    "baslik": "Strategy’s Bitcoin Is $2.8 Billion in Profit—Is Saylor Teeing Up a Buy?",
    "kaynak": "Yahoo Finance",
@@ -133,6 +155,16 @@
    "tarih_iso": "2026-08-30T22:34:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-30T23:01:02.441364+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/congressman-sold-alphabet-stock-three-193104909.html",
+   "baslik": "Congressman Sold Alphabet Stock Three Months After Buying It, and He Might Have Lost Money",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/congressman-sold-alphabet-stock-three-193104909.html",
+   "saat": "22:31",
+   "tarih_iso": "2026-08-30T22:31:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T00:01:03.617270+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/options/articles/retirees-convert-roth-down-market-192934790.html",
@@ -827,5 +859,5 @@
    "eklenme": "2026-08-30T09:01:02.183603+03:00"
   }
  ],
- "guncelleme": "2026-08-30T23:30:50.184529+03:00"
+ "guncelleme": "2026-08-31T00:01:03.617270+03:00"
 }
