@@ -2,6 +2,19 @@
  "tarih": "2026-08-31",
  "kap": [
   {
+   "id": "kap-my-ISGYO-202608311103",
+   "baslik": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş.",
+   "kodlar": [
+    "ISGYO"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "11:03",
+   "tarih_iso": "2026-08-31T11:03:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-31T11:30:53.685720+03:00"
+  },
+  {
    "id": "kap-my-HALKB-202608311032",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -68,6 +81,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-buyumenin-onumuzdeki-donemde-kademeli-olarak-artmasini-bekliyoruz/4042329",
+   "baslik": "Hazine ve Maliye Bakanı Şimşek: Büyümenin önümüzdeki dönemde kademeli olarak artmasını bekliyoruz",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-buyumenin-onumuzdeki-donemde-kademeli-olarak-artmasini-bekliyoruz/4042329",
+   "saat": "11:16",
+   "tarih_iso": "2026-08-31T11:16:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T11:30:53.685720+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/sb-energy-openaiye-veri-merkezi-anlasmas-icin-55-milyar-dolar-degerinde-varant-teklif-etti-4048906",
    "baslik": "SB Energy, OpenAI’ye veri merkezi anlaşması için 5,5 milyar dolar değerinde varant teklif etti",
@@ -150,6 +173,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ohb-stock-surging-today-93CH-4882268",
+   "baslik": "Why is OHB stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ohb-stock-surging-today-93CH-4882268",
+   "saat": "11:15",
+   "tarih_iso": "2026-08-31T11:15:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T11:30:53.685720+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-academedia-stock-gaining-today-93CH-4882259",
+   "baslik": "Why is AcadeMedia stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-academedia-stock-gaining-today-93CH-4882259",
+   "saat": "10:58",
+   "tarih_iso": "2026-08-31T10:58:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T11:30:53.685720+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asian-currencies-mixed-as-yen-hovers-near-160-oil-surge-raises-riskoff-pressures-4882132",
    "baslik": "Asian currencies mixed as hawkish Warsh lifts dollar, yen hovers near 160",
@@ -463,6 +506,36 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-and-silver-face-nearterm-pressure-after-sharp-technical-reversals-200686794",
+   "baslik": "Gold and Silver Face Near-Term Pressure After Sharp Technical Reversals",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-and-silver-face-nearterm-pressure-after-sharp-technical-reversals-200686794",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-31T11:30:53.685720+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-bearish-gap-strengthens-fed-ratehike-bets-as-downside-risks-build-200686795",
+   "baslik": "Gold Bearish Gap Strengthens Fed Rate-Hike Bets as Downside Risks Build",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-bearish-gap-strengthens-fed-ratehike-bets-as-downside-risks-build-200686795",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-31T11:30:53.685720+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-downside-risk-deepens-if-the-44324454-support-zone-fails-200686787",
+   "baslik": "Gold Downside Risk Deepens if the 4,432–4,454 Support Zone Fails",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-downside-risk-deepens-if-the-44324454-support-zone-fails-200686787",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-31T11:30:53.685720+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/why-we-favour-gold-heading-into-sp-crash-season-200686789",
    "baslik": "Why We Favour Gold Heading Into S&P Crash Season",
    "kaynak": "Investing Emtia",
@@ -533,5 +606,5 @@
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
   }
  ],
- "guncelleme": "2026-08-31T11:01:02.014872+03:00"
+ "guncelleme": "2026-08-31T11:30:53.685720+03:00"
 }
