@@ -108,6 +108,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/bofa-temel-tuketim-urunlerinde-enflasyon-basks-goruyor-93CH-4049224",
+   "baslik": "BofA, temel tüketim ürünlerinde enflasyon baskısı görüyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/bofa-temel-tuketim-urunlerinde-enflasyon-basks-goruyor-93CH-4049224",
+   "saat": "13:31",
+   "tarih_iso": "2026-08-31T13:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:01:03.516981+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkiyenin-elektrifikasyon-altyapisina-2035e-kadar-200-milyar-dolar-yatirim-ongoruluyor/4042448",
    "baslik": "Türkiye'nin elektrifikasyon altyapısına 2035'e kadar 200 milyar dolar yatırım öngörülüyor",
    "kaynak": "AA Ekonomi",
@@ -219,6 +229,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/economy/articles/love-inflation-trump-shrugs-off-103500495.html",
+   "baslik": "‘I love the inflation!’: Trump shrugs off rising prices — here’s what you can do before inflation eats into your savings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/articles/love-inflation-trump-shrugs-off-103500495.html",
+   "saat": "13:35",
+   "tarih_iso": "2026-08-31T13:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:01:03.516981+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-039-4882443",
+   "baslik": "India stocks lower at close of trade; Nifty 50 down 0.39%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-039-4882443",
+   "saat": "13:30",
+   "tarih_iso": "2026-08-31T13:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:01:03.516981+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-sees-continued-inflation-pressure-on-consumer-staples-93CH-4882441",
+   "baslik": "BofA sees continued inflation pressure on consumer staples",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bofa-sees-continued-inflation-pressure-on-consumer-staples-93CH-4882441",
+   "saat": "13:29",
+   "tarih_iso": "2026-08-31T13:29:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:01:03.516981+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/meta-may-overtake-google-search-in-ad-revenue-this-year--bernstein-93CH-4882435",
+   "baslik": "Meta may overtake Google Search in ad revenue this year - Bernstein",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/meta-may-overtake-google-search-in-ad-revenue-this-year--bernstein-93CH-4882435",
+   "saat": "13:23",
+   "tarih_iso": "2026-08-31T13:23:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:01:03.516981+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-sounds-alarm-warren-102000561.html",
+   "baslik": "As the Stock Market Sounds an Alarm, Warren Buffett Just Offered a Blunt Warning for Investors",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-sounds-alarm-warren-102000561.html",
+   "saat": "13:20",
+   "tarih_iso": "2026-08-31T13:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:01:03.516981+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/trump-to-host-oil-executives-after-accusing-refiners-of-gouging-consumers-4882409",
    "baslik": "Trump to host oil executives after accusing refiners of gouging consumers",
@@ -992,6 +1052,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.wsj.com/finance/commodities-futures/gold-declines-pullback-could-be-due-to-profit-taking-282f2342?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Gold Falls as Hawkish Fed Outlook Keeps Yields Elevated",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-pullback-could-be-due-to-profit-taking-282f2342?siteid=yhoof2&yptr=yahoo",
+   "saat": "13:38",
+   "tarih_iso": "2026-08-31T13:38:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:01:03.516981+03:00"
+  },
+  {
    "id": "alt-https://www.haberturk.com/goldman-sachs-tan-son-altin-fiyati-tahmini-3909247-ekonomi",
    "baslik": "ABD'li dev altın tahminini açıkladı",
    "kaynak": "Habertürk Ekonomi",
@@ -1132,5 +1202,5 @@
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
   }
  ],
- "guncelleme": "2026-08-31T13:30:55.606758+03:00"
+ "guncelleme": "2026-08-31T14:01:03.516981+03:00"
 }
