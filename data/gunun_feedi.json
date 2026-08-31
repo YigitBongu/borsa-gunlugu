@@ -2,6 +2,32 @@
  "tarih": "2026-08-31",
  "kap": [
   {
+   "id": "kap-my-IZENR-202608311123",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "IZENR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:23",
+   "tarih_iso": "2026-08-31T11:23:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-31T12:01:05.708940+03:00"
+  },
+  {
+   "id": "kap-my-ASTOR-202608311108",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:08",
+   "tarih_iso": "2026-08-31T11:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-31T12:01:05.708940+03:00"
+  },
+  {
    "id": "kap-my-ISGYO-202608311103",
    "baslik": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş. — Kredi Derecelendirmesi",
    "sirket": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş.",
@@ -173,6 +199,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
+   "baslik": "Brent oil tops $90 after first U.S. and Iran fighting in a month",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
+   "saat": "11:55",
+   "tarih_iso": "2026-08-31T11:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T12:01:05.708940+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-dip-amid-renewed-iran-hostilities-4882085",
+   "baslik": "Wall Street futures fall as Middle East flare-up and 60% Fed hike odds",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-dip-amid-renewed-iran-hostilities-4882085",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-31T11:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T12:01:05.708940+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-016-4882285",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.16%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-016-4882285",
+   "saat": "11:30",
+   "tarih_iso": "2026-08-31T11:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T12:01:05.708940+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ohb-stock-surging-today-93CH-4882268",
    "baslik": "Why is OHB stock surging today?",
@@ -506,6 +562,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782",
+   "baslik": "Gold Soars 15% in August—But Isn’t Overbought",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-soars-15-in-augustbut-isnt-overbought-200686782",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-31T12:01:05.708940+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-and-silver-face-nearterm-pressure-after-sharp-technical-reversals-200686794",
    "baslik": "Gold and Silver Face Near-Term Pressure After Sharp Technical Reversals",
    "kaynak": "Investing Emtia",
@@ -606,5 +672,5 @@
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
   }
  ],
- "guncelleme": "2026-08-31T11:30:53.685720+03:00"
+ "guncelleme": "2026-08-31T12:01:05.708940+03:00"
 }
