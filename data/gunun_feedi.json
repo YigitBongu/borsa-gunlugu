@@ -77,6 +77,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-borsalar-fed-faiz-artrm-beklentileri-ve-ortadogu-gerilimiyle-dustu-4048856",
+   "baslik": "Asya borsaları Fed faiz artırımı beklentileri ve Ortadoğu gerilimiyle düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-borsalar-fed-faiz-artrm-beklentileri-ve-ortadogu-gerilimiyle-dustu-4048856",
+   "saat": "06:38",
+   "tarih_iso": "2026-08-31T06:38:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T07:01:02.877058+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/bessent-yen-hareketleri-kontrol-altnda-boja-faiz-basks-yok-93CH-4048838",
    "baslik": "Bessent: Yen hareketleri kontrol altında, BOJ’a faiz baskısı yok",
    "kaynak": "Investing TR",
@@ -138,6 +148,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+   "baslik": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+   "saat": "06:47",
+   "tarih_iso": "2026-08-31T06:47:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T07:01:02.877058+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-slip-on-growing-fed-hike-bets-fresh-middle-east-tensions-4882123",
+   "baslik": "Asia stocks slip on growing Fed hike bets, fresh Middle East tensions",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-on-growing-fed-hike-bets-fresh-middle-east-tensions-4882123",
+   "saat": "06:38",
+   "tarih_iso": "2026-08-31T06:38:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T07:01:02.877058+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/hanwha-aerospace-stock-signs-k9-howitzer-export-deal-with-spain-93CH-4882120",
    "baslik": "Hanwha Aerospace stock signs K9 Howitzer export deal with Spain",
@@ -1181,5 +1211,5 @@
    "eklenme": "2026-08-30T09:01:02.183603+03:00"
   }
  ],
- "guncelleme": "2026-08-31T06:30:52.270847+03:00"
+ "guncelleme": "2026-08-31T07:01:02.877058+03:00"
 }
