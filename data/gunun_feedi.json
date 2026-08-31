@@ -77,6 +77,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/bessent-yen-hareketleri-kontrol-altnda-boja-faiz-basks-yok-93CH-4048838",
+   "baslik": "Bessent: Yen hareketleri kontrol altında, BOJ’a faiz baskısı yok",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/bessent-yen-hareketleri-kontrol-altnda-boja-faiz-basks-yok-93CH-4048838",
+   "saat": "03:58",
+   "tarih_iso": "2026-08-31T03:58:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T04:30:51.986953+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-ne-zaman-hangi-gun-aciklaniyor-haberi-838115",
    "baslik": "Merkez Bankası faiz kararı ne zaman, hangi gün açıklanıyor?",
    "kaynak": "Dünya",
@@ -128,6 +138,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+   "baslik": "U.S., Iran trade attacks as hostilities escalate once again",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
+   "saat": "04:12",
+   "tarih_iso": "2026-08-31T04:12:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T04:30:51.986953+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/liontown-resources-reports-first-annual-profit-on-lithium-gains-93CH-4882092",
+   "baslik": "Liontown Resources reports first annual profit on lithium gains",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/liontown-resources-reports-first-annual-profit-on-lithium-gains-93CH-4882092",
+   "saat": "04:01",
+   "tarih_iso": "2026-08-31T04:01:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T04:30:51.986953+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bessent-says-yen-moves-contained-wont-pressure-boj-on-rates-reuters-interview-93CH-4882091",
+   "baslik": "Bessent says yen moves contained, won’t pressure BOJ on rates- Reuters interview",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bessent-says-yen-moves-contained-wont-pressure-boj-on-rates-reuters-interview-93CH-4882091",
+   "saat": "03:58",
+   "tarih_iso": "2026-08-31T03:58:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T04:30:51.986953+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/gms-canadian-workers-approve-deal-adding-truck-to-ontario-plant-amid-us-trade-war-4882087",
+   "baslik": "GM’s Canadian workers approve deal adding truck to Ontario plant amid US trade war",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gms-canadian-workers-approve-deal-adding-truck-to-ontario-plant-amid-us-trade-war-4882087",
+   "saat": "03:49",
+   "tarih_iso": "2026-08-31T03:49:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T04:30:51.986953+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
    "baslik": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island",
@@ -1061,5 +1111,5 @@
    "eklenme": "2026-08-30T09:01:02.183603+03:00"
   }
  ],
- "guncelleme": "2026-08-31T04:01:04.606104+03:00"
+ "guncelleme": "2026-08-31T04:30:51.986953+03:00"
 }
