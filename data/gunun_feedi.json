@@ -2,6 +2,32 @@
  "tarih": "2026-08-31",
  "kap": [
   {
+   "id": "kap-my-TAVHL-202608311431",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:31",
+   "tarih_iso": "2026-08-31T14:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
+   "id": "kap-my-TCELL-202608311418",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TCELL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:18",
+   "tarih_iso": "2026-08-31T14:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
    "id": "kap-my-ENJSA-202608311402",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -169,6 +195,16 @@
    "eklenme": "2026-08-31T14:30:50.401593+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/ekonomi/agustos-ayi-enflasyon-rakamlari-ne-zaman-aciklanacak-haberi-838224",
+   "baslik": "Ağustos ayı enflasyon rakamları ne zaman açıklanacak?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/agustos-ayi-enflasyon-rakamlari-ne-zaman-aciklanacak-haberi-838224",
+   "saat": "14:43",
+   "tarih_iso": "2026-08-31T14:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/bofa-temel-tuketim-urunlerinde-enflasyon-basks-goruyor-93CH-4049224",
    "baslik": "BofA, temel tüketim ürünlerinde enflasyon baskısı görüyor",
    "kaynak": "Investing TR",
@@ -197,6 +233,16 @@
    "tarih_iso": "2026-08-31T12:37:19+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T13:01:04.773089+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkiyenin-enerji-donusumune-200-milyar-dolar-yatirim-ongoruluyor/4042448",
+   "baslik": "Türkiye'nin enerji dönüşümüne 200 milyar dolar yatırım öngörülüyor",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-enerji-donusumune-200-milyar-dolar-yatirim-ongoruluyor/4042448",
+   "saat": "12:37",
+   "tarih_iso": "2026-08-31T12:37:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-kanada-merkez-bankas-karar-oncesi-yukseldi-4049136",
@@ -301,6 +347,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html",
+   "baslik": "Stock market today: Dow, S&P 500, Nasdaq futures fall as US strikes Iran, rate-hike bets jump",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html",
+   "saat": "14:38",
+   "tarih_iso": "2026-08-31T14:38:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-babcock--wilcox-stock-rallying-today-93CH-4882603",
+   "baslik": "Why is Babcock & Wilcox stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-babcock--wilcox-stock-rallying-today-93CH-4882603",
+   "saat": "14:37",
+   "tarih_iso": "2026-08-31T14:37:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-science-applications-international-stock-surging-today-93CH-4882592",
+   "baslik": "Why is Science Applications International stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-science-applications-international-stock-surging-today-93CH-4882592",
+   "saat": "14:35",
+   "tarih_iso": "2026-08-31T14:35:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-gaining-today-93CH-4882591",
+   "baslik": "Why is Meta Platforms stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-gaining-today-93CH-4882591",
+   "saat": "14:35",
+   "tarih_iso": "2026-08-31T14:35:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/iren-limited-keeps-falling-respected-113344175.html",
+   "baslik": "IREN Limited Keeps Falling: A Respected Ratings Agency Sees 185% Growth Anyway",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/iren-limited-keeps-falling-respected-113344175.html",
+   "saat": "14:33",
+   "tarih_iso": "2026-08-31T14:33:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/vistra-won-t-stop-declining-113252369.html",
+   "baslik": "Vistra Won’t Stop Declining in 2026: Why Does This Prominent Wall Street Firm Expect 120% Returns?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/vistra-won-t-stop-declining-113252369.html",
+   "saat": "14:32",
+   "tarih_iso": "2026-08-31T14:32:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/energy-stocks-rally-as-fresh-usiran-attacks-drive-oil-prices-higher-4882320",
+   "baslik": "Energy stocks rally as fresh U.S.-Iran attacks drive oil prices higher",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/energy-stocks-rally-as-fresh-usiran-attacks-drive-oil-prices-higher-4882320",
+   "saat": "14:32",
+   "tarih_iso": "2026-08-31T14:32:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/u-strikes-iran-send-oil-112904967.html",
+   "baslik": "U.S. strikes on Iran send oil prices higher, futures lower",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/u-strikes-iran-send-oil-112904967.html",
+   "saat": "14:29",
+   "tarih_iso": "2026-08-31T14:29:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html",
    "baslik": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
    "kaynak": "CNBC",
@@ -309,6 +435,46 @@
    "tarih_iso": "2026-08-31T14:27:20+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-appaloosa-overweight-112600522.html",
+   "baslik": "Billionaire David Tepper of Appaloosa Is Overweight AI Stocks -- but He Recently Dumped Every Share of the Hottest AI Stock of 2026",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-appaloosa-overweight-112600522.html",
+   "saat": "14:26",
+   "tarih_iso": "2026-08-31T14:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/pge-stock-california-wildfire-legislation-a7e8a3be?siteid=yhoof2&yptr=yahoo",
+   "baslik": "PG&E Stock Plummets on California Wildfire Legislation. Why Wall Street Isn’t Happy.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/pge-stock-california-wildfire-legislation-a7e8a3be?siteid=yhoof2&yptr=yahoo",
+   "saat": "14:26",
+   "tarih_iso": "2026-08-31T14:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/eli-lilly-stock-merida-biosciences-acquisition-3757be2f?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Lilly to Buy This Autoimmune Drugmaker for $2.9 Billion in Cash. What It Means for the Stock.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/eli-lilly-stock-merida-biosciences-acquisition-3757be2f?siteid=yhoof2&yptr=yahoo",
+   "saat": "14:23",
+   "tarih_iso": "2026-08-31T14:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/shiba-inu-reach-1-during-112000436.html",
+   "baslik": "Can Shiba Inu Reach $1 During the Next Crypto Bull Market? The Answer Will Blow Your Mind.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/shiba-inu-reach-1-during-112000436.html",
+   "saat": "14:20",
+   "tarih_iso": "2026-08-31T14:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-surging-today-93CH-4882541",
@@ -371,6 +537,16 @@
    "eklenme": "2026-08-31T14:30:50.401593+03:00"
   },
   {
+   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-083126/card/u-s-treasury-yields-dollar-retreat-ev3CmWihSAFtRHbugtKT?siteid=yhoof2&yptr=yahoo",
+   "baslik": "U.S. Treasury Yields, Dollar Retreat",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-083126/card/u-s-treasury-yields-dollar-retreat-ev3CmWihSAFtRHbugtKT?siteid=yhoof2&yptr=yahoo",
+   "saat": "13:56",
+   "tarih_iso": "2026-08-31T13:56:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-pge-stock-plunging-today-93CH-4882492",
    "baslik": "Why is PG&E stock plunging today?",
    "kaynak": "Investing.com",
@@ -389,6 +565,16 @@
    "tarih_iso": "2026-08-31T13:54:28+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/fed-rate-hike-odds-tech-stock-rally-1246ddf3?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Rate-Hike Odds Are Rising and the Tech Rally Looks Vulnerable",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/fed-rate-hike-odds-tech-stock-rally-1246ddf3?siteid=yhoof2&yptr=yahoo",
+   "saat": "13:39",
+   "tarih_iso": "2026-08-31T13:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:50:11.789977+03:00"
   },
   {
    "id": "yab-https://www.wsj.com/finance/commodities-futures/gold-declines-pullback-could-be-due-to-profit-taking-282f2342?siteid=yhoof2&yptr=yahoo",
@@ -1423,5 +1609,5 @@
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
   }
  ],
- "guncelleme": "2026-08-31T14:30:50.401593+03:00"
+ "guncelleme": "2026-08-31T14:50:11.789977+03:00"
 }
