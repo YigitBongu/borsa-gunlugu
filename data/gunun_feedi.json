@@ -2,6 +2,19 @@
  "tarih": "2026-08-31",
  "kap": [
   {
+   "id": "kap-my-GSDHO-202608311753",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:53",
+   "tarih_iso": "2026-08-31T17:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
    "id": "kap-my-SDTTR-202608311707",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -443,6 +456,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/abd-hazine-bakani-bessent-g20nin-onceligini-acikladi-ilk-sirada-ekonomik-buyume-var-haberi-838245",
+   "baslik": "ABD Hazine Bakanı Bessent G20'nin önceliğini açıkladı: İlk sırada ekonomik büyüme var",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/abd-hazine-bakani-bessent-g20nin-onceligini-acikladi-ilk-sirada-ekonomik-buyume-var-haberi-838245",
+   "saat": "18:20",
+   "tarih_iso": "2026-08-31T18:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hazinenin-uc-aylik-borclanma-plani-belli-oldu-haberi-838244",
+   "baslik": "Hazine'nin üç aylık borçlanma planı belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazinenin-uc-aylik-borclanma-plani-belli-oldu-haberi-838244",
+   "saat": "18:08",
+   "tarih_iso": "2026-08-31T18:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zam-orani-ne-zaman-aciklanacak-eylul-ayi-tefe-tufe-kira-artis-orani-tuik-3461095",
    "baslik": "EYLÜL AYI KİRA ARTIŞ ORANI 2026 | Eylül kira zam oranı ne zaman açıklanacak? Eylül ayı TEFE-TÜFE kira artış oranı TÜİK",
    "kaynak": "CNN Türk Ekonomi",
@@ -664,6 +697,136 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.barrons.com/articles/ibm-stock-quantum-computing-1384b7c4?siteid=yhoof2&yptr=yahoo",
+   "baslik": "IBM Stock Is Under Pressure. Is Its Quantum Business Reason Enough to Buy?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/ibm-stock-quantum-computing-1384b7c4?siteid=yhoof2&yptr=yahoo",
+   "saat": "18:11",
+   "tarih_iso": "2026-08-31T18:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/knight-swift-transportation-knx-positioned-150918993.html",
+   "baslik": "Knight-Swift Transportation (KNX) is Positioned to Leverage Evolving Freight Market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/knight-swift-transportation-knx-positioned-150918993.html",
+   "saat": "18:09",
+   "tarih_iso": "2026-08-31T18:09:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/best-dividend-stock-2027-beyond-150500244.html",
+   "baslik": "The Best Dividend Stock for 2027 and Beyond: Procter & Gamble",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/best-dividend-stock-2027-beyond-150500244.html",
+   "saat": "18:05",
+   "tarih_iso": "2026-08-31T18:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/young-international-q2-earnings-call-150256391.html",
+   "baslik": "So-Young International Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/young-international-q2-earnings-call-150256391.html",
+   "saat": "18:02",
+   "tarih_iso": "2026-08-31T18:02:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/lexinfintech-q2-earnings-call-highlights-150255581.html",
+   "baslik": "LexinFintech Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/lexinfintech-q2-earnings-call-highlights-150255581.html",
+   "saat": "18:02",
+   "tarih_iso": "2026-08-31T18:02:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/growth-trajectory-attractive-valuations-support-150111590.html",
+   "baslik": "Growth Trajectory and Attractive Valuations Support Henry Schein’s (HSIC) Bullish Thesis",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/growth-trajectory-attractive-valuations-support-150111590.html",
+   "saat": "18:01",
+   "tarih_iso": "2026-08-31T18:01:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/napco-security-nssc-q4-2026-145915662.html",
+   "baslik": "Napco Security (NSSC) Q4 2026 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/napco-security-nssc-q4-2026-145915662.html",
+   "saat": "17:59",
+   "tarih_iso": "2026-08-31T17:59:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/cathie-wood-ark-invest-nvidia-stock-buy-1d5f3ff6?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Nvidia Looks Like a Growth Stock Again. Why the Chip Maker Is a Bargain.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/cathie-wood-ark-invest-nvidia-stock-buy-1d5f3ff6?siteid=yhoof2&yptr=yahoo",
+   "saat": "17:58",
+   "tarih_iso": "2026-08-31T17:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html",
+   "baslik": "Tech stocks today: Apple stock slips as Tim Cook prepares to step down",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html",
+   "saat": "17:56",
+   "tarih_iso": "2026-08-31T17:56:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-gains-driven-145610534.html",
+   "baslik": "Micron Technology (MU) Gains Driven by Earnings Upgrades",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-mu-gains-driven-145610534.html",
+   "saat": "17:56",
+   "tarih_iso": "2026-08-31T17:56:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/opendoor-sinks-4-modest-market-145551955.html",
+   "baslik": "Opendoor Sinks 4% on Modest Market Pullback: Is High-Beta Selling the Whole Story?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/opendoor-sinks-4-modest-market-145551955.html",
+   "saat": "17:55",
+   "tarih_iso": "2026-08-31T17:55:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-much-cash-145535196.html",
+   "baslik": "3 Dividend Stocks With So Much Cash Flow Their Payouts Barely Make a Dent",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-much-cash-145535196.html",
+   "saat": "17:55",
+   "tarih_iso": "2026-08-31T17:55:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/building-ai-infrastructure-alpha-compute-145215261.html",
+   "baslik": "Building AI Infrastructure: Alpha Compute CEO Brittany Kaiser, Live at Nasdaq",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/building-ai-infrastructure-alpha-compute-145215261.html",
+   "saat": "17:52",
+   "tarih_iso": "2026-08-31T17:52:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/news/ex-us-lawmaker-george-santos-142841026.html",
    "baslik": "Prediction market startup Kalshi permanently bans ex-US lawmaker Santos from trading",
@@ -1733,139 +1896,19 @@
    "tarih_iso": "2026-08-31T13:23:44+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T14:01:03.516981+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-sounds-alarm-warren-102000561.html",
-   "baslik": "As the Stock Market Sounds an Alarm, Warren Buffett Just Offered a Blunt Warning for Investors",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-sounds-alarm-warren-102000561.html",
-   "saat": "13:20",
-   "tarih_iso": "2026-08-31T13:20:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T14:01:03.516981+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/business/earnings/huawei-profit-slumps-by-a-third-on-r-d-expenses-raw-material-costs-3533ebad?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Huawei Profit Slumps by a Third on R&D Expenses, Raw-Material Costs",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/business/earnings/huawei-profit-slumps-by-a-third-on-r-d-expenses-raw-material-costs-3533ebad?siteid=yhoof2&yptr=yahoo",
-   "saat": "13:16",
-   "tarih_iso": "2026-08-31T13:16:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T14:30:50.401593+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/trump-to-host-oil-executives-after-accusing-refiners-of-gouging-consumers-4882409",
-   "baslik": "Trump to host oil executives after accusing refiners of gouging consumers",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/trump-to-host-oil-executives-after-accusing-refiners-of-gouging-consumers-4882409",
-   "saat": "13:14",
-   "tarih_iso": "2026-08-31T13:14:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tenax-therapeutics-stock-volatile-today-93CH-4882422",
-   "baslik": "Why is Tenax Therapeutics stock volatile today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-tenax-therapeutics-stock-volatile-today-93CH-4882422",
-   "saat": "13:11",
-   "tarih_iso": "2026-08-31T13:11:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-snap-stock-climbing-4-today-93CH-4882379",
-   "baslik": "Why is Snap stock climbing 4% today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-snap-stock-climbing-4-today-93CH-4882379",
-   "saat": "13:03",
-   "tarih_iso": "2026-08-31T13:03:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-elmet-stock-surging-8-today-93CH-4882377",
-   "baslik": "Why is Elmet stock surging 8% today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-elmet-stock-surging-8-today-93CH-4882377",
-   "saat": "13:02",
-   "tarih_iso": "2026-08-31T13:02:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html",
-   "baslik": "Coupang dispute fuels new U.S. tariff pressure on South Korea",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/31/coupang-south-korea-us-tariffs.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-08-31T13:00:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-31-2026-earn-up-to-415-apy-100000500.html",
-   "baslik": "Best high-yield savings interest rates today, Monday, August 31, 2026: Earn up to 4.15% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-31-2026-earn-up-to-415-apy-100000500.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-08-31T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-august-31-2026-purchase-rates-currently-higher-than-refinance-rates-100000904.html",
-   "baslik": "Mortgage and refinance interest rates today, Monday, August 31, 2026: Purchase rates currently higher than refinance rates",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-august-31-2026-purchase-rates-currently-higher-than-refinance-rates-100000904.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-08-31T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-31-2026-lock-in-up-to-430-apy-100000028.html",
-   "baslik": "Best CD rates today, Monday, August 31, 2026: Lock in up to 4.30% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-august-31-2026-lock-in-up-to-430-apy-100000028.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-08-31T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-31-2026-a-19-basis-point-differential-100000999.html",
-   "baslik": "HELOC and home equity loan rates today, Monday, August 31, 2026: A 19-basis-point differential",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-august-31-2026-a-19-basis-point-differential-100000999.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-08-31T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/cfo-journal/companies-plow-tariff-refunds-into-price-cuts-appealing-to-stretched-consumers-c5f683b1?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Companies Plow Tariff Refunds Into Price Cuts, Appealing to Stretched Consumers",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/cfo-journal/companies-plow-tariff-refunds-into-price-cuts-appealing-to-stretched-consumers-c5f683b1?siteid=yhoof2&yptr=yahoo",
-   "saat": "13:00",
-   "tarih_iso": "2026-08-31T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T14:30:50.401593+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-antelope-enterprise-stock-surging-65-today-93CH-4882367",
-   "baslik": "Why is Antelope Enterprise stock surging 65% today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-antelope-enterprise-stock-surging-65-today-93CH-4882367",
-   "saat": "12:59",
-   "tarih_iso": "2026-08-31T12:59:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-correction-tests-whether-the-bullish-trend-can-hold-above-4250-200686839",
+   "baslik": "Gold Correction Tests Whether the Bullish Trend Can Hold Above $4,250",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-correction-tests-whether-the-bullish-trend-can-hold-above-4250-200686839",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-08-31T18:30:52.898775+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/markets/stocks/articles/arizona-gold-silver-appoints-yale-140800299.html",
    "baslik": "Arizona Gold & Silver appoints Yale Simpson as independent director",
@@ -2047,5 +2090,5 @@
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
   }
  ],
- "guncelleme": "2026-08-31T18:01:03.947555+03:00"
+ "guncelleme": "2026-08-31T18:30:52.898775+03:00"
 }
