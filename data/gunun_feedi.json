@@ -43,6 +43,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/sb-energy-openaiye-veri-merkezi-anlasmas-icin-55-milyar-dolar-degerinde-varant-teklif-etti-4048906",
+   "baslik": "SB Energy, OpenAI’ye veri merkezi anlaşması için 5,5 milyar dolar değerinde varant teklif etti",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/sb-energy-openaiye-veri-merkezi-anlasmas-icin-55-milyar-dolar-degerinde-varant-teklif-etti-4048906",
+   "saat": "09:35",
+   "tarih_iso": "2026-08-31T09:35:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T10:01:02.351613+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-altn-hisseleri-fed-faiz-endiseleriyle-dustu-4048901",
+   "baslik": "Asya altın hisseleri Fed faiz endişeleriyle düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-altn-hisseleri-fed-faiz-endiseleriyle-dustu-4048901",
+   "saat": "09:26",
+   "tarih_iso": "2026-08-31T09:26:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T10:01:02.351613+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/fede-iliskin-faiz-artirim-beklentileri-ve-jeopolitik-gerilimler-piyasalari-baskiliyor/4042130",
    "baslik": "Fed'e ilişkin faiz artırım beklentileri ve jeopolitik gerilimler piyasaları baskılıyor",
    "kaynak": "AA Ekonomi",
@@ -104,6 +124,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sb-energy-offered-openai-55-bln-in-warrants-to-secure-datacenter-deal--wsj-4882171",
+   "baslik": "SB Energy offered OpenAI $5.5 bln in warrants to secure data-center deal - WSJ",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sb-energy-offered-openai-55-bln-in-warrants-to-secure-datacenter-deal--wsj-4882171",
+   "saat": "09:35",
+   "tarih_iso": "2026-08-31T09:35:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T10:01:02.351613+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-018-4882170",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.18%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-018-4882170",
+   "saat": "09:30",
+   "tarih_iso": "2026-08-31T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T10:01:02.351613+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-gold-stocks-slide-after-bullion-drops-3-on-fed-rate-fears-4882169",
+   "baslik": "Asian gold stocks slide after bullion drops 3% on Fed rate fears",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-gold-stocks-slide-after-bullion-drops-3-on-fed-rate-fears-4882169",
+   "saat": "09:26",
+   "tarih_iso": "2026-08-31T09:26:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T10:01:02.351613+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/inpost-q2-profit-falls-30-cuts-2026-profit-outlook-as-uk-turnaround-lags-93CH-4882168",
    "baslik": "InPost Q2 profit falls 30%, cuts 2026 profit outlook as UK turnaround lags",
@@ -297,6 +347,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/asya-altn-hisseleri-fed-faiz-endiseleriyle-dustu-4048901",
+   "baslik": "Asya altın hisseleri Fed faiz endişeleriyle düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-altn-hisseleri-fed-faiz-endiseleriyle-dustu-4048901",
+   "saat": "09:26",
+   "tarih_iso": "2026-08-31T09:26:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T10:01:02.351613+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/asian-gold-stocks-slide-after-bullion-drops-3-on-fed-rate-fears-4882169",
+   "baslik": "Asian gold stocks slide after bullion drops 3% on Fed rate fears",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-gold-stocks-slide-after-bullion-drops-3-on-fed-rate-fears-4882169",
+   "saat": "09:26",
+   "tarih_iso": "2026-08-31T09:26:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T10:01:02.351613+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/brent-reclaims-90-as-bulls-target-95-gold-awaits-warsh-200686744",
    "baslik": "Brent Reclaims $90 as Bulls Target $95, Gold Awaits Warsh",
    "kaynak": "Investing Emtia",
@@ -337,5 +407,5 @@
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
   }
  ],
- "guncelleme": "2026-08-31T09:30:47.856517+03:00"
+ "guncelleme": "2026-08-31T10:01:02.351613+03:00"
 }
