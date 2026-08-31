@@ -2,6 +2,19 @@
  "tarih": "2026-08-31",
  "kap": [
   {
+   "id": "kap-my-AKSEN-202608311649",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "AKSEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:49",
+   "tarih_iso": "2026-08-31T16:49:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
    "id": "kap-my-OTKAR-202608311632",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -401,6 +414,16 @@
    "eklenme": "2026-08-31T14:30:50.401593+03:00"
   },
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/shein-hong-kong-halka-arzn-orta-noktadan-fiyatlad-174-milyar-dolar-toplad-93CH-4049682",
+   "baslik": "Shein Hong Kong halka arzını orta noktadan fiyatladı, 1,74 milyar dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/shein-hong-kong-halka-arzn-orta-noktadan-fiyatlad-174-milyar-dolar-toplad-93CH-4049682",
+   "saat": "16:59",
+   "tarih_iso": "2026-08-31T16:59:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/nvidia-ve-mediatek-ortaklgn-genisletiyor-nvidia-35-milyar-dolar-yatrm-yapt-4049548",
    "baslik": "Nvidia ve MediaTek ortaklığını genişletiyor, Nvidia 3,5 milyar dolar yatırım yaptı",
    "kaynak": "Investing TR",
@@ -602,6 +625,146 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/wall-street-banks-are-keeping-astronomical-price-targets-on-spacexs-stock-as-it-tries-to-blast-off-again-0e21a0e4?mod=mw_rss_topstories",
+   "baslik": "Wall Street banks are keeping astronomical price targets on SpaceX’s stock as it struggles to achieve post-IPO exit velocity",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/wall-street-banks-are-keeping-astronomical-price-targets-on-spacexs-stock-as-it-tries-to-blast-off-again-0e21a0e4?mod=mw_rss_topstories",
+   "saat": "17:23",
+   "tarih_iso": "2026-08-31T17:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/energy-stocks-lead-in-subdued-final-trading-day-of-august-utilities-under-pressure-alphacheck-142014111.html",
+   "baslik": "Energy stocks lead in subdued final trading day of August, utilities under pressure: AlphaCheck",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/energy-stocks-lead-in-subdued-final-trading-day-of-august-utilities-under-pressure-alphacheck-142014111.html",
+   "saat": "17:20",
+   "tarih_iso": "2026-08-31T17:20:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/mp-materials-stock-bull-vs-142000457.html",
+   "baslik": "MP Materials Stock: Bull vs. Bear on This Top Rare Earth Bet",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-stock-bull-vs-142000457.html",
+   "saat": "17:20",
+   "tarih_iso": "2026-08-31T17:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/openais-ad-business-hits-1-billion-annualized-revenue-run-rate-4882977",
+   "baslik": "OpenAI’s ad business hits $1 billion annualized revenue run rate",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/openais-ad-business-hits-1-billion-annualized-revenue-run-rate-4882977",
+   "saat": "17:18",
+   "tarih_iso": "2026-08-31T17:18:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/pg-e-edison-head-for-biggest-stock-drop-in-years-on-california-wildfire-legislation-M0IinB8pyEibcOyZpMbQ?siteid=yhoof2&yptr=yahoo",
+   "baslik": "PG&E, Edison Head for Biggest Stock Drop in Years on California Wildfire Legislation",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/pg-e-edison-head-for-biggest-stock-drop-in-years-on-california-wildfire-legislation-M0IinB8pyEibcOyZpMbQ?siteid=yhoof2&yptr=yahoo",
+   "saat": "17:17",
+   "tarih_iso": "2026-08-31T17:17:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
+   "baslik": "The 'choose your own adventure' earnings: Why retailers are handling tariff refunds so differently",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/30/trump-tariff-refunds-walmart-home-depot-target.html",
+   "saat": "17:12",
+   "tarih_iso": "2026-08-31T17:12:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/chevron-exxon-mobil-rise-3-140704085.html",
+   "baslik": "Chevron and Exxon Mobil Rise 3% as U.S. Strikes on Iran Push WTI Crude Oil to $86",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/chevron-exxon-mobil-rise-3-140704085.html",
+   "saat": "17:07",
+   "tarih_iso": "2026-08-31T17:07:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/executive-waves-goodbye-10-000-140501354.html",
+   "baslik": "Executive Waves Goodbye to 10,000 Shares of Growth Stock, Valued at $310,000",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/executive-waves-goodbye-10-000-140501354.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-08-31T17:05:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/oneok-bets-4-4b-brazos-140200951.html",
+   "baslik": "ONEOK Bets $4.4B on Brazos as Apollo Injects $9B for Permian Growth",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/oneok-bets-4-4b-brazos-140200951.html",
+   "saat": "17:02",
+   "tarih_iso": "2026-08-31T17:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-trade-350-140053281.html",
+   "baslik": "Prediction: Nvidia Stock Will Trade at $350 on This Date",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-nvidia-stock-trade-350-140053281.html",
+   "saat": "17:00",
+   "tarih_iso": "2026-08-31T17:00:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/fed-chair-warshs-jackson-hole-135708514.html",
+   "baslik": "Fed Chair Warsh's Jackson Hole Debut: What He Said, and Didn't Say, About Rate Hikes",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-warshs-jackson-hole-135708514.html",
+   "saat": "16:57",
+   "tarih_iso": "2026-08-31T16:57:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/media-advertising/articles/openai-chatgpt-ads-hit-1-135620984.html",
+   "baslik": "OpenAI’s ChatGPT Ads Hit $1 Billion in Annualized Revenue in Just 200 Days — Now Sam Altman Is Taking the Business Global",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/media-advertising/articles/openai-chatgpt-ads-hit-1-135620984.html",
+   "saat": "16:56",
+   "tarih_iso": "2026-08-31T16:56:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/makes-dominion-energy-d-attractive-135522118.html",
+   "baslik": "What Makes Dominion Energy (D) an Attractive Bet?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/makes-dominion-energy-d-attractive-135522118.html",
+   "saat": "16:55",
+   "tarih_iso": "2026-08-31T16:55:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/martin-marietta-materials-mlm-stock-135247614.html",
+   "baslik": "Martin Marietta Materials (MLM) Stock Pulls Back on Expectations, Fundamentals Intact",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/martin-marietta-materials-mlm-stock-135247614.html",
+   "saat": "16:52",
+   "tarih_iso": "2026-08-31T16:52:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/gamestop-q2-2026-preliminary-results-133858780.html",
    "baslik": "GameStop Q2 2026 preliminary results: sales down, profit up",
@@ -1661,149 +1824,19 @@
    "tarih_iso": "2026-08-31T12:22:13+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T13:01:04.773089+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/both-hedge-funds-mutual-funds-092000348.html",
-   "baslik": "Both Hedge Funds and Mutual Funds Are Buying These Fantastic Fintech Stocks, and That's a Great Signal for Investors to Buy",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/both-hedge-funds-mutual-funds-092000348.html",
-   "saat": "12:20",
-   "tarih_iso": "2026-08-31T12:20:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:01:04.773089+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/does-p-500-august-gain-091001033.html",
-   "baslik": "What Does the S&P 500’s August Gain Say About the Rest of the Year? History’s Answer Is Strikingly Clear.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/does-p-500-august-gain-091001033.html",
-   "saat": "12:10",
-   "tarih_iso": "2026-08-31T12:10:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T12:30:52.699135+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-sounds-alarm-investors-090800990.html",
-   "baslik": "The Stock Market Sounds an Alarm as Investors Get Bad News About President Trump's Economy. History Says This Will Happen Next.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-sounds-alarm-investors-090800990.html",
-   "saat": "12:08",
-   "tarih_iso": "2026-08-31T12:08:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T12:30:52.699135+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/bond-finally-paid-wages-contractor-090525598.html",
-   "baslik": "A Bond Finally Paid the Wages His Contractor Never Did. Social Security Put Them in a Different Year.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/bond-finally-paid-wages-contractor-090525598.html",
-   "saat": "12:05",
-   "tarih_iso": "2026-08-31T12:05:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T12:30:52.699135+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/johnson-johnson-owns-stakes-15-090400503.html",
-   "baslik": "Johnson & Johnson Owns Stakes in 15 Stocks. Here's the Best of the Bunch.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-owns-stakes-15-090400503.html",
-   "saat": "12:04",
-   "tarih_iso": "2026-08-31T12:04:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T12:30:52.699135+03:00"
-  },
-  {
-   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-083126/card/oil-prices-likely-to-decline-in-near-term-Yq2mKHpMTsTkiG5AWGaD?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Oil Prices Likely to Decline in Near Term",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-083126/card/oil-prices-likely-to-decline-in-near-term-Yq2mKHpMTsTkiG5AWGaD?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:03",
-   "tarih_iso": "2026-08-31T12:03:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/riverview-bancorp-shareholders-back-directors-090154360.html",
-   "baslik": "Riverview Bancorp Shareholders Back Directors, Pay Plan and 2026 Stock Purchase Plan",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/riverview-bancorp-shareholders-back-directors-090154360.html",
-   "saat": "12:01",
-   "tarih_iso": "2026-08-31T12:01:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T12:30:52.699135+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bakkafrost-stock-sliding-today-93CH-4882318",
-   "baslik": "Why is Bakkafrost stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-bakkafrost-stock-sliding-today-93CH-4882318",
-   "saat": "12:01",
-   "tarih_iso": "2026-08-31T12:01:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T12:30:52.699135+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/arm-chief-faces-threat-investor-090000793.html",
-   "baslik": "Arm chief faces threat of investor revolt over $800m pay deal",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/arm-chief-faces-threat-investor-090000793.html",
-   "saat": "12:00",
-   "tarih_iso": "2026-08-31T12:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-083126/card/stock-futures-fall-as-the-fed-and-u-s-strikes-on-iran-send-jitters-through-markets-YfYIQguqhVTvmx5o8ECC?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Stock Futures Fall as Fed Fears and U.S. Strikes on Iran Send Jitters Through Markets",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-083126/card/stock-futures-fall-as-the-fed-and-u-s-strikes-on-iran-send-jitters-through-markets-YfYIQguqhVTvmx5o8ECC?siteid=yhoof2&yptr=yahoo",
-   "saat": "11:58",
-   "tarih_iso": "2026-08-31T11:58:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T13:30:55.606758+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-shandong-gold-mining-stock-surging-today-93CH-4882312",
-   "baslik": "Why is Shandong Gold Mining stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-shandong-gold-mining-stock-surging-today-93CH-4882312",
-   "saat": "11:57",
-   "tarih_iso": "2026-08-31T11:57:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T12:30:52.699135+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
-   "baslik": "Brent oil tops $90 after first U.S. and Iran fighting in a month",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
-   "saat": "11:55",
-   "tarih_iso": "2026-08-31T11:55:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T12:01:05.708940+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/finance/investing/u-s-stock-futures-little-changed-as-markets-weigh-warshs-hawkish-remarks-5a036994?siteid=yhoof2&yptr=yahoo",
-   "baslik": "U.S. Stock Futures Little Changed as Markets Weigh Warsh’s Hawkish Remarks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/finance/investing/u-s-stock-futures-little-changed-as-markets-weigh-warshs-hawkish-remarks-5a036994?siteid=yhoof2&yptr=yahoo",
-   "saat": "11:50",
-   "tarih_iso": "2026-08-31T11:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T12:30:52.699135+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/small-business/articles/victoria-beckham-posts-first-operating-084759972.html",
-   "baslik": "Victoria Beckham Posts First Operating Profit on Back of Double-Digit Sales Growth",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/small-business/articles/victoria-beckham-posts-first-operating-084759972.html",
-   "saat": "11:47",
-   "tarih_iso": "2026-08-31T11:47:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T12:30:52.699135+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://finance.yahoo.com/markets/stocks/articles/arizona-gold-silver-appoints-yale-140800299.html",
+   "baslik": "Arizona Gold & Silver appoints Yale Simpson as independent director",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/arizona-gold-silver-appoints-yale-140800299.html",
+   "saat": "17:08",
+   "tarih_iso": "2026-08-31T17:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T17:31:01.866086+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/markets/commodities/articles/tnr-gold-launches-2026-exploration-132600566.html",
    "baslik": "TNR Gold launches 2026 exploration program at Shotgun gold project in Alaska",
@@ -1975,5 +2008,5 @@
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
   }
  ],
- "guncelleme": "2026-08-31T17:01:08.098681+03:00"
+ "guncelleme": "2026-08-31T17:31:01.866086+03:00"
 }
