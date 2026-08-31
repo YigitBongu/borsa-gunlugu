@@ -2,6 +2,45 @@
  "tarih": "2026-08-31",
  "kap": [
   {
+   "id": "kap-my-ENJSA-202608311402",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ENJSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:02",
+   "tarih_iso": "2026-08-31T14:02:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "kap-my-EKGYO-202608311402",
+   "baslik": "HALK YATIRIM MENKUL DEĞERLER A.Ş. — Likidite Sağlayıcılık Kapsamındaki İşlemler",
+   "sirket": "HALK YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "EKGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:02",
+   "tarih_iso": "2026-08-31T14:02:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "kap-my-SDTTR-202608311358",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Merkezi Kayıt Kuruluşu A.Ş. Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:58",
+   "tarih_iso": "2026-08-31T13:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
    "id": "kap-my-IZENR-202608311123",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -82,6 +121,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/sampiyonlar-ligi-ne-zaman-basliyor-fenerbahce-ve-galatasaray-sampiyonlar-ligi-maci-tarihi-ve-saati-haberi-838221",
+   "baslik": "Şampiyonlar Ligi ne zaman başlıyor? Fenerbahçe ve Galatasaray Şampiyonlar Ligi maçı tarihi ve saati...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/sampiyonlar-ligi-ne-zaman-basliyor-fenerbahce-ve-galatasaray-sampiyonlar-ligi-maci-tarihi-ve-saati-haberi-838221",
+   "saat": "14:20",
+   "tarih_iso": "2026-08-31T14:20:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/istanbul-toplu-tasima-ucret-tarifesi-2026-ogrenci-tam-aylik-akbil-abonman-ne-kadar-oldu-iett-metro-metrobus-marmaray-kac-tl-basiyor-3444007",
    "baslik": "İSTANBUL TOPLU TAŞIMA ÜCRET TARİFESİ 2026 | Öğrenci, Tam Aylık Akbil, Abonman Ne Kadar Oldu? İETT, Metro, Metrobüs, Marmaray Kaç TL Basıyor?",
    "kaynak": "CNN Türk Ekonomi",
@@ -108,6 +159,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zam-orani-ne-zaman-aciklanacak-eylul-ayi-tefe-tufe-kira-artis-orani-tuik-3461095",
+   "baslik": "EYLÜL AYI KİRA ARTIŞ ORANI 2026 | Eylül kira zam oranı ne zaman açıklanacak? Eylül ayı TEFE-TÜFE kira artış oranı TÜİK",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zam-orani-ne-zaman-aciklanacak-eylul-ayi-tefe-tufe-kira-artis-orani-tuik-3461095",
+   "saat": "17:19",
+   "tarih_iso": "2026-08-31T17:19:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/bofa-temel-tuketim-urunlerinde-enflasyon-basks-goruyor-93CH-4049224",
    "baslik": "BofA, temel tüketim ürünlerinde enflasyon baskısı görüyor",
    "kaynak": "Investing TR",
@@ -116,6 +177,16 @@
    "tarih_iso": "2026-08-31T13:31:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T14:01:03.516981+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/asyanin-en-zengin-ulkesinde-nufus-alarmi-cocuk-yapana-47-bin-dolar-verecek-haberi-838218",
+   "baslik": "Asya'nın en zengin ülkesinde nüfus alarmı: Çocuk yapana 47 bin dolar verecek",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/asyanin-en-zengin-ulkesinde-nufus-alarmi-cocuk-yapana-47-bin-dolar-verecek-haberi-838218",
+   "saat": "13:23",
+   "tarih_iso": "2026-08-31T13:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkiyenin-elektrifikasyon-altyapisina-2035e-kadar-200-milyar-dolar-yatirim-ongoruluyor/4042448",
@@ -230,6 +301,106 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html",
+   "baslik": "Manhattan's luxury rental market is booming, with units reaching $100,000 a month",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/31/manhattan-luxury-rentals-100000-month.html",
+   "saat": "14:27",
+   "tarih_iso": "2026-08-31T14:27:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-surging-today-93CH-4882541",
+   "baslik": "Why is GameStop stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-surging-today-93CH-4882541",
+   "saat": "14:07",
+   "tarih_iso": "2026-08-31T14:07:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ceo-lip-bu-tan-just-110500352.html",
+   "baslik": "CEO Lip-Bu Tan Just Gave 12 Million Reasons to Buy Intel Stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ceo-lip-bu-tan-just-110500352.html",
+   "saat": "14:05",
+   "tarih_iso": "2026-08-31T14:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citi-examines-utility-stock-volatility-ahead-of-q3-end-93CH-4882520",
+   "baslik": "Citi examines utility stock volatility ahead of Q3 end",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citi-examines-utility-stock-volatility-ahead-of-q3-end-93CH-4882520",
+   "saat": "14:02",
+   "tarih_iso": "2026-08-31T14:02:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/biomarin-stock-jumps-after-ascendis-patent-settlement-deal-93CH-4882517",
+   "baslik": "BioMarin stock jumps after Ascendis patent settlement deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/biomarin-stock-jumps-after-ascendis-patent-settlement-deal-93CH-4882517",
+   "saat": "14:02",
+   "tarih_iso": "2026-08-31T14:02:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/08/31/santoli-why-investors-should-be-on-high-alert-heading-into-september.html",
+   "baslik": "Santoli: Why investors should be on high alert heading into September",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/31/santoli-why-investors-should-be-on-high-alert-heading-into-september.html",
+   "saat": "14:00",
+   "tarih_iso": "2026-08-31T14:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-edison-international-stock-tumbling-today-93CH-4882498",
+   "baslik": "Why is Edison International stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-edison-international-stock-tumbling-today-93CH-4882498",
+   "saat": "13:57",
+   "tarih_iso": "2026-08-31T13:57:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-pge-stock-plunging-today-93CH-4882492",
+   "baslik": "Why is PG&E stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-pge-stock-plunging-today-93CH-4882492",
+   "saat": "13:55",
+   "tarih_iso": "2026-08-31T13:55:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dow-jones-nasdaq-sp-500-weekly-preview-jobs-data-more-earnings-on-tap-4882488",
+   "baslik": "Dow Jones, Nasdaq, S&P 500 weekly preview: Jobs data, more earnings on tap",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dow-jones-nasdaq-sp-500-weekly-preview-jobs-data-more-earnings-on-tap-4882488",
+   "saat": "13:54",
+   "tarih_iso": "2026-08-31T13:54:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/finance/commodities-futures/gold-declines-pullback-could-be-due-to-profit-taking-282f2342?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Gold Falls as Hawkish Fed Outlook Keeps Yields Elevated",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-declines-pullback-could-be-due-to-profit-taking-282f2342?siteid=yhoof2&yptr=yahoo",
+   "saat": "13:38",
+   "tarih_iso": "2026-08-31T13:38:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/economy/articles/love-inflation-trump-shrugs-off-103500495.html",
    "baslik": "‘I love the inflation!’: Trump shrugs off rising prices — here’s what you can do before inflation eats into your savings",
    "kaynak": "Yahoo Finance",
@@ -238,6 +409,26 @@
    "tarih_iso": "2026-08-31T13:35:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T14:01:03.516981+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-stocks-still-worth-103500674.html",
+   "baslik": "Are The \"Magnificent Seven\" Stocks Still Worth Buying?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-stocks-still-worth-103500674.html",
+   "saat": "13:35",
+   "tarih_iso": "2026-08-31T13:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/p-500-fallen-56-septembers-103400820.html",
+   "baslik": "The S&P 500 Has Fallen in 56% of Septembers Since 1928. Here's What That Means for Artificial Intelligence (AI) Stocks.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-fallen-56-septembers-103400820.html",
+   "saat": "13:34",
+   "tarih_iso": "2026-08-31T13:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-039-4882443",
@@ -278,6 +469,16 @@
    "tarih_iso": "2026-08-31T13:20:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T14:01:03.516981+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/business/earnings/huawei-profit-slumps-by-a-third-on-r-d-expenses-raw-material-costs-3533ebad?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Huawei Profit Slumps by a Third on R&D Expenses, Raw-Material Costs",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/business/earnings/huawei-profit-slumps-by-a-third-on-r-d-expenses-raw-material-costs-3533ebad?siteid=yhoof2&yptr=yahoo",
+   "saat": "13:16",
+   "tarih_iso": "2026-08-31T13:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/trump-to-host-oil-executives-after-accusing-refiners-of-gouging-consumers-4882409",
@@ -370,6 +571,16 @@
    "eklenme": "2026-08-31T13:30:55.606758+03:00"
   },
   {
+   "id": "yab-https://www.wsj.com/cfo-journal/companies-plow-tariff-refunds-into-price-cuts-appealing-to-stretched-consumers-c5f683b1?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Companies Plow Tariff Refunds Into Price Cuts, Appealing to Stretched Consumers",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/cfo-journal/companies-plow-tariff-refunds-into-price-cuts-appealing-to-stretched-consumers-c5f683b1?siteid=yhoof2&yptr=yahoo",
+   "saat": "13:00",
+   "tarih_iso": "2026-08-31T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-antelope-enterprise-stock-surging-65-today-93CH-4882367",
    "baslik": "Why is Antelope Enterprise stock surging 65% today?",
    "kaynak": "Investing.com",
@@ -408,6 +619,16 @@
    "tarih_iso": "2026-08-31T12:49:41+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T13:01:04.773089+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/stocks-to-watch-pg-e-intel-chevron-eLbKJqWCN3hjlHXGy9qp?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Stocks to Watch: PG&E, Intel, Chevron",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/stocks-to-watch-pg-e-intel-chevron-eLbKJqWCN3hjlHXGy9qp?siteid=yhoof2&yptr=yahoo",
+   "saat": "12:45",
+   "tarih_iso": "2026-08-31T12:45:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T14:30:50.401593+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/micron-report-fiscal-q4-earnings-094400531.html",
@@ -1202,5 +1423,5 @@
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
   }
  ],
- "guncelleme": "2026-08-31T14:01:03.516981+03:00"
+ "guncelleme": "2026-08-31T14:30:50.401593+03:00"
 }
