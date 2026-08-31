@@ -1,7 +1,33 @@
 {
  "tarih": "2026-08-31",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-CWENE-202608310850",
+   "baslik": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:50",
+   "tarih_iso": "2026-08-31T08:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-08-31T09:30:47.856517+03:00"
+  }
+ ],
  "sirket": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/istanbul-toplu-tasima-ucret-tarifesi-2026-ogrenci-tam-aylik-akbil-abonman-ne-kadar-oldu-iett-metro-metrobus-marmaray-kac-tl-basiyor-3444007",
+   "baslik": "İSTANBUL TOPLU TAŞIMA ÜCRET TARİFESİ 2026 | Öğrenci, Tam Aylık Akbil, Abonman Ne Kadar Oldu? İETT, Metro, Metrobüs, Marmaray Kaç TL Basıyor?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/istanbul-toplu-tasima-ucret-tarifesi-2026-ogrenci-tam-aylik-akbil-abonman-ne-kadar-oldu-iett-metro-metrobus-marmaray-kac-tl-basiyor-3444007",
+   "saat": "12:18",
+   "tarih_iso": "2026-08-31T12:18:31+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-08-31T09:30:47.856517+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-samsundan-3-puanla-donuyor-haberi-838150",
    "baslik": "Fenerbahçe Samsun'dan 3 puanla dönüyor",
@@ -16,6 +42,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fede-iliskin-faiz-artirim-beklentileri-ve-jeopolitik-gerilimler-piyasalari-baskiliyor/4042130",
+   "baslik": "Fed'e ilişkin faiz artırım beklentileri ve jeopolitik gerilimler piyasaları baskılıyor",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fede-iliskin-faiz-artirim-beklentileri-ve-jeopolitik-gerilimler-piyasalari-baskiliyor/4042130",
+   "saat": "09:06",
+   "tarih_iso": "2026-08-31T09:06:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T09:30:47.856517+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/bitcoinde-bir-saatte-sert-dusus-200-milyon-dolar-silindi-galeri-838166",
    "baslik": "Bitcoin'de bir saatte sert düşüş: 200 milyon dolar silindi",
@@ -69,6 +105,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/inpost-q2-profit-falls-30-cuts-2026-profit-outlook-as-uk-turnaround-lags-93CH-4882168",
+   "baslik": "InPost Q2 profit falls 30%, cuts 2026 profit outlook as UK turnaround lags",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/inpost-q2-profit-falls-30-cuts-2026-profit-outlook-as-uk-turnaround-lags-93CH-4882168",
+   "saat": "09:20",
+   "tarih_iso": "2026-08-31T09:20:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T09:30:47.856517+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-names-top-european-software-stocks-for-2026-93CH-4882166",
+   "baslik": "BofA Names Top European Software Stocks for 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bofa-names-top-european-software-stocks-for-2026-93CH-4882166",
+   "saat": "09:19",
+   "tarih_iso": "2026-08-31T09:19:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T09:30:47.856517+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-byd-stock-sliding-today-93CH-4882161",
+   "baslik": "Why is BYD stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-byd-stock-sliding-today-93CH-4882161",
+   "saat": "09:10",
+   "tarih_iso": "2026-08-31T09:10:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T09:30:47.856517+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-076-4882155",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.76%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-076-4882155",
+   "saat": "09:05",
+   "tarih_iso": "2026-08-31T09:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T09:30:47.856517+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
    "baslik": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again",
    "kaynak": "CNBC",
@@ -77,6 +153,16 @@
    "tarih_iso": "2026-08-31T08:49:48+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/byd-shares-drop-as-h1-profit-falls-on-tough-chinese-market-4882152",
+   "baslik": "BYD shares drop as H1 profit falls on tough Chinese market",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/byd-shares-drop-as-h1-profit-falls-on-tough-chinese-market-4882152",
+   "saat": "08:47",
+   "tarih_iso": "2026-08-31T08:47:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-08-31T09:30:47.856517+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/china-property-stocks-slide-as-new-mortgage-rules-raise-funding-concerns-4882148",
@@ -251,5 +337,5 @@
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
   }
  ],
- "guncelleme": "2026-08-31T09:01:06.911209+03:00"
+ "guncelleme": "2026-08-31T09:30:47.856517+03:00"
 }
