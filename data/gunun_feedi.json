@@ -1,6 +1,33 @@
 {
  "tarih": "2026-09-01",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-BAGFS-202609010854",
+   "baslik": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş.",
+   "kodlar": [
+    "BAGFS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:54",
+   "tarih_iso": "2026-09-01T08:54:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T09:30:55.725605+03:00"
+  },
+  {
+   "id": "kap-my-SAHOL-202609010753",
+   "baslik": "HACI ÖMER SABANCI HOLDİNG A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "07:53",
+   "tarih_iso": "2026-09-01T07:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T09:30:55.725605+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.haberturk.com/togg-da-ortaklik-yapisi-degisiyor-mu-uc-sirketten-kap-a-aciklama-3909433-ekonomi",
@@ -78,6 +105,16 @@
    "eklenme": "2026-09-01T09:01:00.198347+03:00"
   },
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-fede-iliskin-beklentiler-ve-jeopolitik-gerilimlerle-negatif-seyrediyor/4043242",
+   "baslik": "Küresel piyasalar Fed'e ilişkin beklentiler ve jeopolitik gerilimlerle negatif seyrediyor",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-fede-iliskin-beklentiler-ve-jeopolitik-gerilimlerle-negatif-seyrediyor/4043242",
+   "saat": "09:03",
+   "tarih_iso": "2026-09-01T09:03:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T09:30:55.725605+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/gozler-enflasyon-rakamlarinda-ekonomistler-agustos-ayi-icin-son-tahminlerini-acikladi-3909426-ekonomi",
    "baslik": "Gözler enflasyon rakamlarında",
    "kaynak": "Habertürk Ekonomi",
@@ -99,6 +136,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
+   "baslik": "Shein shares slide in Hong Kong debut as investors fret about growth and regulatory risks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-01T09:00:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T09:30:55.725605+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-135-4883509",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.35%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-135-4883509",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-01T09:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T09:30:55.725605+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chinese-retail-stocks-gain-as-beijing-unveils-fresh-measures-to-boost-consumption-4883504",
+   "baslik": "Chinese retail stocks gain as Beijing unveils fresh measures to boost consumption",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chinese-retail-stocks-gain-as-beijing-unveils-fresh-measures-to-boost-consumption-4883504",
+   "saat": "08:49",
+   "tarih_iso": "2026-09-01T08:49:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T09:30:55.725605+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-to-announce-sharply-lower-vehicle-fuel-economy-requirements-4883145",
+   "baslik": "US to announce sharply lower vehicle fuel economy requirements",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-to-announce-sharply-lower-vehicle-fuel-economy-requirements-4883145",
+   "saat": "08:48",
+   "tarih_iso": "2026-09-01T08:48:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T09:30:55.725605+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-china-cinda-asset-management-stock-sliding-today-93CH-4883502",
    "baslik": "Why is China Cinda Asset Management stock sliding today?",
@@ -502,5 +579,5 @@
    "eklenme": "2026-09-01T09:01:00.198347+03:00"
   }
  ],
- "guncelleme": "2026-09-01T09:01:00.198347+03:00"
+ "guncelleme": "2026-09-01T09:30:55.725605+03:00"
 }
