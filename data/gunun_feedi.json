@@ -2,6 +2,71 @@
  "tarih": "2026-09-01",
  "kap": [
   {
+   "id": "kap-my-GESAN-202609011021",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:21",
+   "tarih_iso": "2026-09-01T10:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202609011020",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "10:20",
+   "tarih_iso": "2026-09-01T10:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
+   "id": "kap-my-MIATK-202609011014",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Genel Kurul İşlemlerine İlişkin Bildirim",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:14",
+   "tarih_iso": "2026-09-01T10:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
+   "id": "kap-my-EUPWR-202609011009",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:09",
+   "tarih_iso": "2026-09-01T10:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
+   "id": "kap-my-GLYHO-202609011005",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:05",
+   "tarih_iso": "2026-09-01T10:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
    "id": "kap-my-BAGFS-202609010854",
    "baslik": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş.",
@@ -136,6 +201,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/187-gains-and-counting-a-new-list-of-aipicked-stocks-for-september-is-now-live-4883410",
+   "baslik": "187%+ gains and counting: A new list of AI-picked stocks for September IS NOW LIVE",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/187-gains-and-counting-a-new-list-of-aipicked-stocks-for-september-is-now-live-4883410",
+   "saat": "10:54",
+   "tarih_iso": "2026-09-01T10:54:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/teslas-european-registrations-mixed-in-august-with-strong-france-denmark-supporting-growth-4883571",
+   "baslik": "Tesla’s European registrations mixed in August, with strong France, Denmark supporting growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/teslas-european-registrations-mixed-in-august-with-strong-france-denmark-supporting-growth-4883571",
+   "saat": "10:43",
+   "tarih_iso": "2026-09-01T10:43:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ashtead-technology-stock-sliding-today-93CH-4883569",
+   "baslik": "Why is Ashtead Technology stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ashtead-technology-stock-sliding-today-93CH-4883569",
+   "saat": "10:40",
+   "tarih_iso": "2026-09-01T10:40:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bunzl-stock-surging-today-93CH-4883568",
+   "baslik": "Why is Bunzl stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bunzl-stock-surging-today-93CH-4883568",
+   "saat": "10:39",
+   "tarih_iso": "2026-09-01T10:39:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/london-stocks-fall-postholiday-as-global-bond-rout-and-middle-east-strikes-weigh-4883559",
+   "baslik": "London stocks fall post-holiday as global bond rout and Middle East strikes weigh",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/london-stocks-fall-postholiday-as-global-bond-rout-and-middle-east-strikes-weigh-4883559",
+   "saat": "10:28",
+   "tarih_iso": "2026-09-01T10:28:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-flat-as-bond-selloff-and-fresh-middle-east-strikes-rattles-market-4883554",
    "baslik": "European stocks flat as bond sell-off and fresh Middle East strikes rattles market",
@@ -589,6 +704,46 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/will-gold-be-able-to-recover-200686872",
+   "baslik": "Will Gold Be Able to Recover?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/will-gold-be-able-to-recover-200686872",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-and-silver-recover-some-losses-200686866",
+   "baslik": "Gold and Silver Recover Some Losses",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-and-silver-recover-some-losses-200686866",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-renewed-tensions-and-energydriven-inflation-may-trigger-selling-pressure-200686865",
+   "baslik": "Gold: Renewed Tensions and Energy-Driven Inflation May Trigger Selling Pressure",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-renewed-tensions-and-energydriven-inflation-may-trigger-selling-pressure-200686865",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-tests-4400-support-what-would-confirm-the-next-move-200686846",
+   "baslik": "Gold Tests $4,400 Support: What Would Confirm the Next Move?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-tests-4400-support-what-would-confirm-the-next-move-200686846",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-01T11:01:01.764467+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-forecast-is-the-us-dollar-debasement-trade-dead-200686860",
    "baslik": "Gold Forecast: Is the US Dollar Debasement Trade Dead?",
    "kaynak": "Investing Emtia",
@@ -669,5 +824,5 @@
    "eklenme": "2026-09-01T09:01:00.198347+03:00"
   }
  ],
- "guncelleme": "2026-09-01T10:30:54.195257+03:00"
+ "guncelleme": "2026-09-01T11:01:01.764467+03:00"
 }
