@@ -2,6 +2,32 @@
  "tarih": "2026-09-01",
  "kap": [
   {
+   "id": "kap-my-HALKB-202609011333",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "HALKB"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:33",
+   "tarih_iso": "2026-09-01T13:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
+   "id": "kap-my-CIMSA-202609011313",
+   "baslik": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "CIMSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:13",
+   "tarih_iso": "2026-09-01T13:13:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
    "id": "kap-my-CANTE-202609011150",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -337,6 +363,106 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-park-hotels--resorts-stock-gaining-today-93CH-4883777",
+   "baslik": "Why is Park Hotels & Resorts stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-park-hotels--resorts-stock-gaining-today-93CH-4883777",
+   "saat": "13:52",
+   "tarih_iso": "2026-09-01T13:52:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/suddenly-wall-street-is-getting-a-bit-nervous-here-are-two-ways-to-prepare-for-potential-turbulence-a5c0e430?mod=mw_rss_topstories",
+   "baslik": "Suddenly Wall Street is getting a bit nervous. Here are two ways to prepare for potential turbulence.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/suddenly-wall-street-is-getting-a-bit-nervous-here-are-two-ways-to-prepare-for-potential-turbulence-a5c0e430?mod=mw_rss_topstories",
+   "saat": "13:49",
+   "tarih_iso": "2026-09-01T13:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sb-energy-files-for-ipo-amid-data-center-power-demand-growth-93CH-4883771",
+   "baslik": "SB Energy files for IPO amid data center power demand growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sb-energy-files-for-ipo-amid-data-center-power-demand-growth-93CH-4883771",
+   "saat": "13:48",
+   "tarih_iso": "2026-09-01T13:48:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-barclays-stock-sliding-today-93CH-4883767",
+   "baslik": "Why is Barclays stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-barclays-stock-sliding-today-93CH-4883767",
+   "saat": "13:45",
+   "tarih_iso": "2026-09-01T13:45:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/exclusive-uk-stock-market-approaching-irrelevance-webull-uk-ceo-says-4883762",
+   "baslik": "Exclusive: U.K. stock market ’approaching irrelevance’, Webull U.K. CEO says",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/exclusive-uk-stock-market-approaching-irrelevance-webull-uk-ceo-says-4883762",
+   "saat": "13:42",
+   "tarih_iso": "2026-09-01T13:42:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-andersen-stock-climbing-today-93CH-4883760",
+   "baslik": "Why is Andersen stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-andersen-stock-climbing-today-93CH-4883760",
+   "saat": "13:39",
+   "tarih_iso": "2026-09-01T13:39:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ormat-technologies-stock-climbing-today-93CH-4883759",
+   "baslik": "Why is Ormat Technologies stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ormat-technologies-stock-climbing-today-93CH-4883759",
+   "saat": "13:38",
+   "tarih_iso": "2026-09-01T13:38:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-opus-genetics-stock-rallying-today-93CH-4883758",
+   "baslik": "Why is Opus Genetics stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-opus-genetics-stock-rallying-today-93CH-4883758",
+   "saat": "13:38",
+   "tarih_iso": "2026-09-01T13:38:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nvidia-just-slid-5-post-103500903.html",
+   "baslik": "Nvidia Just Slid 5% Post-Earnings. Again. CEO Jensen Huang Insists \"This Time Is Different.\" Is the Stock Still a Buy?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-slid-5-post-103500903.html",
+   "saat": "13:35",
+   "tarih_iso": "2026-09-01T13:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/commodities/articles/prediction-market-cools-bullion-fed-102800684.html",
+   "baslik": "Prediction market cools on bullion after Fed hawkishness revives rate-hike bets",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/prediction-market-cools-bullion-fed-102800684.html",
+   "saat": "13:28",
+   "tarih_iso": "2026-09-01T13:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/article/how-you-can-quickly-tell-wall-street-still-really-loves-tech-stocks-102324025.html",
    "baslik": "How you can quickly tell Wall Street still really loves tech stocks",
    "kaynak": "Yahoo Finance",
@@ -355,6 +481,16 @@
    "tarih_iso": "2026-09-01T13:22:19+03:00",
    "kodlar": [],
    "eklenme": "2026-09-01T13:30:58.969499+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/alphabet-stock-has-tanked-to-close-out-the-summer-because-of-a-brain-drain--what-may-happen-to-it-next-102219947.html",
+   "baslik": "Alphabet stock has tanked to close out the summer because of a 'brain drain' — what may happen to it next",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/alphabet-stock-has-tanked-to-close-out-the-summer-because-of-a-brain-drain--what-may-happen-to-it-next-102219947.html",
+   "saat": "13:22",
+   "tarih_iso": "2026-09-01T13:22:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/commodities/articles/brazil-claims-top-cotton-exporter-102020679.html",
@@ -585,6 +721,16 @@
    "tarih_iso": "2026-09-01T12:30:33+03:00",
    "kodlar": [],
    "eklenme": "2026-09-01T13:01:00.210026+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/price-not-politics-driving-most-093000043.html",
+   "baslik": "Price, Not Politics, Is Driving Most of India’s Oil Buying",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/price-not-politics-driving-most-093000043.html",
+   "saat": "12:30",
+   "tarih_iso": "2026-09-01T12:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/energy/articles/oil-prices-rise-renewed-u-092708009.html",
@@ -1289,6 +1435,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://finance.yahoo.com/markets/commodities/articles/prediction-market-cools-bullion-fed-102800684.html",
+   "baslik": "Prediction market cools on bullion after Fed hawkishness revives rate-hike bets",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/prediction-market-cools-bullion-fed-102800684.html",
+   "saat": "13:28",
+   "tarih_iso": "2026-09-01T13:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T13:59:05.671429+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-price-analysis-xauusd-holds-4400-after-hawkish-warsh-200686880",
    "baslik": "Gold Price Analysis: XAU/USD Holds $4,400 After Hawkish Warsh",
    "kaynak": "Investing Emtia",
@@ -1459,5 +1615,5 @@
    "eklenme": "2026-09-01T09:01:00.198347+03:00"
   }
  ],
- "guncelleme": "2026-09-01T13:30:58.969499+03:00"
+ "guncelleme": "2026-09-01T13:59:05.671429+03:00"
 }
