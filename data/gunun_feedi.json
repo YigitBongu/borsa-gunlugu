@@ -2,6 +2,32 @@
  "tarih": "2026-09-01",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202609011433",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "14:33",
+   "tarih_iso": "2026-09-01T14:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T15:01:05.579385+03:00"
+  },
+  {
+   "id": "kap-my-CWENE-202609011406",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:06",
+   "tarih_iso": "2026-09-01T14:06:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T15:01:05.579385+03:00"
+  },
+  {
    "id": "kap-my-KRDMD-202609011402",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -146,6 +172,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-roma-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sampiyonlar-ligi-maci-tarihi-ve-saati-haberi-838350",
+   "baslik": "Fenerbahçe Roma maçı ne zaman, saat kaçta, hangi kanalda? FB Şampiyonlar Ligi maçı tarihi ve saati...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-roma-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-sampiyonlar-ligi-maci-tarihi-ve-saati-haberi-838350",
+   "saat": "14:49",
+   "tarih_iso": "2026-09-01T14:49:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-01T15:01:05.579385+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/turkiye-varlik-fonu-surdurulebilir-finansman-cercevesi-yayimladi-3909496-ekonomi",
    "baslik": "TVF, Sürdürülebilir Finansman Çerçevesi yayımladı",
@@ -385,6 +423,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/shein-stock-falls-hong-kong-114132096.html",
+   "baslik": "Shein stock falls in Hong Kong IPO debut, valued at $26 billion",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/shein-stock-falls-hong-kong-114132096.html",
+   "saat": "14:41",
+   "tarih_iso": "2026-09-01T14:41:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T15:01:05.579385+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/inflation-iran-interest-rates-weigh-114100761.html",
+   "baslik": "Inflation, Iran and interest rates weigh on sentiment ahead of the bell on Wall Street",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/inflation-iran-interest-rates-weigh-114100761.html",
+   "saat": "14:41",
+   "tarih_iso": "2026-09-01T14:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T15:01:05.579385+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-2-114000114.html",
+   "baslik": "If a Stock Market Crash Is Coming, These 2 Growth Stocks Might Be Worth Selling",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-2-114000114.html",
+   "saat": "14:40",
+   "tarih_iso": "2026-09-01T14:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T15:01:05.579385+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/why-dells-stock-stands-to-gain-from-developments-at-nvidia-and-spacex-7978fcaf?mod=mw_rss_topstories",
    "baslik": "Why Dell’s stock stands to gain from developments at Nvidia and SpaceX",
@@ -1554,36 +1622,6 @@
    "tarih_iso": "2026-08-31T20:18:15+03:00",
    "kodlar": [],
    "eklenme": "2026-09-01T09:01:00.198347+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-   "baslik": "AI could cause global economic downturn, Andrew Bailey warns G20",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-   "saat": "19:49",
-   "tarih_iso": "2026-08-31T19:49:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T09:01:00.198347+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
-   "baslik": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
-   "saat": "19:33",
-   "tarih_iso": "2026-08-31T19:33:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T09:01:00.198347+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
-   "baslik": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
-   "kaynak": "CNBC Finans",
-   "link": "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
-   "saat": "18:15",
-   "tarih_iso": "2026-08-31T18:15:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T09:01:00.198347+03:00"
   }
  ],
  "altin_haber": [
@@ -1788,5 +1826,5 @@
    "eklenme": "2026-09-01T09:01:00.198347+03:00"
   }
  ],
- "guncelleme": "2026-09-01T14:30:52.264289+03:00"
+ "guncelleme": "2026-09-01T15:01:05.579385+03:00"
 }
