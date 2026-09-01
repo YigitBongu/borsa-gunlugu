@@ -595,6 +595,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/bessent-japonyadan-mali-surdurulebilirlik-ve-faiz-arts-yolu-istiyor-4049996",
+   "baslik": "Bessent Japonya’dan mali sürdürülebilirlik ve faiz artışı yolu istiyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/bessent-japonyadan-mali-surdurulebilirlik-ve-faiz-arts-yolu-istiyor-4049996",
+   "saat": "03:32",
+   "tarih_iso": "2026-09-01T03:32:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T04:01:02.250453+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-faiz-ve-iran-gerginligi-ile-sakin-4049992",
+   "baslik": "ABD hisse senedi vadeli işlemleri faiz ve İran gerginliği ile sakin",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-faiz-ve-iran-gerginligi-ile-sakin-4049992",
+   "saat": "03:30",
+   "tarih_iso": "2026-09-01T03:30:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T04:01:02.250453+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/latin-amerika-piyasalar-karsk-seyretti-dolar-zayflad-petrol-yukseldi-93CH-4049893",
    "baslik": "Latin Amerika piyasaları karışık seyretti, dolar zayıfladı, petrol yükseldi",
    "kaynak": "Investing TR",
@@ -866,6 +886,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bessent-urges-japan-to-show-path-to-fiscal-sustainability-rate-hike--nhk-reports-4883406",
+   "baslik": "Bessent urges Japan to show path to fiscal sustainability, rate hike - NHK reports",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bessent-urges-japan-to-show-path-to-fiscal-sustainability-rate-hike--nhk-reports-4883406",
+   "saat": "03:32",
+   "tarih_iso": "2026-09-01T03:32:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T04:01:02.250453+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-markets-digest-rate-risks-iran-escalation-4883399",
+   "baslik": "U.S. stock futures steady as markets digest rate risks, Iran escalation",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-as-markets-digest-rate-risks-iran-escalation-4883399",
+   "saat": "03:30",
+   "tarih_iso": "2026-09-01T03:30:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T04:01:02.250453+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/california-opposes-paramount-request-for-188-billion-bond-4883374",
    "baslik": "California opposes Paramount request for $1.88 billion bond",
@@ -2045,26 +2085,6 @@
    "tarih_iso": "2026-08-31T18:09:18+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T18:30:52.898775+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/inpost-delivers-growth-margin-hangover-150804622.html",
-   "baslik": "InPost Delivers Growth With a Margin Hangover",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/inpost-delivers-growth-margin-hangover-150804622.html",
-   "saat": "18:08",
-   "tarih_iso": "2026-08-31T18:08:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T19:30:57.223129+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/best-dividend-stock-2027-beyond-150500244.html",
-   "baslik": "The Best Dividend Stock for 2027 and Beyond: Procter & Gamble",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/best-dividend-stock-2027-beyond-150500244.html",
-   "saat": "18:05",
-   "tarih_iso": "2026-08-31T18:05:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T18:30:52.898775+03:00"
   }
  ],
  "altin_haber": [
@@ -2299,5 +2319,5 @@
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
   }
  ],
- "guncelleme": "2026-09-01T03:30:51.825627+03:00"
+ "guncelleme": "2026-09-01T04:01:02.250453+03:00"
 }
