@@ -2,6 +2,32 @@
  "tarih": "2026-09-01",
  "kap": [
   {
+   "id": "kap-my-TSKB-202609011912",
+   "baslik": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.",
+   "kodlar": [
+    "TSKB"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:12",
+   "tarih_iso": "2026-09-01T19:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
+   "id": "kap-my-TUPRS-202609011847",
+   "baslik": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:47",
+   "tarih_iso": "2026-09-01T18:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
    "id": "kap-my-MIATK-202609011706",
    "baslik": "MİA TEKNOLOJİ A.Ş. — Esas Sözleşme Tadili",
    "sirket": "MİA TEKNOLOJİ A.Ş.",
@@ -389,6 +415,66 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/agustos-ayi-enflasyon-rakamlari-icin-gozler-tuik-verilerinde-3461609",
+   "baslik": "Ağustos ayı enflasyon rakamları için gözler TÜİK verilerinde",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/agustos-ayi-enflasyon-rakamlari-icin-gozler-tuik-verilerinde-3461609",
+   "saat": "21:45",
+   "tarih_iso": "2026-09-01T21:45:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/son-dakika-borsa-istanbul-sali-gununu-dususle-tamamladi-3461610",
+   "baslik": "SON DAKİKA | Borsa İstanbul salı gününü düşüşle tamamladı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-istanbul-sali-gununu-dususle-tamamladi-3461610",
+   "saat": "21:34",
+   "tarih_iso": "2026-09-01T21:34:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/avrupa-borsalari-kuresel-faiz-baskisi-ve-jeopolitik-gerilimlerle-gunu-dususle-kapatti-haberi-838413",
+   "baslik": "Avrupa borsaları küresel faiz baskısı ve jeopolitik gerilimlerle günü düşüşle kapattı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/avrupa-borsalari-kuresel-faiz-baskisi-ve-jeopolitik-gerilimlerle-gunu-dususle-kapatti-haberi-838413",
+   "saat": "21:19",
+   "tarih_iso": "2026-09-01T21:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/dunya/abd-hazine-bakani-bessent-irana-karsi-yeni-yaptirim-geliyor-haberi-838394",
+   "baslik": "ABD Hazine Bakanı Bessent: İran'a karşı yeni yaptırım geliyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/abd-hazine-bakani-bessent-irana-karsi-yeni-yaptirim-geliyor-haberi-838394",
+   "saat": "19:02",
+   "tarih_iso": "2026-09-01T19:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-bessent-bu-hafta-bir-bankaya-yaptirim-aciklanabilecegini-soyledi/4044250",
+   "baslik": "ABD Hazine Bakanı Bessent, bu hafta bir bankaya yaptırım açıklanabileceğini söyledi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-bessent-bu-hafta-bir-bankaya-yaptirim-aciklanabilecegini-soyledi/4044250",
+   "saat": "18:54",
+   "tarih_iso": "2026-09-01T18:54:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-838386",
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-838386",
+   "saat": "18:31",
+   "tarih_iso": "2026-09-01T18:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/dolar-zayifliyor-yatirimci-rotasini-degistirdi-iste-yeni-adres-3461454",
    "baslik": "Dolar zayıflıyor, yatırımcı rotasını değiştirdi: İşte yeni adres",
    "kaynak": "CNN Türk Ekonomi",
@@ -551,6 +637,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+   "baslik": "Palo Alto Networks’ stock climbs as demand for AI cybersecurity powers an earnings beat",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
+   "saat": "23:46",
+   "tarih_iso": "2026-09-01T23:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-079-4884595",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.79%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-079-4884595",
+   "saat": "23:31",
+   "tarih_iso": "2026-09-01T23:31:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-123-4884593",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 1.23%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-123-4884593",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-01T23:30:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-130-4884591",
+   "baslik": "Brazil stocks higher at close of trade; Bovespa up 1.30%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-130-4884591",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-01T23:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
    "baslik": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
    "kaynak": "MarketWatch",
@@ -559,6 +685,16 @@
    "tarih_iso": "2026-09-01T23:16:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-01T23:30:55.520787+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/options-explained-how-they-work-how-they-move-markets-and-how-to-trade-them-93CH-4884541",
+   "baslik": "Options explained: how they work, how they move markets, and how to trade them",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/options-explained-how-they-work-how-they-move-markets-and-how-to-trade-them-93CH-4884541",
+   "saat": "23:03",
+   "tarih_iso": "2026-09-01T23:03:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T00:01:08.277257+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/snowflake-earnings-outlook-three-tests-investors-should-watch-93CH-4884523",
@@ -1699,56 +1835,6 @@
    "tarih_iso": "2026-09-01T16:04:54+03:00",
    "kodlar": [],
    "eklenme": "2026-09-01T16:30:55.524006+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
-   "baslik": "How one of the largest investors in student housing is playing this school year",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
-   "saat": "16:00",
-   "tarih_iso": "2026-09-01T16:00:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T16:30:55.524006+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-   "baslik": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
-   "saat": "15:59",
-   "tarih_iso": "2026-09-01T15:59:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T16:01:08.400802+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/riverwater-partners-betting-oceaneering-international-125408299.html",
-   "baslik": "Riverwater Partners Is Betting on Oceaneering International (OII) as Offshore Energy Spending Recovers",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/riverwater-partners-betting-oceaneering-international-125408299.html",
-   "saat": "15:54",
-   "tarih_iso": "2026-09-01T15:54:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T16:30:55.524006+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/riverwater-sees-market-overreaction-stevanato-125025589.html",
-   "baslik": "Riverwater Sees a Market Overreaction in Stevanato Group (STVN) After Oral GLP-1 Launches",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/riverwater-sees-market-overreaction-stevanato-125025589.html",
-   "saat": "15:50",
-   "tarih_iso": "2026-09-01T15:50:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T16:01:08.400802+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/market-keeps-punishing-mercadolibre-growing-125000044.html",
-   "baslik": "The Market Keeps Punishing MercadoLibre for Growing Too Fast. Here's Why That's Exactly When to Buy.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/market-keeps-punishing-mercadolibre-growing-125000044.html",
-   "saat": "15:50",
-   "tarih_iso": "2026-09-01T15:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T16:01:08.400802+03:00"
   }
  ],
  "altin_haber": [
@@ -2073,5 +2159,5 @@
    "eklenme": "2026-09-01T09:01:00.198347+03:00"
   }
  ],
- "guncelleme": "2026-09-01T23:30:55.520787+03:00"
+ "guncelleme": "2026-09-02T00:01:08.277257+03:00"
 }
