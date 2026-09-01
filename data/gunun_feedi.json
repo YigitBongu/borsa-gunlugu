@@ -2,6 +2,32 @@
  "tarih": "2026-09-01",
  "kap": [
   {
+   "id": "kap-my-IZENR-202609011603",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "IZENR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:03",
+   "tarih_iso": "2026-09-01T16:03:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "kap-my-FENER-202609011547",
+   "baslik": "FENERBAHÇE FUTBOL A.Ş. — Hak Kullanım Süreç İptal Bildirimi",
+   "sirket": "FENERBAHÇE FUTBOL A.Ş.",
+   "kodlar": [
+    "FENER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:47",
+   "tarih_iso": "2026-09-01T15:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
    "id": "kap-my-VAKBN-202609011521",
    "baslik": "TÜRKİYE VAKIFLAR BANKASI T.A.O. — Şirket Genel Bilgi Formu",
    "sirket": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
@@ -462,6 +488,136 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
+   "baslik": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/08/31/trump-us-gdp-growth-20-percent-economy.html",
+   "saat": "16:22",
+   "tarih_iso": "2026-09-01T16:22:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/fervo-energy-signs-record-396-131540832.html",
+   "baslik": "Fervo Energy signs record 396 MW geothermal deal with Google",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/fervo-energy-signs-record-396-131540832.html",
+   "saat": "16:15",
+   "tarih_iso": "2026-09-01T16:15:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-global-bond-131516395.html",
+   "baslik": "Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-global-bond-131516395.html",
+   "saat": "16:15",
+   "tarih_iso": "2026-09-01T16:15:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stonex-snex-doubled-lows-trading-131108685.html",
+   "baslik": "StoneX (SNEX) Doubled From Its Lows as Trading Activity Surged — Can the Growth Continue?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stonex-snex-doubled-lows-trading-131108685.html",
+   "saat": "16:11",
+   "tarih_iso": "2026-09-01T16:11:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/global-bond-yields-surge-oil-100600156.html",
+   "baslik": "U.K. Government Bond Yields Surge to Multiyear Highs",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/global-bond-yields-surge-oil-100600156.html",
+   "saat": "16:11",
+   "tarih_iso": "2026-09-01T16:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/feds-barr-open-rate-hike-130644777.html",
+   "baslik": "Fed's Barr open to rate hike if inflation does not moderate",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/feds-barr-open-rate-hike-130644777.html",
+   "saat": "16:09",
+   "tarih_iso": "2026-09-01T16:09:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/grand-canyon-education-lope-steady-130833049.html",
+   "baslik": "Grand Canyon Education (LOPE): A Steady Cash-Generating Business Ignored in a Speculative Market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/grand-canyon-education-lope-steady-130833049.html",
+   "saat": "16:08",
+   "tarih_iso": "2026-09-01T16:08:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/article/feds-barr-if-inflation-doesnt-moderate-the-central-bank-should-raise-rates-130701589.html",
+   "baslik": "Fed's Barr: If inflation doesn't moderate, the central bank should raise rates",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/article/feds-barr-if-inflation-doesnt-moderate-the-central-bank-should-raise-rates-130701589.html",
+   "saat": "16:07",
+   "tarih_iso": "2026-09-01T16:07:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/sb-energy-ipo-filing-nvidia-130614456.html",
+   "baslik": "SB Energy IPO filing: Nvidia invests $3B, OpenAI gets warrants",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sb-energy-ipo-filing-nvidia-130614456.html",
+   "saat": "16:06",
+   "tarih_iso": "2026-09-01T16:06:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alumis-stock-collapsing-today-93CH-4884121",
+   "baslik": "Why is Alumis stock collapsing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-alumis-stock-collapsing-today-93CH-4884121",
+   "saat": "16:05",
+   "tarih_iso": "2026-09-01T16:05:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+   "baslik": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+   "saat": "16:05",
+   "tarih_iso": "2026-09-01T16:05:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/alumis-stock-tumbles-55-after-lupus-drug-trial-misses-goals-93CH-4884118",
+   "baslik": "Alumis stock tumbles 55% after lupus drug trial misses goals",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/alumis-stock-tumbles-55-after-lupus-drug-trial-misses-goals-93CH-4884118",
+   "saat": "16:04",
+   "tarih_iso": "2026-09-01T16:04:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
+   "baslik": "How one of the largest investors in student housing is playing this school year",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-09-01T16:00:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
    "baslik": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
    "kaynak": "CNBC",
@@ -470,6 +626,16 @@
    "tarih_iso": "2026-09-01T15:59:37+03:00",
    "kodlar": [],
    "eklenme": "2026-09-01T16:01:08.400802+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/riverwater-partners-betting-oceaneering-international-125408299.html",
+   "baslik": "Riverwater Partners Is Betting on Oceaneering International (OII) as Offshore Energy Spending Recovers",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/riverwater-partners-betting-oceaneering-international-125408299.html",
+   "saat": "15:54",
+   "tarih_iso": "2026-09-01T15:54:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/riverwater-sees-market-overreaction-stevanato-125025589.html",
@@ -760,6 +926,16 @@
    "tarih_iso": "2026-09-01T14:40:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-01T15:01:05.579385+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
+   "baslik": "Bessent reportedly tells Russia it won't get economic relief until it ends Ukraine war",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/01/bessent-russia-ukraine-war-sanctions-war-g20-.html",
+   "saat": "14:35",
+   "tarih_iso": "2026-09-01T14:35:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/why-dells-stock-stands-to-gain-from-developments-at-nvidia-and-spacex-7978fcaf?mod=mw_rss_topstories",
@@ -1090,6 +1266,16 @@
    "tarih_iso": "2026-09-01T13:03:12+03:00",
    "kodlar": [],
    "eklenme": "2026-09-01T13:30:58.969499+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Shein valued at $26bn after long-awaited stock market debut",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+   "saat": "13:01",
+   "tarih_iso": "2026-09-01T13:01:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
   },
   {
    "id": "yab-https://www.wsj.com/finance/commodities-futures/gold-rises-jackson-hole-speech-may-limit-near-term-upside-381724a6?siteid=yhoof2&yptr=yahoo",
@@ -1500,169 +1686,19 @@
    "tarih_iso": "2026-09-01T10:28:45+03:00",
    "kodlar": [],
    "eklenme": "2026-09-01T11:01:01.764467+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/capricorn-energy-backs-dno-396-072000342.html",
-   "baslik": "Capricorn Energy Backs DNO’s $396 Million Bid Over Genel Offer",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/capricorn-energy-backs-dno-396-072000342.html",
-   "saat": "10:20",
-   "tarih_iso": "2026-09-01T10:20:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T12:31:03.158858+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-flat-as-bond-selloff-and-fresh-middle-east-strikes-rattles-market-4883554",
-   "baslik": "European stocks flat as bond sell-off and fresh Middle East strikes rattles market",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-stocks-flat-as-bond-selloff-and-fresh-middle-east-strikes-rattles-market-4883554",
-   "saat": "10:15",
-   "tarih_iso": "2026-09-01T10:15:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T10:30:54.195257+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-019-4883546",
-   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 0.19%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-019-4883546",
-   "saat": "10:00",
-   "tarih_iso": "2026-09-01T10:00:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T10:30:54.195257+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
-   "baslik": "Tehran urges return to June deal, oil prices rise as Trump vows to hit Iran 'hard'",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
-   "saat": "09:50",
-   "tarih_iso": "2026-09-01T09:50:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T10:01:02.047508+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/oil-prices-rise-stocks-waver-064156540.html",
-   "baslik": "Oil prices rise and stocks waver as Middle East violence flares, adding to uncertainty",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-stocks-waver-064156540.html",
-   "saat": "09:41",
-   "tarih_iso": "2026-09-01T09:41:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T12:31:03.158858+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-010-4883526",
-   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.10%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-010-4883526",
-   "saat": "09:30",
-   "tarih_iso": "2026-09-01T09:30:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T10:01:02.047508+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-dip-amid-fed-uncertainty-s-korea-exports-china-pmi-in-focus-4883469",
-   "baslik": "Asia stocks tentative amid Fed hike bets; S. Korea exports, China PMI in focus",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-dip-amid-fed-uncertainty-s-korea-exports-china-pmi-in-focus-4883469",
-   "saat": "09:24",
-   "tarih_iso": "2026-09-01T09:24:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T10:01:02.047508+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kuaishou-technology-stock-rallying-today-93CH-4883522",
-   "baslik": "Why is Kuaishou Technology stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-kuaishou-technology-stock-rallying-today-93CH-4883522",
-   "saat": "09:23",
-   "tarih_iso": "2026-09-01T09:23:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T10:01:02.047508+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lotte-rental-stock-surging-today-93CH-4883521",
-   "baslik": "Why is Lotte Rental stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-lotte-rental-stock-surging-today-93CH-4883521",
-   "saat": "09:23",
-   "tarih_iso": "2026-09-01T09:23:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T10:01:02.047508+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
-   "baslik": "Shein shares slide in Hong Kong debut as investors fret about growth and regulatory risks",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
-   "saat": "09:00",
-   "tarih_iso": "2026-09-01T09:00:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T09:30:55.725605+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-135-4883509",
-   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.35%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-135-4883509",
-   "saat": "09:00",
-   "tarih_iso": "2026-09-01T09:00:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T09:30:55.725605+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/chinese-retail-stocks-gain-as-beijing-unveils-fresh-measures-to-boost-consumption-4883504",
-   "baslik": "Chinese retail stocks gain as Beijing unveils fresh measures to boost consumption",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/chinese-retail-stocks-gain-as-beijing-unveils-fresh-measures-to-boost-consumption-4883504",
-   "saat": "08:49",
-   "tarih_iso": "2026-09-01T08:49:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T09:30:55.725605+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/us-to-announce-sharply-lower-vehicle-fuel-economy-requirements-4883145",
-   "baslik": "US to announce sharply lower vehicle fuel economy requirements",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/us-to-announce-sharply-lower-vehicle-fuel-economy-requirements-4883145",
-   "saat": "08:48",
-   "tarih_iso": "2026-09-01T08:48:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T09:30:55.725605+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-china-cinda-asset-management-stock-sliding-today-93CH-4883502",
-   "baslik": "Why is China Cinda Asset Management stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-china-cinda-asset-management-stock-sliding-today-93CH-4883502",
-   "saat": "08:44",
-   "tarih_iso": "2026-09-01T08:44:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T09:01:00.198347+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/top-european-it-services--payments-stocks-according-to-bofa-93CH-4883499",
-   "baslik": "Top European IT Services & Payments Stocks, According to BofA",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/top-european-it-services--payments-stocks-according-to-bofa-93CH-4883499",
-   "saat": "08:37",
-   "tarih_iso": "2026-09-01T08:37:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T09:01:00.198347+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/openai-says-apple-has-only-itself-to-blame-in-tradesecret-fight-4883498",
-   "baslik": "OpenAI says Apple has only itself to blame in trade-secret fight",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/openai-says-apple-has-only-itself-to-blame-in-tradesecret-fight-4883498",
-   "saat": "08:36",
-   "tarih_iso": "2026-09-01T08:36:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T09:01:00.198347+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://finance.yahoo.com/markets/commodities/articles/silver-miners-etf-outperforms-gold-130601336.html",
+   "baslik": "Silver Miners ETF Outperforms Gold Fund, but Carries Double Risk",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/silver-miners-etf-outperforms-gold-130601336.html",
+   "saat": "16:06",
+   "tarih_iso": "2026-09-01T16:06:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T16:30:55.524006+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-tuesday-september-1-2026-gold-moves-lower-as-rate-hike-expectations-grow-120810063.html",
    "baslik": "Gold prices today, Tuesday, September 1, 2026: Gold moves lower as rate-hike expectations grow",
@@ -1874,5 +1910,5 @@
    "eklenme": "2026-09-01T09:01:00.198347+03:00"
   }
  ],
- "guncelleme": "2026-09-01T16:01:08.400802+03:00"
+ "guncelleme": "2026-09-01T16:30:55.524006+03:00"
 }
