@@ -485,6 +485,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/pegasus-ve-ajet-ten-kktc-seferlerine-duzenleme-3909421-ekonomi",
+   "baslik": "Pegasus ve AJet'ten KKTC'ye ek seferler",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/pegasus-ve-ajet-ten-kktc-seferlerine-duzenleme-3909421-ekonomi",
+   "saat": "07:18",
+   "tarih_iso": "2026-09-01T07:18:52+03:00",
+   "kodlar": [
+    "PGSUS"
+   ],
+   "eklenme": "2026-09-01T07:30:54.832498+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/astor-enerjiden-979-milyon-dolarlik-sozlesme-haberi-838276",
    "baslik": "Astor Enerji'den 97,9 milyon dolarlık sözleşme",
    "kaynak": "Dünya",
@@ -594,6 +606,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-hisseleri-fed-belirsizligi-ile-geriledi-4050038",
+   "baslik": "Asya hisseleri Fed belirsizliği ile geriledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-hisseleri-fed-belirsizligi-ile-geriledi-4050038",
+   "saat": "06:51",
+   "tarih_iso": "2026-09-01T06:51:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T07:30:54.832498+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/bessent-japonyadan-mali-surdurulebilirlik-ve-faiz-arts-yolu-istiyor-4049996",
    "baslik": "Bessent Japonya’dan mali sürdürülebilirlik ve faiz artışı yolu istiyor",
@@ -886,6 +908,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1",
+   "baslik": "Wall Street banks push Big Law to cut fees because of AI",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/5240a6ac-b2e8-4897-a0a4-cbc7fc283bc9?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-01T07:00:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T07:30:54.832498+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/three-australian-stocks-with-strong-data-center-exposure-93CH-4883470",
+   "baslik": "Three Australian stocks with strong data center exposure",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/three-australian-stocks-with-strong-data-center-exposure-93CH-4883470",
+   "saat": "06:55",
+   "tarih_iso": "2026-09-01T06:55:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-01T07:30:54.832498+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-dip-amid-fed-uncertainty-s-korea-exports-china-pmi-in-focus-4883469",
    "baslik": "Asia stocks dip amid Fed uncertainty; S. Korea exports, China PMI in focus",
@@ -2065,26 +2107,6 @@
    "tarih_iso": "2026-08-31T18:42:00+03:00",
    "kodlar": [],
    "eklenme": "2026-08-31T19:01:07.269944+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/cocrystal-pharma-strategic-reset-investors-153903604.html",
-   "baslik": "Cocrystal Pharma: The Strategic Reset Investors May Be Missing",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/cocrystal-pharma-strategic-reset-investors-153903604.html",
-   "saat": "18:39",
-   "tarih_iso": "2026-08-31T18:39:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T19:30:57.223129+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-050-4883056",
-   "baslik": "Poland stocks higher at close of trade; WIG30 up 0.50%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-050-4883056",
-   "saat": "18:35",
-   "tarih_iso": "2026-08-31T18:35:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-08-31T19:01:07.269944+03:00"
   }
  ],
  "altin_haber": [
@@ -2329,5 +2351,5 @@
    "eklenme": "2026-08-31T09:01:06.911209+03:00"
   }
  ],
- "guncelleme": "2026-09-01T07:01:00.680797+03:00"
+ "guncelleme": "2026-09-01T07:30:54.832498+03:00"
 }
