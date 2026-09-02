@@ -2,6 +2,45 @@
  "tarih": "2026-09-02",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202609021927",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:27",
+   "tarih_iso": "2026-09-02T19:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202609021926",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "19:26",
+   "tarih_iso": "2026-09-02T19:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "kap-my-AEFES-202609021911",
+   "baslik": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+   "kodlar": [
+    "AEFES"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:11",
+   "tarih_iso": "2026-09-02T19:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
    "id": "kap-my-GUBRF-202609021805",
    "baslik": "GÜBRE FABRİKALARI T.A.Ş. — Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
    "sirket": "GÜBRE FABRİKALARI T.A.Ş.",
@@ -213,6 +252,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/astor-enerjiden-3511-milyon-liralik-sozlesme-haberi-838528",
+   "baslik": "Astor Enerji’den 351,1 milyon liralık sözleşme",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/astor-enerjiden-3511-milyon-liralik-sozlesme-haberi-838528",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-03T00:00:00+03:00",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/gelecegin-ciftcilerini-bulusturan-program-haberi-838530",
+   "baslik": "Geleceğin çiftçilerini buluşturan program",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/gelecegin-ciftcilerini-bulusturan-program-haberi-838530",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-03T00:00:00+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-02-eylul-2026/4045404",
    "baslik": "60 saniyede ekonomide bugün (02 Eylül 2026)",
    "kaynak": "AA Ekonomi",
@@ -299,6 +362,36 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/son-dakika-borsa-istanbul-carsamba-gununu-dususle-tamamladi-3462048",
+   "baslik": "SON DAKİKA | Borsa İstanbul çarşamba gününü düşüşle tamamladı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-istanbul-carsamba-gununu-dususle-tamamladi-3462048",
+   "saat": "22:03",
+   "tarih_iso": "2026-09-02T22:03:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-ekonomik-faaliyetin-ilimli-sekilde-arttigini-ortaya-koydu/4045744",
+   "baslik": "Fed'in Bej Kitabı, ekonomik faaliyetin \"ılımlı\" şekilde arttığını ortaya koydu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-ekonomik-faaliyetin-ilimli-sekilde-arttigini-ortaya-koydu/4045744",
+   "saat": "22:02",
+   "tarih_iso": "2026-09-02T22:02:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-bej-kitap-raporu-yayimlandi-buyume-ilimli-belirsizlik-yuksek-haberi-838552",
+   "baslik": "Fed Bej Kitap raporu yayımlandı: Büyüme ılımlı, belirsizlik yüksek",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-bej-kitap-raporu-yayimlandi-buyume-ilimli-belirsizlik-yuksek-haberi-838552",
+   "saat": "21:57",
+   "tarih_iso": "2026-09-02T21:57:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/tuik-agustos-ayi-enflasyon-orani-2026-agustos-enflasyon-orani-ne-zaman-aciklanacak-agustos-enflasyon-beklentisi-ne-kira-artis-orani-3462009",
    "baslik": "TÜİK AĞUSTOS AYI ENFLASYON ORANI 2026: Ağustos Enflasyon Oranı Ne Zaman Açıklanacak? Ağustos Enflasyon Beklentisi Ne? Kira Artış Oranı ve Zam Hesapları İçin Gözler TÜİK Enflasyon Verilerinde",
    "kaynak": "CNN Türk Ekonomi",
@@ -307,6 +400,16 @@
    "tarih_iso": "2026-09-02T20:38:47+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T18:01:05.992180+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/avrupa-borsalari-orta-dogudaki-gerilim-ve-enflasyon-endiseleriyle-geriledi-haberi-838547",
+   "baslik": "Avrupa borsaları Orta Doğu'daki gerilim ve enflasyon endişeleriyle geriledi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/avrupa-borsalari-orta-dogudaki-gerilim-ve-enflasyon-endiseleriyle-geriledi-haberi-838547",
+   "saat": "20:31",
+   "tarih_iso": "2026-09-02T20:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/kanada-merkez-bankasi-faizi-sabit-tuttu-haberi-838511",
@@ -500,6 +603,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+   "baslik": "Broadcom’s stock falls despite upbeat earnings, extending a frustrating stretch for investors",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/broadcoms-stock-falls-despite-upbeat-earnings-extending-a-frustrating-stretch-for-investors-81de3f53?mod=mw_rss_topstories",
+   "saat": "23:51",
+   "tarih_iso": "2026-09-02T23:51:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
+   "baslik": "USTR's Greer huddles with House Republicans amid Trump trade spats",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/02/greer-trade-house-republicans-trump.html",
+   "saat": "23:50",
+   "tarih_iso": "2026-09-02T23:50:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+   "baslik": "Microsoft to start disclosing Azure quarterly revenue as company consolidates business units",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
+   "saat": "23:46",
+   "tarih_iso": "2026-09-02T23:46:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/07e849ac-ea87-4227-81d4-7f18b0d7d473?syn-25a6b1a6=1",
+   "baslik": "JPMorgan curbed lending to Jane Street as trading firm muscled into bonds",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/07e849ac-ea87-4227-81d4-7f18b0d7d473?syn-25a6b1a6=1",
+   "saat": "23:44",
+   "tarih_iso": "2026-09-02T23:44:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-056-4886746",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.56%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-056-4886746",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-02T23:30:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-074-4886744",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.74%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-074-4886744",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-02T23:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-305-4886742",
+   "baslik": "Brazil stocks higher at close of trade; Bovespa up 3.05%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-305-4886742",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-02T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/02/broadcom-avgo-q3-earnings-report-2026.html",
    "baslik": "Broadcom's stock drops 5% as weak guidance overshadows earnings beat",
@@ -851,6 +1024,16 @@
    "eklenme": "2026-09-02T22:25:47.823594+03:00"
   },
   {
+   "id": "yab-https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+   "baslik": "New York Fed's Williams says yield surge due to strong economic prospects",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+   "saat": "20:21",
+   "tarih_iso": "2026-09-02T20:21:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ubs-sees-timely-signal-metal-171700118.html",
    "baslik": "UBS sees timely signal on a metal stock poised to blow",
    "kaynak": "Yahoo Finance",
@@ -919,6 +1102,16 @@
    "tarih_iso": "2026-09-02T20:00:36+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T20:30:55.925688+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1",
+   "baslik": "Energy price surge hits bond markets as European gas reaches three-year high",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/f73c2c95-5c73-4b2f-9f00-9fa8c12c10c9?syn-25a6b1a6=1",
+   "saat": "19:50",
+   "tarih_iso": "2026-09-02T19:50:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/rosenblatt-raises-mongodb-mdb-price-163844853.html",
@@ -1609,99 +1802,29 @@
    "tarih_iso": "2026-09-02T17:20:25+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T17:30:55.026985+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/oracle-stock-may-move-10-on-sept-9-earnings-release-93CH-4886412",
-   "baslik": "Oracle stock may move 10% on Sept. 9 earnings release",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/oracle-stock-may-move-10-on-sept-9-earnings-release-93CH-4886412",
-   "saat": "17:19",
-   "tarih_iso": "2026-09-02T17:19:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T17:30:55.026985+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/aerovironment-shares-may-move-13-on-earnings-release-93CH-4886409",
-   "baslik": "AeroVironment shares may move 13% on earnings release",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/aerovironment-shares-may-move-13-on-earnings-release-93CH-4886409",
-   "saat": "17:18",
-   "tarih_iso": "2026-09-02T17:18:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T17:30:55.026985+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html",
-   "baslik": "Bank of Canada mulls Trump tariff shock as it holds interest rates",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html",
-   "saat": "17:15",
-   "tarih_iso": "2026-09-02T17:15:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T19:30:50.473216+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/palo-alto-sinks-8-despite-141325779.html",
-   "baslik": "Palo Alto Sinks 8% Despite 34% Revenue Growth, CrowdStrike Falls 3%, Fortinet Slips",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-sinks-8-despite-141325779.html",
-   "saat": "17:13",
-   "tarih_iso": "2026-09-02T17:13:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T17:30:55.026985+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/opec-likely-keep-oil-output-140907521.html",
-   "baslik": "OPEC+ likely to keep oil output policy unchanged on Sunday, sources say",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/opec-likely-keep-oil-output-140907521.html",
-   "saat": "17:09",
-   "tarih_iso": "2026-09-02T17:09:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T17:30:55.026985+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/02/why-funds-meant-for-wealthier-investors-dont-always-perform-better.html",
-   "baslik": "Private equity funds are losing to the S&P 500 of late—why investments for the wealthy aren't necessarily better",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/02/why-funds-meant-for-wealthier-investors-dont-always-perform-better.html",
-   "saat": "17:08",
-   "tarih_iso": "2026-09-02T17:08:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T17:38:47.884762+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/feds-williams-ties-rising-bond-135815131.html",
-   "baslik": "Fed's Williams ties rising bond yields to strong economy, CNBC reports",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/feds-williams-ties-rising-bond-135815131.html",
-   "saat": "16:58",
-   "tarih_iso": "2026-09-02T16:58:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T17:30:55.026985+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/technology/uber-stock-layoffs-10-percent/?src=A00220&yptr=yahoo",
-   "baslik": "Uber Plans Layoffs For 10% Of Workforce In Restructuring. Stock Rises.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/technology/uber-stock-layoffs-10-percent/?src=A00220&yptr=yahoo",
-   "saat": "16:56",
-   "tarih_iso": "2026-09-02T16:56:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T17:30:55.026985+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/article/bond-yields-still-high-as-investors-weigh-rate-hike-risk-alphacheck-135357686.html",
-   "baslik": "Bond yields still high as investors weigh rate hike risk: AlphaCheck",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/bond-yields-still-high-as-investors-weigh-rate-hike-risk-alphacheck-135357686.html",
-   "saat": "16:53",
-   "tarih_iso": "2026-09-02T16:53:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T17:30:55.026985+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.mining.com/end-of-a-dollar-centered-world-nears-gold-to-replace-some-bonds-fund-manager-says/",
+   "baslik": "End of a dollar-centered world nears, gold to replace some bonds, fund manager says",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/end-of-a-dollar-centered-world-nears-gold-to-replace-some-bonds-fund-manager-says/",
+   "saat": "23:23",
+   "tarih_iso": "2026-09-02T23:23:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/eldorado-eyes-bigger-mcilvenna-bay-copper-mill/",
+   "baslik": "Eldorado eyes bigger McIlvenna Bay copper mill",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/eldorado-eyes-bigger-mcilvenna-bay-copper-mill/",
+   "saat": "22:00",
+   "tarih_iso": "2026-09-02T22:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
+  },
   {
    "id": "alt-https://www.ft.com/content/1749e753-9c90-4ff5-91ec-8df764f3b26d?syn-25a6b1a6=1",
    "baslik": "Dutch central bank moves gold bars out of New York over ‘geopolitical unrest’",
@@ -1731,6 +1854,16 @@
    "tarih_iso": "2026-09-02T20:21:01+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T20:30:55.925688+03:00"
+  },
+  {
+   "id": "alt-https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+   "saat": "20:21",
+   "tarih_iso": "2026-09-02T20:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T00:01:02.822268+03:00"
   },
   {
    "id": "alt-https://www.investing.com/news/stock-market-news/tsx-miners-rally-as-precious-metals-stocks-dominate-top-gainers-4886577",
@@ -2013,5 +2146,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-02T23:30:51.470653+03:00"
+ "guncelleme": "2026-09-03T00:01:02.822268+03:00"
 }
