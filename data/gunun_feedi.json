@@ -57,6 +57,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmbden-deprem-bolgesi-konut-arzi-ve-bolgesel-kira-enflasyonu-gelismeleri-analizi/4044727",
+   "baslik": "TCMB'den \"Deprem Bölgesi Konut Arzı ve Bölgesel Kira Enflasyonu Gelişmeleri\" analizi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-deprem-bolgesi-konut-arzi-ve-bolgesel-kira-enflasyonu-gelismeleri-analizi/4044727",
+   "saat": "09:37",
+   "tarih_iso": "2026-09-02T09:37:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T10:01:01.911315+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/bist-100de-eylul-rotas-fed-karar-ve-abd-verileri-belirleyici-olacak-4051653",
+   "baslik": "BIST 100’de Eylül rotası: Fed kararı ve ABD verileri belirleyici olacak",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/bist-100de-eylul-rotas-fed-karar-ve-abd-verileri-belirleyici-olacak-4051653",
+   "saat": "09:25",
+   "tarih_iso": "2026-09-02T09:25:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T10:01:01.911315+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/haberler/petrol-ve-faiz-baskisi-buyudu-kuresel-borsalarda-satis-dalgasi-haberi-838441",
    "baslik": "Petrol ve faiz baskısı büyüdü: Küresel borsalarda satış dalgası",
    "kaynak": "Dünya",
@@ -65,6 +85,16 @@
    "tarih_iso": "2026-09-02T09:15:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/ecb-uc-yil-sonra-dugmeye-basmisti-ikinci-faiz-artisi-kapida-haberi-838446",
+   "baslik": "ECB üç yıl sonra düğmeye basmıştı: İkinci faiz artışı kapıda",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/ecb-uc-yil-sonra-dugmeye-basmisti-ikinci-faiz-artisi-kapida-haberi-838446",
+   "saat": "09:12",
+   "tarih_iso": "2026-09-02T09:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T10:01:01.911315+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/guney-korede-enflasyon-iki-yilin-zirvesine-yaklasti-haberi-838436",
@@ -128,6 +158,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-decline-as-oil-surge-bond-yields-weigh-australia-q2-gdp-beats-4885292",
+   "baslik": "Asia stocks tumble as oil surge, bond yields weigh; Australia Q2 GDP beats",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-decline-as-oil-surge-bond-yields-weigh-australia-q2-gdp-beats-4885292",
+   "saat": "09:48",
+   "tarih_iso": "2026-09-02T09:48:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T10:01:01.911315+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-097-4885348",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.97%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-097-4885348",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-02T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T10:01:01.911315+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/02/bp-chair-ian-tyler-appointment.html",
    "baslik": "Oil major BP completes search for chair after boardroom upheaval",
@@ -401,6 +451,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-approaches-a-square-of-9-reversal-zone-at-43334353-200686937",
+   "baslik": "Gold Approaches a Square of 9 Reversal Zone at $4,333–$4,353",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-approaches-a-square-of-9-reversal-zone-at-43334353-200686937",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-02T10:01:01.911315+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/war-returns-gold-falls-the-signal-traders-cant-ignore-200686929",
    "baslik": "War Returns, Gold Falls: The Signal Traders Can’t Ignore",
    "kaynak": "Investing Emtia",
@@ -511,5 +571,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-02T09:30:55.848800+03:00"
+ "guncelleme": "2026-09-02T10:01:01.911315+03:00"
 }
