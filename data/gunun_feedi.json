@@ -2,6 +2,32 @@
  "tarih": "2026-09-02",
  "kap": [
   {
+   "id": "kap-my-KARSN-202609021048",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KARSN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:48",
+   "tarih_iso": "2026-09-02T10:48:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T11:31:03.929994+03:00"
+  },
+  {
+   "id": "kap-my-TUPRS-202609021043",
+   "baslik": "BANK OF AMERICA YATIRIM BANK A.Ş. — Toptan Alış Satış İşlemi Bildirimi",
+   "sirket": "BANK OF AMERICA YATIRIM BANK A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:43",
+   "tarih_iso": "2026-09-02T10:43:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T11:31:03.929994+03:00"
+  },
+  {
    "id": "kap-my-ALBRK-202609020853",
    "baslik": "BEREKET VARLIK KİRALAMA A.Ş. — Tertip İhraç Belgesi",
    "sirket": "BEREKET VARLIK KİRALAMA A.Ş.",
@@ -56,6 +82,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
+   "baslik": "EYLÜL AYI KİRA ARTIŞ ORANI 2026: Eylül Kira Zammı Ne Kadar? Gözler TÜİK'te! İşte TÜİK Açıklamasına Göre TEFE TÜFE ve Kira Artış Oranı Hesaplama",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
+   "saat": "14:15",
+   "tarih_iso": "2026-09-02T14:15:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T11:31:03.929994+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbulda-eylul-hesabi-yatirimcilarin-gozu-bu-3-tarihte-haberi-838462",
+   "baslik": "Borsa İstanbul'da eylül hesabı: Yatırımcıların gözü bu 3 tarihte",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbulda-eylul-hesabi-yatirimcilarin-gozu-bu-3-tarihte-haberi-838462",
+   "saat": "10:49",
+   "tarih_iso": "2026-09-02T10:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T11:31:03.929994+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/tcmb-den-deprem-bolgesi-ve-kira-enflasyonu-analizi-3909705-ekonomi",
    "baslik": "TCMB'den deprem bölgesi ve kira enflasyonu analizi",
@@ -168,6 +214,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/berenberg-sees-uk-business-services-resilient-on-earnings-upgrades-4885462",
+   "baslik": "Berenberg sees UK business services resilient on earnings upgrades",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/berenberg-sees-uk-business-services-resilient-on-earnings-upgrades-4885462",
+   "saat": "11:08",
+   "tarih_iso": "2026-09-02T11:08:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T11:31:03.929994+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-adidas-stock-climbing-today-93CH-4885460",
+   "baslik": "Why is Adidas stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-adidas-stock-climbing-today-93CH-4885460",
+   "saat": "11:08",
+   "tarih_iso": "2026-09-02T11:08:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T11:31:03.929994+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/berenberg-launches-space-coverage-initiates-4-stocks-with-buy-ratings-4885442",
+   "baslik": "Berenberg launches space coverage, initiates 4 stocks with Buy ratings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/berenberg-launches-space-coverage-initiates-4-stocks-with-buy-ratings-4885442",
+   "saat": "10:51",
+   "tarih_iso": "2026-09-02T10:51:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T11:31:03.929994+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-amrize-stock-sliding-today-93CH-4885435",
+   "baslik": "Why is Amrize stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-amrize-stock-sliding-today-93CH-4885435",
+   "saat": "10:44",
+   "tarih_iso": "2026-09-02T10:44:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T11:31:03.929994+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-simcere-pharmaceutical-stock-surging-today-93CH-4885423",
    "baslik": "Why is Simcere Pharmaceutical stock surging today?",
@@ -691,5 +777,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-02T11:00:58.541062+03:00"
+ "guncelleme": "2026-09-02T11:31:03.929994+03:00"
 }
