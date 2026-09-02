@@ -2,6 +2,19 @@
  "tarih": "2026-09-02",
  "kap": [
   {
+   "id": "kap-my-ALARK-202609021457",
+   "baslik": "ALARKO HOLDİNG A.Ş. — Sürdürülebilirlik Raporu",
+   "sirket": "ALARKO HOLDİNG A.Ş.",
+   "kodlar": [
+    "ALARK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:57",
+   "tarih_iso": "2026-09-02T14:57:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
    "id": "kap-my-TUPRS-202609021247",
    "baslik": "BANK OF AMERICA YATIRIM BANK A.Ş. — Toptan Alış Satış İşlemi Bildirimi",
    "sirket": "BANK OF AMERICA YATIRIM BANK A.Ş.",
@@ -135,6 +148,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/pegasus-tan-rusya-ucuslarina-iliskin-aciklama-3909786-ekonomi",
+   "baslik": "Pegasus'tan Rusya seferleri açıklaması",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/pegasus-tan-rusya-ucuslarina-iliskin-aciklama-3909786-ekonomi",
+   "saat": "15:05",
+   "tarih_iso": "2026-09-02T15:05:20+03:00",
+   "kodlar": [
+    "PGSUS"
+   ],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/pegasustan-rusya-ucuslarina-iliskin-aciklama/4045220",
    "baslik": "Pegasus'tan Rusya uçuşlarına ilişkin açıklama",
    "kaynak": "AA Ekonomi",
@@ -196,6 +221,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/enflasyon-rakamlari-aciklandi-mi-ne-zaman-aciklaniyor-enflasyon-beklentisi-nedir-haberi-838494",
+   "baslik": "Enflasyon rakamları açıklandı mı, ne zaman açıklanıyor? Enflasyon beklentisi nedir?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/enflasyon-rakamlari-aciklandi-mi-ne-zaman-aciklaniyor-enflasyon-beklentisi-nedir-haberi-838494",
+   "saat": "15:16",
+   "tarih_iso": "2026-09-02T15:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
    "baslik": "EYLÜL AYI KİRA ARTIŞ ORANI 2026: Eylül Kira Zammı Ne Kadar? Gözler TÜİK'te! İşte TÜİK Açıklamasına Göre TEFE TÜFE ve Kira Artış Oranı Hesaplama",
@@ -349,6 +384,96 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/how-one-strategist-warned-on-semiconductor-stocks-within-a-day-of-their-top-03ee8d34?mod=mw_rss_topstories",
+   "baslik": "How one strategist warned on semiconductor stocks within a day of their top",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/how-one-strategist-warned-on-semiconductor-stocks-within-a-day-of-their-top-03ee8d34?mod=mw_rss_topstories",
+   "saat": "15:22",
+   "tarih_iso": "2026-09-02T15:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-uniqure-nv-stock-gaining-today-93CH-4886051",
+   "baslik": "Why is Uniqure NV stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-uniqure-nv-stock-gaining-today-93CH-4886051",
+   "saat": "15:12",
+   "tarih_iso": "2026-09-02T15:12:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-credo-technology-stock-sliding-today-93CH-4886045",
+   "baslik": "Why is Credo Technology stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-credo-technology-stock-sliding-today-93CH-4886045",
+   "saat": "15:12",
+   "tarih_iso": "2026-09-02T15:12:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/eos-energy-stock-surges-12-on-west-virginia-solar-project-deal-93CH-4886044",
+   "baslik": "Eos Energy stock surges 12% on West Virginia solar project deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/eos-energy-stock-surges-12-on-west-virginia-solar-project-deal-93CH-4886044",
+   "saat": "15:11",
+   "tarih_iso": "2026-09-02T15:11:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-teva-pharma-stock-surging-today-93CH-4886035",
+   "baslik": "Why is Teva Pharma stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-teva-pharma-stock-surging-today-93CH-4886035",
+   "saat": "15:08",
+   "tarih_iso": "2026-09-02T15:08:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-intercontinental-hotels-stock-rallying-today-93CH-4886034",
+   "baslik": "Why is InterContinental Hotels stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-intercontinental-hotels-stock-rallying-today-93CH-4886034",
+   "saat": "15:08",
+   "tarih_iso": "2026-09-02T15:08:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/equinix-stock-rises-after-ai-inference-program-launch-with-nvidia-93CH-4886030",
+   "baslik": "Equinix stock rises after AI inference program launch with Nvidia",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/equinix-stock-rises-after-ai-inference-program-launch-with-nvidia-93CH-4886030",
+   "saat": "15:07",
+   "tarih_iso": "2026-09-02T15:07:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/research/breakout-stocks-technical-analysis/stocks-to-watch-breakout-buy-points-markets-investing/?src=A00220&yptr=yahoo",
+   "baslik": "Miners And More Lead Slew Of Stocks To Watch — With This Line In Focus",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/research/breakout-stocks-technical-analysis/stocks-to-watch-breakout-buy-points-markets-investing/?src=A00220&yptr=yahoo",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-02T15:00:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wednesday-top-wall-street-analyst-120054071.html",
+   "baslik": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Ally Financial, GitLab, GLOBAL FOUNDRIES, Martin Marietta Materials, Rocket Lab USA, Strategy, Toast, Tower Semiconductor, and More",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wednesday-top-wall-street-analyst-120054071.html",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-02T15:00:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html",
    "baslik": "Energy Secretary Chris Wright tells CNBC that more than 17 million barrels of oil transited Hormuz on Monday",
    "kaynak": "CNBC",
@@ -357,6 +482,36 @@
    "tarih_iso": "2026-09-02T15:00:32+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T15:01:00.944026+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/how-to-invest/oil-stock-houston-narrow-buy-window-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
+   "baslik": "America's Greatest Opportunities: Oil Stock Offers A Narrow Buy Window",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/how-to-invest/oil-stock-houston-narrow-buy-window-americas-greatest-opportunities/?src=A00220&yptr=yahoo",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-02T15:00:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bollinger-bands-saying-stocks-now-120009310.html",
+   "baslik": "What Bollinger Bands Are Saying About Stocks Right Now",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bollinger-bands-saying-stocks-now-120009310.html",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-02T15:00:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bw-lpg-stock-falls-after-300m-convertible-bond-offering-93CH-4885986",
+   "baslik": "BW LPG stock falls after $300M convertible bond offering",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bw-lpg-stock-falls-after-300m-convertible-bond-offering-93CH-4885986",
+   "saat": "14:55",
+   "tarih_iso": "2026-09-02T14:55:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/goldman-upgrades-deutsche-bank-on-improving-revenue-operating-leverage-4885976",
@@ -397,6 +552,16 @@
    "tarih_iso": "2026-09-02T14:38:17+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T15:01:00.944026+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/02/bond-market-selloff-rates-fixed-income-treasury-yields.html",
+   "baslik": "Bond market sell-off: What fixed-income investors can do to protect their money without panicking",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/02/bond-market-selloff-rates-fixed-income-treasury-yields.html",
+   "saat": "14:35",
+   "tarih_iso": "2026-09-02T14:35:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T15:30:57.376775+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/economy/articles/loan-delinquencies-edge-lower-q2-113500457.html",
@@ -1571,5 +1736,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-02T15:01:00.944026+03:00"
+ "guncelleme": "2026-09-02T15:30:57.376775+03:00"
 }
