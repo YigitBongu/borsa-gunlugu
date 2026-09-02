@@ -2,6 +2,32 @@
  "tarih": "2026-09-02",
  "kap": [
   {
+   "id": "kap-my-YKBNK-202609021129",
+   "baslik": "YAPI VE KREDİ BANKASI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
+   "kodlar": [
+    "YKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:29",
+   "tarih_iso": "2026-09-02T11:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T12:01:02.487045+03:00"
+  },
+  {
+   "id": "kap-my-IZENR-202609021109",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "IZENR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:09",
+   "tarih_iso": "2026-09-02T11:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T12:01:02.487045+03:00"
+  },
+  {
    "id": "kap-my-KARSN-202609021048",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -69,6 +95,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekomun-yerli-genisbant-cozumu-15-milyon-haneyi-asti-haberi-838466",
+   "baslik": "Türk Telekom’un yerli genişbant çözümü 1,5 milyon haneyi aştı:",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekomun-yerli-genisbant-cozumu-15-milyon-haneyi-asti-haberi-838466",
+   "saat": "11:46",
+   "tarih_iso": "2026-09-02T11:46:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-09-02T12:01:02.487045+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/gundem/son-dakika-girnede-batan-yolcu-gemisine-ulasildi-haberi-838465",
+   "baslik": "Son dakika: Girne'de batan yolcu gemisine ulaşıldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/son-dakika-girnede-batan-yolcu-gemisine-ulasildi-haberi-838465",
+   "saat": "11:44",
+   "tarih_iso": "2026-09-02T11:44:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-09-02T12:01:02.487045+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/savunma-devleri-ligine-5-turk-sirketi-girdi-haberi-838380",
    "baslik": "Savunma devleri ligine 5 Türk şirketi girdi",
    "kaynak": "Dünya",
@@ -91,6 +141,16 @@
    "tarih_iso": "2026-09-02T14:15:22+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T11:31:03.929994+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbulda-yukari-adim-kurali-uygulamaya-alindi-haberi-838464",
+   "baslik": "Borsa İstanbul'da yukarı adım kuralı uygulamaya alındı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/borsa-istanbulda-yukari-adim-kurali-uygulamaya-alindi-haberi-838464",
+   "saat": "11:27",
+   "tarih_iso": "2026-09-02T11:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:01:02.487045+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbulda-eylul-hesabi-yatirimcilarin-gozu-bu-3-tarihte-haberi-838462",
@@ -214,6 +274,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gitlab-stock-surging-today-93CH-4885526",
+   "baslik": "Why is GitLab stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-gitlab-stock-surging-today-93CH-4885526",
+   "saat": "11:46",
+   "tarih_iso": "2026-09-02T11:46:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:01:02.487045+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-tumbling-today-93CH-4885523",
+   "baslik": "Why is MongoDB stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-tumbling-today-93CH-4885523",
+   "saat": "11:44",
+   "tarih_iso": "2026-09-02T11:44:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:01:02.487045+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-sliding-today-93CH-4885522",
+   "baslik": "Why is Palo Alto Networks stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-palo-alto-networks-stock-sliding-today-93CH-4885522",
+   "saat": "11:42",
+   "tarih_iso": "2026-09-02T11:42:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:01:02.487045+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-surging-today-93CH-4885521",
+   "baslik": "Why is Dell Technologies stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-dell-technologies-stock-surging-today-93CH-4885521",
+   "saat": "11:42",
+   "tarih_iso": "2026-09-02T11:42:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:01:02.487045+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/02/global-bond-yields-inflation-rates.html",
+   "baslik": "Global bond rout gathers pace as inflation fears mount",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/02/global-bond-yields-inflation-rates.html",
+   "saat": "11:39",
+   "tarih_iso": "2026-09-02T11:39:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:01:02.487045+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-022-4885500",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.22%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-022-4885500",
+   "saat": "11:35",
+   "tarih_iso": "2026-09-02T11:35:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:01:02.487045+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/berenberg-sees-uk-business-services-resilient-on-earnings-upgrades-4885462",
    "baslik": "Berenberg sees UK business services resilient on earnings upgrades",
@@ -777,5 +897,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-02T11:31:03.929994+03:00"
+ "guncelleme": "2026-09-02T12:01:02.487045+03:00"
 }
