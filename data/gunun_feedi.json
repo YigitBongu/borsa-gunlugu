@@ -2,6 +2,32 @@
  "tarih": "2026-09-02",
  "kap": [
   {
+   "id": "kap-my-ALBRK-202609020853",
+   "baslik": "BEREKET VARLIK KİRALAMA A.Ş. — Tertip İhraç Belgesi",
+   "sirket": "BEREKET VARLIK KİRALAMA A.Ş.",
+   "kodlar": [
+    "ALBRK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:53",
+   "tarih_iso": "2026-09-02T08:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
+  {
+   "id": "kap-my-SASA-202609020831",
+   "baslik": "SASA POLYESTER SANAYİ A.Ş. — Esas Sözleşme Tadili",
+   "sirket": "SASA POLYESTER SANAYİ A.Ş.",
+   "kodlar": [
+    "SASA"
+   ],
+   "kategori": "Yeni İş / Sözleşme",
+   "saat": "08:31",
+   "tarih_iso": "2026-09-02T08:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
+  {
    "id": "kap-my-TSKB-202609011912",
    "baslik": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.",
@@ -30,6 +56,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/petrol-ve-faiz-baskisi-buyudu-kuresel-borsalarda-satis-dalgasi-haberi-838441",
+   "baslik": "Petrol ve faiz baskısı büyüdü: Küresel borsalarda satış dalgası",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/petrol-ve-faiz-baskisi-buyudu-kuresel-borsalarda-satis-dalgasi-haberi-838441",
+   "saat": "09:15",
+   "tarih_iso": "2026-09-02T09:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/guney-korede-enflasyon-iki-yilin-zirvesine-yaklasti-haberi-838436",
    "baslik": "Güney Kore’de enflasyon iki yılın zirvesine yaklaştı",
@@ -92,6 +128,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/02/bp-chair-ian-tyler-appointment.html",
+   "baslik": "Oil major BP completes search for chair after boardroom upheaval",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/02/bp-chair-ian-tyler-appointment.html",
+   "saat": "09:21",
+   "tarih_iso": "2026-09-02T09:21:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-india-financials-jefferies-names-seven-buyrated-stocks-93CH-4885337",
+   "baslik": "Top India Financials: Jefferies Names Seven Buy-Rated Stocks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-india-financials-jefferies-names-seven-buyrated-stocks-93CH-4885337",
+   "saat": "09:11",
+   "tarih_iso": "2026-09-02T09:11:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-gold-stocks-slide-as-bullion-falls-sumitomo-metal-mining-drops-11-4885325",
+   "baslik": "Asian gold stocks slide as bullion falls, Sumitomo Metal Mining drops 11%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-gold-stocks-slide-as-bullion-falls-sumitomo-metal-mining-drops-11-4885325",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-02T09:00:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-155-4885323",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.55%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-155-4885323",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-02T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-contemporary-amperex-technology-stock-sliding-today-93CH-4885322",
+   "baslik": "Why is Contemporary Amperex Technology stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-contemporary-amperex-technology-stock-sliding-today-93CH-4885322",
+   "saat": "08:57",
+   "tarih_iso": "2026-09-02T08:57:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cathay-pacific-airways-stock-down-today-93CH-4885321",
+   "baslik": "Why is Cathay Pacific Airways stock down today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cathay-pacific-airways-stock-down-today-93CH-4885321",
+   "saat": "08:56",
+   "tarih_iso": "2026-09-02T08:56:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nio-stock-sliding-today-93CH-4885319",
    "baslik": "Why is NIO stock sliding today?",
@@ -365,6 +461,26 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   },
   {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/altn-duserken-asya-hisse-senetleri-geriledi-sumitomo-11-kaybetti-4051634",
+   "baslik": "Altın düşerken Asya hisse senetleri geriledi, Sumitomo %11 kaybetti",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-duserken-asya-hisse-senetleri-geriledi-sumitomo-11-kaybetti-4051634",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-02T09:00:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/asian-gold-stocks-slide-as-bullion-falls-sumitomo-metal-mining-drops-11-4885325",
+   "baslik": "Asian gold stocks slide as bullion falls, Sumitomo Metal Mining drops 11%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-gold-stocks-slide-as-bullion-falls-sumitomo-metal-mining-drops-11-4885325",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-02T09:00:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T09:30:55.848800+03:00"
+  },
+  {
    "id": "alt-https://www.mining.com/collective-extends-colombias-apollo-on-15-g-t-gold-hit/",
    "baslik": "Collective extends Colombia’s Apollo on 15-g/t gold hit",
    "kaynak": "Mining.com",
@@ -395,5 +511,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-02T09:00:58.677191+03:00"
+ "guncelleme": "2026-09-02T09:30:55.848800+03:00"
 }
