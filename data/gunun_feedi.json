@@ -427,6 +427,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/guney-korede-enflasyon-iki-yilin-zirvesine-yaklasti-haberi-838436",
+   "baslik": "Güney Kore’de enflasyon iki yılın zirvesine yaklaştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/guney-korede-enflasyon-iki-yilin-zirvesine-yaklasti-haberi-838436",
+   "saat": "08:11",
+   "tarih_iso": "2026-09-02T08:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T08:30:50.724843+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/honda-cin-ev-rekabeti-yogunlasrken-9-milyar-dolar-tasarruf-hedefliyor-4051617",
+   "baslik": "Honda Çin EV rekabeti yoğunlaşırken 9 milyar dolar tasarruf hedefliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/honda-cin-ev-rekabeti-yogunlasrken-9-milyar-dolar-tasarruf-hedefliyor-4051617",
+   "saat": "07:45",
+   "tarih_iso": "2026-09-02T07:45:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T08:30:50.724843+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/japonya-merkez-bankasnn-uedas-faiz-artrmlarn-surdurecegine-soz-verdi-93CH-4051579",
    "baslik": "Japonya Merkez Bankası’nın Ueda’sı faiz artırımlarını sürdüreceğine söz verdi",
    "kaynak": "Investing TR",
@@ -688,6 +708,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-seres-stock-sliding-today-93CH-4885318",
+   "baslik": "Why is Seres stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-seres-stock-sliding-today-93CH-4885318",
+   "saat": "08:17",
+   "tarih_iso": "2026-09-02T08:17:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T08:30:50.724843+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-krw-range-live-breakout-levels-93CH-4882096",
+   "baslik": "SK Hynix coils at ₩1,616,000 in no-trade zone: Live levels",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-krw-range-live-breakout-levels-93CH-4882096",
+   "saat": "08:06",
+   "tarih_iso": "2026-09-02T08:06:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T08:30:50.724843+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-10year-yields-surge-to-a-15year-high-heres-why-93CH-4885314",
+   "baslik": "Australia 10-Year Yields surge to a 15-year high, here’s why",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-10year-yields-surge-to-a-15year-high-heres-why-93CH-4885314",
+   "saat": "08:02",
+   "tarih_iso": "2026-09-02T08:02:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T08:30:50.724843+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-the-new-zealand-dollar-sliding-today-93CH-4885313",
+   "baslik": "Why is the New Zealand Dollar sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-the-new-zealand-dollar-sliding-today-93CH-4885313",
+   "saat": "08:02",
+   "tarih_iso": "2026-09-02T08:02:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T08:30:50.724843+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rba-rate-hike-bets-increase-these-stocks-stand-out-as-major-beneficiaries-93CH-4885312",
+   "baslik": "RBA rate hike bets increase: These stocks stand out as major beneficiaries",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rba-rate-hike-bets-increase-these-stocks-stand-out-as-major-beneficiaries-93CH-4885312",
+   "saat": "07:53",
+   "tarih_iso": "2026-09-02T07:53:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T08:30:50.724843+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/byd-can-overseas-expansion-help-offset-a-difficult-chinese-market-93CH-4885306",
    "baslik": "BYD: Can overseas expansion help offset a difficult Chinese market?",
@@ -1837,56 +1907,6 @@
    "tarih_iso": "2026-09-01T17:23:25+03:00",
    "kodlar": [],
    "eklenme": "2026-09-01T18:01:13.474571+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-   "baslik": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
-   "saat": "17:23",
-   "tarih_iso": "2026-09-01T17:23:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T17:30:55.359183+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/elevance-health-elv-soars-investors-141933883.html",
-   "baslik": "Elevance Health (ELV) Soars as Investors Gain Confidence in Profitability",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/elevance-health-elv-soars-investors-141933883.html",
-   "saat": "17:19",
-   "tarih_iso": "2026-09-01T17:19:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T18:01:13.474571+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/caseys-general-stores-stock-may-move-69-on-earnings-release-93CH-4884275",
-   "baslik": "Casey’s General Stores stock may move 6.9% on earnings release",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/caseys-general-stores-stock-may-move-69-on-earnings-release-93CH-4884275",
-   "saat": "17:17",
-   "tarih_iso": "2026-09-01T17:17:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T17:30:55.359183+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/technology/medtronic-minimed-earnings-q1-2027/?src=A00220&yptr=yahoo",
-   "baslik": "Medtronic's Diabetes Spinoff Just Surged. What To Look For In Its Earnings.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/technology/medtronic-minimed-earnings-q1-2027/?src=A00220&yptr=yahoo",
-   "saat": "17:14",
-   "tarih_iso": "2026-09-01T17:14:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T17:30:55.359183+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/citi-trends-ctrn-turns-growth-141403811.html",
-   "baslik": "Citi Trends (CTRN) Turns A Growth Streak Into Real Profit",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/citi-trends-ctrn-turns-growth-141403811.html",
-   "saat": "17:14",
-   "tarih_iso": "2026-09-01T17:14:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-01T18:01:13.474571+03:00"
   }
  ],
  "altin_haber": [
@@ -2221,5 +2241,5 @@
    "eklenme": "2026-09-01T09:01:00.198347+03:00"
   }
  ],
- "guncelleme": "2026-09-02T08:01:00.623355+03:00"
+ "guncelleme": "2026-09-02T08:30:50.724843+03:00"
 }
