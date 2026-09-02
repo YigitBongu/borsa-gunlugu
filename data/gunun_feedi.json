@@ -2,6 +2,32 @@
  "tarih": "2026-09-02",
  "kap": [
   {
+   "id": "kap-my-FROTO-202609021550",
+   "baslik": "FORD OTOMOTİV SANAYİ A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "FORD OTOMOTİV SANAYİ A.Ş.",
+   "kodlar": [
+    "FROTO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:50",
+   "tarih_iso": "2026-09-02T15:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T16:30:52.856141+03:00"
+  },
+  {
+   "id": "kap-my-VAKBN-202609021543",
+   "baslik": "TÜRKİYE VAKIFLAR BANKASI T.A.O. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:43",
+   "tarih_iso": "2026-09-02T15:43:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T16:30:52.856141+03:00"
+  },
+  {
    "id": "kap-my-ALARK-202609021457",
    "baslik": "ALARKO HOLDİNG A.Ş. — Sürdürülebilirlik Raporu",
    "sirket": "ALARKO HOLDİNG A.Ş.",
@@ -383,6 +409,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+   "saat": "16:20",
+   "tarih_iso": "2026-09-02T16:20:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T16:30:52.856141+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-giii-apparel-stock-sliding-today-93CH-4886218",
+   "baslik": "Why is G-III Apparel stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-giii-apparel-stock-sliding-today-93CH-4886218",
+   "saat": "16:16",
+   "tarih_iso": "2026-09-02T16:16:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T16:30:52.856141+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/fuelcell-sinks-13-wider-loss-131346462.html",
+   "baslik": "FuelCell Sinks 13% as Wider Loss Overshadows First Data Center Reservation Deal, Bloom Energy Slips, Plug Power Barely Budges",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-sinks-13-wider-loss-131346462.html",
+   "saat": "16:13",
+   "tarih_iso": "2026-09-02T16:13:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T16:30:52.856141+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/oracle-close-1-trillion-market-130500091.html",
+   "baslik": "Can Oracle Get Close to a $1 Trillion Market Cap Again?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-close-1-trillion-market-130500091.html",
+   "saat": "16:05",
+   "tarih_iso": "2026-09-02T16:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T16:30:52.856141+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-pacs-stock-rallying-today-93CH-4886166",
    "baslik": "Why is PACS stock rallying today?",
@@ -822,6 +888,16 @@
    "tarih_iso": "2026-09-02T13:58:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/a76721db-36e1-4198-aad8-8c90137aace9?syn-25a6b1a6=1",
+   "baslik": "Chevron pledges $7bn to double its Venezuela oil production",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/a76721db-36e1-4198-aad8-8c90137aace9?syn-25a6b1a6=1",
+   "saat": "13:56",
+   "tarih_iso": "2026-09-02T13:56:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T16:30:52.856141+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-jadestone-energy-stock-surging-today-93CH-4885810",
@@ -1532,56 +1608,6 @@
    "tarih_iso": "2026-09-02T06:05:14+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/02/japan-green-tea-ito-en-surges-earnings.html",
-   "baslik": "Japanese green tea giant Ito En surges 8%, defying a broad market sell-off",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/02/japan-green-tea-ito-en-surges-earnings.html",
-   "saat": "05:24",
-   "tarih_iso": "2026-09-02T05:24:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
-   "baslik": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
-   "saat": "03:19",
-   "tarih_iso": "2026-09-02T03:19:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-   "baslik": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-   "saat": "03:18",
-   "tarih_iso": "2026-09-02T03:18:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
-   "baslik": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/01/bessent-china-g20-trade-exports-trump-xi.html",
-   "saat": "02:52",
-   "tarih_iso": "2026-09-02T02:52:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
-   "baslik": "Dow drops below a key chart level, warning of more trouble ahead",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
-   "saat": "00:56",
-   "tarih_iso": "2026-09-02T00:56:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
  "altin_haber": [
@@ -1786,5 +1812,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-02T16:01:10.589966+03:00"
+ "guncelleme": "2026-09-02T16:30:52.856141+03:00"
 }
