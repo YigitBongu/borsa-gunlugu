@@ -135,6 +135,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/pegasustan-rusya-ucuslarina-iliskin-aciklama/4045220",
+   "baslik": "Pegasus'tan Rusya uçuşlarına ilişkin açıklama",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/pegasustan-rusya-ucuslarina-iliskin-aciklama/4045220",
+   "saat": "13:33",
+   "tarih_iso": "2026-09-02T13:33:21+03:00",
+   "kodlar": [
+    "PGSUS"
+   ],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/enerjisa-enerji-ebrdden-207-milyon-dolarlik-finansman-sagladi-3909733-ekonomi",
    "baslik": "EBRD’den Enerjisa Enerji'ye 207 milyon dolarlık kredi",
    "kaynak": "Habertürk Ekonomi",
@@ -193,6 +205,16 @@
    "tarih_iso": "2026-09-02T14:15:22+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T11:31:03.929994+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-bakirci-gyo-icin-caldi/4045245",
+   "baslik": "Borsa İstanbul'da gong Bakırcı GYO için çaldı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-istanbulda-gong-bakirci-gyo-icin-caldi/4045245",
+   "saat": "13:52",
+   "tarih_iso": "2026-09-02T13:52:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbulda-yukari-adim-kurali-uygulamaya-alindi-haberi-838464",
@@ -326,6 +348,166 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/mongodb-shares-tumble-despite-strong-earnings-on-disappointing-news-for-investors-5ee13c7b?mod=mw_rss_topstories",
+   "baslik": "MongoDB shares tumble despite strong earnings on ‘disappointing’ news for investors",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/mongodb-shares-tumble-despite-strong-earnings-on-disappointing-news-for-investors-5ee13c7b?mod=mw_rss_topstories",
+   "saat": "13:58",
+   "tarih_iso": "2026-09-02T13:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/stocks-that-rise-when-the-s-p-500-falls-are-weirdly-keeping-up-with-the-rest-of-wall-street-0cf76f31?mod=mw_rss_topstories",
+   "baslik": "Stocks that rise when the S&P 500 falls are weirdly keeping up with the rest of Wall Street",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/stocks-that-rise-when-the-s-p-500-falls-are-weirdly-keeping-up-with-the-rest-of-wall-street-0cf76f31?mod=mw_rss_topstories",
+   "saat": "13:55",
+   "tarih_iso": "2026-09-02T13:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morgan-stanley-updates-ratings-views-on-european-medtech-stocks-4885795",
+   "baslik": "Morgan Stanley updates ratings, views on European MedTech stocks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-updates-ratings-views-on-european-medtech-stocks-4885795",
+   "saat": "13:47",
+   "tarih_iso": "2026-09-02T13:47:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/morning-bid-bonds-boil-104233524.html",
+   "baslik": "Morning Bid: Bonds boil",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/morning-bid-bonds-boil-104233524.html",
+   "saat": "13:42",
+   "tarih_iso": "2026-09-02T13:42:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-just-sold-3-104201124.html",
+   "baslik": "Berkshire Hathaway Just Sold 3 Bank Stocks. Here’s Why Investors Should Take Notice",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-just-sold-3-104201124.html",
+   "saat": "13:42",
+   "tarih_iso": "2026-09-02T13:42:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/?src=A00220&yptr=yahoo",
+   "baslik": "Dow Jones Futures Fall After Oil Prices Slam Market; Dell, Credo, Palo Alto Are Earnings Movers",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-dell-credo-palo-alto-earnings-oil-prices-jump/?src=A00220&yptr=yahoo",
+   "saat": "13:41",
+   "tarih_iso": "2026-09-02T13:41:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/amazon-stock-just-entered-the-danger-zone-104050035.html",
+   "baslik": "Amazon stock just entered the danger zone",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/amazon-stock-just-entered-the-danger-zone-104050035.html",
+   "saat": "13:40",
+   "tarih_iso": "2026-09-02T13:40:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tim-cooks-era-ending-apple-103500617.html",
+   "baslik": "With Tim Cook's Era Ending, Is Apple Stock a Buy Under John Ternus?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tim-cooks-era-ending-apple-103500617.html",
+   "saat": "13:35",
+   "tarih_iso": "2026-09-02T13:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-059-4885732",
+   "baslik": "India stocks lower at close of trade; Nifty 50 down 0.59%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-059-4885732",
+   "saat": "13:30",
+   "tarih_iso": "2026-09-02T13:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html",
+   "baslik": "Bank of Canada mulls Trump tariff shock as it readies interest rates decision",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html",
+   "saat": "13:29",
+   "tarih_iso": "2026-09-02T13:29:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sirius-xm-stock-rallying-today-93CH-4885731",
+   "baslik": "Why is Sirius XM stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sirius-xm-stock-rallying-today-93CH-4885731",
+   "saat": "13:29",
+   "tarih_iso": "2026-09-02T13:29:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tesla-china-sales-growth-slows-to-36-in-august-93CH-4885730",
+   "baslik": "Tesla China sales growth slows to 3.6% in August",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tesla-china-sales-growth-slows-to-36-in-august-93CH-4885730",
+   "saat": "13:29",
+   "tarih_iso": "2026-09-02T13:29:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/elastic-beat-raised-guidance-wall-102044634.html",
+   "baslik": "Elastic Beat and Raised Guidance. Wall Street Says One Quarter Isn’t Enough.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/elastic-beat-raised-guidance-wall-102044634.html",
+   "saat": "13:20",
+   "tarih_iso": "2026-09-02T13:20:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/salesforce-raised-guidance-again-now-102032039.html",
+   "baslik": "Salesforce Raised Guidance Again. Now It Has to Deliver the Revenue Acceleration",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/salesforce-raised-guidance-again-now-102032039.html",
+   "saat": "13:20",
+   "tarih_iso": "2026-09-02T13:20:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/marvell-beat-raised-guidance-why-102009844.html",
+   "baslik": "Marvell Beat and Raised Guidance. Why Its Google Deal Still Spooked Investors",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/marvell-beat-raised-guidance-why-102009844.html",
+   "saat": "13:20",
+   "tarih_iso": "2026-09-02T13:20:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lotus-bakeries-stock-sliding-today-93CH-4885703",
+   "baslik": "Why is Lotus Bakeries stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lotus-bakeries-stock-sliding-today-93CH-4885703",
+   "saat": "13:17",
+   "tarih_iso": "2026-09-02T13:17:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-universe-pharmaceuticals-stock-up-22-today-93CH-4885694",
    "baslik": "Why is Universe Pharmaceuticals stock up 22% today?",
@@ -1009,6 +1191,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/canli-altin-fiyatlari-2-eylul-2026-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3461831",
+   "baslik": "CANLI ALTIN FİYATLARI 2 EYLÜL 2026: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/canli-altin-fiyatlari-2-eylul-2026-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3461831",
+   "saat": "16:31",
+   "tarih_iso": "2026-09-02T16:31:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
+   "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-2-2026-gold-slips-further-as-military-actions-escalate-in-iran-104514058.html",
+   "baslik": "Gold price today, Wednesday, September 2, 2026: Gold slips further as military actions escalate in Iran",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-2-2026-gold-slips-further-as-military-actions-escalate-in-iran-104514058.html",
+   "saat": "13:45",
+   "tarih_iso": "2026-09-02T13:45:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T14:01:05.950667+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-may-fall-below-4000-again-as-war-adds-fuel-to-the-fed-hike-trade-200686958",
    "baslik": "Gold May Fall Below $4,000 Again as War Adds Fuel to the Fed Hike Trade",
    "kaynak": "Investing Emtia",
@@ -1169,5 +1371,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-02T13:30:53.351686+03:00"
+ "guncelleme": "2026-09-02T14:01:05.950667+03:00"
 }
