@@ -2,6 +2,19 @@
  "tarih": "2026-09-02",
  "kap": [
   {
+   "id": "kap-my-YEOTK-202609021228",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:28",
+   "tarih_iso": "2026-09-02T12:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T12:54:03.515935+03:00"
+  },
+  {
    "id": "kap-my-TUPRS-202609021141",
    "baslik": "BANK OF AMERICA YATIRIM BANK A.Ş. — Toptan Alış Satış İşlemi Bildirimi",
    "sirket": "BANK OF AMERICA YATIRIM BANK A.Ş.",
@@ -299,6 +312,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lottomatica-stock-sliding-today-93CH-4885633",
+   "baslik": "Why is Lottomatica stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lottomatica-stock-sliding-today-93CH-4885633",
+   "saat": "12:39",
+   "tarih_iso": "2026-09-02T12:39:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:54:03.515935+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gea-stock-sliding-today-93CH-4885632",
+   "baslik": "Why is GEA stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-gea-stock-sliding-today-93CH-4885632",
+   "saat": "12:39",
+   "tarih_iso": "2026-09-02T12:39:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:54:03.515935+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/gitlab-eyes-new-52week-high-in-premarket-take-profits-or-hold-gtlb-stock-93CH-4885630",
+   "baslik": "GitLab eyes new 52-week high in premarket: Take profits or hold GTLB stock?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gitlab-eyes-new-52week-high-in-premarket-take-profits-or-hold-gtlb-stock-93CH-4885630",
+   "saat": "12:33",
+   "tarih_iso": "2026-09-02T12:33:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:54:03.515935+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211",
+   "baslik": "US futures extend losses as surging yields and Middle East air strikes weigh",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-futures-muted-as-markets-parse-rate-jitters-more-iran-strikes-4885211",
+   "saat": "12:21",
+   "tarih_iso": "2026-09-02T12:21:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:54:03.515935+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html",
    "baslik": "Treasury yields rise as global bond sell-off continues",
@@ -792,6 +845,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-may-fall-below-4000-again-as-war-adds-fuel-to-the-fed-hike-trade-200686958",
+   "baslik": "Gold May Fall Below $4,000 Again as War Adds Fuel to the Fed Hike Trade",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-may-fall-below-4000-again-as-war-adds-fuel-to-the-fed-hike-trade-200686958",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:54:03.515935+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-declines-sharply-amid-escalating-iran-tensions-and-fed-ratehike-concerns-200686951",
    "baslik": "Gold Declines Sharply Amid Escalating Iran Tensions and Fed Rate-Hike Concerns",
    "kaynak": "Investing Emtia",
@@ -942,5 +1005,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-02T12:30:54.776683+03:00"
+ "guncelleme": "2026-09-02T12:54:03.515935+03:00"
 }
