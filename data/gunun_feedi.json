@@ -2,6 +2,19 @@
  "tarih": "2026-09-02",
  "kap": [
   {
+   "id": "kap-my-TUPRS-202609021141",
+   "baslik": "BANK OF AMERICA YATIRIM BANK A.Ş. — Toptan Alış Satış İşlemi Bildirimi",
+   "sirket": "BANK OF AMERICA YATIRIM BANK A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:41",
+   "tarih_iso": "2026-09-02T11:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T12:30:54.776683+03:00"
+  },
+  {
    "id": "kap-my-YKBNK-202609021129",
    "baslik": "YAPI VE KREDİ BANKASI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
@@ -94,6 +107,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/enerjisa-enerji-ebrdden-207-milyon-dolarlik-finansman-sagladi-3909733-ekonomi",
+   "baslik": "EBRD’den Enerjisa Enerji'ye 207 milyon dolarlık kredi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/enerjisa-enerji-ebrdden-207-milyon-dolarlik-finansman-sagladi-3909733-ekonomi",
+   "saat": "11:54",
+   "tarih_iso": "2026-09-02T11:54:46+03:00",
+   "kodlar": [
+    "ENJSA"
+   ],
+   "eklenme": "2026-09-02T12:30:54.776683+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/sirketler/turk-telekomun-yerli-genisbant-cozumu-15-milyon-haneyi-asti-haberi-838466",
    "baslik": "Türk Telekom’un yerli genişbant çözümü 1,5 milyon haneyi aştı:",
@@ -274,6 +299,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html",
+   "baslik": "Treasury yields rise as global bond sell-off continues",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/02/bond-yields-treasurys-inflation.html",
+   "saat": "12:14",
+   "tarih_iso": "2026-09-02T12:14:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:30:54.776683+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/dell-shares-rise-as-demand-jumps-for-ai-servers-heres-what-wall-street-analysts-are-saying-happens-next-ca2184ca?mod=mw_rss_topstories",
+   "baslik": "Dell shares rise as demand jumps for AI servers — here’s what Wall Street analysts are saying happens next",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/dell-shares-rise-as-demand-jumps-for-ai-servers-heres-what-wall-street-analysts-are-saying-happens-next-ca2184ca?mod=mw_rss_topstories",
+   "saat": "12:03",
+   "tarih_iso": "2026-09-02T12:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T12:30:54.776683+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gitlab-stock-surging-today-93CH-4885526",
    "baslik": "Why is GitLab stock surging today?",
@@ -897,5 +942,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-02T12:01:02.487045+03:00"
+ "guncelleme": "2026-09-02T12:30:54.776683+03:00"
 }
