@@ -2,6 +2,19 @@
  "tarih": "2026-09-02",
  "kap": [
   {
+   "id": "kap-my-CCOLA-202609021609",
+   "baslik": "COCA-COLA İÇECEK A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "COCA-COLA İÇECEK A.Ş.",
+   "kodlar": [
+    "CCOLA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:09",
+   "tarih_iso": "2026-09-02T16:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
    "id": "kap-my-FROTO-202609021550",
    "baslik": "FORD OTOMOTİV SANAYİ A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "FORD OTOMOTİV SANAYİ A.Ş.",
@@ -174,6 +187,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-02-eylul-2026/4045404",
+   "baslik": "60 saniyede ekonomide bugün (02 Eylül 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-02-eylul-2026/4045404",
+   "saat": "15:49",
+   "tarih_iso": "2026-09-02T15:49:34+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/pegasus-tan-rusya-ucuslarina-iliskin-aciklama-3909786-ekonomi",
    "baslik": "Pegasus'tan Rusya seferleri açıklaması",
    "kaynak": "Habertürk Ekonomi",
@@ -247,6 +272,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fedde-eylul-hesabi-basladi-new-york-fed-baskani-williamstan-faiz-mesaji-haberi-838503",
+   "baslik": "Fed'de eylül hesabı başladı: New York Fed Başkanı Williams'tan faiz mesajı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fedde-eylul-hesabi-basladi-new-york-fed-baskani-williamstan-faiz-mesaji-haberi-838503",
+   "saat": "16:09",
+   "tarih_iso": "2026-09-02T16:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/enflasyon-rakamlari-aciklandi-mi-ne-zaman-aciklaniyor-enflasyon-beklentisi-nedir-haberi-838494",
    "baslik": "Enflasyon rakamları açıklandı mı, ne zaman açıklanıyor? Enflasyon beklentisi nedir?",
@@ -410,6 +445,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+   "baslik": "New York Fed's Williams says yield surge due to strong economic prospects",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-09-02T16:45:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/heres-1-000-visa-stock-134400863.html",
+   "baslik": "Here's What $1,000 in Visa Stock at Its IPO Would Be Worth Today",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/heres-1-000-visa-stock-134400863.html",
+   "saat": "16:44",
+   "tarih_iso": "2026-09-02T16:44:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/10-year-treasury-touches-highest-level-since-2023-as-oil-prices-stay-elevated-134238599.html",
+   "baslik": "10-year treasury touches highest level since 2023 as oil prices stay elevated",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/10-year-treasury-touches-highest-level-since-2023-as-oil-prices-stay-elevated-134238599.html",
+   "saat": "16:42",
+   "tarih_iso": "2026-09-02T16:42:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-134032621.html",
+   "baslik": "Stock Market Today (Sept. 2, 2026): Dow edges higher as oil prices rise and bond yields climb",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-134032621.html",
+   "saat": "16:40",
+   "tarih_iso": "2026-09-02T16:40:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-earnings-beat-133854549.html",
+   "baslik": "Palo Alto Networks earnings beat as CEO cites $1 trillion AI security gap",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-earnings-beat-133854549.html",
+   "saat": "16:38",
+   "tarih_iso": "2026-09-02T16:38:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-dow-post-slim-gains-at-open-as-iran-tensions-clash-with-ai-optimism-4886286",
+   "baslik": "S&P 500, Dow post slim gains at open as Iran tensions clash with AI optimism",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-dow-post-slim-gains-at-open-as-iran-tensions-clash-with-ai-optimism-4886286",
+   "saat": "16:36",
+   "tarih_iso": "2026-09-02T16:36:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-eos-energy-stock-surging-today-93CH-4886271",
+   "baslik": "Why is Eos Energy stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-eos-energy-stock-surging-today-93CH-4886271",
+   "saat": "16:30",
+   "tarih_iso": "2026-09-02T16:30:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/technology/mongodb-stock-q2-2026-earnings-report/?src=A00220&yptr=yahoo",
+   "baslik": "MongoDB Stock Tumbles Despite An Earnings Beat. Here's Why.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/technology/mongodb-stock-q2-2026-earnings-report/?src=A00220&yptr=yahoo",
+   "saat": "16:24",
+   "tarih_iso": "2026-09-02T16:24:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
    "id": "yab-https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
    "baslik": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
    "kaynak": "BBC Business",
@@ -420,6 +535,26 @@
    "eklenme": "2026-09-02T16:30:52.856141+03:00"
   },
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-names-best-european-consumer-discretionary-stocks-to-own-now-93CH-4886232",
+   "baslik": "UBS Names Best European Consumer Discretionary Stocks to Own Now",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-names-best-european-consumer-discretionary-stocks-to-own-now-93CH-4886232",
+   "saat": "16:18",
+   "tarih_iso": "2026-09-02T16:18:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/key-insights-from-cathie-woods-latest-ai-stock-moves-93CH-4886224",
+   "baslik": "Key insights from Cathie Wood’s latest AI stock moves",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/key-insights-from-cathie-woods-latest-ai-stock-moves-93CH-4886224",
+   "saat": "16:16",
+   "tarih_iso": "2026-09-02T16:16:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-giii-apparel-stock-sliding-today-93CH-4886218",
    "baslik": "Why is G-III Apparel stock sliding today?",
    "kaynak": "Investing.com",
@@ -428,6 +563,26 @@
    "tarih_iso": "2026-09-02T16:16:46+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T16:30:52.856141+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/navigating-spotify-technology-spot-ai-131634467.html",
+   "baslik": "Navigating Spotify Technology S.A.’s (SPOT) AI Transformation and Revenue Growth Strategies",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/navigating-spotify-technology-spot-ai-131634467.html",
+   "saat": "16:16",
+   "tarih_iso": "2026-09-02T16:16:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/billionaire-portfolios-2-under-20-131558963.html",
+   "baslik": "Billionaire Portfolios: 2 Under-$20 Healthcare Stock Picks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/billionaire-portfolios-2-under-20-131558963.html",
+   "saat": "16:15",
+   "tarih_iso": "2026-09-02T16:15:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/fuelcell-sinks-13-wider-loss-131346462.html",
@@ -1170,6 +1325,16 @@
    "eklenme": "2026-09-02T13:28:52.919435+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-september-2-2026-rates-up-double-digits-as-iran-war-reescalates-100000964.html",
+   "baslik": "Mortgage and refinance rates today, Wednesday, September 2, 2026: Rates up double digits as Iran war reescalates",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-september-2-2026-rates-up-double-digits-as-iran-war-reescalates-100000964.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-09-02T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/article/heres-the-biggest-thing-keeping-ai-stock-investors-up-at-night-095513638.html",
    "baslik": "Here's the biggest thing keeping AI stock investors up at night",
    "kaynak": "Yahoo Finance",
@@ -1478,139 +1643,19 @@
    "tarih_iso": "2026-09-02T09:30:04+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T10:01:01.911315+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/02/bp-chair-ian-tyler-appointment.html",
-   "baslik": "Oil major BP completes search for chair after boardroom upheaval",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/02/bp-chair-ian-tyler-appointment.html",
-   "saat": "09:21",
-   "tarih_iso": "2026-09-02T09:21:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:30:55.848800+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/top-india-financials-jefferies-names-seven-buyrated-stocks-93CH-4885337",
-   "baslik": "Top India Financials: Jefferies Names Seven Buy-Rated Stocks",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/top-india-financials-jefferies-names-seven-buyrated-stocks-93CH-4885337",
-   "saat": "09:11",
-   "tarih_iso": "2026-09-02T09:11:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:30:55.848800+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asian-gold-stocks-slide-as-bullion-falls-sumitomo-metal-mining-drops-11-4885325",
-   "baslik": "Asian gold stocks slide as bullion falls, Sumitomo Metal Mining drops 11%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asian-gold-stocks-slide-as-bullion-falls-sumitomo-metal-mining-drops-11-4885325",
-   "saat": "09:00",
-   "tarih_iso": "2026-09-02T09:00:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:30:55.848800+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-155-4885323",
-   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.55%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-155-4885323",
-   "saat": "09:00",
-   "tarih_iso": "2026-09-02T09:00:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:30:55.848800+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-contemporary-amperex-technology-stock-sliding-today-93CH-4885322",
-   "baslik": "Why is Contemporary Amperex Technology stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-contemporary-amperex-technology-stock-sliding-today-93CH-4885322",
-   "saat": "08:57",
-   "tarih_iso": "2026-09-02T08:57:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:30:55.848800+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cathay-pacific-airways-stock-down-today-93CH-4885321",
-   "baslik": "Why is Cathay Pacific Airways stock down today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-cathay-pacific-airways-stock-down-today-93CH-4885321",
-   "saat": "08:56",
-   "tarih_iso": "2026-09-02T08:56:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:30:55.848800+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nio-stock-sliding-today-93CH-4885319",
-   "baslik": "Why is NIO stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-nio-stock-sliding-today-93CH-4885319",
-   "saat": "08:24",
-   "tarih_iso": "2026-09-02T08:24:50+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-seres-stock-sliding-today-93CH-4885318",
-   "baslik": "Why is Seres stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-seres-stock-sliding-today-93CH-4885318",
-   "saat": "08:17",
-   "tarih_iso": "2026-09-02T08:17:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-krw-range-live-breakout-levels-93CH-4882096",
-   "baslik": "SK Hynix coils at ₩1,616,000 in no-trade zone: Live levels",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/sk-hynix-trapped-in-krw-range-live-breakout-levels-93CH-4882096",
-   "saat": "08:06",
-   "tarih_iso": "2026-09-02T08:06:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/australia-10year-yields-surge-to-a-15year-high-heres-why-93CH-4885314",
-   "baslik": "Australia 10-Year Yields surge to a 15-year high, here’s why",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/australia-10year-yields-surge-to-a-15year-high-heres-why-93CH-4885314",
-   "saat": "08:02",
-   "tarih_iso": "2026-09-02T08:02:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-the-new-zealand-dollar-sliding-today-93CH-4885313",
-   "baslik": "Why is the New Zealand Dollar sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-the-new-zealand-dollar-sliding-today-93CH-4885313",
-   "saat": "08:02",
-   "tarih_iso": "2026-09-02T08:02:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/rba-rate-hike-bets-increase-these-stocks-stand-out-as-major-beneficiaries-93CH-4885312",
-   "baslik": "RBA rate hike bets increase: These stocks stand out as major beneficiaries",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/rba-rate-hike-bets-increase-these-stocks-stand-out-as-major-beneficiaries-93CH-4885312",
-   "saat": "07:53",
-   "tarih_iso": "2026-09-02T07:53:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
-   "baslik": "Australia posts second-quarter growth of 2.1%, beating expectations",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/02/australia-gdp-q2-middle-east-rba.html",
-   "saat": "06:05",
-   "tarih_iso": "2026-09-02T06:05:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-geriledi-haberi-838507",
+   "baslik": "Altının kilogram fiyatı geriledi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-geriledi-haberi-838507",
+   "saat": "16:51",
+   "tarih_iso": "2026-09-02T16:51:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-02T17:01:03.683951+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/ekonomi/canli-altin-fiyatlari-2-eylul-2026-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3461831",
    "baslik": "CANLI ALTIN FİYATLARI 2 EYLÜL 2026: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
@@ -1812,5 +1857,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-02T16:30:52.856141+03:00"
+ "guncelleme": "2026-09-02T17:01:03.683951+03:00"
 }
