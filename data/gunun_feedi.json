@@ -2,6 +2,32 @@
  "tarih": "2026-09-03",
  "kap": [
   {
+   "id": "kap-my-SMRTG-202609031402",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:02",
+   "tarih_iso": "2026-09-03T14:02:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T14:30:51.262847+03:00"
+  },
+  {
+   "id": "kap-my-MIATK-202609031354",
+   "baslik": "MİA TEKNOLOJİ A.Ş. — Birleşme İşlemlerine İlişkin Bildirim",
+   "sirket": "MİA TEKNOLOJİ A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Birleşme / Devralma",
+   "saat": "13:54",
+   "tarih_iso": "2026-09-03T13:54:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T14:30:51.262847+03:00"
+  },
+  {
    "id": "kap-my-SMRTG-202609031319",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -159,6 +185,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-maci-ne-zaman-fb-roma-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-838609",
+   "baslik": "Fenerbahçe Şampiyonlar Ligi maçı ne zaman? FB - Roma maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-maci-ne-zaman-fb-roma-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-838609",
+   "saat": "14:11",
+   "tarih_iso": "2026-09-03T14:11:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-03T14:30:51.262847+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/garanti-bbvadan-finansal-guvenlik-rehberi-serisi-3909992-ekonomi",
    "baslik": "Garanti BBVA’dan “Finansal Güvenlik Rehberi” serisi",
@@ -359,6 +397,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-duluth-holdings-stock-surging-today-93CH-4887579",
+   "baslik": "Why is Duluth Holdings stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-duluth-holdings-stock-surging-today-93CH-4887579",
+   "saat": "14:23",
+   "tarih_iso": "2026-09-03T14:23:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T14:30:51.262847+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-campbells-stock-down-7-today-93CH-4887576",
+   "baslik": "Why is Campbell’s stock down 7% today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-campbells-stock-down-7-today-93CH-4887576",
+   "saat": "14:22",
+   "tarih_iso": "2026-09-03T14:22:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T14:30:51.262847+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-netapp-stock-sliding-today-93CH-4887566",
+   "baslik": "Why is NetApp stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-netapp-stock-sliding-today-93CH-4887566",
+   "saat": "14:13",
+   "tarih_iso": "2026-09-03T14:13:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T14:30:51.262847+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-danieli--c-officine-meccaniche-stock-sliding-today-93CH-4887520",
+   "baslik": "Why is Danieli & C Officine Meccaniche stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-danieli--c-officine-meccaniche-stock-sliding-today-93CH-4887520",
+   "saat": "14:02",
+   "tarih_iso": "2026-09-03T14:02:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T14:30:51.262847+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-azimut-stock-rallying-today-93CH-4887512",
+   "baslik": "Why is Azimut stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-azimut-stock-rallying-today-93CH-4887512",
+   "saat": "14:01",
+   "tarih_iso": "2026-09-03T14:01:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T14:30:51.262847+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-cuts-essity-on-weaker-growth-raw-material-inflation-and-divestment-risk-4887506",
+   "baslik": "UBS cuts Essity on weaker growth, raw material inflation and divestment risk",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-cuts-essity-on-weaker-growth-raw-material-inflation-and-divestment-risk-4887506",
+   "saat": "14:00",
+   "tarih_iso": "2026-09-03T14:00:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T14:30:51.262847+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-essity-stock-sliding-today-93CH-4887505",
+   "baslik": "Why is Essity stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-essity-stock-sliding-today-93CH-4887505",
+   "saat": "14:00",
+   "tarih_iso": "2026-09-03T14:00:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T14:30:51.262847+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fluence-energy-stock-sliding-today-93CH-4887445",
    "baslik": "Why is Fluence Energy stock sliding today?",
@@ -1332,5 +1440,5 @@
    "eklenme": "2026-09-03T09:01:00.458377+03:00"
   }
  ],
- "guncelleme": "2026-09-03T14:01:15.285630+03:00"
+ "guncelleme": "2026-09-03T14:30:51.262847+03:00"
 }
