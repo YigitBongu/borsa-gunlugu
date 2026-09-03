@@ -2,6 +2,19 @@
  "tarih": "2026-09-03",
  "kap": [
   {
+   "id": "kap-my-TUPRS-202609031038",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:38",
+   "tarih_iso": "2026-09-03T10:38:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
+  {
    "id": "kap-my-VESBE-202609031018",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -107,6 +120,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/simsekten-enflasyon-sonrasi-ilk-aciklama-2020den-bu-yana-en-dusuk-seviyede-haberi-838587",
+   "baslik": "Şimşek'ten enflasyon sonrası ilk açıklama: 2020'den bu yana en düşük seviyede",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/simsekten-enflasyon-sonrasi-ilk-aciklama-2020den-bu-yana-en-dusuk-seviyede-haberi-838587",
+   "saat": "11:10",
+   "tarih_iso": "2026-09-03T11:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/enflasyon-rakamlari-aciklandi/4045958",
    "baslik": "Enflasyon rakamları açıklandı",
@@ -219,6 +242,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-five-below-stock-surging-today-93CH-4887138",
+   "baslik": "Why is Five Below stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-five-below-stock-surging-today-93CH-4887138",
+   "saat": "11:15",
+   "tarih_iso": "2026-09-03T11:15:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-snowflake-stock-surging-today-93CH-4887137",
+   "baslik": "Why is Snowflake stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-snowflake-stock-surging-today-93CH-4887137",
+   "saat": "11:14",
+   "tarih_iso": "2026-09-03T11:14:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hewlett-packard-enterprise-stock-falling-today-93CH-4887136",
+   "baslik": "Why is Hewlett Packard Enterprise stock falling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hewlett-packard-enterprise-stock-falling-today-93CH-4887136",
+   "saat": "11:14",
+   "tarih_iso": "2026-09-03T11:14:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-sliding-today-93CH-4887135",
+   "baslik": "Why is Broadcom stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-broadcom-stock-sliding-today-93CH-4887135",
+   "saat": "11:14",
+   "tarih_iso": "2026-09-03T11:14:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dunelm-shares-rise-4-as-deutsche-bank-upgrades-stock-to-buy-4887129",
+   "baslik": "Dunelm shares rise 4% as Deutsche Bank upgrades stock to Buy",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dunelm-shares-rise-4-as-deutsche-bank-upgrades-stock-to-buy-4887129",
+   "saat": "11:10",
+   "tarih_iso": "2026-09-03T11:10:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mg-stock-sliding-today-93CH-4887122",
+   "baslik": "Why is M&G stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mg-stock-sliding-today-93CH-4887122",
+   "saat": "11:04",
+   "tarih_iso": "2026-09-03T11:04:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/energyvision-shares-climb-after-raising-2026-profit-target-93CH-4887117",
+   "baslik": "EnergyVision shares climb after raising 2026 profit target",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/energyvision-shares-climb-after-raising-2026-profit-target-93CH-4887117",
+   "saat": "10:59",
+   "tarih_iso": "2026-09-03T10:59:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/hilton-food-group-shares-rise-on-raised-profit-outlook-93CH-4887116",
+   "baslik": "Hilton Food Group shares rise on raised profit outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/hilton-food-group-shares-rise-on-raised-profit-outlook-93CH-4887116",
+   "saat": "10:58",
+   "tarih_iso": "2026-09-03T10:58:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/which-european-stocks-stand-to-benefit-from-stronger-trade-protection-4887115",
+   "baslik": "Which European stocks stand to benefit from stronger trade protection?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/which-european-stocks-stand-to-benefit-from-stronger-trade-protection-4887115",
+   "saat": "10:58",
+   "tarih_iso": "2026-09-03T10:58:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/safestore-shares-fall-as-q3-revenue-rises-eps-seen-in-lower-half-of-forecasts-4887109",
    "baslik": "Safestore shares fall as Q3 revenue rises, EPS seen in lower half of forecasts",
@@ -632,6 +745,16 @@
    "eklenme": "2026-09-03T10:01:57.547163+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-7-ayin-en-guclu-aylik-yukselisini-kaydetti-galeri-838588",
+   "baslik": "Altın 7 ayın en güçlü aylık yükselişini kaydetti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-7-ayin-en-guclu-aylik-yukselisini-kaydetti-galeri-838588",
+   "saat": "11:22",
+   "tarih_iso": "2026-09-03T11:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:30:51.823081+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020",
    "baslik": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
    "kaynak": "Investing Emtia",
@@ -742,5 +865,5 @@
    "eklenme": "2026-09-03T09:01:00.458377+03:00"
   }
  ],
- "guncelleme": "2026-09-03T11:01:00.716706+03:00"
+ "guncelleme": "2026-09-03T11:30:51.823081+03:00"
 }
