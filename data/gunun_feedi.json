@@ -2,6 +2,19 @@
  "tarih": "2026-09-03",
  "kap": [
   {
+   "id": "kap-my-ASTOR-202609030901",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:01",
+   "tarih_iso": "2026-09-03T09:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T09:30:52.327017+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202609021927",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -68,6 +81,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/enflasyon-rakamlari-aciklandi-mi-saat-kacta-aciklaniyor-enflasyon-dustu-mu-haberi-838568",
+   "baslik": "Enflasyon rakamları açıklandı mı, saat kaçta açıklanıyor? Enflasyon düştü mü?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/enflasyon-rakamlari-aciklandi-mi-saat-kacta-aciklaniyor-enflasyon-dustu-mu-haberi-838568",
+   "saat": "08:56",
+   "tarih_iso": "2026-09-03T08:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T09:30:52.327017+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/dunya-yuksek-faiz-donemine-giriyor-borcun-maliyeti-yukseliyor-haberi-838567",
    "baslik": "Dünya yüksek faiz dönemine giriyor: Borcun maliyeti yükseliyor",
@@ -140,6 +163,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-060-4886996",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.60%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-060-4886996",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-03T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T09:30:52.327017+03:00"
+  },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
    "baslik": "Almost half of households do not see benefits of economic growth, report says",
@@ -483,5 +516,5 @@
    "eklenme": "2026-09-03T09:01:00.458377+03:00"
   }
  ],
- "guncelleme": "2026-09-03T09:01:00.458377+03:00"
+ "guncelleme": "2026-09-03T09:30:52.327017+03:00"
 }
