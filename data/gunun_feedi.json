@@ -389,6 +389,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/sp-getty-imagesn-notunu-faiz-odemesini-kacrmas-nedeniyle-dusurdu-93CH-4054762",
+   "baslik": "S&P, Getty Images’ın notunu faiz ödemesini kaçırması nedeniyle düşürdü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/sp-getty-imagesn-notunu-faiz-odemesini-kacrmas-nedeniyle-dusurdu-93CH-4054762",
+   "saat": "00:36",
+   "tarih_iso": "2026-09-04T00:36:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T01:30:51.704405+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-rezervleri-188-2-milyar-dolara-geriledi-3462391",
    "baslik": "TCMB rezervleri 188,2 milyar dolara geriledi",
    "kaynak": "CNN Türk Ekonomi",
@@ -611,6 +621,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
+   "baslik": "Adobe just announced its next CEO. Here’s why its stock is dropping.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
+   "saat": "01:23",
+   "tarih_iso": "2026-09-04T01:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T01:30:51.704405+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/victorias-secret-sees-strong-bras-and-pink-sales-but-not-enough-to-satisfy-investors-48bfe36c?mod=mw_rss_topstories",
    "baslik": "Victoria’s Secret sees strong sales for bras and Pink line, but not enough to satisfy investors",
    "kaynak": "MarketWatch",
@@ -629,6 +649,16 @@
    "tarih_iso": "2026-09-04T00:49:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-04T01:00:57.931111+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/globus-medical-stock-rises-on-eu-approval-for-imaging-system-93CH-4888631",
+   "baslik": "Globus Medical stock rises on EU approval for imaging system",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/globus-medical-stock-rises-on-eu-approval-for-imaging-system-93CH-4888631",
+   "saat": "00:46",
+   "tarih_iso": "2026-09-04T00:46:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T01:30:51.704405+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/nvidia-takes-back-control-of-the-ai-trade-as-big-tech-nears-record-highs-c0dfed9d?mod=mw_rss_topstories",
@@ -1789,26 +1819,6 @@
    "tarih_iso": "2026-09-03T18:05:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-03T18:30:49.146660+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/victorias-secret-co-q2-earnings-150432728.html",
-   "baslik": "Victoria's Secret & Co. Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/victorias-secret-co-q2-earnings-150432728.html",
-   "saat": "18:04",
-   "tarih_iso": "2026-09-03T18:04:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T18:30:49.146660+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/diversified-energy-makes-1-8b-150432353.html",
-   "baslik": "Diversified Energy Makes $1.8B Birch Deal, Supercharging Its Permian Footprint",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/diversified-energy-makes-1-8b-150432353.html",
-   "saat": "18:04",
-   "tarih_iso": "2026-09-03T18:04:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T18:30:49.146660+03:00"
   }
  ],
  "altin_haber": [
@@ -2133,5 +2143,5 @@
    "eklenme": "2026-09-03T09:01:00.458377+03:00"
   }
  ],
- "guncelleme": "2026-09-04T01:00:57.931111+03:00"
+ "guncelleme": "2026-09-04T01:30:51.704405+03:00"
 }
