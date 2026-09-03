@@ -82,6 +82,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/enflasyon-rakamlari-aciklandi/4045958",
+   "baslik": "Enflasyon rakamları açıklandı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/enflasyon-rakamlari-aciklandi/4045958",
+   "saat": "10:01",
+   "tarih_iso": "2026-09-03T10:01:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T10:30:54.868167+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/agustos-ayi-enflasyon-orani-belli-oldu-haberi-838574",
+   "baslik": "Ağustos ayı enflasyon oranı belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/agustos-ayi-enflasyon-orani-belli-oldu-haberi-838574",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-03T10:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T10:30:54.868167+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/enflasyon-rakamlari-aciklandi-mi-saat-kacta-aciklaniyor-enflasyon-dustu-mu-haberi-838568",
    "baslik": "Enflasyon rakamları açıklandı mı, saat kaçta açıklanıyor? Enflasyon düştü mü?",
    "kaynak": "Dünya",
@@ -90,6 +110,16 @@
    "tarih_iso": "2026-09-03T08:56:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-03T09:30:52.327017+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/enflasyon-rakamlari-aciklandi-yillik-ufe-ve-tufe-oranlari-ne-oldu-haberi-838568",
+   "baslik": "Enflasyon rakamları açıklandı! Yıllık ÜFE ve TÜFE oranları ne oldu?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/enflasyon-rakamlari-aciklandi-yillik-ufe-ve-tufe-oranlari-ne-oldu-haberi-838568",
+   "saat": "08:56",
+   "tarih_iso": "2026-09-03T08:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T10:30:54.868167+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/dunya-yuksek-faiz-donemine-giriyor-borcun-maliyeti-yukseliyor-haberi-838567",
@@ -163,6 +193,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-gold-rally-offsets-iran-war-jitters-4887077",
+   "baslik": "FTSE 100 today: Stocks edge higher as gold rally offsets Iran war jitters",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-gold-rally-offsets-iran-war-jitters-4887077",
+   "saat": "10:18",
+   "tarih_iso": "2026-09-03T10:18:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T10:30:54.868167+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
+   "baslik": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
+   "saat": "10:12",
+   "tarih_iso": "2026-09-03T10:12:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T10:30:54.868167+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-stabilize-from-1month-lows-as-weak-payrolls-data-check-rate-bets-4886988",
+   "baslik": "European stocks stabilize from 1-month lows as weak payrolls data check rate bets",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-stabilize-from-1month-lows-as-weak-payrolls-data-check-rate-bets-4886988",
+   "saat": "10:09",
+   "tarih_iso": "2026-09-03T10:09:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T10:30:54.868167+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-018-4887052",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 0.18%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-018-4887052",
+   "saat": "10:05",
+   "tarih_iso": "2026-09-03T10:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T10:30:54.868167+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/berenberg-opens-positive-on-prudential-citing-china-insurance-growth-4887019",
    "baslik": "Berenberg opens positive on Prudential citing China insurance growth",
@@ -486,6 +556,46 @@
    "eklenme": "2026-09-03T10:01:57.547163+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020",
+   "baslik": "Gold Rebounds Above $4,432 as VC PMI Targets $4,511",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-rebounds-above-4432-as-vc-pmi-targets-4511-200687020",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-03T10:30:54.868167+03:00"
+  },
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/ftse-100-altn-rallisi-iran-savas-endiselerini-dengeledi-4053389",
+   "baslik": "FTSE 100: Altın rallisi İran savaşı endişelerini dengeledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/ftse-100-altn-rallisi-iran-savas-endiselerini-dengeledi-4053389",
+   "saat": "10:18",
+   "tarih_iso": "2026-09-03T10:18:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T10:30:54.868167+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-gold-rally-offsets-iran-war-jitters-4887077",
+   "baslik": "FTSE 100 today: Stocks edge higher as gold rally offsets Iran war jitters",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-gold-rally-offsets-iran-war-jitters-4887077",
+   "saat": "10:18",
+   "tarih_iso": "2026-09-03T10:18:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T10:30:54.868167+03:00"
+  },
+  {
+   "id": "alt-https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
+   "baslik": "Dutch central bank moves gold bars out of U.S. and Canada, citing ‘crisis preparedness’",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/03/netherlands-gold-transfer-us-canada-uk.html",
+   "saat": "10:12",
+   "tarih_iso": "2026-09-03T10:12:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T10:30:54.868167+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-selloff-shows-how-rising-yields-are-overpowering-safehaven-demand-200686996",
    "baslik": "Gold Selloff Shows How Rising Yields Are Overpowering Safe-Haven Demand",
    "kaynak": "Investing Emtia",
@@ -556,5 +666,5 @@
    "eklenme": "2026-09-03T09:01:00.458377+03:00"
   }
  ],
- "guncelleme": "2026-09-03T10:01:57.547163+03:00"
+ "guncelleme": "2026-09-03T10:30:54.868167+03:00"
 }
