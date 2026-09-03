@@ -2,6 +2,45 @@
  "tarih": "2026-09-03",
  "kap": [
   {
+   "id": "kap-my-KCAER-202609031305",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KCAER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:05",
+   "tarih_iso": "2026-09-03T13:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T13:30:57.712859+03:00"
+  },
+  {
+   "id": "kap-my-CWENE-202609031259",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:59",
+   "tarih_iso": "2026-09-03T12:59:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T13:30:57.712859+03:00"
+  },
+  {
+   "id": "kap-my-ASTOR-202609031250",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:50",
+   "tarih_iso": "2026-09-03T12:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T13:30:57.712859+03:00"
+  },
+  {
    "id": "kap-my-TUPRS-202609031038",
    "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -285,6 +324,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/big-oils-new-playbook-how-bps-us-refinery-lockout-signals-a-shift-in-corporate-labor-battles-4887334",
+   "baslik": "Big Oil’s new playbook: How BP’s US refinery lockout signals a shift in corporate labor battles",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/big-oils-new-playbook-how-bps-us-refinery-lockout-signals-a-shift-in-corporate-labor-battles-4887334",
+   "saat": "13:06",
+   "tarih_iso": "2026-09-03T13:06:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T13:30:57.712859+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-climbing-today-93CH-4887332",
+   "baslik": "Why is MongoDB stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-climbing-today-93CH-4887332",
+   "saat": "13:05",
+   "tarih_iso": "2026-09-03T13:05:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T13:30:57.712859+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tillys-stock-surging-today-93CH-4887321",
+   "baslik": "Why is Tilly’s stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tillys-stock-surging-today-93CH-4887321",
+   "saat": "13:04",
+   "tarih_iso": "2026-09-03T13:04:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T13:30:57.712859+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-pulmonx-stock-sliding-today-93CH-4887315",
+   "baslik": "Why is Pulmonx stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-pulmonx-stock-sliding-today-93CH-4887315",
+   "saat": "13:02",
+   "tarih_iso": "2026-09-03T13:02:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T13:30:57.712859+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/03/us-ai-data-centers-china-supply-chain.html",
    "baslik": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom",
    "kaynak": "CNBC",
@@ -303,6 +382,36 @@
    "tarih_iso": "2026-09-03T12:59:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-03T13:04:44.815026+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-victorias-secret-stock-surging-today-93CH-4887299",
+   "baslik": "Why is Victoria’s Secret stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-victorias-secret-stock-surging-today-93CH-4887299",
+   "saat": "12:58",
+   "tarih_iso": "2026-09-03T12:58:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T13:30:57.712859+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-datadog-stock-surging-today-93CH-4887298",
+   "baslik": "Why is Datadog stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-datadog-stock-surging-today-93CH-4887298",
+   "saat": "12:57",
+   "tarih_iso": "2026-09-03T12:57:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T13:30:57.712859+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-argan-stock-surging-today-93CH-4887296",
+   "baslik": "Why is Argan stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-argan-stock-surging-today-93CH-4887296",
+   "saat": "12:55",
+   "tarih_iso": "2026-09-03T12:55:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T13:30:57.712859+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/canadian-futures-steady-as-loonie-hits-1week-high-following-boc-rate-hold-4887257",
@@ -937,6 +1046,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-bulls-regain-control-above-4310-200687045",
+   "baslik": "Gold: bulls regain control above 4,310",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-bulls-regain-control-above-4310-200687045",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-03T13:30:57.712859+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/canli-altin-fiyatlari-3-eylul-2026-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlarinda-son-durum-ne-3462155",
    "baslik": "CANLI ALTIN FİYATLARI 3 EYLÜL 2026: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatlarında Son Durum Ne?",
    "kaynak": "CNN Türk Ekonomi",
@@ -1107,5 +1226,5 @@
    "eklenme": "2026-09-03T09:01:00.458377+03:00"
   }
  ],
- "guncelleme": "2026-09-03T13:04:44.815026+03:00"
+ "guncelleme": "2026-09-03T13:30:57.712859+03:00"
 }
