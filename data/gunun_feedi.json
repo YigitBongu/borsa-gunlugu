@@ -2,6 +2,20 @@
  "tarih": "2026-09-03",
  "kap": [
   {
+   "id": "kap-my-GESAN-202609031828",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "GESAN",
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:28",
+   "tarih_iso": "2026-09-03T18:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
+  {
    "id": "kap-my-KORDS-202609031752",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -276,6 +290,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-talisca-ile-yollarini-ayirdi-haberi-838673",
+   "baslik": "Fenerbahçe, Talisca ile yollarını ayırdı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-talisca-ile-yollarini-ayirdi-haberi-838673",
+   "saat": "22:36",
+   "tarih_iso": "2026-09-03T22:36:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-besiktas-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-bjk-derbi-tarihi-ve-saati-haberi-838621",
    "baslik": "Fenerbahçe Beşiktaş maçı ne zaman, saat kaçta, hangi kanalda? FB - BJK derbi tarihi ve saati...",
@@ -584,6 +610,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+   "baslik": "Lululemon stock plunges 15% on disappointing earnings and outlook",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
+   "saat": "23:52",
+   "tarih_iso": "2026-09-03T23:52:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsara-stock-surging-today-93CH-4888561",
+   "baslik": "Why is Samsara stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-samsara-stock-surging-today-93CH-4888561",
+   "saat": "23:38",
+   "tarih_iso": "2026-09-03T23:38:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/this-subtle-microsoft-change-could-be-a-big-win-for-investors-bfacfb17?mod=mw_rss_topstories",
+   "baslik": "This subtle Microsoft change could be a big win for investors",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/this-subtle-microsoft-change-could-be-a-big-win-for-investors-bfacfb17?mod=mw_rss_topstories",
+   "saat": "23:37",
+   "tarih_iso": "2026-09-03T23:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-nuclear-stocks-to-watch-according-to-jefferies-93CH-4888559",
+   "baslik": "Top Nuclear Stocks to Watch, According to Jefferies",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-nuclear-stocks-to-watch-according-to-jefferies-93CH-4888559",
+   "saat": "23:36",
+   "tarih_iso": "2026-09-03T23:36:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lululemon-stock-plunging-today-93CH-4888553",
+   "baslik": "Why is Lululemon stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lululemon-stock-plunging-today-93CH-4888553",
+   "saat": "23:36",
+   "tarih_iso": "2026-09-03T23:36:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-118-4888539",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 1.18%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-118-4888539",
+   "saat": "23:31",
+   "tarih_iso": "2026-09-03T23:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-150-4888536",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 1.50%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-150-4888536",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-03T23:30:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-001-4888535",
+   "baslik": "Brazil stocks lower at close of trade; Bovespa down 0.01%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-001-4888535",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-03T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/latin-america-stocks-rise-as-bond-selloff-eases-dollar-weakens-93CH-4888532",
+   "baslik": "Latin America stocks rise as bond sell-off eases, dollar weakens",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/latin-america-stocks-rise-as-bond-selloff-eases-dollar-weakens-93CH-4888532",
+   "saat": "23:28",
+   "tarih_iso": "2026-09-03T23:28:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
    "baslik": "Zscaler stock rises on earnings beat, upbeat guidance",
@@ -1693,99 +1809,19 @@
    "tarih_iso": "2026-09-03T17:57:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-03T18:01:05.177439+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-energizer-stock-sliding-today-93CH-4888231",
-   "baslik": "Why is Energizer stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-energizer-stock-sliding-today-93CH-4888231",
-   "saat": "17:51",
-   "tarih_iso": "2026-09-03T17:51:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T18:01:05.177439+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/congressman-ro-khanna-buying-small-145151706.html",
-   "baslik": "Congressman Ro Khanna Was Buying This Small-Cap Stock. Should You?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/congressman-ro-khanna-buying-small-145151706.html",
-   "saat": "17:51",
-   "tarih_iso": "2026-09-03T17:51:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T18:30:49.146660+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-could-deliver-145100299.html",
-   "baslik": "S&P Global (SPGI) Could Deliver Mid-Teens EPS Growth From a Cheaper Valuation",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-could-deliver-145100299.html",
-   "saat": "17:51",
-   "tarih_iso": "2026-09-03T17:51:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T18:30:49.146660+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/oddity-tech-options-flow-signals-defensive-positioning-ahead-of-september-earnings-93CH-4888226",
-   "baslik": "Oddity Tech options flow signals defensive positioning ahead of September earnings",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/oddity-tech-options-flow-signals-defensive-positioning-ahead-of-september-earnings-93CH-4888226",
-   "saat": "17:46",
-   "tarih_iso": "2026-09-03T17:46:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T18:01:05.177439+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/fund-bought-moderna-nearly-tripled-144452535.html",
-   "baslik": "This Fund Bought Moderna Before It Nearly Tripled. See Its 2 New Stock Picks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fund-bought-moderna-nearly-tripled-144452535.html",
-   "saat": "17:44",
-   "tarih_iso": "2026-09-03T17:44:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T18:30:49.146660+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-u-s-economy-powers-up-as-summer-winds-down-but-its-not-free-of-tripwires-2208ae5a?mod=mw_rss_topstories",
-   "baslik": "The U.S. economy powers up as summer winds down, but it’s not free of trip wires",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-u-s-economy-powers-up-as-summer-winds-down-but-its-not-free-of-tripwires-2208ae5a?mod=mw_rss_topstories",
-   "saat": "17:44",
-   "tarih_iso": "2026-09-03T17:44:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T17:50:36.701670+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/billionaires-2-ai-data-center-143957217.html",
-   "baslik": "Billionaires Like These 2 AI Data Center Stocks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/billionaires-2-ai-data-center-143957217.html",
-   "saat": "17:39",
-   "tarih_iso": "2026-09-03T17:39:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T18:30:49.146660+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/palantir-robinhood-among-market-cap-stock-movers-on-thursday-93CH-4888213",
-   "baslik": "Palantir, Robinhood among market cap stock movers on Thursday",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/palantir-robinhood-among-market-cap-stock-movers-on-thursday-93CH-4888213",
-   "saat": "17:35",
-   "tarih_iso": "2026-09-03T17:35:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T18:01:05.177439+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/insider-waves-goodbye-nearly-6-143501132.html",
-   "baslik": "Insider Waves Goodbye to Nearly 6,000 Shares of Energy Stock",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/insider-waves-goodbye-nearly-6-143501132.html",
-   "saat": "17:35",
-   "tarih_iso": "2026-09-03T17:35:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T18:01:05.177439+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.bbc.co.uk/news/videos/cx2z0jn7450o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Watch: Trump $1 commemorative coin goes on sale",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/videos/cx2z0jn7450o?at_medium=RSS&at_campaign=rss",
+   "saat": "23:32",
+   "tarih_iso": "2026-09-03T23:32:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T00:01:02.858447+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/altin-yine-yukselise-gecti-3462499",
    "baslik": "Altın yine yükselişe geçti",
@@ -2097,5 +2133,5 @@
    "eklenme": "2026-09-03T09:01:00.458377+03:00"
   }
  ],
- "guncelleme": "2026-09-03T23:30:52.903506+03:00"
+ "guncelleme": "2026-09-04T00:01:02.858447+03:00"
 }
