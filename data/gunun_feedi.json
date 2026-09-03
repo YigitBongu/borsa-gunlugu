@@ -2,6 +2,32 @@
  "tarih": "2026-09-03",
  "kap": [
   {
+   "id": "kap-my-VESBE-202609031018",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "VESBE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:18",
+   "tarih_iso": "2026-09-03T10:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T11:01:00.716706+03:00"
+  },
+  {
+   "id": "kap-my-VESTL-202609031016",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "VESTL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:16",
+   "tarih_iso": "2026-09-03T10:16:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-03T11:01:00.716706+03:00"
+  },
+  {
    "id": "kap-my-ASTOR-202609030901",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -193,6 +219,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/safestore-shares-fall-as-q3-revenue-rises-eps-seen-in-lower-half-of-forecasts-4887109",
+   "baslik": "Safestore shares fall as Q3 revenue rises, EPS seen in lower half of forecasts",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/safestore-shares-fall-as-q3-revenue-rises-eps-seen-in-lower-half-of-forecasts-4887109",
+   "saat": "10:50",
+   "tarih_iso": "2026-09-03T10:50:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:01:00.716706+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/propicks-ai-september-investor-letter-small-caps-are-breaking-out-again-4887083",
+   "baslik": "ProPicks AI September Investor Letter: Small Caps are breaking out again",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/propicks-ai-september-investor-letter-small-caps-are-breaking-out-again-4887083",
+   "saat": "10:41",
+   "tarih_iso": "2026-09-03T10:41:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:01:00.716706+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-jet2-stock-climbing-today-93CH-4887102",
+   "baslik": "Why is Jet2 stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-jet2-stock-climbing-today-93CH-4887102",
+   "saat": "10:40",
+   "tarih_iso": "2026-09-03T10:40:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:01:00.716706+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-crest-nicholson-stock-collapsing-today-93CH-4887097",
+   "baslik": "Why is Crest Nicholson stock collapsing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-crest-nicholson-stock-collapsing-today-93CH-4887097",
+   "saat": "10:33",
+   "tarih_iso": "2026-09-03T10:33:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:01:00.716706+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-enquest-stock-sliding-today-93CH-4887096",
+   "baslik": "Why is EnQuest stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-enquest-stock-sliding-today-93CH-4887096",
+   "saat": "10:32",
+   "tarih_iso": "2026-09-03T10:32:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T11:01:00.716706+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-higher-as-gold-rally-offsets-iran-war-jitters-4887077",
    "baslik": "FTSE 100 today: Stocks edge higher as gold rally offsets Iran war jitters",
@@ -666,5 +742,5 @@
    "eklenme": "2026-09-03T09:01:00.458377+03:00"
   }
  ],
- "guncelleme": "2026-09-03T10:30:54.868167+03:00"
+ "guncelleme": "2026-09-03T11:01:00.716706+03:00"
 }
