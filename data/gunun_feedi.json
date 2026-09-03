@@ -95,6 +95,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/garanti-bbvadan-finansal-guvenlik-rehberi-serisi-3909992-ekonomi",
+   "baslik": "Garanti BBVA’dan “Finansal Güvenlik Rehberi” serisi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/garanti-bbvadan-finansal-guvenlik-rehberi-serisi-3909992-ekonomi",
+   "saat": "12:04",
+   "tarih_iso": "2026-09-03T12:04:04+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/astor-enerjiden-3511-milyon-liralik-sozlesme-haberi-838528",
    "baslik": "Astor Enerji’den 351,1 milyon liralık sözleşme",
    "kaynak": "Dünya",
@@ -120,6 +132,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/bakan-simsek-enflasyon-rakamlarini-degerlendirdi-3462223",
+   "baslik": "Bakan Şimşek enflasyon rakamlarını değerlendirdi",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/bakan-simsek-enflasyon-rakamlarini-degerlendirdi-3462223",
+   "saat": "15:03",
+   "tarih_iso": "2026-09-03T15:03:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomik-veriler/asgari-ucrette-enflasyon-kaybi-buyudu-haberi-838592",
    "baslik": "Asgari ücrette enflasyon kaybı büyüdü",
@@ -262,6 +284,116 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/snowflake-shares-surge-as-ai-demand-powers-growth-lifts-outlook-4887223",
+   "baslik": "Snowflake shares surge as AI demand powers growth, lifts outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/snowflake-shares-surge-as-ai-demand-powers-growth-lifts-outlook-4887223",
+   "saat": "12:24",
+   "tarih_iso": "2026-09-03T12:24:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-legrand-on-data-center-growth-building-recovery-4887250",
+   "baslik": "Deutsche Bank upgrades Legrand on data center growth, building recovery",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-legrand-on-data-center-growth-building-recovery-4887250",
+   "saat": "12:23",
+   "tarih_iso": "2026-09-03T12:23:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ultragenyx-stock-plunging-45-today-93CH-4887239",
+   "baslik": "Why is Ultragenyx stock plunging 45% today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ultragenyx-stock-plunging-45-today-93CH-4887239",
+   "saat": "12:16",
+   "tarih_iso": "2026-09-03T12:16:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/premarket-movers-snowflake-five-below-surge-after-strong-earnings-4887234",
+   "baslik": "Premarket movers: Snowflake, Five Below surge after strong earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/premarket-movers-snowflake-five-below-surge-after-strong-earnings-4887234",
+   "saat": "12:15",
+   "tarih_iso": "2026-09-03T12:15:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/doordash-stock-is-up-50-since-june-is-it-still-a-buy-93CH-4887232",
+   "baslik": "DoorDash stock is up 50% since June. Is it still a buy?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/doordash-stock-is-up-50-since-june-is-it-still-a-buy-93CH-4887232",
+   "saat": "12:15",
+   "tarih_iso": "2026-09-03T12:15:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ryanair-stock-outlook-breaking-down-bofas-buy-thesis-93CH-4887226",
+   "baslik": "Ryanair stock outlook: Breaking down BofA’s Buy thesis",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ryanair-stock-outlook-breaking-down-bofas-buy-thesis-93CH-4887226",
+   "saat": "12:14",
+   "tarih_iso": "2026-09-03T12:14:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-alarming-bond-yields-might-drop-sooner-than-investors-think-675d908b?mod=mw_rss_topstories",
+   "baslik": "Why alarming bond yields might drop sooner than investors think",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-alarming-bond-yields-might-drop-sooner-than-investors-think-675d908b?mod=mw_rss_topstories",
+   "saat": "12:13",
+   "tarih_iso": "2026-09-03T12:13:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hilton-food-stock-surging-today-93CH-4887222",
+   "baslik": "Why is Hilton Food stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hilton-food-stock-surging-today-93CH-4887222",
+   "saat": "12:11",
+   "tarih_iso": "2026-09-03T12:11:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dunelm-stock-rallying-today-93CH-4887221",
+   "baslik": "Why is Dunelm stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-dunelm-stock-rallying-today-93CH-4887221",
+   "saat": "12:11",
+   "tarih_iso": "2026-09-03T12:11:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-publicis-groupe-stock-rallying-today-93CH-4887220",
+   "baslik": "Why is Publicis Groupe stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-publicis-groupe-stock-rallying-today-93CH-4887220",
+   "saat": "12:10",
+   "tarih_iso": "2026-09-03T12:10:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories",
+   "baslik": "Broadcom stock fall as investors weigh guidance. Here’s what Wall Street analysts are saying.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories",
+   "saat": "12:00",
+   "tarih_iso": "2026-09-03T12:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-soitec-stock-surging-today-93CH-4887171",
    "baslik": "Why is Soitec stock surging today?",
@@ -785,6 +917,26 @@
    "eklenme": "2026-09-03T10:01:57.547163+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-faces-key-test-as-iran-war-and-hormuz-crisis-keep-markets-on-edge-200687038",
+   "baslik": "Gold Faces Key Test as Iran War and Hormuz Crisis Keep Markets on Edge",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-faces-key-test-as-iran-war-and-hormuz-crisis-keep-markets-on-edge-200687038",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035",
+   "baslik": "Gold Rebounds Toward $4,440, but Short-Term Confirmation Is Still Missing",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-03T12:30:53.168496+03:00"
+  },
+  {
    "id": "alt-https://www.aa.com.tr/tr/ekonomi/altin-agustosta-7-ayin-en-guclu-aylik-yukselisini-gerceklestirdi/4046097",
    "baslik": "Altın ağustosta 7 ayın en güçlü aylık yükselişini gerçekleştirdi",
    "kaynak": "AA Ekonomi",
@@ -915,5 +1067,5 @@
    "eklenme": "2026-09-03T09:01:00.458377+03:00"
   }
  ],
- "guncelleme": "2026-09-03T12:01:02.604209+03:00"
+ "guncelleme": "2026-09-03T12:30:53.168496+03:00"
 }
