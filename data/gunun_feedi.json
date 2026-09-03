@@ -362,6 +362,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/kepco-samsungdan-elektrik-icin-15-milyar-dolar-pesin-odeme-istedi-93CH-4053211",
+   "baslik": "KEPCO, Samsung’dan elektrik için 15 milyar dolar peşin ödeme istedi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/kepco-samsungdan-elektrik-icin-15-milyar-dolar-pesin-odeme-istedi-93CH-4053211",
+   "saat": "05:46",
+   "tarih_iso": "2026-09-03T05:46:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T06:30:50.273231+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-iran-ve-faiz-endiseleriyle-yatay-4053177",
    "baslik": "ABD hisse senedi vadeli işlemleri İran ve faiz endişeleriyle yatay",
    "kaynak": "Investing TR",
@@ -613,6 +623,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lynas-rare-earths-stock-rising-today-93CH-4886944",
+   "baslik": "Why is Lynas Rare Earths stock rising today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lynas-rare-earths-stock-rising-today-93CH-4886944",
+   "saat": "05:45",
+   "tarih_iso": "2026-09-03T05:45:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T06:30:50.273231+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-china-gold-international-resources-stock-rising-today-93CH-4886943",
+   "baslik": "Why is China Gold International Resources stock rising today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-china-gold-international-resources-stock-rising-today-93CH-4886943",
+   "saat": "05:45",
+   "tarih_iso": "2026-09-03T05:45:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T06:30:50.273231+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-flat-amid-iran-rate-caution-broadcom-dips-after-earnings-4886896",
    "baslik": "U.S. stock futures flat amid Iran, rate caution; Broadcom dips after earnings",
@@ -1792,29 +1822,29 @@
    "tarih_iso": "2026-09-02T18:00:48+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T18:30:58.686689+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/corning-glw-well-positioned-strong-145840474.html",
-   "baslik": "Corning (GLW) is Well Positioned for Strong Earnings Growth",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/corning-glw-well-positioned-strong-145840474.html",
-   "saat": "17:58",
-   "tarih_iso": "2026-09-02T17:58:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T18:30:58.686689+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
-   "baslik": "How Oracle’s ‘extremely controversial’ stock could more than double from here",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/how-oracles-extremely-controversial-stock-could-more-than-double-from-here-7bb20331?mod=mw_rss_topstories",
-   "saat": "17:58",
-   "tarih_iso": "2026-09-02T17:58:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T18:01:05.992180+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/china-gold-international-resources-hissesi-neden-yukseliyor-93CH-4053212",
+   "baslik": "China Gold International Resources hissesi neden yükseliyor?",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/china-gold-international-resources-hissesi-neden-yukseliyor-93CH-4053212",
+   "saat": "05:46",
+   "tarih_iso": "2026-09-03T05:46:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T06:30:50.273231+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/why-is-china-gold-international-resources-stock-rising-today-93CH-4886943",
+   "baslik": "Why is China Gold International Resources stock rising today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-china-gold-international-resources-stock-rising-today-93CH-4886943",
+   "saat": "05:45",
+   "tarih_iso": "2026-09-03T05:45:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T06:30:50.273231+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-selloff-shows-how-rising-yields-are-overpowering-safehaven-demand-200686996",
    "baslik": "Gold Selloff Shows How Rising Yields Are Overpowering Safe-Haven Demand",
@@ -2166,5 +2196,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-03T06:01:01.991231+03:00"
+ "guncelleme": "2026-09-03T06:30:50.273231+03:00"
 }
