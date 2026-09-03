@@ -362,6 +362,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-iran-ve-faiz-endiseleriyle-yatay-4053177",
+   "baslik": "ABD hisse senedi vadeli işlemleri İran ve faiz endişeleriyle yatay",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-iran-ve-faiz-endiseleriyle-yatay-4053177",
+   "saat": "03:15",
+   "tarih_iso": "2026-09-03T03:15:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T03:30:48.862222+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/son-dakika-borsa-istanbul-carsamba-gununu-dususle-tamamladi-3462048",
    "baslik": "SON DAKİKA | Borsa İstanbul çarşamba gününü düşüşle tamamladı",
    "kaynak": "CNN Türk Ekonomi",
@@ -603,6 +613,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-flat-amid-iran-rate-caution-broadcom-dips-after-earnings-4886896",
+   "baslik": "U.S. stock futures flat amid Iran, rate caution; Broadcom dips after earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-amid-iran-rate-caution-broadcom-dips-after-earnings-4886896",
+   "saat": "03:15",
+   "tarih_iso": "2026-09-03T03:15:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T03:30:48.862222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hewlett-packard-enterprise-stock-falling-afterhours-today-93CH-4886894",
+   "baslik": "Why is Hewlett Packard Enterprise stock falling afterhours today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hewlett-packard-enterprise-stock-falling-afterhours-today-93CH-4886894",
+   "saat": "03:14",
+   "tarih_iso": "2026-09-03T03:14:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T03:30:48.862222+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html",
+   "baslik": "Inside India newsletter: India’s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/03/india-nifty-sensex-manufacturing-economy-gdp.html",
+   "saat": "03:08",
+   "tarih_iso": "2026-09-03T03:08:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T03:30:48.862222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/samsung-fire-seeks-to-buy-up-to-90-stake-in-canopius-economic-daily-93CH-4886882",
+   "baslik": "Samsung Fire seeks to buy up to 90% stake in Canopius: Economic Daily",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/samsung-fire-seeks-to-buy-up-to-90-stake-in-canopius-economic-daily-93CH-4886882",
+   "saat": "02:50",
+   "tarih_iso": "2026-09-03T02:50:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-03T03:30:48.862222+03:00"
+  },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
    "baslik": "Almost half of households do not see benefits of economic growth, report says",
@@ -1762,46 +1812,6 @@
    "tarih_iso": "2026-09-02T17:58:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-02T18:01:05.992180+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-039-4886473",
-   "baslik": "Norway stocks lower at close of trade; Oslo OBX down 0.39%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-039-4886473",
-   "saat": "17:55",
-   "tarih_iso": "2026-09-02T17:55:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T18:01:05.992180+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-130-4886471",
-   "baslik": "Israel stocks higher at close of trade; TA 35 up 1.30%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-130-4886471",
-   "saat": "17:55",
-   "tarih_iso": "2026-09-02T17:55:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T18:01:05.992180+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/fund-added-ge-aerospace-ge-145059869.html",
-   "baslik": "The Fund Added GE Aerospace (GE) Amid Market Skepticism",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fund-added-ge-aerospace-ge-145059869.html",
-   "saat": "17:50",
-   "tarih_iso": "2026-09-02T17:50:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T18:30:58.686689+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-032-4886467",
-   "baslik": "Greece stocks lower at close of trade; Athens General Composite down 0.32%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-032-4886467",
-   "saat": "17:50",
-   "tarih_iso": "2026-09-02T17:50:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-02T18:01:05.992180+03:00"
   }
  ],
  "altin_haber": [
@@ -2156,5 +2166,5 @@
    "eklenme": "2026-09-02T09:00:58.677191+03:00"
   }
  ],
- "guncelleme": "2026-09-03T03:01:04.024037+03:00"
+ "guncelleme": "2026-09-03T03:30:48.862222+03:00"
 }
