@@ -28,7 +28,20 @@
    "eklenme": "2026-09-04T09:30:50.104723+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/sirketler/halkbank-ucuncu-halka-arz-icin-dugmeye-basti-haberi-838710",
+   "baslik": "Halkbank üçüncü halka arz için düğmeye bastı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/halkbank-ucuncu-halka-arz-icin-dugmeye-basti-haberi-838710",
+   "saat": "10:19",
+   "tarih_iso": "2026-09-04T10:19:00+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-09-04T10:31:03.950245+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-eylul-ayi-abd-merkez-bankasi-fed-toplanti-tarihi-ve-faiz-karari-saat-kacta-3461667",
@@ -92,6 +105,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
+   "baslik": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
+   "saat": "10:13",
+   "tarih_iso": "2026-09-04T10:13:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:31:03.950245+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-pause-after-bruising-week-as-feds-waller-tempers-rate-hike-fears-4888825",
+   "baslik": "European shares pause after bruising week as Fed’s Waller tempers rate hike fears",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-pause-after-bruising-week-as-feds-waller-tempers-rate-hike-fears-4888825",
+   "saat": "10:10",
+   "tarih_iso": "2026-09-04T10:10:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:31:03.950245+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-128-4888868",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 1.28%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-128-4888868",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-04T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:31:03.950245+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
    "baslik": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
@@ -303,6 +346,16 @@
    "eklenme": "2026-09-04T09:01:01.122421+03:00"
   },
   {
+   "id": "yab-https://www.ft.com/content/939e55ad-1d5c-45cf-995d-1db6754c8f6b?syn-25a6b1a6=1",
+   "baslik": "Trump-linked companies race to secure deals for Venezuela’s oil",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/939e55ad-1d5c-45cf-995d-1db6754c8f6b?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-04T07:00:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:31:03.950245+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
    "baslik": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
    "kaynak": "MarketWatch",
@@ -415,6 +468,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/ekonomi/iran-kasasindaki-doviz-ve-altin-miktarini-acikladi-haberi-838707",
+   "baslik": "İran kasasındaki döviz ve altın miktarını açıkladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/iran-kasasindaki-doviz-ve-altin-miktarini-acikladi-haberi-838707",
+   "saat": "10:04",
+   "tarih_iso": "2026-09-04T10:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:31:03.950245+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097",
    "baslik": "Gold’s Recovery Targets the $4,590–$4,641 Decision Zone",
    "kaynak": "Investing Emtia",
@@ -515,5 +578,5 @@
    "eklenme": "2026-09-04T09:01:01.122421+03:00"
   }
  ],
- "guncelleme": "2026-09-04T10:01:02.635552+03:00"
+ "guncelleme": "2026-09-04T10:31:03.950245+03:00"
 }
