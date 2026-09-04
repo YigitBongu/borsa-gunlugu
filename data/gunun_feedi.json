@@ -2,6 +2,19 @@
  "tarih": "2026-09-04",
  "kap": [
   {
+   "id": "kap-my-HALKB-202609041010",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "HALKB"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:10",
+   "tarih_iso": "2026-09-04T10:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+  },
+  {
    "id": "kap-my-QUAGR-202609040921",
    "baslik": "QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
    "sirket": "QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
@@ -30,6 +43,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-halkbanküçüncühalkaarziçinyatırımcılarlabuluştu",
+   "baslik": "Halkbank, üçüncü halka arz için yatırımcılarla buluştu",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "#",
+   "saat": "10:49",
+   "tarih_iso": "2026-09-04T10:49:42+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/halkbank-ucuncu-halka-arz-icin-dugmeye-basti-haberi-838710",
    "baslik": "Halkbank üçüncü halka arz için düğmeye bastı",
    "kaynak": "Dünya",
@@ -40,6 +65,18 @@
     "HALKB"
    ],
    "eklenme": "2026-09-04T10:31:03.950245+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/halkbank-yatirimcilarla-bulustu-haberi-838710",
+   "baslik": "Halkbank yatırımcılarla buluştu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/halkbank-yatirimcilarla-bulustu-haberi-838710",
+   "saat": "10:19",
+   "tarih_iso": "2026-09-04T10:19:00+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-09-04T11:01:00.873264+03:00"
   }
  ],
  "makro": [
@@ -52,6 +89,26 @@
    "tarih_iso": "2026-09-04T12:25:30+03:00",
    "kodlar": [],
    "eklenme": "2026-09-04T10:01:02.635552+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-fedin-wallerndan-gelen-sinyalle-duraksad-4054969",
+   "baslik": "Fed’in güvercin sinyalleriyle Avrupa borsaları sert düşüşün ardından nefes aldı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-fedin-wallerndan-gelen-sinyalle-duraksad-4054969",
+   "saat": "10:10",
+   "tarih_iso": "2026-09-04T10:10:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/hisse-senetleri-icin-faiz-ve-petrol-yeniden-belirleyici-mi-4054973",
+   "baslik": "Hisse senetleri için faiz ve petrol yeniden belirleyici mi?",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/hisse-senetleri-icin-faiz-ve-petrol-yeniden-belirleyici-mi-4054973",
+   "saat": "10:08",
+   "tarih_iso": "2026-09-04T10:08:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T11:01:00.873264+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
@@ -105,6 +162,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-accor-stock-rallying-today-93CH-4888912",
+   "baslik": "Why is Accor stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-accor-stock-rallying-today-93CH-4888912",
+   "saat": "10:54",
+   "tarih_iso": "2026-09-04T10:54:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/exclusivechinese-banks-purchasing-treasuries-after-wooing-dollar-deposits-sources-say-4888904",
+   "baslik": "Exclusive-Chinese banks purchasing Treasuries after wooing dollar deposits, sources say",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/exclusivechinese-banks-purchasing-treasuries-after-wooing-dollar-deposits-sources-say-4888904",
+   "saat": "10:44",
+   "tarih_iso": "2026-09-04T10:44:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-traders-eye-us-jobs-data-4888877",
+   "baslik": "FTSE 100 today: Stocks edge lower as traders eye U.S. jobs data",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-traders-eye-us-jobs-data-4888877",
+   "saat": "10:15",
+   "tarih_iso": "2026-09-04T10:15:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
    "baslik": "Global bond sell-off likely not over yet, Mohamed El-Erian tells CNBC",
@@ -468,6 +555,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101",
+   "baslik": "Gold Amid Escalating War Risks: Implications Beyond the Middle East",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/ekonomi/iran-kasasindaki-doviz-ve-altin-miktarini-acikladi-haberi-838707",
    "baslik": "İran kasasındaki döviz ve altın miktarını açıkladı",
    "kaynak": "Dünya",
@@ -578,5 +675,5 @@
    "eklenme": "2026-09-04T09:01:01.122421+03:00"
   }
  ],
- "guncelleme": "2026-09-04T10:31:03.950245+03:00"
+ "guncelleme": "2026-09-04T11:01:00.873264+03:00"
 }
