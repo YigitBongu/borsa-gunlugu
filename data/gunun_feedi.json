@@ -2,6 +2,32 @@
  "tarih": "2026-09-04",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202609041500",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-04T15:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202609041458",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "14:58",
+   "tarih_iso": "2026-09-04T14:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+  },
+  {
    "id": "kap-my-DOAS-202609041230",
    "baslik": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
    "sirket": "DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.",
@@ -130,6 +156,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-oncesi-kritik-anket-haberi-838757",
+   "baslik": "Merkez Bankası faiz kararı öncesi kritik anket",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-oncesi-kritik-anket-haberi-838757",
+   "saat": "15:11",
+   "tarih_iso": "2026-09-04T15:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomik-veriler/merkez-bankasi-acikladi-turk-lirasinin-reel-degeri-agustosta-geriledi-haberi-838755",
    "baslik": "Merkez Bankası açıkladı: Türk Lirası'nın reel değeri ağustosta geriledi",
@@ -303,6 +339,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
+   "baslik": "Is the stock market open on Labor Day? Will the post office deliver mail?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
+   "saat": "15:28",
+   "tarih_iso": "2026-09-04T15:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/marvell-stock-is-down-36-from-recent-alltime-highs-can-it-get-its-mojo-back-93CH-4889558",
+   "baslik": "Marvell stock is down 36% from recent all-time highs; can it get its mojo back?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/marvell-stock-is-down-36-from-recent-alltime-highs-can-it-get-its-mojo-back-93CH-4889558",
+   "saat": "15:22",
+   "tarih_iso": "2026-09-04T15:22:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-index-futures-steady-with-nonfarm-payrolls-on-deck-4888717",
+   "baslik": "U.S. stock index futures mixed amid small moves ahead of jobs report",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-index-futures-steady-with-nonfarm-payrolls-on-deck-4888717",
+   "saat": "15:13",
+   "tarih_iso": "2026-09-04T15:13:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/exclusivehedge-fund-giant-citadel-seeking-to-buy-us-shale-oil-production-assets-sources-say-4889528",
+   "baslik": "Exclusive-Hedge fund giant Citadel seeking to buy US shale oil production assets, sources say",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/exclusivehedge-fund-giant-citadel-seeking-to-buy-us-shale-oil-production-assets-sources-say-4889528",
+   "saat": "15:07",
+   "tarih_iso": "2026-09-04T15:07:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mcdonalds-stock-is-at-2year-lows-should-you-buy-it-93CH-4889526",
+   "baslik": "McDonald’s stock is at 2-year lows. Should you buy it?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mcdonalds-stock-is-at-2year-lows-should-you-buy-it-93CH-4889526",
+   "saat": "15:06",
+   "tarih_iso": "2026-09-04T15:06:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tesla-stock-sliding-today-93CH-4889515",
+   "baslik": "Why is Tesla stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tesla-stock-sliding-today-93CH-4889515",
+   "saat": "15:04",
+   "tarih_iso": "2026-09-04T15:04:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/volkswagens-stock-gets-boost-from-plan-to-double-job-cuts-to-100-000-9b01e664?mod=mw_rss_topstories",
    "baslik": "Volkswagen’s stock gets boost from plan to double job cuts to 100,000",
    "kaynak": "MarketWatch",
@@ -321,6 +417,16 @@
    "tarih_iso": "2026-09-04T14:52:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-04T15:01:02.141181+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/lululemon-stock-analysis-is-it-a-buy-amid-cheap-valuation-93CH-4889488",
+   "baslik": "Lululemon stock analysis: Is it a buy amid cheap valuation?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/lululemon-stock-analysis-is-it-a-buy-amid-cheap-valuation-93CH-4889488",
+   "saat": "14:51",
+   "tarih_iso": "2026-09-04T14:51:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T15:30:52.404605+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/six-reasons-that-the-risk-of-a-stock-market-selloff-is-rising-heres-what-investors-should-be-doing-4c3d84ec?mod=mw_rss_topstories",
@@ -1245,5 +1351,5 @@
    "eklenme": "2026-09-04T09:01:01.122421+03:00"
   }
  ],
- "guncelleme": "2026-09-04T15:01:02.141181+03:00"
+ "guncelleme": "2026-09-04T15:30:52.404605+03:00"
 }
