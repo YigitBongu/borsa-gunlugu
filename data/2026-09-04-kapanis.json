@@ -12,7 +12,8 @@
    "saat": "16:50",
    "tarih_iso": "2026-09-04T16:50:00+03:00",
    "link": "https://finans.mynet.com/borsa/kaphaberleri/",
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:50"
   },
   {
    "id": "kap-my-ISMEN-202609041500",
@@ -25,7 +26,8 @@
    "saat": "15:00",
    "tarih_iso": "2026-09-04T15:00:00+03:00",
    "link": "https://finans.mynet.com/borsa/kaphaberleri/",
-   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+   "eklenme": "2026-09-04T15:30:52.404605+03:00",
+   "saat_g": "15:00"
   },
   {
    "id": "kap-my-ISMEN-202609041458",
@@ -38,7 +40,8 @@
    "saat": "14:58",
    "tarih_iso": "2026-09-04T14:58:00+03:00",
    "link": "https://finans.mynet.com/borsa/kaphaberleri/",
-   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+   "eklenme": "2026-09-04T15:30:52.404605+03:00",
+   "saat_g": "14:58"
   },
   {
    "id": "kap-my-DOAS-202609041230",
@@ -51,7 +54,8 @@
    "saat": "12:30",
    "tarih_iso": "2026-09-04T12:30:00+03:00",
    "link": "https://finans.mynet.com/borsa/kaphaberleri/",
-   "eklenme": "2026-09-04T12:55:45.657559+03:00"
+   "eklenme": "2026-09-04T12:55:45.657559+03:00",
+   "saat_g": "12:30"
   },
   {
    "id": "kap-my-QUAGR-202609041047",
@@ -64,7 +68,8 @@
    "saat": "10:47",
    "tarih_iso": "2026-09-04T10:47:00+03:00",
    "link": "https://finans.mynet.com/borsa/kaphaberleri/",
-   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+   "eklenme": "2026-09-04T11:30:56.169198+03:00",
+   "saat_g": "10:47"
   },
   {
    "id": "kap-my-HALKB-202609041010",
@@ -77,7 +82,8 @@
    "saat": "10:10",
    "tarih_iso": "2026-09-04T10:10:00+03:00",
    "link": "https://finans.mynet.com/borsa/kaphaberleri/",
-   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+   "eklenme": "2026-09-04T11:01:00.873264+03:00",
+   "saat_g": "10:10"
   },
   {
    "id": "kap-my-QUAGR-202609040921",
@@ -90,7 +96,8 @@
    "saat": "09:21",
    "tarih_iso": "2026-09-04T09:21:00+03:00",
    "link": "https://finans.mynet.com/borsa/kaphaberleri/",
-   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+   "eklenme": "2026-09-04T10:01:02.635552+03:00",
+   "saat_g": "09:21"
   },
   {
    "id": "kap-my-SDTTR-202609040736",
@@ -103,7 +110,8 @@
    "saat": "07:36",
    "tarih_iso": "2026-09-04T07:36:00+03:00",
    "link": "https://finans.mynet.com/borsa/kaphaberleri/",
-   "eklenme": "2026-09-04T09:30:50.104723+03:00"
+   "eklenme": "2026-09-04T09:30:50.104723+03:00",
+   "saat_g": "07:36"
   }
  ],
  "sirket": [
@@ -117,7 +125,8 @@
    "kodlar": [
     "KONTR"
    ],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:52"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-04-eylul-2026/4047443",
@@ -129,7 +138,8 @@
    "kodlar": [
     "HALKB"
    ],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:02"
   },
   {
    "id": "rss-https://www.dunya.com/spor/sampiyonlar-ligi-ne-zaman-basliyor-fenerbahce-ve-galatasaray-sampiyonlar-ligi-mac-tarihi-ve-saati-haberi-838731",
@@ -141,7 +151,8 @@
    "kodlar": [
     "FENER"
    ],
-   "eklenme": "2026-09-04T12:30:49.391297+03:00"
+   "eklenme": "2026-09-04T12:30:49.391297+03:00",
+   "saat_g": "12:26"
   },
   {
    "id": "rss-halkbanküçüncühalkaarziçinyatırımcılarlabuluştu",
@@ -153,7 +164,8 @@
    "kodlar": [
     "HALKB"
    ],
-   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+   "eklenme": "2026-09-04T11:01:00.873264+03:00",
+   "saat_g": "10:49"
   },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/halkbank-ucuncu-halka-arz-icin-yatirimcilarla-bulustu-3910213",
@@ -165,7 +177,8 @@
    "kodlar": [
     "HALKB"
    ],
-   "eklenme": "2026-09-04T13:26:44.183866+03:00"
+   "eklenme": "2026-09-04T13:26:44.183866+03:00",
+   "saat_g": "10:49"
   },
   {
    "id": "rss-https://www.dunya.com/sirketler/halkbank-ucuncu-halka-arz-icin-dugmeye-basti-haberi-838710",
@@ -177,7 +190,8 @@
    "kodlar": [
     "HALKB"
    ],
-   "eklenme": "2026-09-04T10:31:03.950245+03:00"
+   "eklenme": "2026-09-04T10:31:03.950245+03:00",
+   "saat_g": "10:19"
   },
   {
    "id": "rss-https://www.dunya.com/sirketler/halkbank-yatirimcilarla-bulustu-haberi-838710",
@@ -189,7 +203,8 @@
    "kodlar": [
     "HALKB"
    ],
-   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+   "eklenme": "2026-09-04T11:01:00.873264+03:00",
+   "saat_g": "10:19"
   }
  ],
  "makro": [
@@ -201,7 +216,8 @@
    "saat": "18:27",
    "tarih_iso": "2026-09-04T18:27:16+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:01:02.049907+03:00"
+   "eklenme": "2026-09-04T16:01:02.049907+03:00",
+   "saat_g": "18:27"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/mevsim-etkilerinden-arindirilmis-ozel-kapsamli-tufe-agustosta-aylik-yuzde-2-29-artti/4047490",
@@ -211,7 +227,8 @@
    "saat": "16:36",
    "tarih_iso": "2026-09-04T16:36:22+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:36"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/moonshot-ai-hong-kong-halka-arznda-5-milyar-dolar-hedefliyor-93CH-4055773",
@@ -221,7 +238,8 @@
    "saat": "15:52",
    "tarih_iso": "2026-09-04T15:52:08+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:30:55.219219+03:00"
+   "eklenme": "2026-09-04T16:30:55.219219+03:00",
+   "saat_g": "15:52"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-oncesi-kritik-anket-haberi-838757",
@@ -231,7 +249,8 @@
    "saat": "15:11",
    "tarih_iso": "2026-09-04T15:11:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+   "eklenme": "2026-09-04T15:30:52.404605+03:00",
+   "saat_g": "15:11"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomik-veriler/merkez-bankasi-acikladi-turk-lirasinin-reel-degeri-agustosta-geriledi-haberi-838755",
@@ -241,7 +260,8 @@
    "saat": "14:55",
    "tarih_iso": "2026-09-04T14:55:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:01:02.141181+03:00"
+   "eklenme": "2026-09-04T15:01:02.141181+03:00",
+   "saat_g": "14:55"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/li-auto-sunwodann-batarya-birimine-395-milyon-dolar-yatrm-yapyor-93CH-4055563",
@@ -251,7 +271,8 @@
    "saat": "14:03",
    "tarih_iso": "2026-09-04T14:03:37+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:30:50.022469+03:00"
+   "eklenme": "2026-09-04T14:30:50.022469+03:00",
+   "saat_g": "14:03"
   },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/merkez-bankasinin-faiz-karari-icin-beklenti-netlesti-27-ekonomistten-21i-ayni-orani-soyledi-galeri-838744",
@@ -261,7 +282,8 @@
    "saat": "13:55",
    "tarih_iso": "2026-09-04T13:55:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:30:50.022469+03:00"
+   "eklenme": "2026-09-04T14:30:50.022469+03:00",
+   "saat_g": "13:55"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-fed-eylulde-faiz-artrrsa-ne-olur-4055474",
@@ -271,7 +293,8 @@
    "saat": "13:24",
    "tarih_iso": "2026-09-04T13:24:31+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:01:05.615422+03:00"
+   "eklenme": "2026-09-04T14:01:05.615422+03:00",
+   "saat_g": "13:24"
   },
   {
    "id": "rss-https://www.dunya.com/ihracat/turkiyenin-e-ihracat-hedefi-6-milyar-dolar-e-ticaretin-payi-yuzde-20ye-cikti-haberi-838740",
@@ -281,7 +304,8 @@
    "saat": "13:21",
    "tarih_iso": "2026-09-04T13:21:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T13:30:50.931797+03:00"
+   "eklenme": "2026-09-04T13:30:50.931797+03:00",
+   "saat_g": "13:21"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/morgan-stanley-fedin-faiz-tutacagn-ongoruyor-93CH-4055435",
@@ -291,7 +315,8 @@
    "saat": "13:14",
    "tarih_iso": "2026-09-04T13:14:32+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T13:26:44.183866+03:00"
+   "eklenme": "2026-09-04T13:26:44.183866+03:00",
+   "saat_g": "13:14"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-eylul-ayi-abd-merkez-bankasi-fed-toplanti-tarihi-ve-faiz-karari-saat-kacta-3461667",
@@ -301,7 +326,8 @@
    "saat": "12:25",
    "tarih_iso": "2026-09-04T12:25:30+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+   "eklenme": "2026-09-04T10:01:02.635552+03:00",
+   "saat_g": "12:25"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkiye-gecen-sezon-findik-ihracatindan-2-5-milyar-dolar-gelir-sagladi/4047194",
@@ -311,7 +337,8 @@
    "saat": "12:15",
    "tarih_iso": "2026-09-04T12:15:39+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:30:49.391297+03:00"
+   "eklenme": "2026-09-04T12:30:49.391297+03:00",
+   "saat_g": "12:15"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/bugunku-istihdam-ve-gelecek-haftaki-tufe-hisseler-icin-kritik-olacak-4055061",
@@ -321,7 +348,8 @@
    "saat": "11:17",
    "tarih_iso": "2026-09-04T11:17:39+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:01:03.488317+03:00"
+   "eklenme": "2026-09-04T12:01:03.488317+03:00",
+   "saat_g": "11:17"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/dev-bankalardan-tcmb-icin-yeni-faiz-tahmini-indirim-icin-tarih-one-cekildi-haberi-838718",
@@ -331,7 +359,8 @@
    "saat": "10:56",
    "tarih_iso": "2026-09-04T10:56:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+   "eklenme": "2026-09-04T11:30:56.169198+03:00",
+   "saat_g": "10:56"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-fedin-wallerndan-gelen-sinyalle-duraksad-4054969",
@@ -341,7 +370,8 @@
    "saat": "10:10",
    "tarih_iso": "2026-09-04T10:10:32+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+   "eklenme": "2026-09-04T11:01:00.873264+03:00",
+   "saat_g": "10:10"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/hisse-senetleri-icin-faiz-ve-petrol-yeniden-belirleyici-mi-4054973",
@@ -351,7 +381,8 @@
    "saat": "10:08",
    "tarih_iso": "2026-09-04T10:08:07+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+   "eklenme": "2026-09-04T11:01:00.873264+03:00",
+   "saat_g": "10:08"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
@@ -361,7 +392,8 @@
    "saat": "09:48",
    "tarih_iso": "2026-09-04T09:48:06+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+   "eklenme": "2026-09-04T10:01:02.635552+03:00",
+   "saat_g": "09:48"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/bbvadan-enflasyon-sonrasi-kritik-tahmin-faiz-indirimi-beklentisi-one-cekildi-haberi-838698",
@@ -371,7 +403,8 @@
    "saat": "09:01",
    "tarih_iso": "2026-09-04T09:01:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:30:50.104723+03:00"
+   "eklenme": "2026-09-04T09:30:50.104723+03:00",
+   "saat_g": "09:01"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/tuik-agustos-ayi-enflasyon-orani-2026-agustos-enflasyon-orani-ne-zaman-aciklanacak-agustos-enflasyon-beklentisi-ne-kira-artis-orani-3462009",
@@ -381,7 +414,8 @@
    "saat": "20:44",
    "tarih_iso": "2026-09-03T20:44:11+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": "dün 20:44"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
@@ -391,7 +425,8 @@
    "saat": "20:44",
    "tarih_iso": "2026-09-03T20:44:07+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": "dün 20:44"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-rezervleri-188-2-milyar-dolara-geriledi-3462391",
@@ -401,7 +436,8 @@
    "saat": "19:03",
    "tarih_iso": "2026-09-03T19:03:09+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": "dün 19:03"
   }
  ],
  "yabanci": [
@@ -413,7 +449,8 @@
    "saat": "17:53",
    "tarih_iso": "2026-09-04T17:53:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:53"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/veraxa-biotech-stock-rises-after-naming-raju-willener-as-cfo-93CH-4889768",
@@ -423,7 +460,8 @@
    "saat": "17:40",
    "tarih_iso": "2026-09-04T17:40:45+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:40"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/some-airline-stocks-may-be-worth-a-look-despite-surging-oil-prices-93CH-4889765",
@@ -433,7 +471,8 @@
    "saat": "17:37",
    "tarih_iso": "2026-09-04T17:37:28+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:37"
   },
   {
    "id": "yab-https://finance.yahoo.com/energy/articles/podcast-tenzing-eyes-functional-benefits-143724302.html",
@@ -443,7 +482,8 @@
    "saat": "17:37",
    "tarih_iso": "2026-09-04T17:37:24+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:37"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/lam-research-and-tesla-among-market-cap-stock-movers-on-friday-93CH-4889757",
@@ -453,7 +493,8 @@
    "saat": "17:35",
    "tarih_iso": "2026-09-04T17:35:24+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:35"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/qualcomm-lost-third-value-3-143154071.html",
@@ -463,7 +504,8 @@
    "saat": "17:31",
    "tarih_iso": "2026-09-04T17:31:54+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:31"
   },
   {
    "id": "yab-https://www.investors.com/news/jobs-report-august-federal-reserve-sp-500/?src=A00220&yptr=yahoo",
@@ -473,7 +515,8 @@
    "saat": "17:28",
    "tarih_iso": "2026-09-04T17:28:02+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:28"
   },
   {
    "id": "yab-https://finance.yahoo.com/economy/policy/articles/trump-issues-stark-threat-federal-142755281.html",
@@ -483,7 +526,8 @@
    "saat": "17:27",
    "tarih_iso": "2026-09-04T17:27:55+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:27"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-pipeline-stocks-paying-huge-142508620.html",
@@ -493,7 +537,8 @@
    "saat": "17:25",
    "tarih_iso": "2026-09-04T17:25:08+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:25"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
@@ -503,7 +548,8 @@
    "saat": "17:25",
    "tarih_iso": "2026-09-04T17:25:04+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "17:25"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kla-stock-surging-today-93CH-4889741",
@@ -513,7 +559,8 @@
    "saat": "17:23",
    "tarih_iso": "2026-09-04T17:23:55+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:31:28.767028+03:00"
+   "eklenme": "2026-09-04T17:31:28.767028+03:00",
+   "saat_g": "17:23"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/uranium-royalty-corp-shares-may-move-21-on-earnings-93CH-4889740",
@@ -523,7 +570,8 @@
    "saat": "17:23",
    "tarih_iso": "2026-09-04T17:23:30+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:31:28.767028+03:00"
+   "eklenme": "2026-09-04T17:31:28.767028+03:00",
+   "saat_g": "17:23"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/kroger-stock-may-move-55-on-sept-11-earnings-report-93CH-4889737",
@@ -533,7 +581,8 @@
    "saat": "17:22",
    "tarih_iso": "2026-09-04T17:22:14+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:31:28.767028+03:00"
+   "eklenme": "2026-09-04T17:31:28.767028+03:00",
+   "saat_g": "17:22"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-stocks-now-wait-pullback-142000895.html",
@@ -543,7 +592,8 @@
    "saat": "17:20",
    "tarih_iso": "2026-09-04T17:20:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:20"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/dollar-index-trapped-in-99209965-range-live-levels-93CH-4882993",
@@ -553,7 +603,8 @@
    "saat": "17:19",
    "tarih_iso": "2026-09-04T17:19:03+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:31:28.767028+03:00"
+   "eklenme": "2026-09-04T17:31:28.767028+03:00",
+   "saat_g": "17:19"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/nasdaq-100-coiled-in-500point-range-hourly-levels-93CH-4882994",
@@ -563,7 +614,8 @@
    "saat": "17:19",
    "tarih_iso": "2026-09-04T17:19:03+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:31:28.767028+03:00"
+   "eklenme": "2026-09-04T17:31:28.767028+03:00",
+   "saat_g": "17:19"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-bearish-engulfing-at-7683-live-levels-93CH-4882989",
@@ -573,7 +625,8 @@
    "saat": "17:19",
    "tarih_iso": "2026-09-04T17:19:02+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:31:28.767028+03:00"
+   "eklenme": "2026-09-04T17:31:28.767028+03:00",
+   "saat_g": "17:19"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/zscaler-shares-fall-despite-earnings-141800614.html",
@@ -583,7 +636,8 @@
    "saat": "17:18",
    "tarih_iso": "2026-09-04T17:18:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "17:18"
   },
   {
    "id": "yab-https://finance.yahoo.com/energy/articles/bass-oil-confirms-oil-pay-140918066.html",
@@ -593,7 +647,8 @@
    "saat": "17:09",
    "tarih_iso": "2026-09-04T17:09:18+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:31:28.767028+03:00"
+   "eklenme": "2026-09-04T17:31:28.767028+03:00",
+   "saat_g": "17:09"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/potential-earnings-upside-strengthens-rh-140833291.html",
@@ -603,7 +658,8 @@
    "saat": "17:08",
    "tarih_iso": "2026-09-04T17:08:33+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:31:28.767028+03:00"
+   "eklenme": "2026-09-04T17:31:28.767028+03:00",
+   "saat_g": "17:08"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
@@ -613,7 +669,8 @@
    "saat": "17:07",
    "tarih_iso": "2026-09-04T17:07:24+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "17:07"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cramer-shares-3-moves-protect-140700745.html",
@@ -623,7 +680,8 @@
    "saat": "17:07",
    "tarih_iso": "2026-09-04T17:07:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:31:28.767028+03:00"
+   "eklenme": "2026-09-04T17:31:28.767028+03:00",
+   "saat_g": "17:07"
   },
   {
    "id": "yab-https://finance.yahoo.com/technology/ai/articles/nextech3d-ai-first-quarter-revenue-140600341.html",
@@ -633,7 +691,8 @@
    "saat": "17:06",
    "tarih_iso": "2026-09-04T17:06:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:31:28.767028+03:00"
+   "eklenme": "2026-09-04T17:31:28.767028+03:00",
+   "saat_g": "17:06"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/article/blowout-jobs-report-raises-worries-of-fed-rate-hike-alphacheck-140242787.html",
@@ -643,7 +702,8 @@
    "saat": "17:02",
    "tarih_iso": "2026-09-04T17:02:42+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "17:02"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/1-high-yield-asset-never-140059575.html",
@@ -653,7 +713,8 @@
    "saat": "17:00",
    "tarih_iso": "2026-09-04T17:00:59+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "17:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/crypto/articles/south-korea-launch-tokenized-securities-135600389.html",
@@ -663,7 +724,8 @@
    "saat": "16:56",
    "tarih_iso": "2026-09-04T16:56:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:56"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/insider-dumps-1-1-million-135502442.html",
@@ -673,7 +735,8 @@
    "saat": "16:55",
    "tarih_iso": "2026-09-04T16:55:02+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:55"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-seagate-technology-stock-rallying-today-93CH-4889695",
@@ -683,7 +746,8 @@
    "saat": "16:53",
    "tarih_iso": "2026-09-04T16:53:58+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:01:03.728012+03:00"
+   "eklenme": "2026-09-04T17:01:03.728012+03:00",
+   "saat_g": "16:53"
   },
   {
    "id": "yab-https://finance.yahoo.com/technology/ai/articles/anthropic-already-raised-130-billion-135300760.html",
@@ -693,7 +757,8 @@
    "saat": "16:53",
    "tarih_iso": "2026-09-04T16:53:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:53"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/first-3-stocks-im-buying-135000419.html",
@@ -703,7 +768,8 @@
    "saat": "16:50",
    "tarih_iso": "2026-09-04T16:50:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:50"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-rallying-today-93CH-4889689",
@@ -713,7 +779,8 @@
    "saat": "16:48",
    "tarih_iso": "2026-09-04T16:48:42+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:01:03.728012+03:00"
+   "eklenme": "2026-09-04T17:01:03.728012+03:00",
+   "saat_g": "16:48"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bilibili-stock-climbing-today-93CH-4889688",
@@ -723,7 +790,8 @@
    "saat": "16:48",
    "tarih_iso": "2026-09-04T16:48:10+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:01:03.728012+03:00"
+   "eklenme": "2026-09-04T17:01:03.728012+03:00",
+   "saat_g": "16:48"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/nvidia-stock-near-52week-highs-time-to-lock-in-gains-or-hold-for-more-93CH-4889687",
@@ -733,7 +801,8 @@
    "saat": "16:47",
    "tarih_iso": "2026-09-04T16:47:04+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:01:03.728012+03:00"
+   "eklenme": "2026-09-04T17:01:03.728012+03:00",
+   "saat_g": "16:47"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-rallying-today-93CH-4889685",
@@ -743,7 +812,8 @@
    "saat": "16:46",
    "tarih_iso": "2026-09-04T16:46:07+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:01:03.728012+03:00"
+   "eklenme": "2026-09-04T17:01:03.728012+03:00",
+   "saat_g": "16:46"
   },
   {
    "id": "yab-https://www.investors.com/news/amc-robinhood-stock-token-dispute-tokenization/?src=A00220&yptr=yahoo",
@@ -753,7 +823,8 @@
    "saat": "16:45",
    "tarih_iso": "2026-09-04T16:45:51+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:45"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/diamond-hill-sees-insteel-iiin-134449765.html",
@@ -763,7 +834,8 @@
    "saat": "16:44",
    "tarih_iso": "2026-09-04T16:44:49+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:44"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/3-stocks-with-compelling-riskreward-profiles-after-q2-earnings-93CH-4889683",
@@ -773,7 +845,8 @@
    "saat": "16:44",
    "tarih_iso": "2026-09-04T16:44:13+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:01:03.728012+03:00"
+   "eklenme": "2026-09-04T17:01:03.728012+03:00",
+   "saat_g": "16:44"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-subdued-after-jobs-report-fuels-ratehike-bets-4889678",
@@ -783,7 +856,8 @@
    "saat": "16:43",
    "tarih_iso": "2026-09-04T16:43:24+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:01:03.728012+03:00"
+   "eklenme": "2026-09-04T17:01:03.728012+03:00",
+   "saat_g": "16:43"
   },
   {
    "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-august-jobs-report-lululemon-lulu/?src=A00220&yptr=yahoo",
@@ -793,7 +867,8 @@
    "saat": "16:42",
    "tarih_iso": "2026-09-04T16:42:42+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:42"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories",
@@ -803,7 +878,8 @@
    "saat": "16:42",
    "tarih_iso": "2026-09-04T16:42:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T18:01:03.449605+03:00"
+   "eklenme": "2026-09-04T18:01:03.449605+03:00",
+   "saat_g": "16:42"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/billionaire-daniel-loeb-betting-2-134129813.html",
@@ -813,7 +889,8 @@
    "saat": "16:41",
    "tarih_iso": "2026-09-04T16:41:29+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:41"
   },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
@@ -823,7 +900,8 @@
    "saat": "16:39",
    "tarih_iso": "2026-09-04T16:39:33+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:01:03.728012+03:00"
+   "eklenme": "2026-09-04T17:01:03.728012+03:00",
+   "saat_g": "16:39"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bank-york-mellon-corp-bny-133643765.html",
@@ -833,7 +911,8 @@
    "saat": "16:36",
    "tarih_iso": "2026-09-04T16:36:43+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:36"
   },
   {
    "id": "yab-https://finance.yahoo.com/energy/articles/chevron-corp-cvx-why-gabelli-133632662.html",
@@ -843,7 +922,8 @@
    "saat": "16:36",
    "tarih_iso": "2026-09-04T16:36:32+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:36"
   },
   {
    "id": "yab-https://www.investors.com/research/ibd-stock-analysis/apple-stock-finds-massive-ai-fueled-demand-breakout-ahead/?src=A00220&yptr=yahoo",
@@ -853,7 +933,8 @@
    "saat": "16:36",
    "tarih_iso": "2026-09-04T16:36:31+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:36"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/genuine-parts-co-gpc-why-133619716.html",
@@ -863,7 +944,8 @@
    "saat": "16:36",
    "tarih_iso": "2026-09-04T16:36:19+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:36"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/flowserve-corp-fls-why-gabelli-133559403.html",
@@ -873,7 +955,8 @@
    "saat": "16:35",
    "tarih_iso": "2026-09-04T16:35:59+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:35"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/global-business-travel-group-gbtg-133544100.html",
@@ -883,7 +966,8 @@
    "saat": "16:35",
    "tarih_iso": "2026-09-04T16:35:44+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:35"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/artisan-sold-medline-mdln-cost-133014457.html",
@@ -893,7 +977,8 @@
    "saat": "16:30",
    "tarih_iso": "2026-09-04T16:30:14+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
+   "eklenme": "2026-09-04T17:28:32.050517+03:00",
+   "saat_g": "16:30"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
@@ -903,7 +988,8 @@
    "saat": "16:25",
    "tarih_iso": "2026-09-04T16:25:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:30:55.219219+03:00"
+   "eklenme": "2026-09-04T16:30:55.219219+03:00",
+   "saat_g": "16:25"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/gold-miners-and-bitcoin-stocks-fall-on-strong-jobs-data-4889640",
@@ -913,7 +999,8 @@
    "saat": "16:11",
    "tarih_iso": "2026-09-04T16:11:19+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:30:55.219219+03:00"
+   "eklenme": "2026-09-04T16:30:55.219219+03:00",
+   "saat_g": "16:11"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/treasurys-bonds-nonfarm-payrolls-unemployment-data.html",
@@ -923,7 +1010,8 @@
    "saat": "16:09",
    "tarih_iso": "2026-09-04T16:09:26+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:30:55.219219+03:00"
+   "eklenme": "2026-09-04T16:30:55.219219+03:00",
+   "saat_g": "16:09"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/here-are-our-top-10-things-to-watch-in-the-stock-market-friday.html",
@@ -933,7 +1021,8 @@
    "saat": "16:07",
    "tarih_iso": "2026-09-04T16:07:29+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:30:55.219219+03:00"
+   "eklenme": "2026-09-04T16:30:55.219219+03:00",
+   "saat_g": "16:07"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-equity-funds-record-second-weekly-outflow-on-iran-tensions-high-yields-4889638",
@@ -943,7 +1032,8 @@
    "saat": "16:06",
    "tarih_iso": "2026-09-04T16:06:59+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:30:55.219219+03:00"
+   "eklenme": "2026-09-04T16:30:55.219219+03:00",
+   "saat_g": "16:06"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/aptiv-stock-setup-should-investors-buy-aptv-as-it-approaches-52week-lows-93CH-4889627",
@@ -953,7 +1043,8 @@
    "saat": "16:02",
    "tarih_iso": "2026-09-04T16:02:10+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:30:55.219219+03:00"
+   "eklenme": "2026-09-04T16:30:55.219219+03:00",
+   "saat_g": "16:02"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html",
@@ -963,7 +1054,8 @@
    "saat": "15:54",
    "tarih_iso": "2026-09-04T15:54:27+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:01:02.049907+03:00"
+   "eklenme": "2026-09-04T16:01:02.049907+03:00",
+   "saat_g": "15:54"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-wacker-chemie-stock-sliding-today-93CH-4889604",
@@ -973,7 +1065,8 @@
    "saat": "15:47",
    "tarih_iso": "2026-09-04T15:47:22+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:01:02.049907+03:00"
+   "eklenme": "2026-09-04T16:01:02.049907+03:00",
+   "saat_g": "15:47"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
@@ -983,7 +1076,8 @@
    "saat": "15:45",
    "tarih_iso": "2026-09-04T15:45:50+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:31:28.767028+03:00"
+   "eklenme": "2026-09-04T17:31:28.767028+03:00",
+   "saat_g": "15:45"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ofa-group-stock-surges-as-qikbim-platform-gains-traction-93CH-4889600",
@@ -993,7 +1087,8 @@
    "saat": "15:44",
    "tarih_iso": "2026-09-04T15:44:05+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:01:02.049907+03:00"
+   "eklenme": "2026-09-04T16:01:02.049907+03:00",
+   "saat_g": "15:44"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-futures-fall-after-august-jobs-data-4889598",
@@ -1003,7 +1098,8 @@
    "saat": "15:43",
    "tarih_iso": "2026-09-04T15:43:10+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:01:02.049907+03:00"
+   "eklenme": "2026-09-04T16:01:02.049907+03:00",
+   "saat_g": "15:43"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-the-trade-desk-stock-climbing-today-93CH-4889597",
@@ -1013,7 +1109,8 @@
    "saat": "15:41",
    "tarih_iso": "2026-09-04T15:41:38+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:01:02.049907+03:00"
+   "eklenme": "2026-09-04T16:01:02.049907+03:00",
+   "saat_g": "15:41"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
@@ -1023,7 +1120,8 @@
    "saat": "15:40",
    "tarih_iso": "2026-09-04T15:40:43+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:01:02.049907+03:00"
+   "eklenme": "2026-09-04T16:01:02.049907+03:00",
+   "saat_g": "15:40"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-todays-payrolls-and-next-weeks-cpi-will-be-crucial-for-stocks-4888919",
@@ -1033,7 +1131,8 @@
    "saat": "15:40",
    "tarih_iso": "2026-09-04T15:40:20+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:01:02.049907+03:00"
+   "eklenme": "2026-09-04T16:01:02.049907+03:00",
+   "saat_g": "15:40"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-simmons-first-national-stock-climbing-today-93CH-4889593",
@@ -1043,7 +1142,8 @@
    "saat": "15:37",
    "tarih_iso": "2026-09-04T15:37:27+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:01:02.049907+03:00"
+   "eklenme": "2026-09-04T16:01:02.049907+03:00",
+   "saat_g": "15:37"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/wacker-chemie-stock-falls-on-report-of-potential-tennessee-plant-closure-93CH-4889586",
@@ -1053,7 +1153,8 @@
    "saat": "15:32",
    "tarih_iso": "2026-09-04T15:32:47+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:01:02.049907+03:00"
+   "eklenme": "2026-09-04T16:01:02.049907+03:00",
+   "saat_g": "15:32"
   },
   {
    "id": "yab-https://www.ft.com/content/a7ce8b2f-98f5-4e96-afa0-ccf4dceef8bd?syn-25a6b1a6=1",
@@ -1063,7 +1164,8 @@
    "saat": "15:32",
    "tarih_iso": "2026-09-04T15:32:03+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:01:02.049907+03:00"
+   "eklenme": "2026-09-04T16:01:02.049907+03:00",
+   "saat_g": "15:32"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/is-the-stock-market-open-on-labor-day-does-the-post-office-deliver-mail-6d58fd77?mod=mw_rss_topstories",
@@ -1073,7 +1175,8 @@
    "saat": "15:28",
    "tarih_iso": "2026-09-04T15:28:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+   "eklenme": "2026-09-04T15:30:52.404605+03:00",
+   "saat_g": "15:28"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/marvell-stock-is-down-36-from-recent-alltime-highs-can-it-get-its-mojo-back-93CH-4889558",
@@ -1083,7 +1186,8 @@
    "saat": "15:22",
    "tarih_iso": "2026-09-04T15:22:41+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+   "eklenme": "2026-09-04T15:30:52.404605+03:00",
+   "saat_g": "15:22"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-index-futures-steady-with-nonfarm-payrolls-on-deck-4888717",
@@ -1093,7 +1197,8 @@
    "saat": "15:13",
    "tarih_iso": "2026-09-04T15:13:08+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+   "eklenme": "2026-09-04T15:30:52.404605+03:00",
+   "saat_g": "15:13"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/exclusivehedge-fund-giant-citadel-seeking-to-buy-us-shale-oil-production-assets-sources-say-4889528",
@@ -1103,7 +1208,8 @@
    "saat": "15:07",
    "tarih_iso": "2026-09-04T15:07:16+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+   "eklenme": "2026-09-04T15:30:52.404605+03:00",
+   "saat_g": "15:07"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/mcdonalds-stock-is-at-2year-lows-should-you-buy-it-93CH-4889526",
@@ -1113,7 +1219,8 @@
    "saat": "15:06",
    "tarih_iso": "2026-09-04T15:06:24+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+   "eklenme": "2026-09-04T15:30:52.404605+03:00",
+   "saat_g": "15:06"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tesla-stock-sliding-today-93CH-4889515",
@@ -1123,7 +1230,8 @@
    "saat": "15:04",
    "tarih_iso": "2026-09-04T15:04:05+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+   "eklenme": "2026-09-04T15:30:52.404605+03:00",
+   "saat_g": "15:04"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/volkswagens-stock-gets-boost-from-plan-to-double-job-cuts-to-100-000-9b01e664?mod=mw_rss_topstories",
@@ -1133,7 +1241,8 @@
    "saat": "14:53",
    "tarih_iso": "2026-09-04T14:53:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:01:02.141181+03:00"
+   "eklenme": "2026-09-04T15:01:02.141181+03:00",
+   "saat_g": "14:53"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/these-stocks-in-the-red-hot-healthcare-sector-have-gotten-too-crowded-to-own-b4b2e0bc?mod=mw_rss_topstories",
@@ -1143,7 +1252,8 @@
    "saat": "14:52",
    "tarih_iso": "2026-09-04T14:52:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:01:02.141181+03:00"
+   "eklenme": "2026-09-04T15:01:02.141181+03:00",
+   "saat_g": "14:52"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/lululemon-stock-analysis-is-it-a-buy-amid-cheap-valuation-93CH-4889488",
@@ -1153,7 +1263,8 @@
    "saat": "14:51",
    "tarih_iso": "2026-09-04T14:51:04+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:30:52.404605+03:00"
+   "eklenme": "2026-09-04T15:30:52.404605+03:00",
+   "saat_g": "14:51"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/six-reasons-that-the-risk-of-a-stock-market-selloff-is-rising-heres-what-investors-should-be-doing-4c3d84ec?mod=mw_rss_topstories",
@@ -1163,7 +1274,8 @@
    "saat": "14:32",
    "tarih_iso": "2026-09-04T14:32:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T15:01:02.141181+03:00"
+   "eklenme": "2026-09-04T15:01:02.141181+03:00",
+   "saat_g": "14:32"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/governments-keep-trying-to-calm-global-markets-why-that-should-worry-investors-e7f93d62?mod=mw_rss_topstories",
@@ -1173,7 +1285,8 @@
    "saat": "14:27",
    "tarih_iso": "2026-09-04T14:27:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:30:50.022469+03:00"
+   "eklenme": "2026-09-04T14:30:50.022469+03:00",
+   "saat_g": "14:27"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/potential-midterm-election-chaos-can-roil-markets-heres-one-traders-play-73a02966?mod=mw_rss_topstories",
@@ -1183,7 +1296,8 @@
    "saat": "14:21",
    "tarih_iso": "2026-09-04T14:21:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:30:50.022469+03:00"
+   "eklenme": "2026-09-04T14:30:50.022469+03:00",
+   "saat_g": "14:21"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-experian-stock-sliding-today-93CH-4889422",
@@ -1193,7 +1307,8 @@
    "saat": "14:19",
    "tarih_iso": "2026-09-04T14:19:43+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:30:50.022469+03:00"
+   "eklenme": "2026-09-04T14:30:50.022469+03:00",
+   "saat_g": "14:19"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fair-isaac-stock-sliding-today-93CH-4889420",
@@ -1203,7 +1318,8 @@
    "saat": "14:17",
    "tarih_iso": "2026-09-04T14:17:39+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:30:50.022469+03:00"
+   "eklenme": "2026-09-04T14:30:50.022469+03:00",
+   "saat_g": "14:17"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/canadian-stock-futures-flatline-as-tsx-caps-muted-week-following-boc-hold-4889174",
@@ -1213,7 +1329,8 @@
    "saat": "14:16",
    "tarih_iso": "2026-09-04T14:16:39+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:30:50.022469+03:00"
+   "eklenme": "2026-09-04T14:30:50.022469+03:00",
+   "saat_g": "14:16"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-equifax-stock-sliding-today-93CH-4889415",
@@ -1223,7 +1340,8 @@
    "saat": "14:15",
    "tarih_iso": "2026-09-04T14:15:37+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:30:50.022469+03:00"
+   "eklenme": "2026-09-04T14:30:50.022469+03:00",
+   "saat_g": "14:15"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/fico-equifax-and-transunion-stocks-fall-on-credit-scoring-shift-93CH-4889408",
@@ -1233,7 +1351,8 @@
    "saat": "14:11",
    "tarih_iso": "2026-09-04T14:11:45+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:30:50.022469+03:00"
+   "eklenme": "2026-09-04T14:30:50.022469+03:00",
+   "saat_g": "14:11"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/analysisshein-seeks-fastfashion-deals-to-spur-growth-4889365",
@@ -1243,7 +1362,8 @@
    "saat": "14:01",
    "tarih_iso": "2026-09-04T14:01:01+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:30:50.022469+03:00"
+   "eklenme": "2026-09-04T14:30:50.022469+03:00",
+   "saat_g": "14:01"
   },
   {
    "id": "yab-https://www.ft.com/content/3a232341-a470-4270-84a7-5c0e5782db3b?syn-25a6b1a6=1",
@@ -1253,7 +1373,8 @@
    "saat": "14:00",
    "tarih_iso": "2026-09-04T14:00:11+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:30:50.022469+03:00"
+   "eklenme": "2026-09-04T14:30:50.022469+03:00",
+   "saat_g": "14:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/apple-possessed-the-ultimate-stock-market-superpower-under-tim-cook-can-its-new-ceo-step-up-4e2a4d5a?mod=mw_rss_topstories",
@@ -1263,7 +1384,8 @@
    "saat": "14:00",
    "tarih_iso": "2026-09-04T14:00:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:01:05.615422+03:00"
+   "eklenme": "2026-09-04T14:01:05.615422+03:00",
+   "saat_g": "14:00"
   },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
@@ -1273,7 +1395,8 @@
    "saat": "13:40",
    "tarih_iso": "2026-09-04T13:40:23+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:01:05.615422+03:00"
+   "eklenme": "2026-09-04T14:01:05.615422+03:00",
+   "saat_g": "13:40"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vodafone-stock-climbing-today-93CH-4889324",
@@ -1283,7 +1406,8 @@
    "saat": "13:40",
    "tarih_iso": "2026-09-04T13:40:19+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:01:05.615422+03:00"
+   "eklenme": "2026-09-04T14:01:05.615422+03:00",
+   "saat_g": "13:40"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-higher-at-close-of-trade-nifty-50-up-010-4889303",
@@ -1293,7 +1417,8 @@
    "saat": "13:30",
    "tarih_iso": "2026-09-04T13:30:05+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:01:05.615422+03:00"
+   "eklenme": "2026-09-04T14:01:05.615422+03:00",
+   "saat_g": "13:30"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsara-stock-surging-today-93CH-4889302",
@@ -1303,7 +1428,8 @@
    "saat": "13:29",
    "tarih_iso": "2026-09-04T13:29:42+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:01:05.615422+03:00"
+   "eklenme": "2026-09-04T14:01:05.615422+03:00",
+   "saat_g": "13:29"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-what-if-the-fed-hikes-in-september-4889293",
@@ -1313,7 +1439,8 @@
    "saat": "13:24",
    "tarih_iso": "2026-09-04T13:24:31+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T14:01:05.615422+03:00"
+   "eklenme": "2026-09-04T14:01:05.615422+03:00",
+   "saat_g": "13:24"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/morgan-stanley-sees-fed-holding-rates-despite-hawkish-speech-93CH-4889275",
@@ -1323,7 +1450,8 @@
    "saat": "13:13",
    "tarih_iso": "2026-09-04T13:13:43+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T13:26:44.183866+03:00"
+   "eklenme": "2026-09-04T13:26:44.183866+03:00",
+   "saat_g": "13:13"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/investors-to-pore-over-inflation-data-for-signals-on-rate-trajectory-4889218",
@@ -1333,7 +1461,8 @@
    "saat": "13:07",
    "tarih_iso": "2026-09-04T13:07:18+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T13:26:44.183866+03:00"
+   "eklenme": "2026-09-04T13:26:44.183866+03:00",
+   "saat_g": "13:07"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/hawaiian-electric-industries-he-stock-analysis-graham-value-vs-distress-risk-93CH-4889202",
@@ -1343,7 +1472,8 @@
    "saat": "13:04",
    "tarih_iso": "2026-09-04T13:04:53+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T13:26:44.183866+03:00"
+   "eklenme": "2026-09-04T13:26:44.183866+03:00",
+   "saat_g": "13:04"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/morgan-stanley-eni-leads-european-oil-majors-in-production-growth-outlook-93CH-4889197",
@@ -1353,7 +1483,8 @@
    "saat": "13:03",
    "tarih_iso": "2026-09-04T13:03:37+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T13:26:44.183866+03:00"
+   "eklenme": "2026-09-04T13:26:44.183866+03:00",
+   "saat_g": "13:03"
   },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/cqlw6g2x1lko?at_medium=RSS&at_campaign=rss",
@@ -1363,7 +1494,8 @@
    "saat": "13:00",
    "tarih_iso": "2026-09-04T13:00:59+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T13:26:44.183866+03:00"
+   "eklenme": "2026-09-04T13:26:44.183866+03:00",
+   "saat_g": "13:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-genel-energy-stock-tumbling-today-93CH-4889182",
@@ -1373,7 +1505,8 @@
    "saat": "13:00",
    "tarih_iso": "2026-09-04T13:00:55+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T13:26:44.183866+03:00"
+   "eklenme": "2026-09-04T13:26:44.183866+03:00",
+   "saat_g": "13:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-oxford-industries-stock-plunging-14-today-93CH-4889145",
@@ -1383,7 +1516,8 @@
    "saat": "12:47",
    "tarih_iso": "2026-09-04T12:47:52+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:55:45.657559+03:00"
+   "eklenme": "2026-09-04T12:55:45.657559+03:00",
+   "saat_g": "12:47"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-asana-stock-down-10-today-93CH-4889144",
@@ -1393,7 +1527,8 @@
    "saat": "12:47",
    "tarih_iso": "2026-09-04T12:47:46+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:55:45.657559+03:00"
+   "eklenme": "2026-09-04T12:55:45.657559+03:00",
+   "saat_g": "12:47"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sunpower-stock-sliding-17-today-93CH-4889139",
@@ -1403,7 +1538,8 @@
    "saat": "12:44",
    "tarih_iso": "2026-09-04T12:44:50+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:55:45.657559+03:00"
+   "eklenme": "2026-09-04T12:55:45.657559+03:00",
+   "saat_g": "12:44"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-egain-stock-plunging-over-20-today-93CH-4889138",
@@ -1413,7 +1549,8 @@
    "saat": "12:44",
    "tarih_iso": "2026-09-04T12:44:39+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:55:45.657559+03:00"
+   "eklenme": "2026-09-04T12:55:45.657559+03:00",
+   "saat_g": "12:44"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-concrete-pumping-stock-up-17-today-93CH-4889136",
@@ -1423,7 +1560,8 @@
    "saat": "12:42",
    "tarih_iso": "2026-09-04T12:42:44+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:55:45.657559+03:00"
+   "eklenme": "2026-09-04T12:55:45.657559+03:00",
+   "saat_g": "12:42"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-amc-entertainment-stock-up-9-today-93CH-4889133",
@@ -1433,7 +1571,8 @@
    "saat": "12:42",
    "tarih_iso": "2026-09-04T12:42:10+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:55:45.657559+03:00"
+   "eklenme": "2026-09-04T12:55:45.657559+03:00",
+   "saat_g": "12:42"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-american-outdoor-brands-stock-surging-over-24-today-93CH-4889132",
@@ -1443,7 +1582,8 @@
    "saat": "12:39",
    "tarih_iso": "2026-09-04T12:39:27+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:55:45.657559+03:00"
+   "eklenme": "2026-09-04T12:55:45.657559+03:00",
+   "saat_g": "12:39"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-rich-sparkle-holdings-stock-surging-today-93CH-4889131",
@@ -1453,7 +1593,8 @@
    "saat": "12:39",
    "tarih_iso": "2026-09-04T12:39:14+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:55:45.657559+03:00"
+   "eklenme": "2026-09-04T12:55:45.657559+03:00",
+   "saat_g": "12:39"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/cisco-stock-trades-above-fair-value-as-shortterm-momentum-stays-bearish-93CH-4889130",
@@ -1463,7 +1604,8 @@
    "saat": "12:38",
    "tarih_iso": "2026-09-04T12:38:56+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:55:45.657559+03:00"
+   "eklenme": "2026-09-04T12:55:45.657559+03:00",
+   "saat_g": "12:38"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-uipath-stock-sliding-today-93CH-4888986",
@@ -1473,7 +1615,8 @@
    "saat": "11:35",
    "tarih_iso": "2026-09-04T11:35:32+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:01:03.488317+03:00"
+   "eklenme": "2026-09-04T12:01:03.488317+03:00",
+   "saat_g": "11:35"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zscaler-stock-sliding-today-93CH-4888970",
@@ -1483,7 +1626,8 @@
    "saat": "11:32",
    "tarih_iso": "2026-09-04T11:32:57+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:01:03.488317+03:00"
+   "eklenme": "2026-09-04T12:01:03.488317+03:00",
+   "saat_g": "11:32"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-planet-labs-stock-surging-today-93CH-4888969",
@@ -1493,7 +1637,8 @@
    "saat": "11:32",
    "tarih_iso": "2026-09-04T11:32:35+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:01:03.488317+03:00"
+   "eklenme": "2026-09-04T12:01:03.488317+03:00",
+   "saat_g": "11:32"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-044-4888960",
@@ -1503,7 +1648,8 @@
    "saat": "11:30",
    "tarih_iso": "2026-09-04T11:30:03+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:01:03.488317+03:00"
+   "eklenme": "2026-09-04T12:01:03.488317+03:00",
+   "saat_g": "11:30"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-volkswagen-stock-surging-today-93CH-4888917",
@@ -1513,7 +1659,8 @@
    "saat": "11:10",
    "tarih_iso": "2026-09-04T11:10:09+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+   "eklenme": "2026-09-04T11:30:56.169198+03:00",
+   "saat_g": "11:10"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gaztransport--technigaz-stock-rallying-today-93CH-4888916",
@@ -1523,7 +1670,8 @@
    "saat": "11:09",
    "tarih_iso": "2026-09-04T11:09:50+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+   "eklenme": "2026-09-04T11:30:56.169198+03:00",
+   "saat_g": "11:09"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-accor-stock-rallying-today-93CH-4888912",
@@ -1533,7 +1681,8 @@
    "saat": "10:54",
    "tarih_iso": "2026-09-04T10:54:14+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+   "eklenme": "2026-09-04T11:01:00.873264+03:00",
+   "saat_g": "10:54"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/exclusivechinese-banks-purchasing-treasuries-after-wooing-dollar-deposits-sources-say-4888904",
@@ -1543,7 +1692,8 @@
    "saat": "10:44",
    "tarih_iso": "2026-09-04T10:44:37+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+   "eklenme": "2026-09-04T11:01:00.873264+03:00",
+   "saat_g": "10:44"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-lower-as-traders-eye-us-jobs-data-4888877",
@@ -1553,7 +1703,8 @@
    "saat": "10:15",
    "tarih_iso": "2026-09-04T10:15:22+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+   "eklenme": "2026-09-04T11:01:00.873264+03:00",
+   "saat_g": "10:15"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/el-erian-government-bond-selloff.html",
@@ -1563,7 +1714,8 @@
    "saat": "10:13",
    "tarih_iso": "2026-09-04T10:13:33+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T10:31:03.950245+03:00"
+   "eklenme": "2026-09-04T10:31:03.950245+03:00",
+   "saat_g": "10:13"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-pause-after-bruising-week-as-feds-waller-tempers-rate-hike-fears-4888825",
@@ -1573,7 +1725,8 @@
    "saat": "10:10",
    "tarih_iso": "2026-09-04T10:10:39+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T10:31:03.950245+03:00"
+   "eklenme": "2026-09-04T10:31:03.950245+03:00",
+   "saat_g": "10:10"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-128-4888868",
@@ -1583,7 +1736,8 @@
    "saat": "10:00",
    "tarih_iso": "2026-09-04T10:00:04+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T10:31:03.950245+03:00"
+   "eklenme": "2026-09-04T10:31:03.950245+03:00",
+   "saat_g": "10:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
@@ -1593,7 +1747,8 @@
    "saat": "09:46",
    "tarih_iso": "2026-09-04T09:46:35+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+   "eklenme": "2026-09-04T10:01:02.635552+03:00",
+   "saat_g": "09:46"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/volkswagen-shares-jump-in-early-trade-following-turnaround-agreement-4888864",
@@ -1603,7 +1758,8 @@
    "saat": "09:43",
    "tarih_iso": "2026-09-04T09:43:30+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+   "eklenme": "2026-09-04T10:01:02.635552+03:00",
+   "saat_g": "09:43"
   }
  ],
  "altin_haber": [
@@ -1615,7 +1771,8 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-04T17:01:03.728012+03:00"
+   "eklenme": "2026-09-04T17:01:03.728012+03:00",
+   "saat_g": ""
   },
   {
    "id": "alt-https://tr.investing.com/news/stock-market-news/altn-madencileri-ve-bitcoin-hisseleri-guclu-istihdam-verisiyle-dustu-4055805",
@@ -1625,7 +1782,8 @@
    "saat": "16:11",
    "tarih_iso": "2026-09-04T16:11:19+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:30:55.219219+03:00"
+   "eklenme": "2026-09-04T16:30:55.219219+03:00",
+   "saat_g": "16:11"
   },
   {
    "id": "alt-https://www.investing.com/news/stock-market-news/gold-miners-and-bitcoin-stocks-fall-on-strong-jobs-data-4889640",
@@ -1635,7 +1793,8 @@
    "saat": "16:11",
    "tarih_iso": "2026-09-04T16:11:19+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:30:55.219219+03:00"
+   "eklenme": "2026-09-04T16:30:55.219219+03:00",
+   "saat_g": "16:11"
   },
   {
    "id": "alt-https://www.dunya.com/ekonomi/altin-neden-dustu-gram-altin-dusecek-mi-altin-yukselir-mi-haberi-838764",
@@ -1645,7 +1804,8 @@
    "saat": "16:10",
    "tarih_iso": "2026-09-04T16:10:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T16:30:55.219219+03:00"
+   "eklenme": "2026-09-04T16:30:55.219219+03:00",
+   "saat_g": "16:10"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-is-becoming-more-than-a-safehaven-asset-for-investors-200687120",
@@ -1655,7 +1815,8 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:01:03.488317+03:00"
+   "eklenme": "2026-09-04T12:01:03.488317+03:00",
+   "saat_g": ""
   },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/dev-fonlar-dususu-firsat-gordu-altindan-vazgecmedi-yeni-ralli-mi-geliyor-galeri-838727",
@@ -1665,7 +1826,8 @@
    "saat": "11:46",
    "tarih_iso": "2026-09-04T11:46:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T12:30:49.391297+03:00"
+   "eklenme": "2026-09-04T12:30:49.391297+03:00",
+   "saat_g": "11:46"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-amid-escalating-war-risks-implications-beyond-the-middle-east-200687101",
@@ -1675,7 +1837,8 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-04T11:01:00.873264+03:00"
+   "eklenme": "2026-09-04T11:01:00.873264+03:00",
+   "saat_g": ""
   },
   {
    "id": "alt-https://www.investing.com/news/stock-market-news/bofas-hartnett-says-stay-long-commodities-and-gold-as-policy-panic-works-4888913",
@@ -1685,7 +1848,8 @@
    "saat": "10:58",
    "tarih_iso": "2026-09-04T10:58:36+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+   "eklenme": "2026-09-04T11:30:56.169198+03:00",
+   "saat_g": "10:58"
   },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/bir-zamanlarin-kopek-meyvesi-yesil-altin-oldu-donum-basi-400-bin-tl-gelir-galeri-838716",
@@ -1695,7 +1859,8 @@
    "saat": "10:50",
    "tarih_iso": "2026-09-04T10:50:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+   "eklenme": "2026-09-04T11:30:56.169198+03:00",
+   "saat_g": "10:50"
   },
   {
    "id": "alt-https://www.dunya.com/ekonomi/iran-kasasindaki-doviz-ve-altin-miktarini-acikladi-haberi-838707",
@@ -1705,7 +1870,8 @@
    "saat": "10:04",
    "tarih_iso": "2026-09-04T10:04:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T10:31:03.950245+03:00"
+   "eklenme": "2026-09-04T10:31:03.950245+03:00",
+   "saat_g": "10:04"
   },
   {
    "id": "alt-https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097",
@@ -1715,7 +1881,8 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+   "eklenme": "2026-09-04T10:01:02.635552+03:00",
+   "saat_g": ""
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-rate-sensitivity-exposes-the-risk-of-a-hot-august-cpi-print-200687078",
@@ -1725,7 +1892,8 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": ""
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-bulls-regain-control-above-4310-200687045",
@@ -1735,7 +1903,8 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": ""
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-faces-key-test-as-iran-war-and-hormuz-crisis-keep-markets-on-edge-200687038",
@@ -1745,7 +1914,8 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": ""
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-rebounds-toward-4440-but-shortterm-confirmation-is-still-missing-200687035",
@@ -1755,7 +1925,8 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": ""
   },
   {
    "id": "alt-https://www.bbc.co.uk/news/videos/cx2z0jn7450o?at_medium=RSS&at_campaign=rss",
@@ -1765,7 +1936,8 @@
    "saat": "23:32",
    "tarih_iso": "2026-09-03T23:32:21+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": "dün 23:32"
   },
   {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/altin-yine-yukselise-gecti-3462499",
@@ -1775,7 +1947,8 @@
    "saat": "22:16",
    "tarih_iso": "2026-09-03T22:16:06+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": "dün 22:16"
   },
   {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlarinda-sert-yukselis-gram-altin-7-bin-tl-sinirina-dayandi-3462396",
@@ -1785,7 +1958,8 @@
    "saat": "19:33",
    "tarih_iso": "2026-09-03T19:33:53+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": "dün 19:33"
   },
   {
    "id": "alt-https://www.mining.com/us-mints-trump-gold-coin-available-with-no-gold-in-sight/",
@@ -1795,7 +1969,8 @@
    "saat": "18:17",
    "tarih_iso": "2026-09-03T18:17:50+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": "dün 18:17"
   },
   {
    "id": "alt-https://www.cnnturk.com/ekonomi/canli-altin-fiyatlari-3-eylul-2026-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlarinda-son-durum-ne-3462155",
@@ -1805,7 +1980,8 @@
    "saat": "18:00",
    "tarih_iso": "2026-09-03T18:00:13+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-04T09:01:01.122421+03:00"
+   "eklenme": "2026-09-04T09:01:01.122421+03:00",
+   "saat_g": "dün 18:00"
   }
  ],
  "guncelleme": "2026-09-04T18:01:03.449605+03:00"
