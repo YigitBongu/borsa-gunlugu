@@ -2,6 +2,19 @@
  "tarih": "2026-09-04",
  "kap": [
   {
+   "id": "kap-my-KMPUR-202609041820",
+   "baslik": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
+   "sirket": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "KMPUR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:20",
+   "tarih_iso": "2026-09-04T18:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-05T00:01:05.217237+03:00"
+  },
+  {
    "id": "kap-my-KONTR-202609041650",
    "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Merkezi Kayıt Kuruluşu A.Ş. Duyurusu",
    "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
@@ -108,6 +121,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahceye-uefa-soku-olayli-macin-ardindan-cezalar-aciklandi-haberi-838796",
+   "baslik": "Fenerbahçe’ye UEFA şoku! Olaylı maçın ardından cezalar açıklandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahceye-uefa-soku-olayli-macin-ardindan-cezalar-aciklandi-haberi-838796",
+   "saat": "20:18",
+   "tarih_iso": "2026-09-04T20:18:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-05T00:01:05.217237+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/haberler/kontrolmatikte-odeme-krizi-derinlesti-100-milyon-liralik-bono-da-odenemedi-haberi-838779",
    "baslik": "Kontrolmatik’te ödeme krizi derinleşti, 100 milyon liralık bono da ödenemedi",
    "kaynak": "Dünya",
@@ -193,6 +218,46 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/mckinseye-vergi-dolandrclg-sorusturmasnda-65-milyon-euro-el-koyma-93CH-4056080",
+   "baslik": "McKinsey’e vergi dolandırıcılığı soruşturmasında 65 milyon euro el koyma",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/mckinseye-vergi-dolandrclg-sorusturmasnda-65-milyon-euro-el-koyma-93CH-4056080",
+   "saat": "23:13",
+   "tarih_iso": "2026-09-04T23:13:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T00:01:05.217237+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/nscale-halka-arzdan-once-35-milyar-dolar-finansman-aryor-93CH-4056071",
+   "baslik": "Nscale halka arzdan önce 3,5 milyar dolar finansman arıyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/nscale-halka-arzdan-once-35-milyar-dolar-finansman-aryor-93CH-4056071",
+   "saat": "22:41",
+   "tarih_iso": "2026-09-04T22:41:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T00:01:05.217237+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/merkez-bankasi-toplanti-tarihi-eylul-2026-merkez-bankasi-faiz-toplantisi-ne-zaman-saat-kacta-toplanti-hangi-gun-3462944",
+   "baslik": "MERKEZ BANKASI TOPLANTI TARİHİ EYLÜL 2026: Merkez Bankası faiz toplantısı ne zaman, saat kaçta? Toplantı hangi gün?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/merkez-bankasi-toplanti-tarihi-eylul-2026-merkez-bankasi-faiz-toplantisi-ne-zaman-saat-kacta-toplanti-hangi-gun-3462944",
+   "saat": "22:27",
+   "tarih_iso": "2026-09-04T22:27:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T00:01:05.217237+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-beklenen-raporu-acikladi-enflasyonun-ana-egilimi-agustosta-sinirli-artti-haberi-838801",
+   "baslik": "TCMB beklenen raporu açıkladı: Enflasyonun ana eğilimi Ağustos'ta sınırlı arttı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-beklenen-raporu-acikladi-enflasyonun-ana-egilimi-agustosta-sinirli-artti-haberi-838801",
+   "saat": "21:19",
+   "tarih_iso": "2026-09-04T21:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T00:01:05.217237+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/turkiye-findik-ihracatindan-2-5-milyar-dolar-gelir-elde-etti-3462810",
    "baslik": "Türkiye fındık ihracatından 2,5 milyar dolar gelir elde etti",
@@ -405,6 +470,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-051-4890007",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.51%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-051-4890007",
+   "saat": "23:31",
+   "tarih_iso": "2026-09-04T23:31:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T00:01:05.217237+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-033-4890005",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.33%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-033-4890005",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-04T23:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T00:01:05.217237+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-002-4890004",
+   "baslik": "Brazil stocks lower at close of trade; Bovespa down 0.02%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-002-4890004",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-04T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T00:01:05.217237+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories",
    "baslik": "Tesla’s stock falls as Cybercab launch lands with a thud",
@@ -1574,36 +1669,6 @@
    "tarih_iso": "2026-09-04T17:00:59+03:00",
    "kodlar": [],
    "eklenme": "2026-09-04T17:28:32.050517+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/south-korea-launch-tokenized-securities-135600389.html",
-   "baslik": "South Korea To Launch Tokenized Securities Market In Early 2027",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/south-korea-launch-tokenized-securities-135600389.html",
-   "saat": "16:56",
-   "tarih_iso": "2026-09-04T16:56:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/insider-dumps-1-1-million-135502442.html",
-   "baslik": "Insider Dumps $1.1 Million Worth of Stock, After Stock Plunges 72%",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/insider-dumps-1-1-million-135502442.html",
-   "saat": "16:55",
-   "tarih_iso": "2026-09-04T16:55:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-seagate-technology-stock-rallying-today-93CH-4889695",
-   "baslik": "Why is Seagate Technology stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-seagate-technology-stock-rallying-today-93CH-4889695",
-   "saat": "16:53",
-   "tarih_iso": "2026-09-04T16:53:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-04T17:01:03.728012+03:00"
   }
  ],
  "altin_haber": [
@@ -1878,5 +1943,5 @@
    "eklenme": "2026-09-04T09:01:01.122421+03:00"
   }
  ],
- "guncelleme": "2026-09-04T23:30:45.914071+03:00"
+ "guncelleme": "2026-09-05T00:01:05.217237+03:00"
 }
