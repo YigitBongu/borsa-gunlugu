@@ -121,6 +121,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/konyada-2026-2027-okul-servis-ucretleri-belli-oldu-yuzde-25-zam-haberi-838808",
+   "baslik": "Konya’da 2026-2027 okul servis ücretleri belli oldu: Yüzde 25 zam",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/konyada-2026-2027-okul-servis-ucretleri-belli-oldu-yuzde-25-zam-haberi-838808",
+   "saat": "23:56",
+   "tarih_iso": "2026-09-04T23:56:00+03:00",
+   "kodlar": [
+    "KONYA"
+   ],
+   "eklenme": "2026-09-05T00:30:49.636130+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahceye-uefa-soku-olayli-macin-ardindan-cezalar-aciklandi-haberi-838796",
    "baslik": "Fenerbahçe’ye UEFA şoku! Olaylı maçın ardından cezalar açıklandı",
    "kaynak": "Dünya",
@@ -470,6 +482,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mizuho-names-top-software-largecap-stock-93CH-4890042",
+   "baslik": "Mizuho Names Top Software Largecap Stock",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mizuho-names-top-software-largecap-stock-93CH-4890042",
+   "saat": "00:15",
+   "tarih_iso": "2026-09-05T00:15:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T00:30:49.636130+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-051-4890007",
    "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.51%",
@@ -1659,16 +1681,6 @@
    "tarih_iso": "2026-09-04T17:02:42+03:00",
    "kodlar": [],
    "eklenme": "2026-09-04T17:28:32.050517+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/1-high-yield-asset-never-140059575.html",
-   "baslik": "The 1 High-Yield Asset You Should Never Put Into a Roth (and 3 You Should)",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/1-high-yield-asset-never-140059575.html",
-   "saat": "17:00",
-   "tarih_iso": "2026-09-04T17:00:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
   }
  ],
  "altin_haber": [
@@ -1943,5 +1955,5 @@
    "eklenme": "2026-09-04T09:01:01.122421+03:00"
   }
  ],
- "guncelleme": "2026-09-05T00:01:05.217237+03:00"
+ "guncelleme": "2026-09-05T00:30:49.636130+03:00"
 }
