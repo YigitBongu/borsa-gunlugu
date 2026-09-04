@@ -2,6 +2,19 @@
  "tarih": "2026-09-04",
  "kap": [
   {
+   "id": "kap-my-QUAGR-202609040921",
+   "baslik": "QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
+   "kodlar": [
+    "QUAGR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:21",
+   "tarih_iso": "2026-09-04T09:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+  },
+  {
    "id": "kap-my-SDTTR-202609040736",
    "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
@@ -17,6 +30,26 @@
  ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-eylul-ayi-abd-merkez-bankasi-fed-toplanti-tarihi-ve-faiz-karari-saat-kacta-3461667",
+   "baslik": "FED FAİZ KARARI NE ZAMAN AÇIKLANACAK? Eylül ayı ABD Merkez Bankası (FED) toplantı tarihi ve faiz kararı saat kaçta?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-eylul-ayi-abd-merkez-bankasi-fed-toplanti-tarihi-ve-faiz-karari-saat-kacta-3461667",
+   "saat": "12:25",
+   "tarih_iso": "2026-09-04T12:25:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
+   "baslik": "TCMB, uzaktan kimlik doğrulamada \"biyometrik\" seçeneğini getirdi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-uzaktan-kimlik-dogrulamada-biyometrik-secenegini-getirdi/4046999",
+   "saat": "09:48",
+   "tarih_iso": "2026-09-04T09:48:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/bbvadan-enflasyon-sonrasi-kritik-tahmin-faiz-indirimi-beklentisi-one-cekildi-haberi-838698",
    "baslik": "BBVA'dan enflasyon sonrası kritik tahmin: Faiz indirimi beklentisi öne çekildi",
@@ -59,6 +92,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
+   "baslik": "World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html",
+   "saat": "09:46",
+   "tarih_iso": "2026-09-04T09:46:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/volkswagen-shares-jump-in-early-trade-following-turnaround-agreement-4888864",
+   "baslik": "Volkswagen shares jump in early trade following turnaround agreement",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/volkswagen-shares-jump-in-early-trade-following-turnaround-agreement-4888864",
+   "saat": "09:43",
+   "tarih_iso": "2026-09-04T09:43:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/only-democratic-government-can-provide-stability-for-oil-investors-venezuelan-opposition-leader-says-4888305",
+   "baslik": "Oil investors need democratic Venezuela for stability, opposition leader says",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/only-democratic-government-can-provide-stability-for-oil-investors-venezuelan-opposition-leader-says-4888305",
+   "saat": "09:42",
+   "tarih_iso": "2026-09-04T09:42:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sectra-q1-sales-rise-258-as-cloud-revenue-crosses-sek-1-bln-93CH-4888863",
+   "baslik": "Sectra Q1 sales rise 25.8% as cloud revenue crosses SEK 1 bln",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sectra-q1-sales-rise-258-as-cloud-revenue-crosses-sek-1-bln-93CH-4888863",
+   "saat": "09:40",
+   "tarih_iso": "2026-09-04T09:40:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-rise-as-reduced-fed-hike-bets-lift-tech-us-jobs-data-awaited-4888803",
+   "baslik": "Asia stocks rise as reduced Fed hike bets lift tech; U.S. jobs data awaited",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-as-reduced-fed-hike-bets-lift-tech-us-jobs-data-awaited-4888803",
+   "saat": "09:37",
+   "tarih_iso": "2026-09-04T09:37:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-016-4888857",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.16%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-016-4888857",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-04T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
    "baslik": "U.S. 'Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
@@ -322,6 +415,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097",
+   "baslik": "Gold’s Recovery Targets the $4,590–$4,641 Decision Zone",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-recovery-targets-the-45904641-decision-zone-200687097",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-04T10:01:02.635552+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-rate-sensitivity-exposes-the-risk-of-a-hot-august-cpi-print-200687078",
    "baslik": "Gold Rate Sensitivity Exposes the Risk of a Hot August CPI Print",
    "kaynak": "Investing Emtia",
@@ -412,5 +515,5 @@
    "eklenme": "2026-09-04T09:01:01.122421+03:00"
   }
  ],
- "guncelleme": "2026-09-04T09:30:50.104723+03:00"
+ "guncelleme": "2026-09-04T10:01:02.635552+03:00"
 }
