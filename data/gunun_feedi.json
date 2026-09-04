@@ -389,6 +389,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/nvidia-thinking-machines-laba-25-milyar-dolar-yatrm-yapabilir-4054854",
+   "baslik": "Nvidia, Thinking Machines Lab’a 2,5 milyar dolar yatırım yapabilir",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/nvidia-thinking-machines-laba-25-milyar-dolar-yatrm-yapabilir-4054854",
+   "saat": "05:12",
+   "tarih_iso": "2026-09-04T05:12:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T06:01:04.866316+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/sp-getty-imagesn-notunu-faiz-odemesini-kacrmas-nedeniyle-dusurdu-93CH-4054762",
    "baslik": "S&P, Getty Images’ın notunu faiz ödemesini kaçırması nedeniyle düşürdü",
    "kaynak": "Investing TR",
@@ -620,6 +630,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chinese-ai-stocks-rise-after-openai-launches-astra-minimax-jumps-6-4888776",
+   "baslik": "Chinese AI stocks rise after OpenAI launches Astra, MiniMax jumps 6%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chinese-ai-stocks-rise-after-openai-launches-astra-minimax-jumps-6-4888776",
+   "saat": "05:24",
+   "tarih_iso": "2026-09-04T05:24:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T06:01:04.866316+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/milei-vows-tougher-sanctions-defense-push-over-falklands-oil-drilling-4888756",
    "baslik": "Milei vows tougher sanctions, defense push over Falklands oil drilling",
@@ -1809,16 +1829,6 @@
    "tarih_iso": "2026-09-03T18:16:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-03T18:30:49.146660+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/planet-labs-sinks-8-despite-150706793.html",
-   "baslik": "Planet Labs Sinks 8% Despite New Defense Contract, Intuitive Machines Pulls Back, AST SpaceMobile Sits Out Broad-Market Rally",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-sinks-8-despite-150706793.html",
-   "saat": "18:07",
-   "tarih_iso": "2026-09-03T18:07:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T18:30:49.146660+03:00"
   }
  ],
  "altin_haber": [
@@ -2143,5 +2153,5 @@
    "eklenme": "2026-09-03T09:01:00.458377+03:00"
   }
  ],
- "guncelleme": "2026-09-04T05:30:49.454785+03:00"
+ "guncelleme": "2026-09-04T06:01:04.866316+03:00"
 }
