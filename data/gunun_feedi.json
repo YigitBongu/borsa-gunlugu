@@ -389,6 +389,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-hisseleri-fed-faiz-artrm-beklentilerinde-dususle-yukseldi-4054887",
+   "baslik": "Asya hisseleri Fed faiz artırım beklentilerinde düşüşle yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-hisseleri-fed-faiz-artrm-beklentilerinde-dususle-yukseldi-4054887",
+   "saat": "06:28",
+   "tarih_iso": "2026-09-04T06:28:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T07:00:57.990216+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/nvidia-thinking-machines-laba-25-milyar-dolar-yatrm-yapabilir-4054854",
    "baslik": "Nvidia, Thinking Machines Lab’a 2,5 milyar dolar yatırım yapabilir",
    "kaynak": "Investing TR",
@@ -631,6 +641,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-rise-as-reduced-fed-hike-bets-lift-tech-us-jobs-data-awaited-4888803",
+   "baslik": "Asia stocks rise as reduced Fed hike bets lift tech; U.S. jobs data awaited",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-as-reduced-fed-hike-bets-lift-tech-us-jobs-data-awaited-4888803",
+   "saat": "06:28",
+   "tarih_iso": "2026-09-04T06:28:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T07:00:57.990216+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/singapore-stocks-surge-to-record-high-on-banks-real-estate-gains-4888796",
+   "baslik": "Singapore stocks surge to record high on banks, real estate gains",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/singapore-stocks-surge-to-record-high-on-banks-real-estate-gains-4888796",
+   "saat": "06:06",
+   "tarih_iso": "2026-09-04T06:06:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T07:00:57.990216+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/26b050eb-2b32-4d89-b847-4464ada5ff03?syn-25a6b1a6=1",
+   "baslik": "Australian property developer collapse ripples into private credit markets",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/26b050eb-2b32-4d89-b847-4464ada5ff03?syn-25a6b1a6=1",
+   "saat": "06:02",
+   "tarih_iso": "2026-09-04T06:02:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T07:00:57.990216+03:00"
+  },
+  {
    "id": "yab-https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
    "baslik": "Argentine leader says oil firms working off Falklands face sanctions",
    "kaynak": "BBC Business",
@@ -639,6 +679,16 @@
    "tarih_iso": "2026-09-04T05:53:07+03:00",
    "kodlar": [],
    "eklenme": "2026-09-04T06:30:52.822647+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+   "baslik": "European Union joins U.S.-led 'Operation Economic Outcast' as Iran cries foul",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+   "saat": "05:45",
+   "tarih_iso": "2026-09-04T05:45:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T07:00:57.990216+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/chinese-ai-stocks-rise-after-openai-launches-astra-minimax-jumps-6-4888776",
@@ -1789,46 +1839,6 @@
    "tarih_iso": "2026-09-03T18:31:36+03:00",
    "kodlar": [],
    "eklenme": "2026-09-03T19:01:05.573010+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-084-4888276",
-   "baslik": "Turkey stocks lower at close of trade; BIST 100 down 0.84%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/turkey-stocks-lower-at-close-of-trade-bist-100-down-084-4888276",
-   "saat": "18:30",
-   "tarih_iso": "2026-09-03T18:30:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T19:01:05.573010+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/us-debt-ai-borrowing-bessent-bond-market-stocks-dollar/?src=A00220&yptr=yahoo",
-   "baslik": "U.S. Debt, AI Boom Triggers Historic Borrowing Binge, Pushing Up Rates. What To Know.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/us-debt-ai-borrowing-bessent-bond-market-stocks-dollar/?src=A00220&yptr=yahoo",
-   "saat": "18:29",
-   "tarih_iso": "2026-09-03T18:29:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T19:01:05.573010+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/why-diamond-hill-stayed-focused-152858564.html",
-   "baslik": "Diamond Hill Stayed Focused on Magnolia Oil & Gas (MGY) After the Geopolitical Selloff",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/why-diamond-hill-stayed-focused-152858564.html",
-   "saat": "18:28",
-   "tarih_iso": "2026-09-03T18:28:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T19:01:05.573010+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
-   "baslik": "Snowflake has a secret weapon that’s powering its stock toward a huge gain",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories",
-   "saat": "18:20",
-   "tarih_iso": "2026-09-03T18:20:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-03T19:01:05.573010+03:00"
   }
  ],
  "altin_haber": [
@@ -2153,5 +2163,5 @@
    "eklenme": "2026-09-03T09:01:00.458377+03:00"
   }
  ],
- "guncelleme": "2026-09-04T06:30:52.822647+03:00"
+ "guncelleme": "2026-09-04T07:00:57.990216+03:00"
 }
