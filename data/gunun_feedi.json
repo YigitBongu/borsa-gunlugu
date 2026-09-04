@@ -1,8 +1,32 @@
 {
  "tarih": "2026-09-04",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-SDTTR-202609040736",
+   "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "07:36",
+   "tarih_iso": "2026-09-04T07:36:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-04T09:30:50.104723+03:00"
+  }
+ ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/bbvadan-enflasyon-sonrasi-kritik-tahmin-faiz-indirimi-beklentisi-one-cekildi-haberi-838698",
+   "baslik": "BBVA'dan enflasyon sonrası kritik tahmin: Faiz indirimi beklentisi öne çekildi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bbvadan-enflasyon-sonrasi-kritik-tahmin-faiz-indirimi-beklentisi-one-cekildi-haberi-838698",
+   "saat": "09:01",
+   "tarih_iso": "2026-09-04T09:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T09:30:50.104723+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/tuik-agustos-ayi-enflasyon-orani-2026-agustos-enflasyon-orani-ne-zaman-aciklanacak-agustos-enflasyon-beklentisi-ne-kira-artis-orani-3462009",
    "baslik": "TÜİK AĞUSTOS AYI ENFLASYON ORANI 2026: Ağustos Enflasyon Oranı Ne Kadar Oldu? İşte 2026 Ağustos Enflasyonu ile Eylül Ayı Kira Artış Oranı ve Zam Hesapları!",
@@ -35,6 +59,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+   "baslik": "U.S. 'Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+   "saat": "09:17",
+   "tarih_iso": "2026-09-04T09:17:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T09:30:50.104723+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-longfor-properties-stock-surging-today-93CH-4888838",
+   "baslik": "Why is Longfor Properties stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-longfor-properties-stock-surging-today-93CH-4888838",
+   "saat": "09:02",
+   "tarih_iso": "2026-09-04T09:02:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T09:30:50.104723+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-161-4888834",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.61%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-161-4888834",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-04T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T09:30:50.104723+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/04/india-gdp-controversy-imf-modi.html",
    "baslik": "India’s June quarter GDP print is courting controversy. Here’s why",
@@ -358,5 +412,5 @@
    "eklenme": "2026-09-04T09:01:01.122421+03:00"
   }
  ],
- "guncelleme": "2026-09-04T09:01:01.122421+03:00"
+ "guncelleme": "2026-09-04T09:30:50.104723+03:00"
 }
