@@ -2,6 +2,19 @@
  "tarih": "2026-09-04",
  "kap": [
   {
+   "id": "kap-my-QUAGR-202609041047",
+   "baslik": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş.",
+   "kodlar": [
+    "QUAGR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:47",
+   "tarih_iso": "2026-09-04T10:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+  },
+  {
    "id": "kap-my-HALKB-202609041010",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -91,6 +104,16 @@
    "eklenme": "2026-09-04T10:01:02.635552+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/ekonomi/dev-bankalardan-tcmb-icin-yeni-faiz-tahmini-indirim-icin-tarih-one-cekildi-haberi-838718",
+   "baslik": "Dev bankalardan TCMB için yeni faiz tahmini: İndirim için tarih öne çekildi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/dev-bankalardan-tcmb-icin-yeni-faiz-tahmini-indirim-icin-tarih-one-cekildi-haberi-838718",
+   "saat": "10:56",
+   "tarih_iso": "2026-09-04T10:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-fedin-wallerndan-gelen-sinyalle-duraksad-4054969",
    "baslik": "Fed’in güvercin sinyalleriyle Avrupa borsaları sert düşüşün ardından nefes aldı",
    "kaynak": "Investing TR",
@@ -162,6 +185,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-volkswagen-stock-surging-today-93CH-4888917",
+   "baslik": "Why is Volkswagen stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-volkswagen-stock-surging-today-93CH-4888917",
+   "saat": "11:10",
+   "tarih_iso": "2026-09-04T11:10:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gaztransport--technigaz-stock-rallying-today-93CH-4888916",
+   "baslik": "Why is Gaztransport & Technigaz stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-gaztransport--technigaz-stock-rallying-today-93CH-4888916",
+   "saat": "11:09",
+   "tarih_iso": "2026-09-04T11:09:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-accor-stock-rallying-today-93CH-4888912",
    "baslik": "Why is Accor stock rallying today?",
@@ -565,6 +608,26 @@
    "eklenme": "2026-09-04T11:01:00.873264+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/news/stock-market-news/bofas-hartnett-says-stay-long-commodities-and-gold-as-policy-panic-works-4888913",
+   "baslik": "BofA’s Hartnett says stay long commodities and gold as ’policy panic’ works",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bofas-hartnett-says-stay-long-commodities-and-gold-as-policy-panic-works-4888913",
+   "saat": "10:58",
+   "tarih_iso": "2026-09-04T10:58:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/bir-zamanlarin-kopek-meyvesi-yesil-altin-oldu-donum-basi-400-bin-tl-gelir-galeri-838716",
+   "baslik": "Bir zamanların 'köpek meyvesi' yeşil altın oldu: Dönüm başı 400 bin TL gelir",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/bir-zamanlarin-kopek-meyvesi-yesil-altin-oldu-donum-basi-400-bin-tl-gelir-galeri-838716",
+   "saat": "10:50",
+   "tarih_iso": "2026-09-04T10:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-04T11:30:56.169198+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/ekonomi/iran-kasasindaki-doviz-ve-altin-miktarini-acikladi-haberi-838707",
    "baslik": "İran kasasındaki döviz ve altın miktarını açıkladı",
    "kaynak": "Dünya",
@@ -675,5 +738,5 @@
    "eklenme": "2026-09-04T09:01:01.122421+03:00"
   }
  ],
- "guncelleme": "2026-09-04T11:01:00.873264+03:00"
+ "guncelleme": "2026-09-04T11:30:56.169198+03:00"
 }
