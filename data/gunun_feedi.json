@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/marco-asensio-oynayacak-mi-kadroda-var-mi-asensio-besiktas-macinda-ilk-11de-mi-haberi-838855",
+   "baslik": "Marco Asensio oynayacak mı, kadroda var mı? Asensio Beşiktaş maçında ilk 11'de mi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/marco-asensio-oynayacak-mi-kadroda-var-mi-asensio-besiktas-macinda-ilk-11de-mi-haberi-838855",
+   "saat": "12:18",
+   "tarih_iso": "2026-09-05T12:18:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-05T12:30:46.919487+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-besiktas-mac-saati-fb-bjk-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-ilk-11-haberi-838839",
    "baslik": "Fenerbahçe Beşiktaş maç saati... FB - BJK maçı ne zaman, saat kaçta, hangi kanalda? Muhtemel ilk 11...",
    "kaynak": "Dünya",
@@ -16,6 +28,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-ne-zaman-aciklaniyor-faizler-dusecek-mi-haberi-838852",
+   "baslik": "Merkez Bankası faiz kararı ne zaman açıklanıyor? Faizler düşecek mi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-ne-zaman-aciklaniyor-faizler-dusecek-mi-haberi-838852",
+   "saat": "11:59",
+   "tarih_iso": "2026-09-05T11:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T12:30:46.919487+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/kuresel-piyasalarin-gozu-abd-enflasyonu-ve-ecbnin-faiz-kararinda-haberi-838850",
    "baslik": "Küresel piyasaların gözü ABD enflasyonu ve ECB’nin faiz kararında",
@@ -281,6 +303,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/gundem/askerligi-birakti-derelerde-altin-ariyor-gunde-3-4-gramin-altina-dusmuyoruz-galeri-838854",
+   "baslik": "Askerliği bıraktı, derelerde altın arıyor: 'Günde 3-4 gramın altına düşmüyoruz'",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/gundem/askerligi-birakti-derelerde-altin-ariyor-gunde-3-4-gramin-altina-dusmuyoruz-galeri-838854",
+   "saat": "12:01",
+   "tarih_iso": "2026-09-05T12:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T12:30:46.919487+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-fed-coin-flip-was-over-in-a-day-200687172",
    "baslik": "Gold’s Fed Coin Flip Was Over in a Day",
    "kaynak": "Investing Emtia",
@@ -391,5 +423,5 @@
    "eklenme": "2026-09-05T09:00:58.068820+03:00"
   }
  ],
- "guncelleme": "2026-09-05T12:00:58.027271+03:00"
+ "guncelleme": "2026-09-05T12:30:46.919487+03:00"
 }
