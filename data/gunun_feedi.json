@@ -3,6 +3,42 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/dev-derbide-gulen-taraf-besiktas-oldu-haberi-838893",
+   "baslik": "Dev derbide gülen taraf Beşiktaş oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/dev-derbide-gulen-taraf-besiktas-oldu-haberi-838893",
+   "saat": "21:57",
+   "tarih_iso": "2026-09-05T21:57:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-06T00:01:02.154400+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/gundem/derbi-oncesi-yasa-disi-bahis-operasyonu-1200-banka-hesabina-el-konuldu-haberi-838890",
+   "baslik": "Derbi öncesi yasa dışı bahis operasyonu: 1200 banka hesabına el konuldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/derbi-oncesi-yasa-disi-bahis-operasyonu-1200-banka-hesabina-el-konuldu-haberi-838890",
+   "saat": "20:32",
+   "tarih_iso": "2026-09-05T20:32:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-06T00:01:02.154400+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-besiktas-macinin-ilk-11leri-belli-oldu-haberi-838884",
+   "baslik": "Fenerbahçe - Beşiktaş maçının ilk 11’leri belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-besiktas-macinin-ilk-11leri-belli-oldu-haberi-838884",
+   "saat": "19:03",
+   "tarih_iso": "2026-09-05T19:03:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-06T00:01:02.154400+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/erdogan-4-kulubun-baskanlarini-ve-yoneticilerini-kabul-etti-haberi-838876",
    "baslik": "Erdoğan, 4 kulübün başkanlarını ve yöneticilerini kabul etti",
    "kaynak": "Dünya",
@@ -132,6 +168,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-nuclear-stocks-buy-2-204301311.html",
+   "baslik": "3 Nuclear Stocks to Buy With $2,000 After One Fell 83%",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-nuclear-stocks-buy-2-204301311.html",
+   "saat": "23:43",
+   "tarih_iso": "2026-09-05T23:43:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-06T00:01:02.154400+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/technology/ai/articles/epam-systems-epam-turns-cybersecurity-201006224.html",
    "baslik": "EPAM Systems (EPAM) Turns To Cybersecurity As Core Growth Cools",
@@ -1385,5 +1431,5 @@
    "eklenme": "2026-09-05T09:00:58.068820+03:00"
   }
  ],
- "guncelleme": "2026-09-05T23:30:47.240291+03:00"
+ "guncelleme": "2026-09-06T00:01:02.154400+03:00"
 }
