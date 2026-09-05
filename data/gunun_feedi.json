@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/erdogan-4-kulubun-baskanlarini-ve-yoneticilerini-kabul-etti-haberi-838876",
+   "baslik": "Erdoğan, 4 kulübün başkanlarını ve yöneticilerini kabul etti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/erdogan-4-kulubun-baskanlarini-ve-yoneticilerini-kabul-etti-haberi-838876",
+   "saat": "17:00",
+   "tarih_iso": "2026-09-05T17:00:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-05T17:30:46.138368+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/marco-asensio-oynayacak-mi-kadroda-var-mi-asensio-besiktas-macinda-ilk-11de-mi-haberi-838855",
    "baslik": "Marco Asensio oynayacak mı, kadroda var mı? Asensio Beşiktaş maçında ilk 11'de mi?",
    "kaynak": "Dünya",
@@ -120,6 +132,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-bold-carvana-140700577.html",
+   "baslik": "Morgan Stanley delivers bold Carvana stock verdict",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-bold-carvana-140700577.html",
+   "saat": "17:07",
+   "tarih_iso": "2026-09-05T17:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T17:30:46.138368+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-incredible-high-growth-stocks-140400844.html",
+   "baslik": "3 Incredible High-Growth Stocks to Buy With $10,000 Right Now",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-incredible-high-growth-stocks-140400844.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-09-05T17:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T17:30:46.138368+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/fed-meets-two-weeks-heres-134201749.html",
+   "baslik": "The Fed Meets in Two Weeks. Here's the ETF I'd Buy Today Regardless of What It Does.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fed-meets-two-weeks-heres-134201749.html",
+   "saat": "16:42",
+   "tarih_iso": "2026-09-05T16:42:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T17:30:46.138368+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/vanguards-s-p-500-index-fund-changed-how-we-invest-but-there-may-be-a-smarter-way-to-get-into-the-market-a54a612c?mod=mw_rss_topstories",
    "baslik": "Vanguard’s S&P 500 index fund changed how we invest — but there may be a smarter way to get a piece of the market",
@@ -279,6 +321,26 @@
    "tarih_iso": "2026-09-05T14:21:45+03:00",
    "kodlar": [],
    "eklenme": "2026-09-05T16:30:48.208976+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/trump-boasts-iran-blockade-unbelievable-111500672.html",
+   "baslik": "Trump boasts Iran blockade is ‘unbelievable’ as oil tops $90 and US reserves near danger. Inflation-proof your nest egg",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/trump-boasts-iran-blockade-unbelievable-111500672.html",
+   "saat": "14:15",
+   "tarih_iso": "2026-09-05T14:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T17:30:46.138368+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hafnia-hafn-payouts-surge-q2-111110885.html",
+   "baslik": "Hafnia (HAFN) Payouts Surge as Q2 Profit Hits Multi-Year High",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hafnia-hafn-payouts-surge-q2-111110885.html",
+   "saat": "14:11",
+   "tarih_iso": "2026-09-05T14:11:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T17:30:46.138368+03:00"
   },
   {
    "id": "yab-https://www.ft.com/content/6e096712-5abe-48c5-8e4d-c0042f947639?syn-25a6b1a6=1",
@@ -683,5 +745,5 @@
    "eklenme": "2026-09-05T09:00:58.068820+03:00"
   }
  ],
- "guncelleme": "2026-09-05T17:01:00.593877+03:00"
+ "guncelleme": "2026-09-05T17:30:46.138368+03:00"
 }
