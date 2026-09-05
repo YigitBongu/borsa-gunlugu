@@ -1,7 +1,20 @@
 {
  "tarih": "2026-09-05",
  "kap": [],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-besiktas-mac-saati-fb-bjk-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-ilk-11-haberi-838839",
+   "baslik": "Fenerbahçe Beşiktaş maç saati... FB - BJK maçı ne zaman, saat kaçta, hangi kanalda? Muhtemel ilk 11...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-besiktas-mac-saati-fb-bjk-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-ilk-11-haberi-838839",
+   "saat": "10:09",
+   "tarih_iso": "2026-09-05T10:09:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-05T10:30:50.356880+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-5-eylul-cumartesi-doviz-kurlari-haberi-838817",
@@ -338,5 +351,5 @@
    "eklenme": "2026-09-05T09:00:58.068820+03:00"
   }
  ],
- "guncelleme": "2026-09-05T10:00:53.246227+03:00"
+ "guncelleme": "2026-09-05T10:30:50.356880+03:00"
 }
