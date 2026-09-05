@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/aziz-yildirimdan-derbi-sonrasi-sert-hakem-tepkisi-takimi-ince-ince-dogradilar-haberi-838900",
+   "baslik": "Aziz Yıldırım'dan derbi sonrası sert hakem tepkisi: Takımı ince ince doğradılar",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/aziz-yildirimdan-derbi-sonrasi-sert-hakem-tepkisi-takimi-ince-ince-dogradilar-haberi-838900",
+   "saat": "00:32",
+   "tarih_iso": "2026-09-06T00:32:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-06T01:00:57.550943+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/dev-derbide-gulen-taraf-besiktas-oldu-haberi-838893",
    "baslik": "Dev derbide gülen taraf Beşiktaş oldu",
    "kaynak": "Dünya",
@@ -168,6 +180,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/cathie-wood-buys-surging-crypto-214328317.html",
+   "baslik": "Cathie Wood buys surging crypto stock despite latest controversy",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/cathie-wood-buys-surging-crypto-214328317.html",
+   "saat": "00:43",
+   "tarih_iso": "2026-09-06T00:43:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-06T01:00:57.550943+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-88-heres-212617123.html",
+   "baslik": "Coca-Cola Stock at $88: Here's Why Investors Should Pause",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-88-heres-212617123.html",
+   "saat": "00:26",
+   "tarih_iso": "2026-09-06T00:26:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-06T01:00:57.550943+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4890240",
+   "baslik": "Russia stocks lower at close of trade; MOEX Russia Index unchanged",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-unchanged-4890240",
+   "saat": "00:20",
+   "tarih_iso": "2026-09-06T00:20:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-06T01:00:57.550943+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/healthcare/articles/insurers-already-told-wall-street-211215190.html",
    "baslik": "Insurers Have Already Told Wall Street Which Advantage Plans Die on December 31. Members Are the Last to Know, and the Letter Isn’t Due Until October 2.",
@@ -1451,5 +1493,5 @@
    "eklenme": "2026-09-05T09:00:58.068820+03:00"
   }
  ],
- "guncelleme": "2026-09-06T00:30:52.709777+03:00"
+ "guncelleme": "2026-09-06T01:00:57.550943+03:00"
 }
