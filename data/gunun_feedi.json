@@ -483,6 +483,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.ft.com/content/d3f7a1a1-7fc1-4349-a202-a6fee6ef4a5b?syn-25a6b1a6=1",
+   "baslik": "The gloves are starting to come off in markets",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/d3f7a1a1-7fc1-4349-a202-a6fee6ef4a5b?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-05T07:00:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T07:30:45.355617+03:00"
+  },
+  {
    "id": "yab-https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
    "baslik": "How much can Canada fight back in its trade war with the US?",
    "kaynak": "BBC Business",
@@ -1671,19 +1681,19 @@
    "tarih_iso": "2026-09-04T17:08:33+03:00",
    "kodlar": [],
    "eklenme": "2026-09-04T17:31:28.767028+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
-   "baslik": "Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html",
-   "saat": "17:07",
-   "tarih_iso": "2026-09-04T17:07:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-04T17:28:32.050517+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altinda-hesaplar-degisti-yeni-haftada-yonu-ne-belirleyecek-galeri-838816",
+   "baslik": "Altında hesaplar değişti: Yeni haftada yönü ne belirleyecek?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altinda-hesaplar-degisti-yeni-haftada-yonu-ne-belirleyecek-galeri-838816",
+   "saat": "07:04",
+   "tarih_iso": "2026-09-05T07:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-05T07:30:45.355617+03:00"
+  },
   {
    "id": "alt-https://www.mining.com/value-of-top-50-mining-companies-surge-by-357-billion-after-monster-august-rally/",
    "baslik": "Value of top 50 mining companies surge by $357 billion after monster August rally",
@@ -1985,5 +1995,5 @@
    "eklenme": "2026-09-04T09:01:01.122421+03:00"
   }
  ],
- "guncelleme": "2026-09-05T07:00:58.584437+03:00"
+ "guncelleme": "2026-09-05T07:30:45.355617+03:00"
 }
