@@ -2,6 +2,32 @@
  "tarih": "2026-09-07",
  "kap": [
   {
+   "id": "kap-my-VESTL-202609071000",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "VESTL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-07T10:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-07T10:30:50.336311+03:00"
+  },
+  {
+   "id": "kap-my-HALKB-202609071000",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "HALKB"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-07T10:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-07T10:30:50.336311+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609070911",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -56,6 +82,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/galatasaray-sampiyonlar-ligi-maci-ne-zaman-sporting-lizbon-gs-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-839003",
+   "baslik": "Galatasaray Şampiyonlar Ligi maçı ne zaman? Sporting Lizbon - GS maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/galatasaray-sampiyonlar-ligi-maci-ne-zaman-sporting-lizbon-gs-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-839003",
+   "saat": "10:10",
+   "tarih_iso": "2026-09-07T10:10:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-07T10:30:50.336311+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/eylul-emekli-promosyon-tutari-2026-emeklilere-ne-kadar-promosyon-odeniyor-garanti-akbank-ziraat-bankasi-emekli-promosyon-odeme-3463673",
    "baslik": "EYLÜL EMEKLİ PROMOSYON TUTARI 2026: Emeklilere ne kadar promosyon ödeniyor? Garanti, Akbank, Ziraat Bankası emekli promosyon ödeme tutarları Eylül 2026",
    "kaynak": "CNN Türk Ekonomi",
@@ -69,6 +107,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-tahrann-hurmuz-plan-ve-ecb-artrmyla-geriledi-4056528",
+   "baslik": "Tahran’ın Hürmüz planı ve yaklaşan ECB faiz artışı Avrupa hisselerini baskıladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-tahrann-hurmuz-plan-ve-ecb-artrmyla-geriledi-4056528",
+   "saat": "10:06",
+   "tarih_iso": "2026-09-07T10:06:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:30:50.336311+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/kuresel-tahvil-satisinda-rota-gelisen-ulkelere-dondu-turkiye-faiz-indirimiyle-one-cikti-haberi-839000",
+   "baslik": "Küresel tahvil satışında rota gelişen ülkelere döndü: Türkiye faiz indirimiyle öne çıktı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/kuresel-tahvil-satisinda-rota-gelisen-ulkelere-dondu-turkiye-faiz-indirimiyle-one-cikti-haberi-839000",
+   "saat": "09:56",
+   "tarih_iso": "2026-09-07T09:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:30:50.336311+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/morgan-stanleyden-tcmb-tahmini-yil-bitmeden-iki-adim-bekleniyor-haberi-838999",
    "baslik": "Morgan Stanley'den TCMB tahmini: Yıl bitmeden iki adım bekleniyor",
@@ -151,6 +209,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-sag-on-tehrans-hormuz-zone-plan-and-imminent-ecb-hike-4890469",
+   "baslik": "European shares sag on Tehran’s Hormuz zone plan and imminent ECB hike",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-sag-on-tehrans-hormuz-zone-plan-and-imminent-ecb-hike-4890469",
+   "saat": "10:11",
+   "tarih_iso": "2026-09-07T10:11:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:30:50.336311+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-202-4890465",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 2.02%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-202-4890465",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-07T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:30:50.336311+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/dianomi-returns-to-growth-with-2-revenue-rise-in-first-half-93CH-4890419",
    "baslik": "Dianomi returns to growth with 2% revenue rise in first half",
@@ -294,6 +372,16 @@
    "eklenme": "2026-09-07T09:30:46.600919+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-face-key-levels-as-iran-conflict-fuels-stagflation-fears-200687184",
+   "baslik": "Gold Face Key Levels as Iran Conflict Fuels Stagflation Fears",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-face-key-levels-as-iran-conflict-fuels-stagflation-fears-200687184",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:30:50.336311+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/the-goldsilver-ratio-a-strategy-for-growing-your-ounces-not-your-cash-200687145",
    "baslik": "The Gold-Silver Ratio: A Strategy for Growing Your Ounces, Not Your Cash",
    "kaynak": "Investing Emtia",
@@ -354,5 +442,5 @@
    "eklenme": "2026-09-07T09:00:58.404411+03:00"
   }
  ],
- "guncelleme": "2026-09-07T10:01:06.262851+03:00"
+ "guncelleme": "2026-09-07T10:30:50.336311+03:00"
 }
