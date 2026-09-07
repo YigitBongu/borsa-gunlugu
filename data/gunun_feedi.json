@@ -1,6 +1,33 @@
 {
  "tarih": "2026-09-07",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-KCAER-202609070831",
+   "baslik": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş. — Sürdürülebilirlik Raporu",
+   "sirket": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "KCAER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:31",
+   "tarih_iso": "2026-09-07T08:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-07T09:30:46.600919+03:00"
+  },
+  {
+   "id": "kap-my-CCOLA-202609070807",
+   "baslik": "COCA-COLA İÇECEK A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "COCA-COLA İÇECEK A.Ş.",
+   "kodlar": [
+    "CCOLA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:07",
+   "tarih_iso": "2026-09-07T08:07:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-07T09:30:46.600919+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/eylul-emekli-promosyon-tutari-2026-emeklilere-ne-kadar-promosyon-odeniyor-garanti-akbank-ziraat-bankasi-emekli-promosyon-odeme-3463673",
@@ -16,6 +43,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/goldman-sachstan-turkiye-uyarisi-enflasyon-hesabini-enerji-bozabilir-haberi-838990",
+   "baslik": "Goldman Sachs'tan Türkiye uyarısı: Enflasyon hesabını enerji bozabilir",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/goldman-sachstan-turkiye-uyarisi-enflasyon-hesabini-enerji-bozabilir-haberi-838990",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-07T09:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T09:30:46.600919+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-7-eylul-pazartesi-doviz-kurlari-haberi-838970",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (7 Eylül Pazartesi Döviz Kurları)",
@@ -58,6 +95,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-152-4890380",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.52%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-152-4890380",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-07T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T09:30:46.600919+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/china-insurer-capital-injections-could-boost-stock-investments-analysts-say-4890372",
    "baslik": "China insurer capital injections could boost stock investments, analysts say",
@@ -141,6 +188,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/kapalicarsi-altin-fiyatlarinda-dusus-gram-ceyrek-yarim-tam-cumhuriyet-altini-ne-kadar-kac-tl-7-eylul-anlik-guncel-altin-fiyatlari-3463763",
+   "baslik": "KAPALIÇARŞI ALTIN FİYATLARINDA DÜŞÜŞ! Gram, çeyrek, yarım, tam, cumhuriyet altını ne kadar, kaç TL? 7 Eylül anlık-güncel altın fiyatları",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/kapalicarsi-altin-fiyatlarinda-dusus-gram-ceyrek-yarim-tam-cumhuriyet-altini-ne-kadar-kac-tl-7-eylul-anlik-guncel-altin-fiyatlari-3463763",
+   "saat": "12:18",
+   "tarih_iso": "2026-09-07T12:18:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T09:30:46.600919+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/the-goldsilver-ratio-a-strategy-for-growing-your-ounces-not-your-cash-200687145",
    "baslik": "The Gold-Silver Ratio: A Strategy for Growing Your Ounces, Not Your Cash",
    "kaynak": "Investing Emtia",
@@ -201,5 +258,5 @@
    "eklenme": "2026-09-07T09:00:58.404411+03:00"
   }
  ],
- "guncelleme": "2026-09-07T09:00:58.404411+03:00"
+ "guncelleme": "2026-09-07T09:30:46.600919+03:00"
 }
