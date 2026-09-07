@@ -2,6 +2,32 @@
  "tarih": "2026-09-07",
  "kap": [
   {
+   "id": "kap-my-TKFEN-202609070911",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:11",
+   "tarih_iso": "2026-09-07T09:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-07T10:01:06.262851+03:00"
+  },
+  {
+   "id": "kap-my-GSDHO-202609070911",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:11",
+   "tarih_iso": "2026-09-07T09:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-07T10:01:06.262851+03:00"
+  },
+  {
    "id": "kap-my-KCAER-202609070831",
    "baslik": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş. — Sürdürülebilirlik Raporu",
    "sirket": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş.",
@@ -43,6 +69,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/morgan-stanleyden-tcmb-tahmini-yil-bitmeden-iki-adim-bekleniyor-haberi-838999",
+   "baslik": "Morgan Stanley'den TCMB tahmini: Yıl bitmeden iki adım bekleniyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/morgan-stanleyden-tcmb-tahmini-yil-bitmeden-iki-adim-bekleniyor-haberi-838999",
+   "saat": "09:41",
+   "tarih_iso": "2026-09-07T09:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:01:06.262851+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/avrupada-faiz-indirimi-uzaklasiyor-deutsche-banktan-ikinci-artis-tahmini-haberi-838995",
+   "baslik": "Avrupa’da faiz indirimi uzaklaşıyor: Deutsche Bank’tan ikinci artış tahmini",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/avrupada-faiz-indirimi-uzaklasiyor-deutsche-banktan-ikinci-artis-tahmini-haberi-838995",
+   "saat": "09:39",
+   "tarih_iso": "2026-09-07T09:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:01:06.262851+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-bu-hafta-mi-ne-zaman-aciklaniyor-faizler-duser-mi-haberi-838994",
+   "baslik": "Merkez Bankası faiz kararı bu hafta mı, ne zaman açıklanıyor? Faizler düşer mi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-bu-hafta-mi-ne-zaman-aciklaniyor-faizler-duser-mi-haberi-838994",
+   "saat": "09:38",
+   "tarih_iso": "2026-09-07T09:38:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:01:06.262851+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/goldman-sachstan-turkiye-uyarisi-enflasyon-hesabini-enerji-bozabilir-haberi-838990",
    "baslik": "Goldman Sachs'tan Türkiye uyarısı: Enflasyon hesabını enerji bozabilir",
@@ -95,6 +151,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dianomi-returns-to-growth-with-2-revenue-rise-in-first-half-93CH-4890419",
+   "baslik": "Dianomi returns to growth with 2% revenue rise in first half",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dianomi-returns-to-growth-with-2-revenue-rise-in-first-half-93CH-4890419",
+   "saat": "09:37",
+   "tarih_iso": "2026-09-07T09:37:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:01:06.262851+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/moneysupermarketcom-reports-32-revenue-drop-in-first-half-93CH-4890417",
+   "baslik": "Moneysupermarket.com reports 32% revenue drop in first half",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/moneysupermarketcom-reports-32-revenue-drop-in-first-half-93CH-4890417",
+   "saat": "09:35",
+   "tarih_iso": "2026-09-07T09:35:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:01:06.262851+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-006-4890408",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.06%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-006-4890408",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-07T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:01:06.262851+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-street-futures-mixed-after-jobs-data-lifts-sept-fed-hike-odds-4890344",
+   "baslik": "Wall Street futures mixed after jobs data lifts Sept Fed hike odds",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-mixed-after-jobs-data-lifts-sept-fed-hike-odds-4890344",
+   "saat": "09:25",
+   "tarih_iso": "2026-09-07T09:25:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T10:01:06.262851+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-152-4890380",
    "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.52%",
@@ -258,5 +354,5 @@
    "eklenme": "2026-09-07T09:00:58.404411+03:00"
   }
  ],
- "guncelleme": "2026-09-07T09:30:46.600919+03:00"
+ "guncelleme": "2026-09-07T10:01:06.262851+03:00"
 }
