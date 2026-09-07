@@ -523,6 +523,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-021-4890733",
+   "baslik": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.21%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-021-4890733",
+   "saat": "00:30",
+   "tarih_iso": "2026-09-08T00:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T01:01:01.187028+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-082-4890732",
+   "baslik": "Colombia stocks higher at close of trade; COLCAP up 0.82%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-082-4890732",
+   "saat": "00:25",
+   "tarih_iso": "2026-09-08T00:25:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T01:01:01.187028+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-061-4890731",
+   "baslik": "Russia stocks higher at close of trade; MOEX Russia Index up 0.61%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-061-4890731",
+   "saat": "00:20",
+   "tarih_iso": "2026-09-08T00:20:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T01:01:01.187028+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/trump-demands-bombardier-quit-us-market-unless-it-builds-planes-there-4890722",
    "baslik": "Trump demands Bombardier quit US market unless it builds planes there",
    "kaynak": "Investing.com",
@@ -1691,36 +1721,6 @@
    "tarih_iso": "2026-09-07T14:05:46+03:00",
    "kodlar": [],
    "eklenme": "2026-09-07T14:24:59.286863+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nvidia-just-sent-strong-signal-110300677.html",
-   "baslik": "Nvidia just sent a strong signal to AMD and Intel investors",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-sent-strong-signal-110300677.html",
-   "saat": "14:03",
-   "tarih_iso": "2026-09-07T14:03:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T14:24:59.286863+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/jensen-huang-just-said-1-110300322.html",
-   "baslik": "Jensen Huang Just Said a 1-Gigawatt Facility Is Worth $50 Billion to $60 Billion. Here's What That Means for Neocloud Stocks Like Nebius.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-just-said-1-110300322.html",
-   "saat": "14:03",
-   "tarih_iso": "2026-09-07T14:03:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T14:24:59.286863+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/india-crude-oil-benchmark-tops-110000096.html",
-   "baslik": "India’s Crude Oil Benchmark Tops $100 as Middle East War Escalates",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/india-crude-oil-benchmark-tops-110000096.html",
-   "saat": "14:00",
-   "tarih_iso": "2026-09-07T14:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T15:01:05.573482+03:00"
   }
  ],
  "altin_haber": [
@@ -1985,5 +1985,5 @@
    "eklenme": "2026-09-07T09:00:58.404411+03:00"
   }
  ],
- "guncelleme": "2026-09-08T00:30:53.406339+03:00"
+ "guncelleme": "2026-09-08T01:01:01.187028+03:00"
 }
