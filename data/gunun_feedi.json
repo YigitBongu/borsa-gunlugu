@@ -89,6 +89,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-7-eylul-pazartesi-doviz-kurlari-haberi-838970",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (7 Eylül Pazartesi Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-7-eylul-pazartesi-doviz-kurlari-haberi-838970",
+   "saat": "07:18",
+   "tarih_iso": "2026-09-07T07:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T07:30:51.947266+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/hurmuzde-tanker-gerilimi-petrolu-97-dolar-sinirina-tasidi-haberi-838967",
    "baslik": "Hürmüz’de tanker gerilimi petrolü 97 dolar sınırına taşıdı",
    "kaynak": "Dünya",
@@ -107,6 +117,16 @@
    "tarih_iso": "2026-09-07T06:05:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-07T06:30:50.334588+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/istihdam-verisi-sonras-wall-street-karsk-seyrediyor-4056386",
+   "baslik": "İstihdam verisi Eylül Fed faiz artışı olasılığını yükseltirken Wall Street vadeli işlemleri karışık seyretti",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/istihdam-verisi-sonras-wall-street-karsk-seyrediyor-4056386",
+   "saat": "05:14",
+   "tarih_iso": "2026-09-07T05:14:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T07:30:51.947266+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/makro-ekonomik-buyukluklere-guncelleme-geldi-enflasyon-yuzde-284-buyume-yuzde-33-haberi-838950",
@@ -240,6 +260,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9",
+   "baslik": "Bonds have become bonds again",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-07T07:00:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T07:30:51.947266+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-chipmakers-surge-oil-and-fed-bets-keep-risks-in-view-4890351",
+   "baslik": "Asian stocks rally as chipmakers surge, oil and Fed bets keep risks in view",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-chipmakers-surge-oil-and-fed-bets-keep-risks-in-view-4890351",
+   "saat": "06:45",
+   "tarih_iso": "2026-09-07T06:45:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T07:30:51.947266+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/indias-top-stock-picks-across-key-sectors-according-to-jefferies-93CH-4890349",
    "baslik": "India’s Top Stock Picks Across Key Sectors, According to Jefferies",
@@ -1273,5 +1313,5 @@
    "eklenme": "2026-09-06T09:01:02.241991+03:00"
   }
  ],
- "guncelleme": "2026-09-07T07:00:54.956232+03:00"
+ "guncelleme": "2026-09-07T07:30:51.947266+03:00"
 }
