@@ -2,6 +2,20 @@
  "tarih": "2026-09-07",
  "kap": [
   {
+   "id": "kap-my-TUPRS-202609071900",
+   "baslik": "KOÇ HOLDİNG A.Ş. — Pay Alım Satım Bildirimi",
+   "sirket": "KOÇ HOLDİNG A.Ş.",
+   "kodlar": [
+    "TUPRS",
+    "KCHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:00",
+   "tarih_iso": "2026-09-07T19:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-08T00:01:01.118234+03:00"
+  },
+  {
    "id": "kap-my-KCAER-202609071810",
    "baslik": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş.",
@@ -293,6 +307,16 @@
    "tarih_iso": "2026-09-07T20:31:06+03:00",
    "kodlar": [],
    "eklenme": "2026-09-07T18:01:02.250766+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-839085",
+   "baslik": "Borsa İstanbul günü yükselişle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-839085",
+   "saat": "18:36",
+   "tarih_iso": "2026-09-07T18:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T00:01:01.118234+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/hazine-nakit-dengesi-belli-oldu-agustosta-498-milyar-lira-fazla-haberi-839082",
@@ -1689,6 +1713,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/yeni-haftada-altin-fiyati-ne-olacak-3464008",
+   "baslik": "Yeni haftada altın fiyatı ne olacak?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/altin/yeni-haftada-altin-fiyati-ne-olacak-3464008",
+   "saat": "02:32",
+   "tarih_iso": "2026-09-08T02:32:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T00:01:01.118234+03:00"
+  },
+  {
    "id": "alt-https://www.mining.com/acg-metals-to-acquire-keskek-gold-project/",
    "baslik": "ACG Metals to acquire Keşkek gold project",
    "kaynak": "Mining.com",
@@ -1929,5 +1963,5 @@
    "eklenme": "2026-09-07T09:00:58.404411+03:00"
   }
  ],
- "guncelleme": "2026-09-07T23:30:54.067862+03:00"
+ "guncelleme": "2026-09-08T00:01:01.118234+03:00"
 }
