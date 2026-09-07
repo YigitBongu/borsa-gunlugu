@@ -2,6 +2,32 @@
  "tarih": "2026-09-07",
  "kap": [
   {
+   "id": "kap-my-EKGYO-202609071034",
+   "baslik": "HALK VARLIK KİRALAMA A.Ş. — Tertip İhraç Belgesi",
+   "sirket": "HALK VARLIK KİRALAMA A.Ş.",
+   "kodlar": [
+    "EKGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:34",
+   "tarih_iso": "2026-09-07T10:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-07T11:01:37.493240+03:00"
+  },
+  {
+   "id": "kap-my-ENJSA-202609071026",
+   "baslik": "AK YATIRIM MENKUL DEĞERLER A.Ş. — Likidite Sağlayıcılık Kapsamındaki İşlemler",
+   "sirket": "AK YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ENJSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:26",
+   "tarih_iso": "2026-09-07T10:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-07T11:01:37.493240+03:00"
+  },
+  {
    "id": "kap-my-VESTL-202609071000",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -81,6 +107,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-maci-tarihi-ve-saati-fb-roma-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-839010",
+   "baslik": "Fenerbahçe Şampiyonlar Ligi maçı tarihi ve saati... FB - Roma maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-maci-tarihi-ve-saati-fb-roma-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-839010",
+   "saat": "10:41",
+   "tarih_iso": "2026-09-07T10:41:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-07T11:01:37.493240+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/galatasaray-sampiyonlar-ligi-maci-ne-zaman-sporting-lizbon-gs-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-839003",
    "baslik": "Galatasaray Şampiyonlar Ligi maçı ne zaman? Sporting Lizbon - GS maçı ne zaman, saat kaçta, hangi kanalda?",
@@ -209,6 +247,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-chipmakers-surge-oil-and-fed-bets-keep-risks-in-view-4890351",
+   "baslik": "Asian stocks rally as chipmakers surge, oil and Fed bets keep risks in view",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-rally-as-chipmakers-surge-oil-and-fed-bets-keep-risks-in-view-4890351",
+   "saat": "10:41",
+   "tarih_iso": "2026-09-07T10:41:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T11:01:37.493240+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-usiran-gulf-conflict-escalates-4890487",
+   "baslik": "FTSE 100 today: Stocks slip as U.S.-Iran Gulf conflict escalates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-usiran-gulf-conflict-escalates-4890487",
+   "saat": "10:23",
+   "tarih_iso": "2026-09-07T10:23:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T11:01:37.493240+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-sag-on-tehrans-hormuz-zone-plan-and-imminent-ecb-hike-4890469",
    "baslik": "European shares sag on Tehran’s Hormuz zone plan and imminent ECB hike",
@@ -372,6 +430,56 @@
    "eklenme": "2026-09-07T09:30:46.600919+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/golds-recent-rally-is-weakening-but-an-up-week-can-right-it-200687205",
+   "baslik": "Gold’s Recent Rally is Weakening, but an Up Week Can Right It",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-recent-rally-is-weakening-but-an-up-week-can-right-it-200687205",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-07T11:01:37.493240+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-at-4400-is-the-5000-target-becoming-a-realistic-scenario-200687199",
+   "baslik": "Gold at $4,400: Is the $5,000 Target Becoming a Realistic Scenario?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-at-4400-is-the-5000-target-becoming-a-realistic-scenario-200687199",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-07T11:01:37.493240+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-futures-consolidate-above-support-with-4685-as-the-breakout-target-200687193",
+   "baslik": "Gold Futures Consolidate Above Support with $4,685 as the Breakout Target",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-futures-consolidate-above-support-with-4685-as-the-breakout-target-200687193",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-07T11:01:37.493240+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/golds-round-trip-what-the-postnfp-reversal-reveals-about-this-market-200687186",
+   "baslik": "Gold’s Round Trip: What the Post-NFP Reversal Reveals About This Market",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-round-trip-what-the-postnfp-reversal-reveals-about-this-market-200687186",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-07T11:01:37.493240+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-ve-gumuste-kader-haftasi-sert-hareket-geliyor-galeri-839009",
+   "baslik": "Altın ve gümüşte kader haftası: Sert hareket geliyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-ve-gumuste-kader-haftasi-sert-hareket-geliyor-galeri-839009",
+   "saat": "10:36",
+   "tarih_iso": "2026-09-07T10:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T11:01:37.493240+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-face-key-levels-as-iran-conflict-fuels-stagflation-fears-200687184",
    "baslik": "Gold Face Key Levels as Iran Conflict Fuels Stagflation Fears",
    "kaynak": "Investing Emtia",
@@ -442,5 +550,5 @@
    "eklenme": "2026-09-07T09:00:58.404411+03:00"
   }
  ],
- "guncelleme": "2026-09-07T10:30:50.336311+03:00"
+ "guncelleme": "2026-09-07T11:01:37.493240+03:00"
 }
