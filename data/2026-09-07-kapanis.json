@@ -2,6 +2,34 @@
  "tarih": "2026-09-07",
  "kap": [
   {
+   "id": "kap-my-KCAER-202609071810",
+   "baslik": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "KOCAER ÇELİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "KCAER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:10",
+   "tarih_iso": "2026-09-07T18:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "18:10"
+  },
+  {
+   "id": "kap-my-AEFES-202609071748",
+   "baslik": "BORSA İSTANBUL A.Ş. — Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "AEFES"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "17:48",
+   "tarih_iso": "2026-09-07T17:48:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "17:48"
+  },
+  {
    "id": "kap-my-MGROS-202609071646",
    "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
    "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
@@ -290,6 +318,17 @@
    "saat_g": "20:31"
   },
   {
+   "id": "rss-https://www.dunya.com/ekonomi/hazine-nakit-dengesi-belli-oldu-agustosta-498-milyar-lira-fazla-haberi-839082",
+   "baslik": "Hazine nakit dengesi belli oldu: Ağustosta 49,8 milyar lira fazla",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazine-nakit-dengesi-belli-oldu-agustosta-498-milyar-lira-fazla-haberi-839082",
+   "saat": "18:09",
+   "tarih_iso": "2026-09-07T18:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "18:09"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/goldman-yukselen-faiz-oranlarnn-bu-gayrimenkul-sirketine-zarar-verebilecegini-soyluyor-4056707",
    "baslik": "Goldman Sachs: Yüksek faiz oranları bu gayrimenkul şirketini olumsuz etkileyebilir",
    "kaynak": "Investing TR",
@@ -490,6 +529,83 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-046-4890685",
+   "baslik": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.46%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-046-4890685",
+   "saat": "18:10",
+   "tarih_iso": "2026-09-07T18:10:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "18:10"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cfo-reduces-holdings-financial-stock-151001224.html",
+   "baslik": "CFO Reduces Holdings of Financial Stock by More Than 61,000 Shares, Following 33% Rally",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cfo-reduces-holdings-financial-stock-151001224.html",
+   "saat": "18:10",
+   "tarih_iso": "2026-09-07T18:10:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "18:10"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/2-ai-power-stocks-jumped-150120214.html",
+   "baslik": "These 2 AI Power Stocks Jumped While the S&P 500 Fell",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-ai-power-stocks-jumped-150120214.html",
+   "saat": "18:01",
+   "tarih_iso": "2026-09-07T18:01:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "18:01"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/everyone-watching-nvidia-memory-stock-150022916.html",
+   "baslik": "Everyone Is Watching Nvidia. But This Memory Stock Could Be the Next AI Winner",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/everyone-watching-nvidia-memory-stock-150022916.html",
+   "saat": "18:00",
+   "tarih_iso": "2026-09-07T18:00:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "18:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/airbnb-vs-shopify-consumer-stock-150001466.html",
+   "baslik": "Airbnb vs. Shopify: Which Consumer Stock Is a Better Buy in 2026?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/airbnb-vs-shopify-consumer-stock-150001466.html",
+   "saat": "18:00",
+   "tarih_iso": "2026-09-07T18:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "18:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-039-4890682",
+   "baslik": "Norway stocks lower at close of trade; Oslo OBX down 0.39%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-039-4890682",
+   "saat": "17:55",
+   "tarih_iso": "2026-09-07T17:55:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "17:55"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-112-4890681",
+   "baslik": "Israel stocks higher at close of trade; TA 35 up 1.12%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-112-4890681",
+   "saat": "17:55",
+   "tarih_iso": "2026-09-07T17:55:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "17:55"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/07/oil-prices-rise-to-6-week-high-after-iran-and-us-trade-blows-saudi-aramco-facilities-reportedly-hit.html",
    "baslik": "Oil prices rise to 6-week high after Iran and U.S. trade blows, Saudi Aramco facilities reportedly hit",
    "kaynak": "CNBC",
@@ -510,6 +626,39 @@
    "kodlar": [],
    "eklenme": "2026-09-07T18:01:02.250766+03:00",
    "saat_g": "17:50"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nikes-stock-bottomed-145001085.html",
+   "baslik": "Has Nike's Stock Bottomed Out?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nikes-stock-bottomed-145001085.html",
+   "saat": "17:50",
+   "tarih_iso": "2026-09-07T17:50:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "17:50"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/most-people-asking-invest-overthinking-145000499.html",
+   "baslik": "Most People Asking \"What Should I Invest In?\" Are Overthinking It. Start With Index Funds and These 4 Stocks.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/most-people-asking-invest-overthinking-145000499.html",
+   "saat": "17:50",
+   "tarih_iso": "2026-09-07T17:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "17:50"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tesla-says-time-different-wall-144326930.html",
+   "baslik": "Tesla Says This Time Is Different. Wall Street Is Split on Whether to Believe It",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tesla-says-time-different-wall-144326930.html",
+   "saat": "17:43",
+   "tarih_iso": "2026-09-07T17:43:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
+   "saat_g": "17:43"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/micron-skyrocketed-256-2026-mu-144045352.html",
@@ -553,6 +702,17 @@
    "tarih_iso": "2026-09-07T17:30:43+03:00",
    "kodlar": [],
    "eklenme": "2026-09-07T18:01:02.250766+03:00",
+   "saat_g": "17:30"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/american-african-crudes-soar-chinas-143000950.html",
+   "baslik": "American and African Crudes Soar as China's Oil Imports Rebound",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/american-african-crudes-soar-chinas-143000950.html",
+   "saat": "17:30",
+   "tarih_iso": "2026-09-07T17:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-07T18:30:52.346741+03:00",
    "saat_g": "17:30"
   },
   {
@@ -1687,127 +1847,6 @@
    "kodlar": [],
    "eklenme": "2026-09-07T12:30:56.614222+03:00",
    "saat_g": "09:17"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-152-4890380",
-   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.52%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-152-4890380",
-   "saat": "09:00",
-   "tarih_iso": "2026-09-07T09:00:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T09:30:46.600919+03:00",
-   "saat_g": "09:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/china-insurer-capital-injections-could-boost-stock-investments-analysts-say-4890372",
-   "baslik": "China insurer capital injections could boost stock investments, analysts say",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/china-insurer-capital-injections-could-boost-stock-investments-analysts-say-4890372",
-   "saat": "08:42",
-   "tarih_iso": "2026-09-07T08:42:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T09:00:58.404411+03:00",
-   "saat_g": "08:42"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/burkhalter-h1-earnings-per-share-climb-8-on-energy-demand-93CH-4890364",
-   "baslik": "Burkhalter H1 earnings per share climb 8% on energy demand",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/burkhalter-h1-earnings-per-share-climb-8-on-energy-demand-93CH-4890364",
-   "saat": "08:20",
-   "tarih_iso": "2026-09-07T08:20:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T09:00:58.404411+03:00",
-   "saat_g": "08:20"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-austal-stock-rallying-today-93CH-4890362",
-   "baslik": "Why is Austal stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-austal-stock-rallying-today-93CH-4890362",
-   "saat": "08:17",
-   "tarih_iso": "2026-09-07T08:17:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T09:00:58.404411+03:00",
-   "saat_g": "08:17"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/macom-mtsi-earnings-explosion-raises-051436382.html",
-   "baslik": "MACOM’s (MTSI) Earnings Explosion Raises A Very Big Question",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/macom-mtsi-earnings-explosion-raises-051436382.html",
-   "saat": "08:14",
-   "tarih_iso": "2026-09-07T08:14:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T12:30:56.614222+03:00",
-   "saat_g": "08:14"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/expeditors-expd-posts-51-earnings-045836200.html",
-   "baslik": "Expeditors (EXPD) Posts A 51% Earnings Jump, But Some Of It Won’t Last",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/expeditors-expd-posts-51-earnings-045836200.html",
-   "saat": "07:58",
-   "tarih_iso": "2026-09-07T07:58:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T12:30:56.614222+03:00",
-   "saat_g": "07:58"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9",
-   "baslik": "Bonds have become bonds again",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9",
-   "saat": "07:00",
-   "tarih_iso": "2026-09-07T07:00:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T09:00:58.404411+03:00",
-   "saat_g": "07:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9?syn-25a6b1a6=1",
-   "baslik": "Bonds have become bonds again",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/e8eb7c0f-a50e-4c77-b7f0-dfe4cb11dac9?syn-25a6b1a6=1",
-   "saat": "07:00",
-   "tarih_iso": "2026-09-07T07:00:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T12:30:56.614222+03:00",
-   "saat_g": "07:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/one-regulator-just-ended-fair-035755697.html",
-   "baslik": "One Regulator Just Ended Fair Isaac’s (FICO) Mortgage Monopoly. The Stock Fell 16% – Is It Justified?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/one-regulator-just-ended-fair-035755697.html",
-   "saat": "06:57",
-   "tarih_iso": "2026-09-07T06:57:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T12:30:56.614222+03:00",
-   "saat_g": "06:57"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/pentagon-doubled-down-anthropic-blacklist-034421098.html",
-   "baslik": "The Pentagon Doubled Down on Its Anthropic Blacklist. Why Amazon and Alphabet Investors Should Care",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/pentagon-doubled-down-anthropic-blacklist-034421098.html",
-   "saat": "06:44",
-   "tarih_iso": "2026-09-07T06:44:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T12:30:56.614222+03:00",
-   "saat_g": "06:44"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dell-hpe-just-posted-record-033130037.html",
-   "baslik": "Dell and HPE Just Posted Record AI Numbers. Why Did Their Stocks Split?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dell-hpe-just-posted-record-033130037.html",
-   "saat": "06:31",
-   "tarih_iso": "2026-09-07T06:31:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T12:30:56.614222+03:00",
-   "saat_g": "06:31"
   }
  ],
  "altin_haber": [
@@ -2065,5 +2104,5 @@
    "saat_g": ""
   }
  ],
- "guncelleme": "2026-09-07T18:01:02.250766+03:00"
+ "guncelleme": "2026-09-07T18:30:52.346741+03:00"
 }
