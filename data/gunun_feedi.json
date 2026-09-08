@@ -2,6 +2,32 @@
  "tarih": "2026-09-08",
  "kap": [
   {
+   "id": "kap-my-GARAN-202609080936",
+   "baslik": "TÜRKİYE GARANTİ BANKASI A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+   "kodlar": [
+    "GARAN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "09:36",
+   "tarih_iso": "2026-09-08T09:36:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-08T10:01:01.719734+03:00"
+  },
+  {
+   "id": "kap-my-TKFEN-202609080915",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:15",
+   "tarih_iso": "2026-09-08T09:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-08T10:01:01.719734+03:00"
+  },
+  {
    "id": "kap-my-KMPUR-202609080842",
    "baslik": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş. — Entegre Rapor",
    "sirket": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş.",
@@ -55,6 +81,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
+   "baslik": "EYLÜL AYI KİRA ARTIŞ ORANI HESAPLAMA : 2026 Eylül Ayı Kira Artış Oranı Belli Oldu! Eylül Kira Zammı Ne Kadar? Gözler TÜİK'te! İşte TÜİK Açıklamasına Göre TEFE TÜFE ve Kira Artış Oranı Hesaplama",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
+   "saat": "12:32",
+   "tarih_iso": "2026-09-08T12:32:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T10:01:01.719734+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/bitcoinde-kritik-sinav-bu-esik-asilirsa-hedef-100-bin-dolar-galeri-839128",
    "baslik": "Bitcoin'de kritik sınav: Bu eşik aşılırsa hedef 100 bin dolar",
    "kaynak": "Dünya",
@@ -106,6 +142,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-100-4890854",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 1.00%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-100-4890854",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-08T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T10:01:01.719734+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/inspiration-healthcare-revenue-falls-to-22-million-in-first-half-93CH-4890841",
+   "baslik": "Inspiration Healthcare revenue falls to £22 million in first half",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/inspiration-healthcare-revenue-falls-to-22-million-in-first-half-93CH-4890841",
+   "saat": "09:22",
+   "tarih_iso": "2026-09-08T09:22:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T10:01:01.719734+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/journeo-reports-53-revenue-growth-in-first-half-of-2026-93CH-4890839",
+   "baslik": "Journeo reports 53% revenue growth in first half of 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/journeo-reports-53-revenue-growth-in-first-half-of-2026-93CH-4890839",
+   "saat": "09:20",
+   "tarih_iso": "2026-09-08T09:20:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T10:01:01.719734+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/funding-circle-raises-fullyear-guidance-after-profit-quadruples-93CH-4890837",
+   "baslik": "Funding Circle raises full-year guidance after profit quadruples",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/funding-circle-raises-fullyear-guidance-after-profit-quadruples-93CH-4890837",
+   "saat": "09:19",
+   "tarih_iso": "2026-09-08T09:19:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T10:01:01.719734+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/gaming-realms-h1-revenue-drops-3-on-brand-licensing-weakness-93CH-4890836",
+   "baslik": "Gaming Realms H1 revenue drops 3% on brand licensing weakness",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gaming-realms-h1-revenue-drops-3-on-brand-licensing-weakness-93CH-4890836",
+   "saat": "09:19",
+   "tarih_iso": "2026-09-08T09:19:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T10:01:01.719734+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/trump-says-canadas-bombardier-cannot-sell-in-us-unless-it-builds-there-4890715",
+   "baslik": "Trump says Canada’s Bombardier must build jets in US or lose market access",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/trump-says-canadas-bombardier-cannot-sell-in-us-unless-it-builds-there-4890715",
+   "saat": "09:18",
+   "tarih_iso": "2026-09-08T09:18:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T10:01:01.719734+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-046-4890812",
    "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.46%",
@@ -369,5 +465,5 @@
    "eklenme": "2026-09-08T09:01:00.832098+03:00"
   }
  ],
- "guncelleme": "2026-09-08T09:30:53.583485+03:00"
+ "guncelleme": "2026-09-08T10:01:01.719734+03:00"
 }
