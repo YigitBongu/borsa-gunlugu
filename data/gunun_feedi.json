@@ -1,6 +1,20 @@
 {
  "tarih": "2026-09-08",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-KMPUR-202609080842",
+   "baslik": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş. — Entegre Rapor",
+   "sirket": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "KMPUR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:42",
+   "tarih_iso": "2026-09-08T08:42:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-08T09:30:53.583485+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.dunya.com/spor/sampiyonlar-liginde-yeni-sezon-basliyor-galatasaray-ve-fenerbahce-sahne-alacak-haberi-839126",
@@ -93,6 +107,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-046-4890812",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.46%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-046-4890812",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-08T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T09:30:53.583485+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/08/oil-prices-today-brent-wti-hormuz-iran-war.html",
    "baslik": "Oil extends gains as renewed Mideast hostilities raise worries of prolonged conflict",
    "kaynak": "CNBC",
@@ -111,6 +135,16 @@
    "tarih_iso": "2026-09-08T08:00:01+03:00",
    "kodlar": [],
    "eklenme": "2026-09-08T09:01:00.832098+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-chipmakers-rally-oil-and-rate-risks-cap-gains-4890787",
+   "baslik": "Asian stocks mixed as chipmakers rally, oil and rate risks cap gains",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-chipmakers-rally-oil-and-rate-risks-cap-gains-4890787",
+   "saat": "07:45",
+   "tarih_iso": "2026-09-08T07:45:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T09:30:53.583485+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
@@ -265,6 +299,16 @@
    "eklenme": "2026-09-08T09:01:00.832098+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/ekonomi/cin-altin-icin-yeniden-gaza-basti-2023ten-beri-boylesi-gorulmedi-haberi-839137",
+   "baslik": "Çin altın için yeniden gaza bastı: 2023'ten beri böylesi görülmedi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/cin-altin-icin-yeniden-gaza-basti-2023ten-beri-boylesi-gorulmedi-haberi-839137",
+   "saat": "08:56",
+   "tarih_iso": "2026-09-08T08:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T09:30:53.583485+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-fonlarina-201-tonluk-akin-tarihin-en-guclu-uc-ayindan-biri-galeri-839117",
    "baslik": "Altın fonlarına 201 tonluk akın: Tarihin en güçlü üç ayından biri",
    "kaynak": "Dünya",
@@ -325,5 +369,5 @@
    "eklenme": "2026-09-08T09:01:00.832098+03:00"
   }
  ],
- "guncelleme": "2026-09-08T09:01:00.832098+03:00"
+ "guncelleme": "2026-09-08T09:30:53.583485+03:00"
 }
