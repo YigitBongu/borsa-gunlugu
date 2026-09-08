@@ -2,6 +2,19 @@
  "tarih": "2026-09-08",
  "kap": [
   {
+   "id": "kap-my-AKSA-202609081544",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "AKSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:44",
+   "tarih_iso": "2026-09-08T15:44:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
    "id": "kap-my-KORDS-202609081306",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -191,6 +204,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/ecbde-faiz-icin-kritik-hafta-ekonomistler-ayni-noktada-bulustu-haberi-839208",
+   "baslik": "ECB'de faiz için kritik hafta: Ekonomistler aynı noktada buluştu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/ecbde-faiz-icin-kritik-hafta-ekonomistler-ayni-noktada-bulustu-haberi-839208",
+   "saat": "16:07",
+   "tarih_iso": "2026-09-08T16:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/ovp-sonrasi-dolar-tl-hesabi-2027de-hangi-seviyeler-bekleniyor-3464204",
    "baslik": "OVP sonrası dolar/TL hesabı! 2027'de hangi seviyeler bekleniyor?",
    "kaynak": "CNN Türk Ekonomi",
@@ -352,6 +375,176 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-corning-stock-surging-today-93CH-4891812",
+   "baslik": "Why is Corning stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-corning-stock-surging-today-93CH-4891812",
+   "saat": "16:24",
+   "tarih_iso": "2026-09-08T16:24:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+   "baslik": "Qualcomm stock pops 10% on data center infrastructure deal with Amazon",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
+   "saat": "16:24",
+   "tarih_iso": "2026-09-08T16:24:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-xerox-stock-rallying-today-93CH-4891809",
+   "baslik": "Why is Xerox stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-xerox-stock-rallying-today-93CH-4891809",
+   "saat": "16:23",
+   "tarih_iso": "2026-09-08T16:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-surging-today-93CH-4891808",
+   "baslik": "Why is Qualcomm stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-surging-today-93CH-4891808",
+   "saat": "16:22",
+   "tarih_iso": "2026-09-08T16:22:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/corning-stock-rises-on-multibillion-fiber-deal-with-verizon-4891799",
+   "baslik": "Corning stock rises on multi-billion fiber deal with Verizon",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/corning-stock-rises-on-multibillion-fiber-deal-with-verizon-4891799",
+   "saat": "16:19",
+   "tarih_iso": "2026-09-08T16:19:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/08/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/08/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "saat": "16:13",
+   "tarih_iso": "2026-09-08T16:13:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tradeweb-markets-tw-set-rebound-131324545.html",
+   "baslik": "Is Tradeweb Markets (TW) Set for a Rebound?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tradeweb-markets-tw-set-rebound-131324545.html",
+   "saat": "16:13",
+   "tarih_iso": "2026-09-08T16:13:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/p-500-setting-record-highs-130400324.html",
+   "baslik": "With the S&P 500 Setting Record Highs, History Points to 1 Clear Move",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-setting-record-highs-130400324.html",
+   "saat": "16:04",
+   "tarih_iso": "2026-09-08T16:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/top-analyst-sets-jaw-dropping-130300813.html",
+   "baslik": "Top Analyst sets jaw-dropping Broadcom stock target after earnings",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-sets-jaw-dropping-130300813.html",
+   "saat": "16:03",
+   "tarih_iso": "2026-09-08T16:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/mckesson-eyes-2-25b-precision-130208676.html",
+   "baslik": "McKesson Eyes $2.25B Precision Medicine Deal as Oncology Growth Accelerates",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/mckesson-eyes-2-25b-precision-130208676.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-09-08T16:02:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/small-business/articles/hormuz-disruptions-hitting-small-businesses-130106569.html",
+   "baslik": "Hormuz disruptions hitting small businesses hardest, UN trade agency warns",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/small-business/articles/hormuz-disruptions-hitting-small-businesses-130106569.html",
+   "saat": "16:01",
+   "tarih_iso": "2026-09-08T16:01:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nvidia-worth-5-trillion-could-130037328.html",
+   "baslik": "Nvidia Is Worth $5 Trillion. But This Could Be the Next Big Catalyst for the Stock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-worth-5-trillion-could-130037328.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-09-08T16:00:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nike-retail-giant-no-longer-130036297.html",
+   "baslik": "Nike and This Retail Giant Will No Longer Be Part of This Prestigious S&P Index",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nike-retail-giant-no-longer-130036297.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-09-08T16:00:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/crypto-fear-greed-hit-74-130008554.html",
+   "baslik": "Crypto Fear and Greed Hit 74 While Bitcoin Trades Under $80,000. Is the Market Ahead of Itself?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-fear-greed-hit-74-130008554.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-09-08T16:00:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-marvell-technology-130001292.html",
+   "baslik": "Advanced Micro Devices and Marvell Technology Keep Growing Their Revenue. Here's What Else to Watch.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-marvell-technology-130001292.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-09-08T16:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/united-natural-foods-beats-q4-125452272.html",
+   "baslik": "United Natural Foods Beats Q4 Profit Forecast but Revenue Falls Short",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/united-natural-foods-beats-q4-125452272.html",
+   "saat": "15:54",
+   "tarih_iso": "2026-09-08T15:54:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-faces-growth-reset-125058886.html",
+   "baslik": "Roblox (RBLX) Faces a Growth Reset After Guidance Cuts — Is the Long-Term Story Still Intact?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-faces-growth-reset-125058886.html",
+   "saat": "15:50",
+   "tarih_iso": "2026-09-08T15:50:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/top-european-utilities-stocks-ubs-favors-these-3-names-right-now-93CH-4891707",
    "baslik": "Top European Utilities Stocks: UBS Favors These 3 Names Right Now",
@@ -963,6 +1156,16 @@
    "eklenme": "2026-09-08T14:30:56.271526+03:00"
   },
   {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Argentina to file criminal case against oil company operating in Falklands",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+   "saat": "14:09",
+   "tarih_iso": "2026-09-08T14:09:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/chip-stock-investors-beware-these-charts-could-warn-of-further-weakness-ahead-1bd890cc?mod=mw_rss_topstories",
    "baslik": "Chip stock investors beware — these charts could warn of further weakness ahead",
    "kaynak": "MarketWatch",
@@ -1371,189 +1574,29 @@
    "tarih_iso": "2026-09-08T12:54:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-08T14:01:06.083632+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/philippines-central-bank-eyes-12-095214532.html",
-   "baslik": "Philippines Central Bank Eyes 12-Month Freeze on New Payment Operator Licenses as Crypto Rules Tighten",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/philippines-central-bank-eyes-12-095214532.html",
-   "saat": "12:52",
-   "tarih_iso": "2026-09-08T12:52:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:28:51.286122+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/vaxcytes-ceo-parted-shares-taxes-094437802.html",
-   "baslik": "Vaxcyte's CEO Parted With Shares for Taxes. Here's What Long-Term Investors Should Know About the Firm",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/vaxcytes-ceo-parted-shares-taxes-094437802.html",
-   "saat": "12:44",
-   "tarih_iso": "2026-09-08T12:44:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:04:49.486516+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-amgen-stock-sliding-today-93CH-4891096",
-   "baslik": "Why is Amgen stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-amgen-stock-sliding-today-93CH-4891096",
-   "saat": "12:38",
-   "tarih_iso": "2026-09-08T12:38:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-investors-093500567.html",
-   "baslik": "If a Stock Market Crash Is Coming, Investors Will Want to Own This Dividend King",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-investors-093500567.html",
-   "saat": "12:35",
-   "tarih_iso": "2026-09-08T12:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-nutanix-stock-ascended-august-093402715.html",
-   "baslik": "Why Nutanix Stock Ascended in August",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-nutanix-stock-ascended-august-093402715.html",
-   "saat": "12:34",
-   "tarih_iso": "2026-09-08T12:34:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/sandoz-sees-biosimilar-expansion-driving-revenue-margins-through-2035-4890834",
-   "baslik": "Sandoz gains 5% as biosimilars fuel ambitious 2035 growth target",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/sandoz-sees-biosimilar-expansion-driving-revenue-margins-through-2035-4890834",
-   "saat": "12:33",
-   "tarih_iso": "2026-09-08T12:33:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dyne-therapeutics-stock-plummeting-today-93CH-4891086",
-   "baslik": "Why is Dyne Therapeutics stock plummeting today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-dyne-therapeutics-stock-plummeting-today-93CH-4891086",
-   "saat": "12:31",
-   "tarih_iso": "2026-09-08T12:31:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sigma-lithium-stock-sliding-today-93CH-4891085",
-   "baslik": "Why is Sigma Lithium stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sigma-lithium-stock-sliding-today-93CH-4891085",
-   "saat": "12:31",
-   "tarih_iso": "2026-09-08T12:31:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-surging-today-93CH-4891080",
-   "baslik": "Why is Bloom Energy stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-surging-today-93CH-4891080",
-   "saat": "12:30",
-   "tarih_iso": "2026-09-08T12:30:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ray-dalio-tripled-money-12-093000962.html",
-   "baslik": "Ray Dalio tripled his money at 12 on his first stock pick — then a bad call left him borrowing $4,000 from his dad",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-tripled-money-12-093000962.html",
-   "saat": "12:30",
-   "tarih_iso": "2026-09-08T12:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/premarket-movers-energy-stocks-rise-on-iran-tensions-eaton-jumps-on-ubs-upgrade-4891079",
-   "baslik": "Premarket movers: Energy stocks rise on Iran tensions, Eaton jumps on UBS upgrade",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/premarket-movers-energy-stocks-rise-on-iran-tensions-eaton-jumps-on-ubs-upgrade-4891079",
-   "saat": "12:29",
-   "tarih_iso": "2026-09-08T12:29:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-eaton-stock-rallying-today-93CH-4891078",
-   "baslik": "Why is Eaton stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-eaton-stock-rallying-today-93CH-4891078",
-   "saat": "12:27",
-   "tarih_iso": "2026-09-08T12:27:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-biontech-stock-sliding-today-93CH-4891077",
-   "baslik": "Why is BioNTech stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-biontech-stock-sliding-today-93CH-4891077",
-   "saat": "12:27",
-   "tarih_iso": "2026-09-08T12:27:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-svrn-stock-surging-today-93CH-4891073",
-   "baslik": "Why is SVRN stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-svrn-stock-surging-today-93CH-4891073",
-   "saat": "12:26",
-   "tarih_iso": "2026-09-08T12:26:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nvidia-palantir-meta-platforms-rattling-092601179.html",
-   "baslik": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-palantir-meta-platforms-rattling-092601179.html",
-   "saat": "12:26",
-   "tarih_iso": "2026-09-08T12:26:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ch-robinson-worldwide-stock-gaining-today-93CH-4891072",
-   "baslik": "Why is CH Robinson Worldwide stock gaining today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-ch-robinson-worldwide-stock-gaining-today-93CH-4891072",
-   "saat": "12:25",
-   "tarih_iso": "2026-09-08T12:25:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-old-dominion-freight-line-stock-rising-today-93CH-4891070",
-   "baslik": "Why is Old Dominion Freight Line stock rising today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-old-dominion-freight-line-stock-rising-today-93CH-4891070",
-   "saat": "12:22",
-   "tarih_iso": "2026-09-08T12:22:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T12:30:58.702076+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-trading-near-092002053.html",
-   "baslik": "3 Dividend Stocks Trading Near Their 52-Week Lows",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-trading-near-092002053.html",
-   "saat": "12:20",
-   "tarih_iso": "2026-09-08T12:20:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:01:02.383569+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.cnnturk.com/ekonomi/agustosta-yatirimcisina-en-cok-altin-kazandirdi-iste-reel-getiri-oranlari-3464301",
+   "baslik": "Ağustosta yatırımcısına en çok altın kazandırdı! İşte reel getiri oranları",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/agustosta-yatirimcisina-en-cok-altin-kazandirdi-iste-reel-getiri-oranlari-3464301",
+   "saat": "19:16",
+   "tarih_iso": "2026-09-08T19:16:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "alt-https://finance.yahoo.com/markets/commodities/articles/arizona-gold-silver-reports-broad-125600265.html",
+   "baslik": "Arizona Gold & Silver reports broad gold mineralization in three Perry Zone infill holes",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/arizona-gold-silver-reports-broad-125600265.html",
+   "saat": "15:56",
+   "tarih_iso": "2026-09-08T15:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-8-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3464203",
    "baslik": "ALTIN FİYATLARI 8 EYLÜL 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
@@ -1815,5 +1858,5 @@
    "eklenme": "2026-09-08T09:01:00.832098+03:00"
   }
  ],
- "guncelleme": "2026-09-08T16:01:04.302925+03:00"
+ "guncelleme": "2026-09-08T16:30:57.603012+03:00"
 }
