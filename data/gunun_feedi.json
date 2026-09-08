@@ -213,6 +213,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/sampiyonlar-liginde-yeni-sezon-basliyor-galatasaray-ve-fenerbahce-sahne-alacak-haberi-839126",
+   "baslik": "Şampiyonlar Ligi'nde yeni sezon başlıyor: Galatasaray ve Fenerbahçe sahne alacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/sampiyonlar-liginde-yeni-sezon-basliyor-galatasaray-ve-fenerbahce-sahne-alacak-haberi-839126",
+   "saat": "08:08",
+   "tarih_iso": "2026-09-08T08:08:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-08T08:30:54.144546+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/konyada-kamulastirma-ve-donusum-icin-256-milyar-tl-yatirim-yapildi-haberi-839096",
    "baslik": "Konya’da kamulaştırma ve dönüşüm için 25.6 milyar TL yatırım yapıldı",
    "kaynak": "Dünya",
@@ -552,6 +564,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
+   "baslik": "Cholesterol drug setback casts doubt over multibillion-dollar race",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
+   "saat": "08:00",
+   "tarih_iso": "2026-09-08T08:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T08:30:54.144546+03:00"
+  },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
    "baslik": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
@@ -1741,16 +1763,6 @@
    "tarih_iso": "2026-09-07T14:40:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-07T15:01:05.573482+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
-   "baslik": "Why the launch of OpenAI’s latest Astra model reignited the memory chip trade",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/why-the-launch-of-openais-latest-astra-model-reignited-the-memory-chip-trade-809e2edb?mod=mw_rss_topstories",
-   "saat": "14:36",
-   "tarih_iso": "2026-09-07T14:36:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T15:01:05.573482+03:00"
   }
  ],
  "altin_haber": [
@@ -2045,5 +2057,5 @@
    "eklenme": "2026-09-07T09:00:58.404411+03:00"
   }
  ],
- "guncelleme": "2026-09-08T08:00:59.372979+03:00"
+ "guncelleme": "2026-09-08T08:30:54.144546+03:00"
 }
