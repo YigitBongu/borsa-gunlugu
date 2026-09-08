@@ -2,6 +2,19 @@
  "tarih": "2026-09-08",
  "kap": [
   {
+   "id": "kap-my-AKBNK-202609081030",
+   "baslik": "AKBANK T.A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "AKBANK T.A.Ş.",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:30",
+   "tarih_iso": "2026-09-08T10:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-08T11:01:08.438129+03:00"
+  },
+  {
    "id": "kap-my-GARAN-202609080936",
    "baslik": "TÜRKİYE GARANTİ BANKASI A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "TÜRKİYE GARANTİ BANKASI A.Ş.",
@@ -91,6 +104,16 @@
    "eklenme": "2026-09-08T10:01:01.719734+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-eylulde-faiz-indirecek-mi-sp-globalden-degerlendirme-haberi-839156",
+   "baslik": "TCMB eylülde faiz indirecek mi? S&P Global'den değerlendirme",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-eylulde-faiz-indirecek-mi-sp-globalden-degerlendirme-haberi-839156",
+   "saat": "10:30",
+   "tarih_iso": "2026-09-08T10:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T11:01:08.438129+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/bitcoinde-kritik-sinav-bu-esik-asilirsa-hedef-100-bin-dolar-galeri-839128",
    "baslik": "Bitcoin'de kritik sınav: Bu eşik aşılırsa hedef 100 bin dolar",
    "kaynak": "Dünya",
@@ -142,6 +165,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kion-stock-rallying-today-93CH-4890921",
+   "baslik": "Why is Kion stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kion-stock-rallying-today-93CH-4890921",
+   "saat": "10:40",
+   "tarih_iso": "2026-09-08T10:40:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T11:01:08.438129+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/08/global-shipping-iran-war-hormuz-rules.html",
+   "baslik": "Global shipping authorities warn of maritime trade breakdown amid geopolitical turmoil",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/08/global-shipping-iran-war-hormuz-rules.html",
+   "saat": "10:28",
+   "tarih_iso": "2026-09-08T10:28:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T11:01:08.438129+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-computacenter-stock-surging-today-93CH-4890912",
+   "baslik": "Why is Computacenter stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-computacenter-stock-surging-today-93CH-4890912",
+   "saat": "10:26",
+   "tarih_iso": "2026-09-08T10:26:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T11:01:08.438129+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-flat-as-hormuz-tensions-grip-energy-markets-4890910",
+   "baslik": "FTSE 100 today: Stocks flat as Hormuz tensions grip energy markets",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-flat-as-hormuz-tensions-grip-energy-markets-4890910",
+   "saat": "10:24",
+   "tarih_iso": "2026-09-08T10:24:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T11:01:08.438129+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dunelm-stock-sliding-today-93CH-4890904",
    "baslik": "Why is Dunelm stock sliding today?",
@@ -515,5 +578,5 @@
    "eklenme": "2026-09-08T09:01:00.832098+03:00"
   }
  ],
- "guncelleme": "2026-09-08T10:30:55.747413+03:00"
+ "guncelleme": "2026-09-08T11:01:08.438129+03:00"
 }
