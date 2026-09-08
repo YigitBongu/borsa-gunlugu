@@ -311,6 +311,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/dow-vadeli-islemleri-fed-faiz-artrm-beklentileri-ve-yukselen-petrol-ile-geriledi-4056768",
+   "baslik": "Dow vadeli işlemleri Fed faiz artırımı beklentileri ve yükselen petrol ile geriledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/dow-vadeli-islemleri-fed-faiz-artrm-beklentileri-ve-yukselen-petrol-ile-geriledi-4056768",
+   "saat": "04:13",
+   "tarih_iso": "2026-09-08T04:13:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T04:30:50.487205+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/piyasalarin-gozu-merkez-bankasinda-yilin-6-faiz-karari-persembe-gunu-aciklanacak-3463972",
    "baslik": "Piyasaların gözü Merkez Bankası'nda: Yılın 6. Faiz kararı Perşembe günü açıklanacak",
    "kaynak": "CNN Türk Ekonomi",
@@ -522,6 +532,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dow-futures-slip-amid-fed-hike-bets-surging-oil-4890757",
+   "baslik": "Dow futures slip amid Fed hike bets, surging oil",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dow-futures-slip-amid-fed-hike-bets-surging-oil-4890757",
+   "saat": "04:13",
+   "tarih_iso": "2026-09-08T04:13:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T04:30:50.487205+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/trump-says-canadas-bombardier-cannot-sell-in-us-unless-it-builds-there-4890715",
    "baslik": "Trump says Canada’s Bombardier must build jets in US or lose market access",
@@ -1711,16 +1731,6 @@
    "tarih_iso": "2026-09-07T14:16:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-07T14:24:59.286863+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/lands-end-swings-back-profit-111112375.html",
-   "baslik": "Lands’ End swings back to profit in Q2 as net revenue rises 2.7%",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lands-end-swings-back-profit-111112375.html",
-   "saat": "14:11",
-   "tarih_iso": "2026-09-07T14:11:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T14:24:59.286863+03:00"
   }
  ],
  "altin_haber": [
@@ -1985,5 +1995,5 @@
    "eklenme": "2026-09-07T09:00:58.404411+03:00"
   }
  ],
- "guncelleme": "2026-09-08T04:00:58.507737+03:00"
+ "guncelleme": "2026-09-08T04:30:50.487205+03:00"
 }
