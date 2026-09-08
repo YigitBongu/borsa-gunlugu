@@ -311,6 +311,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-8-eylul-sali-doviz-kurlari-haberi-839120",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (8 Eylül Salı Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-8-eylul-sali-doviz-kurlari-haberi-839120",
+   "saat": "07:16",
+   "tarih_iso": "2026-09-08T07:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T07:30:55.518860+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/dow-vadeli-islemleri-fed-faiz-artrm-beklentileri-ve-yukselen-petrol-ile-geriledi-4056768",
    "baslik": "Dow vadeli işlemleri Fed faiz artırımı beklentileri ve yükselen petrol ile geriledi",
    "kaynak": "Investing TR",
@@ -532,6 +542,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/08/global-markets-shrug-off-shocks-hsbc-sees-what-could-break-the-streak.html",
+   "baslik": "Global markets keep shrugging off shocks. Here's what could break that streak, according to HSBC",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/08/global-markets-shrug-off-shocks-hsbc-sees-what-could-break-the-streak.html",
+   "saat": "07:02",
+   "tarih_iso": "2026-09-08T07:02:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T07:30:55.518860+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
    "baslik": "China's imports in August miss estimates as exports pick up pace amid calls for rebalancing trade",
@@ -1721,16 +1741,6 @@
    "tarih_iso": "2026-09-07T14:30:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-07T15:01:05.573482+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/oracle-fallen-nearly-20-2026-112546569.html",
-   "baslik": "Oracle Has Fallen Nearly 20% in 2026: One Wall Street Firm Says It’s Going to Double and Then Some",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oracle-fallen-nearly-20-2026-112546569.html",
-   "saat": "14:25",
-   "tarih_iso": "2026-09-07T14:25:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T15:01:05.573482+03:00"
   }
  ],
  "altin_haber": [
@@ -2005,5 +2015,5 @@
    "eklenme": "2026-09-07T09:00:58.404411+03:00"
   }
  ],
- "guncelleme": "2026-09-08T07:01:02.392434+03:00"
+ "guncelleme": "2026-09-08T07:30:55.518860+03:00"
 }
