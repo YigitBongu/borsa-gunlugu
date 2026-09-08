@@ -321,6 +321,16 @@
    "eklenme": "2026-09-08T07:30:55.518860+03:00"
   },
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/cin-merkez-bankas-altn-rezervlerini-2023ten-beri-en-fazla-artrd-93CH-4056778",
+   "baslik": "Çin merkez bankası altın rezervlerini 2023’ten beri en fazla artırdı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/cin-merkez-bankas-altn-rezervlerini-2023ten-beri-en-fazla-artrd-93CH-4056778",
+   "saat": "06:10",
+   "tarih_iso": "2026-09-08T06:10:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T08:00:59.372979+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/dow-vadeli-islemleri-fed-faiz-artrm-beklentileri-ve-yukselen-petrol-ile-geriledi-4056768",
    "baslik": "Dow vadeli işlemleri Fed faiz artırımı beklentileri ve yükselen petrol ile geriledi",
    "kaynak": "Investing TR",
@@ -543,6 +553,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+   "saat": "07:39",
+   "tarih_iso": "2026-09-08T07:39:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T08:00:59.372979+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/08/global-markets-shrug-off-shocks-hsbc-sees-what-could-break-the-streak.html",
    "baslik": "Global markets keep shrugging off shocks. Here's what could break that streak, according to HSBC",
    "kaynak": "CNBC",
@@ -551,6 +571,16 @@
    "tarih_iso": "2026-09-08T07:02:43+03:00",
    "kodlar": [],
    "eklenme": "2026-09-08T07:30:55.518860+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chinas-central-bank-boosts-gold-reserves-by-most-since-2023-93CH-4890776",
+   "baslik": "China’s central bank boosts gold reserves by most since 2023",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chinas-central-bank-boosts-gold-reserves-by-most-since-2023-93CH-4890776",
+   "saat": "06:09",
+   "tarih_iso": "2026-09-08T06:09:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T08:00:59.372979+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/08/china-exports-imports-august-trade-rebalance-demand-surplus-.html",
@@ -1721,26 +1751,6 @@
    "tarih_iso": "2026-09-07T14:36:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-07T15:01:05.573482+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/genesco-raises-fy27-profit-target-113010954.html",
-   "baslik": "Genesco raises FY27 profit target despite revenue slump",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/genesco-raises-fy27-profit-target-113010954.html",
-   "saat": "14:30",
-   "tarih_iso": "2026-09-07T14:30:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T15:01:05.573482+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/target-raised-dividend-every-market-113000058.html",
-   "baslik": "Target Has Raised Its Dividend Through Every Market Crash Since 1971. Should Income Investors Still Buy It?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/target-raised-dividend-every-market-113000058.html",
-   "saat": "14:30",
-   "tarih_iso": "2026-09-07T14:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-07T15:01:05.573482+03:00"
   }
  ],
  "altin_haber": [
@@ -1753,6 +1763,26 @@
    "tarih_iso": "2026-09-08T06:15:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-08T07:01:02.392434+03:00"
+  },
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/cin-merkez-bankas-altn-rezervlerini-2023ten-beri-en-fazla-artrd-93CH-4056778",
+   "baslik": "Çin merkez bankası altın rezervlerini 2023’ten beri en fazla artırdı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/cin-merkez-bankas-altn-rezervlerini-2023ten-beri-en-fazla-artrd-93CH-4056778",
+   "saat": "06:10",
+   "tarih_iso": "2026-09-08T06:10:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T08:00:59.372979+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/chinas-central-bank-boosts-gold-reserves-by-most-since-2023-93CH-4890776",
+   "baslik": "China’s central bank boosts gold reserves by most since 2023",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chinas-central-bank-boosts-gold-reserves-by-most-since-2023-93CH-4890776",
+   "saat": "06:09",
+   "tarih_iso": "2026-09-08T06:09:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T08:00:59.372979+03:00"
   },
   {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/yeni-haftada-altin-fiyati-ne-olacak-3464008",
@@ -2015,5 +2045,5 @@
    "eklenme": "2026-09-07T09:00:58.404411+03:00"
   }
  ],
- "guncelleme": "2026-09-08T07:30:55.518860+03:00"
+ "guncelleme": "2026-09-08T08:00:59.372979+03:00"
 }
