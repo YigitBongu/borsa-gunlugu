@@ -2,6 +2,45 @@
  "tarih": "2026-09-08",
  "kap": [
   {
+   "id": "kap-my-ASTOR-202609081940",
+   "baslik": "ASTOR ENERJİ A.Ş. — Finansal Duran Varlık Satışı",
+   "sirket": "ASTOR ENERJİ A.Ş.",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:40",
+   "tarih_iso": "2026-09-08T19:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
+  },
+  {
+   "id": "kap-my-AHGAZ-202609081830",
+   "baslik": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:30",
+   "tarih_iso": "2026-09-08T18:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
+  },
+  {
+   "id": "kap-my-CWENE-202609081819",
+   "baslik": "BULLS PORTFÖY YÖNETİMİ A.Ş. — Pay Alım Satım Bildirimi",
+   "sirket": "BULLS PORTFÖY YÖNETİMİ A.Ş.",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:19",
+   "tarih_iso": "2026-09-08T18:19:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
+  },
+  {
    "id": "kap-my-YYLGD-202609081810",
    "baslik": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
    "sirket": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş.",
@@ -133,6 +172,30 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/eski-fenerbahceli-basketbolcu-ferhan-baras-hayatini-kaybetti-haberi-839256",
+   "baslik": "Eski Fenerbahçeli basketbolcu Ferhan Baras, hayatını kaybetti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/eski-fenerbahceli-basketbolcu-ferhan-baras-hayatini-kaybetti-haberi-839256",
+   "saat": "21:08",
+   "tarih_iso": "2026-09-08T21:08:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/aziz-yildirim-kerem-akturkoglu-vlahovic-pfdkya-sevk-edildi-haberi-839253",
+   "baslik": "Aziz Yıldırım, Kerem Aktürkoğlu, Vlahovic, PFDK'ya sevk edildi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/aziz-yildirim-kerem-akturkoglu-vlahovic-pfdkya-sevk-edildi-haberi-839253",
+   "saat": "20:35",
+   "tarih_iso": "2026-09-08T20:35:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsandan-polonyada-yeni-ihracat-sozlesmesi/4050950",
    "baslik": "ASELSAN'dan Polonya'da yeni ihracat sözleşmesi",
@@ -279,6 +342,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/cognition-ai-48-milyar-dolar-degerlemede-2-milyar-dolar-toplad-93CH-4058234",
+   "baslik": "Cognition AI, 48 milyar dolar değerlemede 2 milyar dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/cognition-ai-48-milyar-dolar-degerlemede-2-milyar-dolar-toplad-93CH-4058234",
+   "saat": "22:42",
+   "tarih_iso": "2026-09-08T22:42:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/abdde-tuketicilerin-enflasyon-beklentisi-yuzde-36-oldu-haberi-839239",
+   "baslik": "ABD'de tüketicilerin enflasyon beklentisi yüzde 3,6 oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/abdde-tuketicilerin-enflasyon-beklentisi-yuzde-36-oldu-haberi-839239",
+   "saat": "18:48",
+   "tarih_iso": "2026-09-08T18:48:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-839234",
+   "baslik": "Borsa İstanbul günü yükselişle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-839234",
+   "saat": "18:31",
+   "tarih_iso": "2026-09-08T18:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/celero-communications-yapay-zeka-cipi-talebindeki-buyumeyle-275-milyon-dolar-toplad-93CH-4057978",
    "baslik": "Celero Communications yapay zeka çipi talebindeki büyümeyle 275 milyon dolar topladı",
@@ -472,6 +565,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-117-4892417",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.17%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-117-4892417",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-08T23:30:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-107-4892416",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 1.07%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-107-4892416",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-08T23:30:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-120-4892413",
+   "baslik": "Brazil stocks higher at close of trade; Bovespa up 1.20%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-120-4892413",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-08T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/refining-bottlenecks-are-emerging-as-the-next-big-oil-problem-as-middle-east-skirmishes-flare-up-24528e22?mod=mw_rss_topstories",
    "baslik": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up",
    "kaynak": "MarketWatch",
@@ -480,6 +603,16 @@
    "tarih_iso": "2026-09-08T23:28:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-08T23:30:49.633754+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/08/bloom-energy-is-trading-more-options-than-spacex.html",
+   "baslik": "This alternative energy stock is more popular than SpaceX in the options pits. Here's why",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/08/bloom-energy-is-trading-more-options-than-spacex.html",
+   "saat": "23:23",
+   "tarih_iso": "2026-09-08T23:23:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T00:01:01.317552+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/novartiss-failed-trial-for-cholesterol-drug-leads-to-broad-biopharma-selloff-2d487746?mod=mw_rss_topstories",
@@ -1630,46 +1763,6 @@
    "tarih_iso": "2026-09-08T17:31:33+03:00",
    "kodlar": [],
    "eklenme": "2026-09-08T17:43:10.106421+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/bombardier-shares-fall-after-trump-threatens-us-market-access-4891971",
-   "baslik": "Bombardier shares fall after Trump threatens US market access",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/bombardier-shares-fall-after-trump-threatens-us-market-access-4891971",
-   "saat": "17:30",
-   "tarih_iso": "2026-09-08T17:30:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T17:43:10.106421+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-pulling-back-high-143015661.html",
-   "baslik": "Alphabet Stock Is Pulling Back From Its High. Here’s Why I’d Buy the Dip.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-pulling-back-high-143015661.html",
-   "saat": "17:30",
-   "tarih_iso": "2026-09-08T17:30:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T17:43:10.106421+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
-   "baslik": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
-   "saat": "17:30",
-   "tarih_iso": "2026-09-08T17:30:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T17:43:10.106421+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/forgent-power-solutions-may-see-15-move-on-sept-15-earnings-93CH-4891964",
-   "baslik": "Forgent Power Solutions may see 15% move on Sept. 15 earnings",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/forgent-power-solutions-may-see-15-move-on-sept-15-earnings-93CH-4891964",
-   "saat": "17:27",
-   "tarih_iso": "2026-09-08T17:27:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T17:43:10.106421+03:00"
   }
  ],
  "altin_haber": [
@@ -1984,5 +2077,5 @@
    "eklenme": "2026-09-08T09:01:00.832098+03:00"
   }
  ],
- "guncelleme": "2026-09-08T23:30:49.633754+03:00"
+ "guncelleme": "2026-09-09T00:01:01.317552+03:00"
 }
