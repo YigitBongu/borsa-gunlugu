@@ -2,6 +2,19 @@
  "tarih": "2026-09-08",
  "kap": [
   {
+   "id": "kap-my-TCELL-202609081617",
+   "baslik": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+   "kodlar": [
+    "TCELL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:17",
+   "tarih_iso": "2026-09-08T16:17:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
    "id": "kap-my-AKSA-202609081544",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -81,6 +94,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsandan-polonyada-yeni-ihracat-sozlesmesi/4050950",
+   "baslik": "ASELSAN'dan Polonya'da yeni ihracat sözleşmesi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/aselsandan-polonyada-yeni-ihracat-sozlesmesi/4050950",
+   "saat": "16:35",
+   "tarih_iso": "2026-09-08T16:35:20+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/dogustan-otomotiv-odakli-yeni-ilan-platformu-3911081",
    "baslik": "Doğuş’tan otomotiv odaklı yeni ilan platformu",
@@ -203,6 +228,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/enerji/bofadan-petrolde-150-dolar-senaryosu-haberi-839211",
+   "baslik": "BofA'dan Petrolde 150 dolar senaryosu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/enerji/bofadan-petrolde-150-dolar-senaryosu-haberi-839211",
+   "saat": "16:36",
+   "tarih_iso": "2026-09-08T16:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/ecbde-faiz-icin-kritik-hafta-ekonomistler-ayni-noktada-bulustu-haberi-839208",
    "baslik": "ECB'de faiz için kritik hafta: Ekonomistler aynı noktada buluştu",
@@ -376,6 +411,136 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
+   "baslik": "Qualcomm’s stock climbs as Amazon chip deal offers investors some much-needed good news",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/qualcomms-stock-climbs-as-amazon-chip-deal-offers-investors-some-much-needed-good-news-5b6a95ca?mod=mw_rss_topstories",
+   "saat": "16:46",
+   "tarih_iso": "2026-09-08T16:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/torrent-green-energy-commissions-322mwp-134429699.html",
+   "baslik": "Torrent Green Energy commissions 322MWp of solar projects in India",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/torrent-green-energy-commissions-322mwp-134429699.html",
+   "saat": "16:44",
+   "tarih_iso": "2026-09-08T16:44:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dow-drops-500-points-oil-134409139.html",
+   "baslik": "Dow drops 500 points as oil nears $100 amid Iran war",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dow-drops-500-points-oil-134409139.html",
+   "saat": "16:44",
+   "tarih_iso": "2026-09-08T16:44:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nebius-stock-rallying-today-93CH-4891870",
+   "baslik": "Why is Nebius stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-rallying-today-93CH-4891870",
+   "saat": "16:41",
+   "tarih_iso": "2026-09-08T16:41:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/intel-upgraded-reddit-initiated-wall-140337510.html",
+   "baslik": "SpaceX initiated, Intel upgraded: Wall Street's top analyst calls",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/intel-upgraded-reddit-initiated-wall-140337510.html",
+   "saat": "16:38",
+   "tarih_iso": "2026-09-08T16:38:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-8-133744027.html",
+   "baslik": "Stock Market Today (Sept. 8, 2026): S&P 500 edges lower as oil prices climb, Mideast tensions rise",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-8-133744027.html",
+   "saat": "16:37",
+   "tarih_iso": "2026-09-08T16:37:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/chase-salesforce-rally-closer-look-133742988.html",
+   "baslik": "Before You Chase Salesforce’s Rally, Take a Closer Look at Its Latest Earnings Beat",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/chase-salesforce-rally-closer-look-133742988.html",
+   "saat": "16:37",
+   "tarih_iso": "2026-09-08T16:37:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-mixed-at-open-as-gulf-tensions-send-oil-to-over-sixweek-high-4891855",
+   "baslik": "Wall St mixed at open as Gulf tensions send oil to over six-week high",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-mixed-at-open-as-gulf-tensions-send-oil-to-over-sixweek-high-4891855",
+   "saat": "16:37",
+   "tarih_iso": "2026-09-08T16:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-133500838.html",
+   "baslik": "If a Stock Market Crash Is Coming, History Says You'll Survive If You Make This Move (Hint: It Does Not Mean Going to Cash)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-history-133500838.html",
+   "saat": "16:35",
+   "tarih_iso": "2026-09-08T16:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/opec-lost-control-oil-market-133300099.html",
+   "baslik": "OPEC+ has lost control of the oil market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/opec-lost-control-oil-market-133300099.html",
+   "saat": "16:33",
+   "tarih_iso": "2026-09-08T16:33:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/08/pharma-tariffs-trump-generic-drugs-sandoz-cmd-stock.html",
+   "baslik": "'Patients pay the tariff': Swiss pharma CEO warns of Trump's generic drug tariff threat",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/08/pharma-tariffs-trump-generic-drugs-sandoz-cmd-stock.html",
+   "saat": "16:31",
+   "tarih_iso": "2026-09-08T16:31:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/verizon-stock-near-52-week-133039183.html",
+   "baslik": "Verizon Stock Is Near a 52-Week High. Here’s Why I’m Still Bullish.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/verizon-stock-near-52-week-133039183.html",
+   "saat": "16:30",
+   "tarih_iso": "2026-09-08T16:30:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/grounded-falling-why-one-wall-132959076.html",
+   "baslik": "Grounded and Falling: Why One Wall Street Pro Says Rocket Lab Will More Than Double Soon",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/grounded-falling-why-one-wall-132959076.html",
+   "saat": "16:29",
+   "tarih_iso": "2026-09-08T16:29:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-corning-stock-surging-today-93CH-4891812",
    "baslik": "Why is Corning stock surging today?",
    "kaynak": "Investing.com",
@@ -534,6 +699,16 @@
    "tarih_iso": "2026-09-08T15:54:52+03:00",
    "kodlar": [],
    "eklenme": "2026-09-08T16:30:57.603012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/live/tech-stocks-today-apple-kicks-off-new-era-wednesday-anthropic-s1-watch-125343211.html",
+   "baslik": "Tech stocks today: Apple kicks off new era Wednesday, Anthropic S1 watch",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-kicks-off-new-era-wednesday-anthropic-s1-watch-125343211.html",
+   "saat": "15:53",
+   "tarih_iso": "2026-09-08T15:53:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-08T17:01:06.207325+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/roblox-rblx-faces-growth-reset-125058886.html",
@@ -1434,146 +1609,6 @@
    "tarih_iso": "2026-09-08T13:20:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-08T14:01:06.083632+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/world/middle-east/yemens-houthi-militants-attack-saudi-energy-infrastructure-067fa4f7?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Yemen’s Houthi Militants Attack Saudi Energy Infrastructure",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/world/middle-east/yemens-houthi-militants-attack-saudi-energy-infrastructure-067fa4f7?siteid=yhoof2&yptr=yahoo",
-   "saat": "13:14",
-   "tarih_iso": "2026-09-08T13:14:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T14:01:06.083632+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-biohaven-pharmaceutical-stock-sliding-today-93CH-4891206",
-   "baslik": "Why is Biohaven Pharmaceutical stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-biohaven-pharmaceutical-stock-sliding-today-93CH-4891206",
-   "saat": "13:12",
-   "tarih_iso": "2026-09-08T13:12:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:28:51.286122+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-upgrades-this-uk-energy-stock-on-improved-riskreward-post-2026-weakness-4891205",
-   "baslik": "Jefferies upgrades this UK energy stock on improved risk-reward post 2026 weakness",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/jefferies-upgrades-this-uk-energy-stock-on-improved-riskreward-post-2026-weakness-4891205",
-   "saat": "13:12",
-   "tarih_iso": "2026-09-08T13:12:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:28:51.286122+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/u-energy-stocks-rise-premarket-101216428.html",
-   "baslik": "U.S. Energy Stocks Rise Premarket as Brent Approaches $100",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/u-energy-stocks-rise-premarket-101216428.html",
-   "saat": "13:12",
-   "tarih_iso": "2026-09-08T13:12:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T14:01:06.083632+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/finance/stocks/does-your-portfolio-need-an-inflation-tax-break-b65f4441?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Does Your Portfolio Need an Inflation Tax Break?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/finance/stocks/does-your-portfolio-need-an-inflation-tax-break-b65f4441?siteid=yhoof2&yptr=yahoo",
-   "saat": "13:11",
-   "tarih_iso": "2026-09-08T13:11:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T14:01:06.083632+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/fantastic-news-tesla-stock-investors-100501621.html",
-   "baslik": "Fantastic News for Tesla Stock Investors!",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fantastic-news-tesla-stock-investors-100501621.html",
-   "saat": "13:05",
-   "tarih_iso": "2026-09-08T13:05:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:28:51.286122+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/funding-circle-h1-earnings-call-100204420.html",
-   "baslik": "Funding Circle H1 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/funding-circle-h1-earnings-call-100204420.html",
-   "saat": "13:02",
-   "tarih_iso": "2026-09-08T13:02:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:28:51.286122+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/small-business/articles/why-investors-looking-africa-packaging-100030908.html",
-   "baslik": "Why investors are looking to Africa’s packaging industry for growth",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/small-business/articles/why-investors-looking-africa-packaging-100030908.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-08T13:00:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:28:51.286122+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-8-2026-rates-down-to-start-holiday-shortened-week-100000204.html",
-   "baslik": "Mortgage and refinance interest rates today, Tuesday, September 8, 2026: Rates down to start holiday-shortened week",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-september-8-2026-rates-down-to-start-holiday-shortened-week-100000204.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-08T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:28:51.286122+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-8-2026-lock-in-up-to-435-apy-100000360.html",
-   "baslik": "Best CD rates today, Tuesday, September 8, 2026: Lock in up to 4.35% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-tuesday-september-8-2026-lock-in-up-to-435-apy-100000360.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-08T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:28:51.286122+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/80-mile-share-price-climbs-100000209.html",
-   "baslik": "80 Mile share price climbs 7% as Greenland Energy sets merger terms",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/80-mile-share-price-climbs-100000209.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-08T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T14:01:06.083632+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/vaxcyte-executive-just-cashed-options-095757341.html",
-   "baslik": "A Vaxcyte Executive Just Cashed Options Struck at $5.35. Here's What Long-Term Investors Should Know",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vaxcyte-executive-just-cashed-options-095757341.html",
-   "saat": "12:57",
-   "tarih_iso": "2026-09-08T12:57:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:28:51.286122+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/amazon-hires-banks-for-first-sterling-bond-sale-93CH-4891162",
-   "baslik": "Amazon hires banks for first sterling bond sale",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/amazon-hires-banks-for-first-sterling-bond-sale-93CH-4891162",
-   "saat": "12:57",
-   "tarih_iso": "2026-09-08T12:57:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T13:04:49.486516+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/finance/investing/investors-brace-for-a-choppier-fall-as-the-fed-inflation-return-to-center-stage-81f6f11f?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Investors Brace for a Choppier Fall as the Fed, Inflation Return to Center Stage",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/finance/investing/investors-brace-for-a-choppier-fall-as-the-fed-inflation-return-to-center-stage-81f6f11f?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:54",
-   "tarih_iso": "2026-09-08T12:54:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T14:01:06.083632+03:00"
   }
  ],
  "altin_haber": [
@@ -1858,5 +1893,5 @@
    "eklenme": "2026-09-08T09:01:00.832098+03:00"
   }
  ],
- "guncelleme": "2026-09-08T16:30:57.603012+03:00"
+ "guncelleme": "2026-09-08T17:01:06.207325+03:00"
 }
