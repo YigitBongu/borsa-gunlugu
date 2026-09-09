@@ -2,6 +2,19 @@
  "tarih": "2026-09-09",
  "kap": [
   {
+   "id": "kap-my-GLYHO-202609090933",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:33",
+   "tarih_iso": "2026-09-09T09:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-09T10:01:03.295862+03:00"
+  },
+  {
    "id": "kap-my-CWENE-202609090908",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -43,6 +56,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fb-sampiyonlar-lig-maci-bugun-mu-yarin-mi-fenerbahce-roma-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-839295",
+   "baslik": "FB Şampiyonlar Lig maçı bugün mü, yarın mı? Fenerbahçe - Roma maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fb-sampiyonlar-lig-maci-bugun-mu-yarin-mi-fenerbahce-roma-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-839295",
+   "saat": "09:36",
+   "tarih_iso": "2026-09-09T09:36:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-09T10:01:03.295862+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/thyden-ingiltere-seferleri-icin-yolcularina-uyari-haberi-839268",
    "baslik": "THY'den İngiltere seferleri için yolcularına uyarı",
    "kaynak": "Dünya",
@@ -56,6 +81,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-trpos-odeme-kurulusu-as-nin-faaliyet-iznini-iptal-etti/4051638",
+   "baslik": "TCMB, TRPOS Ödeme Kuruluşu AŞ’nin faaliyet iznini iptal etti",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-trpos-odeme-kurulusu-as-nin-faaliyet-iznini-iptal-etti/4051638",
+   "saat": "09:42",
+   "tarih_iso": "2026-09-09T09:42:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:01:03.295862+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/gundem/borsa-istanbulda-9-pay-icin-manipulasyon-sorusturmasi-4-gozalti-haberi-839293",
    "baslik": "Borsa İstanbul'da 9 pay için manipülasyon soruşturması: 4 gözaltı",
@@ -521,5 +556,5 @@
    "eklenme": "2026-09-09T09:01:02.368103+03:00"
   }
  ],
- "guncelleme": "2026-09-09T09:30:54.134091+03:00"
+ "guncelleme": "2026-09-09T10:01:03.295862+03:00"
 }
