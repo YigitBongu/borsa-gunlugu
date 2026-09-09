@@ -2,6 +2,32 @@
  "tarih": "2026-09-09",
  "kap": [
   {
+   "id": "kap-my-CWENE-202609090908",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:08",
+   "tarih_iso": "2026-09-09T09:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-09T09:30:54.134091+03:00"
+  },
+  {
+   "id": "kap-my-TKFEN-202609090907",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:07",
+   "tarih_iso": "2026-09-09T09:07:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-09T09:30:54.134091+03:00"
+  },
+  {
    "id": "kap-my-ASTOR-202609081940",
    "baslik": "ASTOR ENERJİ A.Ş. — Finansal Duran Varlık Satışı",
    "sirket": "ASTOR ENERJİ A.Ş.",
@@ -30,6 +56,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/borsa-istanbulda-9-pay-icin-manipulasyon-sorusturmasi-4-gozalti-haberi-839293",
+   "baslik": "Borsa İstanbul'da 9 pay için manipülasyon soruşturması: 4 gözaltı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/borsa-istanbulda-9-pay-icin-manipulasyon-sorusturmasi-4-gozalti-haberi-839293",
+   "saat": "09:28",
+   "tarih_iso": "2026-09-09T09:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T09:30:54.134091+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/haberler/kuresel-borsalarda-faiz-baskisi-buyuyor-teknoloji-hisseleri-ayrisiyor-haberi-839281",
    "baslik": "Küresel borsalarda faiz baskısı büyüyor, teknoloji hisseleri ayrışıyor",
@@ -83,6 +119,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nexteq-reports-34-revenue-decline-in-first-half-on-gaming-weakness-93CH-4892728",
+   "baslik": "Nexteq reports 34% revenue decline in first half on gaming weakness",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nexteq-reports-34-revenue-decline-in-first-half-on-gaming-weakness-93CH-4892728",
+   "saat": "09:18",
+   "tarih_iso": "2026-09-09T09:18:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T09:30:54.134091+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/netacea-reports-42-revenue-growth-in-first-half-of-2026-93CH-4892727",
+   "baslik": "Netacea reports 42% revenue growth in first half of 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/netacea-reports-42-revenue-growth-in-first-half-of-2026-93CH-4892727",
+   "saat": "09:18",
+   "tarih_iso": "2026-09-09T09:18:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T09:30:54.134091+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/purplebricks-reports-7-revenue-growth-in-challenging-uk-market-93CH-4892725",
+   "baslik": "Purplebricks reports 7% revenue growth in challenging UK market",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/purplebricks-reports-7-revenue-growth-in-challenging-uk-market-93CH-4892725",
+   "saat": "09:16",
+   "tarih_iso": "2026-09-09T09:16:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T09:30:54.134091+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-006-4892714",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.06%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-006-4892714",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-09T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T09:30:54.134091+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
    "baslik": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
    "kaynak": "CNBC",
@@ -91,6 +167,16 @@
    "tarih_iso": "2026-09-09T08:55:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-09T09:01:02.368103+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-austal-stock-surging-today-93CH-4892711",
+   "baslik": "Why is Austal stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-austal-stock-surging-today-93CH-4892711",
+   "saat": "08:40",
+   "tarih_iso": "2026-09-09T08:40:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T09:30:54.134091+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/09/fx-currencies-interest-rate-hikes.html",
@@ -435,5 +521,5 @@
    "eklenme": "2026-09-09T09:01:02.368103+03:00"
   }
  ],
- "guncelleme": "2026-09-09T09:01:02.368103+03:00"
+ "guncelleme": "2026-09-09T09:30:54.134091+03:00"
 }
