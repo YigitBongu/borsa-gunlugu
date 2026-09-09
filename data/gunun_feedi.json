@@ -2,6 +2,19 @@
  "tarih": "2026-09-09",
  "kap": [
   {
+   "id": "kap-my-EUPWR-202609091051",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:51",
+   "tarih_iso": "2026-09-09T10:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-09T11:30:51.910859+03:00"
+  },
+  {
    "id": "kap-my-MIATK-202609091000",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -106,6 +119,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-hangi-gun-aciklaniyor-haberi-839311",
+   "baslik": "ABD enflasyon rakamları ne zaman, hangi gün açıklanıyor?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-hangi-gun-aciklaniyor-haberi-839311",
+   "saat": "11:02",
+   "tarih_iso": "2026-09-09T11:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T11:30:51.910859+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-bugun-mu-yarin-mi-aciklanacak-mb-faiz-karari-ne-zaman-saat-kacta-aciklaniyor-haberi-839304",
    "baslik": "Merkez Bankası faiz kararı bugün mü, yarın mı açıklanacak? MB faiz kararı ne zaman, saat kaçta açıklanıyor?",
@@ -218,6 +241,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+   "baslik": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+   "saat": "11:22",
+   "tarih_iso": "2026-09-09T11:22:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T11:30:51.910859+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-victrex-stock-surging-today-93CH-4892871",
+   "baslik": "Why is Victrex stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-victrex-stock-surging-today-93CH-4892871",
+   "saat": "11:15",
+   "tarih_iso": "2026-09-09T11:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T11:30:51.910859+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-oil-stocks-jump-as-mideast-escalation-pushes-crude-toward-100-4892864",
+   "baslik": "European oil stocks jump as Mideast escalation pushes crude toward $100",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-oil-stocks-jump-as-mideast-escalation-pushes-crude-toward-100-4892864",
+   "saat": "11:09",
+   "tarih_iso": "2026-09-09T11:09:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T11:30:51.910859+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-beiersdorf-stock-sliding-today-93CH-4892856",
+   "baslik": "Why is Beiersdorf stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-beiersdorf-stock-sliding-today-93CH-4892856",
+   "saat": "11:05",
+   "tarih_iso": "2026-09-09T11:05:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T11:30:51.910859+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/09/mitsui-chairman-yen-markets-hormuz.html",
+   "baslik": "Volatile yen risks ‘confused’ global markets, chairman of Japanese shipping giant says",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/09/mitsui-chairman-yen-markets-hormuz.html",
+   "saat": "11:00",
+   "tarih_iso": "2026-09-09T11:00:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T11:30:51.910859+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/zara-owner-inditex-reports-strong-august-trading-amid-heatwaves-4892713",
    "baslik": "Zara owner Inditex reports profit miss despite strong August sales",
@@ -701,6 +774,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-breaks-out-of-summer-consolidation-but-a-new-rally-is-yet-to-be-confirmed-200687297",
+   "baslik": "Gold Breaks Out of Summer Consolidation, but a New Rally Is Yet to Be Confirmed",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-breaks-out-of-summer-consolidation-but-a-new-rally-is-yet-to-be-confirmed-200687297",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-09T11:30:51.910859+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-tests-key-levels-as-rising-fed-rate-hike-bets-may-extend-selling-pressure-200687344",
    "baslik": "Gold Tests Key Levels as Rising Fed Rate Hike Bets May Extend Selling Pressure",
    "kaynak": "Investing Emtia",
@@ -811,5 +894,5 @@
    "eklenme": "2026-09-09T09:01:02.368103+03:00"
   }
  ],
- "guncelleme": "2026-09-09T11:01:06.283346+03:00"
+ "guncelleme": "2026-09-09T11:30:51.910859+03:00"
 }
