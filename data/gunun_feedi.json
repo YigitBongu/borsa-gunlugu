@@ -82,6 +82,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/is-bankasi-ile-burgan-banktan-is-birligi-3911275",
+   "baslik": "İş Bankası ile Burgan Bank’tan iş birliği",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/is-bankasi-ile-burgan-banktan-is-birligi-3911275",
+   "saat": "11:55",
+   "tarih_iso": "2026-09-09T11:55:57+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-09-09T12:30:58.206448+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/thy-den-ingiltere-seferleri-icin-yolcularina-uyari-3911246",
    "baslik": "THY'den İngiltere yolcularına uyarı",
    "kaynak": "Habertürk Ekonomi",
@@ -128,6 +140,16 @@
    "tarih_iso": "2026-09-09T14:46:32+03:00",
    "kodlar": [],
    "eklenme": "2026-09-09T12:01:07.225486+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/ecb-ikinci-faiz-artirimina-hazirlaniyor-enerji-fiyatlari-enflasyon-baskisini-artirdi-haberi-839319",
+   "baslik": "ECB ikinci faiz artırımına hazırlanıyor: Enerji fiyatları enflasyon baskısını artırdı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/ecb-ikinci-faiz-artirimina-hazirlaniyor-enerji-fiyatlari-enflasyon-baskisini-artirdi-haberi-839319",
+   "saat": "12:02",
+   "tarih_iso": "2026-09-09T12:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T12:30:58.206448+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-enflasyonist-baskilarin-golgesinde-bu-yilin-ikinci-faiz-artirimina-hazirlaniyor/4051740",
@@ -261,6 +283,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+   "baslik": "Dow Jones Futures Fall As Brent Oil Prices Hit $100, Apple iPhone Event Due; AMD, HPE Are New Buys",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+   "saat": "12:09",
+   "tarih_iso": "2026-09-09T12:09:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T12:30:58.206448+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nn-stock-falling-today-93CH-4892906",
    "baslik": "Why is NN stock falling today?",
@@ -834,6 +866,16 @@
    "eklenme": "2026-09-09T12:01:07.225486+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-rises-but-will-downtrend-line-halt-the-rally-200687352",
+   "baslik": "Gold Rises, but Will Downtrend Line Halt the Rally?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-rises-but-will-downtrend-line-halt-the-rally-200687352",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-09T12:30:58.206448+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altinin-ezberi-bozuldu-piyasalarda-denklem-degisti-galeri-839315",
    "baslik": "Altının ezberi bozuldu: Piyasalarda denklem değişti",
    "kaynak": "Dünya",
@@ -964,5 +1006,5 @@
    "eklenme": "2026-09-09T09:01:02.368103+03:00"
   }
  ],
- "guncelleme": "2026-09-09T12:01:07.225486+03:00"
+ "guncelleme": "2026-09-09T12:30:58.206448+03:00"
 }
