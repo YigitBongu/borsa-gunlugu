@@ -82,6 +82,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/son-dakika-ozgur-celik-hakkinda-sorusturma-baslatildi-haberi-839354",
+   "baslik": "Son dakika: Özgür Çelik hakkında soruşturma başlatıldı!",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/son-dakika-ozgur-celik-hakkinda-sorusturma-baslatildi-haberi-839354",
+   "saat": "15:39",
+   "tarih_iso": "2026-09-09T15:39:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/hulya-turkmen-belirsizligi-beklemek-yerine-planli-hareket-etmek-gerekiyor-3911338",
    "baslik": "\"Belirsizliği beklemek yerine planlı hareket etmek gerekiyor\"",
    "kaynak": "Habertürk Ekonomi",
@@ -154,6 +166,16 @@
    "eklenme": "2026-09-09T14:30:57.116621+03:00"
   },
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/orion180-halka-arzda-340-milyon-dolar-toplamay-hedefliyor-93CH-4059492",
+   "baslik": "Orion180 halka arzda 340 milyon dolar toplamayı hedefliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/orion180-halka-arzda-340-milyon-dolar-toplamay-hedefliyor-93CH-4059492",
+   "saat": "15:34",
+   "tarih_iso": "2026-09-09T15:34:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/tuik-acikladi-iste-yatirim-araclarinin-agustos-performansi-3464565",
    "baslik": "Ekonomist Bayram’dan faiz mesajı | Altın için kritik uyarı: Dolar endeksine dikkat!",
    "kaynak": "CNN Türk Ekonomi",
@@ -182,6 +204,16 @@
    "tarih_iso": "2026-09-09T13:31:30+03:00",
    "kodlar": [],
    "eklenme": "2026-09-09T13:39:46.895495+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-trpos-odeme-kurulusu-asnin-faaliyet-iznini-iptal-etti-3464537",
+   "baslik": "TCMB, TRPOS Ödeme Kuruluşu AŞ’nin faaliyet iznini iptal etti",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/tcmb-trpos-odeme-kurulusu-asnin-faaliyet-iznini-iptal-etti-3464537",
+   "saat": "13:20",
+   "tarih_iso": "2026-09-09T13:20:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/gram-gumus-104-liraya-dayandi-80-dolar-tahmini-ertelendi-galeri-839323",
@@ -336,6 +368,116 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/09/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+   "saat": "15:53",
+   "tarih_iso": "2026-09-09T15:53:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/meta-stock-jumps-as-new-personal-ai-agent-muse-addresses-a-major-investor-concern-5ad0a373?mod=mw_rss_topstories",
+   "baslik": "Meta’s stock jumps as new personal AI agent Muse addresses a major investor concern",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/meta-stock-jumps-as-new-personal-ai-agent-muse-addresses-a-major-investor-concern-5ad0a373?mod=mw_rss_topstories",
+   "saat": "15:43",
+   "tarih_iso": "2026-09-09T15:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tyra-biosciences-stock-tumbles-30-on-phase-2-trial-results-93CH-4893588",
+   "baslik": "Tyra Biosciences stock tumbles 30% on phase 2 trial results",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tyra-biosciences-stock-tumbles-30-on-phase-2-trial-results-93CH-4893588",
+   "saat": "15:36",
+   "tarih_iso": "2026-09-09T15:36:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wall-street-isnt-talking-high-123500191.html",
+   "baslik": "Wall Street Isn't Talking About High-Yield Medtronic Stock -- Here's Why It Should Be",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-isnt-talking-high-123500191.html",
+   "saat": "15:35",
+   "tarih_iso": "2026-09-09T15:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lifestance-health-stock-sliding-today-93CH-4893558",
+   "baslik": "Why is Lifestance Health stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lifestance-health-stock-sliding-today-93CH-4893558",
+   "saat": "15:32",
+   "tarih_iso": "2026-09-09T15:32:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-chewy-stock-slipping-today-93CH-4893557",
+   "baslik": "Why is Chewy stock slipping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-chewy-stock-slipping-today-93CH-4893557",
+   "saat": "15:32",
+   "tarih_iso": "2026-09-09T15:32:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-stock-could-turn-10-123033572.html",
+   "baslik": "Prediction: This Stock Could Turn $10,000 Into $20,000 by 2030",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-stock-could-turn-10-123033572.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-09-09T15:30:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/ford-stock-china-ties-duffy-7247026a?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Ford Faces ‘Profound Concern’ Over China Ties. What That Means for the Stock.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/ford-stock-china-ties-duffy-7247026a?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:28",
+   "tarih_iso": "2026-09-09T15:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ollies-olli-q2-2027-earnings-122756672.html",
+   "baslik": "Ollie's (OLLI) Q2 2027 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ollies-olli-q2-2027-earnings-122756672.html",
+   "saat": "15:27",
+   "tarih_iso": "2026-09-09T15:27:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/daktronics-dakt-q1-2027-earnings-122756319.html",
+   "baslik": "Daktronics (DAKT) Q1 2027 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/daktronics-dakt-q1-2027-earnings-122756319.html",
+   "saat": "15:27",
+   "tarih_iso": "2026-09-09T15:27:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/g-iii-apparel-giii-q2-122756360.html",
+   "baslik": "G-III Apparel (GIII) Q2 2027 Earnings Call Transcript",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/g-iii-apparel-giii-q2-122756360.html",
+   "saat": "15:27",
+   "tarih_iso": "2026-09-09T15:27:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/09/bessent-bond-plan-details-to-be-revealed-as-treasury-secretary-warns-fx-traders-hes-the-house-now.html",
    "baslik": "Bessent bond plan details to be revealed as Treasury secretary warns FX traders he's 'the house now'",
    "kaynak": "CNBC",
@@ -354,6 +496,16 @@
    "tarih_iso": "2026-09-09T15:25:11+03:00",
    "kodlar": [],
    "eklenme": "2026-09-09T15:30:54.857956+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/academy-sports-surges-on-earnings-beat-and-raised-guidance-4893512",
+   "baslik": "Academy Sports surges on earnings beat and raised guidance",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/academy-sports-surges-on-earnings-beat-and-raised-guidance-4893512",
+   "saat": "15:17",
+   "tarih_iso": "2026-09-09T15:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-academy-sports--outdoors-stock-surging-today-93CH-4893486",
@@ -1414,129 +1566,19 @@
    "tarih_iso": "2026-09-09T09:00:04+03:00",
    "kodlar": [],
    "eklenme": "2026-09-09T09:30:54.134091+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-   "baslik": "Iran says it hit American vessels, oil tankers in Hormuz in retaliation for U.S. strikes",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
-   "saat": "08:55",
-   "tarih_iso": "2026-09-09T08:55:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:01:02.368103+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-austal-stock-surging-today-93CH-4892711",
-   "baslik": "Why is Austal stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-austal-stock-surging-today-93CH-4892711",
-   "saat": "08:40",
-   "tarih_iso": "2026-09-09T08:40:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:30:54.134091+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/09/fx-currencies-interest-rate-hikes.html",
-   "baslik": "G10’s ‘surprise’ currency star could stumble as peers hike interest rates",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/09/fx-currencies-interest-rate-hikes.html",
-   "saat": "08:32",
-   "tarih_iso": "2026-09-09T08:32:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:01:02.368103+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cwyznn972d7o?at_medium=RSS&at_campaign=rss",
-   "baslik": "'We were target of sinister heating oil theft and want to warn others'",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cwyznn972d7o?at_medium=RSS&at_campaign=rss",
-   "saat": "08:10",
-   "tarih_iso": "2026-09-09T08:10:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:01:02.368103+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
-   "baslik": "China's EV makers shift gears to focus on humanoids as car market slows",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
-   "saat": "07:12",
-   "tarih_iso": "2026-09-09T07:12:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:01:02.368103+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/e58008a5-d757-4570-af08-d2396f46f03f?syn-25a6b1a6=1",
-   "baslik": "Warsh might yet be a good Fed chair",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/e58008a5-d757-4570-af08-d2396f46f03f?syn-25a6b1a6=1",
-   "saat": "07:00",
-   "tarih_iso": "2026-09-09T07:00:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:01:02.368103+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/fb189d81-e5ce-4aba-8707-53c88dae6e60?syn-25a6b1a6=1",
-   "baslik": "AI borrowing boom shakes up Swiss credit market",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/fb189d81-e5ce-4aba-8707-53c88dae6e60?syn-25a6b1a6=1",
-   "saat": "07:00",
-   "tarih_iso": "2026-09-09T07:00:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:01:02.368103+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-chip-rally-offsets-oilfueled-inflation-concerns-4892696",
-   "baslik": "Asian stocks mixed as chip rally offsets oil-fueled inflation concerns",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-mixed-as-chip-rally-offsets-oilfueled-inflation-concerns-4892696",
-   "saat": "06:57",
-   "tarih_iso": "2026-09-09T06:57:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:01:02.368103+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c?syn-25a6b1a6=1",
-   "baslik": "Oil nears $100 as US launches new strikes on Iranian tankers",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/b460b828-6183-4914-9140-5dfb6d61312c?syn-25a6b1a6=1",
-   "saat": "06:16",
-   "tarih_iso": "2026-09-09T06:16:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:01:02.368103+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
-   "baslik": "China's wholesale inflation tops estimates in August on commodity costs, tech demand as consumer price increases meet forecast",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/09/china-cpi-ppi-august-oil-prices-tech-manufacturing-.html",
-   "saat": "06:07",
-   "tarih_iso": "2026-09-09T06:07:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:01:02.368103+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/5e23e1bc-e340-4c51-bcce-77cf2ec5ebe0?syn-25a6b1a6=1",
-   "baslik": "Fundraising frenzy for China AI lab DeepSeek spawns shadow market",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/5e23e1bc-e340-4c51-bcce-77cf2ec5ebe0?syn-25a6b1a6=1",
-   "saat": "04:55",
-   "tarih_iso": "2026-09-09T04:55:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:01:02.368103+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-muted-as-oil-nears-100-fed-hike-bets-rise-4892640",
-   "baslik": "U.S. stock futures muted as oil nears $100, Fed hike bets rise",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-muted-as-oil-nears-100-fed-hike-bets-rise-4892640",
-   "saat": "04:07",
-   "tarih_iso": "2026-09-09T04:07:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T09:01:02.368103+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/buyuk-servet-hareketi-basladi-altin-ve-para-bu-ulkelere-akiyor-galeri-839355",
+   "baslik": "Büyük servet hareketi başladı: Altın ve para bu ülkelere akıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/buyuk-servet-hareketi-basladi-altin-ve-para-bu-ulkelere-akiyor-galeri-839355",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-09T15:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T16:01:07.781463+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/china-buys-gold-for-the-22nd-consecutive-month-and-holds-the-metal-above-4400-200687364",
    "baslik": "China Buys Gold for the 22nd Consecutive Month and Holds the Metal Above $4,400",
@@ -1748,5 +1790,5 @@
    "eklenme": "2026-09-09T09:01:02.368103+03:00"
   }
  ],
- "guncelleme": "2026-09-09T15:30:54.857956+03:00"
+ "guncelleme": "2026-09-09T16:01:07.781463+03:00"
 }
