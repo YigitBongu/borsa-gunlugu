@@ -355,6 +355,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/haberler/kuresel-borsalarda-faiz-baskisi-buyuyor-teknoloji-hisseleri-ayrisiyor-haberi-839281",
+   "baslik": "Küresel borsalarda faiz baskısı büyüyor, teknoloji hisseleri ayrışıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/kuresel-borsalarda-faiz-baskisi-buyuyor-teknoloji-hisseleri-ayrisiyor-haberi-839281",
+   "saat": "07:50",
+   "tarih_iso": "2026-09-09T07:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T08:30:59.661168+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-9-eylul-carsamba-doviz-kurlari-haberi-839274",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (9 Eylül Çarşamba Döviz Kurları)",
    "kaynak": "Dünya",
@@ -626,6 +636,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cwyznn972d7o?at_medium=RSS&at_campaign=rss",
+   "baslik": "'We were target of sinister heating oil theft and want to warn others'",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cwyznn972d7o?at_medium=RSS&at_campaign=rss",
+   "saat": "08:10",
+   "tarih_iso": "2026-09-09T08:10:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T08:30:59.661168+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/09/fx-currencies-interest-rate-hikes.html",
+   "baslik": "G10’s ‘surprise’ currency star could stumble as peers hike interest rates",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/09/fx-currencies-interest-rate-hikes.html",
+   "saat": "08:00",
+   "tarih_iso": "2026-09-09T08:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T08:30:59.661168+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/09/chinas-ev-makers-shift-gears-to-focus-on-humanoids-as-car-market-slows.html",
    "baslik": "China's EV makers shift gears to focus on humanoids as car market slows",
@@ -1805,26 +1835,6 @@
    "tarih_iso": "2026-09-08T18:07:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-08T18:31:11.182504+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/consumers-more-worried-personal-finances-150544015.html",
-   "baslik": "Consumers more worried about personal finances and jobs, New York Fed report shows",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/consumers-more-worried-personal-finances-150544015.html",
-   "saat": "18:05",
-   "tarih_iso": "2026-09-08T18:05:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T18:31:11.182504+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/supply-chain-woes-send-stryker-stock-tumbling-77-4892013",
-   "baslik": "Supply chain woes send Stryker stock tumbling 7.7%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/supply-chain-woes-send-stryker-stock-tumbling-77-4892013",
-   "saat": "18:05",
-   "tarih_iso": "2026-09-08T18:05:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-08T18:31:11.182504+03:00"
   }
  ],
  "altin_haber": [
@@ -2159,5 +2169,5 @@
    "eklenme": "2026-09-08T09:01:00.832098+03:00"
   }
  ],
- "guncelleme": "2026-09-09T08:01:06.423236+03:00"
+ "guncelleme": "2026-09-09T08:30:59.661168+03:00"
 }
