@@ -2,6 +2,19 @@
  "tarih": "2026-09-09",
  "kap": [
   {
+   "id": "kap-my-MIATK-202609091000",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-09T10:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
+  {
    "id": "kap-my-GLYHO-202609090933",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -82,6 +95,36 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbulda-negatif-acilis-bist-100-14381-puanda-haberi-839303",
+   "baslik": "Borsa İstanbul'da negatif açılış: BIST 100 14.381 puanda",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/borsa-istanbulda-negatif-acilis-bist-100-14381-puanda-haberi-839303",
+   "saat": "10:17",
+   "tarih_iso": "2026-09-09T10:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-orta-dogu-saldrlar-ve-ecb-artrm-tehdidiyle-geriledi-4058684",
+   "baslik": "Avrupa hisseleri Orta Doğu saldırıları ve ECB artırımı tehdidiyle geriledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-orta-dogu-saldrlar-ve-ecb-artrm-tehdidiyle-geriledi-4058684",
+   "saat": "10:08",
+   "tarih_iso": "2026-09-09T10:08:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/is-dunyasi/suudiler-5-milyar-dolar-harcadi-dev-proje-iflasa-girdi-haberi-839301",
+   "baslik": "Suudiler 5 milyar dolar harcadı, dev proje iflasa girdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/is-dunyasi/suudiler-5-milyar-dolar-harcadi-dev-proje-iflasa-girdi-haberi-839301",
+   "saat": "10:08",
+   "tarih_iso": "2026-09-09T10:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-trpos-odeme-kurulusu-as-nin-faaliyet-iznini-iptal-etti/4051638",
    "baslik": "TCMB, TRPOS Ödeme Kuruluşu AŞ’nin faaliyet iznini iptal etti",
    "kaynak": "AA Ekonomi",
@@ -153,6 +196,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
+   "baslik": "Oil hits $100 for first time since July",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
+   "saat": "10:19",
+   "tarih_iso": "2026-09-09T10:19:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-retreat-as-gulf-strikes-send-oil-toward-100-4892795",
+   "baslik": "FTSE 100 today: Stocks retreat as Gulf strikes send oil toward $100",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-retreat-as-gulf-strikes-send-oil-toward-100-4892795",
+   "saat": "10:16",
+   "tarih_iso": "2026-09-09T10:16:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-equities-stumble-under-threat-of-middle-east-strikes-ecb-hike-4892721",
+   "baslik": "European equities stumble under threat of Middle East strikes, ECB hike",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-equities-stumble-under-threat-of-middle-east-strikes-ecb-hike-4892721",
+   "saat": "10:08",
+   "tarih_iso": "2026-09-09T10:08:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/this-stock-is-citis-top-pick-among-china-airlines-93CH-4892779",
+   "baslik": "This Stock is Citi’s Top Pick Among China Airlines",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/this-stock-is-citis-top-pick-among-china-airlines-93CH-4892779",
+   "saat": "10:06",
+   "tarih_iso": "2026-09-09T10:06:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-019-4892769",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 0.19%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-019-4892769",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-09T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/openai-targets-enterprise-growth-with-cheaper-ai-models-4892761",
+   "baslik": "OpenAI targets enterprise growth with cheaper AI models",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/openai-targets-enterprise-growth-with-cheaper-ai-models-4892761",
+   "saat": "09:43",
+   "tarih_iso": "2026-09-09T09:43:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/09/daily-open-gulf-strikes-oil-prices.html",
+   "baslik": "CNBC Daily Open: Gulf strikes jolt oil toward triple digits",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/09/daily-open-gulf-strikes-oil-prices.html",
+   "saat": "09:20",
+   "tarih_iso": "2026-09-09T09:20:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/nexteq-reports-34-revenue-decline-in-first-half-on-gaming-weakness-93CH-4892728",
    "baslik": "Nexteq reports 34% revenue decline in first half on gaming weakness",
@@ -486,6 +599,16 @@
    "eklenme": "2026-09-09T09:01:02.368103+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-as-cycle-window-approaches-200687326",
+   "baslik": "Gold Tests Critical VC PMI Support as Cycle Window Approaches",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-as-cycle-window-approaches-200687326",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-09T10:30:54.017474+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-remains-subdued-in-the-short-term-but-longterm-demand-stays-strong-200687286",
    "baslik": "Gold Remains Subdued in the Short Term, but Long-Term Demand Stays Strong",
    "kaynak": "Investing Emtia",
@@ -556,5 +679,5 @@
    "eklenme": "2026-09-09T09:01:02.368103+03:00"
   }
  ],
- "guncelleme": "2026-09-09T10:01:03.295862+03:00"
+ "guncelleme": "2026-09-09T10:30:54.017474+03:00"
 }
