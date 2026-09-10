@@ -131,6 +131,36 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-abd-enflasyon-verisi-oncesi-geriledi-4061443",
+   "baslik": "TSX vadeli işlemleri ABD enflasyon verisi öncesi geriledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-abd-enflasyon-verisi-oncesi-geriledi-4061443",
+   "saat": "14:42",
+   "tarih_iso": "2026-09-10T14:42:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:01:04.714750+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/ingiltere-spacex-uydu-hizmetlerine-40-milyon-dolar-harcad-4061360",
+   "baslik": "İngiltere SpaceX uydu hizmetlerine 40 milyon dolar harcadı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/ingiltere-spacex-uydu-hizmetlerine-40-milyon-dolar-harcad-4061360",
+   "saat": "14:29",
+   "tarih_iso": "2026-09-10T14:29:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:01:04.714750+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sektorler/otomotiv/volkswagen-kuculmenin-faturasini-cikardi-16-milyar-euro-haberi-839501",
+   "baslik": "Volkswagen küçülmenin faturasını çıkardı: 16 milyar euro",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sektorler/otomotiv/volkswagen-kuculmenin-faturasini-cikardi-16-milyar-euro-haberi-839501",
+   "saat": "14:24",
+   "tarih_iso": "2026-09-10T14:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:01:04.714750+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/son-dakika-merkez-bankasi-faiz-kararini-acikladi-3911563",
    "baslik": "Merkez Bankası faiz kararını açıkladı",
    "kaynak": "Habertürk Ekonomi",
@@ -372,6 +402,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-axogen-stock-sliding-today-93CH-4895727",
+   "baslik": "Why is Axogen stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-axogen-stock-sliding-today-93CH-4895727",
+   "saat": "14:49",
+   "tarih_iso": "2026-09-10T14:49:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:01:04.714750+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/reddit-stock-rises-on-piper-data-showing-8-user-growth-93CH-4895719",
+   "baslik": "Reddit stock rises on Piper data showing 8% user growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/reddit-stock-rises-on-piper-data-showing-8-user-growth-93CH-4895719",
+   "saat": "14:46",
+   "tarih_iso": "2026-09-10T14:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:01:04.714750+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-upgrades-snam-on-unjustified-discount-to-peers-resilient-growth-outlook-4895718",
+   "baslik": "UBS upgrades Snam on unjustified discount to peers, resilient growth outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-upgrades-snam-on-unjustified-discount-to-peers-resilient-growth-outlook-4895718",
+   "saat": "14:45",
+   "tarih_iso": "2026-09-10T14:45:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:01:04.714750+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/servicetitan-falls-30-after-earnings-is-ttan-stock-a-buy-at-current-levels-93CH-4895708",
+   "baslik": "ServiceTitan falls 30% after earnings: Is TTAN stock a buy at current levels?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/servicetitan-falls-30-after-earnings-is-ttan-stock-a-buy-at-current-levels-93CH-4895708",
+   "saat": "14:43",
+   "tarih_iso": "2026-09-10T14:43:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:01:04.714750+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-tick-lower-ahead-of-us-inflation-data-4895707",
+   "baslik": "TSX futures tick lower ahead of U.S. inflation data",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-tick-lower-ahead-of-us-inflation-data-4895707",
+   "saat": "14:42",
+   "tarih_iso": "2026-09-10T14:42:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:01:04.714750+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/oracle-reports-earnings-today-ai-spending-bet-faces-its-toughest-test-yet-4895661",
+   "baslik": "Oracle reports earnings today: AI spending bet faces its toughest test yet",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/oracle-reports-earnings-today-ai-spending-bet-faces-its-toughest-test-yet-4895661",
+   "saat": "14:34",
+   "tarih_iso": "2026-09-10T14:34:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:01:04.714750+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-rackspace-technology-stock-surging-today-93CH-4895662",
+   "baslik": "Why is Rackspace Technology stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-rackspace-technology-stock-surging-today-93CH-4895662",
+   "saat": "14:34",
+   "tarih_iso": "2026-09-10T14:34:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:01:04.714750+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/investors-are-missing-the-good-news-right-in-front-of-them-this-wall-street-strategist-argues-aaf27342?mod=mw_rss_topstories",
    "baslik": "Investors are missing the good news right in front of them, this Wall Street strategist argues",
@@ -1375,5 +1475,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-10T14:30:55.740444+03:00"
+ "guncelleme": "2026-09-10T15:01:04.714750+03:00"
 }
