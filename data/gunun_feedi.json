@@ -255,6 +255,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/enflasyon-yukselirse-bojun-faizleri-hzla-artrmas-gerekebilir-93CH-4060614",
+   "baslik": "Enflasyon yükselirse BOJ’un faizleri hızla artırması gerekebilir",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/enflasyon-yukselirse-bojun-faizleri-hzla-artrmas-gerekebilir-93CH-4060614",
+   "saat": "05:51",
+   "tarih_iso": "2026-09-10T05:51:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T06:30:53.494465+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-yukselen-getirilerle-dusen-wall-street-sonras-sakin-ufe-tufe-bekleniyor-4060553",
    "baslik": "ABD hisse senedi vadeli işlemleri yükselen getirilerle düşen Wall Street sonrası sakin; ÜFE, TÜFE bekleniyor",
    "kaynak": "Investing TR",
@@ -557,6 +567,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-haidilao-stock-sliding-today-93CH-4894917",
+   "baslik": "Why is Haidilao stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-haidilao-stock-sliding-today-93CH-4894917",
+   "saat": "06:16",
+   "tarih_iso": "2026-09-10T06:16:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T06:30:53.494465+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-slip-on-tech-losses-with-oil-surge-yields-in-focus-4894912",
+   "baslik": "Asia stocks slip on tech losses with oil surge, yields in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-on-tech-losses-with-oil-surge-yields-in-focus-4894912",
+   "saat": "06:12",
+   "tarih_iso": "2026-09-10T06:12:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T06:30:53.494465+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+   "baslik": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+   "saat": "06:00",
+   "tarih_iso": "2026-09-10T06:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T06:30:53.494465+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
    "baslik": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
    "kaynak": "CNBC",
@@ -575,6 +615,16 @@
    "tarih_iso": "2026-09-10T05:51:16+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T06:01:06.752695+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/apple-unveils-foldable-iphone-5-asian-stocks-with-exposure-93CH-4894893",
+   "baslik": "Apple unveils foldable iPhone: 5 Asian stocks with exposure",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/apple-unveils-foldable-iphone-5-asian-stocks-with-exposure-93CH-4894893",
+   "saat": "05:44",
+   "tarih_iso": "2026-09-10T05:44:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T06:30:53.494465+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/10/samsung-tries-to-draw-iphone-users-to-its-foldables-amid-apple-entry.html",
@@ -1715,46 +1765,6 @@
    "tarih_iso": "2026-09-09T17:05:24+03:00",
    "kodlar": [],
    "eklenme": "2026-09-09T17:31:03.596901+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/j-jill-q2-earnings-call-140524303.html",
-   "baslik": "J.Jill Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/j-jill-q2-earnings-call-140524303.html",
-   "saat": "17:05",
-   "tarih_iso": "2026-09-09T17:05:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T17:31:03.596901+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/north-west-q2-earnings-call-140524351.html",
-   "baslik": "North West Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/north-west-q2-earnings-call-140524351.html",
-   "saat": "17:05",
-   "tarih_iso": "2026-09-09T17:05:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T17:31:03.596901+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/oddity-tech-q2-earnings-call-140523030.html",
-   "baslik": "ODDITY Tech Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/oddity-tech-q2-earnings-call-140523030.html",
-   "saat": "17:05",
-   "tarih_iso": "2026-09-09T17:05:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T17:31:03.596901+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/chewy-q2-earnings-call-highlights-140523448.html",
-   "baslik": "Chewy Q2 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-q2-earnings-call-highlights-140523448.html",
-   "saat": "17:05",
-   "tarih_iso": "2026-09-09T17:05:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T17:31:03.596901+03:00"
   }
  ],
  "altin_haber": [
@@ -2099,5 +2109,5 @@
    "eklenme": "2026-09-09T09:01:02.368103+03:00"
   }
  ],
- "guncelleme": "2026-09-10T06:01:06.752695+03:00"
+ "guncelleme": "2026-09-10T06:30:53.494465+03:00"
 }
