@@ -2,6 +2,19 @@
  "tarih": "2026-09-10",
  "kap": [
   {
+   "id": "kap-my-EKGYO-202609101011",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EKGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:11",
+   "tarih_iso": "2026-09-10T10:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-10T10:30:56.813870+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609100905",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -31,6 +44,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-10-eylul-abd-uretici-fiyat-endeksi-ufe-verisi-3464890",
+   "baslik": "ABD ENFLASYON RAKAMLARI NE ZAMAN, SAAT KAÇTA AÇIKLANACAK? 10 Eylül ABD üretici fiyat endeksi (ÜFE) verisi",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-10-eylul-abd-uretici-fiyat-endeksi-ufe-verisi-3464890",
+   "saat": "13:22",
+   "tarih_iso": "2026-09-10T13:22:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T10:30:56.813870+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/merkez-bankasi-faiz-karari-toplantisi-ne-zaman-saat-kacta-gozler-2026-eylul-tcmb-faiz-kararinda-3464662",
    "baslik": "MERKEZ BANKASI FAİZ KARARI TOPLANTISI NE ZAMAN, SAAT KAÇTA? Gözler 2026 Eylül TCMB faiz kararında!",
    "kaynak": "CNN Türk Ekonomi",
@@ -39,6 +62,16 @@
    "tarih_iso": "2026-09-10T10:31:47+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisse-senetleri-ecb-karar-oncesi-toparland-4060733",
+   "baslik": "Avrupa hisse senetleri ECB kararı öncesi toparlandı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/avrupa-hisse-senetleri-ecb-karar-oncesi-toparland-4060733",
+   "saat": "10:04",
+   "tarih_iso": "2026-09-10T10:04:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T10:30:56.813870+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/norvecte-cekirdek-tufe-agustosta-beklendigi-gibi-yukseldi-93CH-4060683",
@@ -152,6 +185,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-equities-stabilize-from-selloff-as-traders-brace-for-ecb-decision-4894936",
+   "baslik": "European equities stabilize from sell-off as traders brace for ECB decision",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-equities-stabilize-from-selloff-as-traders-brace-for-ecb-decision-4894936",
+   "saat": "10:04",
+   "tarih_iso": "2026-09-10T10:04:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T10:30:56.813870+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-014-4895008",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.14%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-014-4895008",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-10T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T10:30:56.813870+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/deutsche-bank-flags-3-buyrated-leisure-stocks-after-august-selloff-93CH-4895003",
+   "baslik": "Deutsche Bank Flags 3 Buy-rated Leisure Stocks After August Selloff",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-flags-3-buyrated-leisure-stocks-after-august-selloff-93CH-4895003",
+   "saat": "09:56",
+   "tarih_iso": "2026-09-10T09:56:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T10:30:56.813870+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-falls-on-higher-yields-ppi-cpi-awaited-4894822",
    "baslik": "U.S. stock futures tick up after Wall St falls on higher yields; PPI, CPI awaited",
@@ -515,6 +578,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-10-eylul-abd-uretici-fiyat-endeksi-ufe-verisi-3464890",
+   "baslik": "ABD ENFLASYON RAKAMLARI NE ZAMAN, SAAT KAÇTA AÇIKLANACAK? 10 Eylül ABD üretici fiyat endeksi (ÜFE) verisi",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-10-eylul-abd-uretici-fiyat-endeksi-ufe-verisi-3464890",
+   "saat": "13:22",
+   "tarih_iso": "2026-09-10T13:22:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T10:30:56.813870+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-10-eylul-2026-canli-gram-ceyrek-cumhuriyet-altini-ne-kadar-kapalicarsi-altin-fiyatlari-son-durum-3464881",
    "baslik": "ALTIN FİYATLARI 10 EYLÜL 2026 CANLI: Gram, Çeyrek, Cumhuriyet Altını Ne Kadar? Kapalıçarşı Altın Fiyatları Son Durum!",
    "kaynak": "CNN Türk Ekonomi",
@@ -523,6 +596,26 @@
    "tarih_iso": "2026-09-10T12:56:15+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T10:01:02.572574+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-tests-key-support-as-oil-nears-100-and-fed-hike-bets-hit-65-200687430",
+   "baslik": "Gold Tests Key Support as Oil Nears $100 and Fed Hike Bets Hit 65%",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-tests-key-support-as-oil-nears-100-and-fed-hike-bets-hit-65-200687430",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-10T10:30:56.813870+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-targets-4499-and-4536-above-the-4455-weekly-mean-200687416",
+   "baslik": "Gold Targets 4,499 and 4,536 Above the $4,455 Weekly Mean",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-targets-4499-and-4536-above-the-4455-weekly-mean-200687416",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-10T10:30:56.813870+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-faces-a-critical-4400-test-as-treasury-yields-surge-200687404",
@@ -645,5 +738,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-10T10:01:02.572574+03:00"
+ "guncelleme": "2026-09-10T10:30:56.813870+03:00"
 }
