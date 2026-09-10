@@ -1,6 +1,20 @@
 {
  "tarih": "2026-09-10",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-TKFEN-202609100905",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:05",
+   "tarih_iso": "2026-09-10T09:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-10T09:30:52.916514+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/thyden-kktc-ucuslarinda-avantajli-bilet-kampanyasi/4052469",
@@ -27,6 +41,26 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   },
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/norvecte-cekirdek-tufe-agustosta-beklendigi-gibi-yukseldi-93CH-4060683",
+   "baslik": "Norveç’te çekirdek TÜFE Ağustos’ta beklendiği gibi yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/norvecte-cekirdek-tufe-agustosta-beklendigi-gibi-yukseldi-93CH-4060683",
+   "saat": "09:18",
+   "tarih_iso": "2026-09-10T09:18:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T09:30:52.916514+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/abd-ile-cin-arasindaki-faiz-makasi-rekor-kirdi-haberi-839450",
+   "baslik": "ABD ile Çin arasındaki faiz makası rekor kırdı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/abd-ile-cin-arasindaki-faiz-makasi-rekor-kirdi-haberi-839450",
+   "saat": "09:16",
+   "tarih_iso": "2026-09-10T09:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T09:30:52.916514+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/piyasalarda-gozler-tcmb-ve-ecbnin-faiz-kararlarina-cevrildi/4052733",
    "baslik": "Piyasalarda gözler TCMB ve ECB'nin faiz kararlarına çevrildi",
    "kaynak": "AA Ekonomi",
@@ -45,6 +79,26 @@
    "tarih_iso": "2026-09-10T08:53:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/muskn-boring-company-23-milyar-dolar-degerlemede-3-milyar-dolar-toplad-4060671",
+   "baslik": "Musk’ın Boring Company 23 milyar dolar değerlemede 3 milyar dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/muskn-boring-company-23-milyar-dolar-degerlemede-3-milyar-dolar-toplad-4060671",
+   "saat": "08:52",
+   "tarih_iso": "2026-09-10T08:52:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T09:30:52.916514+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/mubadala-luckin-coffeeye-centurium-capital-ile-1-milyar-dolar-yatrm-yapacak-4060669",
+   "baslik": "Mubadala, Luckin Coffee’ye Centurium Capital ile 1 milyar dolar yatırım yapacak",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/mubadala-luckin-coffeeye-centurium-capital-ile-1-milyar-dolar-yatrm-yapacak-4060669",
+   "saat": "08:50",
+   "tarih_iso": "2026-09-10T08:50:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T09:30:52.916514+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/gundem/japonya-merkez-bankasi-uyesinden-hizli-faiz-artisi-uyarisi-haberi-839444",
@@ -99,6 +153,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-slip-on-tech-losses-with-oil-surge-yields-in-focus-4894912",
+   "baslik": "Asia stocks fall with oil surge, yields in focus; U.S. inflation on tap",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-on-tech-losses-with-oil-surge-yields-in-focus-4894912",
+   "saat": "09:24",
+   "tarih_iso": "2026-09-10T09:24:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T09:30:52.916514+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-names-top-power-and-utility-stocks-for-fall-93CH-4894969",
+   "baslik": "Jefferies Names Top Power and Utility Stocks for Fall",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jefferies-names-top-power-and-utility-stocks-for-fall-93CH-4894969",
+   "saat": "09:07",
+   "tarih_iso": "2026-09-10T09:07:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T09:30:52.916514+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-052-4894966",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.52%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-052-4894966",
+   "saat": "09:05",
+   "tarih_iso": "2026-09-10T09:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T09:30:52.916514+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tsmc-august-revenue-jumps-53-as-strong-ai-demand-persists-4894961",
+   "baslik": "TSMC August revenue jumps 53% as strong AI demand persists",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsmc-august-revenue-jumps-53-as-strong-ai-demand-persists-4894961",
+   "saat": "08:55",
+   "tarih_iso": "2026-09-10T08:55:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T09:30:52.916514+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
    "baslik": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
    "kaynak": "CNBC",
@@ -137,6 +231,16 @@
    "tarih_iso": "2026-09-10T08:42:27+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/bdde7148-eab2-4e13-abc8-9652c52257f4?syn-25a6b1a6=1",
+   "baslik": "Must high bond yields crack stocks?",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/bdde7148-eab2-4e13-abc8-9652c52257f4?syn-25a6b1a6=1",
+   "saat": "08:30",
+   "tarih_iso": "2026-09-10T08:30:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T09:30:52.916514+03:00"
   },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/crk36z3rmnzo?at_medium=RSS&at_campaign=rss",
@@ -431,6 +535,16 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/gumus-altina-fark-atti-son-55-gunun-getirisi-altinin-iki-katini-asti-galeri-839445",
+   "baslik": "Gümüş altına fark attı! Son 55 günün getirisi altının iki katını aştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/gumus-altina-fark-atti-son-55-gunun-getirisi-altinin-iki-katini-asti-galeri-839445",
+   "saat": "08:43",
+   "tarih_iso": "2026-09-10T08:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T09:30:52.916514+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/18-milyar-dolarlik-destek-gram-altini-7-bin-liraya-tasir-mi-galeri-839431",
    "baslik": "18 milyar dolarlık destek gram altını 7 bin liraya taşır mı?",
    "kaynak": "Dünya",
@@ -491,5 +605,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-10T09:01:03.377785+03:00"
+ "guncelleme": "2026-09-10T09:30:52.916514+03:00"
 }
