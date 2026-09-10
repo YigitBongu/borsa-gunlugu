@@ -2,6 +2,19 @@
  "tarih": "2026-09-10",
  "kap": [
   {
+   "id": "kap-my-AEFES-202609101632",
+   "baslik": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+   "kodlar": [
+    "AEFES"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:32",
+   "tarih_iso": "2026-09-10T16:32:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
    "id": "kap-my-CWENE-202609101541",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -207,6 +220,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/tcmb-rezervlerinde-gerileme-3911599",
+   "baslik": "TCMB rezervlerinde gerileme",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/tcmb-rezervlerinde-gerileme-3911599",
+   "saat": "16:29",
+   "tarih_iso": "2026-09-10T16:29:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/ekonomistler-tcmbnin-faiz-kararini-degerlendirdi-yil-sonu-icin-tahmin-ne-haberi-839516",
    "baslik": "Ekonomistler TCMB'nin faiz kararını değerlendirdi: Yıl sonu için tahmin ne?",
    "kaynak": "Dünya",
@@ -235,6 +258,16 @@
    "tarih_iso": "2026-09-10T15:18:33+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/ecb-orta-dogu-kaynakli-enflasyon-sokuna-karsi-faiz-artisina-devam-etti/4053218",
+   "baslik": "ECB, Orta Doğu kaynaklı enflasyon şokuna karşı faiz artışına devam etti",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-orta-dogu-kaynakli-enflasyon-sokuna-karsi-faiz-artisina-devam-etti/4053218",
+   "saat": "15:18",
+   "tarih_iso": "2026-09-10T15:18:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/dunya/ecbden-faiz-artisi-25-baz-puan-yukseltti-haberi-839511",
@@ -539,6 +572,146 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/heres-how-to-avoid-a-six-figure-error-that-many-retirees-make-with-their-company-stock-5f24b10d?mod=mw_rss_topstories",
+   "baslik": "Here’s how to avoid a six-figure error that many retirees make with their company stock",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/heres-how-to-avoid-a-six-figure-error-that-many-retirees-make-with-their-company-stock-5f24b10d?mod=mw_rss_topstories",
+   "saat": "17:00",
+   "tarih_iso": "2026-09-10T17:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/markets-see-a-near-50-50-chance-the-european-central-bank-will-hike-again-in-october-38a87c27?mod=mw_rss_topstories",
+   "baslik": "Markets see a near 50-50 chance the European Central Bank will hike again in October",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/markets-see-a-near-50-50-chance-the-european-central-bank-will-hike-again-in-october-38a87c27?mod=mw_rss_topstories",
+   "saat": "16:58",
+   "tarih_iso": "2026-09-10T16:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ttm-technologies-stock-sliding-today-93CH-4896206",
+   "baslik": "Why is TTM Technologies stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ttm-technologies-stock-sliding-today-93CH-4896206",
+   "saat": "16:57",
+   "tarih_iso": "2026-09-10T16:57:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vertiv-stock-sliding-today-93CH-4896205",
+   "baslik": "Why is Vertiv stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-vertiv-stock-sliding-today-93CH-4896205",
+   "saat": "16:57",
+   "tarih_iso": "2026-09-10T16:57:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-4896202",
+   "baslik": "Why is CoreWeave stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-4896202",
+   "saat": "16:54",
+   "tarih_iso": "2026-09-10T16:54:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/adobe-stock-at-1month-low-should-you-buy-the-dip-into-todays-earnings-93CH-4896193",
+   "baslik": "Adobe stock at 1-month low: Should you buy the dip into today’s earnings?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/adobe-stock-at-1month-low-should-you-buy-the-dip-into-todays-earnings-93CH-4896193",
+   "saat": "16:52",
+   "tarih_iso": "2026-09-10T16:52:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/10-year-treasury-at-highest-level-since-2023-as-oil-prices-jump-to-105-chart-of-the-day-134740387.html",
+   "baslik": "10-year treasury at highest level since 2023 as oil prices jump to $105: Chart of the Day",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/10-year-treasury-at-highest-level-since-2023-as-oil-prices-jump-to-105-chart-of-the-day-134740387.html",
+   "saat": "16:47",
+   "tarih_iso": "2026-09-10T16:47:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-10-134255697.html",
+   "baslik": "Stock Market Today (Sept. 10, 2026): Dow futures edge higher ahead of inflation reports",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-10-134255697.html",
+   "saat": "16:42",
+   "tarih_iso": "2026-09-10T16:42:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/applied-aerospace-defense-aadx-positioned-134209081.html",
+   "baslik": "Applied Aerospace & Defense (AADX) is Positioned for Accelerated Growth",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/applied-aerospace-defense-aadx-positioned-134209081.html",
+   "saat": "16:42",
+   "tarih_iso": "2026-09-10T16:42:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories",
+   "baslik": "How to trade a well-paying job for more work-life balance — without going broke",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories",
+   "saat": "16:40",
+   "tarih_iso": "2026-09-10T16:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bloom-energy-fallen-28-peak-133500787.html",
+   "baslik": "Bloom Energy Has Fallen 28% From Its Peak and May Only Deliver a 15% Return by September 2027",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-fallen-28-peak-133500787.html",
+   "saat": "16:35",
+   "tarih_iso": "2026-09-10T16:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-091026/card/stocks-kick-off-4th-straight-session-of-losses-on-rising-oil-and-yields-iANX1ltwcBw6WLbQQAHh?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Stocks Kick Off 4th Straight Session of Losses on Rising Oil and Yields",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091026/card/stocks-kick-off-4th-straight-session-of-losses-on-rising-oil-and-yields-iANX1ltwcBw6WLbQQAHh?siteid=yhoof2&yptr=yahoo",
+   "saat": "16:33",
+   "tarih_iso": "2026-09-10T16:33:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-apple-1-133056487.html",
+   "baslik": "Dan Ives Says Apple’s $1,999 Foldable Could Drive 20% of iPhone Revenue: 300 Million iPhones Have Gone 4 Years Without an Upgrade",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-apple-1-133056487.html",
+   "saat": "16:30",
+   "tarih_iso": "2026-09-10T16:30:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-one-world-biggest-stocks-133051214.html",
+   "baslik": "Prediction: One of the World’s Biggest Stocks Could Still Have Room to Run",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-one-world-biggest-stocks-133051214.html",
+   "saat": "16:30",
+   "tarih_iso": "2026-09-10T16:30:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/10/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
    "baslik": "Jim Cramer's top 10 things to watch in the stock market Thursday",
    "kaynak": "CNBC",
@@ -547,6 +720,16 @@
    "tarih_iso": "2026-09-10T16:26:24+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T16:30:56.630816+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-procore-pcor-could-turn-132512767.html",
+   "baslik": "Why Procore (PCOR) Could Turn AI Fears Into a Long-Term Growth Opportunity",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-procore-pcor-could-turn-132512767.html",
+   "saat": "16:25",
+   "tarih_iso": "2026-09-10T16:25:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-stay-away-131839364.html",
@@ -727,6 +910,16 @@
    "tarih_iso": "2026-09-10T15:37:54+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
+   "baslik": "Republicans to tout congressional stock-trading ban at midterm convention as Trump trades",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
+   "saat": "15:35",
+   "tarih_iso": "2026-09-10T15:35:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/wholesale-inflation-stirred-up-again-by-iran-conflict-and-higher-oil-prices-3f497534?mod=mw_rss_topstories",
@@ -1577,166 +1770,6 @@
    "tarih_iso": "2026-09-10T09:42:02+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T10:01:02.572574+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-103-4894982",
-   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 1.03%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-103-4894982",
-   "saat": "09:30",
-   "tarih_iso": "2026-09-10T09:30:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T10:01:02.572574+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-slip-on-tech-losses-with-oil-surge-yields-in-focus-4894912",
-   "baslik": "Asia stocks fall with oil surge, yields in focus; U.S. inflation on tap",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-on-tech-losses-with-oil-surge-yields-in-focus-4894912",
-   "saat": "09:24",
-   "tarih_iso": "2026-09-10T09:24:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:30:52.916514+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/10/china-crude-oil-iran-hormuz-war-trump-brent-prices-.html",
-   "baslik": "'Saved the day': How China helped keep the lid on oil price surge as Iran war disrupted supplies",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/10/china-crude-oil-iran-hormuz-war-trump-brent-prices-.html",
-   "saat": "09:23",
-   "tarih_iso": "2026-09-10T09:23:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T10:01:02.572574+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-names-top-power-and-utility-stocks-for-fall-93CH-4894969",
-   "baslik": "Jefferies Names Top Power and Utility Stocks for Fall",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/jefferies-names-top-power-and-utility-stocks-for-fall-93CH-4894969",
-   "saat": "09:07",
-   "tarih_iso": "2026-09-10T09:07:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:30:52.916514+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-052-4894966",
-   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.52%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-052-4894966",
-   "saat": "09:05",
-   "tarih_iso": "2026-09-10T09:05:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:30:52.916514+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/tsmc-august-revenue-jumps-53-as-strong-ai-demand-persists-4894961",
-   "baslik": "TSMC August revenue jumps 53% as strong AI demand persists",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/tsmc-august-revenue-jumps-53-as-strong-ai-demand-persists-4894961",
-   "saat": "08:55",
-   "tarih_iso": "2026-09-10T08:55:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:30:52.916514+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
-   "baslik": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
-   "saat": "08:47",
-   "tarih_iso": "2026-09-10T08:47:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
-   "baslik": "Treasury yields jump as Bessent’s $6bn buyback plan disappoints investors",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
-   "saat": "08:44",
-   "tarih_iso": "2026-09-10T08:44:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-metax-integrated-circuits-stock-sliding-today-93CH-4894957",
-   "baslik": "Why is MetaX Integrated Circuits stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-metax-integrated-circuits-stock-sliding-today-93CH-4894957",
-   "saat": "08:42",
-   "tarih_iso": "2026-09-10T08:42:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-luxshare-precision-industry-stock-sliding-today-93CH-4894956",
-   "baslik": "Why is Luxshare Precision Industry stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-luxshare-precision-industry-stock-sliding-today-93CH-4894956",
-   "saat": "08:42",
-   "tarih_iso": "2026-09-10T08:42:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/bdde7148-eab2-4e13-abc8-9652c52257f4?syn-25a6b1a6=1",
-   "baslik": "Must high bond yields crack stocks?",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/bdde7148-eab2-4e13-abc8-9652c52257f4?syn-25a6b1a6=1",
-   "saat": "08:30",
-   "tarih_iso": "2026-09-10T08:30:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:30:52.916514+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/crk36z3rmnzo?at_medium=RSS&at_campaign=rss",
-   "baslik": "Buy now or wait and hope? Families face gamble on heating oil",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/crk36z3rmnzo?at_medium=RSS&at_campaign=rss",
-   "saat": "08:03",
-   "tarih_iso": "2026-09-10T08:03:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
-   "baslik": "An ECB rate hike is ‘all but certain’ — but investors divided on what comes next",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
-   "saat": "08:00",
-   "tarih_iso": "2026-09-10T08:00:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bhp-stock-sliding-today-93CH-4894938",
-   "baslik": "Why is BHP stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-bhp-stock-sliding-today-93CH-4894938",
-   "saat": "07:55",
-   "tarih_iso": "2026-09-10T07:55:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/8313accc-1de6-48a8-b184-e5e3b20c5b19?syn-25a6b1a6=1",
-   "baslik": "Japan must raise rates, central banker says",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/8313accc-1de6-48a8-b184-e5e3b20c5b19?syn-25a6b1a6=1",
-   "saat": "07:07",
-   "tarih_iso": "2026-09-10T07:07:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/98329c45-f5b7-4885-9911-e0c8a9c83c0a?syn-25a6b1a6=1",
-   "baslik": "IMF ditched top candidate for chief economist job over Trump tariff remarks",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/98329c45-f5b7-4885-9911-e0c8a9c83c0a?syn-25a6b1a6=1",
-   "saat": "07:00",
-   "tarih_iso": "2026-09-10T07:00:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
  "altin_haber": [
@@ -1749,6 +1782,16 @@
    "tarih_iso": "2026-09-10T19:13:44+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T16:30:56.630816+03:00"
+  },
+  {
+   "id": "alt-https://finance.yahoo.com/markets/commodities/articles/tnr-gold-royalty-project-los-133100171.html",
+   "baslik": "TNR Gold royalty project Los Azules advances as McEwen Copper secures $240M term loan",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/tnr-gold-royalty-project-los-133100171.html",
+   "saat": "16:31",
+   "tarih_iso": "2026-09-10T16:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T17:01:10.846278+03:00"
   },
   {
    "id": "alt-https://www.investors.com/news/copper-price-fcx-stock-trump-tariffs-treasury-yields-knock-silver-gold/?src=A00220&yptr=yahoo",
@@ -1931,5 +1974,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-10T16:30:56.630816+03:00"
+ "guncelleme": "2026-09-10T17:01:10.846278+03:00"
 }
