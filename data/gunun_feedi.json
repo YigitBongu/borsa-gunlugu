@@ -2,6 +2,45 @@
  "tarih": "2026-09-10",
  "kap": [
   {
+   "id": "kap-my-CWENE-202609101541",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:41",
+   "tarih_iso": "2026-09-10T15:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "kap-my-KARSN-202609101540",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KARSN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:40",
+   "tarih_iso": "2026-09-10T15:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "kap-my-EUPWR-202609101531",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:31",
+   "tarih_iso": "2026-09-10T15:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
    "id": "kap-my-ASTOR-202609101508",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -81,6 +120,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/can-dincer-gelecegin-teknolojilerinde-soz-sahibi-olmaya-devam-edecegiz-3911587",
+   "baslik": "\"Geleceğin teknolojilerinde söz sahibi olmaya devam edeceğiz\"",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/can-dincer-gelecegin-teknolojilerinde-soz-sahibi-olmaya-devam-edecegiz-3911587",
+   "saat": "15:18",
+   "tarih_iso": "2026-09-10T15:18:48+03:00",
+   "kodlar": [
+    "ARCLK"
+   ],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/yapi-kredi-82-yasinda-3911555",
    "baslik": "Yapı Kredi 82 yaşında",
@@ -456,6 +507,166 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/10/wealthy-investors-oil-gas-assets.html",
+   "baslik": "Wealthy investors seek oil and gas assets, but bargains are scarce",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/10/wealthy-investors-oil-gas-assets.html",
+   "saat": "15:59",
+   "tarih_iso": "2026-09-10T15:59:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chemours-stock-jumps-after-pfas-settlement-in-north-carolina-93CH-4895968",
+   "baslik": "Chemours stock jumps after PFAS settlement in North Carolina",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chemours-stock-jumps-after-pfas-settlement-in-north-carolina-93CH-4895968",
+   "saat": "15:57",
+   "tarih_iso": "2026-09-10T15:57:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/eu-watchdog-flags-risk-of-abrupt-market-correction-4895956",
+   "baslik": "EU watchdog flags risk of abrupt market correction",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/eu-watchdog-flags-risk-of-abrupt-market-correction-4895956",
+   "saat": "15:54",
+   "tarih_iso": "2026-09-10T15:54:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/4-stocks-most-exposed-if-oracles-ai-spending-triggers-a-tech-pullback-93CH-4895948",
+   "baslik": "4 stocks most exposed if Oracle’s AI spending triggers a tech pullback",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/4-stocks-most-exposed-if-oracles-ai-spending-triggers-a-tech-pullback-93CH-4895948",
+   "saat": "15:51",
+   "tarih_iso": "2026-09-10T15:51:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/commercecom-stock-jumps-8-on-profitability-plan-93CH-4895934",
+   "baslik": "Commerce.com stock jumps 8% on profitability plan",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/commercecom-stock-jumps-8-on-profitability-plan-93CH-4895934",
+   "saat": "15:50",
+   "tarih_iso": "2026-09-10T15:50:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-nasdaq-futures-extend-losses-slightly-after-august-ppi-data-4895916",
+   "baslik": "S&P 500, Nasdaq futures extend losses slightly after August PPI data",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-futures-extend-losses-slightly-after-august-ppi-data-4895916",
+   "saat": "15:49",
+   "tarih_iso": "2026-09-10T15:49:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/10/nasdaq-invests-100-million-in-crypto-firm-eyes-2027-launch-of-tokenized-stocks.html",
+   "baslik": "Nasdaq invests $100 million in Kraken parent, eyeing 2027 launch of 'tokenized' stock trading",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/10/nasdaq-invests-100-million-in-crypto-firm-eyes-2027-launch-of-tokenized-stocks.html",
+   "saat": "15:48",
+   "tarih_iso": "2026-09-10T15:48:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/north-american-blue-energy-eyes-150-output-boost-by-2028--bloomberg-93CH-4895932",
+   "baslik": "North American Blue Energy eyes 150% output boost by 2028 - Bloomberg",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/north-american-blue-energy-eyes-150-output-boost-by-2028--bloomberg-93CH-4895932",
+   "saat": "15:47",
+   "tarih_iso": "2026-09-10T15:47:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-008-4895928",
+   "baslik": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.08%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-008-4895928",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-10T15:45:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/articles/u-wholesale-inflation-hits-5-124104461.html",
+   "baslik": "U.S. wholesale inflation hits 5.4% annually in August 2026",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/articles/u-wholesale-inflation-hits-5-124104461.html",
+   "saat": "15:41",
+   "tarih_iso": "2026-09-10T15:41:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/options/articles/short-term-bond-etf-better-123816016.html",
+   "baslik": "Which Short-Term Bond ETF Is the Better Buy: iShares' ISTB or Schwab's SCHO?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/options/articles/short-term-bond-etf-better-123816016.html",
+   "saat": "15:38",
+   "tarih_iso": "2026-09-10T15:38:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/video/nasdaq-invests-100m-kraken-parent-123754162.html",
+   "baslik": "Nasdaq invests $100M in Kraken parent Payward",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/video/nasdaq-invests-100m-kraken-parent-123754162.html",
+   "saat": "15:37",
+   "tarih_iso": "2026-09-10T15:37:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/wholesale-inflation-stirred-up-again-by-iran-conflict-and-higher-oil-prices-3f497534?mod=mw_rss_topstories",
+   "baslik": "Wholesale inflation stirred up by Iran war and high oil prices. What does it mean for the Fed?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/wholesale-inflation-stirred-up-again-by-iran-conflict-and-higher-oil-prices-3f497534?mod=mw_rss_topstories",
+   "saat": "15:34",
+   "tarih_iso": "2026-09-10T15:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/ecb-raises-interest-rates-again-123331896.html",
+   "baslik": "ECB raises interest rates again amid Iran war inflation pressure",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/ecb-raises-interest-rates-again-123331896.html",
+   "saat": "15:33",
+   "tarih_iso": "2026-09-10T15:33:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-sparked-123100797.html",
+   "baslik": "New Fed Chair Kevin Warsh Sparked a \"Credibility Shock\" on Wall Street After His Latest Rate Decision. 3 Reasons Investors Should Care",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-sparked-123100797.html",
+   "saat": "15:31",
+   "tarih_iso": "2026-09-10T15:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/battery-energy-storage-fluence-tesla-gm-ford-barclays-piper/?src=A00220&yptr=yahoo",
+   "baslik": "Why Analysts Are Bearish On This Tesla Energy Rival",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/battery-energy-storage-fluence-tesla-gm-ford-barclays-piper/?src=A00220&yptr=yahoo",
+   "saat": "15:30",
+   "tarih_iso": "2026-09-10T15:30:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
    "baslik": "Oracle options are doing something curious heading into earnings",
    "kaynak": "CNBC",
@@ -534,6 +745,16 @@
    "tarih_iso": "2026-09-10T15:07:13+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/683a6973-ad54-42e1-8b53-f0e294d15022?syn-25a6b1a6=1",
+   "baslik": "Saudi Arabia cuts oil output to lowest this year on Houthi threats",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/683a6973-ad54-42e1-8b53-f0e294d15022?syn-25a6b1a6=1",
+   "saat": "15:06",
+   "tarih_iso": "2026-09-10T15:06:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
   },
   {
    "id": "yab-https://www.wsj.com/business/health-care-roundup-market-talk-b98107c7?siteid=yhoof2&yptr=yahoo",
@@ -1066,6 +1287,16 @@
    "eklenme": "2026-09-10T12:01:27.023824+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html",
+   "baslik": "Stock market today: Nasdaq futures sink, Dow and S&P 500 look to snap 3-day losing streak ahead of inflation data",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html",
+   "saat": "11:37",
+   "tarih_iso": "2026-09-10T11:37:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T16:01:06.077146+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hemnet-stock-crashing-today-93CH-4895141",
    "baslik": "Why is Hemnet stock crashing today?",
    "kaynak": "Investing.com",
@@ -1474,76 +1705,6 @@
    "tarih_iso": "2026-09-09T23:16:44+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
-   "baslik": "Trump says oil and gas prices won't fall until 'right after' midterm election",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
-   "saat": "22:52",
-   "tarih_iso": "2026-09-09T22:52:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/09/fed-interest-rates-consumers-benefit-rates-stay-higher.html",
-   "baslik": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/09/fed-interest-rates-consumers-benefit-rates-stay-higher.html",
-   "saat": "21:29",
-   "tarih_iso": "2026-09-09T21:29:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/09/prediction-markets-election-kalshi-polymarket.html",
-   "baslik": "How much does it cost to move a midterm prediction market? Not much",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/09/prediction-markets-election-kalshi-polymarket.html",
-   "saat": "20:28",
-   "tarih_iso": "2026-09-09T20:28:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c86x0v4ey5yo?at_medium=RSS&at_campaign=rss",
-   "baslik": "Share Energy to increase electricity prices by 12.6%",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c86x0v4ey5yo?at_medium=RSS&at_campaign=rss",
-   "saat": "19:41",
-   "tarih_iso": "2026-09-09T19:41:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-   "baslik": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
-   "saat": "19:17",
-   "tarih_iso": "2026-09-09T19:17:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/09/why-cramer-still-recommends-being-a-little-more-reserved-about-data-center-stocks.html",
-   "baslik": "Why Cramer still recommends being 'a little more reserved' about data center stocks",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/09/why-cramer-still-recommends-being-a-little-more-reserved-about-data-center-stocks.html",
-   "saat": "19:11",
-   "tarih_iso": "2026-09-09T19:11:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/09/robinhood-ceo-says-companies-cant-control-how-their-stock-is-tokenized-as-amc-clash-escalates.html",
-   "baslik": "Robinhood CEO says companies can't control how their stock is tokenized as AMC clash escalates",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/09/robinhood-ceo-says-companies-cant-control-how-their-stock-is-tokenized-as-amc-clash-escalates.html",
-   "saat": "17:38",
-   "tarih_iso": "2026-09-09T17:38:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
  "altin_haber": [
@@ -1708,5 +1869,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-10T15:30:57.532991+03:00"
+ "guncelleme": "2026-09-10T16:01:06.077146+03:00"
 }
