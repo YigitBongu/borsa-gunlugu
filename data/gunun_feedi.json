@@ -567,6 +567,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-megaport-stock-rallying-today-93CH-4894922",
+   "baslik": "Why is Megaport stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-megaport-stock-rallying-today-93CH-4894922",
+   "saat": "06:40",
+   "tarih_iso": "2026-09-10T06:40:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T07:01:11.540998+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-regis-resources-stock-falling-today-93CH-4894921",
+   "baslik": "Why is Regis Resources stock falling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-regis-resources-stock-falling-today-93CH-4894921",
+   "saat": "06:34",
+   "tarih_iso": "2026-09-10T06:34:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T07:01:11.540998+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-haidilao-stock-sliding-today-93CH-4894917",
    "baslik": "Why is Haidilao stock sliding today?",
    "kaynak": "Investing.com",
@@ -1745,29 +1765,19 @@
    "tarih_iso": "2026-09-09T17:15:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-09T17:59:22.191206+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html",
-   "baslik": "Meta stock surges with Wall Street bullish on new AI agent",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/article/meta-stock-surges-with-wall-street-bullish-on-new-ai-agent-140959204.html",
-   "saat": "17:09",
-   "tarih_iso": "2026-09-09T17:09:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T17:31:03.596901+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/exxonmobil-touts-permian-synergies-guyana-140524820.html",
-   "baslik": "ExxonMobil Touts Permian Synergies, Guyana Cash Flow and LNG Growth at Barclays Conference",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/exxonmobil-touts-permian-synergies-guyana-140524820.html",
-   "saat": "17:05",
-   "tarih_iso": "2026-09-09T17:05:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T17:31:03.596901+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/18-milyar-dolarlik-destek-gram-altini-7-bin-liraya-tasir-mi-galeri-839431",
+   "baslik": "18 milyar dolarlık destek gram altını 7 bin liraya taşır mı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/18-milyar-dolarlik-destek-gram-altini-7-bin-liraya-tasir-mi-galeri-839431",
+   "saat": "06:20",
+   "tarih_iso": "2026-09-10T06:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T07:01:11.540998+03:00"
+  },
   {
    "id": "alt-https://tr.investing.com/news/stock-market-news/rio-tinto-winu-bakraltn-madeni-icin-aborijin-onay-ald-4060564",
    "baslik": "Rio Tinto, Winu bakır-altın madeni için Aborijin onayı aldı",
@@ -2109,5 +2119,5 @@
    "eklenme": "2026-09-09T09:01:02.368103+03:00"
   }
  ],
- "guncelleme": "2026-09-10T06:30:53.494465+03:00"
+ "guncelleme": "2026-09-10T07:01:11.540998+03:00"
 }
