@@ -2,6 +2,19 @@
  "tarih": "2026-09-10",
  "kap": [
   {
+   "id": "kap-my-ZOREN-202609101750",
+   "baslik": "BORSA İSTANBUL A.Ş. — Borçlanma Araçlarının / Kira Sertifikalarının İşlem Görmeye Başlaması",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "ZOREN"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "17:50",
+   "tarih_iso": "2026-09-10T17:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
+  {
    "id": "kap-my-AEFES-202609101632",
    "baslik": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
@@ -243,6 +256,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/lagardedan-enflasyon-uyarisi-hedefin-uzerinde-kalacak-haberi-839543",
+   "baslik": "Lagarde’dan enflasyon uyarısı: Hedefin üzerinde kalacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/lagardedan-enflasyon-uyarisi-hedefin-uzerinde-kalacak-haberi-839543",
+   "saat": "18:10",
+   "tarih_iso": "2026-09-10T18:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/ecb-baskani-lagarde-enflasyonun-uzun-sure-hedefin-oldukca-uzerinde-kalacagi-uyarisinda-bulundu/4053423",
    "baslik": "ECB Başkanı Lagarde, enflasyonun uzun süre hedefin oldukça üzerinde kalacağı uyarısında bulundu",
@@ -605,6 +628,116 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
+   "baslik": "Now’s your chance to make money during the best bond market for yields in decades — if you get over Treasury jitters",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
+   "saat": "18:25",
+   "tarih_iso": "2026-09-10T18:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/meta-is-winning-over-wall-street-with-its-new-muse-ai-agent-0700ca87?mod=mw_rss_topstories",
+   "baslik": "Meta is winning over Wall Street with its new Muse AI agent",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/meta-is-winning-over-wall-street-with-its-new-muse-ai-agent-0700ca87?mod=mw_rss_topstories",
+   "saat": "18:23",
+   "tarih_iso": "2026-09-10T18:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+   "saat": "18:18",
+   "tarih_iso": "2026-09-10T18:18:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/am-house-now-bessent-warns-150914527.html",
+   "baslik": "‘I Am the House Now,’ Bessent Warns — But Bond Traders Keep Raising Yields Anyway",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/am-house-now-bessent-warns-150914527.html",
+   "saat": "18:09",
+   "tarih_iso": "2026-09-10T18:09:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/articles/inflation-hit-hard-diesel-prices-150640473.html",
+   "baslik": "Inflation Is About to Hit Hard as Diesel Prices Soar to Record Near $6 a Gallon",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/articles/inflation-hit-hard-diesel-prices-150640473.html",
+   "saat": "18:06",
+   "tarih_iso": "2026-09-10T18:06:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/sofi-stock-down-more-40-150024543.html",
+   "baslik": "SoFi Stock Is Down More Than 40%. Here’s Why I’m Not Selling.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sofi-stock-down-more-40-150024543.html",
+   "saat": "18:00",
+   "tarih_iso": "2026-09-10T18:00:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/reddit-rises-6-user-growth-150018390.html",
+   "baslik": "Reddit Rises 6% as User Growth Hits Fastest Pace of the Year, Pinterest Ticks Up, Snap Barely Budges",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/reddit-rises-6-user-growth-150018390.html",
+   "saat": "18:00",
+   "tarih_iso": "2026-09-10T18:00:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/chewy-buy-latest-earnings-report-145924541.html",
+   "baslik": "Is Chewy a Buy After Its Latest Earnings Report?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/chewy-buy-latest-earnings-report-145924541.html",
+   "saat": "17:59",
+   "tarih_iso": "2026-09-10T17:59:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/macys-raises-annual-profit-forecast-145700246.html",
+   "baslik": "Macy's raises annual profit forecast on tariff refunds, quarterly sales beat",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/macys-raises-annual-profit-forecast-145700246.html",
+   "saat": "17:57",
+   "tarih_iso": "2026-09-10T17:57:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/crypto-mining-stocks-fall-harder-145423080.html",
+   "baslik": "Crypto Mining Stocks Fall Harder Than Bitcoin on a Risk-Off Tape: Cipher Mining Sinks 6%, MARA and Riot Drop 4%",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-mining-stocks-fall-harder-145423080.html",
+   "saat": "17:54",
+   "tarih_iso": "2026-09-10T17:54:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+   "baslik": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+   "saat": "17:52",
+   "tarih_iso": "2026-09-10T17:52:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T18:30:53.170153+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
    "baslik": "The likelihood of a Fed interest rate hike next week just got a lot higher",
@@ -1694,116 +1827,6 @@
    "tarih_iso": "2026-09-10T13:41:20+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T14:01:04.697163+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-american-eagle-outfitters-stock-tumbling-today-93CH-4895431",
-   "baslik": "Why is American Eagle Outfitters stock tumbling today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-american-eagle-outfitters-stock-tumbling-today-93CH-4895431",
-   "saat": "13:41",
-   "tarih_iso": "2026-09-10T13:41:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T14:01:04.697163+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-freeportmcmoran-stock-is-down-today-93CH-4895418",
-   "baslik": "Why Freeport-McMoRan stock is down today",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-freeportmcmoran-stock-is-down-today-93CH-4895418",
-   "saat": "13:35",
-   "tarih_iso": "2026-09-10T13:35:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T14:01:04.697163+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/white-house-copper-tariff-plan-stalls-amid-affordability-concerns-sources-say-4895361",
-   "baslik": "White House copper tariff plan stalls amid affordability concerns, sources say",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/white-house-copper-tariff-plan-stalls-amid-affordability-concerns-sources-say-4895361",
-   "saat": "13:12",
-   "tarih_iso": "2026-09-10T13:12:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T13:27:58.592674+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/362b3139-b0de-42f1-83db-67d4572a66ce?syn-25a6b1a6=1",
-   "baslik": "On Europe’s economy, let’s ditch the lazy stereotypes",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/362b3139-b0de-42f1-83db-67d4572a66ce?syn-25a6b1a6=1",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-10T13:00:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T13:27:58.592674+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-10-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000213.html",
-   "baslik": "Best CD rates today, Thursday, September 10, 2026: Lock in up to 4.35% APY with an 18-month CD",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-thursday-september-10-2026-lock-in-up-to-435-apy-with-an-18-month-cd-100000213.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-10T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T13:27:58.592674+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-september-10-2026-rates-fall-back-100000969.html",
-   "baslik": "Mortgage and refinance interest rates today, Thursday, September 10, 2026: Rates fall back",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-september-10-2026-rates-fall-back-100000969.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-10T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T13:31:09.971597+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
-   "baslik": "ECB expected to raise rates to fight inflation shock",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/083a9c4b-3913-496d-be13-22c96053624b?syn-25a6b1a6=1",
-   "saat": "12:58",
-   "tarih_iso": "2026-09-10T12:58:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T13:27:58.592674+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lucky-strike-entertainment-stock-climbing-today-93CH-4895253",
-   "baslik": "Why is Lucky Strike Entertainment stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-lucky-strike-entertainment-stock-climbing-today-93CH-4895253",
-   "saat": "12:28",
-   "tarih_iso": "2026-09-10T12:28:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T13:02:30.666451+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-international-seaways-stock-sliding-today-93CH-4895251",
-   "baslik": "Why is International Seaways stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-international-seaways-stock-sliding-today-93CH-4895251",
-   "saat": "12:28",
-   "tarih_iso": "2026-09-10T12:28:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T13:02:30.666451+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
-   "baslik": "The ECB is virtually certain to raise rates. Wall Street is bracing for what comes next.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
-   "saat": "12:27",
-   "tarih_iso": "2026-09-10T12:27:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T12:30:59.352081+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-academy-sports--outdoors-stock-slipping-today-93CH-4895247",
-   "baslik": "Why is Academy Sports & Outdoors stock slipping today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-academy-sports--outdoors-stock-slipping-today-93CH-4895247",
-   "saat": "12:23",
-   "tarih_iso": "2026-09-10T12:23:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T12:30:59.352081+03:00"
   }
  ],
  "altin_haber": [
@@ -2038,5 +2061,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-10T18:01:03.836815+03:00"
+ "guncelleme": "2026-09-10T18:30:53.170153+03:00"
 }
