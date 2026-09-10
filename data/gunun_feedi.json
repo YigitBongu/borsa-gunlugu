@@ -2,6 +2,19 @@
  "tarih": "2026-09-10",
  "kap": [
   {
+   "id": "kap-my-KORDS-202609101109",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:09",
+   "tarih_iso": "2026-09-10T11:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-10T11:30:53.994866+03:00"
+  },
+  {
    "id": "kap-my-EKGYO-202609101011",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -205,6 +218,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kongsberg-stock-climbing-today-93CH-4895109",
+   "baslik": "Why is Kongsberg stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kongsberg-stock-climbing-today-93CH-4895109",
+   "saat": "11:13",
+   "tarih_iso": "2026-09-10T11:13:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T11:30:53.994866+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-debenhams-stock-surging-today-93CH-4895083",
+   "baslik": "Why is Debenhams stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-debenhams-stock-surging-today-93CH-4895083",
+   "saat": "11:01",
+   "tarih_iso": "2026-09-10T11:01:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T11:30:53.994866+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-abivax-stock-climbing-today-93CH-4895064",
    "baslik": "Why is Abivax stock climbing today?",
@@ -798,5 +831,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-10T11:01:08.421637+03:00"
+ "guncelleme": "2026-09-10T11:30:53.994866+03:00"
 }
