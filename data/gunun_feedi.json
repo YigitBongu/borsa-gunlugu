@@ -2,6 +2,19 @@
  "tarih": "2026-09-10",
  "kap": [
   {
+   "id": "kap-my-ASTOR-202609101508",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:08",
+   "tarih_iso": "2026-09-10T15:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
    "id": "kap-my-GUBRF-202609101229",
    "baslik": "BORSA İSTANBUL A.Ş. — VİOP İşlem İptali Duyuruları",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -130,6 +143,46 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-piyasa-beklentileri-dogrultusunda-3-temel-politika-faizini-25er-baz-puan-artirdi/4053218",
+   "baslik": "Avrupa Merkez Bankası, piyasa beklentileri doğrultusunda 3 temel politika faizini 25'er baz puan artırdı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-piyasa-beklentileri-dogrultusunda-3-temel-politika-faizini-25er-baz-puan-artirdi/4053218",
+   "saat": "15:18",
+   "tarih_iso": "2026-09-10T15:18:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/dunya/ecbden-faiz-artisi-25-baz-puan-yukseltti-haberi-839511",
+   "baslik": "ECB'den faiz artışı: 25 baz puan yükseltti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/ecbden-faiz-artisi-25-baz-puan-yukseltti-haberi-839511",
+   "saat": "15:18",
+   "tarih_iso": "2026-09-10T15:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/son-dakika-ecb-faiz-kararini-acikladi-3911568",
+   "baslik": "Avrupa Merkez Bankası'ndan faiz artırımı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/son-dakika-ecb-faiz-kararini-acikladi-3911568",
+   "saat": "15:15",
+   "tarih_iso": "2026-09-10T15:15:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/merkez-bankasinin-rezervleri-4-milyar-dolar-azaldi-haberi-839506",
+   "baslik": "Merkez Bankası'nın rezervleri 4 milyar dolar azaldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/merkez-bankasinin-rezervleri-4-milyar-dolar-azaldi-haberi-839506",
+   "saat": "15:10",
+   "tarih_iso": "2026-09-10T15:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-abd-enflasyon-verisi-oncesi-geriledi-4061443",
    "baslik": "TSX vadeli işlemleri ABD enflasyon verisi öncesi geriledi",
@@ -402,6 +455,186 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
+   "baslik": "Oracle options are doing something curious heading into earnings",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/10/oracle-options-are-doing-something-curious-heading-into-earnings.html",
+   "saat": "15:20",
+   "tarih_iso": "2026-09-10T15:20:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rbc-bullish-on-technip-energies-as-record-backlog-boosts-earnings-outlook-4895833",
+   "baslik": "RBC bullish on Technip Energies as record backlog boosts earnings outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rbc-bullish-on-technip-energies-as-record-backlog-boosts-earnings-outlook-4895833",
+   "saat": "15:15",
+   "tarih_iso": "2026-09-10T15:15:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/retail-investors-cautious-on-apple-after-event-webull-uks-saunders-says-4895830",
+   "baslik": "Retail investors cautious on Apple after event, Webull UK’s Saunders says",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/retail-investors-cautious-on-apple-after-event-webull-uks-saunders-says-4895830",
+   "saat": "15:14",
+   "tarih_iso": "2026-09-10T15:14:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nike-memo-reassures-executives-remains-121259213.html",
+   "baslik": "Nike memo reassures executives it remains in S&P 500",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nike-memo-reassures-executives-remains-121259213.html",
+   "saat": "15:12",
+   "tarih_iso": "2026-09-10T15:12:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/meet-cheap-high-yield-dividend-121100175.html",
+   "baslik": "Meet the Cheap High-Yield Dividend Stock That's Crushing the Market in 2026",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/meet-cheap-high-yield-dividend-121100175.html",
+   "saat": "15:11",
+   "tarih_iso": "2026-09-10T15:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-120959369.html",
+   "baslik": "Here Are Thursday’s Top Wall Street Analyst Research Calls: Advanced Micro Devices, Amgen, AngloGold Ashanti, Caterpillar, Chewy, Meta Platforms, Novartis, NVIDIA, SK hynix, and More",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/thursday-top-wall-street-analyst-120959369.html",
+   "saat": "15:09",
+   "tarih_iso": "2026-09-10T15:09:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-chipmaker-tsmc/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Dow Rises Ahead Of Key Inflation Data; Nvidia Chipmaker Falls On Sales (Live Coverage)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-chipmaker-tsmc/?src=A00220&yptr=yahoo",
+   "saat": "15:07",
+   "tarih_iso": "2026-09-10T15:07:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
+   "baslik": "Dow Jones Futures Rise, Techs Fall As Oil Prices, Yields Keep Climbing. Inflation Data Due.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
+   "saat": "15:07",
+   "tarih_iso": "2026-09-10T15:07:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/business/health-care-roundup-market-talk-b98107c7?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Health Care Roundup: Market Talk",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-b98107c7?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:06",
+   "tarih_iso": "2026-09-10T15:06:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-buy-120500772.html",
+   "baslik": "3 AI Chip Stocks to Buy in September",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-buy-120500772.html",
+   "saat": "15:05",
+   "tarih_iso": "2026-09-10T15:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/increasing-power-demand-amid-ai-120102178.html",
+   "baslik": "Increasing Power Demand Amid AI Boom Strengthens Bloom Energy (BE)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/increasing-power-demand-amid-ai-120102178.html",
+   "saat": "15:01",
+   "tarih_iso": "2026-09-10T15:01:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
+   "baslik": "Apple’s stock rises after iPhone reveal. The company is walking a ‘tightrope’ on pricing, say analysts.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories",
+   "saat": "15:01",
+   "tarih_iso": "2026-09-10T15:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hagerty-stock-tumbling-today-93CH-4895742",
+   "baslik": "Why is Hagerty stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hagerty-stock-tumbling-today-93CH-4895742",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-10T15:00:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nestle-ceo-says-middle-east-conflict-driving-inflation-higher-supplier-costs-4895741",
+   "baslik": "Nestle CEO says Middle East conflict driving inflation, higher supplier costs",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nestle-ceo-says-middle-east-conflict-driving-inflation-higher-supplier-costs-4895741",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-10T15:00:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stocks-perform-fed-rate-decisions-120011505.html",
+   "baslik": "How Stocks Perform After Fed Rate Decisions",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-perform-fed-rate-decisions-120011505.html",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-10T15:00:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nike-loses-spot-p-100-120000497.html",
+   "baslik": "Nike loses its spot in the S&P 100 after an 18-year streak as shares crater nearly 80% from their peak",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nike-loses-spot-p-100-120000497.html",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-10T15:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mastercraft-boat-stock-surging-today-93CH-4895737",
+   "baslik": "Why is MasterCraft Boat stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mastercraft-boat-stock-surging-today-93CH-4895737",
+   "saat": "14:58",
+   "tarih_iso": "2026-09-10T14:58:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nasdaq-to-invest-100-million-in-kraken-parent-to-deepen-tokenization-push-4895735",
+   "baslik": "Nasdaq to invest $100 million in Kraken parent to deepen tokenization push",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nasdaq-to-invest-100-million-in-kraken-parent-to-deepen-tokenization-push-4895735",
+   "saat": "14:55",
+   "tarih_iso": "2026-09-10T14:55:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T15:30:57.532991+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-axogen-stock-sliding-today-93CH-4895727",
    "baslik": "Why is Axogen stock sliding today?",
@@ -1475,5 +1708,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-10T15:01:04.714750+03:00"
+ "guncelleme": "2026-09-10T15:30:57.532991+03:00"
 }
