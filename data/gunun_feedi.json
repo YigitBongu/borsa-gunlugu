@@ -2,6 +2,32 @@
  "tarih": "2026-09-10",
  "kap": [
   {
+   "id": "kap-my-GUBRF-202609101229",
+   "baslik": "BORSA İSTANBUL A.Ş. — VİOP İşlem İptali Duyuruları",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "GUBRF"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:29",
+   "tarih_iso": "2026-09-10T12:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-10T13:01:05.600757+03:00"
+  },
+  {
+   "id": "kap-my-BOBET-202609101212",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:12",
+   "tarih_iso": "2026-09-10T12:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-10T13:01:05.600757+03:00"
+  },
+  {
    "id": "kap-my-KORDS-202609101109",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -42,6 +68,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/garanti-bbvadan-mustakil-ev-kredisi-3911540",
+   "baslik": "Garanti BBVA’dan müstakil ev kredisi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/garanti-bbvadan-mustakil-ev-kredisi-3911540",
+   "saat": "12:37",
+   "tarih_iso": "2026-09-10T12:37:04+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-09-10T13:01:05.600757+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-18-yil-sonra-sampiyonlar-liginde-muhtemel-11-belli-oldu-haberi-839484",
    "baslik": "Fenerbahçe 18 yıl sonra Şampiyonlar Ligi'nde: Muhtemel 11 belli oldu",
@@ -251,6 +289,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lucky-strike-entertainment-stock-climbing-today-93CH-4895253",
+   "baslik": "Why is Lucky Strike Entertainment stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lucky-strike-entertainment-stock-climbing-today-93CH-4895253",
+   "saat": "12:28",
+   "tarih_iso": "2026-09-10T12:28:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T13:01:05.600757+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-international-seaways-stock-sliding-today-93CH-4895251",
+   "baslik": "Why is International Seaways stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-international-seaways-stock-sliding-today-93CH-4895251",
+   "saat": "12:28",
+   "tarih_iso": "2026-09-10T12:28:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T13:01:05.600757+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/the-ecb-is-virtually-certain-to-hike-rates-thursday-here-is-why-wall-street-is-bracing-for-what-comes-next-7ec46af0?mod=mw_rss_topstories",
    "baslik": "The ECB is virtually certain to raise rates. Wall Street is bracing for what comes next.",
    "kaynak": "MarketWatch",
@@ -299,6 +357,16 @@
    "tarih_iso": "2026-09-10T12:22:03+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T12:30:59.352081+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+   "baslik": "Oil prices extend gains, Brent stays above $100 a barrel on Mideast worries",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+   "saat": "12:17",
+   "tarih_iso": "2026-09-10T12:17:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T13:01:05.600757+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-genus-stock-falling-today-93CH-4895216",
@@ -1023,5 +1091,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-10T12:30:59.352081+03:00"
+ "guncelleme": "2026-09-10T13:01:05.600757+03:00"
 }
