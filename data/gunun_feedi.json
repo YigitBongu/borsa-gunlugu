@@ -867,6 +867,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Are interest rates on the way up again?",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+   "saat": "02:03",
+   "tarih_iso": "2026-09-11T02:03:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T02:30:49.152573+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/10/jim-cramer-key-force-driving-stocks-right-now.html",
    "baslik": "Jim Cramer says this is the key force driving stocks right now",
    "kaynak": "CNBC",
@@ -2055,16 +2065,6 @@
    "tarih_iso": "2026-09-10T18:33:01+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T19:01:02.408560+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/articles/3-chip-equipment-stocks-set-153139577.html",
-   "baslik": "3 Chip Equipment Stocks Set to Win the Memory Boom",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/articles/3-chip-equipment-stocks-set-153139577.html",
-   "saat": "18:31",
-   "tarih_iso": "2026-09-10T18:31:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T19:01:02.408560+03:00"
   }
  ],
  "altin_haber": [
@@ -2349,5 +2349,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-11T02:01:00.854626+03:00"
+ "guncelleme": "2026-09-11T02:30:49.152573+03:00"
 }
