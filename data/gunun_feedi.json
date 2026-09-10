@@ -255,6 +255,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-yukselen-getirilerle-dusen-wall-street-sonras-sakin-ufe-tufe-bekleniyor-4060553",
+   "baslik": "ABD hisse senedi vadeli işlemleri yükselen getirilerle düşen Wall Street sonrası sakin; ÜFE, TÜFE bekleniyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-yukselen-getirilerle-dusen-wall-street-sonras-sakin-ufe-tufe-bekleniyor-4060553",
+   "saat": "03:50",
+   "tarih_iso": "2026-09-10T03:50:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T04:30:49.881385+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-omer-bolat-turkiyede-lojistik-sektorunun-toplam-milli-gelire-katkisi-115-milyar-dolar/4052447",
    "baslik": "Ticaret Bakanı Ömer Bolat: Türkiye'de lojistik sektörünün toplam milli gelire katkısı 115 milyar dolar",
    "kaynak": "AA Ekonomi",
@@ -547,6 +557,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-falls-on-higher-yields-ppi-cpi-awaited-4894822",
+   "baslik": "U.S. stock futures steady after Wall St falls on higher yields; PPI, CPI awaited",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-falls-on-higher-yields-ppi-cpi-awaited-4894822",
+   "saat": "03:50",
+   "tarih_iso": "2026-09-10T03:50:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T04:30:49.881385+03:00"
+  },
+  {
    "id": "yab-https://www.ft.com/content/012b9a34-445d-483c-a6c6-1fbd52e60731?syn-25a6b1a6=1",
    "baslik": "China warns bankers not to flood IPO market with ‘low-quality’ companies",
    "kaynak": "FT",
@@ -555,6 +575,16 @@
    "tarih_iso": "2026-09-10T03:45:53+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T04:01:03.952055+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
+   "baslik": "Inside India newsletter: India’s green push aims to boost energy security but exposes China dependency",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
+   "saat": "03:09",
+   "tarih_iso": "2026-09-10T03:09:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T04:30:49.881385+03:00"
   },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
@@ -1725,29 +1755,29 @@
    "tarih_iso": "2026-09-09T16:55:50+03:00",
    "kodlar": [],
    "eklenme": "2026-09-09T17:31:03.596901+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/technology/meta-stock-jumps-muse-ai-agent/?src=A00220&yptr=yahoo",
-   "baslik": "Meta Stock Jumps As Tech Giant Touts Early Interest In Muse AI Agent",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/technology/meta-stock-jumps-muse-ai-agent/?src=A00220&yptr=yahoo",
-   "saat": "16:53",
-   "tarih_iso": "2026-09-09T16:53:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T17:31:03.596901+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/treasury-yields-bessent-buyback-sp-500-gold-oil-prices/?src=A00220&yptr=yahoo",
-   "baslik": "Oil Prices Jump, Treasury Yields Firm With Bessent Set To Calm 'Fever'",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/treasury-yields-bessent-buyback-sp-500-gold-oil-prices/?src=A00220&yptr=yahoo",
-   "saat": "16:46",
-   "tarih_iso": "2026-09-09T16:46:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-09T17:01:04.391336+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/rio-tinto-winu-bakraltn-madeni-icin-aborijin-onay-ald-4060564",
+   "baslik": "Rio Tinto, Winu bakır-altın madeni için Aborijin onayı aldı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/rio-tinto-winu-bakraltn-madeni-icin-aborijin-onay-ald-4060564",
+   "saat": "04:04",
+   "tarih_iso": "2026-09-10T04:04:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T04:30:49.881385+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/rio-tinto-wins-aboriginal-consent-for-winu-coppergold-mine-4894834",
+   "baslik": "Rio Tinto wins Aboriginal consent for Winu copper-gold mine",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rio-tinto-wins-aboriginal-consent-for-winu-coppergold-mine-4894834",
+   "saat": "04:04",
+   "tarih_iso": "2026-09-10T04:04:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-10T04:30:49.881385+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-faces-a-critical-4400-test-as-treasury-yields-surge-200687404",
    "baslik": "Gold Faces a Critical $4,400 Test as Treasury Yields Surge",
@@ -2069,5 +2099,5 @@
    "eklenme": "2026-09-09T09:01:02.368103+03:00"
   }
  ],
- "guncelleme": "2026-09-10T04:01:03.952055+03:00"
+ "guncelleme": "2026-09-10T04:30:49.881385+03:00"
 }
