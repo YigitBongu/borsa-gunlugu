@@ -376,6 +376,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/2027-2029-donemi-butce-cagrisi-resmi-gazetede/4054851",
+   "baslik": "2027-2029 Dönemi Bütçe Çağrısı Resmi Gazete'de",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/2027-2029-donemi-butce-cagrisi-resmi-gazetede/4054851",
+   "saat": "01:17",
+   "tarih_iso": "2026-09-12T01:17:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-12T01:30:50.159897+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sektorler/turizm/turizmde-2027-siparisleri-istanbulda-yaziliyor-hedef-100-milyon-euro-haberi-839689",
    "baslik": "Turizmde 2027 siparişleri İstanbul’da  yazılıyor: Hedef 100 milyon euro",
    "kaynak": "Dünya",
@@ -896,6 +906,16 @@
    "tarih_iso": "2026-09-12T00:14:42+03:00",
    "kodlar": [],
    "eklenme": "2026-09-12T01:00:59.771595+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html",
+   "baslik": "Treasury yields remain near multiyear highs as August CPI shows sticky inflation",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html",
+   "saat": "23:37",
+   "tarih_iso": "2026-09-11T23:37:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-12T01:30:50.159897+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-098-4898414",
@@ -2046,16 +2066,6 @@
    "tarih_iso": "2026-09-11T16:14:06+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T16:31:28.929666+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/article/fed-rate-hike-odds-surge-to-90-on-monthly-jump-in-core-prices-131206510.html",
-   "baslik": "Fed rate hike odds surge to 90% on monthly jump in core prices",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/article/fed-rate-hike-odds-surge-to-90-on-monthly-jump-in-core-prices-131206510.html",
-   "saat": "16:12",
-   "tarih_iso": "2026-09-11T16:12:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-11T18:01:04.621661+03:00"
   }
  ],
  "altin_haber": [
@@ -2360,5 +2370,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-12T01:00:59.771595+03:00"
+ "guncelleme": "2026-09-12T01:30:50.159897+03:00"
 }
