@@ -2,6 +2,32 @@
  "tarih": "2026-09-11",
  "kap": [
   {
+   "id": "kap-my-AKFGY-202609111136",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "AKFGY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:36",
+   "tarih_iso": "2026-09-11T11:36:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T12:01:02.917288+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202609111129",
+   "baslik": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "11:29",
+   "tarih_iso": "2026-09-11T11:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T12:01:02.917288+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202609111105",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Kredi Derecelendirmesi",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -401,6 +427,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+   "baslik": "Iran-backed Houthis seize key port in Yemen, advance on another vital oil choke point",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html",
+   "saat": "11:44",
+   "tarih_iso": "2026-09-11T11:44:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T12:01:02.917288+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tsk-electronica-stock-tumbling-today-93CH-4897386",
+   "baslik": "Why is TSK Electronica stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tsk-electronica-stock-tumbling-today-93CH-4897386",
+   "saat": "11:34",
+   "tarih_iso": "2026-09-11T11:34:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T12:01:02.917288+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/harbour-energy-shares-fall-as-basf-stake-sale-announced-93CH-4897376",
+   "baslik": "Harbour Energy shares fall as BASF stake sale announced",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/harbour-energy-shares-fall-as-basf-stake-sale-announced-93CH-4897376",
+   "saat": "11:31",
+   "tarih_iso": "2026-09-11T11:31:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T12:01:02.917288+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-123-4897375",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 1.23%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-123-4897375",
+   "saat": "11:30",
+   "tarih_iso": "2026-09-11T11:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T12:01:02.917288+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-sees-rangebound-india-markets-amid-macro-headwinds-93CH-4897373",
+   "baslik": "Jefferies sees range-bound India markets amid macro headwinds",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jefferies-sees-rangebound-india-markets-amid-macro-headwinds-93CH-4897373",
+   "saat": "11:27",
+   "tarih_iso": "2026-09-11T11:27:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T12:01:02.917288+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/bank-of-england-expected-to-hold-rates-at-375-next-week-says-bofa-93CH-4897364",
    "baslik": "Bank of England expected to hold rates at 3.75% next week says BofA",
@@ -1034,5 +1110,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-11T11:30:57.486268+03:00"
+ "guncelleme": "2026-09-11T12:01:02.917288+03:00"
 }
