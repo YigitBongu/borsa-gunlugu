@@ -2,6 +2,32 @@
  "tarih": "2026-09-11",
  "kap": [
   {
+   "id": "kap-my-KARSN-202609111001",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KARSN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:01",
+   "tarih_iso": "2026-09-11T10:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
+  {
+   "id": "kap-my-SELEC-202609111000",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-11T10:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
+  {
    "id": "kap-my-GESAN-202609110939",
    "baslik": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş. — İhale Süreci / Sonucu",
    "sirket": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
@@ -91,6 +117,56 @@
    "tarih_iso": "2026-09-11T10:53:38+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-abd-tufe-oranlari-saati-haberi-839611",
+   "baslik": "ABD enflasyon rakamları ne zaman, saat kaçta açıklanacak? ABD TÜFE oranları saati...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-abd-tufe-oranlari-saati-haberi-839611",
+   "saat": "10:16",
+   "tarih_iso": "2026-09-11T10:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/cari-islemler-hesabi-temmuzda-36-milyon-dolar-fazla-verdi-haberi-839612",
+   "baslik": "Cari işlemler hesabı temmuzda 36 milyon dolar fazla verdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/cari-islemler-hesabi-temmuzda-36-milyon-dolar-fazla-verdi-haberi-839612",
+   "saat": "10:15",
+   "tarih_iso": "2026-09-11T10:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/ecbnin-sert-faiz-arts-avrupa-hisselerini-nisandan-bu-yana-en-kotu-haftaya-surukluyor-4062726",
+   "baslik": "ECB’nin sert faiz artışı Avrupa hisselerini Nisan’dan bu yana en kötü haftaya sürüklüyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/ecbnin-sert-faiz-arts-avrupa-hisselerini-nisandan-bu-yana-en-kotu-haftaya-surukluyor-4062726",
+   "saat": "10:04",
+   "tarih_iso": "2026-09-11T10:04:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/tcmb-anketinde-enflasyon-beklentisi-yukseldi-dolar-ve-faiz-tahmini-de-belli-oldu-haberi-839608",
+   "baslik": "TCMB anketinde enflasyon beklentisi yükseldi: Dolar ve faiz tahmini de belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/tcmb-anketinde-enflasyon-beklentisi-yukseldi-dolar-ve-faiz-tahmini-de-belli-oldu-haberi-839608",
+   "saat": "10:04",
+   "tarih_iso": "2026-09-11T10:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/kuresel-piyasalarda-gozler-abd-nin-enflasyon-verilerine-cevrildi-3911737",
+   "baslik": "ABD'nin enflasyon verileri bekleniyor",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/kuresel-piyasalarda-gozler-abd-nin-enflasyon-verilerine-cevrildi-3911737",
+   "saat": "10:01",
+   "tarih_iso": "2026-09-11T10:01:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
   },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/bae-den-almanya-ya-40-milyar-euro-luk-ek-yatirim-3911727",
@@ -224,6 +300,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-heading-for-worst-week-since-april-as-ecb-hike-batters-risk-4897227",
+   "baslik": "European stocks heading for worst week since April as ECB hike batters risk",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-heading-for-worst-week-since-april-as-ecb-hike-batters-risk-4897227",
+   "saat": "10:05",
+   "tarih_iso": "2026-09-11T10:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/trainline-h1-revenue-slips-as-uk-refund-changes-offset-b2b-growth-4897279",
+   "baslik": "Trainline H1 revenue beats consensus despite slowing segment growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/trainline-h1-revenue-slips-as-uk-refund-changes-offset-b2b-growth-4897279",
+   "saat": "10:04",
+   "tarih_iso": "2026-09-11T10:04:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/these-five-stocks-are-citis-top-picks-in-the-chinese-internet-sector-93CH-4897288",
+   "baslik": "These Five Stocks are Citi’s Top Picks in the Chinese Internet Sector",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/these-five-stocks-are-citis-top-picks-in-the-chinese-internet-sector-93CH-4897288",
+   "saat": "10:01",
+   "tarih_iso": "2026-09-11T10:01:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-187-4897281",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 1.87%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-187-4897281",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-11T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/zara-owner-inditex-looks-to-us-for-next-phase-of-growth-4897264",
    "baslik": "Zara owner Inditex looks to US for next phase of growth",
@@ -527,6 +643,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/golds-pre-cpi-bounce-looks-more-like-a-trap-than-a-turn-200687508",
+   "baslik": "Gold’s Pre CPI Bounce Looks More Like a Trap Than a Turn",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-pre-cpi-bounce-looks-more-like-a-trap-than-a-turn-200687508",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-at-4351-200687495",
+   "baslik": "Gold Tests Critical VC PMI Support at $4,351",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-tests-critical-vc-pmi-support-at-4351-200687495",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:30:51.654467+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-weathers-violent-rates-move-ahead-of-cpi-200687491",
    "baslik": "Gold Weathers Violent Rates Move Ahead of CPI",
    "kaynak": "Investing Emtia",
@@ -657,5 +793,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-11T10:01:02.678651+03:00"
+ "guncelleme": "2026-09-11T10:30:51.654467+03:00"
 }
