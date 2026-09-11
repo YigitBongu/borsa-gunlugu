@@ -2,6 +2,19 @@
  "tarih": "2026-09-11",
  "kap": [
   {
+   "id": "kap-my-BAGFS-202609111400",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BAGFS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:00",
+   "tarih_iso": "2026-09-11T14:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T14:30:52.351263+03:00"
+  },
+  {
    "id": "kap-my-AKFGY-202609111136",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -194,6 +207,26 @@
    "tarih_iso": "2026-09-11T15:14:33+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T12:31:00.175997+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/gumuste-sert-viraj-121-dolardan-64-dolara-indi-simdi-80-dolar-konusuluyor-galeri-839653",
+   "baslik": "Gümüşte sert viraj 121 dolardan 64 dolara indi, şimdi 80 dolar konuşuluyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/gumuste-sert-viraj-121-dolardan-64-dolara-indi-simdi-80-dolar-konusuluyor-galeri-839653",
+   "saat": "14:12",
+   "tarih_iso": "2026-09-11T14:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T14:30:52.351263+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-ihracatcilarimizin-rekabet-gucunu-artiracak-adimlar-atmaya-devam-edecegiz/4054250",
+   "baslik": "Hazine ve Maliye Bakanı Şimşek: İhracatçılarımızın rekabet gücünü artıracak adımlar atmaya devam edeceğiz",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-ihracatcilarimizin-rekabet-gucunu-artiracak-adimlar-atmaya-devam-edecegiz/4054250",
+   "saat": "14:06",
+   "tarih_iso": "2026-09-11T14:06:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T14:30:52.351263+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/abdde-dizel-fiyat-iran-savasyla-rekor-krd-galon-basna-606-dolar-93CH-4063070",
@@ -467,6 +500,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+   "baslik": "Oracle jumps 6% after reporting 30% revenue growth fueled by AI cloud demand",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+   "saat": "14:22",
+   "tarih_iso": "2026-09-11T14:22:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T14:30:52.351263+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/premarket-movers-oracle-surges-on-ai-growth-acv-auctions-jumps-on-19b-deal-4897616",
+   "baslik": "Premarket movers: Oracle surges on AI growth, ACV auctions jumps on $1.9B deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/premarket-movers-oracle-surges-on-ai-growth-acv-auctions-jumps-on-19b-deal-4897616",
+   "saat": "14:18",
+   "tarih_iso": "2026-09-11T14:18:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T14:30:52.351263+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hooker-furniture-stock-surging-today-93CH-4897671",
+   "baslik": "Why is Hooker Furniture stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hooker-furniture-stock-surging-today-93CH-4897671",
+   "saat": "14:14",
+   "tarih_iso": "2026-09-11T14:14:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T14:30:52.351263+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kroger-stock-sliding-today-93CH-4897662",
+   "baslik": "Why is Kroger stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kroger-stock-sliding-today-93CH-4897662",
+   "saat": "14:08",
+   "tarih_iso": "2026-09-11T14:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T14:30:52.351263+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories",
    "baslik": "The four reasons stocks are about to embark on a ‘face-ripper rally’",
@@ -1220,6 +1293,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/cari-denge-10-ay-sonra-fazla-verdi-temmuzda-36-milyon-dolarlik-fazla-3465317",
+   "baslik": "Cari denge 10 ay sonra fazla verdi: Temmuzda 36 milyon dolarlık fazla",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/cari-denge-10-ay-sonra-fazla-verdi-temmuzda-36-milyon-dolarlik-fazla-3465317",
+   "saat": "17:26",
+   "tarih_iso": "2026-09-11T17:26:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T14:30:52.351263+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-11-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3465285",
    "baslik": "ALTIN FİYATLARI 11 EYLÜL 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
    "kaynak": "CNN Türk Ekonomi",
@@ -1228,6 +1311,16 @@
    "tarih_iso": "2026-09-11T15:07:59+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T12:31:00.175997+03:00"
+  },
+  {
+   "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-11-2026-gold-opens-at-lowest-level-in-over-a-month-ahead-of-cpi-data-111016419.html",
+   "baslik": "Gold price today, Friday, September 11, 2026: Gold opens at lowest level in over a month ahead of CPI data",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-11-2026-gold-opens-at-lowest-level-in-over-a-month-ahead-of-cpi-data-111016419.html",
+   "saat": "14:10",
+   "tarih_iso": "2026-09-11T14:10:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T14:30:52.351263+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-falls-as-inflation-fears-and-high-oil-prices-weigh-on-the-precious-metal-200687515",
@@ -1410,5 +1503,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-11T14:01:04.573731+03:00"
+ "guncelleme": "2026-09-11T14:30:52.351263+03:00"
 }
