@@ -445,6 +445,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-tufe-oncesi-sakin-seyretti-4062556",
+   "baslik": "ABD hisse senedi vadeli işlemleri TÜFE öncesi sakin seyretti",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-tufe-oncesi-sakin-seyretti-4062556",
+   "saat": "03:22",
+   "tarih_iso": "2026-09-11T03:22:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T04:01:00.945738+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sektorler/elektrik-elektronikte-hedef-20-milyar-dolar-ihracat-haberi-839523",
    "baslik": "Elektrik-elektronikte hedef 20 milyar dolar ihracat",
    "kaynak": "Dünya",
@@ -866,6 +876,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-cpi-on-tap-oracle-firms-on-strong-earnings-4897114",
+   "baslik": "U.S. stock futures steady with CPI on tap; Oracle firms on strong earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-with-cpi-on-tap-oracle-firms-on-strong-earnings-4897114",
+   "saat": "03:22",
+   "tarih_iso": "2026-09-11T03:22:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T04:01:00.945738+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/11/the-iphone-duo-enters-chinas-crowded-foldable-market.html",
    "baslik": "The iPhone Duo enters China’s crowded foldable market — and faces a price test",
@@ -2055,16 +2075,6 @@
    "tarih_iso": "2026-09-10T18:34:26+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T19:01:02.408560+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
-   "baslik": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
-   "saat": "18:34",
-   "tarih_iso": "2026-09-10T18:34:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T19:01:02.408560+03:00"
   }
  ],
  "altin_haber": [
@@ -2349,5 +2359,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-11T03:30:52.191858+03:00"
+ "guncelleme": "2026-09-11T04:01:00.945738+03:00"
 }
