@@ -2,6 +2,19 @@
  "tarih": "2026-09-11",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202609111105",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "11:05",
+   "tarih_iso": "2026-09-11T11:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T11:30:57.486268+03:00"
+  },
+  {
    "id": "kap-my-MIATK-202609111035",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -388,6 +401,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bank-of-england-expected-to-hold-rates-at-375-next-week-says-bofa-93CH-4897364",
+   "baslik": "Bank of England expected to hold rates at 3.75% next week says BofA",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bank-of-england-expected-to-hold-rates-at-375-next-week-says-bofa-93CH-4897364",
+   "saat": "11:20",
+   "tarih_iso": "2026-09-11T11:20:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:30:57.486268+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alstom-stock-rallying-today-93CH-4897352",
+   "baslik": "Why is Alstom stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-alstom-stock-rallying-today-93CH-4897352",
+   "saat": "11:09",
+   "tarih_iso": "2026-09-11T11:09:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:30:57.486268+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-flatexdegiro-stock-sliding-today-93CH-4897351",
+   "baslik": "Why is flatexDEGIRO stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-flatexdegiro-stock-sliding-today-93CH-4897351",
+   "saat": "11:08",
+   "tarih_iso": "2026-09-11T11:08:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:30:57.486268+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-norsk-hydro-stock-sliding-today-93CH-4897350",
+   "baslik": "Why is Norsk Hydro stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-norsk-hydro-stock-sliding-today-93CH-4897350",
+   "saat": "11:07",
+   "tarih_iso": "2026-09-11T11:07:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:30:57.486268+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-novo-nordisk-stock-sliding-today-93CH-4897336",
    "baslik": "Why is Novo Nordisk stock sliding today?",
@@ -981,5 +1034,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-11T11:00:58.882473+03:00"
+ "guncelleme": "2026-09-11T11:30:57.486268+03:00"
 }
