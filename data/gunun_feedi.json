@@ -199,6 +199,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/abd-enflasyonu-aciklandi-agustos-ayi-tufe-verisi-belli-oldu-haberi-839658",
+   "baslik": "ABD enflasyonu açıklandı: Ağustos ayı TÜFE verisi belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/abd-enflasyonu-aciklandi-agustos-ayi-tufe-verisi-belli-oldu-haberi-839658",
+   "saat": "15:20",
+   "tarih_iso": "2026-09-11T15:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T15:31:17.910992+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/piyasa-katilimcilari-anketi-aciklandi-enflasyon-ve-dolar-beklentisi-yukseldi-3465287",
    "baslik": "Piyasa Katılımcıları Anketi açıklandı: Enflasyon ve dolar beklentisi yükseldi",
    "kaynak": "CNN Türk Ekonomi",
@@ -207,6 +217,16 @@
    "tarih_iso": "2026-09-11T15:14:33+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T12:31:00.175997+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/tcmb-karari-sonrasi-faiz-senaryolari-dev-bankalar-beklentilerini-acikladi-galeri-839657",
+   "baslik": "TCMB kararı sonrası faiz senaryoları: Dev bankalar beklentilerini açıkladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/tcmb-karari-sonrasi-faiz-senaryolari-dev-bankalar-beklentilerini-acikladi-galeri-839657",
+   "saat": "14:56",
+   "tarih_iso": "2026-09-11T14:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T15:31:17.910992+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-abd-enflasyon-verisi-oncesi-yukseldi-4063235",
@@ -511,6 +531,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
+   "baslik": "Wealthy investors are pouring billions into this new tax strategy despite risks",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
+   "saat": "15:21",
+   "tarih_iso": "2026-09-11T15:21:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T15:31:17.910992+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/estee-lauder-el-stock-analysis-is-the-latest-dip-a-buying-opportunity-93CH-4897761",
+   "baslik": "Estee Lauder (EL) stock analysis: Is the latest dip a buying opportunity?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/estee-lauder-el-stock-analysis-is-the-latest-dip-a-buying-opportunity-93CH-4897761",
+   "saat": "14:54",
+   "tarih_iso": "2026-09-11T14:54:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T15:31:17.910992+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-rallying-today-93CH-4897732",
    "baslik": "Why is GameStop stock rallying today?",
    "kaynak": "Investing.com",
@@ -529,6 +569,16 @@
    "tarih_iso": "2026-09-11T14:42:28+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T15:01:05.750672+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-11-2026-bitcoin-falls-below-77000-with-key-inflation-data-on-deck-113905130.html",
+   "baslik": "Bitcoin and ethereum prices today, Friday, September 11, 2026: Bitcoin falls below $77,000 with key inflation data on deck",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-11-2026-bitcoin-falls-below-77000-with-key-inflation-data-on-deck-113905130.html",
+   "saat": "14:39",
+   "tarih_iso": "2026-09-11T14:39:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T15:31:17.910992+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-point-higher-ahead-of-key-us-inflation-data-4897721",
@@ -1563,5 +1613,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-11T15:01:05.750672+03:00"
+ "guncelleme": "2026-09-11T15:31:17.910992+03:00"
 }
