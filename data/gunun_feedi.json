@@ -2,6 +2,19 @@
  "tarih": "2026-09-11",
  "kap": [
   {
+   "id": "kap-my-KORDS-202609111647",
+   "baslik": "BORSA İSTANBUL A.Ş. — Hak Kullanımı",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:47",
+   "tarih_iso": "2026-09-11T16:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
    "id": "kap-my-ISCTR-202609111627",
    "baslik": "TÜRKİYE İŞ BANKASI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "TÜRKİYE İŞ BANKASI A.Ş.",
@@ -186,6 +199,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcede-ismail-kartal-donemi-sona-erdi-haberi-839672",
+   "baslik": "Fenerbahçe'de İsmail Kartal dönemi sona erdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcede-ismail-kartal-donemi-sona-erdi-haberi-839672",
+   "saat": "17:19",
+   "tarih_iso": "2026-09-11T17:19:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/ismail-kartal-istifa-etti-mi-geri-dondu-mu-kartal-ayrildi-mi-haberi-839666",
    "baslik": "İsmail Kartal istifa etti mi, geri döndü mü? Kartal ayrıldı mı?",
@@ -619,6 +644,116 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hewlett-packard-enterprise-stock-surging-today-93CH-4898128",
+   "baslik": "Why is Hewlett Packard Enterprise stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hewlett-packard-enterprise-stock-surging-today-93CH-4898128",
+   "saat": "17:22",
+   "tarih_iso": "2026-09-11T17:22:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hp-stock-surging-today-93CH-4898125",
+   "baslik": "Why is HP stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hp-stock-surging-today-93CH-4898125",
+   "saat": "17:19",
+   "tarih_iso": "2026-09-11T17:19:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nasdaq-100-doji-stall-near-29800-resistance-live-levels-93CH-4890670",
+   "baslik": "Nasdaq 100 trapped in 900-pt range, breakout pending: Live levels",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-doji-stall-near-29800-resistance-live-levels-93CH-4890670",
+   "saat": "17:16",
+   "tarih_iso": "2026-09-11T17:16:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dow-jones-clings-to-200sma-at-53148-live-levels-93CH-4890671",
+   "baslik": "Dow Jones rebounds to 52,657 but bearish ceiling holds: Live levels",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dow-jones-clings-to-200sma-at-53148-live-levels-93CH-4890671",
+   "saat": "17:16",
+   "tarih_iso": "2026-09-11T17:16:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dollar-index-hugs-support-as-bear-flag-breaks-live-levels-93CH-4890667",
+   "baslik": "Dollar Index stalls under 99 at heavy resistance: Live levels",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dollar-index-hugs-support-as-bear-flag-breaks-live-levels-93CH-4890667",
+   "saat": "17:16",
+   "tarih_iso": "2026-09-11T17:16:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-stalls-midrange-eyes-7780-break-live-levels-93CH-4890669",
+   "baslik": "S&P 500 trapped between 200-SMA and cloud: Live levels",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-stalls-midrange-eyes-7780-break-live-levels-93CH-4890669",
+   "saat": "17:16",
+   "tarih_iso": "2026-09-11T17:16:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/tech-stocks-rally-as-oil-prices-fall-inflation-remains-sticky-alphacheck-140509850.html",
+   "baslik": "Tech stocks rally as oil prices fall, inflation remains sticky: AlphaCheck",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/tech-stocks-rally-as-oil-prices-fall-inflation-remains-sticky-alphacheck-140509850.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-09-11T17:05:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-recover-oil-095547409.html",
+   "baslik": "Wall St climbs after August inflation report, oil price slide",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-recover-oil-095547409.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-09-11T17:04:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/kroger-q2-earnings-call-highlights-140319466.html",
+   "baslik": "Kroger Q2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/kroger-q2-earnings-call-highlights-140319466.html",
+   "saat": "17:03",
+   "tarih_iso": "2026-09-11T17:03:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tecsys-q1-earnings-call-highlights-140319230.html",
+   "baslik": "Tecsys Q1 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tecsys-q1-earnings-call-highlights-140319230.html",
+   "saat": "17:03",
+   "tarih_iso": "2026-09-11T17:03:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-30-year-mortgage-rate-just-crossed-7-for-the-first-time-in-over-a-year-a3fba38f?mod=mw_rss_topstories",
+   "baslik": "The 30-year mortgage rate just crossed 7% for the first time in over a year",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-30-year-mortgage-rate-just-crossed-7-for-the-first-time-in-over-a-year-a3fba38f?mod=mw_rss_topstories",
+   "saat": "17:01",
+   "tarih_iso": "2026-09-11T17:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html",
    "baslik": "Leopold Aschenbrenner's Situational Awareness is active in options market, sources say",
    "kaynak": "CNBC",
@@ -627,6 +762,26 @@
    "tarih_iso": "2026-09-11T16:56:54+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T17:01:08.687621+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-oracle-stock-orcl/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Dow Rallies On Surprise Inflation Data; Nvidia Rebounds, Oracle Jumps (Live Coverage)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-oracle-stock-orcl/?src=A00220&yptr=yahoo",
+   "saat": "16:47",
+   "tarih_iso": "2026-09-11T16:47:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/macy-m-raises-guidance-strong-134158247.html",
+   "baslik": "Macy’s (M) Raises Guidance After Strong Q2 Results, But Investors Remain Cautious",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/macy-m-raises-guidance-strong-134158247.html",
+   "saat": "16:41",
+   "tarih_iso": "2026-09-11T16:41:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html",
@@ -807,6 +962,16 @@
    "tarih_iso": "2026-09-11T15:21:22+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T15:31:17.910992+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/oracle-stock-pops-as-ai-cloud-demand-outpaces-supply-122103986.html",
+   "baslik": "Oracle stock pops as AI cloud demand outpaces supply",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/oracle-stock-pops-as-ai-cloud-demand-outpaces-supply-122103986.html",
+   "saat": "15:21",
+   "tarih_iso": "2026-09-11T15:21:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:30:55.909007+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/estee-lauder-el-stock-analysis-is-the-latest-dip-a-buying-opportunity-93CH-4897761",
@@ -1901,5 +2066,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-11T17:01:08.687621+03:00"
+ "guncelleme": "2026-09-11T17:30:55.909007+03:00"
 }
