@@ -445,6 +445,36 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/faiz-karari-sonrasi-altinda-ne-olacak-3465185",
+   "baslik": "Faiz kararı sonrası altında ne olacak?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/faiz-karari-sonrasi-altinda-ne-olacak-3465185",
+   "saat": "10:27",
+   "tarih_iso": "2026-09-11T10:27:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T07:30:55.808341+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/petrol-110-dolara-dayandi-faiz-korkusu-tahvilleri-vurdu-haberi-839585",
+   "baslik": "Petrol 110 dolara dayandı, faiz korkusu tahvilleri vurdu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/petrol-110-dolara-dayandi-faiz-korkusu-tahvilleri-vurdu-haberi-839585",
+   "saat": "07:24",
+   "tarih_iso": "2026-09-11T07:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T07:30:55.808341+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-11-eylul-cuma-doviz-kurlari-haberi-839584",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (11 Eylül Cuma Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-11-eylul-cuma-doviz-kurlari-haberi-839584",
+   "saat": "07:23",
+   "tarih_iso": "2026-09-11T07:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T07:30:55.808341+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/jpmorgan-9-merkez-bankasindan-8inde-faiz-artisi-bekliyor-haberi-839581",
    "baslik": "JPMorgan 9 merkez bankasından 8'inde faiz artışı bekliyor",
    "kaynak": "Dünya",
@@ -886,6 +916,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1",
+   "baslik": "US rate rise fears ripple through global bond markets",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1",
+   "saat": "07:06",
+   "tarih_iso": "2026-09-11T07:06:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T07:30:55.808341+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1",
+   "baslik": "Scott Bessent fails to break ‘fever’ in US bond market",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-11T07:00:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T07:30:55.808341+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/11/chinese-nvidia-rival-enflame-stock-market-debut-ai.html",
    "baslik": "Chinese Nvidia rival Enflame soars 206% on stock market debut as AI demand stays hot",
@@ -2065,26 +2115,6 @@
    "tarih_iso": "2026-09-10T18:35:28+03:00",
    "kodlar": [],
    "eklenme": "2026-09-10T19:01:02.408560+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-081-4896447",
-   "baslik": "Poland stocks lower at close of trade; WIG30 down 0.81%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-081-4896447",
-   "saat": "18:35",
-   "tarih_iso": "2026-09-10T18:35:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T19:01:02.408560+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/history-says-bear-market-coming-153500105.html",
-   "baslik": "History Says a Bear Market Is Coming Eventually. Here's the 1 Move the Smartest Investors Are Making Right Now.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/history-says-bear-market-coming-153500105.html",
-   "saat": "18:35",
-   "tarih_iso": "2026-09-10T18:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-10T19:01:02.408560+03:00"
   }
  ],
  "altin_haber": [
@@ -2379,5 +2409,5 @@
    "eklenme": "2026-09-10T09:01:03.377785+03:00"
   }
  ],
- "guncelleme": "2026-09-11T07:01:01.703967+03:00"
+ "guncelleme": "2026-09-11T07:30:55.808341+03:00"
 }
