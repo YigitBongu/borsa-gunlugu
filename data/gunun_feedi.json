@@ -2,6 +2,32 @@
  "tarih": "2026-09-11",
  "kap": [
   {
+   "id": "kap-my-YEOTK-202609110901",
+   "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Geleceğe Dönük Değerlendirmeler",
+   "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:01",
+   "tarih_iso": "2026-09-11T09:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T09:30:57.177080+03:00"
+  },
+  {
+   "id": "kap-my-TKFEN-202609110900",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-11T09:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T09:30:57.177080+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609101923",
    "baslik": "TEKFEN HOLDİNG A.Ş. — TSRS Uyumlu Sürdürülebilirlik Raporu",
    "sirket": "TEKFEN HOLDİNG A.Ş.",
@@ -16,6 +42,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/sampiyonlar-ligi-puan-durumu-fenerbahce-ve-galatasaray-kacinci-sirada-haberi-839597",
+   "baslik": "Şampiyonlar Ligi puan durumu: Fenerbahçe ve Galatasaray kaçıncı sırada?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/sampiyonlar-ligi-puan-durumu-fenerbahce-ve-galatasaray-kacinci-sirada-haberi-839597",
+   "saat": "09:04",
+   "tarih_iso": "2026-09-11T09:04:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-11T09:30:57.177080+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/cin-universitesi-ile-ar-ge-anlasmasi-3465045",
    "baslik": "Çin üniversitesi ile Ar-Ge anlaşması",
@@ -39,6 +77,26 @@
    "tarih_iso": "2026-09-11T10:53:38+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-abdnin-enflasyon-verilerine-cevrildi/4053889",
+   "baslik": "Küresel piyasalarda gözler ABD'nin enflasyon verilerine çevrildi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-abdnin-enflasyon-verilerine-cevrildi/4053889",
+   "saat": "09:03",
+   "tarih_iso": "2026-09-11T09:03:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T09:30:57.177080+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/morgan-stanleyden-tl-ve-faiz-mesaji-yil-sonuna-isaret-etti-galeri-839596",
+   "baslik": "Morgan Stanley'den TL ve faiz mesajı: Yıl sonuna işaret etti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/morgan-stanleyden-tl-ve-faiz-mesaji-yil-sonuna-isaret-etti-galeri-839596",
+   "saat": "08:45",
+   "tarih_iso": "2026-09-11T08:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T09:30:57.177080+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/petrol-110-dolara-dayandi-faiz-korkusu-tahvilleri-vurdu-haberi-839585",
@@ -122,6 +180,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+   "baslik": "UK economy grew faster than expected in July",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+   "saat": "09:26",
+   "tarih_iso": "2026-09-11T09:26:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T09:30:57.177080+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
    "baslik": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
@@ -475,5 +543,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-11T09:00:57.166827+03:00"
+ "guncelleme": "2026-09-11T09:30:57.177080+03:00"
 }
