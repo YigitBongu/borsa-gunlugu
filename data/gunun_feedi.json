@@ -2,6 +2,19 @@
  "tarih": "2026-09-11",
  "kap": [
   {
+   "id": "kap-my-ISCTR-202609111627",
+   "baslik": "TÜRKİYE İŞ BANKASI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜRKİYE İŞ BANKASI A.Ş.",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:27",
+   "tarih_iso": "2026-09-11T16:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T17:01:08.687621+03:00"
+  },
+  {
    "id": "kap-my-KARSN-202609111514",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -173,6 +186,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/ismail-kartal-istifa-etti-mi-geri-dondu-mu-kartal-ayrildi-mi-haberi-839666",
+   "baslik": "İsmail Kartal istifa etti mi, geri döndü mü? Kartal ayrıldı mı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/ismail-kartal-istifa-etti-mi-geri-dondu-mu-kartal-ayrildi-mi-haberi-839666",
+   "saat": "16:41",
+   "tarih_iso": "2026-09-11T16:41:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-11T17:01:08.687621+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/tupras-temel-rafinericilik-staj-programi-ile-ogrencileri-destekliyor-3911743",
    "baslik": "Tüpraş, Temel Rafinericilik Staj Programı ile öğrencileri destekliyor",
@@ -593,6 +618,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html",
+   "baslik": "Leopold Aschenbrenner's Situational Awareness is active in options market, sources say",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html",
+   "saat": "16:56",
+   "tarih_iso": "2026-09-11T16:56:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:01:08.687621+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html",
+   "baslik": "Analysis: Hot CPI puts Kevin Warsh’s Fed credibility on the line before rate decision",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/11/kevin-warsh-fed-cpi-inflation-rate-hike-analysis.html",
+   "saat": "16:34",
+   "tarih_iso": "2026-09-11T16:34:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:01:08.687621+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/equity-risk-premium-falls-to-2002-levels-what-it-means-for-stocks-4898047",
+   "baslik": "Equity risk premium falls to 2002 levels. What it means for stocks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/equity-risk-premium-falls-to-2002-levels-what-it-means-for-stocks-4898047",
+   "saat": "16:32",
+   "tarih_iso": "2026-09-11T16:32:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:01:08.687621+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/neuronetics-stock-gains-after-briley-initiates-coverage-at-buy-93CH-4898045",
+   "baslik": "Neuronetics stock gains after B.Riley initiates coverage at Buy",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/neuronetics-stock-gains-after-briley-initiates-coverage-at-buy-93CH-4898045",
+   "saat": "16:31",
+   "tarih_iso": "2026-09-11T16:31:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:01:08.687621+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/coffee-traders-big-shipments-are-set-to-boost-exchange-stocks-and-weigh-on-prices-4898038",
+   "baslik": "Coffee traders’ big shipments are set to boost exchange stocks and weigh on prices",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/coffee-traders-big-shipments-are-set-to-boost-exchange-stocks-and-weigh-on-prices-4898038",
+   "saat": "16:30",
+   "tarih_iso": "2026-09-11T16:30:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T17:01:08.687621+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/bernstein-names-best-3-transport-stocks-to-own-amid-structural-supply-reset-93CH-4898011",
    "baslik": "Bernstein Names Best 3 Transport Stocks to Own Amid Structural Supply Reset",
@@ -1826,5 +1901,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-11T16:31:28.929666+03:00"
+ "guncelleme": "2026-09-11T17:01:08.687621+03:00"
 }
