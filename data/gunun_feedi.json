@@ -2,6 +2,32 @@
  "tarih": "2026-09-11",
  "kap": [
   {
+   "id": "kap-my-MIATK-202609111035",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:35",
+   "tarih_iso": "2026-09-11T10:35:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "kap-my-KORDS-202609111027",
+   "baslik": "KORDSA TEKNİK TEKSTİL A.Ş. — Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+   "sirket": "KORDSA TEKNİK TEKSTİL A.Ş.",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Sermaye",
+   "saat": "10:27",
+   "tarih_iso": "2026-09-11T10:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
    "id": "kap-my-KARSN-202609111001",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -83,6 +109,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/tupras-temel-rafinericilik-staj-programi-ile-ogrencileri-destekliyor-3911743",
+   "baslik": "Tüpraş, Temel Rafinericilik Staj Programı ile öğrencileri destekliyor",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/tupras-temel-rafinericilik-staj-programi-ile-ogrencileri-destekliyor-3911743",
+   "saat": "10:27",
+   "tarih_iso": "2026-09-11T10:27:18+03:00",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/sampiyonlar-ligi-puan-durumu-fenerbahce-ve-galatasaray-kacinci-sirada-haberi-839597",
    "baslik": "Şampiyonlar Ligi puan durumu: Fenerbahçe ve Galatasaray kaçıncı sırada?",
    "kaynak": "Dünya",
@@ -109,6 +147,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmbnin-eylul-ayi-piyasa-katilimcilari-anketi-yayimlandi/4054008",
+   "baslik": "TCMB'nin eylül ayı Piyasa Katılımcıları Anketi yayımlandı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmbnin-eylul-ayi-piyasa-katilimcilari-anketi-yayimlandi/4054008",
+   "saat": "10:58",
+   "tarih_iso": "2026-09-11T10:58:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/faiz-karari-sonrasi-altinda-ne-olacak-3465185",
    "baslik": "Faiz kararı sonrası altında ne olacak?",
    "kaynak": "CNN Türk Ekonomi",
@@ -117,6 +165,46 @@
    "tarih_iso": "2026-09-11T10:53:38+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/piyasanin-yil-sonu-enflasyon-beklentisi-hafif-yukseldi-3911753",
+   "baslik": "Piyasanın enflasyon beklentisi hafif yükseldi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/piyasanin-yil-sonu-enflasyon-beklentisi-hafif-yukseldi-3911753",
+   "saat": "10:52",
+   "tarih_iso": "2026-09-11T10:52:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/petrol-soku-hisselere-zarar-verebilir-ama-fed-netligi-fayda-saglar-4062796",
+   "baslik": "Petrol şoku hisselere zarar verebilir ama Fed netliği fayda sağlar",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/petrol-soku-hisselere-zarar-verebilir-ama-fed-netligi-fayda-saglar-4062796",
+   "saat": "10:51",
+   "tarih_iso": "2026-09-11T10:51:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbuldan-bir-hisse-icin-islem-karari-haberi-839615",
+   "baslik": "Borsa İstanbul'dan bir hisse için işlem kararı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/borsa-istanbuldan-bir-hisse-icin-islem-karari-haberi-839615",
+   "saat": "10:37",
+   "tarih_iso": "2026-09-11T10:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-amerikan-merkez-bankasi-faiz-artiracak-mi-haberi-839613",
+   "baslik": "Fed faiz kararı ne zaman açıklanacak? Amerikan Merkez Bankası faiz artıracak mı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-aciklanacak-amerikan-merkez-bankasi-faiz-artiracak-mi-haberi-839613",
+   "saat": "10:33",
+   "tarih_iso": "2026-09-11T10:33:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/abd-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-abd-tufe-oranlari-saati-haberi-839611",
@@ -300,6 +388,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-novo-nordisk-stock-sliding-today-93CH-4897336",
+   "baslik": "Why is Novo Nordisk stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-novo-nordisk-stock-sliding-today-93CH-4897336",
+   "saat": "10:55",
+   "tarih_iso": "2026-09-11T10:55:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/oil-shock-may-hurt-stocks-first-but-clearer-fed-policy-could-pay-off-barclays-4897333",
+   "baslik": "Oil shock may hurt stocks first, but clearer Fed policy could pay off: Barclays",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/oil-shock-may-hurt-stocks-first-but-clearer-fed-policy-could-pay-off-barclays-4897333",
+   "saat": "10:51",
+   "tarih_iso": "2026-09-11T10:51:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html",
+   "baslik": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html",
+   "saat": "10:43",
+   "tarih_iso": "2026-09-11T10:43:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-trainline-stock-rallying-today-93CH-4897322",
+   "baslik": "Why is Trainline stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-trainline-stock-rallying-today-93CH-4897322",
+   "saat": "10:38",
+   "tarih_iso": "2026-09-11T10:38:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/77-energy-tech-and-small-caps-extend-aipicked-strategy-leads-this-week-4897310",
+   "baslik": "+77%: Energy, tech, and small caps extend AI-picked strategy leads this week",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/77-energy-tech-and-small-caps-extend-aipicked-strategy-leads-this-week-4897310",
+   "saat": "10:25",
+   "tarih_iso": "2026-09-11T10:25:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-flat-as-uk-gdp-beat-offsets-hormuz-fears-4897308",
+   "baslik": "FTSE 100 today: Stocks flat as UK GDP beat offsets Hormuz fears",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-flat-as-uk-gdp-beat-offsets-hormuz-fears-4897308",
+   "saat": "10:23",
+   "tarih_iso": "2026-09-11T10:23:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morgan-stanley-cuts-novo-nordisk-on-growth-patent-cliff-concerns-shares-dip-4897300",
+   "baslik": "Morgan Stanley cuts Novo Nordisk on growth, patent cliff concerns; shares dip",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-cuts-novo-nordisk-on-growth-patent-cliff-concerns-shares-dip-4897300",
+   "saat": "10:17",
+   "tarih_iso": "2026-09-11T10:17:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-tumble-as-oil-surge-fed-hike-bets-overshadow-chip-optimism-4897190",
+   "baslik": "Asian stocks tumble as oil surge, Fed hike bets overshadow chip optimism",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-tumble-as-oil-surge-fed-hike-bets-overshadow-chip-optimism-4897190",
+   "saat": "10:12",
+   "tarih_iso": "2026-09-11T10:12:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-heading-for-worst-week-since-april-as-ecb-hike-batters-risk-4897227",
    "baslik": "European stocks heading for worst week since April as ECB hike batters risk",
@@ -643,6 +811,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.haberturk.com/ekonomi/temmuzda-cari-denge-fazla-verdi-3911752",
+   "baslik": "Temmuzda cari denge fazla verdi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/temmuzda-cari-denge-fazla-verdi-3911752",
+   "saat": "10:43",
+   "tarih_iso": "2026-09-11T10:43:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
+   "id": "alt-https://www.aa.com.tr/tr/ekonomi/odemeler-dengesi-verileri-aciklandi/4053983",
+   "baslik": "Ödemeler Dengesi verileri açıklandı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/odemeler-dengesi-verileri-aciklandi/4053983",
+   "saat": "10:41",
+   "tarih_iso": "2026-09-11T10:41:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T11:00:58.882473+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-pre-cpi-bounce-looks-more-like-a-trap-than-a-turn-200687508",
    "baslik": "Gold’s Pre CPI Bounce Looks More Like a Trap Than a Turn",
    "kaynak": "Investing Emtia",
@@ -793,5 +981,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-11T10:30:51.654467+03:00"
+ "guncelleme": "2026-09-11T11:00:58.882473+03:00"
 }
