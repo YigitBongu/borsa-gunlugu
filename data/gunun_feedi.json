@@ -2,6 +2,19 @@
  "tarih": "2026-09-11",
  "kap": [
   {
+   "id": "kap-my-KARSN-202609111514",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KARSN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:14",
+   "tarih_iso": "2026-09-11T15:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
+  {
    "id": "kap-my-BAGFS-202609111400",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -198,6 +211,46 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-tufe-sokunu-tersine-cevirdi-ilk-satis-silindi-alicilar-kontrolu-geri-aldi-galeri-839663",
+   "baslik": "Altın TÜFE şokunu tersine çevirdi: İlk satış silindi, alıcılar kontrolü geri aldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-tufe-sokunu-tersine-cevirdi-ilk-satis-silindi-alicilar-kontrolu-geri-aldi-galeri-839663",
+   "saat": "15:50",
+   "tarih_iso": "2026-09-11T15:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hazine-haftaya-1-dogrudan-satis-ve-4-ihale-gerceklestirecek-haberi-839660",
+   "baslik": "Hazine haftaya 1 doğrudan satış ve 4 ihale gerçekleştirecek",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazine-haftaya-1-dogrudan-satis-ve-4-ihale-gerceklestirecek-haberi-839660",
+   "saat": "15:39",
+   "tarih_iso": "2026-09-11T15:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/son-dakika-abd-enflasyon-verileri-aciklandi-3911831",
+   "baslik": "ABD'de enflasyon beklentilere paralel",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/son-dakika-abd-enflasyon-verileri-aciklandi-3911831",
+   "saat": "15:37",
+   "tarih_iso": "2026-09-11T15:37:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-agustosta-beklentilere-paralel-geldi/4054366",
+   "baslik": "ABD'de enflasyon ağustosta beklentilere paralel geldi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdde-enflasyon-agustosta-beklentilere-paralel-geldi/4054366",
+   "saat": "15:32",
+   "tarih_iso": "2026-09-11T15:32:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/abd-enflasyonu-aciklandi-agustos-ayi-tufe-verisi-belli-oldu-haberi-839658",
    "baslik": "ABD enflasyonu açıklandı: Ağustos ayı TÜFE verisi belli oldu",
@@ -530,6 +583,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/celsius-holdings-stock-rises-after-ceo-purchases-shares-93CH-4897938",
+   "baslik": "Celsius Holdings stock rises after CEO purchases shares",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/celsius-holdings-stock-rises-after-ceo-purchases-shares-93CH-4897938",
+   "saat": "15:58",
+   "tarih_iso": "2026-09-11T15:58:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+   "baslik": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+   "saat": "15:57",
+   "tarih_iso": "2026-09-11T15:57:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+   "baslik": "US inflation holds steady as diesel prices pass $6 a gallon",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+   "saat": "15:54",
+   "tarih_iso": "2026-09-11T15:54:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/exelixis-stock-falls-as-fda-extends-zanzalintinib-review-93CH-4897925",
+   "baslik": "Exelixis stock falls as FDA extends zanzalintinib review",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/exelixis-stock-falls-as-fda-extends-zanzalintinib-review-93CH-4897925",
+   "saat": "15:52",
+   "tarih_iso": "2026-09-11T15:52:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1",
+   "baslik": "US inflation held steady at 3.4% in August as high fuel prices persist",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/24646e74-9506-4718-b1be-789208db86d9?syn-25a6b1a6=1",
+   "saat": "15:48",
+   "tarih_iso": "2026-09-11T15:48:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/blackrock-capital-allocation-trust-stock-falls-on-rights-offer-93CH-4897906",
+   "baslik": "BlackRock Capital Allocation Trust stock falls on rights offer",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/blackrock-capital-allocation-trust-stock-falls-on-rights-offer-93CH-4897906",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-11T15:45:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-pare-gains-slightly-after-august-inflation-data-4897902",
+   "baslik": "Wall St futures pare gains slightly after August inflation data",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-futures-pare-gains-slightly-after-august-inflation-data-4897902",
+   "saat": "15:42",
+   "tarih_iso": "2026-09-11T15:42:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
    "baslik": "Wealthy investors are pouring billions into this new tax strategy despite risks",
@@ -1413,6 +1536,16 @@
    "eklenme": "2026-09-11T14:30:52.351263+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-tufe-sokunu-tersine-cevirdi-ilk-satis-silindi-alicilar-kontrolu-geri-aldi-galeri-839663",
+   "baslik": "Altın TÜFE şokunu tersine çevirdi: İlk satış silindi, alıcılar kontrolü geri aldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-tufe-sokunu-tersine-cevirdi-ilk-satis-silindi-alicilar-kontrolu-geri-aldi-galeri-839663",
+   "saat": "15:50",
+   "tarih_iso": "2026-09-11T15:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T16:01:00.419253+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-11-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3465285",
    "baslik": "ALTIN FİYATLARI 11 EYLÜL 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
    "kaynak": "CNN Türk Ekonomi",
@@ -1613,5 +1746,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-11T15:31:17.910992+03:00"
+ "guncelleme": "2026-09-11T16:01:00.419253+03:00"
 }
