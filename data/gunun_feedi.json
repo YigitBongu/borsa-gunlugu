@@ -2,6 +2,20 @@
  "tarih": "2026-09-11",
  "kap": [
   {
+   "id": "kap-my-GESAN-202609110939",
+   "baslik": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş. — İhale Süreci / Sonucu",
+   "sirket": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
+   "kodlar": [
+    "GESAN",
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:39",
+   "tarih_iso": "2026-09-11T09:39:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-11T10:01:02.678651+03:00"
+  },
+  {
    "id": "kap-my-YEOTK-202609110901",
    "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Geleceğe Dönük Değerlendirmeler",
    "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
@@ -77,6 +91,36 @@
    "tarih_iso": "2026-09-11T10:53:38+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/bae-den-almanya-ya-40-milyar-euro-luk-ek-yatirim-3911727",
+   "baslik": "BAE'den Almanya'ya 40 Milyar Euro'luk ek yatırım",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/bae-den-almanya-ya-40-milyar-euro-luk-ek-yatirim-3911727",
+   "saat": "09:47",
+   "tarih_iso": "2026-09-11T09:47:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:01:02.678651+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/blackstoneun-airtrunk-singapur-gyo-halka-arz-icin-16-milyar-dolar-kredi-aryor-4062685",
+   "baslik": "Blackstone’un AirTrunk’ı Singapur GYO halka arzı için 1,6 milyar dolar kredi arıyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/blackstoneun-airtrunk-singapur-gyo-halka-arz-icin-16-milyar-dolar-kredi-aryor-4062685",
+   "saat": "09:32",
+   "tarih_iso": "2026-09-11T09:32:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:01:02.678651+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-duyurdu-yeni-5-ve-50-tller-dolasima-girdi-haberi-839600",
+   "baslik": "TCMB duyurdu: Yeni 5 ve 50 TL'ler dolaşıma girdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-duyurdu-yeni-5-ve-50-tller-dolasima-girdi-haberi-839600",
+   "saat": "09:19",
+   "tarih_iso": "2026-09-11T09:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:01:02.678651+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-abdnin-enflasyon-verilerine-cevrildi/4053889",
@@ -181,6 +225,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/zara-owner-inditex-looks-to-us-for-next-phase-of-growth-4897264",
+   "baslik": "Zara owner Inditex looks to US for next phase of growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/zara-owner-inditex-looks-to-us-for-next-phase-of-growth-4897264",
+   "saat": "09:42",
+   "tarih_iso": "2026-09-11T09:42:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:01:02.678651+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-089-4897253",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.89%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-089-4897253",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-11T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:01:02.678651+03:00"
+  },
+  {
    "id": "yab-https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
    "baslik": "UK economy grew faster than expected in July",
    "kaynak": "BBC Business",
@@ -189,6 +253,36 @@
    "tarih_iso": "2026-09-11T09:26:50+03:00",
    "kodlar": [],
    "eklenme": "2026-09-11T09:30:57.177080+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/uk-businesses-push-healey-to-shift-energy-levies-to-ease-costs--report-93CH-4897235",
+   "baslik": "UK businesses push Healey to shift energy levies to ease costs - report",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/uk-businesses-push-healey-to-shift-energy-levies-to-ease-costs--report-93CH-4897235",
+   "saat": "09:07",
+   "tarih_iso": "2026-09-11T09:07:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:01:02.678651+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-147-4897231",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 1.47%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-147-4897231",
+   "saat": "09:05",
+   "tarih_iso": "2026-09-11T09:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:01:02.678651+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-milky-mist-dairy-stock-surging-today-93CH-4897228",
+   "baslik": "Why is Milky Mist Dairy stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-milky-mist-dairy-stock-surging-today-93CH-4897228",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-11T09:00:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:01:02.678651+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
@@ -433,6 +527,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-weathers-violent-rates-move-ahead-of-cpi-200687491",
+   "baslik": "Gold Weathers Violent Rates Move Ahead of CPI",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-weathers-violent-rates-move-ahead-of-cpi-200687491",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:01:02.678651+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-rebound-intact-4510-target-in-view-200687501",
+   "baslik": "Gold Rebound Intact: $4,510 Target in View",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-rebound-intact-4510-target-in-view-200687501",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-11T10:01:02.678651+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/nothing-surprised--yet-silver-copper-and-gold-sold-off-hard-200687479",
    "baslik": "Nothing Surprised — Yet Silver, Copper and Gold Sold Off Hard",
    "kaynak": "Investing Emtia",
@@ -543,5 +657,5 @@
    "eklenme": "2026-09-11T09:00:57.166827+03:00"
   }
  ],
- "guncelleme": "2026-09-11T09:30:57.177080+03:00"
+ "guncelleme": "2026-09-11T10:01:02.678651+03:00"
 }
