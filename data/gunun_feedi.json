@@ -17,6 +17,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/mardin-teknofest-te-30-finalist-takim-ve-410-ogrenci-teknoloji-icin-yaristi-3912083",
+   "baslik": "TEKNOFEST İKA Yarışması tamamlandı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/mardin-teknofest-te-30-finalist-takim-ve-410-ogrenci-teknoloji-icin-yaristi-3912083",
+   "saat": "22:23",
+   "tarih_iso": "2026-09-12T22:23:41+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-09-13T00:01:03.541767+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/galatasaray-fenerbahce-sampiyonlar-ligi-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-839773",
    "baslik": "Galatasaray, Fenerbahçe Şampiyonlar Ligi maçı ne zaman, saat kaçta, hangi kanalda?",
    "kaynak": "Dünya",
@@ -224,6 +236,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-reasons-think-cathie-wood-203201033.html",
+   "baslik": "3 Reasons I Think Cathie Wood Is Buying Robinhood Stock Again",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-think-cathie-wood-203201033.html",
+   "saat": "23:32",
+   "tarih_iso": "2026-09-12T23:32:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-13T00:01:03.541767+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-stock-down-71-202000751.html",
+   "baslik": "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/artificial-intelligence-stock-down-71-202000751.html",
+   "saat": "23:20",
+   "tarih_iso": "2026-09-12T23:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-13T00:01:03.541767+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/toast-stock-buy-record-9-195000742.html",
    "baslik": "Is Toast Stock a Buy After a Record 9,500-Restaurant Quarter?",
@@ -1497,5 +1529,5 @@
    "eklenme": "2026-09-12T09:01:05.372979+03:00"
   }
  ],
- "guncelleme": "2026-09-12T23:30:53.119290+03:00"
+ "guncelleme": "2026-09-13T00:01:03.541767+03:00"
 }
