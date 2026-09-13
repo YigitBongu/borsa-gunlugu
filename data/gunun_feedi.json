@@ -3,6 +3,42 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/vakifbank-genel-muduru-arslan-nitelikli-yapi-stokuna-katki-saglamaya-devam-ediyoruz-haberi-839866",
+   "baslik": "VakıfBank Genel Müdürü Arslan: Nitelikli yapı stokuna katkı sağlamaya devam ediyoruz",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/vakifbank-genel-muduru-arslan-nitelikli-yapi-stokuna-katki-saglamaya-devam-ediyoruz-haberi-839866",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-14T00:00:00+03:00",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "eklenme": "2026-09-14T00:01:02.469958+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/konya-ekonomisinde-ihracat-artti-sanayi-verimlilige-yoneldi-haberi-839871",
+   "baslik": "Konya ekonomisinde ihracat arttı, sanayi verimliliğe yöneldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/konya-ekonomisinde-ihracat-artti-sanayi-verimlilige-yoneldi-haberi-839871",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-14T00:00:00+03:00",
+   "kodlar": [
+    "KONYA"
+   ],
+   "eklenme": "2026-09-14T00:01:02.469958+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/istanbul-toplu-tasima-ucret-tarifesi-2026-ogrenci-tam-aylik-akbil-abonman-ne-kadar-oldu-iett-metro-metrobus-marmaray-kac-tl-basiyor-3444007",
+   "baslik": "İSTANBUL TOPLU TAŞIMA ÜCRET TARİFESİ 2026 | Öğrenci, Tam Aylık Akbil, Abonman Ne Kadar Oldu? İETT, Metro, Metrobüs, Marmaray Kaç TL Basıyor?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/istanbul-toplu-tasima-ucret-tarifesi-2026-ogrenci-tam-aylik-akbil-abonman-ne-kadar-oldu-iett-metro-metrobus-marmaray-kac-tl-basiyor-3444007",
+   "saat": "22:04",
+   "tarih_iso": "2026-09-13T22:04:02+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-09-14T00:01:02.469958+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/turk-firmalarinin-liverpool-cikarmasi-3912172",
    "baslik": "Türk firmalarının Liverpool çıkarması",
    "kaynak": "Habertürk Ekonomi",
@@ -28,6 +64,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-faiz-indirimi-olacak-mi-eylul-2026-fed-toplantisi-tarihi-piyasalarin-gozu-abd-merkez-bankasinda-3466132",
+   "baslik": "FED FAİZ KARARI NE ZAMAN? Faiz İndirimi Olacak mı? Eylül 2026 FED Toplantısı Tarihi: Piyasaların Gözü ABD Merkez Bankası’nda!",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-faiz-indirimi-olacak-mi-eylul-2026-fed-toplantisi-tarihi-piyasalarin-gozu-abd-merkez-bankasinda-3466132",
+   "saat": "02:02",
+   "tarih_iso": "2026-09-14T02:02:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T00:01:02.469958+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/trumptan-fede-cagri-dunyanin-en-dusuk-faizini-odemeliyiz-haberi-839881",
+   "baslik": "Trump'tan Fed'e çağrı: Dünyanın en düşük faizini ödemeliyiz",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/trumptan-fede-cagri-dunyanin-en-dusuk-faizini-odemeliyiz-haberi-839881",
+   "saat": "21:24",
+   "tarih_iso": "2026-09-13T21:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T00:01:02.469958+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-etflerinden-45-milyar-dolar-cks-yasand-4064049",
    "baslik": "ABD hisse senedi ETF’lerinden 4,5 milyar dolar çıkış yaşandı",
@@ -933,5 +989,5 @@
    "eklenme": "2026-09-13T09:01:04.292219+03:00"
   }
  ],
- "guncelleme": "2026-09-13T23:30:52.012961+03:00"
+ "guncelleme": "2026-09-14T00:01:02.469958+03:00"
 }
