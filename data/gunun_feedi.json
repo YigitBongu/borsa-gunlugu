@@ -1,5 +1,5 @@
 {
- "tarih": "2026-09-13",
+ "tarih": "2026-09-14",
  "kap": [],
  "sirket": [
   {
@@ -12,7 +12,7 @@
    "kodlar": [
     "MAVI"
    ],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/sirketler/vakifbank-genel-muduru-arslan-nitelikli-yapi-stokuna-katki-saglamaya-devam-ediyoruz-haberi-839866",
@@ -24,7 +24,7 @@
    "kodlar": [
     "VAKBN"
    ],
-   "eklenme": "2026-09-14T00:01:02.469958+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/konya-ekonomisinde-ihracat-artti-sanayi-verimlilige-yoneldi-haberi-839871",
@@ -36,7 +36,7 @@
    "kodlar": [
     "KONYA"
    ],
-   "eklenme": "2026-09-14T00:01:02.469958+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/istanbul-toplu-tasima-ucret-tarifesi-2026-ogrenci-tam-aylik-akbil-abonman-ne-kadar-oldu-iett-metro-metrobus-marmaray-kac-tl-basiyor-3444007",
@@ -48,34 +48,20 @@
    "kodlar": [
     "MAVI"
    ],
-   "eklenme": "2026-09-14T00:01:02.469958+03:00"
-  },
-  {
-   "id": "rss-https://www.haberturk.com/ekonomi/turk-firmalarinin-liverpool-cikarmasi-3912172",
-   "baslik": "Türk firmalarının Liverpool çıkarması",
-   "kaynak": "Habertürk Ekonomi",
-   "link": "https://www.haberturk.com/ekonomi/turk-firmalarinin-liverpool-cikarmasi-3912172",
-   "saat": "13:58",
-   "tarih_iso": "2026-09-13T13:58:47+03:00",
-   "kodlar": [
-    "THYAO"
-   ],
-   "eklenme": "2026-09-13T14:30:50.104274+03:00"
-  },
-  {
-   "id": "rss-https://www.haberturk.com/ekonomi/mardin-teknofest-te-30-finalist-takim-ve-410-ogrenci-teknoloji-icin-yaristi-3912083",
-   "baslik": "TEKNOFEST İKA Yarışması tamamlandı",
-   "kaynak": "Habertürk Ekonomi",
-   "link": "https://www.haberturk.com/ekonomi/mardin-teknofest-te-30-finalist-takim-ve-410-ogrenci-teknoloji-icin-yaristi-3912083",
-   "saat": "22:23",
-   "tarih_iso": "2026-09-12T22:23:41+03:00",
-   "kodlar": [
-    "ASELS"
-   ],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/wall-street-devleri-fed-beklentisini-degistirdi-faiz-artisi-masada-haberi-839903",
+   "baslik": "Wall Street devleri Fed beklentisini değiştirdi: Faiz artışı masada",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/wall-street-devleri-fed-beklentisini-degistirdi-faiz-artisi-masada-haberi-839903",
+   "saat": "08:12",
+   "tarih_iso": "2026-09-14T08:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/asya-hisseleri-yapay-zeka-endiseleriyle-dustu-petrol-yukseldi-4064109",
    "baslik": "Yapay zeka yavaşlama endişeleri derinleşiyor, petrol fiyatları faiz riskini artırıyor",
@@ -84,7 +70,7 @@
    "saat": "07:17",
    "tarih_iso": "2026-09-14T07:17:26+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T08:30:52.414900+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-14-eylul-pazartesi-doviz-kurlari-haberi-839894",
@@ -94,7 +80,7 @@
    "saat": "07:14",
    "tarih_iso": "2026-09-14T07:14:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/gundem/petrolde-tansiyon-yeniden-yukseldi-brent-108-dolar-sinirinda-haberi-839891",
@@ -104,7 +90,7 @@
    "saat": "06:40",
    "tarih_iso": "2026-09-14T06:40:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T07:01:04.985504+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-4300-dolarin-kapisinda-fed-karari-sonrasi-hangi-senaryo-one-cikacak-galeri-839889",
@@ -114,17 +100,7 @@
    "saat": "05:52",
    "tarih_iso": "2026-09-14T05:52:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T06:30:56.764390+03:00"
-  },
-  {
-   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-teknoloji-hisseleri-dustu-yapay-zeka-endiseleri-artt-4064098",
-   "baslik": "Asya teknoloji ve çip hisseleri, Fed ve BOJ kararları öncesinde sert düştü",
-   "kaynak": "Investing TR",
-   "link": "https://tr.investing.com/news/stock-market-news/asya-teknoloji-hisseleri-dustu-yapay-zeka-endiseleri-artt-4064098",
-   "saat": "05:35",
-   "tarih_iso": "2026-09-14T05:35:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-faiz-indirimi-olacak-mi-eylul-2026-fed-toplantisi-tarihi-piyasalarin-gozu-abd-merkez-bankasinda-3466132",
@@ -134,90 +110,50 @@
    "saat": "02:02",
    "tarih_iso": "2026-09-14T02:02:50+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T00:01:02.469958+03:00"
-  },
-  {
-   "id": "rss-https://www.dunya.com/ekonomi/trumptan-fede-cagri-dunyanin-en-dusuk-faizini-odemeliyiz-haberi-839881",
-   "baslik": "Trump'tan Fed'e çağrı: Dünyanın en düşük faizini ödemeliyiz",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/ekonomi/trumptan-fede-cagri-dunyanin-en-dusuk-faizini-odemeliyiz-haberi-839881",
-   "saat": "21:24",
-   "tarih_iso": "2026-09-13T21:24:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T00:01:02.469958+03:00"
-  },
-  {
-   "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-etflerinden-45-milyar-dolar-cks-yasand-4064049",
-   "baslik": "ABD hisse senedi ETF’lerinden 4,5 milyar dolar çıkış yaşandı",
-   "kaynak": "Investing TR",
-   "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-etflerinden-45-milyar-dolar-cks-yasand-4064049",
-   "saat": "15:37",
-   "tarih_iso": "2026-09-13T15:37:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T16:01:06.881125+03:00"
-  },
-  {
-   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/gumus-yatirimcisi-fede-kilitlendi-masada-3-ayri-fiyat-var-galeri-839839",
-   "baslik": "Gümüş yatırımcısı Fed'e kilitlendi: Masada 3 ayrı fiyat var",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/foto-galeri/ekonomi/gumus-yatirimcisi-fede-kilitlendi-masada-3-ayri-fiyat-var-galeri-839839",
-   "saat": "12:30",
-   "tarih_iso": "2026-09-13T12:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T13:01:06.263125+03:00"
-  },
-  {
-   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fede-iliskin-faiz-artirim-beklentisi-emtia-piyasasinda-satis-baskisini-yukseltti/4055686",
-   "baslik": "Fed'e ilişkin faiz artırım beklentisi emtia piyasasında satış baskısını yükseltti",
-   "kaynak": "AA Ekonomi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fede-iliskin-faiz-artirim-beklentisi-emtia-piyasasinda-satis-baskisini-yukseltti/4055686",
-   "saat": "11:16",
-   "tarih_iso": "2026-09-13T11:16:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T11:30:52.595338+03:00"
-  },
-  {
-   "id": "rss-https://www.dunya.com/ekonomi/dolarda-kritik-hafta-citiden-fed-sonrasi-dikkat-ceken-tahmin-haberi-839826",
-   "baslik": "Dolarda kritik hafta: Citi'den Fed sonrası dikkat çeken tahmin",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/ekonomi/dolarda-kritik-hafta-citiden-fed-sonrasi-dikkat-ceken-tahmin-haberi-839826",
-   "saat": "09:18",
-   "tarih_iso": "2026-09-13T09:18:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T10:01:01.216249+03:00"
-  },
-  {
-   "id": "rss-https://www.dunya.com/ekonomi/ecb-baskani-lagardedan-enflasyon-uyarisi-bu-sok-daha-uzun-suruyor-haberi-839820",
-   "baslik": "ECB Başkanı Lagarde'dan enflasyon uyarısı: Bu şok daha uzun sürüyor",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/ekonomi/ecb-baskani-lagardedan-enflasyon-uyarisi-bu-sok-daha-uzun-suruyor-haberi-839820",
-   "saat": "08:11",
-   "tarih_iso": "2026-09-13T08:11:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
-  },
-  {
-   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-13-eylul-pazar-doviz-kurlari-haberi-839812",
-   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (13 Eylül Pazar Döviz Kurları)",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-13-eylul-pazar-doviz-kurlari-haberi-839812",
-   "saat": "07:16",
-   "tarih_iso": "2026-09-13T07:16:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
-  },
-  {
-   "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
-   "baslik": "EYLÜL AYI KİRA ARTIŞ ORANI HESAPLAMA : 2026 Eylül Ayı Kira Artış Oranı Belli Oldu! Eylül Kira Zammı Ne Kadar? Gözler TÜİK'te! İşte TÜİK Açıklamasına Göre TEFE TÜFE ve Kira Artış Oranı Hesaplama",
-   "kaynak": "CNN Türk Ekonomi",
-   "link": "https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
-   "saat": "20:33",
-   "tarih_iso": "2026-09-12T20:33:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-softbank-stock-tumbling-today-93CH-4898824",
+   "baslik": "Why is SoftBank stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-tumbling-today-93CH-4898824",
+   "saat": "08:34",
+   "tarih_iso": "2026-09-14T08:34:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
+   "baslik": "Shares skid in Asia as oil climbs, rate hikes loom",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
+   "saat": "08:30",
+   "tarih_iso": "2026-09-14T08:30:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/softbank-group-stock-slides-11-after-openai-says-it-will-not-seek-a-2026-ipo-4898822",
+   "baslik": "Softbank Group stock slides 11% after OpenAI says it will not seek a 2026 IPO",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/softbank-group-stock-slides-11-after-openai-says-it-will-not-seek-a-2026-ipo-4898822",
+   "saat": "08:27",
+   "tarih_iso": "2026-09-14T08:27:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+   "baslik": "Global AI stocks slip on concerns over risks",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+   "saat": "08:24",
+   "tarih_iso": "2026-09-14T08:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-henan-hanwei-electronics-stock-climbing-today-93CH-4898819",
    "baslik": "Why is Henan Hanwei Electronics stock climbing today?",
@@ -226,7 +162,7 @@
    "saat": "07:54",
    "tarih_iso": "2026-09-14T07:54:49+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T08:30:52.414900+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
@@ -236,7 +172,7 @@
    "saat": "07:42",
    "tarih_iso": "2026-09-14T07:42:40+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T08:01:04.924726+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lenovo-stock-surging-today-93CH-4898816",
@@ -246,7 +182,7 @@
    "saat": "07:31",
    "tarih_iso": "2026-09-14T07:31:32+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T08:01:04.924726+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-akeso-stock-rallying-today-93CH-4898815",
@@ -256,7 +192,7 @@
    "saat": "07:31",
    "tarih_iso": "2026-09-14T07:31:29+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T08:01:04.924726+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-ai-slowdown-fears-deepen-oil-surge-lifts-rate-risks-4898813",
@@ -266,7 +202,7 @@
    "saat": "07:17",
    "tarih_iso": "2026-09-14T07:17:26+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsung-heavy-industries-stock-rising-today-93CH-4898812",
@@ -276,37 +212,7 @@
    "saat": "07:17",
    "tarih_iso": "2026-09-14T07:17:03+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fleetpartners-stock-surging-today-93CH-4898811",
-   "baslik": "Why is Fleetpartners stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-fleetpartners-stock-surging-today-93CH-4898811",
-   "saat": "07:16",
-   "tarih_iso": "2026-09-14T07:16:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/4f6a427f-3975-470f-83bf-b21423df59c8?syn-25a6b1a6=1",
-   "baslik": "Japan’s central bank set for pivotal moment on rates",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/4f6a427f-3975-470f-83bf-b21423df59c8?syn-25a6b1a6=1",
-   "saat": "07:15",
-   "tarih_iso": "2026-09-14T07:15:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ailinked-asian-stocks-slump-after-top-lab-ceos-call-for-slowing-down-technologys-development-4898809",
-   "baslik": "AI-linked Asian stocks slump after top lab CEOs call for slowing down technology’s development",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ailinked-asian-stocks-slump-after-top-lab-ceos-call-for-slowing-down-technologys-development-4898809",
-   "saat": "07:12",
-   "tarih_iso": "2026-09-14T07:12:50+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
@@ -316,17 +222,7 @@
    "saat": "07:01",
    "tarih_iso": "2026-09-14T07:01:01+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-   "baslik": "Global AI stocks slip on concerns over risks",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-   "saat": "07:00",
-   "tarih_iso": "2026-09-14T07:00:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.ft.com/content/904c6d93-a6b3-47f4-8b12-3d418cc74fa2?syn-25a6b1a6=1",
@@ -336,7 +232,7 @@
    "saat": "07:00",
    "tarih_iso": "2026-09-14T07:00:22+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.ft.com/content/a2c33eed-7aef-4e68-9252-3a1dddf61b5a?syn-25a6b1a6=1",
@@ -346,7 +242,7 @@
    "saat": "07:00",
    "tarih_iso": "2026-09-14T07:00:22+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.ft.com/content/898836da-322a-4bb8-9e62-f3c3d36b23b2?syn-25a6b1a6=1",
@@ -356,17 +252,7 @@
    "saat": "07:00",
    "tarih_iso": "2026-09-14T07:00:12+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ai-slowdown-risks-the-stocks-most-exposed-if-frontier-labs-pull-back-93CH-4898805",
-   "baslik": "AI slowdown risks: the stocks most exposed if frontier labs pull back",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ai-slowdown-risks-the-stocks-most-exposed-if-frontier-labs-pull-back-93CH-4898805",
-   "saat": "06:56",
-   "tarih_iso": "2026-09-14T06:56:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/14/baker-hughes-ceo-no-slowdown-in-energy-projects-despite-higher-rates-.html",
@@ -376,47 +262,7 @@
    "saat": "06:27",
    "tarih_iso": "2026-09-14T06:27:58+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T06:30:56.764390+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/zai-shares-fall-to-512month-low-after-5-billion-share-bond-sale-4898803",
-   "baslik": "Z.AI shares fall to 5-1/2-month low after $5 billion share, bond sale",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/zai-shares-fall-to-512month-low-after-5-billion-share-bond-sale-4898803",
-   "saat": "06:11",
-   "tarih_iso": "2026-09-14T06:11:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T06:30:56.764390+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4898802",
-   "baslik": "Why is Samsung Electronics stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4898802",
-   "saat": "06:04",
-   "tarih_iso": "2026-09-14T06:04:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T06:30:56.764390+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4898801",
-   "baslik": "Why is SK Hynix stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-sliding-today-93CH-4898801",
-   "saat": "06:04",
-   "tarih_iso": "2026-09-14T06:04:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T06:30:56.764390+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cleanaway-waste-management-stock-rallying-today-93CH-4898800",
-   "baslik": "Why is Cleanaway Waste Management stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-cleanaway-waste-management-stock-rallying-today-93CH-4898800",
-   "saat": "06:03",
-   "tarih_iso": "2026-09-14T06:03:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T06:30:56.764390+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
@@ -426,37 +272,7 @@
    "saat": "06:01",
    "tarih_iso": "2026-09-14T06:01:13+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T06:01:04.218939+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asia-tech-stocks-tumble-as-ai-trade-doubts-deepen-before-fed-boj-decisions-4898797",
-   "baslik": "Asia tech stocks tumble as AI trade doubts deepen before Fed, BOJ decisions",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asia-tech-stocks-tumble-as-ai-trade-doubts-deepen-before-fed-boj-decisions-4898797",
-   "saat": "05:35",
-   "tarih_iso": "2026-09-14T05:35:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T06:01:04.218939+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-telix-pharmaceuticals-stock-surging-today-93CH-4898796",
-   "baslik": "Why is Telix Pharmaceuticals stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-telix-pharmaceuticals-stock-surging-today-93CH-4898796",
-   "saat": "05:33",
-   "tarih_iso": "2026-09-14T05:33:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T06:01:04.218939+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zai-stock-sliding-today-93CH-4898795",
-   "baslik": "Why is Z.AI stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-zai-stock-sliding-today-93CH-4898795",
-   "saat": "05:33",
-   "tarih_iso": "2026-09-14T05:33:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T06:01:04.218939+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
@@ -466,7 +282,7 @@
    "saat": "04:39",
    "tarih_iso": "2026-09-14T04:39:13+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T05:01:04.918273+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/14/prediction-markets-efficient-win-lose-beat.html",
@@ -476,117 +292,7 @@
    "saat": "04:37",
    "tarih_iso": "2026-09-14T04:37:44+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T05:01:04.918273+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-slide-on-calls-to-slow-ai-development-meast-escalation-4898779",
-   "baslik": "U.S. stock futures slide on calls to slow AI development, M.East escalation",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-slide-on-calls-to-slow-ai-development-meast-escalation-4898779",
-   "saat": "03:26",
-   "tarih_iso": "2026-09-14T03:26:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T04:01:01.180354+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/anthropic-tells-investors-it-will-post-second-straight-quarterly-profit--ft-4898778",
-   "baslik": "Anthropic tells investors it will post second straight quarterly profit - FT",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-tells-investors-it-will-post-second-straight-quarterly-profit--ft-4898778",
-   "saat": "03:26",
-   "tarih_iso": "2026-09-14T03:26:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T04:01:01.180354+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/planet-labs-2026-outlook-government-233554955.html",
-   "baslik": "Planet Labs' 2026 Outlook: Government Contracts Power Revenue Growth",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/planet-labs-2026-outlook-government-233554955.html",
-   "saat": "02:35",
-   "tarih_iso": "2026-09-14T02:35:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T03:01:04.923420+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/2-monster-stocks-buy-hold-232500154.html",
-   "baslik": "2 Monster Stocks to Buy and Hold for at Least the Next 5 Years",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/2-monster-stocks-buy-hold-232500154.html",
-   "saat": "02:25",
-   "tarih_iso": "2026-09-14T02:25:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T03:01:04.923420+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
-   "baslik": "Shares slip in Asia as oil climbs, rate hikes loom",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
-   "saat": "02:12",
-   "tarih_iso": "2026-09-14T02:12:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T03:01:04.923420+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/real-estate/articles/canadian-cre-investors-shrug-off-230503604.html",
-   "baslik": "Canadian CRE Investors Shrug Off Trade War, Spend $9B On U.S. Assets",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/real-estate/articles/canadian-cre-investors-shrug-off-230503604.html",
-   "saat": "02:05",
-   "tarih_iso": "2026-09-14T02:05:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T03:01:04.923420+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/ambarella-ceo-sees-edge-ai-230158829.html",
-   "baslik": "Ambarella CEO Sees Edge AI Growth Across Security, Autos and Wearables",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/ambarella-ceo-sees-edge-ai-230158829.html",
-   "saat": "02:01",
-   "tarih_iso": "2026-09-14T02:01:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T03:01:04.923420+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/anthropic-tells-investors-it-will-be-profitable-for-second-straight-quarter-ft-reports-4898761",
-   "baslik": "Anthropic tells investors it will be profitable for second straight quarter, FT reports",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-tells-investors-it-will-be-profitable-for-second-straight-quarter-ft-reports-4898761",
-   "saat": "02:00",
-   "tarih_iso": "2026-09-14T02:00:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T02:30:53.686486+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-87-fed-hike-230000027.html",
-   "baslik": "Bitcoin Faces 87% Fed Hike Odds Wednesday: Will Treasury Save the Rally?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-faces-87-fed-hike-230000027.html",
-   "saat": "02:00",
-   "tarih_iso": "2026-09-14T02:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T03:01:04.923420+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/spacex-vs-apple-wall-street-225000050.html",
-   "baslik": "SpaceX vs. Apple: Wall Street Sees Strong Upside for One of These Stocks and Remains Neutral On the Other",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-apple-wall-street-225000050.html",
-   "saat": "01:50",
-   "tarih_iso": "2026-09-14T01:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T02:00:59.775401+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-trailing-p-223401074.html",
-   "baslik": "Berkshire Hathaway Stock Is Trailing the S&P 500 by About 10 Points This Year. History Says That Usually Doesn't Last.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-stock-trailing-p-223401074.html",
-   "saat": "01:34",
-   "tarih_iso": "2026-09-14T01:34:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T02:00:59.775401+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1",
@@ -596,157 +302,7 @@
    "saat": "01:29",
    "tarih_iso": "2026-09-14T01:29:46+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-14T02:00:59.775401+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/oil-jumps-shutdown-saudi-pipeline-222833324.html",
-   "baslik": "Oil Jumps as Shutdown of Saudi Pipeline Deepens Energy Crisis",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/oil-jumps-shutdown-saudi-pipeline-222833324.html",
-   "saat": "01:28",
-   "tarih_iso": "2026-09-14T01:28:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T03:01:04.923420+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/down-50-over-past-time-222000073.html",
-   "baslik": "Down 50% Over the Past Year, Is It Time to Back Up the Truck and Buy Oracle Stock as Revenue Surges?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/down-50-over-past-time-222000073.html",
-   "saat": "01:20",
-   "tarih_iso": "2026-09-14T01:20:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T02:00:59.775401+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/docusigns-2026-outlook-artificial-intelligence-215816259.html",
-   "baslik": "DocuSign's 2026 Outlook: Artificial Intelligence Drives Future Revenue Growth",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/docusigns-2026-outlook-artificial-intelligence-215816259.html",
-   "saat": "00:58",
-   "tarih_iso": "2026-09-14T00:58:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T01:30:54.273113+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/cybersecurity-next-big-market-artificial-215000090.html",
-   "baslik": "Cybersecurity Is the Next Big Market for Artificial Intelligence (AI), According to Jensen Huang. This Super Stock-Split Stock Is the One to Own.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/cybersecurity-next-big-market-artificial-215000090.html",
-   "saat": "00:50",
-   "tarih_iso": "2026-09-14T00:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T01:30:54.273113+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/adobes-user-growth-soaring-stock-214700533.html",
-   "baslik": "Adobe's user growth is soaring, but its stock rating isn't",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/adobes-user-growth-soaring-stock-214700533.html",
-   "saat": "00:47",
-   "tarih_iso": "2026-09-14T00:47:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T01:00:57.622983+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/state-street-xlv-vs-ishares-214442363.html",
-   "baslik": "State Street XLV vs. iShares IXJ: Here's How These Healthcare ETFs Stack Up for Investors",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/state-street-xlv-vs-ishares-214442363.html",
-   "saat": "00:44",
-   "tarih_iso": "2026-09-14T00:44:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T01:00:57.622983+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-121-4898756",
-   "baslik": "Russia stocks lower at close of trade; MOEX Russia Index down 1.21%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-121-4898756",
-   "saat": "00:20",
-   "tarih_iso": "2026-09-14T00:20:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T02:00:59.775401+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/articles/cathie-wood-sees-economic-boom-211005109.html",
-   "baslik": "Cathie Wood Sees an Economic Boom Wall Street Isn’t Pricing In",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/articles/cathie-wood-sees-economic-boom-211005109.html",
-   "saat": "00:10",
-   "tarih_iso": "2026-09-14T00:10:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T00:30:55.138688+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-sees-resilient-demand-210157617.html",
-   "baslik": "Ulta Beauty Sees Resilient Demand, Eyes Fragrance, Wellness Growth After Target Exit",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-sees-resilient-demand-210157617.html",
-   "saat": "00:01",
-   "tarih_iso": "2026-09-14T00:01:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T00:30:55.138688+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html",
-   "baslik": "Further Oil Price Spikes Could Rekindle Recession Fears",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/further-oil-price-spikes-could-210000970.html",
-   "saat": "00:00",
-   "tarih_iso": "2026-09-14T00:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T01:00:57.622983+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/voog-vs-vong-powerhouse-vanguard-205014404.html",
-   "baslik": "VOOG vs. VONG: Which Powerhouse Vanguard ETF Is the Stronger Choice for Investors?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/voog-vs-vong-powerhouse-vanguard-205014404.html",
-   "saat": "23:50",
-   "tarih_iso": "2026-09-13T23:50:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T00:30:55.138688+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/forget-intel-buy-tech-stock-205000747.html",
-   "baslik": "Forget Intel. Buy This Tech Stock in September Instead.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-intel-buy-tech-stock-205000747.html",
-   "saat": "23:50",
-   "tarih_iso": "2026-09-13T23:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T00:30:55.138688+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/larry-ellison-cancels-7-5-204938699.html",
-   "baslik": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-cancels-7-5-204938699.html",
-   "saat": "23:49",
-   "tarih_iso": "2026-09-13T23:49:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T00:30:55.138688+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/could-only-buy-1-artificial-204600089.html",
-   "baslik": "If I Could Only Buy 1 Artificial Intelligence (AI) Stock, This Would Be It",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/could-only-buy-1-artificial-204600089.html",
-   "saat": "23:46",
-   "tarih_iso": "2026-09-13T23:46:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T00:30:55.138688+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/wall-streets-ai-trade-on-watch-as-altman-musk-join-calls-for-slowing-development-4898752",
-   "baslik": "Wall Street’s AI trade on watch as Altman, Musk join calls for slowing development",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/wall-streets-ai-trade-on-watch-as-altman-musk-join-calls-for-slowing-development-4898752",
-   "saat": "23:27",
-   "tarih_iso": "2026-09-13T23:27:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T02:00:59.775401+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/how-to-trade-a-well-paying-job-for-more-work-life-balance-without-going-broke-794de555?mod=mw_rss_topstories",
@@ -756,127 +312,7 @@
    "saat": "23:17",
    "tarih_iso": "2026-09-13T23:17:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-13T23:30:52.012961+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/apple-bought-back-more-880-200500810.html",
-   "baslik": "Apple Bought Back More Than $880 Billion of Its Own Stock During Tim Cook's 15 Years as CEO. Here's How That Reshaped Shareholder Returns.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-bought-back-more-880-200500810.html",
-   "saat": "23:05",
-   "tarih_iso": "2026-09-13T23:05:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T23:30:52.012961+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/buy-bristol-myers-squibb-stock-195300266.html",
-   "baslik": "Should You Buy Bristol Myers Squibb Stock Right Now for the Yield Alone?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/buy-bristol-myers-squibb-stock-195300266.html",
-   "saat": "22:53",
-   "tarih_iso": "2026-09-13T22:53:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T23:00:59.536752+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/draftkings-flutter-jump-court-rules-194622553.html",
-   "baslik": "DraftKings and Flutter Jump After Court Rules Prediction Markets Are Gambling, Not Federally Regulated Trading",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/draftkings-flutter-jump-court-rules-194622553.html",
-   "saat": "22:46",
-   "tarih_iso": "2026-09-13T22:46:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T23:00:59.536752+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/boeing-delivered-51-jets-august-194600293.html",
-   "baslik": "Boeing Delivered 51 Jets in August. Here's Why the Stock is Finally Back Above $200.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/boeing-delivered-51-jets-august-194600293.html",
-   "saat": "22:46",
-   "tarih_iso": "2026-09-13T22:46:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T23:00:59.536752+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/etfs-vs-mutual-funds-vs-193500847.html",
-   "baslik": "ETFs vs. Mutual Funds vs. Individual Stocks: Why I'm Putting More Into ETFs in 2027",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-vs-mutual-funds-vs-193500847.html",
-   "saat": "22:35",
-   "tarih_iso": "2026-09-13T22:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T23:00:59.536752+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/fund-managers-fed-interest-rate-193300301.html",
-   "baslik": "Fund manager's Fed interest rate outlook will frustrate consumers",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/fund-managers-fed-interest-rate-193300301.html",
-   "saat": "22:33",
-   "tarih_iso": "2026-09-13T22:33:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T23:00:59.536752+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/insiders-trim-positions-five-below-192000475.html",
-   "baslik": "Insiders Trim Positions in Five Below Stock After 39% Run-Up",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/insiders-trim-positions-five-below-192000475.html",
-   "saat": "22:20",
-   "tarih_iso": "2026-09-13T22:20:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T23:00:59.536752+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
-   "baslik": "Nvidia (NVDA) Looks Cheap on Piper’s Forecasts, but the Earnings Assumptions Are the Real Test",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-looks-cheap-piper-191328167.html",
-   "saat": "22:13",
-   "tarih_iso": "2026-09-13T22:13:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T22:30:54.166099+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jpmorgan-lowers-adobe-stock-price-191300014.html",
-   "baslik": "JPMorgan lowers Adobe stock price target",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-lowers-adobe-stock-price-191300014.html",
-   "saat": "22:13",
-   "tarih_iso": "2026-09-13T22:13:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T22:30:54.166099+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/e3ba3f9a-9312-4d0b-99fd-2c80728f2dcd?syn-25a6b1a6=1",
-   "baslik": "Trump calls on Ukraine to stop striking Russian oil refineries",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/e3ba3f9a-9312-4d0b-99fd-2c80728f2dcd?syn-25a6b1a6=1",
-   "saat": "22:08",
-   "tarih_iso": "2026-09-13T22:08:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T02:00:59.775401+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/meet-magnificent-momentum-driven-etf-190500364.html",
-   "baslik": "Meet the Magnificent Momentum-Driven ETF Obliterating the S&P 500 in 2026",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/meet-magnificent-momentum-driven-etf-190500364.html",
-   "saat": "22:05",
-   "tarih_iso": "2026-09-13T22:05:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T22:30:54.166099+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/t-mobile-us-ceo-maps-190200025.html",
-   "baslik": "T-Mobile US CEO Maps 5G, Broadband and AI Growth Strategy at Goldman Sachs Conference",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/t-mobile-us-ceo-maps-190200025.html",
-   "saat": "22:02",
-   "tarih_iso": "2026-09-13T22:02:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T22:30:54.166099+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
@@ -886,207 +322,7 @@
    "saat": "22:00",
    "tarih_iso": "2026-09-13T22:00:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-13T22:30:54.166099+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/10-treasury-bond-yields-nearly-185000151.html",
-   "baslik": "The 10-Year Treasury Bond Yields Nearly 5% Right Now. Here's Why I'd Still Choose PepsiCo for Passive Income.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/10-treasury-bond-yields-nearly-185000151.html",
-   "saat": "21:50",
-   "tarih_iso": "2026-09-13T21:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T22:30:54.166099+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/vanguard-fidelity-name-smarter-alternative-184700713.html",
-   "baslik": "Vanguard, Fidelity name the smarter alternative to selling stock",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-fidelity-name-smarter-alternative-184700713.html",
-   "saat": "21:47",
-   "tarih_iso": "2026-09-13T21:47:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T22:01:06.796462+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/most-investors-think-netflix-nflx-183500889.html",
-   "baslik": "Most Investors Think Netflix (NFLX) Is Too Expensive. I Think They're Wrong.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/most-investors-think-netflix-nflx-183500889.html",
-   "saat": "21:35",
-   "tarih_iso": "2026-09-13T21:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T22:01:06.796462+03:00"
-  },
-  {
-   "id": "yab-https://www.barrons.com/articles/stock-futures-trading-sunday-5e07197d?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Stock Futures Poised to Trade Ahead of Fed Rate Decision",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.barrons.com/articles/stock-futures-trading-sunday-5e07197d?siteid=yhoof2&yptr=yahoo",
-   "saat": "21:08",
-   "tarih_iso": "2026-09-13T21:08:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T22:30:54.166099+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/anthropic-said-choose-nasdaq-much-180359465.html",
-   "baslik": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO Listing",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/anthropic-said-choose-nasdaq-much-180359465.html",
-   "saat": "21:03",
-   "tarih_iso": "2026-09-13T21:03:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T22:30:54.166099+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/mcdonalds-yields-3-highest-over-180300081.html",
-   "baslik": "McDonald's Yields 3%, the Highest in Over 6 Years. Is the Dow Dividend Stock a Value Trap or Too Cheap to Ignore?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-yields-3-highest-over-180300081.html",
-   "saat": "21:03",
-   "tarih_iso": "2026-09-13T21:03:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T21:30:55.167181+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/barclays-resets-oracle-stock-price-180300087.html",
-   "baslik": "Barclays resets Oracle stock price target",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/barclays-resets-oracle-stock-price-180300087.html",
-   "saat": "21:03",
-   "tarih_iso": "2026-09-13T21:03:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T21:30:55.167181+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/small-business/articles/intuit-targets-customers-ai-growth-180206057.html",
-   "baslik": "Intuit Targets New Customers, AI Growth as QuickBooks and TurboTax Bets Scale",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/small-business/articles/intuit-targets-customers-ai-growth-180206057.html",
-   "saat": "21:02",
-   "tarih_iso": "2026-09-13T21:02:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T21:30:55.167181+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-driving-180024217.html",
-   "baslik": "Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-driving-180024217.html",
-   "saat": "21:00",
-   "tarih_iso": "2026-09-13T21:00:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T21:30:55.167181+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/ross-gerber-trashes-trumps-5-180021266.html",
-   "baslik": "Ross Gerber Trashes Trump's $5,000 Dividend Plan, Justin Wolfers Says 'You Accidentally Started Another Trade War, Mr President'",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/ross-gerber-trashes-trumps-5-180021266.html",
-   "saat": "21:00",
-   "tarih_iso": "2026-09-13T21:00:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T22:30:54.166099+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/fashion-concrete-j-p-morgan-180000956.html",
-   "baslik": "From Fashion to Concrete: J.P. Morgan Says Buy These 2 Stocks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/fashion-concrete-j-p-morgan-180000956.html",
-   "saat": "21:00",
-   "tarih_iso": "2026-09-13T21:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T21:30:55.167181+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/openai-just-came-wall-street-174521809.html",
-   "baslik": "OpenAI Just Came for Wall Street’s Junior Bankers. Morgan Stanley Helped Build the Thing.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/openai-just-came-wall-street-174521809.html",
-   "saat": "20:45",
-   "tarih_iso": "2026-09-13T20:45:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T21:30:55.167181+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/warren-buffett-made-apple-berkshire-173600865.html",
-   "baslik": "Warren Buffett Made Apple Berkshire Hathaway's Single Largest Stock Position: $10,000 Invested 10 Years Ago Would Be Worth Roughly $122,400 Today",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-made-apple-berkshire-173600865.html",
-   "saat": "20:36",
-   "tarih_iso": "2026-09-13T20:36:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T21:01:01.903201+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bank-america-strong-message-marvell-173300004.html",
-   "baslik": "Bank of America has strong message for Marvell stock investors",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-strong-message-marvell-173300004.html",
-   "saat": "20:33",
-   "tarih_iso": "2026-09-13T20:33:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T21:01:01.903201+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/nvidia-vs-broadcom-trillion-dollar-172700367.html",
-   "baslik": "Nvidia vs. Broadcom: Which Trillion-Dollar AI Chip Stock Has More Upside After Their Latest Earnings?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-broadcom-trillion-dollar-172700367.html",
-   "saat": "20:27",
-   "tarih_iso": "2026-09-13T20:27:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T21:01:01.903201+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/forget-screeners-hot-tips-heres-170700001.html",
-   "baslik": "Forget Screeners and Hot Tips: Here's How I Actually Research a Stock Using Fundamentals That Matter",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-screeners-hot-tips-heres-170700001.html",
-   "saat": "20:07",
-   "tarih_iso": "2026-09-13T20:07:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T20:30:54.211603+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jim-cramer-called-stock-terrific-170509740.html",
-   "baslik": "Jim Cramer Called This Stock “Terrific” and Said “No Thank You” to APLD Stock. Here’s Why",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-called-stock-terrific-170509740.html",
-   "saat": "20:05",
-   "tarih_iso": "2026-09-13T20:05:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T20:30:54.211603+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/cognizant-cfo-ai-pressures-spending-170200251.html",
-   "baslik": "Cognizant CFO: AI Pressures IT Spending, but BFSI Growth Stays Strong",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/cognizant-cfo-ai-pressures-spending-170200251.html",
-   "saat": "20:02",
-   "tarih_iso": "2026-09-13T20:02:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T20:30:54.211603+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/two-telecom-giants-two-big-170158895.html",
-   "baslik": "Two Telecom Giants, Two Big Dividends. Which One Can Investors Actually Count On?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/two-telecom-giants-two-big-170158895.html",
-   "saat": "20:01",
-   "tarih_iso": "2026-09-13T20:01:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T20:30:54.211603+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
-   "baslik": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html",
-   "saat": "19:59",
-   "tarih_iso": "2026-09-13T19:59:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T20:30:54.211603+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/13/here-are-the-2-big-things-were-watching-in-this-weeks-stock-market.html",
@@ -1096,350 +332,10 @@
    "saat": "19:57",
    "tarih_iso": "2026-09-13T19:57:43+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-13T20:30:54.211603+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-soar-1-163500139.html",
-   "baslik": "Will Micron Technology Stock Soar to $1,500 After Sept. 30?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-soar-1-163500139.html",
-   "saat": "19:35",
-   "tarih_iso": "2026-09-13T19:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T20:01:04.827582+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-memory-stock-could-surge-163100696.html",
-   "baslik": "Prediction: This Memory Stock Could Surge 233% Over the Next 3 Years (Hint: It's not Micron or Sandisk)",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-memory-stock-could-surge-163100696.html",
-   "saat": "19:31",
-   "tarih_iso": "2026-09-13T19:31:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T20:01:04.827582+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/sept-16-clearer-path-interest-162501048.html",
-   "baslik": "Sept. 16 Will Provide a Clearer Path for Interest Rates -- These 3 High-Yield Dividend Stocks Win Either Way",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sept-16-clearer-path-interest-162501048.html",
-   "saat": "19:25",
-   "tarih_iso": "2026-09-13T19:25:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T20:01:04.827582+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/anthropic-selects-nasdaq-for-ipo-business-insider-reports-4898744",
-   "baslik": "Anthropic selects Nasdaq for IPO, Business Insider reports",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/anthropic-selects-nasdaq-for-ipo-business-insider-reports-4898744",
-   "saat": "19:24",
-   "tarih_iso": "2026-09-13T19:24:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T21:30:55.167181+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ryanair-ceo-sends-rattling-message-161700051.html",
-   "baslik": "Ryanair CEO sends rattling message on airfares ahead of earnings",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ryanair-ceo-sends-rattling-message-161700051.html",
-   "saat": "19:17",
-   "tarih_iso": "2026-09-13T19:17:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T20:01:04.827582+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/3-most-resilient-high-yield-161652798.html",
-   "baslik": "3 of the Most Resilient High-Yield Dividend Stocks in the Chemical Sector: A Safety Deep Dive",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/3-most-resilient-high-yield-161652798.html",
-   "saat": "19:16",
-   "tarih_iso": "2026-09-13T19:16:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T19:30:56.244534+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/could-upstart-10x-ai-fintech-160501346.html",
-   "baslik": "Could Upstart 10x From Here? The AI Fintech Platform Could Be the Most Misunderstood Stock on the Market",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/could-upstart-10x-ai-fintech-160501346.html",
-   "saat": "19:05",
-   "tarih_iso": "2026-09-13T19:05:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T19:30:56.244534+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/sp-dow-jones-indicesloosens-canadian-index-inclusion-criteria-4898741",
-   "baslik": "S&P Dow Jones Indices loosens Canadian index inclusion criteria",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/sp-dow-jones-indicesloosens-canadian-index-inclusion-criteria-4898741",
-   "saat": "19:00",
-   "tarih_iso": "2026-09-13T19:00:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T21:30:55.167181+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/central-bank-ai-analyst-says-155003043.html",
-   "baslik": "Central Bank of AI: Analyst Says NVIDIA Could Sit on $1.4 Trillion — Dwarfing Hyperscalers and Wall Street",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/central-bank-ai-analyst-says-155003043.html",
-   "saat": "18:50",
-   "tarih_iso": "2026-09-13T18:50:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T19:30:56.244534+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ultimate-growth-stock-buy-1-155000797.html",
-   "baslik": "The Ultimate Growth Stock to Buy With $1,000 Right Now",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ultimate-growth-stock-buy-1-155000797.html",
-   "saat": "18:50",
-   "tarih_iso": "2026-09-13T18:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T19:30:56.244534+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
-   "baslik": "Pay is back on the rise for job switchers, even in low-hire job market",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/article/pay-is-back-on-the-rise-for-job-switchers-even-in-low-hire-job-market-154504463.html",
-   "saat": "18:45",
-   "tarih_iso": "2026-09-13T18:45:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T19:01:06.331541+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hsbc-raises-2026-p-500-154300501.html",
-   "baslik": "HSBC Raises 2026 S&P 500 Target to 8,100 on Earnings Outlook",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hsbc-raises-2026-p-500-154300501.html",
-   "saat": "18:43",
-   "tarih_iso": "2026-09-13T18:43:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T19:30:56.244534+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/rivian-vs-lucid-stock-clearly-153500179.html",
-   "baslik": "Rivian vs. Lucid: This Stock Is Clearly the Better Buy",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rivian-vs-lucid-stock-clearly-153500179.html",
-   "saat": "18:35",
-   "tarih_iso": "2026-09-13T18:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T19:01:06.331541+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
-   "baslik": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/trump-urges-federal-reserve-to-cut-rates-market-bets-warsh-hike/?src=A00220&yptr=yahoo",
-   "saat": "18:32",
-   "tarih_iso": "2026-09-13T18:32:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T19:01:06.331541+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/five-dividend-stocks-crushing-inflation-152635618.html",
-   "baslik": "Five Dividend Stocks Crushing Inflation With Consistent Dividend Payout Growth",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/five-dividend-stocks-crushing-inflation-152635618.html",
-   "saat": "18:26",
-   "tarih_iso": "2026-09-13T18:26:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T19:01:06.331541+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-nearly-14-359-152200373.html",
-   "baslik": "Berkshire Hathaway Has Nearly 14% of Its $359 Billion Portfolio Invested in This Winning Stock That's Doubled in 5 Years",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-nearly-14-359-152200373.html",
-   "saat": "18:22",
-   "tarih_iso": "2026-09-13T18:22:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T19:01:06.331541+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/hsbc-raises-oil-forecast-hormuz-150700300.html",
-   "baslik": "HSBC raises its oil forecast as the Hormuz backup plan burns",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/hsbc-raises-oil-forecast-hormuz-150700300.html",
-   "saat": "18:07",
-   "tarih_iso": "2026-09-13T18:07:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T18:31:29.670183+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/articles/hp-raises-outlook-premium-ai-150158423.html",
-   "baslik": "HP Raises Outlook as Premium AI PCs and Tariff Refunds Boost Results",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/articles/hp-raises-outlook-premium-ai-150158423.html",
-   "saat": "18:01",
-   "tarih_iso": "2026-09-13T18:01:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T18:31:29.670183+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-hiding-boring-150131403.html",
-   "baslik": "5 Dividend Stocks Hiding in Boring Businesses Customers Cannot Live Without",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-hiding-boring-150131403.html",
-   "saat": "18:01",
-   "tarih_iso": "2026-09-13T18:01:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T18:31:29.670183+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/second-thought-never-mind-why-145340407.html",
-   "baslik": "On Second Thought, Never Mind: Here’s Why ORCL’s Larry Ellison Just Canceled $7.5 Billion Stock Sale",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/second-thought-never-mind-why-145340407.html",
-   "saat": "17:53",
-   "tarih_iso": "2026-09-13T17:53:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T18:31:29.670183+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-point-history-144300204.html",
-   "baslik": "A Bear Market Is Coming at Some Point. History Says That's Actually Good News for Investors.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-point-history-144300204.html",
-   "saat": "17:43",
-   "tarih_iso": "2026-09-13T17:43:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T18:31:29.670183+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-   "baslik": "Dow Jones Futures: Fed Meeting Ahead; Anthropic's Amodei, OpenAI's Altman, SpaceX's Musk Call For AI Slowdown",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo",
-   "saat": "17:42",
-   "tarih_iso": "2026-09-13T17:42:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T18:01:04.831677+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
-   "baslik": "Corporate profit forecasts are topping expectations to an unusual degree. AI is a big reason why.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/corporate-profit-forecasts-are-topping-expectations-to-an-unusual-degree-ai-is-a-big-reason-why-50245409?mod=mw_rss_topstories",
-   "saat": "17:00",
-   "tarih_iso": "2026-09-13T17:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T17:30:54.369109+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
-   "baslik": "Up 3,600%, this freight fund has posted the biggest gains of all on Iran war oil shock",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/13/iran-war-oil-prices-freight-tankers-shipping.html",
-   "saat": "16:50",
-   "tarih_iso": "2026-09-13T16:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T17:01:02.630559+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html",
-   "baslik": "Red Violet (RDVT) Turns Record Growth Into Real Profit Gains",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/red-violet-rdvt-turns-record-133658483.html",
-   "saat": "16:36",
-   "tarih_iso": "2026-09-13T16:36:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T18:31:29.670183+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/article/stark-warnings-from-anthropic-and-openai-ceos-are-set-to-disrupt-the-ai-stock-trade-they-built-up-132747413.html",
-   "baslik": "Stark warnings from Anthropic and OpenAI CEOs are set to disrupt the AI stock trade they built up",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/article/stark-warnings-from-anthropic-and-openai-ceos-are-set-to-disrupt-the-ai-stock-trade-they-built-up-132747413.html",
-   "saat": "16:27",
-   "tarih_iso": "2026-09-13T16:27:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T18:31:29.670183+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ai-bet-finally-132237575.html",
-   "baslik": "Adobe’s (ADBE) AI Bet Is Finally Showing Up In Revenue",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ai-bet-finally-132237575.html",
-   "saat": "16:22",
-   "tarih_iso": "2026-09-13T16:22:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T18:31:29.670183+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-price-of-almost-everything-on-your-dinner-table-is-climbing-at-once-and-wall-street-is-taking-notice-9623d1fc?mod=mw_rss_topstories",
-   "baslik": "The price of almost everything on your dinner table is climbing at once — and Wall Street is taking notice",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-price-of-almost-everything-on-your-dinner-table-is-climbing-at-once-and-wall-street-is-taking-notice-9623d1fc?mod=mw_rss_topstories",
-   "saat": "16:00",
-   "tarih_iso": "2026-09-13T16:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T16:30:51.392271+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-130-4898732",
-   "baslik": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.30%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-130-4898732",
-   "saat": "15:45",
-   "tarih_iso": "2026-09-13T15:45:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T16:01:06.881125+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/us-equity-etfs-see-outflows-of-45-billion-as-traders-price-in-fed-rate-hike-4898731",
-   "baslik": "U.S. equity ETFs see outflows of $4.5 billion as traders price in Fed rate hike",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/us-equity-etfs-see-outflows-of-45-billion-as-traders-price-in-fed-rate-hike-4898731",
-   "saat": "15:37",
-   "tarih_iso": "2026-09-13T15:37:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T16:01:06.881125+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
-   "baslik": "Top Wall Street analysts recommend these 3 dividend stocks for higher returns",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/13/top-wall-street-analysts-recommend-these-3-dividend-stocks-for-higher-returns.html",
-   "saat": "14:53",
-   "tarih_iso": "2026-09-13T14:53:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T15:30:55.754470+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-   "baslik": "NFL and midterm elections set up prediction markets for a critical fall season",
-   "kaynak": "CNBC Finans",
-   "link": "https://www.cnbc.com/2026/09/13/nfl-and-midterms-mark-key-fall-season-for-prediction-markets.html",
-   "saat": "14:52",
-   "tarih_iso": "2026-09-13T14:52:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T15:01:06.277771+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
  "altin_haber": [
-  {
-   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-4300-dolarin-kapisinda-fed-karari-sonrasi-hangi-senaryo-one-cikacak-galeri-839889",
-   "baslik": "Altın 4.300 doların kapısında Fed kararı sonrası hangi senaryo öne çıkacak?",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-4300-dolarin-kapisinda-fed-karari-sonrasi-hangi-senaryo-one-cikacak-galeri-839889",
-   "saat": "05:52",
-   "tarih_iso": "2026-09-14T05:52:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T06:30:56.764390+03:00"
-  },
-  {
-   "id": "alt-https://www.dunya.com/finans/haberler/ne-altin-ne-yapay-zeka-wall-streetin-surpriz-sampiyonu-yuzde-3600-kazandirdi-haberi-839853",
-   "baslik": "Ne altın ne yapay zeka: Wall Street'in sürpriz şampiyonu yüzde 3.600 kazandırdı",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/finans/haberler/ne-altin-ne-yapay-zeka-wall-streetin-surpriz-sampiyonu-yuzde-3600-kazandirdi-haberi-839853",
-   "saat": "16:43",
-   "tarih_iso": "2026-09-13T16:43:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T17:30:54.369109+03:00"
-  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-selloff-shows-why-real-yields-still-dominate-inflation-risk-200687562",
    "baslik": "Gold Selloff Shows Why Real Yields Still Dominate Inflation Risk",
@@ -1448,7 +344,7 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/golds-next-leg-higher-etf-inflows-signal-investors-are-back-200687559",
@@ -1458,7 +354,7 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-faces-downside-risk-as-shifting-us-policy-fuels-energyled-inflation-200687548",
@@ -1468,7 +364,7 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-rallies-into-a-hawkish-fed-setup-as-price-action-becomes-hard-to-defend-200687538",
@@ -1478,28 +374,18 @@
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   },
   {
-   "id": "alt-https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-13-eylul-2026-haberi-839811",
-   "baslik": "ALTINDA SON DURUM: Gram ve çeyrek altın kaç TL oldu? Altın fiyatları ne kadar? (13 Eylül 2026)",
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-4300-dolarin-kapisinda-fed-karari-sonrasi-hangi-senaryo-one-cikacak-galeri-839889",
+   "baslik": "Altın 4.300 doların kapısında Fed kararı sonrası hangi senaryo öne çıkacak?",
    "kaynak": "Dünya",
-   "link": "https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-13-eylul-2026-haberi-839811",
-   "saat": "07:13",
-   "tarih_iso": "2026-09-13T07:13:00+03:00",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-4300-dolarin-kapisinda-fed-karari-sonrasi-hangi-senaryo-one-cikacak-galeri-839889",
+   "saat": "05:52",
+   "tarih_iso": "2026-09-14T05:52:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
-  },
-  {
-   "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-12-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3465552",
-   "baslik": "ALTIN FİYATLARI 12 EYLÜL 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
-   "kaynak": "CNN Türk Ekonomi",
-   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlari-12-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3465552",
-   "saat": "20:32",
-   "tarih_iso": "2026-09-12T20:32:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
+   "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-14T08:30:52.414900+03:00"
+ "guncelleme": "2026-09-14T09:01:04.329383+03:00"
 }
