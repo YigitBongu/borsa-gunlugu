@@ -2,6 +2,19 @@
  "tarih": "2026-09-14",
  "kap": [
   {
+   "id": "kap-my-AKFGY-202609141659",
+   "baslik": "BORSA İSTANBUL A.Ş. — Hak Kullanımı",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "AKFGY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:59",
+   "tarih_iso": "2026-09-14T16:59:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
    "id": "kap-my-SISE-202609141550",
    "baslik": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
@@ -243,6 +256,36 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/temporal-550-milyon-dolar-toplad-degerlemesi-ikiye-katland-93CH-4065028",
+   "baslik": "Temporal 550 milyon dolar topladı, değerlemesi ikiye katlandı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/temporal-550-milyon-dolar-toplad-degerlemesi-ikiye-katland-93CH-4065028",
+   "saat": "17:24",
+   "tarih_iso": "2026-09-14T17:24:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hazineden-1439-milyar-liralik-borclanma-haberi-839983",
+   "baslik": "Hazine'den 143,9 milyar liralık borçlanma",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazineden-1439-milyar-liralik-borclanma-haberi-839983",
+   "saat": "17:24",
+   "tarih_iso": "2026-09-14T17:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-rezervlerinde-dusus-ucuncu-haftaya-tasindi-haberi-839978",
+   "baslik": "TCMB rezervlerinde düşüş üçüncü haftaya taşındı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-rezervlerinde-dusus-ucuncu-haftaya-tasindi-haberi-839978",
+   "saat": "16:53",
+   "tarih_iso": "2026-09-14T16:53:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/ecb-yonetim-kurulu-uyesi-schnabel-enerji-fiyatlarindaki-artisin-endise-verici-oldugunu-soyledi/4056909",
    "baslik": "ECB Yönetim Kurulu Üyesi Schnabel, enerji fiyatlarındaki artışın endişe verici olduğunu söyledi",
    "kaynak": "AA Ekonomi",
@@ -424,6 +467,116 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/4-high-yield-dividend-stocks-141711346.html",
+   "baslik": "4 High-Yield Dividend Stocks Worth Having in Your Roth IRA",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/4-high-yield-dividend-stocks-141711346.html",
+   "saat": "17:17",
+   "tarih_iso": "2026-09-14T17:17:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/larry-ellison-cancels-plan-sell-141554539.html",
+   "baslik": "Larry Ellison Cancels Plan To Sell $7.5 Billion In Oracle Stock After His Net Worth Dropped $200 Billion In A Year",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-cancels-plan-sell-141554539.html",
+   "saat": "17:15",
+   "tarih_iso": "2026-09-14T17:15:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/micron-technology-ramping-production-high-141108139.html",
+   "baslik": "Micron Technology Is Ramping Up Production of High-Bandwidth Memory. Here's Why That Could Send the Stock to New Heights This Year",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-ramping-production-high-141108139.html",
+   "saat": "17:11",
+   "tarih_iso": "2026-09-14T17:11:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/math-tax-man-goes-away-140750936.html",
+   "baslik": "Do the Math: Tax Man Goes Away When You Own These Dividend Stocks in a Roth IRA",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/math-tax-man-goes-away-140750936.html",
+   "saat": "17:07",
+   "tarih_iso": "2026-09-14T17:07:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/why-bond-market-expects-two-140315683.html",
+   "baslik": "Why the Bond Market Expects Two More Rate Hikes and Three Cuts After That",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/why-bond-market-expects-two-140315683.html",
+   "saat": "17:03",
+   "tarih_iso": "2026-09-14T17:03:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/options/articles/kalshi-offer-u-stock-commodities-140300562.html",
+   "baslik": "Kalshi To Offer U.S. Stock And Commodities Trading",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/options/articles/kalshi-offer-u-stock-commodities-140300562.html",
+   "saat": "17:03",
+   "tarih_iso": "2026-09-14T17:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/teva-pharmaceuticals-sees-pivot-growth-140227795.html",
+   "baslik": "Teva Pharmaceuticals Sees Pivot to Growth Accelerating on Branded Drugs, Biosimilars",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/teva-pharmaceuticals-sees-pivot-growth-140227795.html",
+   "saat": "17:02",
+   "tarih_iso": "2026-09-14T17:02:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/rf-industries-q3-earnings-call-140226016.html",
+   "baslik": "RF Industries Q3 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-q3-earnings-call-140226016.html",
+   "saat": "17:02",
+   "tarih_iso": "2026-09-14T17:02:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
+   "baslik": "Tech stocks today: AI warnings send shock through chip stocks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
+   "saat": "17:01",
+   "tarih_iso": "2026-09-14T17:01:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/amd-sitting-515-most-u-140030239.html",
+   "baslik": "AMD Is Sitting at $515. Here Is What Most U.S. Investors Should Actually Do About It.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/amd-sitting-515-most-u-140030239.html",
+   "saat": "17:00",
+   "tarih_iso": "2026-09-14T17:00:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/china-insight-china-apparel-h1-140000859.html",
+   "baslik": "China Insight: China Apparel H1 2026 — Behind the Growth, a Sharper Bifurcation",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/china-insight-china-apparel-h1-140000859.html",
+   "saat": "17:00",
+   "tarih_iso": "2026-09-14T17:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:30:56.697490+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
    "baslik": "Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share",
@@ -1513,116 +1666,6 @@
    "tarih_iso": "2026-09-14T12:36:37+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T13:01:07.784093+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/oil-prices-rise-more-3-093627312.html",
-   "baslik": "Oil Prices Rise More Than 3% After Houthi Attacks and Hormuz Talks Delay",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/oil-prices-rise-more-3-093627312.html",
-   "saat": "12:36",
-   "tarih_iso": "2026-09-14T12:36:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:30:56.248209+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/finance/currencies/singapore-dollar-weakens-amid-escalating-middle-east-conflict-a746d8cc?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Euro Declines as Dollar Gains on Fed Rate-Rise Expectations",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/finance/currencies/singapore-dollar-weakens-amid-escalating-middle-east-conflict-a746d8cc?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:36",
-   "tarih_iso": "2026-09-14T12:36:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:01:07.784093+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/forget-ai-stocks-tech-play-093500342.html",
-   "baslik": "Forget AI Stocks: This Tech Play Is the Real Winner",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/forget-ai-stocks-tech-play-093500342.html",
-   "saat": "12:35",
-   "tarih_iso": "2026-09-14T12:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:01:07.784093+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/commodities/articles/gold-falls-toward-4-300-093148193.html",
-   "baslik": "Gold Falls Toward $4,300 as US Inflation Raises Fed Rate Hike Expectations",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/commodities/articles/gold-falls-toward-4-300-093148193.html",
-   "saat": "12:31",
-   "tarih_iso": "2026-09-14T12:31:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:30:56.248209+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-next-nvidia-backed-stock-093000386.html",
-   "baslik": "Prediction: The Next Nvidia-Backed Stock to Go Parabolic Could Be Hiding in Plain Sight",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-next-nvidia-backed-stock-093000386.html",
-   "saat": "12:30",
-   "tarih_iso": "2026-09-14T12:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:01:07.784093+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/finance/why-mortgage-bonds-are-at-risk-if-rates-riseand-if-they-fall-ff897dd5?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Why Mortgage Bonds Are at Risk if Rates Rise—and if They Fall",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/finance/why-mortgage-bonds-are-at-risk-if-rates-riseand-if-they-fall-ff897dd5?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:30",
-   "tarih_iso": "2026-09-14T12:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:01:07.784093+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-fall-ai-092940971.html",
-   "baslik": "US Stock Futures Fall as AI Safety Concerns and Middle East Developments Weigh on Markets: Dow Jones, S&P, Nasdaq, Wall Street",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-fall-ai-092940971.html",
-   "saat": "12:29",
-   "tarih_iso": "2026-09-14T12:29:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:01:07.784093+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-   "baslik": "How investors are reacting to the AI pause calls from Anthropic and other frontier labs",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
-   "saat": "12:29",
-   "tarih_iso": "2026-09-14T12:29:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/heed-warren-buffetts-advice-time-092601680.html",
-   "baslik": "Heed Warren Buffett's Advice: The Time to Be Fearful When Others Are Greedy Has Arrived on Wall Street",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/heed-warren-buffetts-advice-time-092601680.html",
-   "saat": "12:26",
-   "tarih_iso": "2026-09-14T12:26:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:01:07.784093+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/middle-east-oil-routes-under-091500205.html",
-   "baslik": "Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/middle-east-oil-routes-under-091500205.html",
-   "saat": "12:15",
-   "tarih_iso": "2026-09-14T12:15:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:58:04.639852+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ailinked-asian-stocks-slump-after-top-lab-ceos-call-for-slowing-down-technologys-development-4898809",
-   "baslik": "AI-linked stocks slump after top lab CEOs call for slowing technology’s development",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ailinked-asian-stocks-slump-after-top-lab-ceos-call-for-slowing-down-technologys-development-4898809",
-   "saat": "12:12",
-   "tarih_iso": "2026-09-14T12:12:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
   }
  ],
  "altin_haber": [
@@ -1807,5 +1850,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-14T17:01:53.160911+03:00"
+ "guncelleme": "2026-09-14T17:30:56.697490+03:00"
 }
