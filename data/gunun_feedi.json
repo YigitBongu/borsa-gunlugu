@@ -251,6 +251,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/serdar-dursun-fenerbahce-kadrosunda-bir-yetersizlik-var-haberi-840027",
+   "baslik": "Serdar Dursun: Fenerbahçe kadrosunda bir yetersizlik var",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/serdar-dursun-fenerbahce-kadrosunda-bir-yetersizlik-var-haberi-840027",
+   "saat": "00:50",
+   "tarih_iso": "2026-09-15T00:50:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-15T01:01:02.138646+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/gaziantep-fenerbahce-macinda-gol-sesi-cikmadi-haberi-840018",
    "baslik": "Gaziantep-Fenerbahçe maçında gol sesi çıkmadı",
    "kaynak": "Dünya",
@@ -642,6 +654,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+   "baslik": "The oil market is sending an increasingly loud warning about gas prices at the pump",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
+   "saat": "00:31",
+   "tarih_iso": "2026-09-15T00:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T01:01:02.138646+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-046-4900584",
+   "baslik": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.46%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-046-4900584",
+   "saat": "00:30",
+   "tarih_iso": "2026-09-15T00:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T01:01:02.138646+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sysco-stock-sliding-today-93CH-4900577",
+   "baslik": "Why is Sysco stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sysco-stock-sliding-today-93CH-4900577",
+   "saat": "00:26",
+   "tarih_iso": "2026-09-15T00:26:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T01:01:02.138646+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-006-4900576",
+   "baslik": "Colombia stocks lower at close of trade; COLCAP down 0.06%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-006-4900576",
+   "saat": "00:25",
+   "tarih_iso": "2026-09-15T00:25:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T01:01:02.138646+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sionna-therapeutics-stock-sliding-today-93CH-4900560",
    "baslik": "Why is Sionna Therapeutics stock sliding today?",
@@ -1801,46 +1853,6 @@
    "tarih_iso": "2026-09-14T17:35:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T18:01:11.433004+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/options/articles/paid-wait-isrg-stock-sale-143428264.html",
-   "baslik": "Get Paid To Wait For ISRG Stock To Go On Sale",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/options/articles/paid-wait-isrg-stock-sale-143428264.html",
-   "saat": "17:34",
-   "tarih_iso": "2026-09-14T17:34:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T18:01:11.433004+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-could-one-best-stocks-143024052.html",
-   "baslik": "Prediction: This Could Be One of the Best Stocks to Own Through 2030",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-could-one-best-stocks-143024052.html",
-   "saat": "17:30",
-   "tarih_iso": "2026-09-14T17:30:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T18:01:11.433004+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hub-group-warns-nasdaq-delisting-142643603.html",
-   "baslik": "Hub Group warns of Nasdaq delisting notice; flags H1 operating loss",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hub-group-warns-nasdaq-delisting-142643603.html",
-   "saat": "17:26",
-   "tarih_iso": "2026-09-14T17:26:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T18:01:11.433004+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
-   "baslik": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
-   "saat": "17:25",
-   "tarih_iso": "2026-09-14T17:25:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T22:31:01.354312+03:00"
   }
  ],
  "altin_haber": [
@@ -2085,5 +2097,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-15T00:30:49.909787+03:00"
+ "guncelleme": "2026-09-15T01:01:02.138646+03:00"
 }
