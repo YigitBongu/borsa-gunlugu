@@ -2,6 +2,71 @@
  "tarih": "2026-09-14",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202609141758",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:58",
+   "tarih_iso": "2026-09-14T17:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202609141757",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "17:57",
+   "tarih_iso": "2026-09-14T17:57:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "kap-my-GSDHO-202609141753",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:53",
+   "tarih_iso": "2026-09-14T17:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "kap-my-BOBET-202609141748",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:48",
+   "tarih_iso": "2026-09-14T17:48:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "kap-my-SMRTG-202609141741",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:41",
+   "tarih_iso": "2026-09-14T17:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
    "id": "kap-my-AKFGY-202609141659",
    "baslik": "BORSA İSTANBUL A.Ş. — Hak Kullanımı",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -133,6 +198,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/bakan-kurum-duyurdu-turk-telekom-cop31-in-kuresel-dijital-donusum-ve-teknoloji-partneri-oldu-3912421",
+   "baslik": "Bakan Kurum duyurdu: Türk Telekom, COP31'in \"Küresel Dijital Dönüşüm ve Teknoloji Partneri\" oldu",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/bakan-kurum-duyurdu-turk-telekom-cop31-in-kuresel-dijital-donusum-ve-teknoloji-partneri-oldu-3912421",
+   "saat": "18:01",
+   "tarih_iso": "2026-09-14T18:01:45+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/marco-asensio-oynayacak-mi-asensio-bu-aksam-var-mi-kadroda-mi-haberi-839985",
    "baslik": "Marco Asensio oynayacak mı? Asensio bu akşam var mı, kadroda mı?",
@@ -479,6 +556,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+   "baslik": "10-year Treasury yield tops 5% for the first time since 2007 as bond-market selloff deepens",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/10-year-treasury-yield-tops-5-for-the-first-time-since-2007-as-bond-market-selloff-deepens-14c81f75?mod=mw_rss_topstories",
+   "saat": "18:21",
+   "tarih_iso": "2026-09-14T18:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-surge-ai-safety-150807132.html",
+   "baslik": "Cybersecurity Stocks Surge as AI Safety Warnings Spark Security Bid: CrowdStrike and Zscaler Jump 12%, Palo Alto Rallies 11%",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-surge-ai-safety-150807132.html",
+   "saat": "18:08",
+   "tarih_iso": "2026-09-14T18:08:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/fantastic-news-broadcom-stock-investors-150502478.html",
+   "baslik": "Fantastic News for Broadcom Stock Investors",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fantastic-news-broadcom-stock-investors-150502478.html",
+   "saat": "18:05",
+   "tarih_iso": "2026-09-14T18:05:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/currencies/articles/vale-vale-deepens-china-ties-150347789.html",
+   "baslik": "Vale S.A. (VALE) Deepens China Ties with Potential Yuan Bond Debut",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/currencies/articles/vale-vale-deepens-china-ties-150347789.html",
+   "saat": "18:03",
+   "tarih_iso": "2026-09-14T18:03:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/chances-first-fed-rate-hike-150301317.html",
+   "baslik": "Chances of First Fed Rate Hike Since 2023 Now Over 90% — Markets Brace for the Warsh-Era Shock",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/chances-first-fed-rate-hike-150301317.html",
+   "saat": "18:03",
+   "tarih_iso": "2026-09-14T18:03:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/energy-transfer-texas-listing-could-150231871.html",
+   "baslik": "Energy Transfer’s Texas Listing Could Boost Visibility, but Risks Remain",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/energy-transfer-texas-listing-could-150231871.html",
+   "saat": "18:02",
+   "tarih_iso": "2026-09-14T18:02:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
+   "baslik": "Prediction market traders think gas prices will hit new highs for the year",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
+   "saat": "18:01",
+   "tarih_iso": "2026-09-14T18:01:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/enbridge-enb-expands-u-oil-145324207.html",
+   "baslik": "Enbridge (ENB) Expands its U.S. Oil Footprint with Tallgrass Acquisition",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/enbridge-enb-expands-u-oil-145324207.html",
+   "saat": "17:53",
+   "tarih_iso": "2026-09-14T17:53:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/totalenergies-tte-sees-long-term-145201682.html",
+   "baslik": "TotalEnergies (TTE) Sees Long-Term Potential in Angola’s Offshore Oil",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/totalenergies-tte-sees-long-term-145201682.html",
+   "saat": "17:52",
+   "tarih_iso": "2026-09-14T17:52:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dow-rethinks-20-billion-saudi-144104986.html",
    "baslik": "Dow Rethinks its $20 Billion Saudi Chemicals Bet",
@@ -1588,99 +1755,19 @@
    "tarih_iso": "2026-09-14T13:09:10+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T13:58:04.639852+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/news/analysis-bitcoins-summer-rally-set-100329922.html",
-   "baslik": "Analysis-Bitcoin's late summer rally set to face off against the Fed, Congress",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/analysis-bitcoins-summer-rally-set-100329922.html",
-   "saat": "13:05",
-   "tarih_iso": "2026-09-14T13:05:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:30:56.248209+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html",
-   "baslik": "Best CD rates today, Monday, September 14, 2026: Lock in up to 4.35% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-14-2026-lock-in-up-to-435-apy-100000686.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-14T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:30:56.248209+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-differential-100000523.html",
-   "baslik": "HELOC and home equity loan rates today, Monday, September 14, 2026: A 33-basis-point differential",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-14-2026-a-33-basis-point-differential-100000523.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-14T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:30:56.248209+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
-   "baslik": "Mortgage and refinance interest rates today, Monday, September 14, 2026: Purchase and refinance rates are mixed",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-14-2026-purchase-and-refinance-rates-are-mixed-100000816.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-14T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:30:56.248209+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/article/the-market-says-a-fed-rate-hike-is-a-done-deal-heres-why-it-might-hold-steady-100000374.html",
-   "baslik": "The market says a Fed rate hike is a done deal. Here's why it might hold steady.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/article/the-market-says-a-fed-rate-hike-is-a-done-deal-heres-why-it-might-hold-steady-100000374.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-14T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:30:56.248209+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-410-apy-100000167.html",
-   "baslik": "Best high-yield savings interest rates today, Monday, September 14, 2026: Earn up to 4.10% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-14-2026-earn-up-to-410-apy-100000167.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-14T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:30:56.248209+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tries-predict-nvidia-095728531.html",
-   "baslik": "Jim Cramer Tries To Predict NVIDIA Corporation (NASDAQ:NVDA) Share Price Movement Following Anthropic CEO’s Remarks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tries-predict-nvidia-095728531.html",
-   "saat": "12:57",
-   "tarih_iso": "2026-09-14T12:57:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:30:56.248209+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/robinhoods-blockchain-now-making-more-095600247.html",
-   "baslik": "Robinhood's New Blockchain Is Now Making More Money Than Ethereum. Does That Make Robinhood Stock a Buy?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/robinhoods-blockchain-now-making-more-095600247.html",
-   "saat": "12:56",
-   "tarih_iso": "2026-09-14T12:56:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:30:56.248209+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/mcdonalds-outlook-valuation-estimates-and-the-investor-day-test-93CH-4899035",
-   "baslik": "McDonald’s outlook: valuation, estimates, and the Investor Day test",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/mcdonalds-outlook-valuation-estimates-and-the-investor-day-test-93CH-4899035",
-   "saat": "12:55",
-   "tarih_iso": "2026-09-14T12:55:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T13:30:56.248209+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-tests-critical-thresholds-as-oil-uncertainty-and-rate-hike-risks-mount-200687635",
+   "baslik": "Gold Tests Critical Thresholds as Oil Uncertainty and Rate Hike Risks Mount",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-tests-critical-thresholds-as-oil-uncertainty-and-rate-hike-risks-mount-200687635",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-14T18:30:55.330306+03:00"
+  },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-uc-haftadir-kaybettiriyor-dususu-durduracak-seviye-neresi-galeri-839976",
    "baslik": "Altın üç haftadır kaybettiriyor: Düşüşü durduracak seviye neresi?",
@@ -1862,5 +1949,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-14T18:01:11.433004+03:00"
+ "guncelleme": "2026-09-14T18:30:55.330306+03:00"
 }
