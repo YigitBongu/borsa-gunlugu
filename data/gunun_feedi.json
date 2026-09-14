@@ -433,6 +433,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/kanada-10-yllk-tahvil-getirisi-enflasyon-ve-petrol-ile-yukseldi-4065588",
+   "baslik": "Kanada 10 yıllık tahvil getirisi enflasyon ve petrol ile yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/kanada-10-yllk-tahvil-getirisi-enflasyon-ve-petrol-ile-yukseldi-4065588",
+   "saat": "00:54",
+   "tarih_iso": "2026-09-15T00:54:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T01:30:51.872380+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-839995",
    "baslik": "Borsa İstanbul günü düşüşle tamamladı",
    "kaynak": "Dünya",
@@ -654,6 +664,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+   "saat": "01:01",
+   "tarih_iso": "2026-09-15T01:01:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T01:30:51.872380+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-10year-yield-rises-as-inflation-oil-prices-keep-bond-markets-on-edge-4900631",
+   "baslik": "Canada 10-year yield rises as inflation, oil prices keep bond markets on edge",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-10year-yield-rises-as-inflation-oil-prices-keep-bond-markets-on-edge-4900631",
+   "saat": "00:54",
+   "tarih_iso": "2026-09-15T00:54:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T01:30:51.872380+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories",
    "baslik": "The oil market is sending an increasingly loud warning about gas prices at the pump",
@@ -1833,26 +1863,6 @@
    "tarih_iso": "2026-09-14T17:39:57+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T18:01:11.433004+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/media-advertising/articles/walt-disney-vs-roblox-media-143914478.html",
-   "baslik": "Walt Disney vs. Roblox: Which Media Stock Is a Better Buy in 2026?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/media-advertising/articles/walt-disney-vs-roblox-media-143914478.html",
-   "saat": "17:39",
-   "tarih_iso": "2026-09-14T17:39:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T18:01:11.433004+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/xrp-keeps-sliding-despite-ripples-143500514.html",
-   "baslik": "XRP Keeps Sliding Despite Ripple's Global Growth: Time to Buy, Sell, or Hold?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-keeps-sliding-despite-ripples-143500514.html",
-   "saat": "17:35",
-   "tarih_iso": "2026-09-14T17:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T18:01:11.433004+03:00"
   }
  ],
  "altin_haber": [
@@ -2097,5 +2107,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-15T01:01:02.138646+03:00"
+ "guncelleme": "2026-09-15T01:30:51.872380+03:00"
 }
