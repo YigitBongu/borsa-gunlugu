@@ -2,6 +2,19 @@
  "tarih": "2026-09-14",
  "kap": [
   {
+   "id": "kap-my-EKGYO-202609141045",
+   "baslik": "HALK YATIRIM MENKUL DEĞERLER A.Ş. — Likidite Sağlayıcılık Kapsamındaki İşlemler",
+   "sirket": "HALK YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "EKGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:45",
+   "tarih_iso": "2026-09-14T10:45:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T11:30:57.003068+03:00"
+  },
+  {
    "id": "kap-my-TTKOM-202609140940",
    "baslik": "TÜRK TELEKOMÜNİKASYON A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
    "sirket": "TÜRK TELEKOMÜNİKASYON A.Ş.",
@@ -231,6 +244,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
+   "baslik": "AI stocks slide after major CEOs unite to urge slowdown",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
+   "saat": "11:24",
+   "tarih_iso": "2026-09-14T11:24:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T11:30:57.003068+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/our-ai-knew-it-this-aipicked-medtech-stock-just-surged-20-on-insider-buying-4898921",
+   "baslik": "Our AI knew it: This AI-picked medtech stock just surged 20% on insider buying",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/our-ai-knew-it-this-aipicked-medtech-stock-just-surged-20-on-insider-buying-4898921",
+   "saat": "11:03",
+   "tarih_iso": "2026-09-14T11:03:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T11:30:57.003068+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wavestone-stock-rises-17-following-sand-cherry-acquisition-93CH-4898919",
+   "baslik": "Wavestone stock rises 1.7% following Sand Cherry acquisition",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wavestone-stock-rises-17-following-sand-cherry-acquisition-93CH-4898919",
+   "saat": "11:02",
+   "tarih_iso": "2026-09-14T11:02:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T11:30:57.003068+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chevron-eyes-argentina-mediterranean-for-global-lng-growth-deal-with-india-4898918",
+   "baslik": "Chevron eyes Argentina, Mediterranean for global LNG growth, deal with India",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chevron-eyes-argentina-mediterranean-for-global-lng-growth-deal-with-india-4898918",
+   "saat": "11:00",
+   "tarih_iso": "2026-09-14T11:00:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T11:30:57.003068+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-infineon-technologies-stock-tumbling-today-93CH-4898911",
+   "baslik": "Why is Infineon Technologies stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-infineon-technologies-stock-tumbling-today-93CH-4898911",
+   "saat": "10:55",
+   "tarih_iso": "2026-09-14T10:55:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T11:30:57.003068+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
+   "baslik": "Oil prices rise after Saudi Arabia shut down critical pipeline that bypasses Strait of Hormuz",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
+   "saat": "10:52",
+   "tarih_iso": "2026-09-14T10:52:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T11:30:57.003068+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/goldman-raises-gilt-yield-forecast-as-energy-prices-curb-ratecut-hopes-4898887",
    "baslik": "Goldman raises Gilt yield forecast as energy prices curb rate-cut hopes",
@@ -584,6 +657,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-14-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3466297",
+   "baslik": "ALTIN FİYATLARI 14 EYLÜL 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlari-14-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3466297",
+   "saat": "14:02",
+   "tarih_iso": "2026-09-14T14:02:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T11:30:57.003068+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-selloff-shows-why-real-yields-still-dominate-inflation-risk-200687562",
    "baslik": "Gold Selloff Shows Why Real Yields Still Dominate Inflation Risk",
    "kaynak": "Investing Emtia",
@@ -634,5 +717,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-14T11:01:07.185478+03:00"
+ "guncelleme": "2026-09-14T11:30:57.003068+03:00"
 }
