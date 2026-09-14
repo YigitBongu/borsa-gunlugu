@@ -2,6 +2,32 @@
  "tarih": "2026-09-14",
  "kap": [
   {
+   "id": "kap-my-TKFEN-202609140909",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:09",
+   "tarih_iso": "2026-09-14T09:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T10:01:07.768131+03:00"
+  },
+  {
+   "id": "kap-my-KORDS-202609140908",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:08",
+   "tarih_iso": "2026-09-14T09:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T10:01:07.768131+03:00"
+  },
+  {
    "id": "kap-my-TTKOM-202609140815",
    "baslik": "TÜRK TELEKOMÜNİKASYON A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
    "sirket": "TÜRK TELEKOMÜNİKASYON A.Ş.",
@@ -160,6 +186,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-010-4898847",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.10%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-010-4898847",
+   "saat": "09:35",
+   "tarih_iso": "2026-09-14T09:35:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T10:01:07.768131+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-066-4898830",
    "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.66%",
@@ -453,5 +489,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-14T09:30:54.080771+03:00"
+ "guncelleme": "2026-09-14T10:01:07.768131+03:00"
 }
