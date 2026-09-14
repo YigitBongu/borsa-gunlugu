@@ -1,7 +1,33 @@
 {
  "tarih": "2026-09-14",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-TTKOM-202609140815",
+   "baslik": "TÜRK TELEKOMÜNİKASYON A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:15",
+   "tarih_iso": "2026-09-14T08:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T09:30:54.080771+03:00"
+  }
+ ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fb-mac-saati-gaziantep-fk-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-839906",
+   "baslik": "FB maç saati... Gaziantep FK - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fb-mac-saati-gaziantep-fk-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-839906",
+   "saat": "09:11",
+   "tarih_iso": "2026-09-14T09:11:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-14T09:30:54.080771+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/egitim-saglik-harcamasina-vergi-iadesi-3912164",
    "baslik": "Eğitim sağlık harcamasına vergi iadesi",
@@ -52,6 +78,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
+   "baslik": "EYLÜL AYI KİRA ARTIŞ ORANI HESAPLAMA : 2026 Eylül Ayı Kira Artış Oranı Belli Oldu! Eylül Kira Zammı Ne Kadar? Gözler TÜİK'te! İşte TÜİK Açıklamasına Göre TEFE TÜFE ve Kira Artış Oranı Hesaplama",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
+   "saat": "12:09",
+   "tarih_iso": "2026-09-14T12:09:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T09:30:54.080771+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-toplantisi-bugun-mu-fedin-faiz-karari-ne-zaman-faiz-artacak-mi-haberi-839910",
+   "baslik": "Fed toplantısı bugün mü? Fed'in faiz kararı ne zaman? Faiz artacak mı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-toplantisi-bugun-mu-fedin-faiz-karari-ne-zaman-faiz-artacak-mi-haberi-839910",
+   "saat": "09:25",
+   "tarih_iso": "2026-09-14T09:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T09:30:54.080771+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/wall-street-devleri-fed-beklentisini-degistirdi-faiz-artisi-masada-haberi-839903",
    "baslik": "Wall Street devleri Fed beklentisini değiştirdi: Faiz artışı masada",
@@ -114,6 +160,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-066-4898830",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.66%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-066-4898830",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-14T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T09:30:54.080771+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/softbank-group-how-vulnerable-is-the-stock-to-a-frontier-ai-slowdown-93CH-4898825",
+   "baslik": "SoftBank Group: How vulnerable is the stock to a frontier AI slowdown?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/softbank-group-how-vulnerable-is-the-stock-to-a-frontier-ai-slowdown-93CH-4898825",
+   "saat": "08:36",
+   "tarih_iso": "2026-09-14T08:36:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T09:30:54.080771+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-softbank-stock-tumbling-today-93CH-4898824",
    "baslik": "Why is SoftBank stock tumbling today?",
@@ -387,5 +453,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-14T09:01:04.329383+03:00"
+ "guncelleme": "2026-09-14T09:30:54.080771+03:00"
 }
