@@ -77,6 +77,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-hisseleri-yapay-zeka-endiseleriyle-dustu-petrol-yukseldi-4064109",
+   "baslik": "Yapay zeka yavaşlama endişeleri derinleşiyor, petrol fiyatları faiz riskini artırıyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-hisseleri-yapay-zeka-endiseleriyle-dustu-petrol-yukseldi-4064109",
+   "saat": "07:17",
+   "tarih_iso": "2026-09-14T07:17:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T08:30:52.414900+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-14-eylul-pazartesi-doviz-kurlari-haberi-839894",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (14 Eylül Pazartesi Döviz Kurları)",
    "kaynak": "Dünya",
@@ -208,6 +218,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-henan-hanwei-electronics-stock-climbing-today-93CH-4898819",
+   "baslik": "Why is Henan Hanwei Electronics stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-henan-hanwei-electronics-stock-climbing-today-93CH-4898819",
+   "saat": "07:54",
+   "tarih_iso": "2026-09-14T07:54:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T08:30:52.414900+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/4845a503-3ddd-4bb7-a469-c51f275bc873?syn-25a6b1a6=1",
    "baslik": "Oil hits $108 after Gulf states postpone talks with Iran over Hormuz",
@@ -1397,16 +1417,6 @@
    "tarih_iso": "2026-09-13T14:52:33+03:00",
    "kodlar": [],
    "eklenme": "2026-09-13T15:01:06.277771+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-rates-surged-higher-in-the-last-week-100000138.html",
-   "baslik": "Mortgage and refinance interest rates today, Sunday, September 13, 2026: Mortgage rates surged higher in the last week",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-sunday-september-13-2026-mortgage-rates-surged-higher-in-the-last-week-100000138.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-13T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T17:30:54.369109+03:00"
   }
  ],
  "altin_haber": [
@@ -1491,5 +1501,5 @@
    "eklenme": "2026-09-13T09:01:04.292219+03:00"
   }
  ],
- "guncelleme": "2026-09-14T08:01:04.924726+03:00"
+ "guncelleme": "2026-09-14T08:30:52.414900+03:00"
 }
