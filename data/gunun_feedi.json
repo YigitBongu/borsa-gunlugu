@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/egitim-saglik-harcamasina-vergi-iadesi-3912164",
+   "baslik": "Eğitim sağlık harcamasına vergi iadesi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/egitim-saglik-harcamasina-vergi-iadesi-3912164",
+   "saat": "07:07",
+   "tarih_iso": "2026-09-14T07:07:57+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/vakifbank-genel-muduru-arslan-nitelikli-yapi-stokuna-katki-saglamaya-devam-ediyoruz-haberi-839866",
    "baslik": "VakıfBank Genel Müdürü Arslan: Nitelikli yapı stokuna katkı sağlamaya devam ediyoruz",
    "kaynak": "Dünya",
@@ -65,6 +77,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-14-eylul-pazartesi-doviz-kurlari-haberi-839894",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (14 Eylül Pazartesi Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-14-eylul-pazartesi-doviz-kurlari-haberi-839894",
+   "saat": "07:14",
+   "tarih_iso": "2026-09-14T07:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/petrolde-tansiyon-yeniden-yukseldi-brent-108-dolar-sinirinda-haberi-839891",
    "baslik": "Petrolde tansiyon yeniden yükseldi: Brent 108 dolar sınırında",
    "kaynak": "Dünya",
@@ -83,6 +105,16 @@
    "tarih_iso": "2026-09-14T05:52:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T06:30:56.764390+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/asya-teknoloji-hisseleri-dustu-yapay-zeka-endiseleri-artt-4064098",
+   "baslik": "Asya teknoloji ve çip hisseleri, Fed ve BOJ kararları öncesinde sert düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/asya-teknoloji-hisseleri-dustu-yapay-zeka-endiseleri-artt-4064098",
+   "saat": "05:35",
+   "tarih_iso": "2026-09-14T05:35:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-faiz-indirimi-olacak-mi-eylul-2026-fed-toplantisi-tarihi-piyasalarin-gozu-abd-merkez-bankasinda-3466132",
@@ -176,6 +208,116 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-ai-slowdown-fears-deepen-oil-surge-lifts-rate-risks-4898813",
+   "baslik": "Asian stocks fall as AI slowdown fears deepen, oil surge lifts rate risks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-fall-as-ai-slowdown-fears-deepen-oil-surge-lifts-rate-risks-4898813",
+   "saat": "07:17",
+   "tarih_iso": "2026-09-14T07:17:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsung-heavy-industries-stock-rising-today-93CH-4898812",
+   "baslik": "Why is Samsung Heavy Industries stock rising today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-samsung-heavy-industries-stock-rising-today-93CH-4898812",
+   "saat": "07:17",
+   "tarih_iso": "2026-09-14T07:17:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fleetpartners-stock-surging-today-93CH-4898811",
+   "baslik": "Why is Fleetpartners stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-fleetpartners-stock-surging-today-93CH-4898811",
+   "saat": "07:16",
+   "tarih_iso": "2026-09-14T07:16:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/4f6a427f-3975-470f-83bf-b21423df59c8?syn-25a6b1a6=1",
+   "baslik": "Japan’s central bank set for pivotal moment on rates",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/4f6a427f-3975-470f-83bf-b21423df59c8?syn-25a6b1a6=1",
+   "saat": "07:15",
+   "tarih_iso": "2026-09-14T07:15:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ailinked-asian-stocks-slump-after-top-lab-ceos-call-for-slowing-down-technologys-development-4898809",
+   "baslik": "AI-linked Asian stocks slump after top lab CEOs call for slowing down technology’s development",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ailinked-asian-stocks-slump-after-top-lab-ceos-call-for-slowing-down-technologys-development-4898809",
+   "saat": "07:12",
+   "tarih_iso": "2026-09-14T07:12:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+   "baslik": "Anthropic walks tightrope to Nasdaq, pushing for a slowdown while pursuing $2 trillion valuation",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/14/anthropic-walks-tightrope-to-nasdaq-pushing-slowdown-and-pursuing-ipo.html",
+   "saat": "07:01",
+   "tarih_iso": "2026-09-14T07:01:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+   "baslik": "Global AI stocks slip on concerns over risks",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-14T07:00:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/904c6d93-a6b3-47f4-8b12-3d418cc74fa2?syn-25a6b1a6=1",
+   "baslik": "Warsh and Trump on collision course as investors expect Fed to raise rates",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/904c6d93-a6b3-47f4-8b12-3d418cc74fa2?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-14T07:00:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/a2c33eed-7aef-4e68-9252-3a1dddf61b5a?syn-25a6b1a6=1",
+   "baslik": "Automation is coming for the gig economy",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/a2c33eed-7aef-4e68-9252-3a1dddf61b5a?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-14T07:00:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/898836da-322a-4bb8-9e62-f3c3d36b23b2?syn-25a6b1a6=1",
+   "baslik": "European capitals barter over Christine Lagarde’s successor at ECB",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/898836da-322a-4bb8-9e62-f3c3d36b23b2?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-14T07:00:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ai-slowdown-risks-the-stocks-most-exposed-if-frontier-labs-pull-back-93CH-4898805",
+   "baslik": "AI slowdown risks: the stocks most exposed if frontier labs pull back",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ai-slowdown-risks-the-stocks-most-exposed-if-frontier-labs-pull-back-93CH-4898805",
+   "saat": "06:56",
+   "tarih_iso": "2026-09-14T06:56:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T07:30:54.634733+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/14/baker-hughes-ceo-no-slowdown-in-energy-projects-despite-higher-rates-.html",
    "baslik": "Baker Hughes sees no slowdown in energy projects despite higher rates as AI buildouts stoke LNG demand",
@@ -1265,66 +1407,6 @@
    "tarih_iso": "2026-09-13T11:41:58+03:00",
    "kodlar": [],
    "eklenme": "2026-09-13T13:30:54.396295+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-jpmorgan-upgrades-meta-names-kla-top-chip-equipment-stock-4898673",
-   "baslik": "5 big analyst AI moves: JPMorgan upgrades Meta, names KLA top chip equipment stock",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-jpmorgan-upgrades-meta-names-kla-top-chip-equipment-stock-4898673",
-   "saat": "11:31",
-   "tarih_iso": "2026-09-13T11:31:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T13:30:54.396295+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cwyzegz38wlo?at_medium=RSS&at_campaign=rss",
-   "baslik": "Oil prices create 'huge worry' as winter looms",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cwyzegz38wlo?at_medium=RSS&at_campaign=rss",
-   "saat": "09:01",
-   "tarih_iso": "2026-09-13T09:01:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T09:30:56.369456+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/spacex-weighting-in-nasdaq-100-set-to-more-than-double--bloomberg-4898698",
-   "baslik": "SpaceX weighting in Nasdaq 100 set to more than double - Bloomberg",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/spacex-weighting-in-nasdaq-100-set-to-more-than-double--bloomberg-4898698",
-   "saat": "03:07",
-   "tarih_iso": "2026-09-13T03:07:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/larry-ellison-cancels-plan-to-sell-oracle-stock-4898680",
-   "baslik": "Larry Ellison cancels plan to sell Oracle stock",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/larry-ellison-cancels-plan-to-sell-oracle-stock-4898680",
-   "saat": "21:42",
-   "tarih_iso": "2026-09-12T21:42:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
-   "baslik": "Larry Ellison nixes plan to offload up to $7.5 billion worth of Oracle stock",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/12/larry-ellison-nixes-plan-to-offload-up-to-7point5-billion-worth-of-oracle-stock-.html",
-   "saat": "20:14",
-   "tarih_iso": "2026-09-12T20:14:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
-   "baslik": "Stocks stumble on inflation fears, but 2 of our names give us reasons to stay bullish",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
-   "saat": "17:37",
-   "tarih_iso": "2026-09-12T17:37:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-13T09:01:04.292219+03:00"
   }
  ],
  "altin_haber": [
@@ -1409,5 +1491,5 @@
    "eklenme": "2026-09-13T09:01:04.292219+03:00"
   }
  ],
- "guncelleme": "2026-09-14T07:01:04.985504+03:00"
+ "guncelleme": "2026-09-14T07:30:54.634733+03:00"
 }
