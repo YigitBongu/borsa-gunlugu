@@ -2,6 +2,45 @@
  "tarih": "2026-09-14",
  "kap": [
   {
+   "id": "kap-my-SISE-202609141550",
+   "baslik": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
+   "kodlar": [
+    "SISE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:50",
+   "tarih_iso": "2026-09-14T15:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "kap-my-BOBET-202609141549",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:49",
+   "tarih_iso": "2026-09-14T15:49:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "kap-my-BAGFS-202609141547",
+   "baslik": "ASTRA PORTFÖY YÖNETİMİ A.Ş. — Pay Alım Satım Bildirimi",
+   "sirket": "ASTRA PORTFÖY YÖNETİMİ A.Ş.",
+   "kodlar": [
+    "BAGFS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:47",
+   "tarih_iso": "2026-09-14T15:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
    "id": "kap-my-YKBNK-202609141204",
    "baslik": "YAPI VE KREDİ BANKASI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
@@ -81,6 +120,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekom-cop31in-kuresel-dijital-donusum-ve-teknoloji-destekcisi-oldu-haberi-839975",
+   "baslik": "Türk Telekom, COP31’in \"Küresel Dijital Dönüşüm ve Teknoloji\" destekçisi oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekom-cop31in-kuresel-dijital-donusum-ve-teknoloji-destekcisi-oldu-haberi-839975",
+   "saat": "15:55",
+   "tarih_iso": "2026-09-14T15:55:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/migros-grubu-pazarlama-icra-kurulu-uyesi-ekmel-baydur-musterilerimizin-bize-duydugu-guveni-yaptigimiz-isin-merkezine-koyuyoruz-3912381",
    "baslik": "“Müşterilerimizin bize duyduğu güveni yaptığımız işin merkezine koyuyoruz”",
@@ -352,6 +403,126 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/14/here-are-our-top-10-things-to-watch-in-the-stock-market-monday.html",
+   "baslik": "Here are our top 10 things to watch in the stock market Monday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/14/here-are-our-top-10-things-to-watch-in-the-stock-market-monday.html",
+   "saat": "16:14",
+   "tarih_iso": "2026-09-14T16:14:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/wall-street-strategist-tom-lee-131100173.html",
+   "baslik": "Wall Street Strategist Tom Lee Says Ethereum Is Going to $6,000 By December. Here's Why He's Wrong.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/wall-street-strategist-tom-lee-131100173.html",
+   "saat": "16:11",
+   "tarih_iso": "2026-09-14T16:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/whats-wrong-nike-stock-130500379.html",
+   "baslik": "What's Wrong With Nike Stock?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/whats-wrong-nike-stock-130500379.html",
+   "saat": "16:05",
+   "tarih_iso": "2026-09-14T16:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/finance/commodities-futures/gold-edges-lower-focus-on-u-s-core-inflation-9f264ece?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Gold Futures Pressured By Dollar Gains, Rate Expectations",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-focus-on-u-s-core-inflation-9f264ece?siteid=yhoof2&yptr=yahoo",
+   "saat": "16:04",
+   "tarih_iso": "2026-09-14T16:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/mckesson-raises-outlook-eyes-oncology-130218715.html",
+   "baslik": "McKesson Raises Outlook, Eyes Oncology Growth With Precision Medicine Deal",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/mckesson-raises-outlook-eyes-oncology-130218715.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-09-14T16:02:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hain-celestial-group-q4-earnings-130218257.html",
+   "baslik": "The Hain Celestial Group Q4 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hain-celestial-group-q4-earnings-130218257.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-09-14T16:02:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-loans-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
+   "baslik": "Chase Home Loans' mortgage rate sale returns for a 3-week run",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/chase-home-loans-mortgage-rate-sale-returns-for-a-3-week-run-130100448.html",
+   "saat": "16:01",
+   "tarih_iso": "2026-09-14T16:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/business/auto-transport-roundup-market-talk-e8375cf3?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Auto & Transport Roundup: Market Talk",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-e8375cf3?siteid=yhoof2&yptr=yahoo",
+   "saat": "16:01",
+   "tarih_iso": "2026-09-14T16:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/articles/oracle-stock-larry-ellison-9ee8e9ff?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Oracle Stock Drops on Surprising Larry Ellison Announcement",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/articles/oracle-stock-larry-ellison-9ee8e9ff?siteid=yhoof2&yptr=yahoo",
+   "saat": "16:01",
+   "tarih_iso": "2026-09-14T16:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/apple-vs-microsoft-magnificent-seven-130012513.html",
+   "baslik": "Apple vs. Microsoft: This Is the Magnificent Seven Stock I’d Buy Today",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-microsoft-magnificent-seven-130012513.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-09-14T16:00:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/14/ai-stocks-tumble-on-safety-warnings-how-to-proceed-including-2-names-on-our-shopping-list.html",
+   "baslik": "AI stocks tumble on safety warnings. How to proceed — including 2 names on our shopping list",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/14/ai-stocks-tumble-on-safety-warnings-how-to-proceed-including-2-names-on-our-shopping-list.html",
+   "saat": "15:59",
+   "tarih_iso": "2026-09-14T15:59:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/business/health-care-roundup-market-talk-f641a9ab?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Health Care Roundup: Market Talk",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/business/health-care-roundup-market-talk-f641a9ab?siteid=yhoof2&yptr=yahoo",
+   "saat": "15:58",
+   "tarih_iso": "2026-09-14T15:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/real-estate/articles/5-top-monthly-pay-reits-124506847.html",
    "baslik": "5 Top Monthly-Pay REITs for Lifetime, Inflation-Resistant Income",
    "kaynak": "Yahoo Finance",
@@ -380,6 +551,16 @@
    "tarih_iso": "2026-09-14T15:39:26+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T16:01:09.956452+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
+   "baslik": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
+   "saat": "15:36",
+   "tarih_iso": "2026-09-14T15:36:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T16:31:33.900763+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/article/10-year-treasury-yield-rises-as-oil-prices-jump-123457398.html",
@@ -1420,136 +1601,6 @@
    "tarih_iso": "2026-09-14T11:52:41+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T12:01:12.080794+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
-   "baslik": "Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
-   "saat": "11:51",
-   "tarih_iso": "2026-09-14T11:51:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:01:12.080794+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-baldwin-insurance-stock-surging-today-93CH-4898955",
-   "baslik": "Why is Baldwin Insurance stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-baldwin-insurance-stock-surging-today-93CH-4898955",
-   "saat": "11:47",
-   "tarih_iso": "2026-09-14T11:47:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:01:12.080794+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/maersk-stock-rises-as-suez-canal-services-expand-with-hapag-93CH-4898954",
-   "baslik": "Maersk stock rises as Suez Canal services expand with Hapag",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/maersk-stock-rises-as-suez-canal-services-expand-with-hapag-93CH-4898954",
-   "saat": "11:47",
-   "tarih_iso": "2026-09-14T11:47:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:01:12.080794+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-057-4898943",
-   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.57%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-057-4898943",
-   "saat": "11:35",
-   "tarih_iso": "2026-09-14T11:35:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:01:12.080794+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-straumann-stock-rallying-today-93CH-4898937",
-   "baslik": "Why is Straumann stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-straumann-stock-rallying-today-93CH-4898937",
-   "saat": "11:30",
-   "tarih_iso": "2026-09-14T11:30:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:01:12.080794+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
-   "baslik": "AI stocks slide after major CEOs unite to urge slowdown",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
-   "saat": "11:24",
-   "tarih_iso": "2026-09-14T11:24:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T11:30:57.003068+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
-   "baslik": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Anthropic's AI warning spooks tech traders, oil prices jump",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
-   "saat": "11:05",
-   "tarih_iso": "2026-09-14T11:05:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/our-ai-knew-it-this-aipicked-medtech-stock-just-surged-20-on-insider-buying-4898921",
-   "baslik": "Our AI knew it: This AI-picked medtech stock just surged 20% on insider buying",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/our-ai-knew-it-this-aipicked-medtech-stock-just-surged-20-on-insider-buying-4898921",
-   "saat": "11:03",
-   "tarih_iso": "2026-09-14T11:03:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T11:30:57.003068+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/wavestone-stock-rises-17-following-sand-cherry-acquisition-93CH-4898919",
-   "baslik": "Wavestone stock rises 1.7% following Sand Cherry acquisition",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/wavestone-stock-rises-17-following-sand-cherry-acquisition-93CH-4898919",
-   "saat": "11:02",
-   "tarih_iso": "2026-09-14T11:02:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T11:30:57.003068+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/chevron-eyes-argentina-mediterranean-for-global-lng-growth-deal-with-india-4898918",
-   "baslik": "Chevron eyes Argentina, Mediterranean for global LNG growth, deal with India",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/chevron-eyes-argentina-mediterranean-for-global-lng-growth-deal-with-india-4898918",
-   "saat": "11:00",
-   "tarih_iso": "2026-09-14T11:00:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T11:30:57.003068+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/soaring-oil-prices-put-fed-080000535.html",
-   "baslik": "Soaring Oil Prices Put Fed on Track for September Rate Hike",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/soaring-oil-prices-put-fed-080000535.html",
-   "saat": "11:00",
-   "tarih_iso": "2026-09-14T11:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-infineon-technologies-stock-tumbling-today-93CH-4898911",
-   "baslik": "Why is Infineon Technologies stock tumbling today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-infineon-technologies-stock-tumbling-today-93CH-4898911",
-   "saat": "10:55",
-   "tarih_iso": "2026-09-14T10:55:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T11:30:57.003068+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
-   "baslik": "Oil prices rise after Saudi Arabia shut down critical pipeline that bypasses Strait of Hormuz",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html",
-   "saat": "10:52",
-   "tarih_iso": "2026-09-14T10:52:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T11:30:57.003068+03:00"
   }
  ],
  "altin_haber": [
@@ -1724,5 +1775,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-14T16:01:09.956452+03:00"
+ "guncelleme": "2026-09-14T16:31:33.900763+03:00"
 }
