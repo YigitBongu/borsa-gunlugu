@@ -2,6 +2,19 @@
  "tarih": "2026-09-14",
  "kap": [
   {
+   "id": "kap-my-TTKOM-202609140940",
+   "baslik": "TÜRK TELEKOMÜNİKASYON A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:40",
+   "tarih_iso": "2026-09-14T09:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-14T10:30:52.740620+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609140909",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -115,6 +128,26 @@
    "eklenme": "2026-09-14T09:30:54.080771+03:00"
   },
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-yapay-zeka-duraklamas-ve-fed-ile-geriledi-4064169",
+   "baslik": "Avrupa hisseleri yapay zeka duraklaması ve Fed ile geriledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/avrupa-hisseleri-yapay-zeka-duraklamas-ve-fed-ile-geriledi-4064169",
+   "saat": "10:13",
+   "tarih_iso": "2026-09-14T10:13:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T10:30:52.740620+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/bitcoinde-toparlanmaya-cifte-engel-petrol-yukseliyor-faiz-endisesi-buyuyor-galeri-839915",
+   "baslik": "Bitcoin'de toparlanmaya çifte engel: Petrol yükseliyor, faiz endişesi büyüyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/bitcoinde-toparlanmaya-cifte-engel-petrol-yukseliyor-faiz-endisesi-buyuyor-galeri-839915",
+   "saat": "09:46",
+   "tarih_iso": "2026-09-14T09:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T10:30:52.740620+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/fed-toplantisi-bugun-mu-fedin-faiz-karari-ne-zaman-faiz-artacak-mi-haberi-839910",
    "baslik": "Fed toplantısı bugün mü? Fed'in faiz kararı ne zaman? Faiz artacak mı?",
    "kaynak": "Dünya",
@@ -186,6 +219,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
+   "baslik": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
+   "saat": "10:22",
+   "tarih_iso": "2026-09-14T10:22:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T10:30:52.740620+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/14/yen-strength-carry-trade-cad-yuan.html",
+   "baslik": "Yen appreciation has carry-trade seekers looking at these two currencies",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/14/yen-strength-carry-trade-cad-yuan.html",
+   "saat": "10:10",
+   "tarih_iso": "2026-09-14T10:10:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T10:30:52.740620+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
+   "baslik": "Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-14T10:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T10:30:52.740620+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-010-4898847",
    "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.10%",
@@ -489,5 +552,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-14T10:01:07.768131+03:00"
+ "guncelleme": "2026-09-14T10:30:52.740620+03:00"
 }
