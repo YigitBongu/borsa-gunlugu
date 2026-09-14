@@ -2,6 +2,58 @@
  "tarih": "2026-09-14",
  "kap": [
   {
+   "id": "kap-my-GSDHO-202609141906",
+   "baslik": "MARMARA CAPİTAL PORTFÖY YÖNETİMİ A.Ş. — Pay Alım Satım Bildirimi",
+   "sirket": "MARMARA CAPİTAL PORTFÖY YÖNETİMİ A.Ş.",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:06",
+   "tarih_iso": "2026-09-14T19:06:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "kap-my-GUBRF-202609141906",
+   "baslik": "GÜBRE FABRİKALARI T.A.Ş. — Bilgilendirme Politikası",
+   "sirket": "GÜBRE FABRİKALARI T.A.Ş.",
+   "kodlar": [
+    "GUBRF"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:06",
+   "tarih_iso": "2026-09-14T19:06:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "kap-my-GLYHO-202609141903",
+   "baslik": "GLOBAL YATIRIM HOLDİNG A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "GLOBAL YATIRIM HOLDİNG A.Ş.",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:03",
+   "tarih_iso": "2026-09-14T19:03:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "kap-my-SELEC-202609141828",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:28",
+   "tarih_iso": "2026-09-14T18:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202609141758",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -199,6 +251,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/gaziantep-fenerbahce-macinda-gol-sesi-cikmadi-haberi-840018",
+   "baslik": "Gaziantep-Fenerbahçe maçında gol sesi çıkmadı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/gaziantep-fenerbahce-macinda-gol-sesi-cikmadi-haberi-840018",
+   "saat": "21:48",
+   "tarih_iso": "2026-09-14T21:48:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcenin-gaziantep-fk-karsisindaki-ilk-11i-belli-oldu-haberi-839999",
+   "baslik": "Fenerbahçe'nin Gaziantep FK karşısındaki ilk 11'i belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcenin-gaziantep-fk-karsisindaki-ilk-11i-belli-oldu-haberi-839999",
+   "saat": "19:00",
+   "tarih_iso": "2026-09-14T19:00:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/bakan-kurum-duyurdu-turk-telekom-cop31-in-kuresel-dijital-donusum-ve-teknoloji-partneri-oldu-3912421",
    "baslik": "Bakan Kurum duyurdu: Türk Telekom, COP31'in \"Küresel Dijital Dönüşüm ve Teknoloji Partneri\" oldu",
    "kaynak": "Habertürk Ekonomi",
@@ -344,6 +420,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-839995",
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-839995",
+   "saat": "18:34",
+   "tarih_iso": "2026-09-14T18:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/temporal-550-milyon-dolar-toplad-degerlemesi-ikiye-katland-93CH-4065028",
    "baslik": "Temporal 550 milyon dolar topladı, değerlemesi ikiye katlandı",
@@ -556,6 +642,116 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+   "baslik": "Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories",
+   "saat": "23:56",
+   "tarih_iso": "2026-09-14T23:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-childrens-place-stock-down-over-8-today-93CH-4900486",
+   "baslik": "Why is Children’s Place stock down over 8% today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-childrens-place-stock-down-over-8-today-93CH-4900486",
+   "saat": "23:46",
+   "tarih_iso": "2026-09-14T23:46:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-enova-international-stock-tumbling-today-93CH-4900484",
+   "baslik": "Why is Enova International stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-enova-international-stock-tumbling-today-93CH-4900484",
+   "saat": "23:45",
+   "tarih_iso": "2026-09-14T23:45:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
+   "baslik": "The 10 most overvalued housing markets in America",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-10-most-overvalued-housing-markets-in-america-6d28efdf?mod=mw_rss_topstories",
+   "saat": "23:35",
+   "tarih_iso": "2026-09-14T23:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-radiant-logistics-stock-surging-today-93CH-4900444",
+   "baslik": "Why is Radiant Logistics stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-radiant-logistics-stock-surging-today-93CH-4900444",
+   "saat": "23:32",
+   "tarih_iso": "2026-09-14T23:32:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-029-4900431",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.29%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-029-4900431",
+   "saat": "23:31",
+   "tarih_iso": "2026-09-14T23:31:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-001-4900428",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.01%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-001-4900428",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-14T23:30:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
+   "baslik": "Stocks fall as oil and bond yields rise",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/shares-slip-in-asia-as-oil-climbs-rate-hikes-loom-4898763",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-14T23:30:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-091-4900427",
+   "baslik": "Brazil stocks lower at close of trade; Bovespa down 0.91%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-091-4900427",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-14T23:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dave--busters-stock-down-13-today-93CH-4900423",
+   "baslik": "Why is Dave & Buster’s stock down 13% today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-dave--busters-stock-down-13-today-93CH-4900423",
+   "saat": "23:28",
+   "tarih_iso": "2026-09-14T23:28:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/1a1d76fc-e02b-40ee-8afc-b45ab9f17c0f?syn-25a6b1a6=1",
+   "baslik": "Carney urges EU to cement trade deal as Ottawa seeks pivot from US",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/1a1d76fc-e02b-40ee-8afc-b45ab9f17c0f?syn-25a6b1a6=1",
+   "saat": "23:19",
+   "tarih_iso": "2026-09-14T23:19:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T00:01:04.216994+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/contineum-therapeutics-stock-falls-on-phase-2-trial-miss-93CH-4900355",
    "baslik": "Contineum Therapeutics stock falls on phase 2 trial miss",
@@ -1645,116 +1841,6 @@
    "tarih_iso": "2026-09-14T17:03:15+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T17:30:56.697490+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/options/articles/kalshi-offer-u-stock-commodities-140300562.html",
-   "baslik": "Kalshi To Offer U.S. Stock And Commodities Trading",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/options/articles/kalshi-offer-u-stock-commodities-140300562.html",
-   "saat": "17:03",
-   "tarih_iso": "2026-09-14T17:03:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T17:30:56.697490+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/teva-pharmaceuticals-sees-pivot-growth-140227795.html",
-   "baslik": "Teva Pharmaceuticals Sees Pivot to Growth Accelerating on Branded Drugs, Biosimilars",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/teva-pharmaceuticals-sees-pivot-growth-140227795.html",
-   "saat": "17:02",
-   "tarih_iso": "2026-09-14T17:02:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T17:30:56.697490+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/rf-industries-q3-earnings-call-140226016.html",
-   "baslik": "RF Industries Q3 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/rf-industries-q3-earnings-call-140226016.html",
-   "saat": "17:02",
-   "tarih_iso": "2026-09-14T17:02:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T17:30:56.697490+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
-   "baslik": "Tech stocks today: AI warnings send shock through chip stocks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/live/tech-stocks-today-ai-warnings-send-shock-through-chip-stocks-140134624.html",
-   "saat": "17:01",
-   "tarih_iso": "2026-09-14T17:01:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T17:30:56.697490+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/amd-sitting-515-most-u-140030239.html",
-   "baslik": "AMD Is Sitting at $515. Here Is What Most U.S. Investors Should Actually Do About It.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/amd-sitting-515-most-u-140030239.html",
-   "saat": "17:00",
-   "tarih_iso": "2026-09-14T17:00:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T17:30:56.697490+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/china-insight-china-apparel-h1-140000859.html",
-   "baslik": "China Insight: China Apparel H1 2026 — Behind the Growth, a Sharper Bifurcation",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/china-insight-china-apparel-h1-140000859.html",
-   "saat": "17:00",
-   "tarih_iso": "2026-09-14T17:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T17:30:56.697490+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
-   "baslik": "Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
-   "saat": "16:56",
-   "tarih_iso": "2026-09-14T16:56:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T17:01:53.160911+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/surprising-stock-stanley-druckenmillers-no-135000908.html",
-   "baslik": "This Surprising Stock Has Been Stanley Druckenmiller's No. 1 Position for 8 Straight Quarters. Is It a No-Brainer Buy?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/surprising-stock-stanley-druckenmillers-no-135000908.html",
-   "saat": "16:50",
-   "tarih_iso": "2026-09-14T16:50:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T17:01:53.160911+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-fall-ai-134819710.html",
-   "baslik": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-fall-ai-134819710.html",
-   "saat": "16:48",
-   "tarih_iso": "2026-09-14T16:48:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T17:01:53.160911+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hain-celestial-sells-international-assets-134704557.html",
-   "baslik": "Hain Celestial sells “international” assets to private-equity investor",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/hain-celestial-sells-international-assets-134704557.html",
-   "saat": "16:47",
-   "tarih_iso": "2026-09-14T16:47:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T17:01:53.160911+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nike-downgraded-affirm-upgraded-wall-134559486.html",
-   "baslik": "Nike downgraded, Affirm upgraded: Wall Street's top analyst calls",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nike-downgraded-affirm-upgraded-wall-134559486.html",
-   "saat": "16:45",
-   "tarih_iso": "2026-09-14T16:45:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T17:01:53.160911+03:00"
   }
  ],
  "altin_haber": [
@@ -1999,5 +2085,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-14T23:31:11.335412+03:00"
+ "guncelleme": "2026-09-15T00:01:04.216994+03:00"
 }
