@@ -121,6 +121,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-14-eylul-2026/4056922",
+   "baslik": "60 saniyede ekonomide bugün (14 Eylül 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-14-eylul-2026/4056922",
+   "saat": "16:48",
+   "tarih_iso": "2026-09-14T16:48:56+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/turk-telekom-cop31in-kuresel-dijital-donusum-ve-teknoloji-destekcisi-oldu-haberi-839975",
    "baslik": "Türk Telekom, COP31’in \"Küresel Dijital Dönüşüm ve Teknoloji\" destekçisi oldu",
    "kaynak": "Dünya",
@@ -230,6 +242,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/ecb-yonetim-kurulu-uyesi-schnabel-enerji-fiyatlarindaki-artisin-endise-verici-oldugunu-soyledi/4056909",
+   "baslik": "ECB Yönetim Kurulu Üyesi Schnabel, enerji fiyatlarındaki artışın endişe verici olduğunu söyledi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-yonetim-kurulu-uyesi-schnabel-enerji-fiyatlarindaki-artisin-endise-verici-oldugunu-soyledi/4056909",
+   "saat": "16:36",
+   "tarih_iso": "2026-09-14T16:36:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/psg-equity-avrupa-yazlm-fonu-icin-44-milyar-euro-toplad-93CH-4064773",
    "baslik": "PSG Equity, Avrupa yazılım fonu için 4,4 milyar euro topladı",
@@ -403,6 +425,96 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
+   "baslik": "Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/14/novo-nordisk-rebrands-to-novo-ceo-mike-doustdar.html",
+   "saat": "16:56",
+   "tarih_iso": "2026-09-14T16:56:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/surprising-stock-stanley-druckenmillers-no-135000908.html",
+   "baslik": "This Surprising Stock Has Been Stanley Druckenmiller's No. 1 Position for 8 Straight Quarters. Is It a No-Brainer Buy?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/surprising-stock-stanley-druckenmillers-no-135000908.html",
+   "saat": "16:50",
+   "tarih_iso": "2026-09-14T16:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-fall-ai-134819710.html",
+   "baslik": "S&P 500, Nasdaq fall on AI slowdown fears, oil price surge",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-fall-ai-134819710.html",
+   "saat": "16:48",
+   "tarih_iso": "2026-09-14T16:48:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/hain-celestial-sells-international-assets-134704557.html",
+   "baslik": "Hain Celestial sells “international” assets to private-equity investor",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/hain-celestial-sells-international-assets-134704557.html",
+   "saat": "16:47",
+   "tarih_iso": "2026-09-14T16:47:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nike-downgraded-affirm-upgraded-wall-134559486.html",
+   "baslik": "Nike downgraded, Affirm upgraded: Wall Street's top analyst calls",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nike-downgraded-affirm-upgraded-wall-134559486.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-09-14T16:45:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+   "baslik": "Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-09-14T16:45:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories",
+   "baslik": "Here’s how to prepare your portfolio for the Fed’s next interest-rate moves",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/heres-how-to-prepare-your-portfolio-for-the-feds-next-interest-rate-moves-ac306c90?mod=mw_rss_topstories",
+   "saat": "16:45",
+   "tarih_iso": "2026-09-14T16:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/cashed-90-000-company-stock-133953341.html",
+   "baslik": "He Cashed Out $90,000 of Company Stock at 64 to Pay Off the House. At 66, Medicare Charged Him Two Brackets More for a Year, and Nobody Connected the Two",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/cashed-90-000-company-stock-133953341.html",
+   "saat": "16:39",
+   "tarih_iso": "2026-09-14T16:39:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
+   "baslik": "Stock Market Today (Sept. 14, 2026): S&P 500 falls on rising oil prices, sagging AI stocks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
+   "saat": "16:38",
+   "tarih_iso": "2026-09-14T16:38:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/14/here-are-our-top-10-things-to-watch-in-the-stock-market-monday.html",
    "baslik": "Here are our top 10 things to watch in the stock market Monday",
    "kaynak": "CNBC",
@@ -421,6 +533,16 @@
    "tarih_iso": "2026-09-14T16:11:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T16:31:33.900763+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
+   "baslik": "Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html",
+   "saat": "16:08",
+   "tarih_iso": "2026-09-14T16:08:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/whats-wrong-nike-stock-130500379.html",
@@ -1501,109 +1623,19 @@
    "tarih_iso": "2026-09-14T12:12:34+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/wall-streets-new-pair-trade-long-software-short-chips-4898984",
-   "baslik": "Wall Street’s new pair trade: Long software, short chips",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/wall-streets-new-pair-trade-long-software-short-chips-4898984",
-   "saat": "12:10",
-   "tarih_iso": "2026-09-14T12:10:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nokia-stock-sliding-today-93CH-4898983",
-   "baslik": "Why is Nokia stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-nokia-stock-sliding-today-93CH-4898983",
-   "saat": "12:09",
-   "tarih_iso": "2026-09-14T12:09:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/finally-time-why-fed-may-090806668.html",
-   "baslik": "Is it finally time? Why the Fed may raise rates for first time since 2023.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/finally-time-why-fed-may-090806668.html",
-   "saat": "12:08",
-   "tarih_iso": "2026-09-14T12:08:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/wall-street-obsessed-anthropic-ipo-090800055.html",
-   "baslik": "Wall Street Is Obsessed With the Anthropic IPO. Here's the AI Cooling Stock Nobody Is Talking About.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/wall-street-obsessed-anthropic-ipo-090800055.html",
-   "saat": "12:08",
-   "tarih_iso": "2026-09-14T12:08:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/novartis-just-shook-multibillion-dollar-090400043.html",
-   "baslik": "Novartis Just Shook Up a Multibillion-Dollar Drug Race. What It Means for Eli Lilly Stock.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/novartis-just-shook-multibillion-dollar-090400043.html",
-   "saat": "12:04",
-   "tarih_iso": "2026-09-14T12:04:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-wavestone-stock-climbing-today-93CH-4898976",
-   "baslik": "Why is Wavestone stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-wavestone-stock-climbing-today-93CH-4898976",
-   "saat": "12:03",
-   "tarih_iso": "2026-09-14T12:03:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/fastly-highlights-accelerating-growth-record-090202561.html",
-   "baslik": "Fastly Highlights Accelerating Growth, Record Margins and AI-Driven Compute Demand",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/fastly-highlights-accelerating-growth-record-090202561.html",
-   "saat": "12:02",
-   "tarih_iso": "2026-09-14T12:02:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/africas-biggest-oil-refinery-opens-085534787.html",
-   "baslik": "Africa's biggest oil refinery opens to public ownership, sparking excitement among retail investors",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/africas-biggest-oil-refinery-opens-085534787.html",
-   "saat": "11:55",
-   "tarih_iso": "2026-09-14T11:55:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/articles/vietnam-vehicle-market-falls-13-085440732.html",
-   "baslik": "Vietnam vehicle market falls 13% in August – VAMA",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/articles/vietnam-vehicle-market-falls-13-085440732.html",
-   "saat": "11:54",
-   "tarih_iso": "2026-09-14T11:54:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:30:57.810042+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-cuts-carlsberg-to-hold-lowers-target-on-growth-concerns-93CH-4898961",
-   "baslik": "Jefferies cuts Carlsberg to hold, lowers target on growth concerns",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/jefferies-cuts-carlsberg-to-hold-lowers-target-on-growth-concerns-93CH-4898961",
-   "saat": "11:52",
-   "tarih_iso": "2026-09-14T11:52:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T12:01:12.080794+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-uc-haftadir-kaybettiriyor-dususu-durduracak-seviye-neresi-galeri-839976",
+   "baslik": "Altın üç haftadır kaybettiriyor: Düşüşü durduracak seviye neresi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-uc-haftadir-kaybettiriyor-dususu-durduracak-seviye-neresi-galeri-839976",
+   "saat": "16:13",
+   "tarih_iso": "2026-09-14T16:13:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-14T17:01:53.160911+03:00"
+  },
   {
    "id": "alt-https://www.haberturk.com/ekonomi/emtiada-sert-dusus-altin-ve-gumus-geriledi-3912393",
    "baslik": "Altın ve metallerde satış baskısı",
@@ -1775,5 +1807,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-14T16:31:33.900763+03:00"
+ "guncelleme": "2026-09-14T17:01:53.160911+03:00"
 }
