@@ -2,6 +2,19 @@
  "tarih": "2026-09-15",
  "kap": [
   {
+   "id": "kap-my-KORDS-202609151209",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:09",
+   "tarih_iso": "2026-09-15T12:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
    "id": "kap-my-MIATK-202609151113",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -183,6 +196,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/standard-charter-fedin-enflasyon-belirsizligi-nedeniyle-faizleri-sabit-tutmasn-bekliyor-93CH-4066067",
+   "baslik": "Standard Charter, Fed’in enflasyon belirsizliği nedeniyle faizleri sabit tutmasını bekliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/standard-charter-fedin-enflasyon-belirsizligi-nedeniyle-faizleri-sabit-tutmasn-bekliyor-93CH-4066067",
+   "saat": "12:53",
+   "tarih_iso": "2026-09-15T12:53:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/goldman-sachs-fedden-carsamba-gunu-25-baz-puanlk-arts-bekliyor-93CH-4065988",
+   "baslik": "Goldman Sachs, Fed’den Çarşamba günü 25 baz puanlık artış bekliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/goldman-sachs-fedden-carsamba-gunu-25-baz-puanlk-arts-bekliyor-93CH-4065988",
+   "saat": "12:19",
+   "tarih_iso": "2026-09-15T12:19:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-ve-hisselerde-satis-dalgasi-dolar-guc-topluyor-galeri-840095",
    "baslik": "Altın ve hisselerde satış dalgası: Dolar güç topluyor",
@@ -366,6 +399,116 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/standard-charter-expects-fed-to-hold-rates-amid-inflation-uncertainty-93CH-4901102",
+   "baslik": "Standard Charter expects Fed to hold rates amid inflation uncertainty",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/standard-charter-expects-fed-to-hold-rates-amid-inflation-uncertainty-93CH-4901102",
+   "saat": "12:53",
+   "tarih_iso": "2026-09-15T12:53:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/volvo-stock-outlook-buy-or-avoid-into-earnings-93CH-4901095",
+   "baslik": "Volvo stock outlook: Buy or avoid into earnings?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/volvo-stock-outlook-buy-or-avoid-into-earnings-93CH-4901095",
+   "saat": "12:37",
+   "tarih_iso": "2026-09-15T12:37:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nokia-stock-rallying-today-93CH-4901093",
+   "baslik": "Why is Nokia stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nokia-stock-rallying-today-93CH-4901093",
+   "saat": "12:35",
+   "tarih_iso": "2026-09-15T12:35:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wall-street-expects-bad-news-093201393.html",
+   "baslik": "Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-expects-bad-news-093201393.html",
+   "saat": "12:32",
+   "tarih_iso": "2026-09-15T12:32:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-fall-ahead-092943720.html",
+   "baslik": "US Stock Futures Fall Ahead of Fed Meeting as Oil and Treasury Yields Rise: Dow Jones, S&P, Nasdaq, Wall Street",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-fall-ahead-092943720.html",
+   "saat": "12:29",
+   "tarih_iso": "2026-09-15T12:29:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dole-dole-revenue-climbs-while-092810806.html",
+   "baslik": "Dole’s (DOLE) Revenue Climbs While Fruit Costs Squeeze Profits",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dole-dole-revenue-climbs-while-092810806.html",
+   "saat": "12:28",
+   "tarih_iso": "2026-09-15T12:28:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-raises-us-semiconductor-industry-outlook-to-18-annual-growth-93CH-4901067",
+   "baslik": "BofA raises US semiconductor industry outlook to 18% annual growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bofa-raises-us-semiconductor-industry-outlook-to-18-annual-growth-93CH-4901067",
+   "saat": "12:26",
+   "tarih_iso": "2026-09-15T12:26:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/retail-investor-fleecing-continues-48-092601614.html",
+   "baslik": "The Retail Investor Fleecing Continues: Up to $48 Billion in SpaceX Insider Selling Pressure Can Hit the Tape Next Week",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/retail-investor-fleecing-continues-48-092601614.html",
+   "saat": "12:26",
+   "tarih_iso": "2026-09-15T12:26:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-survey-shows-european-investors-expect-63-equity-returns-93CH-4901057",
+   "baslik": "BofA survey shows European investors expect 6.3% equity returns",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bofa-survey-shows-european-investors-expect-63-equity-returns-93CH-4901057",
+   "saat": "12:22",
+   "tarih_iso": "2026-09-15T12:22:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-survey-shows-investor-cash-levels-rise-amid-policy-concerns-93CH-4901056",
+   "baslik": "BofA survey shows investor cash levels rise amid policy concerns",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bofa-survey-shows-investor-cash-levels-rise-amid-policy-concerns-93CH-4901056",
+   "saat": "12:22",
+   "tarih_iso": "2026-09-15T12:22:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/best-3-nuclear-energy-stocks-091500587.html",
+   "baslik": "The Best 3 Nuclear Energy Stocks to Buy and Hold for 2030 and Beyond",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/best-3-nuclear-energy-stocks-091500587.html",
+   "saat": "12:15",
+   "tarih_iso": "2026-09-15T12:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/citi-warns-tokyo-electron-stock-faces-risk-from-kioxia-listing-93CH-4901009",
    "baslik": "Citi warns Tokyo Electron stock faces risk from Kioxia listing",
    "kaynak": "Investing.com",
@@ -464,6 +607,16 @@
    "tarih_iso": "2026-09-15T12:02:40+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
+   "baslik": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
+   "saat": "12:00",
+   "tarih_iso": "2026-09-15T12:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
   },
   {
    "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/gold-prices-fall-as-rising-energy-costs-reinforce-rate-hike-expectations-QfyuXsvchUkfIybsoqZm?siteid=yhoof2&yptr=yahoo",
@@ -1178,6 +1331,16 @@
    "eklenme": "2026-09-15T12:30:51.953714+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-tests-crucial-support-ahead-of-fed-decision-as-rising-yields-weigh-200687687",
+   "baslik": "Gold Tests Crucial Support Ahead of Fed Decision as Rising Yields Weigh",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-tests-crucial-support-ahead-of-fed-decision-as-rising-yields-weigh-200687687",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-15-eylul-2026-canli-ceyrek-altin-gram-altin-ne-kadar-yarim-altin-fiyati-kac-tl-kapalicarsi-altin-fiyatlari-ne-durumda-3466689",
    "baslik": "ALTIN FİYATLARI 15 EYLÜL 2026 CANLI | Çeyrek Altın, Gram Altın Ne Kadar? Yarım Altın Fiyatı Kaç TL? Kapalıçarşı Altın Fiyatları Ne Durumda?",
    "kaynak": "CNN Türk Ekonomi",
@@ -1378,5 +1541,5 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   }
  ],
- "guncelleme": "2026-09-15T12:30:51.953714+03:00"
+ "guncelleme": "2026-09-15T13:01:04.841441+03:00"
 }
