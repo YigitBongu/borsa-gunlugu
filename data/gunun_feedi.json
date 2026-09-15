@@ -2,6 +2,19 @@
  "tarih": "2026-09-15",
  "kap": [
   {
+   "id": "kap-my-GLYHO-202609150945",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:45",
+   "tarih_iso": "2026-09-15T09:45:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609150935",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -131,6 +144,26 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   },
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fed-toplants-oncesi-avrupa-hisseleri-geriledi-4065828",
+   "baslik": "Fed toplantısı öncesi Avrupa hisseleri geriledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fed-toplants-oncesi-avrupa-hisseleri-geriledi-4065828",
+   "saat": "10:05",
+   "tarih_iso": "2026-09-15T10:05:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/borsa-gune-dususle-basladi-bist-100de-satis-baskisi-suruyor-haberi-840068",
+   "baslik": "Borsa güne düşüşle başladı: BIST 100'de satış baskısı sürüyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/borsa-gune-dususle-basladi-bist-100de-satis-baskisi-suruyor-haberi-840068",
+   "saat": "10:01",
+   "tarih_iso": "2026-09-15T10:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sektorler/tarim/defne-yapragina-cin-kapisi-yeniden-acildi-hedef-75-milyon-dolar-haberi-840065",
    "baslik": "Defne yaprağına Çin kapısı yeniden açıldı: Hedef 75 milyon dolar",
    "kaynak": "Dünya",
@@ -212,6 +245,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+   "baslik": "The Fed may be on the verge of a serious mistake, prominent economists warn",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
+   "saat": "10:29",
+   "tarih_iso": "2026-09-15T10:29:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-oil-surges-ai-safety-rift-adds-to-unease-4900889",
+   "baslik": "FTSE 100 today: Stocks slip as oil surges, AI safety rift adds to unease",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-oil-surges-ai-safety-rift-adds-to-unease-4900889",
+   "saat": "10:21",
+   "tarih_iso": "2026-09-15T10:21:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-steady-as-ai-rebound-offsets-oil-rate-and-bondmarket-pressure-4900765",
+   "baslik": "Asian stocks slip as AI rebound fades, banks and chips face fresh pressure",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-steady-as-ai-rebound-offsets-oil-rate-and-bondmarket-pressure-4900765",
+   "saat": "10:11",
+   "tarih_iso": "2026-09-15T10:11:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-slip-ahead-of-fed-meeting-amid-expanding-gulf-conflict-4900853",
+   "baslik": "European stocks slip ahead of Fed meeting amid expanding Gulf conflict",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-slip-ahead-of-fed-meeting-amid-expanding-gulf-conflict-4900853",
+   "saat": "10:05",
+   "tarih_iso": "2026-09-15T10:05:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-names-top-chinese-ev-stocks-for-european-market-penetration-93CH-4900877",
+   "baslik": "BofA Names Top Chinese EV Stocks for European Market Penetration",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bofa-names-top-chinese-ev-stocks-for-european-market-penetration-93CH-4900877",
+   "saat": "10:04",
+   "tarih_iso": "2026-09-15T10:04:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-000-4900871",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 0.00%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-000-4900871",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-15T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/french-inflation-rises-to-26-in-august-4900862",
+   "baslik": "French inflation rises to 2.6% in August",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/french-inflation-rises-to-26-in-august-4900862",
+   "saat": "09:54",
+   "tarih_iso": "2026-09-15T09:54:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wickes-sees-improved-q3-trading-after-firsthalf-revenue-growth-4900865",
+   "baslik": "Wickes sees improved Q3 trading after first-half revenue growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wickes-sees-improved-q3-trading-after-firsthalf-revenue-growth-4900865",
+   "saat": "09:53",
+   "tarih_iso": "2026-09-15T09:53:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-088-4900851",
    "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.88%",
@@ -605,6 +718,46 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-is-pricing-more-than-a-rate-decision-its-pricing-fed-independence-doubt-200687664",
+   "baslik": "Gold Is Pricing More Than a Rate Decision, It’s Pricing Fed Independence Doubt",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-is-pricing-more-than-a-rate-decision-its-pricing-fed-independence-doubt-200687664",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-slides-after-the-meeting-that-did-not-happen-200687662",
+   "baslik": "Gold Slides After The Meeting That Did Not Happen",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-slides-after-the-meeting-that-did-not-happen-200687662",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-targets-4402-after-reclaiming-the-daily-mean-200687657",
+   "baslik": "Gold Targets $4,402 After Reclaiming the Daily Mean",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-targets-4402-after-reclaiming-the-daily-mean-200687657",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-market-outlook-was-fridays-gold-rebound-only-a-shortcovering-bounce-200687651",
+   "baslik": "Gold Market Outlook: Was Friday’s Gold Rebound Only a Short-Covering Bounce?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-market-outlook-was-fridays-gold-rebound-only-a-shortcovering-bounce-200687651",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
    "id": "alt-https://www.haberturk.com/ekonomi/gram-altinda-dusus-altin-fiyatlarinda-son-durum-3912533",
    "baslik": "Gram altında düşüş",
    "kaynak": "Habertürk Ekonomi",
@@ -715,5 +868,5 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   }
  ],
- "guncelleme": "2026-09-15T10:01:04.196294+03:00"
+ "guncelleme": "2026-09-15T10:31:00.144812+03:00"
 }
