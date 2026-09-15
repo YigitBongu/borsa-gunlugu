@@ -2,6 +2,19 @@
  "tarih": "2026-09-15",
  "kap": [
   {
+   "id": "kap-my-BRSAN-202609151029",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BRSAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:29",
+   "tarih_iso": "2026-09-15T10:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T11:01:06.948069+03:00"
+  },
+  {
    "id": "kap-my-GLYHO-202609150945",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -144,6 +157,16 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   },
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fed-faiz-artrm-yaklasrken-yapay-zeka-stratejisinin-orta-olcekli-hisse-tercihleri-580-getiriyle-dikkat-cekiyor-4065863",
+   "baslik": "Fed faiz artırımı yaklaşırken yapay zeka stratejisinin orta ölçekli hisse tercihleri %580 getiriyle dikkat çekiyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fed-faiz-artrm-yaklasrken-yapay-zeka-stratejisinin-orta-olcekli-hisse-tercihleri-580-getiriyle-dikkat-cekiyor-4065863",
+   "saat": "10:23",
+   "tarih_iso": "2026-09-15T10:23:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T11:01:06.948069+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/fed-toplants-oncesi-avrupa-hisseleri-geriledi-4065828",
    "baslik": "Fed toplantısı öncesi Avrupa hisseleri geriledi",
    "kaynak": "Investing TR",
@@ -246,6 +269,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-4900913",
+   "baslik": "Bond selloff drives US benchmark beyond 5%; stocks rattled",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-4900913",
+   "saat": "10:42",
+   "tarih_iso": "2026-09-15T10:42:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T11:01:06.948069+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/lsl-property-services-reports-3-revenue-growth-in-first-half-93CH-4900911",
+   "baslik": "LSL Property Services reports 3% revenue growth in first half",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/lsl-property-services-reports-3-revenue-growth-in-first-half-93CH-4900911",
+   "saat": "10:39",
+   "tarih_iso": "2026-09-15T10:39:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T11:01:06.948069+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-trustpilot-stock-tumbling-today-93CH-4900910",
+   "baslik": "Why is Trustpilot stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-trustpilot-stock-tumbling-today-93CH-4900910",
+   "saat": "10:36",
+   "tarih_iso": "2026-09-15T10:36:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T11:01:06.948069+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-everplay-stock-rallying-today-93CH-4900908",
+   "baslik": "Why is Everplay stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-everplay-stock-rallying-today-93CH-4900908",
+   "saat": "10:35",
+   "tarih_iso": "2026-09-15T10:35:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T11:01:06.948069+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kier-stock-rallying-today-93CH-4900907",
+   "baslik": "Why is Kier stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kier-stock-rallying-today-93CH-4900907",
+   "saat": "10:33",
+   "tarih_iso": "2026-09-15T10:33:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T11:01:06.948069+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-wickes-stock-surging-today-93CH-4900906",
+   "baslik": "Why is Wickes stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-wickes-stock-surging-today-93CH-4900906",
+   "saat": "10:32",
+   "tarih_iso": "2026-09-15T10:32:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T11:01:06.948069+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/the-fed-may-be-on-the-verge-of-a-serious-mistake-prominent-economists-warn-3ccb6581?mod=mw_rss_topstories",
    "baslik": "The Fed may be on the verge of a serious mistake, prominent economists warn",
    "kaynak": "MarketWatch",
@@ -254,6 +337,16 @@
    "tarih_iso": "2026-09-15T10:29:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T10:31:00.144812+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/as-fed-hike-looms-ai-strategys-midcap-picks-draw-attention-with-580-gain-4900893",
+   "baslik": "As Fed hike looms, AI strategy’s mid-cap picks draw attention with 580% gain",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/as-fed-hike-looms-ai-strategys-midcap-picks-draw-attention-with-580-gain-4900893",
+   "saat": "10:23",
+   "tarih_iso": "2026-09-15T10:23:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T11:01:06.948069+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-oil-surges-ai-safety-rift-adds-to-unease-4900889",
@@ -868,5 +961,5 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   }
  ],
- "guncelleme": "2026-09-15T10:31:00.144812+03:00"
+ "guncelleme": "2026-09-15T11:01:06.948069+03:00"
 }
