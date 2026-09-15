@@ -2,6 +2,19 @@
  "tarih": "2026-09-15",
  "kap": [
   {
+   "id": "kap-my-MIATK-202609151113",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:13",
+   "tarih_iso": "2026-09-15T11:13:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T12:01:12.352272+03:00"
+  },
+  {
    "id": "kap-my-BRSAN-202609151029",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -121,6 +134,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/garanti-bbvadan-veri-merkezi-yatirimina-finansman-3912587",
+   "baslik": "Garanti BBVA’dan veri merkezi yatırımına finansman",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/garanti-bbvadan-veri-merkezi-yatirimina-finansman-3912587",
+   "saat": "11:50",
+   "tarih_iso": "2026-09-15T11:50:38+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-09-15T12:01:12.352272+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/bu-aksam-sampiyonlar-ligi-maci-var-mi-galatasaray-fenerbahce-sampiyonlar-ligi-maci-ne-zaman-haberi-840052",
    "baslik": "Bu akşam Şampiyonlar Ligi maçı var mı? Galatasaray, Fenerbahçe Şampiyonlar Ligi maçı ne zaman?",
    "kaynak": "Dünya",
@@ -146,6 +171,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/fed-faiz-karari-ne-olacak-finans-devleri-beklentilerini-acikladi-3912575",
+   "baslik": "Fed'den ne bekleniyor?",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/fed-faiz-karari-ne-olacak-finans-devleri-beklentilerini-acikladi-3912575",
+   "saat": "11:30",
+   "tarih_iso": "2026-09-15T11:30:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:01:12.352272+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/butce-uygulama-sonuclari-aciklandi/4057512",
    "baslik": "Bütçe uygulama sonuçları açıklandı",
@@ -288,6 +323,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-antin-infrastructure-partners-stock-dipping-today-93CH-4900987",
+   "baslik": "Why is Antin Infrastructure Partners stock dipping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-antin-infrastructure-partners-stock-dipping-today-93CH-4900987",
+   "saat": "11:44",
+   "tarih_iso": "2026-09-15T11:44:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:01:12.352272+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cewe-color-stock-rallying-today-93CH-4900966",
+   "baslik": "Why is Cewe Color stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cewe-color-stock-rallying-today-93CH-4900966",
+   "saat": "11:30",
+   "tarih_iso": "2026-09-15T11:30:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:01:12.352272+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-093-4900964",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.93%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-093-4900964",
+   "saat": "11:30",
+   "tarih_iso": "2026-09-15T11:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:01:12.352272+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-puig-brands-stock-sliding-today-93CH-4900934",
    "baslik": "Why is Puig Brands stock sliding today?",
@@ -851,6 +916,16 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   },
   {
+   "id": "alt-https://www.aa.com.tr/tr/ekonomi/kuveyt-turkun-altin-veren-atmlerinden-15-yilda-yaklasik-500-bin-altin-satildi/4057483",
+   "baslik": "Kuveyt Türk'ün \"Altın Veren ATM'ler\"inden 15 yılda yaklaşık 500 bin altın satıldı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuveyt-turkun-altin-veren-atmlerinden-15-yilda-yaklasik-500-bin-altin-satildi/4057483",
+   "saat": "11:06",
+   "tarih_iso": "2026-09-15T11:06:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:01:12.352272+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-is-pricing-more-than-a-rate-decision-its-pricing-fed-independence-doubt-200687664",
    "baslik": "Gold Is Pricing More Than a Rate Decision, It’s Pricing Fed Independence Doubt",
    "kaynak": "Investing Emtia",
@@ -1001,5 +1076,5 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   }
  ],
- "guncelleme": "2026-09-15T11:30:53.477935+03:00"
+ "guncelleme": "2026-09-15T12:01:12.352272+03:00"
 }
