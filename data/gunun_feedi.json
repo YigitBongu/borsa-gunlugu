@@ -2,6 +2,19 @@
  "tarih": "2026-09-15",
  "kap": [
   {
+   "id": "kap-my-KARSN-202609151328",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KARSN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:28",
+   "tarih_iso": "2026-09-15T13:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
+  },
+  {
    "id": "kap-my-KORDS-202609151209",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -431,6 +444,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
+   "baslik": "Here’s the best way to invest in bonds for the long term, according to these five-star portfolio managers",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/heres-the-best-way-to-invest-in-bonds-for-the-long-term-according-to-these-five-star-portfolio-managers-bbf0d5e3?mod=mw_rss_topstories",
+   "saat": "13:37",
+   "tarih_iso": "2026-09-15T13:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sysco-stock-sliding-today-93CH-4901217",
+   "baslik": "Why is Sysco stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sysco-stock-sliding-today-93CH-4901217",
+   "saat": "13:31",
+   "tarih_iso": "2026-09-15T13:31:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-119-4901210",
+   "baslik": "India stocks lower at close of trade; Nifty 50 down 1.19%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-119-4901210",
+   "saat": "13:30",
+   "tarih_iso": "2026-09-15T13:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/moodys-mark-zandi-warns-serious-103000972.html",
+   "baslik": "Moody's Mark Zandi warns of a 'serious' mistake if the Fed hikes rates as Wall Street expects a quarter-point increase",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/moodys-mark-zandi-warns-serious-103000972.html",
+   "saat": "13:30",
+   "tarih_iso": "2026-09-15T13:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-grupa-kety-stock-surging-today-93CH-4901191",
+   "baslik": "Why is Grupa KĘTY stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-grupa-kety-stock-surging-today-93CH-4901191",
+   "saat": "13:22",
+   "tarih_iso": "2026-09-15T13:22:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-favorite-market-gauge-102000785.html",
+   "baslik": "Warren Buffett's Favorite Market Gauge Just Hit Its Highest Level Since the 1999 Dot-Com Peak. History Says Investors Should Watch Valuations Closely.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-favorite-market-gauge-102000785.html",
+   "saat": "13:20",
+   "tarih_iso": "2026-09-15T13:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-energous-stock-gaining-today-93CH-4901169",
    "baslik": "Why is Energous stock gaining today?",
    "kaynak": "Investing.com",
@@ -441,6 +514,26 @@
    "eklenme": "2026-09-15T13:28:09.013012+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/legendary-investor-made-estimated-100-101500873.html",
+   "baslik": "Legendary investor made an estimated $100 million on 1987 crash, now says investors could see 'negative 10-year returns'",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/legendary-investor-made-estimated-100-101500873.html",
+   "saat": "13:15",
+   "tarih_iso": "2026-09-15T13:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stock-could-turn-1-101400827.html",
+   "baslik": "This Cybersecurity Stock Could Turn $1,000 Into More Than $4,400",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stock-could-turn-1-101400827.html",
+   "saat": "13:14",
+   "tarih_iso": "2026-09-15T13:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/ge-vernova-stock-outlook-beyond-the-data-center-trade-93CH-4901163",
    "baslik": "GE Vernova stock outlook: Beyond the data center trade",
    "kaynak": "Investing.com",
@@ -449,6 +542,16 @@
    "tarih_iso": "2026-09-15T13:11:54+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T13:28:09.013012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/articles/bofa-raises-us-semiconductor-growth-100655886.html",
+   "baslik": "BofA Raises US Semiconductor Growth Forecast to 18% Through 2030",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/articles/bofa-raises-us-semiconductor-growth-100655886.html",
+   "saat": "13:06",
+   "tarih_iso": "2026-09-15T13:06:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/fed-may-hike-again-why-100523628.html",
@@ -469,6 +572,16 @@
    "tarih_iso": "2026-09-15T13:05:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T13:28:09.013012+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-fall-bitcoin-drops-100327801.html",
+   "baslik": "Crypto Stocks Fall as Bitcoin Drops Ahead of Clarity Act Vote and Fed Decision",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-fall-bitcoin-drops-100327801.html",
+   "saat": "13:03",
+   "tarih_iso": "2026-09-15T13:03:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/trustpilot-group-h1-earnings-call-100239568.html",
@@ -679,6 +792,16 @@
    "tarih_iso": "2026-09-15T12:32:01+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T13:01:04.841441+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/uk-oil-gas-group-says-093000677.html",
+   "baslik": "UK Oil and Gas Group Says Earlier Tax Shift Could Raise £14.9 Billion",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/uk-oil-gas-group-says-093000677.html",
+   "saat": "12:30",
+   "tarih_iso": "2026-09-15T12:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T13:55:01.046112+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-fall-ahead-092943720.html",
@@ -1519,46 +1642,6 @@
    "tarih_iso": "2026-09-14T22:29:12+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/14/which-matters-more-to-stocks-the-bond-market-or-ai-risks-the-volatility-gauge-might-offer-an-answer.html",
-   "baslik": "Which matters more to stocks: the bond market or AI risks? The volatility gauge might offer an answer",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/14/which-matters-more-to-stocks-the-bond-market-or-ai-risks-the-volatility-gauge-might-offer-an-answer.html",
-   "saat": "21:01",
-   "tarih_iso": "2026-09-14T21:01:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T09:01:24.526506+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/14/fed-rate-hike-anticipated-what-it-means-for-your-money.html",
-   "baslik": "The Fed is likely to raise interest rates as inflation persists. What that means for consumers",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/14/fed-rate-hike-anticipated-what-it-means-for-your-money.html",
-   "saat": "20:42",
-   "tarih_iso": "2026-09-14T20:42:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T09:01:24.526506+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/14/as-the-oil-surge-continues-trader-mike-khouw-sees-more-upside-in-this-surging-name.html",
-   "baslik": "As the oil surge continues, trader Mike Khouw sees more upside in this surging name",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/14/as-the-oil-surge-continues-trader-mike-khouw-sees-more-upside-in-this-surging-name.html",
-   "saat": "20:16",
-   "tarih_iso": "2026-09-14T20:16:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T09:01:24.526506+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
-   "baslik": "Prediction market traders think gas prices will hit new highs for the year",
-   "kaynak": "CNBC Finans",
-   "link": "https://www.cnbc.com/2026/09/14/prediction-markets-traders-think-gas-prices-will-hit-new-highs-in-2026.html",
-   "saat": "18:49",
-   "tarih_iso": "2026-09-14T18:49:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T09:01:24.526506+03:00"
   }
  ],
  "altin_haber": [
@@ -1813,5 +1896,5 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   }
  ],
- "guncelleme": "2026-09-15T13:31:19.246544+03:00"
+ "guncelleme": "2026-09-15T13:55:01.046112+03:00"
 }
