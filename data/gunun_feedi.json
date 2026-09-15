@@ -685,6 +685,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1",
+   "baslik": "Global bonds follow US Treasuries lower",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1",
+   "saat": "07:37",
+   "tarih_iso": "2026-09-15T07:37:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T08:01:10.461658+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hdfc-bank-stock-rising-today-93CH-4900769",
    "baslik": "Why is HDFC Bank stock rising today?",
    "kaynak": "Investing.com",
@@ -733,6 +743,16 @@
    "tarih_iso": "2026-09-15T07:00:18+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T07:30:49.656702+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/e565ce70-17ac-42ad-bc08-b9a69d75d5b1?syn-25a6b1a6=1",
+   "baslik": "Foreign investors prefer US stocks to Treasuries as debt worries grow",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/e565ce70-17ac-42ad-bc08-b9a69d75d5b1?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-15T07:00:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T08:01:10.461658+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kadoya-sesame-mills-stock-surging-today-93CH-4900759",
@@ -1863,29 +1883,19 @@
    "tarih_iso": "2026-09-14T18:41:32+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T19:01:05.033365+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/caterpillar-falls-4-while-deere-154049131.html",
-   "baslik": "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-falls-4-while-deere-154049131.html",
-   "saat": "18:40",
-   "tarih_iso": "2026-09-14T18:40:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T19:01:05.033365+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-oracle-stock-fell-quickly-153800455.html",
-   "baslik": "Why Oracle Stock Fell Quickly Today",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-stock-fell-quickly-153800455.html",
-   "saat": "18:38",
-   "tarih_iso": "2026-09-14T18:38:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T19:01:05.033365+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-15-eylul-2026-canli-ceyrek-altin-ne-kadar-gram-altin-fiyati-kac-tl-kapalicarsi-altin-fiyatlari-ne-durumda-3466689",
+   "baslik": "ALTIN FİYATLARI 15 EYLÜL 2026 CANLI | Çeyrek Altın Ne Kadar, Gram Altın Fiyatı Kaç TL? Kapalıçarşı Altın Fiyatları Ne Durumda?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlari-15-eylul-2026-canli-ceyrek-altin-ne-kadar-gram-altin-fiyati-kac-tl-kapalicarsi-altin-fiyatlari-ne-durumda-3466689",
+   "saat": "10:42",
+   "tarih_iso": "2026-09-15T10:42:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T08:01:10.461658+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/how-gold-iras-fit-into-a-diversified-retirement-portfolio-162815731.html",
    "baslik": "How gold IRAs fit into a diversified retirement portfolio",
@@ -2127,5 +2137,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-15T07:30:49.656702+03:00"
+ "guncelleme": "2026-09-15T08:01:10.461658+03:00"
 }
