@@ -2,6 +2,19 @@
  "tarih": "2026-09-15",
  "kap": [
   {
+   "id": "kap-my-KARSN-202609151408",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KARSN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:08",
+   "tarih_iso": "2026-09-15T14:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
+  },
+  {
    "id": "kap-my-KARSN-202609151328",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -172,6 +185,18 @@
    "eklenme": "2026-09-15T14:30:56.385805+03:00"
   },
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/sifir-atik-vakfi-ve-vakifbank-stratejik-isbirligi-protokolu-imzaladi/4057822",
+   "baslik": "Sıfır Atık Vakfı ve VakıfBank stratejik işbirliği protokolü imzaladı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sifir-atik-vakfi-ve-vakifbank-stratejik-isbirligi-protokolu-imzaladi/4057822",
+   "saat": "14:09",
+   "tarih_iso": "2026-09-15T14:09:02+03:00",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/vakifbanktan-dongusel-ekonomiye-10-milyar-liralik-finansman-destegi-3912610",
    "baslik": "VakıfBank’tan döngüsel ekonomiye 10 milyar liralık finansman desteği",
    "kaynak": "Habertürk Ekonomi",
@@ -242,6 +267,26 @@
    "tarih_iso": "2026-09-15T15:29:59+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T14:30:56.385805+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-fed-toplants-oncesi-geriledi-4066357",
+   "baslik": "TSX vadeli işlemleri Fed toplantısı öncesi geriledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-fed-toplants-oncesi-geriledi-4066357",
+   "saat": "14:38",
+   "tarih_iso": "2026-09-15T14:38:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/bakir-rekor-zirveden-hizla-uzaklasiyor-sanayi-metallerinde-fed-satisi-haberi-840114",
+   "baslik": "Bakır rekor zirveden hızla uzaklaşıyor: Sanayi metallerinde Fed satışı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bakir-rekor-zirveden-hizla-uzaklasiyor-sanayi-metallerinde-fed-satisi-haberi-840114",
+   "saat": "14:32",
+   "tarih_iso": "2026-09-15T14:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/fed-faiz-artrmaya-basladktan-sonra-hisseler-genellikle-yukseliyor-4066167",
@@ -476,6 +521,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ramit-sethis-first-scholarship-2k-114500607.html",
+   "baslik": "Ramit Sethi's first scholarship was $2K and he put it in the stock market. Here's the simple lesson he learned",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ramit-sethis-first-scholarship-2k-114500607.html",
+   "saat": "14:45",
+   "tarih_iso": "2026-09-15T14:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/qualcomm-datacenter-pivot-real-market-114340853.html",
+   "baslik": "Qualcomm’s Datacenter Pivot Is Real, but The Market Already Knows This",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/qualcomm-datacenter-pivot-real-market-114340853.html",
+   "saat": "14:43",
+   "tarih_iso": "2026-09-15T14:43:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/ecb-president-lagarde-warns-europe-114234133.html",
+   "baslik": "ECB President Lagarde warns Europe must build its own AI",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ecb-president-lagarde-warns-europe-114234133.html",
+   "saat": "14:42",
+   "tarih_iso": "2026-09-15T14:42:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-edge-lower-as-yields-oil-climb-ahead-of-fed-meeting-4901440",
+   "baslik": "TSX futures edge lower as yields, oil climb ahead of Fed meeting",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-edge-lower-as-yields-oil-climb-ahead-of-fed-meeting-4901440",
+   "saat": "14:38",
+   "tarih_iso": "2026-09-15T14:38:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html",
+   "baslik": "Bitcoin and ethereum prices today, Tuesday, September 15, 2026: Crypto prices sliding this morning ahead of Fed meeting",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-september-15-2026-crypto-prices-sliding-this-morning-ahead-of-fed-meeting-113732149.html",
+   "saat": "14:37",
+   "tarih_iso": "2026-09-15T14:37:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/carnival-stock-analysis-cheap-valuation-meets-worsening-momentum--is-it-a-buy-93CH-4901400",
+   "baslik": "Carnival stock analysis: cheap valuation meets worsening momentum - Is it a buy?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/carnival-stock-analysis-cheap-valuation-meets-worsening-momentum--is-it-a-buy-93CH-4901400",
+   "saat": "14:28",
+   "tarih_iso": "2026-09-15T14:28:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-september-15-2026-silver-prices-drop-below-64-as-fed-decision-day-approaches-112326237.html",
    "baslik": "Silver prices today, Tuesday, September 15, 2026: Silver prices drop below $64 as Fed-decision day approaches",
    "kaynak": "Yahoo Finance",
@@ -534,6 +639,16 @@
    "tarih_iso": "2026-09-15T14:14:54+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T14:30:56.385805+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jpmorgan-reports-cautious-investor-flows-last-week-93CH-4901362",
+   "baslik": "JPMorgan reports cautious investor flows last week",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jpmorgan-reports-cautious-investor-flows-last-week-93CH-4901362",
+   "saat": "14:13",
+   "tarih_iso": "2026-09-15T14:13:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/technology/ai/articles/broadcom-ceo-hock-tan-defends-111113337.html",
@@ -1604,76 +1719,6 @@
    "tarih_iso": "2026-09-15T08:35:45+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zai-stock-sliding-today-93CH-4900786",
-   "baslik": "Why is Z.AI stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-zai-stock-sliding-today-93CH-4900786",
-   "saat": "08:28",
-   "tarih_iso": "2026-09-15T08:28:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T09:01:24.526506+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
-   "baslik": "Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html",
-   "saat": "08:22",
-   "tarih_iso": "2026-09-15T08:22:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T09:01:24.526506+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-resona-holdings-stock-sliding-today-93CH-4900778",
-   "baslik": "Why is Resona Holdings stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-resona-holdings-stock-sliding-today-93CH-4900778",
-   "saat": "08:18",
-   "tarih_iso": "2026-09-15T08:18:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T09:01:24.526506+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-   "saat": "08:13",
-   "tarih_iso": "2026-09-15T08:13:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T09:01:24.526506+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/analysisinvestors-nervous-about-ai-spending-slowdown-after-industry-warnings-4900777",
-   "baslik": "Analysis-Investors nervous about AI spending slowdown after industry warnings",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/analysisinvestors-nervous-about-ai-spending-slowdown-after-industry-warnings-4900777",
-   "saat": "08:06",
-   "tarih_iso": "2026-09-15T08:06:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T09:01:24.526506+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/stockpicking-multimanager-hedge-funds-attract-more-capital-from-investors-in-2026-bofa-says-4900776",
-   "baslik": "Stock-picking, multi-manager hedge funds attract more capital from investors in 2026, BofA says",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/stockpicking-multimanager-hedge-funds-attract-more-capital-from-investors-in-2026-bofa-says-4900776",
-   "saat": "08:06",
-   "tarih_iso": "2026-09-15T08:06:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T09:01:24.526506+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-   "baslik": "Oil extends gains following Houthi strikes on Saudi Arabia",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
-   "saat": "07:41",
-   "tarih_iso": "2026-09-15T07:41:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T09:01:24.526506+03:00"
   }
  ],
  "altin_haber": [
@@ -1686,6 +1731,16 @@
    "tarih_iso": "2026-09-15T15:16:07+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-silver-squeezed-by-yields-as-us-dollar-threat-lies-dormant-200687700",
+   "baslik": "Gold, Silver Squeezed by Yields as US Dollar Threat Lies Dormant",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-silver-squeezed-by-yields-as-us-dollar-threat-lies-dormant-200687700",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-15T15:01:03.127255+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/this-is-going-to-fool-all-the-gold-and-silver-retail-traders-200687686",
@@ -1958,5 +2013,5 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   }
  ],
- "guncelleme": "2026-09-15T14:30:56.385805+03:00"
+ "guncelleme": "2026-09-15T15:01:03.127255+03:00"
 }
