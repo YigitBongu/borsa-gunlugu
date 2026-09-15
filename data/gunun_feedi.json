@@ -2,6 +2,45 @@
  "tarih": "2026-09-15",
  "kap": [
   {
+   "id": "kap-my-AKSEN-202609151632",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "AKSEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:32",
+   "tarih_iso": "2026-09-15T16:32:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
+  {
+   "id": "kap-my-KORDS-202609151623",
+   "baslik": "KORDSA TEKNİK TEKSTİL A.Ş. — Esas Sözleşme",
+   "sirket": "KORDSA TEKNİK TEKSTİL A.Ş.",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Yeni İş / Sözleşme",
+   "saat": "16:23",
+   "tarih_iso": "2026-09-15T16:23:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
+  {
+   "id": "kap-my-SDTTR-202609151606",
+   "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:06",
+   "tarih_iso": "2026-09-15T16:06:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
+  {
    "id": "kap-my-KARSN-202609151408",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -258,6 +297,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hazine-bugun-duzenledigi-iki-ihaleyle-1179-milyar-lira-borclandi-haberi-840131",
+   "baslik": "Hazine bugün düzenlediği iki ihaleyle 117,9 milyar lira borçlandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazine-bugun-duzenledigi-iki-ihaleyle-1179-milyar-lira-borclandi-haberi-840131",
+   "saat": "16:42",
+   "tarih_iso": "2026-09-15T16:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-ne-zaman-hangi-tarihte-aciklanacak-merkez-bankasi-faiz-dusurecek-mi-haberi-840125",
    "baslik": "Merkez Bankası faiz kararı ne zaman, hangi tarihte açıklanacak? Merkez Bankası faiz düşürecek mi?",
@@ -530,6 +579,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+   "baslik": "Oil prices rise as market awaits updates on Saudi pipeline outage",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html",
+   "saat": "17:00",
+   "tarih_iso": "2026-09-15T17:00:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-tepid-at-open-as-oil-prices-treasury-yields-rise-4901961",
+   "baslik": "Wall St tepid at open as oil prices, Treasury yields rise",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-tepid-at-open-as-oil-prices-treasury-yields-rise-4901961",
+   "saat": "16:42",
+   "tarih_iso": "2026-09-15T16:42:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/cathie-wood-backs-ai-slowdown-134131148.html",
+   "baslik": "Cathie Wood Backs AI Slowdown but Calls Extinction Fears ‘Ridiculous:’ What Do Prediction Markets Say?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-backs-ai-slowdown-134131148.html",
+   "saat": "16:41",
+   "tarih_iso": "2026-09-15T16:41:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dell-technologies-stock-hits-time-133940809.html",
+   "baslik": "Dell Technologies Stock Hits a New All-Time High: Is It Too Late to Buy?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-stock-hits-time-133940809.html",
+   "saat": "16:39",
+   "tarih_iso": "2026-09-15T16:39:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-instacart-stock-sliding-today-93CH-4901949",
+   "baslik": "Why is Instacart stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-instacart-stock-sliding-today-93CH-4901949",
+   "saat": "16:37",
+   "tarih_iso": "2026-09-15T16:37:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/now-stock-outlook-recovery-setup-with-ai-monetization-in-focus-93CH-4901948",
+   "baslik": "NOW stock outlook: Recovery setup with AI monetization in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/now-stock-outlook-recovery-setup-with-ai-monetization-in-focus-93CH-4901948",
+   "saat": "16:36",
+   "tarih_iso": "2026-09-15T16:36:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/qorvo-downgraded-ulta-beauty-upgraded-133354484.html",
+   "baslik": "Ulta Beauty, Etsy upgraded: Wall Street's top analyst calls",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/qorvo-downgraded-ulta-beauty-upgraded-133354484.html",
+   "saat": "16:35",
+   "tarih_iso": "2026-09-15T16:35:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/anthropic-openai-xai-want-slow-133500297.html",
+   "baslik": "Anthropic, OpenAI, and xAI Want to Slow Down Artificial Intelligence (AI) Development. These 2 Stocks Could Be the Biggest Losers.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/anthropic-openai-xai-want-slow-133500297.html",
+   "saat": "16:35",
+   "tarih_iso": "2026-09-15T16:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/robinhood-offer-share-redemptions-voting-132500081.html",
+   "baslik": "Robinhood To Offer Share Redemptions And Voting Rights On Tokenized Stocks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/robinhood-offer-share-redemptions-voting-132500081.html",
+   "saat": "16:25",
+   "tarih_iso": "2026-09-15T16:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/energy/articles/executive-iconic-energy-company-sells-131901958.html",
    "baslik": "Executive at Iconic Energy Company Sells Nearly 4,000 Shares",
@@ -1639,99 +1778,19 @@
    "tarih_iso": "2026-09-15T12:04:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T12:30:51.953714+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/chewy-eyes-pet-health-ai-090240986.html",
-   "baslik": "Chewy Eyes Pet Health, AI and Clinics to Drive Its Next Growth Phase",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/chewy-eyes-pet-health-ai-090240986.html",
-   "saat": "12:02",
-   "tarih_iso": "2026-09-15T12:02:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T12:30:51.953714+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wickes-group-h1-earnings-call-090240971.html",
-   "baslik": "Wickes Group H1 Earnings Call Highlights",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wickes-group-h1-earnings-call-090240971.html",
-   "saat": "12:02",
-   "tarih_iso": "2026-09-15T12:02:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T12:30:51.953714+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
-   "baslik": "What to watch as Treasury Secretary Scott Bessent testifies before Congress",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/15/scott-bessent-house-hearing-economy-midterms.html",
-   "saat": "12:00",
-   "tarih_iso": "2026-09-15T12:00:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T13:01:04.841441+03:00"
-  },
-  {
-   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/gold-prices-fall-as-rising-energy-costs-reinforce-rate-hike-expectations-QfyuXsvchUkfIybsoqZm?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Gold Prices Fall as Rising Energy Costs Reinforce Rate-Hike Expectations",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/gold-prices-fall-as-rising-energy-costs-reinforce-rate-hike-expectations-QfyuXsvchUkfIybsoqZm?siteid=yhoof2&yptr=yahoo",
-   "saat": "11:57",
-   "tarih_iso": "2026-09-15T11:57:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T12:30:51.953714+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/crypto-stocks-fall-ahead-of-clarity-act-vote-and-fed-decision-93CH-4900991",
-   "baslik": "Crypto stocks fall ahead of Clarity Act vote and Fed decision",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/crypto-stocks-fall-ahead-of-clarity-act-vote-and-fed-decision-93CH-4900991",
-   "saat": "11:53",
-   "tarih_iso": "2026-09-15T11:53:13+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T12:30:51.953714+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-   "baslik": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-   "saat": "11:51",
-   "tarih_iso": "2026-09-15T11:51:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T12:30:51.953714+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/video/ai-trade-digestion-phase-jpmorgans-084509034.html",
-   "baslik": "AI Trade Is in 'Digestion' Phase, JPMorgan's Sundar Says",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/video/ai-trade-digestion-phase-jpmorgans-084509034.html",
-   "saat": "11:45",
-   "tarih_iso": "2026-09-15T11:45:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T12:30:51.953714+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-antin-infrastructure-partners-stock-dipping-today-93CH-4900987",
-   "baslik": "Why is Antin Infrastructure Partners stock dipping today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-antin-infrastructure-partners-stock-dipping-today-93CH-4900987",
-   "saat": "11:44",
-   "tarih_iso": "2026-09-15T11:44:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T12:01:12.352272+03:00"
-  },
-  {
-   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/stocks-selloff-rages-on-as-ai-and-bond-fears-mount-WQacM8pr2BU0l85QZa1B?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Stocks Selloff Rages on as AI and Bond Fears Mount",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/stocks-selloff-rages-on-as-ai-and-bond-fears-mount-WQacM8pr2BU0l85QZa1B?siteid=yhoof2&yptr=yahoo",
-   "saat": "11:40",
-   "tarih_iso": "2026-09-15T11:40:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T12:30:51.953714+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-falls-as-energy-prices-strengthen-rate-hike-expectations-200687705",
+   "baslik": "Gold Falls as Energy Prices Strengthen Rate Hike Expectations",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-falls-as-energy-prices-strengthen-rate-hike-expectations-200687705",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
+  },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-ve-gumuste-kritik-seviyeler-one-cikti-galeri-840124",
    "baslik": "Altın ve gümüşte kritik seviyeler öne çıktı",
@@ -1741,6 +1800,16 @@
    "tarih_iso": "2026-09-15T15:49:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T16:30:56.500859+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-ve-gumuste-kritik-seviyeler-ne-galeri-840124",
+   "baslik": "Altın ve gümüşte kritik seviyeler ne?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-ve-gumuste-kritik-seviyeler-ne-galeri-840124",
+   "saat": "15:49",
+   "tarih_iso": "2026-09-15T15:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T17:01:06.474756+03:00"
   },
   {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-neden-dusuyor-son-dakika-ceyrek-altin-gram-altin-ne-kadar-yarim-altin-fiyati-kac-tl-kapalicarsi-canli-altin-fiyatlari-15-eylul-3466689",
@@ -2033,5 +2102,5 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   }
  ],
- "guncelleme": "2026-09-15T16:30:56.500859+03:00"
+ "guncelleme": "2026-09-15T17:01:06.474756+03:00"
 }
