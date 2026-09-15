@@ -146,6 +146,18 @@
    "eklenme": "2026-09-15T12:01:12.352272+03:00"
   },
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tav-kuzey-afrika-orta-dogu-orta-asyada-havalimani-yatirimlarina-odaklandi/4057503",
+   "baslik": "TAV, Kuzey Afrika, Orta Doğu, Orta Asya'da havalimanı yatırımlarına odaklandı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tav-kuzey-afrika-orta-dogu-orta-asyada-havalimani-yatirimlarina-odaklandi/4057503",
+   "saat": "11:13",
+   "tarih_iso": "2026-09-15T11:13:13+03:00",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/bu-aksam-sampiyonlar-ligi-maci-var-mi-galatasaray-fenerbahce-sampiyonlar-ligi-maci-ne-zaman-haberi-840052",
    "baslik": "Bu akşam Şampiyonlar Ligi maçı var mı? Galatasaray, Fenerbahçe Şampiyonlar Ligi maçı ne zaman?",
    "kaynak": "Dünya",
@@ -171,6 +183,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-ve-hisselerde-satis-dalgasi-dolar-guc-topluyor-galeri-840095",
+   "baslik": "Altın ve hisselerde satış dalgası: Dolar güç topluyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-ve-hisselerde-satis-dalgasi-dolar-guc-topluyor-galeri-840095",
+   "saat": "12:06",
+   "tarih_iso": "2026-09-15T12:06:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/abd-ye-gida-ihracatinda-hedef-2-milyar-dolar-3912588",
+   "baslik": "ABD'ye gıda ihracatında hedef 2 milyar dolar",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/abd-ye-gida-ihracatinda-hedef-2-milyar-dolar-3912588",
+   "saat": "11:56",
+   "tarih_iso": "2026-09-15T11:56:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/kripto-hisse-senetleri-clarity-act-oylamas-ve-fed-karar-oncesi-dustu-93CH-4065958",
+   "baslik": "Kripto hisse senetleri Clarity Act oylaması ve Fed kararı öncesi düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/kripto-hisse-senetleri-clarity-act-oylamas-ve-fed-karar-oncesi-dustu-93CH-4065958",
+   "saat": "11:53",
+   "tarih_iso": "2026-09-15T11:53:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/fed-faiz-karari-ne-olacak-finans-devleri-beklentilerini-acikladi-3912575",
    "baslik": "Fed'den ne bekleniyor?",
@@ -324,6 +366,146 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citi-warns-tokyo-electron-stock-faces-risk-from-kioxia-listing-93CH-4901009",
+   "baslik": "Citi warns Tokyo Electron stock faces risk from Kioxia listing",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citi-warns-tokyo-electron-stock-faces-risk-from-kioxia-listing-93CH-4901009",
+   "saat": "12:10",
+   "tarih_iso": "2026-09-15T12:10:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/keybanc-raises-price-targets-on-oil-producers-amid-market-shifts-93CH-4901007",
+   "baslik": "Keybanc raises price targets on oil producers amid market shifts",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/keybanc-raises-price-targets-on-oil-producers-amid-market-shifts-93CH-4901007",
+   "saat": "12:08",
+   "tarih_iso": "2026-09-15T12:08:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/kroger-trims-2026-sales-outlook-090845880.html",
+   "baslik": "Kroger trims 2026 sales outlook despite profit gains",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/kroger-trims-2026-sales-outlook-090845880.html",
+   "saat": "12:08",
+   "tarih_iso": "2026-09-15T12:08:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/vodafone-stock-analysis-momentum-strong-but-german-recovery-still-unproven-93CH-4901003",
+   "baslik": "Vodafone stock analysis: momentum strong but German recovery still unproven",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/vodafone-stock-analysis-momentum-strong-but-german-recovery-still-unproven-93CH-4901003",
+   "saat": "12:06",
+   "tarih_iso": "2026-09-15T12:06:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/fevertree-shares-jump-4-after-kepler-upgrades-stock-to-buy-4901001",
+   "baslik": "Fever-Tree shares jump 4% after Kepler upgrades stock to Buy",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/fevertree-shares-jump-4-after-kepler-upgrades-stock-to-buy-4901001",
+   "saat": "12:05",
+   "tarih_iso": "2026-09-15T12:05:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-h-lundbeck-stock-falling-today-93CH-4901000",
+   "baslik": "Why is H Lundbeck stock falling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-h-lundbeck-stock-falling-today-93CH-4901000",
+   "saat": "12:05",
+   "tarih_iso": "2026-09-15T12:05:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/morgan-stanley-joins-goldman-sachs-in-11th-hour-switch-to-forecasting-a-fed-hike-c7597bda?mod=mw_rss_topstories",
+   "baslik": "Morgan Stanley joins Goldman Sachs in 11th-hour switch to forecasting a Fed hike",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/morgan-stanley-joins-goldman-sachs-in-11th-hour-switch-to-forecasting-a-fed-hike-c7597bda?mod=mw_rss_topstories",
+   "saat": "12:05",
+   "tarih_iso": "2026-09-15T12:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/alnylams-sell-off-looks-ugly-090400211.html",
+   "baslik": "Alnylam's Sell-Off Looks Ugly -- but Wall Street Still Sees a Much Brighter Picture",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/alnylams-sell-off-looks-ugly-090400211.html",
+   "saat": "12:04",
+   "tarih_iso": "2026-09-15T12:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/chewy-eyes-pet-health-ai-090240986.html",
+   "baslik": "Chewy Eyes Pet Health, AI and Clinics to Drive Its Next Growth Phase",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/chewy-eyes-pet-health-ai-090240986.html",
+   "saat": "12:02",
+   "tarih_iso": "2026-09-15T12:02:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wickes-group-h1-earnings-call-090240971.html",
+   "baslik": "Wickes Group H1 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wickes-group-h1-earnings-call-090240971.html",
+   "saat": "12:02",
+   "tarih_iso": "2026-09-15T12:02:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/gold-prices-fall-as-rising-energy-costs-reinforce-rate-hike-expectations-QfyuXsvchUkfIybsoqZm?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Gold Prices Fall as Rising Energy Costs Reinforce Rate-Hike Expectations",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/gold-prices-fall-as-rising-energy-costs-reinforce-rate-hike-expectations-QfyuXsvchUkfIybsoqZm?siteid=yhoof2&yptr=yahoo",
+   "saat": "11:57",
+   "tarih_iso": "2026-09-15T11:57:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/crypto-stocks-fall-ahead-of-clarity-act-vote-and-fed-decision-93CH-4900991",
+   "baslik": "Crypto stocks fall ahead of Clarity Act vote and Fed decision",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/crypto-stocks-fall-ahead-of-clarity-act-vote-and-fed-decision-93CH-4900991",
+   "saat": "11:53",
+   "tarih_iso": "2026-09-15T11:53:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+   "baslik": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+   "saat": "11:51",
+   "tarih_iso": "2026-09-15T11:51:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/video/ai-trade-digestion-phase-jpmorgans-084509034.html",
+   "baslik": "AI Trade Is in 'Digestion' Phase, JPMorgan's Sundar Says",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/video/ai-trade-digestion-phase-jpmorgans-084509034.html",
+   "saat": "11:45",
+   "tarih_iso": "2026-09-15T11:45:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-antin-infrastructure-partners-stock-dipping-today-93CH-4900987",
    "baslik": "Why is Antin Infrastructure Partners stock dipping today?",
    "kaynak": "Investing.com",
@@ -332,6 +514,26 @@
    "tarih_iso": "2026-09-15T11:44:26+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T12:01:12.352272+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/stocks-selloff-rages-on-as-ai-and-bond-fears-mount-WQacM8pr2BU0l85QZa1B?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Stocks Selloff Rages on as AI and Bond Fears Mount",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/stocks-selloff-rages-on-as-ai-and-bond-fears-mount-WQacM8pr2BU0l85QZa1B?siteid=yhoof2&yptr=yahoo",
+   "saat": "11:40",
+   "tarih_iso": "2026-09-15T11:40:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/unassuming-stock-trouncing-nvidia-2026-083201705.html",
+   "baslik": "This Unassuming Stock is Trouncing Nvidia in 2026. Here’s Why It’s a No-Brainer Buy.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/unassuming-stock-trouncing-nvidia-2026-083201705.html",
+   "saat": "11:32",
+   "tarih_iso": "2026-09-15T11:32:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cewe-color-stock-rallying-today-93CH-4900966",
@@ -352,6 +554,36 @@
    "tarih_iso": "2026-09-15T11:30:04+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T12:01:12.352272+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/federal-rate-hikes-likely-put-082601568.html",
+   "baslik": "Federal Reserve Rate Hikes Would Likely Put the Trump Bull Market on Thin Ice",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/federal-rate-hikes-likely-put-082601568.html",
+   "saat": "11:26",
+   "tarih_iso": "2026-09-15T11:26:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/finance/stocks/nikkei-falls-0-2-dragged-by-chip-related-stocks-trading-houses-9b2ded96?siteid=yhoof2&yptr=yahoo",
+   "baslik": "European Chip Stocks Mixed After Monday Rout",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/finance/stocks/nikkei-falls-0-2-dragged-by-chip-related-stocks-trading-houses-9b2ded96?siteid=yhoof2&yptr=yahoo",
+   "saat": "11:26",
+   "tarih_iso": "2026-09-15T11:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+   "baslik": "Stock market today: Dow, S&P 500, Nasdaq futures retreat ahead of Fed meeting amid AI safety fears",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+   "saat": "11:13",
+   "tarih_iso": "2026-09-15T11:13:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-puig-brands-stock-sliding-today-93CH-4900934",
@@ -464,6 +696,16 @@
    "eklenme": "2026-09-15T10:31:00.144812+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/energy/articles/saudi-oil-pipeline-repairs-could-071500280.html",
+   "baslik": "Saudi Oil Pipeline Repairs Could Take Weeks After Drone Attack",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/saudi-oil-pipeline-repairs-could-071500280.html",
+   "saat": "10:15",
+   "tarih_iso": "2026-09-15T10:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-steady-as-ai-rebound-offsets-oil-rate-and-bondmarket-pressure-4900765",
    "baslik": "Asian stocks slip as AI rebound fades, banks and chips face fresh pressure",
    "kaynak": "Investing.com",
@@ -504,6 +746,16 @@
    "eklenme": "2026-09-15T10:31:00.144812+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
+   "baslik": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
+   "saat": "09:55",
+   "tarih_iso": "2026-09-15T09:55:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/french-inflation-rises-to-26-in-august-4900862",
    "baslik": "French inflation rises to 2.6% in August",
    "kaynak": "Investing.com",
@@ -524,6 +776,16 @@
    "eklenme": "2026-09-15T10:31:00.144812+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bristow-vtol-profit-nearly-doubles-063305925.html",
+   "baslik": "Bristow’s (VTOL) Profit Nearly Doubles While A Government Problem Lingers",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bristow-vtol-profit-nearly-doubles-063305925.html",
+   "saat": "09:33",
+   "tarih_iso": "2026-09-15T09:33:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-088-4900851",
    "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.88%",
    "kaynak": "Investing.com",
@@ -532,6 +794,16 @@
    "tarih_iso": "2026-09-15T09:30:04+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T10:01:04.196294+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/media-advertising/articles/fubotv-fubo-revenue-explosion-meets-062944401.html",
+   "baslik": "FuboTV’s (FUBO) Revenue Explosion Meets A Skeptical Stock Market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/media-advertising/articles/fubotv-fubo-revenue-explosion-meets-062944401.html",
+   "saat": "09:29",
+   "tarih_iso": "2026-09-15T09:29:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-guangzhou-automobile-stock-rallying-today-93CH-4900841",
@@ -896,6 +1168,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/altin-neden-dusuyor-son-dakika-ceyrek-altin-gram-altin-ne-kadar-yarim-altin-fiyati-kac-tl-kapalicarsi-canli-altin-fiyatlari-15-eylul-3466689",
+   "baslik": "ALTIN NEDEN DÜŞÜYOR? SON DAKİKA | Çeyrek Altın, Gram Altın Ne Kadar? Yarım Altın Fiyatı Kaç TL Kapalıçarşı Canlı Altın Fiyatları 15 Eylül 2026",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-neden-dusuyor-son-dakika-ceyrek-altin-gram-altin-ne-kadar-yarim-altin-fiyati-kac-tl-kapalicarsi-canli-altin-fiyatlari-15-eylul-3466689",
+   "saat": "15:16",
+   "tarih_iso": "2026-09-15T15:16:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-15-eylul-2026-canli-ceyrek-altin-gram-altin-ne-kadar-yarim-altin-fiyati-kac-tl-kapalicarsi-altin-fiyatlari-ne-durumda-3466689",
    "baslik": "ALTIN FİYATLARI 15 EYLÜL 2026 CANLI | Çeyrek Altın, Gram Altın Ne Kadar? Yarım Altın Fiyatı Kaç TL? Kapalıçarşı Altın Fiyatları Ne Durumda?",
    "kaynak": "CNN Türk Ekonomi",
@@ -904,6 +1186,26 @@
    "tarih_iso": "2026-09-15T12:10:07+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T09:30:53.239641+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-ve-hisselerde-satis-dalgasi-dolar-guc-topluyor-galeri-840095",
+   "baslik": "Altın ve hisselerde satış dalgası: Dolar güç topluyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-ve-hisselerde-satis-dalgasi-dolar-guc-topluyor-galeri-840095",
+   "saat": "12:06",
+   "tarih_iso": "2026-09-15T12:06:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
+  },
+  {
+   "id": "alt-https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/gold-prices-fall-as-rising-energy-costs-reinforce-rate-hike-expectations-QfyuXsvchUkfIybsoqZm?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Gold Prices Fall as Rising Energy Costs Reinforce Rate-Hike Expectations",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-091526/card/gold-prices-fall-as-rising-energy-costs-reinforce-rate-hike-expectations-QfyuXsvchUkfIybsoqZm?siteid=yhoof2&yptr=yahoo",
+   "saat": "11:57",
+   "tarih_iso": "2026-09-15T11:57:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T12:30:51.953714+03:00"
   },
   {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-15-eylul-2026-canli-ceyrek-altin-ne-kadar-gram-altin-fiyati-kac-tl-kapalicarsi-altin-fiyatlari-ne-durumda-3466689",
@@ -1076,5 +1378,5 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   }
  ],
- "guncelleme": "2026-09-15T12:01:12.352272+03:00"
+ "guncelleme": "2026-09-15T12:30:51.953714+03:00"
 }
