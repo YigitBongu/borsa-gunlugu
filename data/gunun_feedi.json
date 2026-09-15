@@ -433,6 +433,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/haberler/kuresel-borsalar-fed-baskisi-altinda-haberi-840043",
+   "baslik": "Küresel borsalar Fed baskısı altında",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/kuresel-borsalar-fed-baskisi-altinda-haberi-840043",
+   "saat": "08:11",
+   "tarih_iso": "2026-09-15T08:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T08:31:01.779380+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-15-eylul-sali-doviz-kurlari-haberi-840032",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (15 Eylül Salı Döviz Kurları)",
    "kaynak": "Dünya",
@@ -684,6 +694,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+   "baslik": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html",
+   "saat": "08:24",
+   "tarih_iso": "2026-09-15T08:24:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T08:31:01.779380+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/analysisinvestors-nervous-about-ai-spending-slowdown-after-industry-warnings-4900777",
+   "baslik": "Analysis-Investors nervous about AI spending slowdown after industry warnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/analysisinvestors-nervous-about-ai-spending-slowdown-after-industry-warnings-4900777",
+   "saat": "08:06",
+   "tarih_iso": "2026-09-15T08:06:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T08:31:01.779380+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/stockpicking-multimanager-hedge-funds-attract-more-capital-from-investors-in-2026-bofa-says-4900776",
+   "baslik": "Stock-picking, multi-manager hedge funds attract more capital from investors in 2026, BofA says",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/stockpicking-multimanager-hedge-funds-attract-more-capital-from-investors-in-2026-bofa-says-4900776",
+   "saat": "08:06",
+   "tarih_iso": "2026-09-15T08:06:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T08:31:01.779380+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/softbank-group-shares-rebound-as-data-center-unit-sb-energy-pushes-ahead-with-ipo-4900775",
+   "baslik": "Softbank Group shares rebound as data center unit SB Energy pushes ahead with IPO",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/softbank-group-shares-rebound-as-data-center-unit-sb-energy-pushes-ahead-with-ipo-4900775",
+   "saat": "08:06",
+   "tarih_iso": "2026-09-15T08:06:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T08:31:01.779380+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-banks-fall-after-bofa-warns-of-weaker-trading-dealmaking-revenue-4900773",
+   "baslik": "Asian banks fall after BofA warns of weaker trading, dealmaking revenue",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-banks-fall-after-bofa-warns-of-weaker-trading-dealmaking-revenue-4900773",
+   "saat": "07:48",
+   "tarih_iso": "2026-09-15T07:48:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-15T08:31:01.779380+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1",
    "baslik": "Global bonds follow US Treasuries lower",
@@ -1833,56 +1893,6 @@
    "tarih_iso": "2026-09-14T19:01:01+03:00",
    "kodlar": [],
    "eklenme": "2026-09-14T19:30:53.887589+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-   "baslik": "10-year Treasury yield hits 5% for first time since 2023 as traders brace for Fed decision this week",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
-   "saat": "18:59",
-   "tarih_iso": "2026-09-14T18:59:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T19:30:53.887589+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/article/stocks-could-have-a-tough-road-ahead-if-the-fed-hikes-rates-chart-of-the-day-155218683.html",
-   "baslik": "Stocks could have a tough road ahead if the Fed hikes rates: Chart of the Day",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/stocks-could-have-a-tough-road-ahead-if-the-fed-hikes-rates-chart-of-the-day-155218683.html",
-   "saat": "18:52",
-   "tarih_iso": "2026-09-14T18:52:18+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T19:30:53.887589+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-   "baslik": "US tech stocks fall after big AI groups call for slowdown",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-   "saat": "18:51",
-   "tarih_iso": "2026-09-14T18:51:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T21:30:52.851821+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/adyen-outlook-revised-to-positive-by-sp-on-solid-growth-93CH-4900034",
-   "baslik": "Adyen outlook revised to positive by S&P on solid growth",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/adyen-outlook-revised-to-positive-by-sp-on-solid-growth-93CH-4900034",
-   "saat": "18:43",
-   "tarih_iso": "2026-09-14T18:43:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T19:01:05.033365+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/options/articles/jepq-qyld-both-sell-nasdaq-154132731.html",
-   "baslik": "JEPQ and QYLD Both Sell Nasdaq Calls for Income, Yet Only One Has Protected Its Share Price",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/options/articles/jepq-qyld-both-sell-nasdaq-154132731.html",
-   "saat": "18:41",
-   "tarih_iso": "2026-09-14T18:41:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-14T19:01:05.033365+03:00"
   }
  ],
  "altin_haber": [
@@ -2137,5 +2147,5 @@
    "eklenme": "2026-09-14T09:01:04.329383+03:00"
   }
  ],
- "guncelleme": "2026-09-15T08:01:10.461658+03:00"
+ "guncelleme": "2026-09-15T08:31:01.779380+03:00"
 }
