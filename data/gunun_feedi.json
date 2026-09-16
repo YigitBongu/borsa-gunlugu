@@ -2,6 +2,45 @@
  "tarih": "2026-09-16",
  "kap": [
   {
+   "id": "kap-my-EGEEN-202609161255",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EGEEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:55",
+   "tarih_iso": "2026-09-16T12:55:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T13:16:53.936540+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202609161248",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:48",
+   "tarih_iso": "2026-09-16T12:48:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T13:16:53.936540+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202609161247",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "12:47",
+   "tarih_iso": "2026-09-16T12:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T13:16:53.936540+03:00"
+  },
+  {
    "id": "kap-my-AHGAZ-202609161234",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -679,6 +718,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/article/death-of-software-greatly-overstated-as-sector-flips-the-script-on-chip-stocks-chart-of-the-day-100000695.html",
+   "baslik": "Death of software 'greatly overstated' as sector flips the script on chip stocks: Chart of the Day",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/death-of-software-greatly-overstated-as-sector-flips-the-script-on-chip-stocks-chart-of-the-day-100000695.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-09-16T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:16:53.936540+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-16-2026-earn-up-to-440-apy-with-happen-bank-100000125.html",
+   "baslik": "Best CD rates today, Wednesday, September 16, 2026: Earn up to 4.40% APY with Happen Bank",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-wednesday-september-16-2026-earn-up-to-440-apy-with-happen-bank-100000125.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-09-16T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:16:53.936540+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-september-16-2026-rates-ease-somewhat-ahead-of-the-feds-rate-decision-100000213.html",
+   "baslik": "Mortgage and refinance rates today, Wednesday, September 16, 2026: Rates ease somewhat ahead of the Fed's rate decision",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-september-16-2026-rates-ease-somewhat-ahead-of-the-feds-rate-decision-100000213.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-09-16T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:16:53.936540+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alvotech-stock-rallying-5-today-93CH-4903231",
    "baslik": "Why is Alvotech stock rallying 5% today?",
    "kaynak": "Investing.com",
@@ -727,6 +796,16 @@
    "tarih_iso": "2026-09-16T12:37:12+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T13:01:03.449939+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dont-buy-oklo-stock-until-093500253.html",
+   "baslik": "Don't Buy Oklo Stock Until This Catalyst Hits",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/dont-buy-oklo-stock-until-093500253.html",
+   "saat": "12:35",
+   "tarih_iso": "2026-09-16T12:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:16:53.936540+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories",
@@ -907,6 +986,16 @@
    "tarih_iso": "2026-09-16T11:04:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T12:01:05.231306+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
+   "baslik": "Stock market today: Dow, S&P 500, Nasdaq rise ahead of crucial Fed interest rate decision",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
+   "saat": "11:03",
+   "tarih_iso": "2026-09-16T11:03:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:16:53.936540+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tonnellerie-francois-freres-stock-sliding-today-93CH-4903024",
@@ -1291,6 +1380,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://finance.yahoo.com/markets/commodities/articles/gold-prices-rebound-above-4-094741209.html",
+   "baslik": "Gold Prices Rebound Above $4,300 Ahead of Federal Reserve Rate Decision",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/gold-prices-rebound-above-4-094741209.html",
+   "saat": "12:47",
+   "tarih_iso": "2026-09-16T12:47:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:16:53.936540+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-and-silver-where-will-they-move-today-on-the-fomc-decision-200687766",
    "baslik": "Gold and Silver: Where Will They Move Today on the FOMC Decision?",
    "kaynak": "Investing Emtia",
@@ -1481,5 +1580,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-16T13:01:03.449939+03:00"
+ "guncelleme": "2026-09-16T13:16:53.936540+03:00"
 }
