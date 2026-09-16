@@ -2,6 +2,45 @@
  "tarih": "2026-09-16",
  "kap": [
   {
+   "id": "kap-my-HEKTS-202609161930",
+   "baslik": "HEKTAŞ TİCARET T.A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "HEKTAŞ TİCARET T.A.Ş.",
+   "kodlar": [
+    "HEKTS"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "19:30",
+   "tarih_iso": "2026-09-16T19:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "kap-my-SMRTG-202609161903",
+   "baslik": "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş. — Pay Alım Satım Bildirimi",
+   "sirket": "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:03",
+   "tarih_iso": "2026-09-16T19:03:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "kap-my-AGHOL-202609161841",
+   "baslik": "AG ANADOLU GRUBU HOLDİNG A.Ş. — Ortaklık Aleyhine Dava Açılması veya Davaya İlişkin Gelişmeler",
+   "sirket": "AG ANADOLU GRUBU HOLDİNG A.Ş.",
+   "kodlar": [
+    "AGHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:41",
+   "tarih_iso": "2026-09-16T18:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
    "id": "kap-my-BIMAS-202609161647",
    "baslik": "BİM BİRLEŞİK MAĞAZALAR A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
@@ -677,6 +716,126 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/altin/fedin-faiz-sonrasi-altin-duser-mi-cikar-mi-3467591",
+   "baslik": "FED’in faiz sonrası altın düşer mi çıkar mı?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/altin/fedin-faiz-sonrasi-altin-duser-mi-cikar-mi-3467591",
+   "saat": "00:56",
+   "tarih_iso": "2026-09-17T00:56:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/new-york-borsasi-faiz-kararinin-ardindan-dususle-kapandi-haberi-840336",
+   "baslik": "New York borsası, faiz kararının ardından düşüşle kapandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/new-york-borsasi-faiz-kararinin-ardindan-dususle-kapandi-haberi-840336",
+   "saat": "23:50",
+   "tarih_iso": "2026-09-16T23:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/dunya/fedin-faiz-karari-sonrasi-trumptan-tepki-abd-icin-faizleri-suratle-dusurun-haberi-840337",
+   "baslik": "Fed'in faiz kararı sonrası Trump'tan tepki: ABD için faizleri süratle düşürün",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/fedin-faiz-karari-sonrasi-trumptan-tepki-abd-icin-faizleri-suratle-dusurun-haberi-840337",
+   "saat": "23:49",
+   "tarih_iso": "2026-09-16T23:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/warshdan-enflasyon-vurgusu-faiz-artirimini-dogru-adim-olarak-niteledi-haberi-840335",
+   "baslik": "Warsh'dan enflasyon vurgusu: Faiz artırımını doğru adım olarak niteledi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/warshdan-enflasyon-vurgusu-faiz-artirimini-dogru-adim-olarak-niteledi-haberi-840335",
+   "saat": "23:43",
+   "tarih_iso": "2026-09-16T23:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/son-dakika-fed-faiz-kararini-acikladi-3912959",
+   "baslik": "Fed faiz kararını açıkladı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/son-dakika-fed-faiz-kararini-acikladi-3912959",
+   "saat": "23:42",
+   "tarih_iso": "2026-09-16T23:42:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-enflasyonun-uzun-suredir-cok-yuksek-oldugunu-soyledi/4059535",
+   "baslik": "Fed Başkanı Warsh, enflasyonun uzun süredir çok yüksek olduğunu söyledi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-enflasyonun-uzun-suredir-cok-yuksek-oldugunu-soyledi/4059535",
+   "saat": "23:40",
+   "tarih_iso": "2026-09-16T23:40:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/dtek-batarya-depolama-icin-975-milyon-dolar-abd-kredisi-ald-93CH-4068900",
+   "baslik": "DTEK batarya depolama için 97,5 milyon dolar ABD kredisi aldı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/dtek-batarya-depolama-icin-975-milyon-dolar-abd-kredisi-ald-93CH-4068900",
+   "saat": "23:34",
+   "tarih_iso": "2026-09-16T23:34:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/innionun-kredi-notu-moodys-tarafndan-ba3e-yukseltildi-93CH-4068804",
+   "baslik": "INNIO’nun kredi notu Moody’s tarafından Ba3’e yükseltildi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/innionun-kredi-notu-moodys-tarafndan-ba3e-yukseltildi-93CH-4068804",
+   "saat": "22:50",
+   "tarih_iso": "2026-09-16T22:50:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fed-faiz-oranini-25-baz-puan-artirdi-/4059423",
+   "baslik": "Fed, faiz oranını 25 baz puan artırdı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-faiz-oranini-25-baz-puan-artirdi-/4059423",
+   "saat": "21:02",
+   "tarih_iso": "2026-09-16T21:02:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/son-dakika-fed-kritik-faiz-kararini-acikladi-haberi-840328",
+   "baslik": "Son dakika: Fed kritik faiz kararını açıkladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/son-dakika-fed-kritik-faiz-kararini-acikladi-haberi-840328",
+   "saat": "21:00",
+   "tarih_iso": "2026-09-16T21:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/avrupa-borsalari-fed-karari-oncesi-teknoloji-hisseleri-onculugunde-yukseldi-haberi-840326",
+   "baslik": "Avrupa borsaları, Fed kararı öncesi teknoloji hisseleri öncülüğünde yükseldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/avrupa-borsalari-fed-karari-oncesi-teknoloji-hisseleri-onculugunde-yukseldi-haberi-840326",
+   "saat": "20:28",
+   "tarih_iso": "2026-09-16T20:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-840309",
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-840309",
+   "saat": "18:34",
+   "tarih_iso": "2026-09-16T18:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/backops-tedarik-zinciri-otomasyonunda-42-milyon-dolar-toplad-93CH-4068504",
    "baslik": "BackOps tedarik zinciri otomasyonunda 42 milyon dolar topladı",
    "kaynak": "Investing TR",
@@ -1098,6 +1257,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
+   "baslik": "Analysis: How Trump could reignite the Fed independence fight after Warsh's rate hike",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/16/fed-interest-rates-kevin-warsh-trump.html",
+   "saat": "23:55",
+   "tarih_iso": "2026-09-16T23:55:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
+   "baslik": "Why optical stocks Lumentum and Coherent were the day’s biggest S&P 500 gainers",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-optical-stocks-lumentum-and-coherent-were-the-days-biggest-gainers-051af440?mod=mw_rss_topstories",
+   "saat": "23:52",
+   "tarih_iso": "2026-09-16T23:52:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+   "baslik": "Trump demands 1% or lower interest rate after first Fed hike since 2023",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+   "saat": "23:51",
+   "tarih_iso": "2026-09-16T23:51:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+   "baslik": "Here are five key takeaways from Wednesday's Fed rate hike",
+   "kaynak": "CNBC Finans",
+   "link": "https://www.cnbc.com/2026/09/16/here-are-five-key-takeaways-from-wednesdays-fed-rate-hike.html",
+   "saat": "23:43",
+   "tarih_iso": "2026-09-16T23:43:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fluence-energy-stock-plunging-today-93CH-4904546",
+   "baslik": "Why is Fluence Energy stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-fluence-energy-stock-plunging-today-93CH-4904546",
+   "saat": "23:40",
+   "tarih_iso": "2026-09-16T23:40:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
+   "baslik": "Here’s a sneaky way to play the Fed’s rate increase",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/heres-a-sneaky-way-to-play-the-feds-rate-increase-6deb072f?mod=mw_rss_topstories",
+   "saat": "23:38",
+   "tarih_iso": "2026-09-16T23:38:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/generac-stock-surges-18-on-8b-amazon-supply-deal-4904509",
+   "baslik": "Generac stock surges 18% on $8B Amazon supply deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/generac-stock-surges-18-on-8b-amazon-supply-deal-4904509",
+   "saat": "23:32",
+   "tarih_iso": "2026-09-16T23:32:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-121-4904512",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.21%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-121-4904512",
+   "saat": "23:31",
+   "tarih_iso": "2026-09-16T23:31:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-026-4904506",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.26%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-026-4904506",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-16T23:30:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-051-4904505",
+   "baslik": "Brazil stocks lower at close of trade; Bovespa down 0.51%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-051-4904505",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-16T23:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T00:01:11.872262+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bcb-bancorp-stock-plunging-today-93CH-4904499",
    "baslik": "Why is BCB Bancorp stock plunging today?",
@@ -2197,106 +2456,6 @@
    "tarih_iso": "2026-09-16T16:48:08+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T17:30:58.301233+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/articles/oil-pares-gains-stock-futures-085800807.html",
-   "baslik": "Markets Steady as Investors Await Rate Decision",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/articles/oil-pares-gains-stock-futures-085800807.html",
-   "saat": "16:48",
-   "tarih_iso": "2026-09-16T16:48:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T17:01:05.552683+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/forgent-power-solutions-fps-q4-134301999.html",
-   "baslik": "Forgent Power Solutions (FPS) Q4 2026 Earnings Call Transcript",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/forgent-power-solutions-fps-q4-134301999.html",
-   "saat": "16:43",
-   "tarih_iso": "2026-09-16T16:43:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T17:01:05.552683+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/real-estate/articles/costar-csgp-residential-strategy-unchanged-133542445.html",
-   "baslik": "CoStar (CSGP): Residential Strategy Unchanged Despite Persistent Market Skepticism",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/real-estate/articles/costar-csgp-residential-strategy-unchanged-133542445.html",
-   "saat": "16:35",
-   "tarih_iso": "2026-09-16T16:35:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T17:01:05.552683+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
-   "baslik": "Oil prices fall after U.S. says damaged Saudi pipeline will restart operations in days",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
-   "saat": "16:31",
-   "tarih_iso": "2026-09-16T16:31:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T17:01:05.552683+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
-   "baslik": "What history says about longer-term bond yields after an initial Fed hike",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/what-history-says-about-longer-term-bond-yields-after-the-first-fed-hike-53eaae9f?mod=mw_rss_topstories",
-   "saat": "16:30",
-   "tarih_iso": "2026-09-16T16:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T18:18:17.659972+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bull-case-netflix-nflx-growth-132531860.html",
-   "baslik": "The Bull Case for Netflix’s (NFLX) New Growth Engine",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/bull-case-netflix-nflx-growth-132531860.html",
-   "saat": "16:25",
-   "tarih_iso": "2026-09-16T16:25:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T17:01:05.552683+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/3a88d016-9575-4c11-bd34-14606964a867?syn-25a6b1a6=1",
-   "baslik": "Chinese oil prices hit record highs after attacks on Saudi pipeline",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/3a88d016-9575-4c11-bd34-14606964a867?syn-25a6b1a6=1",
-   "saat": "16:24",
-   "tarih_iso": "2026-09-16T16:24:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T20:01:07.163174+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-   "baslik": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
-   "saat": "16:19",
-   "tarih_iso": "2026-09-16T16:19:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T19:01:08.904131+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-   "baslik": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-   "saat": "16:17",
-   "tarih_iso": "2026-09-16T16:17:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T16:30:57.208115+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
-   "baslik": "OpenAI investors have approached the company about a new funding round",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
-   "saat": "16:16",
-   "tarih_iso": "2026-09-16T16:16:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T16:30:57.208115+03:00"
   }
  ],
  "altin_haber": [
@@ -2621,5 +2780,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-16T23:30:56.774399+03:00"
+ "guncelleme": "2026-09-17T00:01:11.872262+03:00"
 }
