@@ -2,6 +2,45 @@
  "tarih": "2026-09-16",
  "kap": [
   {
+   "id": "kap-my-TKFEN-202609160916",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:16",
+   "tarih_iso": "2026-09-16T09:16:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T10:01:03.794573+03:00"
+  },
+  {
+   "id": "kap-my-BIMAS-202609160910",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "BIMAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:10",
+   "tarih_iso": "2026-09-16T09:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T10:01:03.794573+03:00"
+  },
+  {
+   "id": "kap-my-GWIND-202609160908",
+   "baslik": "GALATA WIND ENERJİ A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "GALATA WIND ENERJİ A.Ş.",
+   "kodlar": [
+    "GWIND"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:08",
+   "tarih_iso": "2026-09-16T09:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T10:01:03.794573+03:00"
+  },
+  {
    "id": "kap-my-SASA-202609160808",
    "baslik": "SASA POLYESTER SANAYİ A.Ş. — Kredi Derecelendirmesi",
    "sirket": "SASA POLYESTER SANAYİ A.Ş.",
@@ -17,6 +56,16 @@
  ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/fed-faiz-karari-dolar-euro-ve-borsayi-nasil-etkiler-faiz-artarsa-duserse-sabit-kalirsa-ne-olur-dolar-tl-ve-euro-tl-icin-kritik-3467214",
+   "baslik": "FED FAİZ KARARI DOLAR, EURO VE BORSAYI NASIL ETKİLER? Faiz Artarsa, Düşerse, Sabit Kalırsa Ne Olur? Dolar/TL ve Euro/TL İçin Kritik Gün! Fed Kararı Piyasaları Nasıl Etkileyecek?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/fed-faiz-karari-dolar-euro-ve-borsayi-nasil-etkiler-faiz-artarsa-duserse-sabit-kalirsa-ne-olur-dolar-tl-ve-euro-tl-icin-kritik-3467214",
+   "saat": "12:52",
+   "tarih_iso": "2026-09-16T12:52:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T10:01:03.794573+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/altin/altinin-kader-gunu-gozler-fedde-beklenti-ne-3467090",
    "baslik": "Altının kader günü! Gözler Fed'de: Beklenti ne?",
@@ -36,6 +85,16 @@
    "tarih_iso": "2026-09-16T11:29:51+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/databricks-singapura-350-milyon-dolar-yatrm-planlyor-93CH-4067455",
+   "baslik": "Databricks Singapur’a 350 milyon dolar yatırım planlıyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/databricks-singapura-350-milyon-dolar-yatrm-planlyor-93CH-4067455",
+   "saat": "09:17",
+   "tarih_iso": "2026-09-16T09:17:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T10:01:03.794573+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararina-cevrildi/4058477",
@@ -139,6 +198,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-rallying-today-93CH-4902952",
+   "baslik": "Why is SK Hynix stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-rallying-today-93CH-4902952",
+   "saat": "09:43",
+   "tarih_iso": "2026-09-16T09:43:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T10:01:03.794573+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-028-4902939",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.28%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-028-4902939",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-16T09:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T10:01:03.794573+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
    "baslik": "UK inflation jumps to 3.1% as energy costs soar",
@@ -422,6 +501,16 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/golds-correction-meets-weekly-support-reversion-or-breakdown-ahead-200687746",
+   "baslik": "Gold’s Correction Meets Weekly Support: Reversion or Breakdown Ahead?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-correction-meets-weekly-support-reversion-or-breakdown-ahead-200687746",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-16T10:01:03.794573+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-falls-as-energy-prices-strengthen-rate-hike-expectations-200687705",
    "baslik": "Gold Falls as Energy Prices Strengthen Rate Hike Expectations",
    "kaynak": "Investing Emtia",
@@ -512,5 +601,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-16T09:30:51.889169+03:00"
+ "guncelleme": "2026-09-16T10:01:03.794573+03:00"
 }
