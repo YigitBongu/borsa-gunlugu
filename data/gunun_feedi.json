@@ -2,6 +2,71 @@
  "tarih": "2026-09-16",
  "kap": [
   {
+   "id": "kap-my-AEFES-202609161534",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "AEFES"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:34",
+   "tarih_iso": "2026-09-16T15:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "kap-my-THYAO-202609161533",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "THYAO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:33",
+   "tarih_iso": "2026-09-16T15:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "kap-my-ECZYT-202609161525",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ECZYT"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:25",
+   "tarih_iso": "2026-09-16T15:25:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "kap-my-DOAS-202609161520",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "DOAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:20",
+   "tarih_iso": "2026-09-16T15:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "kap-my-FROTO-202609161520",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "FROTO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:20",
+   "tarih_iso": "2026-09-16T15:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
    "id": "kap-my-SKBNK-202609161436",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -559,6 +624,26 @@
    "eklenme": "2026-09-16T14:01:05.123196+03:00"
   },
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/jpmorgann-fed-senaryo-analizi-sp-500-icin-5-yol-4068306",
+   "baslik": "JPMorgan’ın Fed senaryo analizi: S&P 500 için 5 yol",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/jpmorgann-fed-senaryo-analizi-sp-500-icin-5-yol-4068306",
+   "saat": "15:52",
+   "tarih_iso": "2026-09-16T15:52:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-fed-faiz-karar-oncesi-yukseldi-4068223",
+   "baslik": "TSX vadeli işlemleri Fed faiz kararı öncesi yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-fed-faiz-karar-oncesi-yukseldi-4068223",
+   "saat": "15:32",
+   "tarih_iso": "2026-09-16T15:32:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/borsa-neden-dustu-bist100de-sert-dusus-borsa-istanbul-neden-dusuyor-son-durum-ne-3467317",
    "baslik": "BORSA NEDEN DÜŞTÜ? BİST100’de sert düşüş | Borsa İstanbul bugün neden düşüyor, son durum ne?",
    "kaynak": "CNN Türk Ekonomi",
@@ -920,6 +1005,136 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/traders-are-betting-trump-may-soon-turn-on-fed-chair-kevin-warsh-as-interest-rate-hikes-loom-b0dfff2a?mod=mw_rss_topstories",
+   "baslik": "Traders are betting Trump may soon turn on Fed chair Kevin Warsh as interest-rate hikes loom",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/traders-are-betting-trump-may-soon-turn-on-fed-chair-kevin-warsh-as-interest-rate-hikes-loom-b0dfff2a?mod=mw_rss_topstories",
+   "saat": "15:53",
+   "tarih_iso": "2026-09-16T15:53:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+   "baslik": "Stock Market Today: Dow Rises Ahead Of Likely Fed Hike, Warsh Comments; Intel, SK Hynix Jump (Live Coverage)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-rate-hike-warsh-intel-sk-hynix/?src=A00220&yptr=yahoo",
+   "saat": "15:47",
+   "tarih_iso": "2026-09-16T15:47:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nuscale-power-just-solved-major-124600015.html",
+   "baslik": "NuScale Power Just Solved a Major Engineering Hurdle: Is the Stock a Buy?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-just-solved-major-124600015.html",
+   "saat": "15:46",
+   "tarih_iso": "2026-09-16T15:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/seattle-single-income-mom-homeschooling-124500141.html",
+   "baslik": "Seattle single-income mom homeschooling her kids discovers she owns $18M in one stock. What Dave Ramsey says to do next",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/seattle-single-income-mom-homeschooling-124500141.html",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-16T15:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/axon-stock-falls-convertible-bond-sp-500/?src=A00220&yptr=yahoo",
+   "baslik": "Axon Stock Hit By $1 Billion Convertible Amid Cash Flow Squeeze",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/axon-stock-falls-convertible-bond-sp-500/?src=A00220&yptr=yahoo",
+   "saat": "15:43",
+   "tarih_iso": "2026-09-16T15:43:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/retail-sales-surged-toward-the-end-of-summer-economy-still-has-plenty-of-momentum-cdf667b2?mod=mw_rss_topstories",
+   "baslik": "Retail sales surged toward the end of summer. Economy still has plenty of momentum.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/retail-sales-surged-toward-the-end-of-summer-economy-still-has-plenty-of-momentum-cdf667b2?mod=mw_rss_topstories",
+   "saat": "15:42",
+   "tarih_iso": "2026-09-16T15:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-stock-beating-nu-124101333.html",
+   "baslik": "JPMorgan Chase Stock Is Beating Nu This Year, but Only One of Them Had Positive Free Cash Flow Last Year",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-stock-beating-nu-124101333.html",
+   "saat": "15:41",
+   "tarih_iso": "2026-09-16T15:41:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/dune-oil-updates-otcqb-symbol-123600094.html",
+   "baslik": "Dune Oil updates OTCQB symbol, closes further private placement financing",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/dune-oil-updates-otcqb-symbol-123600094.html",
+   "saat": "15:36",
+   "tarih_iso": "2026-09-16T15:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
+   "baslik": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
+   "saat": "15:35",
+   "tarih_iso": "2026-09-16T15:35:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-invested-oracle-123500522.html",
+   "baslik": "Prediction: $1,000 Invested in Oracle Stock Could Be Worth This Much by 2030",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-1-000-invested-oracle-123500522.html",
+   "saat": "15:35",
+   "tarih_iso": "2026-09-16T15:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-24-revenue-123012360.html",
+   "baslik": "Alphabet (GOOG) Surges 24% as Revenue Growth Soars — But Is $190 Billion in Capex Too Much?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-24-revenue-123012360.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-09-16T15:30:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/cox-acquisition-reverse-charter-communications-122123568.html",
+   "baslik": "Can the Cox Acquisition Reverse Charter Communications’ (CHTR) Broadband Growth Concerns?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/cox-acquisition-reverse-charter-communications-122123568.html",
+   "saat": "15:21",
+   "tarih_iso": "2026-09-16T15:21:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
+   "baslik": "S&P 500 Trucking Stock Craters On CFO's Warning",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/sp-500-stocks-jb-hunt-cfo-earnings-oil-diesel-prices-iran-war/?src=A00220&yptr=yahoo",
+   "saat": "15:17",
+   "tarih_iso": "2026-09-16T15:17:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:01:06.686476+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wednesday-top-wall-street-analyst-120735558.html",
    "baslik": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Airbnb, Booking Holdings, Credicorp, Dutch Bros, Expedia, Hartford Financial Services, Group, Meritage Homes, Patchex, Yum! Brands, and More",
@@ -1989,136 +2204,6 @@
    "tarih_iso": "2026-09-16T07:50:34+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/f62e467a-bcb6-423d-96f2-b2b1e08faaa8?syn-25a6b1a6=1",
-   "baslik": "Fed should defy Trump with rate rise, top economists say",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/f62e467a-bcb6-423d-96f2-b2b1e08faaa8?syn-25a6b1a6=1",
-   "saat": "07:00",
-   "tarih_iso": "2026-09-16T07:00:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
-   "baslik": "How rising bond yields impact American consumers",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
-   "saat": "06:58",
-   "tarih_iso": "2026-09-16T06:58:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
-   "baslik": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
-   "saat": "04:56",
-   "tarih_iso": "2026-09-16T04:56:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
-   "baslik": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
-   "saat": "02:09",
-   "tarih_iso": "2026-09-16T02:09:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
-   "baslik": "These 4 stocks could benefit most from a $3.2 trillion semiconductor opportunity",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/these-four-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity-e6bf58b4?mod=mw_rss_topstories",
-   "saat": "00:40",
-   "tarih_iso": "2026-09-16T00:40:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
-   "baslik": "How the Iran war is transforming the relationship between stocks, bonds and oil",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/2-charts-showing-how-oil-is-becoming-the-global-markets-biggest-wild-card-ec273da8?mod=mw_rss_topstories",
-   "saat": "00:34",
-   "tarih_iso": "2026-09-16T00:34:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-   "baslik": "AI stocks are rebounding. One analyst says there’s no spending slowdown in sight.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/ai-stocks-are-rebounding-one-analyst-says-theres-no-spending-slowdown-in-sight-8fd99c4b?mod=mw_rss_topstories",
-   "saat": "00:15",
-   "tarih_iso": "2026-09-16T00:15:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
-   "baslik": "Inflation killed the penny. Now it’s coming for your dollar.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/inflation-killed-the-penny-now-its-coming-for-your-dollar-78336cd8?mod=mw_rss_topstories",
-   "saat": "00:00",
-   "tarih_iso": "2026-09-16T00:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-   "baslik": "Why a Federal Reserve rate hike could be a ‘rare win’ for your retirement money",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/why-a-federal-reserve-rate-hike-could-be-a-rare-win-for-your-retirement-money-3ae337df?mod=mw_rss_topstories",
-   "saat": "23:47",
-   "tarih_iso": "2026-09-15T23:47:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
-   "baslik": "Oracle’s stock falls for the fifth day in a row — missing out on the AI bounce",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/oracles-stock-falls-for-the-fifth-day-in-a-row-missing-out-on-the-ai-bounce-9150c9ed?mod=mw_rss_topstories",
-   "saat": "23:31",
-   "tarih_iso": "2026-09-15T23:31:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
-   "baslik": "Saudi pipeline closure is a brief interruption that will last days, U.S. Energy secretary tells CNBC",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/15/saud-arabia-east-west-pipeline-iran-war-chris-wright.html",
-   "saat": "21:29",
-   "tarih_iso": "2026-09-15T21:29:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/15/bonds-yield-10year-treasury-rates.html",
-   "baslik": "Beaten-up bond market may be nearing 'escape velocity.' Here's what that means",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/15/bonds-yield-10year-treasury-rates.html",
-   "saat": "19:53",
-   "tarih_iso": "2026-09-15T19:53:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
-   "baslik": "No one and done: The Fed will hike at least two times over the next year, according to CNBC survey",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html",
-   "saat": "17:02",
-   "tarih_iso": "2026-09-15T17:02:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
  "altin_haber": [
@@ -2343,5 +2428,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-16T15:30:54.028203+03:00"
+ "guncelleme": "2026-09-16T16:01:06.686476+03:00"
 }
