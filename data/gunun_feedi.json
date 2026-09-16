@@ -2,6 +2,19 @@
  "tarih": "2026-09-16",
  "kap": [
   {
+   "id": "kap-my-ECILC-202609161603",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ECILC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:03",
+   "tarih_iso": "2026-09-16T16:03:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
    "id": "kap-my-AEFES-202609161534",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -624,6 +637,26 @@
    "eklenme": "2026-09-16T14:01:05.123196+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/ekonomi/borsa-istanbulda-sert-dusus-devre-kesici-devreye-girdi-haberi-840284",
+   "baslik": "Borsa İstanbul’da sert düşüş: Devre kesici devreye girdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/borsa-istanbulda-sert-dusus-devre-kesici-devreye-girdi-haberi-840284",
+   "saat": "16:17",
+   "tarih_iso": "2026-09-16T16:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/sling-therapeutics-tiroid-goz-hastalg-ilac-icin-123-milyon-dolar-toplad-93CH-4068355",
+   "baslik": "Sling Therapeutics tiroid göz hastalığı ilacı için 123 milyon dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/sling-therapeutics-tiroid-goz-hastalg-ilac-icin-123-milyon-dolar-toplad-93CH-4068355",
+   "saat": "16:10",
+   "tarih_iso": "2026-09-16T16:10:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/jpmorgann-fed-senaryo-analizi-sp-500-icin-5-yol-4068306",
    "baslik": "JPMorgan’ın Fed senaryo analizi: S&P 500 için 5 yol",
    "kaynak": "Investing TR",
@@ -1005,6 +1038,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+   "baslik": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
+   "saat": "16:17",
+   "tarih_iso": "2026-09-16T16:17:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
+   "baslik": "OpenAI investors have approached the company about a new funding round",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/16/open-ai-investors-new-funding-round.html",
+   "saat": "16:16",
+   "tarih_iso": "2026-09-16T16:16:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/real-remax-group-reax-stock-130724417.html",
+   "baslik": "Real REMAX Group (REAX) Stock Weakness Reflects Fears of AI-Driven Market Changes",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/real-remax-group-reax-stock-130724417.html",
+   "saat": "16:07",
+   "tarih_iso": "2026-09-16T16:07:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/options/articles/10-treasury-broke-5-long-130528808.html",
+   "baslik": "The 10-Year Treasury Broke 5% and Long Bond Holders Are Not Getting Rescued",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/options/articles/10-treasury-broke-5-long-130528808.html",
+   "saat": "16:05",
+   "tarih_iso": "2026-09-16T16:05:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corp-short-position-130509545.html",
+   "baslik": "Bloom Energy Corp. (BE) Short Position Weighs on Performance Amid Small-Cap AI Rally",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-corp-short-position-130509545.html",
+   "saat": "16:05",
+   "tarih_iso": "2026-09-16T16:05:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/geron-eyes-high-end-2026-130243606.html",
+   "baslik": "Geron Eyes High End of 2026 RYTELO Revenue Guidance as Community Adoption Expands",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/geron-eyes-high-end-2026-130243606.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-09-16T16:02:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ispire-technology-q4-earnings-call-130242344.html",
+   "baslik": "Ispire Technology Q4 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ispire-technology-q4-earnings-call-130242344.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-09-16T16:02:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/mcbride-h2-earnings-call-highlights-130240609.html",
+   "baslik": "McBride H2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mcbride-h2-earnings-call-highlights-130240609.html",
+   "saat": "16:02",
+   "tarih_iso": "2026-09-16T16:02:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-a-strategist-who-previously-thought-inflation-was-contained-now-sees-potential-for-aggressive-fed-rate-hikes-33ecaf04?mod=mw_rss_topstories",
+   "baslik": "Why a strategist who previously thought inflation was contained now sees potential for aggressive Fed rate hikes",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-a-strategist-who-previously-thought-inflation-was-contained-now-sees-potential-for-aggressive-fed-rate-hikes-33ecaf04?mod=mw_rss_topstories",
+   "saat": "16:01",
+   "tarih_iso": "2026-09-16T16:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/white-house-thinks-fed-hike-130030332.html",
+   "baslik": "The White House Thinks the Fed Is About to Hike Into a Slowdown",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/white-house-thinks-fed-hike-130030332.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-09-16T16:00:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T16:30:57.208115+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/traders-are-betting-trump-may-soon-turn-on-fed-chair-kevin-warsh-as-interest-rate-hikes-loom-b0dfff2a?mod=mw_rss_topstories",
    "baslik": "Traders are betting Trump may soon turn on Fed chair Kevin Warsh as interest-rate hikes loom",
@@ -2104,106 +2237,6 @@
    "tarih_iso": "2026-09-16T09:16:50+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T09:30:51.889169+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/japanese-real-estate-stocks-rise-tracking-higher-land-prices-4902901",
-   "baslik": "Japanese real estate stocks rise tracking higher land prices",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/japanese-real-estate-stocks-rise-tracking-higher-land-prices-4902901",
-   "saat": "09:00",
-   "tarih_iso": "2026-09-16T09:00:13+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:30:51.889169+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-065-4902900",
-   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.65%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-065-4902900",
-   "saat": "09:00",
-   "tarih_iso": "2026-09-16T09:00:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:30:51.889169+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/are-uk-equities-too-cheap-to-ignore-despite-weak-investor-demand-barclays-weighs-4902894",
-   "baslik": "Are UK equities too cheap to ignore despite weak investor demand? Barclays weighs",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/are-uk-equities-too-cheap-to-ignore-despite-weak-investor-demand-barclays-weighs-4902894",
-   "saat": "08:55",
-   "tarih_iso": "2026-09-16T08:55:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html",
-   "baslik": "Bond yields are spiking, oil is up — but investors aren’t giving up on stocks",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/16/investors-bullish-stocks-oil-yields-ai.html",
-   "saat": "08:51",
-   "tarih_iso": "2026-09-16T08:51:13+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
-   "baslik": "Oil falls as U.S. crude inventories reportedly rise, traders weigh Saudi pipeline closure",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/16/oil-prices-today-brent-wti-hormuz-iran-war.html",
-   "saat": "08:39",
-   "tarih_iso": "2026-09-16T08:39:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/chinese-chipmakers-electronics-stocks-rise-on-hopes-of-govt-support-after-5year-4902887",
-   "baslik": "Chinese chipmakers, electronics stocks rise on hopes of govt support after 5-year",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/chinese-chipmakers-electronics-stocks-rise-on-hopes-of-govt-support-after-5year-4902887",
-   "saat": "08:37",
-   "tarih_iso": "2026-09-16T08:37:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/16/10-year-treasury-yeilds-rise-impact-markets.html",
-   "baslik": "Treasury yields hitting 5% may not break markets now — but the clock is ticking",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/16/10-year-treasury-yeilds-rise-impact-markets.html",
-   "saat": "08:28",
-   "tarih_iso": "2026-09-16T08:28:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-contemporary-amperex-technology-stock-sliding-today-93CH-4902882",
-   "baslik": "Why is Contemporary Amperex Technology stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-contemporary-amperex-technology-stock-sliding-today-93CH-4902882",
-   "saat": "08:20",
-   "tarih_iso": "2026-09-16T08:20:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cmdx5494q6ggo?at_medium=RSS&at_campaign=rss",
-   "baslik": "Traffic, tourism and economy among election concerns",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cmdx5494q6ggo?at_medium=RSS&at_campaign=rss",
-   "saat": "08:09",
-   "tarih_iso": "2026-09-16T08:09:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/chinese-stocks-to-watch-as-beijings-20262030-electronics-plan-takes-shape-93CH-4902878",
-   "baslik": "Chinese stocks to watch as Beijing’s 2026-2030 electronics plan takes shape",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/chinese-stocks-to-watch-as-beijings-20262030-electronics-plan-takes-shape-93CH-4902878",
-   "saat": "07:50",
-   "tarih_iso": "2026-09-16T07:50:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
  "altin_haber": [
@@ -2428,5 +2461,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-16T16:01:06.686476+03:00"
+ "guncelleme": "2026-09-16T16:30:57.208115+03:00"
 }
