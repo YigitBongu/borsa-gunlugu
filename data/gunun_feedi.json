@@ -2,6 +2,32 @@
  "tarih": "2026-09-16",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202609161005",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "10:05",
+   "tarih_iso": "2026-09-16T10:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T10:30:54.293881+03:00"
+  },
+  {
+   "id": "kap-my-GUBRF-202609161003",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GUBRF"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:03",
+   "tarih_iso": "2026-09-16T10:03:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T10:30:54.293881+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609160916",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -85,6 +111,16 @@
    "tarih_iso": "2026-09-16T11:29:51+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-irana-karsi-en-buyuk-ekonomik-yalnizlastirma-kampanyasini-yuruttuklerini-savundu/4058562",
+   "baslik": "ABD Hazine Bakanı, İran'a karşı \"en büyük ekonomik yalnızlaştırma kampanyasını\" yürüttüklerini savundu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-irana-karsi-en-buyuk-ekonomik-yalnizlastirma-kampanyasini-yuruttuklerini-savundu/4058562",
+   "saat": "10:26",
+   "tarih_iso": "2026-09-16T10:26:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T10:30:54.293881+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/databricks-singapura-350-milyon-dolar-yatrm-planlyor-93CH-4067455",
@@ -198,6 +234,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-rise-from-3month-lows-as-traders-await-highstakes-fed-decision-4902888",
+   "baslik": "European stocks rise from 3-month lows as traders await high-stakes Fed decision",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-rise-from-3month-lows-as-traders-await-highstakes-fed-decision-4902888",
+   "saat": "10:13",
+   "tarih_iso": "2026-09-16T10:13:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T10:30:54.293881+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-078-4902968",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.78%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-078-4902968",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-16T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T10:30:54.293881+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-edge-higher-as-fed-decision-looms-oil-rally-pauses-4902864",
+   "baslik": "Asian stocks edge higher as Fed decision looms, oil rally pauses",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asian-stocks-edge-higher-as-fed-decision-looms-oil-rally-pauses-4902864",
+   "saat": "09:59",
+   "tarih_iso": "2026-09-16T09:59:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T10:30:54.293881+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-rallying-today-93CH-4902952",
    "baslik": "Why is SK Hynix stock rallying today?",
@@ -511,6 +577,16 @@
    "eklenme": "2026-09-16T10:01:03.794573+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/finans/haberler/unlu-yatirimci-altindan-daha-guclu-diyerek-tercihini-acikladi-haberi-840221",
+   "baslik": "Ünlü yatırımcı 'altından daha güçlü' diyerek tercihini açıkladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/unlu-yatirimci-altindan-daha-guclu-diyerek-tercihini-acikladi-haberi-840221",
+   "saat": "09:47",
+   "tarih_iso": "2026-09-16T09:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T10:30:54.293881+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-falls-as-energy-prices-strengthen-rate-hike-expectations-200687705",
    "baslik": "Gold Falls as Energy Prices Strengthen Rate Hike Expectations",
    "kaynak": "Investing Emtia",
@@ -601,5 +677,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-16T10:01:03.794573+03:00"
+ "guncelleme": "2026-09-16T10:30:54.293881+03:00"
 }
