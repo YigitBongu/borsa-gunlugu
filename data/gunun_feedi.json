@@ -2,6 +2,19 @@
  "tarih": "2026-09-16",
  "kap": [
   {
+   "id": "kap-my-YYLGD-202609161334",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "YYLGD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:34",
+   "tarih_iso": "2026-09-16T13:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
    "id": "kap-my-GLYHO-202609161315",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -472,6 +485,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/borsa-neden-dustu-bist100de-sert-dusus-borsa-istanbul-bugun-neden-dusuyor-son-durum-ne-3467317",
+   "baslik": "BORSA NEDEN DÜŞTÜ? BİST100’de sert düşüş | Borsa İstanbul bugün neden düşüyor, son durum ne?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/borsa-neden-dustu-bist100de-sert-dusus-borsa-istanbul-bugun-neden-dusuyor-son-durum-ne-3467317",
+   "saat": "16:48",
+   "tarih_iso": "2026-09-16T16:48:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/borsa-neden-dustu-bist100de-sert-dusus-borsa-istanbul-neden-dusuyor-son-durum-ne-3467317",
    "baslik": "BORSA NEDEN DÜŞTÜ? BİST100’de sert düşüş | Borsa İstanbul bugün neden düşüyor, son durum ne?",
    "kaynak": "CNN Türk Ekonomi",
@@ -480,6 +503,36 @@
    "tarih_iso": "2026-09-16T14:51:36+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T12:01:05.231306+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-secim-surecinde-de-dezenflasyondan-vazgecmeyecegiz/4058907",
+   "baslik": "Hazine ve Maliye Bakanı Şimşek: Seçim sürecinde de dezenflasyondan vazgeçmeyeceğiz",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-secim-surecinde-de-dezenflasyondan-vazgecmeyecegiz/4058907",
+   "saat": "13:52",
+   "tarih_iso": "2026-09-16T13:52:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-sanayi-uretimi-temmuzda-azaldi-haberi-840263",
+   "baslik": "Euro Bölgesi'nde sanayi üretimi temmuzda azaldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/euro-bolgesinde-sanayi-uretimi-temmuzda-azaldi-haberi-840263",
+   "saat": "13:47",
+   "tarih_iso": "2026-09-16T13:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fomc-toplants-fedin-faiz-artrm-gunlerinde-hisseler-nasl-performans-gosteriyor-4067902",
+   "baslik": "FOMC Toplantısı: Fed’in faiz artırım günlerinde hisseler nasıl performans gösteriyor?",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fomc-toplants-fedin-faiz-artrm-gunlerinde-hisseler-nasl-performans-gosteriyor-4067902",
+   "saat": "13:30",
+   "tarih_iso": "2026-09-16T13:30:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbulda-gunun-ilk-yarisi-kirmizi-satislar-hizlandi-haberi-840260",
@@ -753,6 +806,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/novva-acquire-3-17gw-argentine-104502063.html",
+   "baslik": "Novva to acquire 3.17GW of Argentine renewable assets from ABO Energy",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/novva-acquire-3-17gw-argentine-104502063.html",
+   "saat": "13:45",
+   "tarih_iso": "2026-09-16T13:45:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/the-italian-sea-group-stock-surges-on-11-nonbinding-takeover-offers-93CH-4903338",
+   "baslik": "The Italian Sea Group stock surges on 11 non-binding takeover offers",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/the-italian-sea-group-stock-surges-on-11-nonbinding-takeover-offers-93CH-4903338",
+   "saat": "13:44",
+   "tarih_iso": "2026-09-16T13:44:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-luxexperience-stock-surging-today-93CH-4903336",
+   "baslik": "Why is LuxExperience stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-luxexperience-stock-surging-today-93CH-4903336",
+   "saat": "13:43",
+   "tarih_iso": "2026-09-16T13:43:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/ionq-vs-rigetti-computing-pure-104100526.html",
+   "baslik": "IonQ vs. Rigetti Computing: Which Pure-Play Quantum Stock Actually Has the Technology Edge?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/ionq-vs-rigetti-computing-pure-104100526.html",
+   "saat": "13:41",
+   "tarih_iso": "2026-09-16T13:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html",
+   "baslik": "Gold price today, Wednesday, September 16, 2026: Gold holds in the $4,300 range, awaiting the Fed's decision",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html",
+   "saat": "13:40",
+   "tarih_iso": "2026-09-16T13:40:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/totalenergies-mistral-launch-oil-gas-103748512.html",
+   "baslik": "TotalEnergies and Mistral launch oil and gas AI partnership",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/totalenergies-mistral-launch-oil-gas-103748512.html",
+   "saat": "13:37",
+   "tarih_iso": "2026-09-16T13:37:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-beta-bionics-stock-sliding-today-93CH-4903323",
+   "baslik": "Why is Beta Bionics stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-beta-bionics-stock-sliding-today-93CH-4903323",
+   "saat": "13:37",
+   "tarih_iso": "2026-09-16T13:37:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/too-buy-nvidia-stock-103500667.html",
+   "baslik": "Is It Too Late to Buy Nvidia Stock?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/too-buy-nvidia-stock-103500667.html",
+   "saat": "13:35",
+   "tarih_iso": "2026-09-16T13:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/needham-says-buy-crypto-stocks-after-selloff-amid-senate-block-of-digital-asset-bill-93CH-4903313",
+   "baslik": "Needham says buy crypto stocks after selloff amid Senate block of digital asset bill",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/needham-says-buy-crypto-stocks-after-selloff-amid-senate-block-of-digital-asset-bill-93CH-4903313",
+   "saat": "13:33",
+   "tarih_iso": "2026-09-16T13:33:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/trade-the-fomc-how-stocks-tend-to-perform-on-fed-hike-days-4903306",
+   "baslik": "Trade the FOMC: How stocks tend to perform on Fed hike days",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/trade-the-fomc-how-stocks-tend-to-perform-on-fed-hike-days-4903306",
+   "saat": "13:30",
+   "tarih_iso": "2026-09-16T13:30:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/5-treasury-yields-mean-americas-debt-bill-just-got-a-lot-bigger-8a5702b0?mod=mw_rss_topstories",
    "baslik": "5% Treasury yields mean America’s debt bill just got a lot bigger",
@@ -1606,6 +1759,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html",
+   "baslik": "Gold price today, Wednesday, September 16, 2026: Gold holds in the $4,300 range, awaiting the Fed's decision",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html",
+   "saat": "13:40",
+   "tarih_iso": "2026-09-16T13:40:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T14:01:05.123196+03:00"
+  },
+  {
    "id": "alt-https://finance.yahoo.com/markets/commodities/articles/gold-prices-rebound-above-4-094741209.html",
    "baslik": "Gold Prices Rebound Above $4,300 Ahead of Federal Reserve Rate Decision",
    "kaynak": "Yahoo Finance",
@@ -1806,5 +1969,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-16T13:44:23.754149+03:00"
+ "guncelleme": "2026-09-16T14:01:05.123196+03:00"
 }
