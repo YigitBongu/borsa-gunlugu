@@ -2,6 +2,45 @@
  "tarih": "2026-09-16",
  "kap": [
   {
+   "id": "kap-my-KMPUR-202609161110",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KMPUR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:10",
+   "tarih_iso": "2026-09-16T11:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T12:01:05.231306+03:00"
+  },
+  {
+   "id": "kap-my-VESBE-202609161109",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "VESBE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:09",
+   "tarih_iso": "2026-09-16T11:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T12:01:05.231306+03:00"
+  },
+  {
+   "id": "kap-my-KORDS-202609161109",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:09",
+   "tarih_iso": "2026-09-16T11:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T12:01:05.231306+03:00"
+  },
+  {
    "id": "kap-my-BUCIM-202609161105",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -330,6 +369,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/borsa-neden-dustu-bist100de-sert-dusus-borsa-istanbul-neden-dusuyor-son-durum-ne-3467317",
+   "baslik": "BORSA NEDEN DÜŞTÜ? BİST100’de sert düşüş | Borsa İstanbul bugün neden düşüyor, son durum ne?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/borsa-neden-dustu-bist100de-sert-dusus-borsa-istanbul-neden-dusuyor-son-durum-ne-3467317",
+   "saat": "14:51",
+   "tarih_iso": "2026-09-16T14:51:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T12:01:05.231306+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/fed-faiz-karari-dolar-euro-ve-borsayi-nasil-etkiler-faiz-artarsa-duserse-sabit-kalirsa-ne-olur-dolar-tl-ve-euro-tl-icin-kritik-3467214",
    "baslik": "FED FAİZ KARARI DOLAR, EURO VE BORSAYI NASIL ETKİLER? Faiz Artarsa, Düşerse, Sabit Kalırsa Ne Olur? Dolar/TL ve Euro/TL İçin Kritik Gün! Fed Kararı Piyasaları Nasıl Etkileyecek?",
    "kaynak": "CNN Türk Ekonomi",
@@ -368,6 +417,16 @@
    "tarih_iso": "2026-09-16T11:21:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T11:30:54.603280+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/bakan-simsekten-memur-ve-emekliye-zam-aciklamasi-en-az-enflasyon-kadar-haberi-840241",
+   "baslik": "Bakan Şimşek’ten memur ve emekliye zam açıklaması: En az enflasyon kadar...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bakan-simsekten-memur-ve-emekliye-zam-aciklamasi-en-az-enflasyon-kadar-haberi-840241",
+   "saat": "11:21",
+   "tarih_iso": "2026-09-16T11:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T12:01:05.231306+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/japonya-merkez-bankasi-politika-faizini-31-yilin-en-yuksek-seviyesine-cikarmaya-hazirlaniyor/4058628",
@@ -542,6 +601,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+   "baslik": "Yield on 10-year Treasury hovers above 5% as investors await Fed decision",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+   "saat": "11:58",
+   "tarih_iso": "2026-09-16T11:58:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T12:01:05.231306+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
+   "baslik": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
+   "saat": "11:45",
+   "tarih_iso": "2026-09-16T11:45:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T12:01:05.231306+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-014-4903075",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.14%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-014-4903075",
+   "saat": "11:30",
+   "tarih_iso": "2026-09-16T11:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T12:01:05.231306+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-sliding-today-93CH-4903072",
+   "baslik": "Why is Stellantis stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-sliding-today-93CH-4903072",
+   "saat": "11:26",
+   "tarih_iso": "2026-09-16T11:26:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T12:01:05.231306+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sk-hynix-stock-rallying-today-93CH-4903066",
    "baslik": "Why is SK hynix stock rallying today?",
    "kaynak": "Investing.com",
@@ -600,6 +699,16 @@
    "tarih_iso": "2026-09-16T11:06:55+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T11:30:54.603280+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/16/crypto-exchange-binance-expands-wealth-management-platform-.html",
+   "baslik": "Crypto exchange Binance takes on tradfi by courting rich investors to join its expanded wealth-management platform",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/16/crypto-exchange-binance-expands-wealth-management-platform-.html",
+   "saat": "11:04",
+   "tarih_iso": "2026-09-16T11:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T12:01:05.231306+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tonnellerie-francois-freres-stock-sliding-today-93CH-4903024",
@@ -984,6 +1093,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-faces-fresh-selling-pressure-as-fed-decision-and-iran-war-weigh-200687761",
+   "baslik": "Gold Faces Fresh Selling Pressure as Fed Decision and Iran War Weigh",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-faces-fresh-selling-pressure-as-fed-decision-and-iran-war-weigh-200687761",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-16T12:01:05.231306+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-16-eylul-2026-canli-gram-altin-ceyrek-altin-cumhuriyet-altini-ne-kadar-kapalicarsi-altin-fiyatlari-son-durum-3467181",
    "baslik": "ALTIN FİYATLARI 16 EYLÜL 2026 CANLI | Gram Altın, Çeyrek Altın, Cumhuriyet Altını Ne Kadar? Kapalıçarşı Altın Fiyatları Son Durum!",
    "kaynak": "CNN Türk Ekonomi",
@@ -1154,5 +1273,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-16T11:30:54.603280+03:00"
+ "guncelleme": "2026-09-16T12:01:05.231306+03:00"
 }
