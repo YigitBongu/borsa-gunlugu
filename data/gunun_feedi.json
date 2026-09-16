@@ -2,6 +2,19 @@
  "tarih": "2026-09-16",
  "kap": [
   {
+   "id": "kap-my-AHGAZ-202609161234",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:34",
+   "tarih_iso": "2026-09-16T12:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T13:01:03.449939+03:00"
+  },
+  {
    "id": "kap-my-KORDS-202609161205",
    "baslik": "KORDSA TEKNİK TEKSTİL A.Ş. — Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
    "sirket": "KORDSA TEKNİK TEKSTİL A.Ş.",
@@ -368,6 +381,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekom-bolgesel-teknoloji-gucunu-orta-asyaya-tasiyor-haberi-840254",
+   "baslik": "Türk Telekom bölgesel teknoloji gücünü Orta Asya’ya taşıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekom-bolgesel-teknoloji-gucunu-orta-asyaya-tasiyor-haberi-840254",
+   "saat": "12:50",
+   "tarih_iso": "2026-09-16T12:50:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-09-16T13:01:03.449939+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/son-dakika-chp-kurultay-ceza-davasi-ertelendi-haberi-840236",
    "baslik": "Son dakika: CHP kurultay ceza davası ertelendi",
    "kaynak": "Dünya",
@@ -400,6 +425,26 @@
    "tarih_iso": "2026-09-16T12:52:39+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T10:01:03.794573+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/musiad-baskani-ozdemirden-faiz-indirimi-mesaji-100-baz-puanlik-adimlar-makul-haberi-840255",
+   "baslik": "MÜSİAD Başkanı Özdemir’den faiz indirimi mesajı: 100 baz puanlık adımlar makul",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/musiad-baskani-ozdemirden-faiz-indirimi-mesaji-100-baz-puanlik-adimlar-makul-haberi-840255",
+   "saat": "12:48",
+   "tarih_iso": "2026-09-16T12:48:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:01:03.449939+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/citi-faiz-arts-risklerine-ragmen-2027-ortasna-kadar-hisse-senetlerinde-kazanc-ongoruyor-4067832",
+   "baslik": "Citi, faiz artış risklerine rağmen 2027 ortasına kadar hisse senetlerinde kazanç öngörüyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/citi-faiz-arts-risklerine-ragmen-2027-ortasna-kadar-hisse-senetlerinde-kazanc-ongoruyor-4067832",
+   "saat": "12:37",
+   "tarih_iso": "2026-09-16T12:37:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:01:03.449939+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/goldman-sachs-euro-stoxx-50-temettu-tahminlerini-yukseltti-93CH-4067812",
@@ -633,6 +678,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alvotech-stock-rallying-5-today-93CH-4903231",
+   "baslik": "Why is Alvotech stock rallying 5% today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-alvotech-stock-rallying-5-today-93CH-4903231",
+   "saat": "12:51",
+   "tarih_iso": "2026-09-16T12:51:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:01:03.449939+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-expedia-stock-sliding-today-93CH-4903230",
+   "baslik": "Why is Expedia stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-expedia-stock-sliding-today-93CH-4903230",
+   "saat": "12:49",
+   "tarih_iso": "2026-09-16T12:49:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:01:03.449939+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-amadeus-on-ai-resilience-and-cash-flow-growth-4903229",
+   "baslik": "Deutsche Bank upgrades Amadeus on AI resilience and cash flow growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-upgrades-amadeus-on-ai-resilience-and-cash-flow-growth-4903229",
+   "saat": "12:48",
+   "tarih_iso": "2026-09-16T12:48:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:01:03.449939+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jb-hunt-shares-drop-9-on-rare-profit-warning-93CH-4903226",
+   "baslik": "JB Hunt shares drop 9% on rare profit warning",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jb-hunt-shares-drop-9-on-rare-profit-warning-93CH-4903226",
+   "saat": "12:44",
+   "tarih_iso": "2026-09-16T12:44:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:01:03.449939+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citi-sees-more-gains-for-global-stocks-to-mid-2027-despite-rising-rates-risks-4903220",
+   "baslik": "Citi sees more gains for global stocks to mid 2027 despite rising rates risks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citi-sees-more-gains-for-global-stocks-to-mid-2027-despite-rising-rates-risks-4903220",
+   "saat": "12:37",
+   "tarih_iso": "2026-09-16T12:37:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:01:03.449939+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories",
+   "baslik": "This BlackRock strategist opposes a Fed hike. Here are the funds she recommends.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/this-blackrock-strategist-opposes-a-fed-hike-here-are-the-funds-she-recommends-36a3b981?mod=mw_rss_topstories",
+   "saat": "12:34",
+   "tarih_iso": "2026-09-16T12:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T13:01:03.449939+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/goldman-cuts-regional-casino-revenue-outlook-on-august-slowdown-93CH-4903213",
    "baslik": "Goldman cuts regional casino revenue outlook on August slowdown",
@@ -1376,5 +1481,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-16T12:30:55.786466+03:00"
+ "guncelleme": "2026-09-16T13:01:03.449939+03:00"
 }
