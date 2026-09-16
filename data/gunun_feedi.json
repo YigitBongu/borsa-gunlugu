@@ -1,6 +1,20 @@
 {
  "tarih": "2026-09-16",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-SASA-202609160808",
+   "baslik": "SASA POLYESTER SANAYİ A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "SASA POLYESTER SANAYİ A.Ş.",
+   "kodlar": [
+    "SASA"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "08:08",
+   "tarih_iso": "2026-09-16T08:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T09:30:51.889169+03:00"
+  }
+ ],
  "sirket": [],
  "makro": [
   {
@@ -22,6 +36,26 @@
    "tarih_iso": "2026-09-16T11:29:51+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararina-cevrildi/4058477",
+   "baslik": "Küresel piyasalarda gözler, Fed'in faiz kararına çevrildi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-gozler-fedin-faiz-kararina-cevrildi/4058477",
+   "saat": "09:08",
+   "tarih_iso": "2026-09-16T09:08:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T09:30:51.889169+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-saat-kacta-fed-faizleri-artiracak-mi-yoksa-sabit-mi-birakacak-haberi-840208",
+   "baslik": "Fed faiz kararı ne zaman, saat kaçta? Fed faizleri artıracak mı yoksa sabit mi bırakacak?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-saat-kacta-fed-faizleri-artiracak-mi-yoksa-sabit-mi-birakacak-haberi-840208",
+   "saat": "09:03",
+   "tarih_iso": "2026-09-16T09:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T09:30:51.889169+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/gumuste-100-lira-dugumu-fed-karari-60-70-dolar-bandini-bozabilir-galeri-840207",
@@ -105,6 +139,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
+   "baslik": "UK inflation jumps to 3.1% as energy costs soar",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html",
+   "saat": "09:18",
+   "tarih_iso": "2026-09-16T09:18:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T09:30:51.889169+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Petrol and diesel price rises push UK inflation higher",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+   "saat": "09:16",
+   "tarih_iso": "2026-09-16T09:16:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T09:30:51.889169+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japanese-real-estate-stocks-rise-tracking-higher-land-prices-4902901",
+   "baslik": "Japanese real estate stocks rise tracking higher land prices",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japanese-real-estate-stocks-rise-tracking-higher-land-prices-4902901",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-16T09:00:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T09:30:51.889169+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-065-4902900",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.65%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-065-4902900",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-16T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T09:30:51.889169+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/are-uk-equities-too-cheap-to-ignore-despite-weak-investor-demand-barclays-weighs-4902894",
    "baslik": "Are UK equities too cheap to ignore despite weak investor demand? Barclays weighs",
@@ -388,6 +462,26 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/yastik-altinda-ne-kadar-altin-var-dev-servetin-boyutu-ortaya-cikti-galeri-840209",
+   "baslik": "Yastık altında ne kadar altın var? Dev servetin boyutu ortaya çıktı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/yastik-altinda-ne-kadar-altin-var-dev-servetin-boyutu-ortaya-cikti-galeri-840209",
+   "saat": "08:57",
+   "tarih_iso": "2026-09-16T08:57:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T09:30:51.889169+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/once-artirdi-simdi-azaltiyor-citinin-altin-hesabi-degisti-galeri-840210",
+   "baslik": "Önce artırdı, şimdi azaltıyor: Citi'nin altın hesabı değişti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/once-artirdi-simdi-azaltiyor-citinin-altin-hesabi-degisti-galeri-840210",
+   "saat": "08:55",
+   "tarih_iso": "2026-09-16T08:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T09:30:51.889169+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-4300-dolari-geri-aldi-fed-oncesi-kritik-saatler-basladi-galeri-840184",
    "baslik": "Altın 4.300 doları geri aldı: Fed öncesi kritik saatler başladı",
    "kaynak": "Dünya",
@@ -418,5 +512,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-16T09:01:01.953463+03:00"
+ "guncelleme": "2026-09-16T09:30:51.889169+03:00"
 }
