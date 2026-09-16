@@ -2,6 +2,32 @@
  "tarih": "2026-09-16",
  "kap": [
   {
+   "id": "kap-my-SKBNK-202609161436",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:36",
+   "tarih_iso": "2026-09-16T14:36:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
+   "id": "kap-my-ISDMR-202609161432",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ISDMR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:32",
+   "tarih_iso": "2026-09-16T14:32:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
    "id": "kap-my-ENJSA-202609161401",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -531,6 +557,26 @@
    "eklenme": "2026-09-16T12:01:05.231306+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/sektorler/tarim/bakan-yumakli-almanya-ile-tarim-ticaretinde-hedef-5-milyar-dolar-haberi-840271",
+   "baslik": "Bakan Yumaklı: Almanya ile tarım ticaretinde hedef 5 milyar dolar",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sektorler/tarim/bakan-yumakli-almanya-ile-tarim-ticaretinde-hedef-5-milyar-dolar-haberi-840271",
+   "saat": "14:42",
+   "tarih_iso": "2026-09-16T14:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/airbaltic-140-milyon-euro-acil-finansman-icin-onay-ald-93CH-4068056",
+   "baslik": "AirBaltic, 140 milyon euro acil finansman için onay aldı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/airbaltic-140-milyon-euro-acil-finansman-icin-onay-ald-93CH-4068056",
+   "saat": "14:36",
+   "tarih_iso": "2026-09-16T14:36:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altinda-gozler-iki-olasi-senaryoda-fed-sonrasi-yatirimciyi-ne-bekliyor-galeri-840269",
    "baslik": "Altında gözler iki olası senaryoda! Fed sonrası yatırımcıyı ne bekliyor?",
    "kaynak": "Dünya",
@@ -863,6 +909,76 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
+   "baslik": "The smartest money moves to make with interest rates expected to go higher",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-16T15:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/huntington-bancshares-stock-falls-on-lowered-guidance-outlook-93CH-4903553",
+   "baslik": "Huntington Bancshares stock falls on lowered guidance outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/huntington-bancshares-stock-falls-on-lowered-guidance-outlook-93CH-4903553",
+   "saat": "14:54",
+   "tarih_iso": "2026-09-16T14:54:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-flashing-warning-sign-115000114.html",
+   "baslik": "The Stock Market Is Flashing a Warning Sign Rarely Seen in 145 Years. Here's What History Says Comes Next.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-flashing-warning-sign-115000114.html",
+   "saat": "14:50",
+   "tarih_iso": "2026-09-16T14:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/asml-vs-taiwan-semiconductor-manufacturing-114501240.html",
+   "baslik": "ASML vs. Taiwan Semiconductor Manufacturing: Which Tech Stock Is a Better Buy in 2026?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/asml-vs-taiwan-semiconductor-manufacturing-114501240.html",
+   "saat": "14:45",
+   "tarih_iso": "2026-09-16T14:45:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/interest-rate-decision-live-fed-114353604.html",
+   "baslik": "Interest rate decision live: Fed weighs first hike since 2023",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/interest-rate-decision-live-fed-114353604.html",
+   "saat": "14:43",
+   "tarih_iso": "2026-09-16T14:43:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+   "baslik": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+   "saat": "14:39",
+   "tarih_iso": "2026-09-16T14:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/real-estate/articles/cemetery-plot-prices-jumped-65-113500939.html",
+   "baslik": "Cemetery plot prices jumped 65% from 2018 to 2024, and now people are trying to flip them for profit",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/real-estate/articles/cemetery-plot-prices-jumped-65-113500939.html",
+   "saat": "14:35",
+   "tarih_iso": "2026-09-16T14:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-16-2026-crypto-prices-tank-after-clarity-act-fails-and-ahead-of-fed-decision-112517152.html",
    "baslik": "Bitcoin and ethereum prices today, Wednesday, September 16, 2026: Crypto prices tank after CLARITY Act fails and ahead of Fed decision",
    "kaynak": "Yahoo Finance",
@@ -871,6 +987,16 @@
    "tarih_iso": "2026-09-16T14:25:17+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T14:30:56.302936+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
+   "baslik": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Cloudflare Hits Buy Point",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo",
+   "saat": "14:23",
+   "tarih_iso": "2026-09-16T14:23:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/the-cia-strategy-beating-the-market-how-one-top-performing-money-manager-spots-mispriced-stocks-535c638d?mod=mw_rss_topstories",
@@ -1935,6 +2061,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altinda-gozler-iki-olasi-senaryoda-fed-sonrasi-yatirimciyi-ne-bekliyor-galeri-840269",
+   "baslik": "Altında gözler iki olası senaryoda! Fed sonrası yatırımcıyı ne bekliyor?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altinda-gozler-iki-olasi-senaryoda-fed-sonrasi-yatirimciyi-ne-bekliyor-galeri-840269",
+   "saat": "14:15",
+   "tarih_iso": "2026-09-16T14:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T15:01:06.111656+03:00"
+  },
+  {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html",
    "baslik": "Gold price today, Wednesday, September 16, 2026: Gold holds in the $4,300 range, awaiting the Fed's decision",
    "kaynak": "Yahoo Finance",
@@ -2145,5 +2281,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-16T14:30:56.302936+03:00"
+ "guncelleme": "2026-09-16T15:01:06.111656+03:00"
 }
