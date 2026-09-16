@@ -528,6 +528,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-fed-faiz-artrm-oncesi-yukseldi-4067348",
+   "baslik": "ABD hisse senedi vadeli işlemleri Fed faiz artırımı öncesi yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-fed-faiz-artrm-oncesi-yukseldi-4067348",
+   "saat": "03:34",
+   "tarih_iso": "2026-09-16T03:34:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T04:01:02.980417+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/hazine-bugun-duzenledigi-iki-ihaleyle-1179-milyar-lira-borclandi-haberi-840131",
    "baslik": "Hazine bugün düzenlediği iki ihaleyle 117,9 milyar lira borçlandı",
    "kaynak": "Dünya",
@@ -809,6 +819,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-with-fed-rate-hike-in-focus-4902797",
+   "baslik": "U.S. stock futures drift higher with Fed rate hike in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-with-fed-rate-hike-in-focus-4902797",
+   "saat": "03:34",
+   "tarih_iso": "2026-09-16T03:34:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T04:01:02.980417+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
+   "baslik": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
+   "saat": "03:22",
+   "tarih_iso": "2026-09-16T03:22:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-16T04:01:02.980417+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-doj-backs-bond-demand-in-paramountwarner-bros-antitrust-fight-4902742",
    "baslik": "US DoJ backs bond demand in Paramount-Warner Bros antitrust fight",
@@ -1988,26 +2018,6 @@
    "tarih_iso": "2026-09-15T17:28:11+03:00",
    "kodlar": [],
    "eklenme": "2026-09-15T17:30:58.084780+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/dow-drops-450-points-10-142322049.html",
-   "baslik": "Dow drops 450 points as 10-year Treasury yield hits 5%",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/dow-drops-450-points-10-142322049.html",
-   "saat": "17:23",
-   "tarih_iso": "2026-09-15T17:23:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T17:30:58.084780+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/onyx-hospitality-partners-sp-energy-141721817.html",
-   "baslik": "ONYX Hospitality partners with SP on energy solutions in Thailand",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/onyx-hospitality-partners-sp-energy-141721817.html",
-   "saat": "17:17",
-   "tarih_iso": "2026-09-15T17:17:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-15T17:30:58.084780+03:00"
   }
  ],
  "altin_haber": [
@@ -2392,5 +2402,5 @@
    "eklenme": "2026-09-15T09:01:24.526506+03:00"
   }
  ],
- "guncelleme": "2026-09-16T03:30:53.798943+03:00"
+ "guncelleme": "2026-09-16T04:01:02.980417+03:00"
 }
