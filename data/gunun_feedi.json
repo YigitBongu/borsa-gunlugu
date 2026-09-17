@@ -2,6 +2,58 @@
  "tarih": "2026-09-17",
  "kap": [
   {
+   "id": "kap-my-AKFGY-202609170930",
+   "baslik": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+   "kodlar": [
+    "AKFGY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-17T09:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T10:01:00.546639+03:00"
+  },
+  {
+   "id": "kap-my-GLYHO-202609170928",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:28",
+   "tarih_iso": "2026-09-17T09:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T10:01:00.546639+03:00"
+  },
+  {
+   "id": "kap-my-AKSA-202609170922",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "AKSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:22",
+   "tarih_iso": "2026-09-17T09:22:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T10:01:00.546639+03:00"
+  },
+  {
+   "id": "kap-my-TKFEN-202609170921",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:21",
+   "tarih_iso": "2026-09-17T09:21:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T10:01:00.546639+03:00"
+  },
+  {
    "id": "kap-my-HEKTS-202609161930",
    "baslik": "HEKTAŞ TİCARET T.A.Ş. — Kredi Derecelendirmesi",
    "sirket": "HEKTAŞ TİCARET T.A.Ş.",
@@ -30,6 +82,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/bimin-katilim-bankasi-kuruldu-gozler-faaliyet-izninde-3913043",
+   "baslik": "BİM'in bankası resmen kuruldu",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/bimin-katilim-bankasi-kuruldu-gozler-faaliyet-izninde-3913043",
+   "saat": "09:50",
+   "tarih_iso": "2026-09-17T09:50:11+03:00",
+   "kodlar": [
+    "BIMAS"
+   ],
+   "eklenme": "2026-09-17T10:01:00.546639+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/mavi-den-807-milyon-tl-net-kr-3913028",
    "baslik": "Mavi'den 807 milyon TL net kâr",
    "kaynak": "Habertürk Ekonomi",
@@ -56,6 +120,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/hazine-ve-maliye-bakanligindan-borsa-aciklamasi-sermaye-piyasasinda-sorun-yok-3467727",
+   "baslik": "Hazine ve Maliye Bakanlığı’ndan borsa açıklaması: Sermaye piyasasında sorun yok",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/hazine-ve-maliye-bakanligindan-borsa-aciklamasi-sermaye-piyasasinda-sorun-yok-3467727",
+   "saat": "12:58",
+   "tarih_iso": "2026-09-17T12:58:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T10:01:00.546639+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/borsa-neden-dustu-bist-100de-sert-dusus-borsa-istanbul-bugun-neden-dusuyor-son-durum-ne-3467317",
    "baslik": "BORSA NEDEN DÜŞTÜ? BİST 100’de sert düşüş | Borsa İstanbul bugün neden düşüyor, son durum ne?",
    "kaynak": "CNN Türk Ekonomi",
@@ -74,6 +148,16 @@
    "tarih_iso": "2026-09-17T11:21:33+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T09:31:00.468018+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/son-dakika-tcmbden-tl-likiditesine-3-yeni-adim-haberi-840363",
+   "baslik": "Son dakika... TCMB'den TL likiditesine 3 yeni adım",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/son-dakika-tcmbden-tl-likiditesine-3-yeni-adim-haberi-840363",
+   "saat": "09:42",
+   "tarih_iso": "2026-09-17T09:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T10:01:00.546639+03:00"
   },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/kuresel-piyasalarda-fedin-faiz-karari-fiyatlaniyor-3913031",
@@ -237,6 +321,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-041-4904850",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.41%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-041-4904850",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-17T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T10:01:00.546639+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-minimax-stock-surging-today-93CH-4904837",
    "baslik": "Why is MiniMax stock surging today?",
@@ -730,5 +824,5 @@
    "eklenme": "2026-09-17T09:01:04.210249+03:00"
   }
  ],
- "guncelleme": "2026-09-17T09:31:00.468018+03:00"
+ "guncelleme": "2026-09-17T10:01:00.546639+03:00"
 }
