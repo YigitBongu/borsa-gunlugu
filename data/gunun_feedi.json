@@ -375,6 +375,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/latin-amerika-hisseleri-fed-artrm-sonras-dolar-zayflarken-yukseldi-93CH-4070591",
+   "baslik": "Latin Amerika hisseleri Fed artırımı sonrası dolar zayıflarken yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/latin-amerika-hisseleri-fed-artrm-sonras-dolar-zayflarken-yukseldi-93CH-4070591",
+   "saat": "00:12",
+   "tarih_iso": "2026-09-18T00:12:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:30:55.349698+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/amway-yanltc-gelir-iddialar-nedeniyle-225-milyon-dolar-odeyecek-93CH-4070464",
    "baslik": "Amway yanıltıcı gelir iddiaları nedeniyle 225 milyon dolar ödeyecek",
    "kaynak": "Investing TR",
@@ -966,6 +976,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-040-4906501",
+   "baslik": "Colombia stocks higher at close of trade; COLCAP up 0.40%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-040-4906501",
+   "saat": "00:25",
+   "tarih_iso": "2026-09-18T00:25:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:30:55.349698+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+   "baslik": "The bond market is seeing trouble. Why investors are buying now anyway.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+   "saat": "00:22",
+   "tarih_iso": "2026-09-18T00:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:30:55.349698+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-168-4906486",
+   "baslik": "Russia stocks lower at close of trade; MOEX Russia Index down 1.68%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-168-4906486",
+   "saat": "00:20",
+   "tarih_iso": "2026-09-18T00:20:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:30:55.349698+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/latin-american-stocks-climb-as-dollar-weakens-after-fed-hike-93CH-4906472",
+   "baslik": "Latin American stocks climb as dollar weakens after Fed hike",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/latin-american-stocks-climb-as-dollar-weakens-after-fed-hike-93CH-4906472",
+   "saat": "00:11",
+   "tarih_iso": "2026-09-18T00:11:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:30:55.349698+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+   "baslik": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade fails this time?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+   "saat": "00:09",
+   "tarih_iso": "2026-09-18T00:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:30:55.349698+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ocean-container-shipping-rates-could-test-record-highs-as-iran-war-fuel-spike-drives-rise-analysts-say-4906455",
+   "baslik": "Ocean container shipping rates could test record highs as Iran war fuel spike drives rise, analysts say",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ocean-container-shipping-rates-could-test-record-highs-as-iran-war-fuel-spike-drives-rise-analysts-say-4906455",
+   "saat": "23:55",
+   "tarih_iso": "2026-09-17T23:55:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:30:55.349698+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-062-4906410",
    "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.62%",
@@ -2105,66 +2175,6 @@
    "tarih_iso": "2026-09-17T17:07:23+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T17:30:55.774789+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/jim-cramer-delivers-unmistakable-2026-140700657.html",
-   "baslik": "Jim Cramer delivers unmistakable 2026 must-buy call on AI stock",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-delivers-unmistakable-2026-140700657.html",
-   "saat": "17:07",
-   "tarih_iso": "2026-09-17T17:07:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T17:30:55.774789+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/technology/ciena-stock-investor-day-financial-targets-supply-constraints/?src=A00220&yptr=yahoo",
-   "baslik": "Ciena Stock Climbs On Three-Year, 30% Revenue Growth Outlook",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/technology/ciena-stock-investor-day-financial-targets-supply-constraints/?src=A00220&yptr=yahoo",
-   "saat": "17:06",
-   "tarih_iso": "2026-09-17T17:06:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T17:30:55.774789+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/conocophillips-sold-43-000-south-140542574.html",
-   "baslik": "ConocoPhillips Sold 43,000 South Texas Acres for $1.2 Billion. At 63, a Landowner Can Keep Getting Oil Royalties Without Social Security Calling Them Work.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/conocophillips-sold-43-000-south-140542574.html",
-   "saat": "17:05",
-   "tarih_iso": "2026-09-17T17:05:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T17:30:55.774789+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Interest rates held but Bank signals rise if energy prices stay high",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-   "saat": "17:05",
-   "tarih_iso": "2026-09-17T17:05:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T17:30:55.774789+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/jeffrey-gundlach-says-fed-hiked-140427686.html",
-   "baslik": "Jeffrey Gundlach Says the Fed Should Have Hiked Twice as Much, and AI Debt Is Already Cracking",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/jeffrey-gundlach-says-fed-hiked-140427686.html",
-   "saat": "17:04",
-   "tarih_iso": "2026-09-17T17:04:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T17:30:55.774789+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
-   "baslik": "The smartest money moves to make now that interest rates are going up",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
-   "saat": "17:04",
-   "tarih_iso": "2026-09-17T17:04:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T17:30:55.774789+03:00"
   }
  ],
  "altin_haber": [
@@ -2549,5 +2559,5 @@
    "eklenme": "2026-09-17T09:01:04.210249+03:00"
   }
  ],
- "guncelleme": "2026-09-18T00:01:03.814588+03:00"
+ "guncelleme": "2026-09-18T00:30:55.349698+03:00"
 }
