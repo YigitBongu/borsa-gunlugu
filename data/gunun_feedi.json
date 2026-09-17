@@ -277,6 +277,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/besiktastan-avrupaya-muhtesem-baslangic-haberi-840476",
+   "baslik": "Beşiktaş'tan Avrupa'ya muhteşem başlangıç",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/besiktastan-avrupaya-muhtesem-baslangic-haberi-840476",
+   "saat": "23:56",
+   "tarih_iso": "2026-09-17T23:56:00+03:00",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "eklenme": "2026-09-18T00:01:03.814588+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/ortaokul-ogrencileri-icin-yapay-zeka-egitim-programi-hayata-gecirildi-3913220",
    "baslik": "Ortaokul öğrencileri için 'Yapay Zeka Eğitim Programı' hayata geçirildi",
    "kaynak": "Habertürk Ekonomi",
@@ -363,6 +375,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/amway-yanltc-gelir-iddialar-nedeniyle-225-milyon-dolar-odeyecek-93CH-4070464",
+   "baslik": "Amway yanıltıcı gelir iddiaları nedeniyle 225 milyon dolar ödeyecek",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/amway-yanltc-gelir-iddialar-nedeniyle-225-milyon-dolar-odeyecek-93CH-4070464",
+   "saat": "22:35",
+   "tarih_iso": "2026-09-17T22:35:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:01:03.814588+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/euro-bolgesinde-enflasyon-agustosta-yuzde-3-2ye-yukseldi-3468043",
    "baslik": "Euro Bölgesi’nde enflasyon ağustosta yüzde 3,2’ye yükseldi",
    "kaynak": "CNN Türk Ekonomi",
@@ -391,6 +413,16 @@
    "tarih_iso": "2026-09-17T19:25:36+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T16:30:55.633852+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/hazine-ve-maliye-bakanligindan-borsa-aciklamasi-sermaye-piyasasinda-sorun-yok-3467727",
+   "baslik": "Hazine ve Maliye Bakanlığı’ndan borsa açıklaması: Sermaye piyasasında sorun yok",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/hazine-ve-maliye-bakanligindan-borsa-aciklamasi-sermaye-piyasasinda-sorun-yok-3467727",
+   "saat": "18:57",
+   "tarih_iso": "2026-09-17T18:57:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:01:03.814588+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/altin-fiyatlari-zayiflayan-dolar-ve-dusen-petrol-fiyatlariyla-yukseliste/4060328",
@@ -934,6 +966,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-062-4906410",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.62%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-062-4906410",
+   "saat": "23:31",
+   "tarih_iso": "2026-09-17T23:31:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:01:03.814588+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-108-4906401",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 1.08%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-108-4906401",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-17T23:30:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:01:03.814588+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-024-4906400",
+   "baslik": "Brazil stocks higher at close of trade; Bovespa up 0.24%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-024-4906400",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-17T23:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T00:01:03.814588+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/teslas-upcoming-product-frenzy-could-leave-investors-disappointed-18619fb3?mod=mw_rss_topstories",
    "baslik": "Tesla’s upcoming product frenzy could leave investors disappointed",
@@ -2103,36 +2165,6 @@
    "tarih_iso": "2026-09-17T17:04:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T17:30:55.774789+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/fastly-highlights-43-security-growth-140206222.html",
-   "baslik": "Fastly Highlights 43% Security Growth as AI Traffic Fuels Edge Opportunity",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/fastly-highlights-43-security-growth-140206222.html",
-   "saat": "17:02",
-   "tarih_iso": "2026-09-17T17:02:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T17:30:55.774789+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/lyft-downgraded-trip-com-upgraded-134731474.html",
-   "baslik": "Lyft downgraded, Trip.com upgraded: Wall Street's top analyst calls",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/lyft-downgraded-trip-com-upgraded-134731474.html",
-   "saat": "16:47",
-   "tarih_iso": "2026-09-17T16:47:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T17:01:06.101123+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-   "baslik": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia, Houthis trade strikes",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-   "saat": "16:46",
-   "tarih_iso": "2026-09-17T16:46:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T18:31:01.682358+03:00"
   }
  ],
  "altin_haber": [
@@ -2517,5 +2549,5 @@
    "eklenme": "2026-09-17T09:01:04.210249+03:00"
   }
  ],
- "guncelleme": "2026-09-17T23:30:55.096699+03:00"
+ "guncelleme": "2026-09-18T00:01:03.814588+03:00"
 }
