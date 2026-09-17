@@ -977,6 +977,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-058-4906505",
+   "baslik": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.58%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-058-4906505",
+   "saat": "00:30",
+   "tarih_iso": "2026-09-18T00:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T01:01:04.713078+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-040-4906501",
    "baslik": "Colombia stocks higher at close of trade; COLCAP up 0.40%",
    "kaynak": "Investing.com",
@@ -2165,16 +2175,6 @@
    "tarih_iso": "2026-09-17T17:16:13+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T17:30:55.774789+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/article/energy-markets-grapple-with-iran-war-uncertainty-we-simply-dont-know-how-to-model-the-endgame-140723902.html",
-   "baslik": "Energy markets grapple with Iran war uncertainty: 'We simply don't know how to model the endgame'",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/article/energy-markets-grapple-with-iran-war-uncertainty-we-simply-dont-know-how-to-model-the-endgame-140723902.html",
-   "saat": "17:07",
-   "tarih_iso": "2026-09-17T17:07:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T17:30:55.774789+03:00"
   }
  ],
  "altin_haber": [
@@ -2559,5 +2559,5 @@
    "eklenme": "2026-09-17T09:01:04.210249+03:00"
   }
  ],
- "guncelleme": "2026-09-18T00:30:55.349698+03:00"
+ "guncelleme": "2026-09-18T01:01:04.713078+03:00"
 }
