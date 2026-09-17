@@ -2,6 +2,48 @@
  "tarih": "2026-09-17",
  "kap": [
   {
+   "id": "kap-my-KORDS-202609171804",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Merkezi Kayıt Kuruluşu A.Ş. Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:04",
+   "tarih_iso": "2026-09-17T18:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "18:04"
+  },
+  {
+   "id": "kap-my-CANTE-202609171759",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CANTE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:59",
+   "tarih_iso": "2026-09-17T17:59:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "17:59"
+  },
+  {
+   "id": "kap-my-CWENE-202609171754",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:54",
+   "tarih_iso": "2026-09-17T17:54:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "17:54"
+  },
+  {
    "id": "kap-my-KLSER-202609171727",
    "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
    "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
@@ -380,6 +422,17 @@
    "kodlar": [],
    "eklenme": "2026-09-17T16:30:55.633852+03:00",
    "saat_g": "19:25"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/altin-fiyatlari-zayiflayan-dolar-ve-dusen-petrol-fiyatlariyla-yukseliste/4060328",
+   "baslik": "Altın fiyatları zayıflayan dolar ve düşen petrol fiyatlarıyla yükselişte",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/altin-fiyatlari-zayiflayan-dolar-ve-dusen-petrol-fiyatlariyla-yukseliste/4060328",
+   "saat": "18:15",
+   "tarih_iso": "2026-09-17T18:15:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "18:15"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
@@ -967,6 +1020,50 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+   "baslik": "Micron, Intel and other chip stocks are furthering their strong comebacks",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/micron-intel-and-other-chip-stocks-are-furthering-their-strong-comebacks-14b1ecac?mod=mw_rss_topstories",
+   "saat": "18:22",
+   "tarih_iso": "2026-09-17T18:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "18:22"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jepi-jepq-yield-way-more-150500652.html",
+   "baslik": "JEPI and JEPQ Yield Way More Than SCHD, but SCHD Could Produce More Passive Income Over the Long Term. Here's Why.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jepi-jepq-yield-way-more-150500652.html",
+   "saat": "18:05",
+   "tarih_iso": "2026-09-17T18:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "18:05"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/real-estate/articles/supermarket-income-reit-h2-earnings-150335295.html",
+   "baslik": "Supermarket Income REIT H2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/real-estate/articles/supermarket-income-reit-h2-earnings-150335295.html",
+   "saat": "18:03",
+   "tarih_iso": "2026-09-17T18:03:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "18:03"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/prediction-ai-infrastructure-stock-parabolic-150301796.html",
+   "baslik": "Prediction: This AI Infrastructure Stock Will Go Parabolic After Sept. 30 (Hint: It’s Not Micron)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/prediction-ai-infrastructure-stock-parabolic-150301796.html",
+   "saat": "18:03",
+   "tarih_iso": "2026-09-17T18:03:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "18:03"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
    "baslik": "Oil prices fall as Saudi Arabia reportedly offers more crude via Hormuz after pipeline attack",
    "kaynak": "CNBC",
@@ -976,6 +1073,83 @@
    "kodlar": [],
    "eklenme": "2026-09-17T18:01:07.864793+03:00",
    "saat_g": "17:59"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/talen-energy-tln-gains-regulatory-145925718.html",
+   "baslik": "Talen Energy (TLN) Gains as Regulatory Progress Enhances Data Center Framework",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/talen-energy-tln-gains-regulatory-145925718.html",
+   "saat": "17:59",
+   "tarih_iso": "2026-09-17T17:59:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "17:59"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/could-affirm-be-a-200-stock-4906031",
+   "baslik": "Could Affirm be a $200 stock?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/could-affirm-be-a-200-stock-4906031",
+   "saat": "17:58",
+   "tarih_iso": "2026-09-17T17:58:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "17:58"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-058-4906027",
+   "baslik": "Norway stocks higher at close of trade; Oslo OBX up 0.58%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-058-4906027",
+   "saat": "17:55",
+   "tarih_iso": "2026-09-17T17:55:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "17:55"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-102-4906025",
+   "baslik": "Israel stocks higher at close of trade; TA 35 up 1.02%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-102-4906025",
+   "saat": "17:55",
+   "tarih_iso": "2026-09-17T17:55:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "17:55"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/ryanair-ryaay-slashes-winter-flight-145505604.html",
+   "baslik": "Ryanair (RYAAY) Slashes its Winter Flight Plans to Dodge a Costly Oil Spike",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/ryanair-ryaay-slashes-winter-flight-145505604.html",
+   "saat": "17:55",
+   "tarih_iso": "2026-09-17T17:55:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "17:55"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-040-4906024",
+   "baslik": "Greece stocks lower at close of trade; Athens General Composite down 0.40%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-040-4906024",
+   "saat": "17:55",
+   "tarih_iso": "2026-09-17T17:55:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "17:55"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jackson-financial-stock-falls-after-shortseller-raises-concerns-93CH-4906023",
+   "baslik": "Jackson Financial stock falls after short-seller raises concerns",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jackson-financial-stock-falls-after-shortseller-raises-concerns-93CH-4906023",
+   "saat": "17:54",
+   "tarih_iso": "2026-09-17T17:54:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "17:54"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/xpeng-stock-rises-on-plans-to-license-tech-to-foreign-automakers-93CH-4906019",
@@ -1295,6 +1469,17 @@
    "kodlar": [],
    "eklenme": "2026-09-17T17:01:06.101123+03:00",
    "saat_g": "16:44"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/dfdea19d-588e-4938-87cb-be14d14a54f4",
+   "baslik": "After Warsh’s strong start, how high will rates need to go?",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/dfdea19d-588e-4938-87cb-be14d14a54f4",
+   "saat": "16:43",
+   "tarih_iso": "2026-09-17T16:43:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "16:43"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-jumps-top-134007577.html",
@@ -2045,6 +2230,17 @@
    "saat_g": "13:12"
   },
   {
+   "id": "yab-https://www.ft.com/content/3bb7e0e8-6aef-4b6b-a5f0-f472a2655c1f?syn-25a6b1a6=1",
+   "baslik": "Wall Street warns trading boom is losing steam",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/3bb7e0e8-6aef-4b6b-a5f0-f472a2655c1f?syn-25a6b1a6=1",
+   "saat": "13:00",
+   "tarih_iso": "2026-09-17T13:00:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "13:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/17/nascar-steve-odonnell-media-international-expansion.html",
    "baslik": "NASCAR CEO Steve O’Donnell talks growth opportunities, possible international expansion",
    "kaynak": "CNBC",
@@ -2142,152 +2338,42 @@
    "kodlar": [],
    "eklenme": "2026-09-17T13:01:05.110482+03:00",
    "saat_g": "12:08"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-billington-stock-surging-today-93CH-4905064",
-   "baslik": "Why is Billington stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-billington-stock-surging-today-93CH-4905064",
-   "saat": "12:08",
-   "tarih_iso": "2026-09-17T12:08:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T12:31:05.744670+03:00",
-   "saat_g": "12:08"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/uk-regulator-probes-euro-exchange-securities-over-aml-failures-93CH-4905055",
-   "baslik": "UK regulator probes Euro Exchange Securities over AML failures",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/uk-regulator-probes-euro-exchange-securities-over-aml-failures-93CH-4905055",
-   "saat": "12:04",
-   "tarih_iso": "2026-09-17T12:04:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T12:31:05.744670+03:00",
-   "saat_g": "12:04"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-   "baslik": "OpenAI and Anthropic are making 10 times more revenue than all Chinese AI models combined, research group Rhodium says",
-   "kaynak": "CNBC Finans",
-   "link": "https://www.cnbc.com/2026/09/17/chinas-ai-models-make-only-10percent-of-us-leaders-revenue-rhodium.html",
-   "saat": "12:00",
-   "tarih_iso": "2026-09-17T12:00:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T12:31:05.744670+03:00",
-   "saat_g": "12:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-favors-these-stocks-as-uk-insurance-yields-stay-attractive-4905027",
-   "baslik": "BofA favors these stocks as UK insurance yields stay attractive",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/bofa-favors-these-stocks-as-uk-insurance-yields-stay-attractive-4905027",
-   "saat": "11:54",
-   "tarih_iso": "2026-09-17T11:54:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T12:31:05.744670+03:00",
-   "saat_g": "11:54"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/we-told-you-first-this-energy-play-is-up-34-premarket-today-despite-feds-hike-4905020",
-   "baslik": "We told you first: This energy play is up +34% premarket today despite Fed’s hike",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/we-told-you-first-this-energy-play-is-up-34-premarket-today-despite-feds-hike-4905020",
-   "saat": "11:49",
-   "tarih_iso": "2026-09-17T11:49:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T12:31:05.744670+03:00",
-   "saat_g": "11:49"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
-   "baslik": "Trump gains a tariff weapon against China and India. Will he use it?",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
-   "saat": "11:46",
-   "tarih_iso": "2026-09-17T11:46:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T12:01:03.970619+03:00",
-   "saat_g": "11:46"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-035-4904992",
-   "baslik": "Indonesia stocks higher at close of trade; IDX Composite Index up 0.35%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-035-4904992",
-   "saat": "11:30",
-   "tarih_iso": "2026-09-17T11:30:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T12:01:03.970619+03:00",
-   "saat_g": "11:30"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-generac-stock-surging-today-93CH-4904985",
-   "baslik": "Why is Generac stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-generac-stock-surging-today-93CH-4904985",
-   "saat": "11:22",
-   "tarih_iso": "2026-09-17T11:22:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T12:01:03.970619+03:00",
-   "saat_g": "11:22"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/galliford-try-shares-climb-on-profit-growth-and-buyback-plan-93CH-4904978",
-   "baslik": "Galliford Try shares climb on profit growth and buyback plan",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/galliford-try-shares-climb-on-profit-growth-and-buyback-plan-93CH-4904978",
-   "saat": "11:17",
-   "tarih_iso": "2026-09-17T11:17:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T12:01:03.970619+03:00",
-   "saat_g": "11:17"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-17-dow-sp-500-nasdaq-081248626.html",
-   "baslik": "Stock market today: Dow, S&P 500, Nasdaq rise as Fed rate hike pacifies markets' inflation worries",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-17-dow-sp-500-nasdaq-081248626.html",
-   "saat": "11:12",
-   "tarih_iso": "2026-09-17T11:12:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T16:30:55.633852+03:00",
-   "saat_g": "11:12"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/capricorn-energy-shares-rise-as-dno-revises-takeover-terms-93CH-4904964",
-   "baslik": "Capricorn Energy shares rise as DNO revises takeover terms",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/capricorn-energy-shares-rise-as-dno-revises-takeover-terms-93CH-4904964",
-   "saat": "11:07",
-   "tarih_iso": "2026-09-17T11:07:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T12:01:03.970619+03:00",
-   "saat_g": "11:07"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-   "baslik": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia-Houthis trade strikes",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
-   "saat": "10:56",
-   "tarih_iso": "2026-09-17T10:56:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T11:01:03.426562+03:00",
-   "saat_g": "10:56"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bilfinger-stock-collapsing-today-93CH-4904943",
-   "baslik": "Why is Bilfinger stock collapsing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-bilfinger-stock-collapsing-today-93CH-4904943",
-   "saat": "10:47",
-   "tarih_iso": "2026-09-17T10:47:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T11:30:55.461528+03:00",
-   "saat_g": "10:47"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.aa.com.tr/tr/ekonomi/altin-fiyatlari-zayiflayan-dolar-ve-dusen-petrol-fiyatlariyla-yukseliste/4060328",
+   "baslik": "Altın fiyatları zayıflayan dolar ve düşen petrol fiyatlarıyla yükselişte",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/altin-fiyatlari-zayiflayan-dolar-ve-dusen-petrol-fiyatlariyla-yukseliste/4060328",
+   "saat": "18:15",
+   "tarih_iso": "2026-09-17T18:15:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "18:15"
+  },
+  {
+   "id": "alt-https://www.dunya.com/ekonomi/altin-fiyatlarinda-sert-yukselis-ons-altin-yuzde-24-prim-yapti-haberi-840432",
+   "baslik": "Altın fiyatlarında sert yükseliş: Ons altın yüzde 2,4 prim yaptı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/altin-fiyatlarinda-sert-yukselis-ons-altin-yuzde-24-prim-yapti-haberi-840432",
+   "saat": "18:01",
+   "tarih_iso": "2026-09-17T18:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "18:01"
+  },
+  {
+   "id": "alt-https://finance.yahoo.com/markets/commodities/articles/lahontan-gold-signs-agreement-acquire-145511685.html",
+   "baslik": "Lahontan Gold signs agreement to acquire Emergent Metals",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/commodities/articles/lahontan-gold-signs-agreement-acquire-145511685.html",
+   "saat": "17:55",
+   "tarih_iso": "2026-09-17T17:55:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T18:24:48.970521+03:00",
+   "saat_g": "17:55"
+  },
   {
    "id": "alt-https://www.dunya.com/ekonomi/altinin-kilogram-fiyati-yukseldi-haberi-840417",
    "baslik": "Altının kilogram fiyatı yükseldi",
@@ -2531,5 +2617,5 @@
    "saat_g": "dün 17:43"
   }
  ],
- "guncelleme": "2026-09-17T18:01:07.864793+03:00"
+ "guncelleme": "2026-09-17T18:24:48.970521+03:00"
 }
