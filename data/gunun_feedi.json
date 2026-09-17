@@ -716,6 +716,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fed-yeniden-faiz-artrd--yapay-zeka-secimi-bir-sigortac-kazanmaya-devam-ediyor-4069079",
+   "baslik": "Fed yeniden faiz artırdı - yapay zeka seçimi bir sigortacı kazanmaya devam ediyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fed-yeniden-faiz-artrd--yapay-zeka-secimi-bir-sigortac-kazanmaya-devam-ediyor-4069079",
+   "saat": "05:29",
+   "tarih_iso": "2026-09-17T05:29:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T06:01:02.225824+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/manus-metadan-ayrlk-sonras-ilk-fonlamada-4-milyar-dolar-degerleme-hedefliyor-4069073",
+   "baslik": "Manus, Meta’dan ayrılık sonrası ilk fonlamada 4 milyar dolar değerleme hedefliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/manus-metadan-ayrlk-sonras-ilk-fonlamada-4-milyar-dolar-degerleme-hedefliyor-4069073",
+   "saat": "05:24",
+   "tarih_iso": "2026-09-17T05:24:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T06:01:02.225824+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/altn-fedin-faiz-artrm-ve-sert-gorunumuyle-dustu-4069064",
    "baslik": "Altın Fed’in faiz artırımı ve sert görünümüyle düştü",
    "kaynak": "Investing TR",
@@ -1307,6 +1327,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/fed-hikes-again--an-aipicked-insurer-is-still-cashing-in-4904764",
+   "baslik": "Fed hikes again - an AI-Picked insurer is still cashing in",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/fed-hikes-again--an-aipicked-insurer-is-still-cashing-in-4904764",
+   "saat": "05:29",
+   "tarih_iso": "2026-09-17T05:29:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T06:01:02.225824+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
    "baslik": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
@@ -2496,16 +2526,6 @@
    "tarih_iso": "2026-09-16T18:02:05+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T18:18:17.659972+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ai-stock-could-worth-far-150034323.html",
-   "baslik": "This AI Stock Could Be Worth Far More Than Investors Think",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-could-worth-far-150034323.html",
-   "saat": "18:00",
-   "tarih_iso": "2026-09-16T18:00:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T18:18:17.659972+03:00"
   }
  ],
  "altin_haber": [
@@ -2860,5 +2880,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-17T05:30:50.691389+03:00"
+ "guncelleme": "2026-09-17T06:01:02.225824+03:00"
 }
