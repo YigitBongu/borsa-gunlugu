@@ -2,6 +2,19 @@
  "tarih": "2026-09-17",
  "kap": [
   {
+   "id": "kap-my-TTRAK-202609171317",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TTRAK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:17",
+   "tarih_iso": "2026-09-17T13:17:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T13:51:40.557753+03:00"
+  },
+  {
    "id": "kap-my-ALFAS-202609171233",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -170,6 +183,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
+   "baslik": "EYLÜL AYI KİRA ARTIŞ ORANI HESAPLAMA : 2026 Eylül Ayı Kira Artış Oranı Belli Oldu! Eylül Kira Zammı Ne Kadar? Gözler TÜİK'te! İşte TÜİK Açıklamasına Göre TEFE TÜFE ve Kira Artış Oranı Hesaplama",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/eylul-ayi-kira-artis-orani-2026-eylul-kira-zammi-ne-kadar-gozler-tuikte-iste-tuik-aciklamasina-gore-tefe-tufe-ve-kira-artis-orani-3461776",
+   "saat": "16:28",
+   "tarih_iso": "2026-09-17T16:28:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T13:51:40.557753+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/hazine-ve-maliye-bakanligindan-borsa-aciklamasi-sermaye-piyasasinda-sorun-yok-3467727",
    "baslik": "Hazine ve Maliye Bakanlığı’ndan borsa açıklaması: Sermaye piyasasında sorun yok",
@@ -572,6 +595,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/the-fed-is-hiking-why-isnt-ubs-worried-about-stocks-4905218",
+   "baslik": "The Fed is hiking. Why isn’t UBS worried about stocks?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/the-fed-is-hiking-why-isnt-ubs-worried-about-stocks-4905218",
+   "saat": "13:34",
+   "tarih_iso": "2026-09-17T13:34:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T13:51:40.557753+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-mixed-at-close-of-trade-nifty-50-up-023-4905205",
+   "baslik": "India stocks mixed at close of trade; Nifty 50 up 0.23%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/india-stocks-mixed-at-close-of-trade-nifty-50-up-023-4905205",
+   "saat": "13:30",
+   "tarih_iso": "2026-09-17T13:30:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T13:51:40.557753+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-hawkish-fed-dents-wall-st-4904721",
+   "baslik": "U.S. stock futures advance as hawkish Fed eases prolonged overhang",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-rise-after-hawkish-fed-dents-wall-st-4904721",
+   "saat": "13:19",
+   "tarih_iso": "2026-09-17T13:19:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T13:51:40.557753+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-svrn-stock-surging-today-93CH-4905175",
    "baslik": "Why is SVRN stock surging today?",
@@ -1485,5 +1538,5 @@
    "eklenme": "2026-09-17T09:01:04.210249+03:00"
   }
  ],
- "guncelleme": "2026-09-17T13:30:57.626953+03:00"
+ "guncelleme": "2026-09-17T13:51:40.557753+03:00"
 }
