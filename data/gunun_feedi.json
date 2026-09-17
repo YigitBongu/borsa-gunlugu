@@ -2,6 +2,19 @@
  "tarih": "2026-09-17",
  "kap": [
   {
+   "id": "kap-my-ALFAS-202609171233",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ALFAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:33",
+   "tarih_iso": "2026-09-17T12:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-17T13:01:05.110482+03:00"
+  },
+  {
    "id": "kap-my-PENTA-202609171002",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -108,6 +121,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-tarfin-maci-ne-zaman-olympiacos-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-840385",
+   "baslik": "Fenerbahçe Tarfin maçı ne zaman? Olympiacos - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-tarfin-maci-ne-zaman-olympiacos-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-840385",
+   "saat": "12:30",
+   "tarih_iso": "2026-09-17T12:30:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-17T13:01:05.110482+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/bimin-katilim-bankasi-kuruldu-gozler-faaliyet-izninde-3913043",
    "baslik": "BİM'in bankası resmen kuruldu",
    "kaynak": "Habertürk Ekonomi",
@@ -154,6 +179,16 @@
    "tarih_iso": "2026-09-17T12:58:29+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T10:01:00.546639+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-fed-darbesini-cabuk-atlatti-gram-yeniden-yukseliste-galeri-840387",
+   "baslik": "Altın Fed darbesini çabuk atlattı: Gram yeniden yükselişte",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-fed-darbesini-cabuk-atlatti-gram-yeniden-yukseliste-galeri-840387",
+   "saat": "12:47",
+   "tarih_iso": "2026-09-17T12:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T13:01:05.110482+03:00"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/borsa-neden-dustu-bist-100de-sert-dusus-borsa-istanbul-bugun-neden-dusuyor-son-durum-ne-3467317",
@@ -518,6 +553,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-raiffeisen-bank-international-stock-tumbling-today-93CH-4905091",
+   "baslik": "Why is Raiffeisen Bank International stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-raiffeisen-bank-international-stock-tumbling-today-93CH-4905091",
+   "saat": "12:28",
+   "tarih_iso": "2026-09-17T12:28:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T13:01:05.110482+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sodexo-stock-surging-today-93CH-4905084",
+   "baslik": "Why is Sodexo stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sodexo-stock-surging-today-93CH-4905084",
+   "saat": "12:19",
+   "tarih_iso": "2026-09-17T12:19:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T13:01:05.110482+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/why-the-s-p-500-could-still-advance-after-a-fed-hike-according-to-a-wall-street-strategist-d357b4f2?mod=mw_rss_topstories",
    "baslik": "Why the S&P 500 could still advance after a Fed hike, according to a Wall Street strategist",
    "kaynak": "MarketWatch",
@@ -526,6 +581,26 @@
    "tarih_iso": "2026-09-17T12:16:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T12:31:05.744670+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/gold-slips-as-fed-hike-hawkish-outlook-strengthen-dollar-4904750",
+   "baslik": "Gold rebounds above $4,300 after Fed hike as dollar eases",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-slips-as-fed-hike-hawkish-outlook-strengthen-dollar-4904750",
+   "saat": "12:12",
+   "tarih_iso": "2026-09-17T12:12:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T13:01:05.110482+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sodexo-shares-at-15month-high-after-jpmorgan-upgrades-stock-to-overweight-4905065",
+   "baslik": "Sodexo shares at 15-month high after JPMorgan upgrades stock to Overweight",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sodexo-shares-at-15month-high-after-jpmorgan-upgrades-stock-to-overweight-4905065",
+   "saat": "12:08",
+   "tarih_iso": "2026-09-17T12:08:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T13:01:05.110482+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-billington-stock-surging-today-93CH-4905064",
@@ -1180,6 +1255,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-fed-darbesini-cabuk-atlatti-gram-yeniden-yukseliste-galeri-840387",
+   "baslik": "Altın Fed darbesini çabuk atlattı: Gram yeniden yükselişte",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-fed-darbesini-cabuk-atlatti-gram-yeniden-yukseliste-galeri-840387",
+   "saat": "12:47",
+   "tarih_iso": "2026-09-17T12:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T13:01:05.110482+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/news/stock-market-news/gold-slips-as-fed-hike-hawkish-outlook-strengthen-dollar-4904750",
    "baslik": "Gold rebounds above $4,300 after Fed hike as dollar eases",
    "kaynak": "Investing.com",
@@ -1320,5 +1405,5 @@
    "eklenme": "2026-09-17T09:01:04.210249+03:00"
   }
  ],
- "guncelleme": "2026-09-17T12:31:05.744670+03:00"
+ "guncelleme": "2026-09-17T13:01:05.110482+03:00"
 }
