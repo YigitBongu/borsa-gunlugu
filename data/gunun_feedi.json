@@ -716,6 +716,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/altn-fedin-faiz-artrm-ve-sert-gorunumuyle-dustu-4069064",
+   "baslik": "Altın Fed’in faiz artırımı ve sert görünümüyle düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-fedin-faiz-artrm-ve-sert-gorunumuyle-dustu-4069064",
+   "saat": "04:57",
+   "tarih_iso": "2026-09-17T04:57:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T05:30:50.691389+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hisse-senedi-vadeli-islemleri-fed-sonras-yukseliste-4069040",
    "baslik": "ABD hisse senedi vadeli işlemleri Fed sonrası yükselişte",
    "kaynak": "Investing TR",
@@ -1306,6 +1316,16 @@
    "tarih_iso": "2026-09-17T04:59:32+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T05:01:00.793321+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/gold-slips-as-fed-hike-hawkish-outlook-strengthen-dollar-4904750",
+   "baslik": "Gold slips as Fed hike, hawkish outlook strengthen dollar",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-slips-as-fed-hike-hawkish-outlook-strengthen-dollar-4904750",
+   "saat": "04:57",
+   "tarih_iso": "2026-09-17T04:57:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T05:30:50.691389+03:00"
   },
   {
    "id": "yab-https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
@@ -2486,19 +2506,29 @@
    "tarih_iso": "2026-09-16T18:00:34+03:00",
    "kodlar": [],
    "eklenme": "2026-09-16T18:18:17.659972+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/sandiskcorp-sndk-ai-boom-fuels-145612588.html",
-   "baslik": "SandiskCorp. (SNDK): AI Boom Fuels Attractive Storage Market Opportunity",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/sandiskcorp-sndk-ai-boom-fuels-145612588.html",
-   "saat": "17:56",
-   "tarih_iso": "2026-09-16T17:56:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-16T18:18:17.659972+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/altn-fedin-faiz-artrm-ve-sert-gorunumuyle-dustu-4069064",
+   "baslik": "Altın Fed’in faiz artırımı ve sert görünümüyle düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-fedin-faiz-artrm-ve-sert-gorunumuyle-dustu-4069064",
+   "saat": "04:57",
+   "tarih_iso": "2026-09-17T04:57:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T05:30:50.691389+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/gold-slips-as-fed-hike-hawkish-outlook-strengthen-dollar-4904750",
+   "baslik": "Gold slips as Fed hike, hawkish outlook strengthen dollar",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/gold-slips-as-fed-hike-hawkish-outlook-strengthen-dollar-4904750",
+   "saat": "04:57",
+   "tarih_iso": "2026-09-17T04:57:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-17T05:30:50.691389+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/fedin-faiz-sonrasi-altin-duser-mi-cikar-mi-3467591",
    "baslik": "FED’in faiz sonrası altın düşer mi çıkar mı?",
@@ -2830,5 +2860,5 @@
    "eklenme": "2026-09-16T09:01:01.953463+03:00"
   }
  ],
- "guncelleme": "2026-09-17T05:01:00.793321+03:00"
+ "guncelleme": "2026-09-17T05:30:50.691389+03:00"
 }
