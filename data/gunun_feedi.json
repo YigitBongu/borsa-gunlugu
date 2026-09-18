@@ -2,6 +2,19 @@
  "tarih": "2026-09-18",
  "kap": [
   {
+   "id": "kap-my-ECILC-202609181524",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ECILC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:24",
+   "tarih_iso": "2026-09-18T15:24:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
+  {
    "id": "kap-my-KZBGY-202609181500",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -212,6 +225,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-tarfin-euroleague-super-kupa-mac-saati-olympiacos-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-840512",
+   "baslik": "Fenerbahçe Tarfin Euroleague Süper Kupa maç saati... Olympiacos - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-tarfin-euroleague-super-kupa-mac-saati-olympiacos-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-840512",
+   "saat": "15:43",
+   "tarih_iso": "2026-09-18T15:43:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/tera-portfoy-den-tasfiye-surecine-iliskin-aciklama-3913408",
    "baslik": "Tera'dan tasfiye açıklaması",
    "kaynak": "Habertürk Ekonomi",
@@ -306,6 +331,16 @@
    "tarih_iso": "2026-09-18T16:17:24+03:00",
    "kodlar": [],
    "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/italya-maliye-bakan-amb-faiz-artslar-enflasyonu-cozmez-93CH-4071451",
+   "baslik": "İtalya Maliye Bakanı: AMB faiz artışları enflasyonu çözmez",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/italya-maliye-bakan-amb-faiz-artslar-enflasyonu-cozmez-93CH-4071451",
+   "saat": "15:33",
+   "tarih_iso": "2026-09-18T15:33:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/air-india-ceosu-maliyetleri-dusurmek-icin-butce-biriminin-birlesmesini-arastryor-93CH-4071369",
@@ -459,6 +494,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/18/ai-stock-swings-can-affect-your-401k-what-to-know.html",
+   "baslik": "AI stock swings could affect your 401(k). Here’s what retirement savers need to know",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/18/ai-stock-swings-can-affect-your-401k-what-to-know.html",
+   "saat": "15:52",
+   "tarih_iso": "2026-09-18T15:52:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-cuts-kospi-target-by-nearly-10-to-reflect-higher-rates-4907343",
+   "baslik": "UBS cuts KOSPI target by nearly 10% to reflect higher rates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-cuts-kospi-target-by-nearly-10-to-reflect-higher-rates-4907343",
+   "saat": "15:46",
+   "tarih_iso": "2026-09-18T15:46:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nike-stock-sliding-today-93CH-4907336",
+   "baslik": "Why is Nike stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nike-stock-sliding-today-93CH-4907336",
+   "saat": "15:44",
+   "tarih_iso": "2026-09-18T15:44:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-mortgage-bonds-are-set-to-deteriorate-and-possibly-hit-the-whole-market-according-to-this-wall-street-expert-0dd7f05d?mod=mw_rss_topstories",
+   "baslik": "Why mortgage bonds are set to deteriorate, and possibly hit the whole market, according to this Wall Street expert",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-mortgage-bonds-are-set-to-deteriorate-and-possibly-hit-the-whole-market-according-to-this-wall-street-expert-0dd7f05d?mod=mw_rss_topstories",
+   "saat": "15:40",
+   "tarih_iso": "2026-09-18T15:40:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/3943277e-eaf8-4faf-9f9c-1c05cb2ba992?syn-25a6b1a6=1",
+   "baslik": "Turkey moves to liquidate funds at centre of ‘Ponzi-like scheme’",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/3943277e-eaf8-4faf-9f9c-1c05cb2ba992?syn-25a6b1a6=1",
+   "saat": "15:38",
+   "tarih_iso": "2026-09-18T15:38:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/intapp-stock-rises-on-chatgpt-enterprise-plugin-launch-93CH-4907323",
+   "baslik": "Intapp stock rises on ChatGPT Enterprise plug-in launch",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/intapp-stock-rises-on-chatgpt-enterprise-plugin-launch-93CH-4907323",
+   "saat": "15:38",
+   "tarih_iso": "2026-09-18T15:38:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/datameds-ai-stock-surges-on-litigation-settlement-93CH-4907312",
+   "baslik": "DataMeds AI stock surges on litigation settlement",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/datameds-ai-stock-surges-on-litigation-settlement-93CH-4907312",
+   "saat": "15:35",
+   "tarih_iso": "2026-09-18T15:35:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/italys-finance-minister-says-ecb-rate-hikes-wont-solve-inflation-93CH-4907310",
+   "baslik": "Italy’s finance minister says ECB rate hikes won’t solve inflation",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/italys-finance-minister-says-ecb-rate-hikes-wont-solve-inflation-93CH-4907310",
+   "saat": "15:32",
+   "tarih_iso": "2026-09-18T15:32:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/on-holding-stock-jumps-premarket-after-signing-real-madrid-star-kylian-mbappe-4907287",
+   "baslik": "On Holding stock jumps premarket after signing Real Madrid star Kylian Mbappé",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/on-holding-stock-jumps-premarket-after-signing-real-madrid-star-kylian-mbappe-4907287",
+   "saat": "15:26",
+   "tarih_iso": "2026-09-18T15:26:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/c94gm0mxmy65o?at_medium=RSS&at_campaign=rss",
    "baslik": "Economy minister accuses SoS of 'mischief making' in social media exchange",
@@ -1162,6 +1287,16 @@
    "eklenme": "2026-09-18T14:01:04.458227+03:00"
   },
   {
+   "id": "alt-https://www.mining.com/venezuelas-4b-gold-stash-closer-to-leaving-london/",
+   "baslik": "Venezuela’s $4B gold stash closer to leaving London",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/venezuelas-4b-gold-stash-closer-to-leaving-london/",
+   "saat": "13:47",
+   "tarih_iso": "2026-09-18T13:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T16:01:04.570083+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/goldman-sachstan-fed-sonrasi-altin-degerlendirmesi-dev-hedef-masada-galeri-840532",
    "baslik": "Goldman Sachs'tan Fed sonrası altın değerlendirmesi: Dev hedef masada",
    "kaynak": "Dünya",
@@ -1392,5 +1527,5 @@
    "eklenme": "2026-09-18T09:01:06.310127+03:00"
   }
  ],
- "guncelleme": "2026-09-18T15:30:49.501010+03:00"
+ "guncelleme": "2026-09-18T16:01:04.570083+03:00"
 }
