@@ -2,6 +2,19 @@
  "tarih": "2026-09-18",
  "kap": [
   {
+   "id": "kap-my-TKFEN-202609181010",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:10",
+   "tarih_iso": "2026-09-18T10:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T11:01:04.627613+03:00"
+  },
+  {
    "id": "kap-my-KCAER-202609181007",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -42,6 +55,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/turkcell-6g-calismalarinda-rol-aliyor-3913358",
+   "baslik": "Turkcell, 6G çalışmalarında rol alıyor",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/turkcell-6g-calismalarinda-rol-aliyor-3913358",
+   "saat": "10:49",
+   "tarih_iso": "2026-09-18T10:49:09+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-09-18T11:01:04.627613+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-tarfin-mac-saati-olympiacos-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-840512",
    "baslik": "Fenerbahçe Tarfin maç saati... Olympiacos - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
@@ -172,6 +197,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
+   "baslik": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
+   "saat": "10:53",
+   "tarih_iso": "2026-09-18T10:53:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T11:01:04.627613+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-allegro-stock-rallying-today-93CH-4906770",
+   "baslik": "Why is Allegro stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-allegro-stock-rallying-today-93CH-4906770",
+   "saat": "10:30",
+   "tarih_iso": "2026-09-18T10:30:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T11:01:04.627613+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/highquality-asset-with-plenty-of-levers-to-grow-well-barclays-upgrades-allegro-4906753",
+   "baslik": "Allegro stock gains on Barclays upgrade, cites ’plenty of levers to grow well’",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/highquality-asset-with-plenty-of-levers-to-grow-well-barclays-upgrades-allegro-4906753",
+   "saat": "10:27",
+   "tarih_iso": "2026-09-18T10:27:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T11:01:04.627613+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
    "baslik": "Why Japanese stocks rose as government bond yields and the yen fell after rate hike",
@@ -515,6 +570,16 @@
    "eklenme": "2026-09-18T09:30:53.284316+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/central-banks-are-hiking-again-yet-gold-keeps-climbing-200687932",
+   "baslik": "Central Banks Are Hiking Again, Yet Gold Keeps Climbing",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/central-banks-are-hiking-again-yet-gold-keeps-climbing-200687932",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-18T11:01:04.627613+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/logarithmic-gold-map-mean-reversion-box-42454566-ahead-of-cycle-date-200687924",
    "baslik": "Logarithmic Gold Map: Mean Reversion Box $4,245–$4,566 Ahead of Cycle Date",
    "kaynak": "Investing Emtia",
@@ -685,5 +750,5 @@
    "eklenme": "2026-09-18T09:01:06.310127+03:00"
   }
  ],
- "guncelleme": "2026-09-18T10:30:50.992197+03:00"
+ "guncelleme": "2026-09-18T11:01:04.627613+03:00"
 }
