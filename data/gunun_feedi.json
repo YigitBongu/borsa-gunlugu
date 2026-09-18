@@ -108,6 +108,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsan-56-milyon-dolarlik-gudum-sistemleri-uretim-merkezini-devreye-aldi/4060961",
+   "baslik": "ASELSAN, 56 milyon dolarlık \"Güdüm Sistemleri Üretim Merkezi\"ni devreye aldı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/aselsan-56-milyon-dolarlik-gudum-sistemleri-uretim-merkezini-devreye-aldi/4060961",
+   "saat": "12:20",
+   "tarih_iso": "2026-09-18T12:20:48+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-09-18T12:30:53.067986+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/turkcell-6g-calismalarinda-rol-aliyor-3913358",
    "baslik": "Turkcell, 6G çalışmalarında rol alıyor",
    "kaynak": "Habertürk Ekonomi",
@@ -176,6 +188,16 @@
    "tarih_iso": "2026-09-18T14:01:51+03:00",
    "kodlar": [],
    "eklenme": "2026-09-18T11:30:53.011089+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/orta-dogu-daki-petrol-soku-avro-bolgesinde-enflasyon-beklentilerini-artirdi/4060960",
+   "baslik": "Orta Doğu’daki petrol şoku Avro Bölgesi'nde enflasyon beklentilerini artırdı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/orta-dogu-daki-petrol-soku-avro-bolgesinde-enflasyon-beklentilerini-artirdi/4060960",
+   "saat": "12:20",
+   "tarih_iso": "2026-09-18T12:20:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T12:30:53.067986+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/enerji/petrol-atesi-abdyi-sardi-pompada-rekor-fedde-yeni-baski-haberi-840521",
@@ -672,6 +694,16 @@
    "eklenme": "2026-09-18T09:30:53.284316+03:00"
   },
   {
+   "id": "alt-https://www.haberturk.com/ekonomi/goldman-sachs-fed-in-faiz-artirimina-ragmen-altin-tahmininin-arkasinda-durdu-3913388",
+   "baslik": "ABD'li dev altın tahminini değiştirmedi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/goldman-sachs-fed-in-faiz-artirimina-ragmen-altin-tahmininin-arkasinda-durdu-3913388",
+   "saat": "12:04",
+   "tarih_iso": "2026-09-18T12:04:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T12:30:53.067986+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-faces-4444-test-as-iran-conflict-keeps-markets-on-edge-200687936",
    "baslik": "Gold Faces $4,444 Test as Iran Conflict Keeps Markets on Edge",
    "kaynak": "Investing Emtia",
@@ -872,5 +904,5 @@
    "eklenme": "2026-09-18T09:01:06.310127+03:00"
   }
  ],
- "guncelleme": "2026-09-18T12:01:09.385023+03:00"
+ "guncelleme": "2026-09-18T12:30:53.067986+03:00"
 }
