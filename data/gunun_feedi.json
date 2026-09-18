@@ -375,6 +375,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/orion180-halka-arzda-hisse-basna-12-dolar-fiyat-belirledi-432SI-4070648",
+   "baslik": "Orion180 halka arzda hisse başına 12 dolar fiyat belirledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/orion180-halka-arzda-hisse-basna-12-dolar-fiyat-belirledi-432SI-4070648",
+   "saat": "02:42",
+   "tarih_iso": "2026-09-18T02:42:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T03:01:06.510786+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/latin-amerika-hisseleri-fed-artrm-sonras-dolar-zayflarken-yukseldi-93CH-4070591",
    "baslik": "Latin Amerika hisseleri Fed artırımı sonrası dolar zayıflarken yükseldi",
    "kaynak": "Investing TR",
@@ -976,6 +986,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/orion180-prices-ipo-at-12-per-share-on-nasdaq-432SI-4906558",
+   "baslik": "Orion180 prices IPO at $12 per share on Nasdaq",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/orion180-prices-ipo-at-12-per-share-on-nasdaq-432SI-4906558",
+   "saat": "02:42",
+   "tarih_iso": "2026-09-18T02:42:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T03:01:06.510786+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nucor-stock-sliding-today-93CH-4906526",
    "baslik": "Why is Nucor stock sliding today?",
@@ -2165,16 +2185,6 @@
    "tarih_iso": "2026-09-17T17:30:25+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T18:01:07.864793+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-4905977",
-   "baslik": "Why is Advanced Micro Devices stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-advanced-micro-devices-stock-rallying-today-93CH-4905977",
-   "saat": "17:30",
-   "tarih_iso": "2026-09-17T17:30:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T18:01:07.864793+03:00"
   }
  ],
  "altin_haber": [
@@ -2559,5 +2569,5 @@
    "eklenme": "2026-09-17T09:01:04.210249+03:00"
   }
  ],
- "guncelleme": "2026-09-18T02:30:53.443492+03:00"
+ "guncelleme": "2026-09-18T03:01:06.510786+03:00"
 }
