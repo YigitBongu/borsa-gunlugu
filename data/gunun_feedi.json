@@ -277,6 +277,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/fonlarin-odeme-ve-tasfiye-surecini-belirlendi-spk-dan-yeni-aciklama-3913304",
+   "baslik": "Fonların ödeme ve tasfiye süreci belli oldu",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/fonlarin-odeme-ve-tasfiye-surecini-belirlendi-spk-dan-yeni-aciklama-3913304",
+   "saat": "06:55",
+   "tarih_iso": "2026-09-18T06:55:19+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-09-18T07:01:04.452653+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/besiktastan-avrupaya-muhtesem-baslangic-haberi-840476",
    "baslik": "Beşiktaş'tan Avrupa'ya muhteşem başlangıç",
    "kaynak": "Dünya",
@@ -1005,6 +1017,16 @@
    "tarih_iso": "2026-09-18T06:16:15+03:00",
    "kodlar": [],
    "eklenme": "2026-09-18T06:30:55.042837+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-chip-tech-stocks-track-wall-st-gains-as-yields-fall-4906644",
+   "baslik": "Asia chip, tech stocks track Wall St gains as yields fall",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-chip-tech-stocks-track-wall-st-gains-as-yields-fall-4906644",
+   "saat": "06:15",
+   "tarih_iso": "2026-09-18T06:15:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T07:01:04.452653+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asian-stocks-rise-as-oil-retreat-eases-inflation-fears-boj-in-focus-4906641",
@@ -2185,16 +2207,6 @@
    "tarih_iso": "2026-09-17T17:55:03+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T18:24:48.970521+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/jackson-financial-stock-falls-after-shortseller-raises-concerns-93CH-4906023",
-   "baslik": "Jackson Financial stock falls after short-seller raises concerns",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/jackson-financial-stock-falls-after-shortseller-raises-concerns-93CH-4906023",
-   "saat": "17:54",
-   "tarih_iso": "2026-09-17T17:54:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T18:24:48.970521+03:00"
   }
  ],
  "altin_haber": [
@@ -2579,5 +2591,5 @@
    "eklenme": "2026-09-17T09:01:04.210249+03:00"
   }
  ],
- "guncelleme": "2026-09-18T06:30:55.042837+03:00"
+ "guncelleme": "2026-09-18T07:01:04.452653+03:00"
 }
