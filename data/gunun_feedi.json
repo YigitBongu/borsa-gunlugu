@@ -375,6 +375,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/rba-baskan-bullock-faiz-oranlarnn-enflasyonu-sogutmaya-yeterli-olup-olmadgn-degerlendirecegiz-93CH-4070677",
+   "baslik": "RBA Başkanı Bullock: Faiz oranlarının enflasyonu soğutmaya yeterli olup olmadığını değerlendireceğiz",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/rba-baskan-bullock-faiz-oranlarnn-enflasyonu-sogutmaya-yeterli-olup-olmadgn-degerlendirecegiz-93CH-4070677",
+   "saat": "04:10",
+   "tarih_iso": "2026-09-18T04:10:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T04:30:52.480584+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/orion180-halka-arzda-hisse-basna-12-dolar-fiyat-belirledi-432SI-4070648",
    "baslik": "Orion180 halka arzda hisse başına 12 dolar fiyat belirledi",
    "kaynak": "Investing TR",
@@ -986,6 +996,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rba-to-assess-if-rates-adequate-to-cool-inflation-says-governor-bullock-93CH-4906601",
+   "baslik": "RBA to assess if rates adequate to cool inflation, says Governor Bullock",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rba-to-assess-if-rates-adequate-to-cool-inflation-says-governor-bullock-93CH-4906601",
+   "saat": "04:09",
+   "tarih_iso": "2026-09-18T04:09:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T04:30:52.480584+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/leaders-advantage-acquisition-prices-150m-ipo-on-nasdaq-432SI-4906590",
+   "baslik": "Leader’s Advantage Acquisition prices $150M IPO on Nasdaq",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/leaders-advantage-acquisition-prices-150m-ipo-on-nasdaq-432SI-4906590",
+   "saat": "03:56",
+   "tarih_iso": "2026-09-18T03:56:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T04:30:52.480584+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-edge-lower-after-wall-st-rallies-on-softer-oil-yields-4906586",
    "baslik": "U.S. stock futures edge lower after Wall St rallies on softer oil, yields",
@@ -2165,26 +2195,6 @@
    "tarih_iso": "2026-09-17T17:35:01+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T18:01:07.864793+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/news/save-auto-loans-federal-funds-220313700.html",
-   "baslik": "How to save on auto loans as the federal funds rate changes",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/news/save-auto-loans-federal-funds-220313700.html",
-   "saat": "17:33",
-   "tarih_iso": "2026-09-17T17:33:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T18:01:07.864793+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-coherent-stock-climbing-today-93CH-4905988",
-   "baslik": "Why is Coherent stock climbing today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-coherent-stock-climbing-today-93CH-4905988",
-   "saat": "17:31",
-   "tarih_iso": "2026-09-17T17:31:56+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T18:01:07.864793+03:00"
   }
  ],
  "altin_haber": [
@@ -2569,5 +2579,5 @@
    "eklenme": "2026-09-17T09:01:04.210249+03:00"
   }
  ],
- "guncelleme": "2026-09-18T04:01:00.485221+03:00"
+ "guncelleme": "2026-09-18T04:30:52.480584+03:00"
 }
