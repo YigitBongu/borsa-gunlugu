@@ -2,6 +2,32 @@
  "tarih": "2026-09-18",
  "kap": [
   {
+   "id": "kap-my-EUPWR-202609181126",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:26",
+   "tarih_iso": "2026-09-18T11:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T12:01:09.385023+03:00"
+  },
+  {
+   "id": "kap-my-ZOREN-202609181116",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ZOREN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:16",
+   "tarih_iso": "2026-09-18T11:16:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T12:01:09.385023+03:00"
+  },
+  {
    "id": "kap-my-ALFAS-202609181105",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -152,6 +178,16 @@
    "eklenme": "2026-09-18T11:30:53.011089+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/enerji/petrol-atesi-abdyi-sardi-pompada-rekor-fedde-yeni-baski-haberi-840521",
+   "baslik": "Petrol ateşi ABD'yi sardı: Pompada rekor, Fed'de yeni baskı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/enerji/petrol-atesi-abdyi-sardi-pompada-rekor-fedde-yeni-baski-haberi-840521",
+   "saat": "11:17",
+   "tarih_iso": "2026-09-18T11:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T12:01:09.385023+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomik-veriler/merkez-bankasi-duyurdu-turkiyenin-yurt-disi-varliklarinda-dikkat-ceken-artis-haberi-840509",
    "baslik": "Merkez Bankası duyurdu: Türkiye’nin yurt dışı varlıklarında dikkat çeken artış",
    "kaynak": "Dünya",
@@ -243,6 +279,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-046-4906816",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.46%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-046-4906816",
+   "saat": "11:35",
+   "tarih_iso": "2026-09-18T11:35:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T12:01:09.385023+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nestle-stock-sliding-today-93CH-4906812",
+   "baslik": "Why is Nestlé stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nestle-stock-sliding-today-93CH-4906812",
+   "saat": "11:26",
+   "tarih_iso": "2026-09-18T11:26:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T12:01:09.385023+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
    "baslik": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy",
@@ -616,6 +672,26 @@
    "eklenme": "2026-09-18T09:30:53.284316+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-faces-4444-test-as-iran-conflict-keeps-markets-on-edge-200687936",
+   "baslik": "Gold Faces $4,444 Test as Iran Conflict Keeps Markets on Edge",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-faces-4444-test-as-iran-conflict-keeps-markets-on-edge-200687936",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-18T12:01:09.385023+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-prices-rise-as-falling-oil-prices-provide-support-200687935",
+   "baslik": "Gold Prices Rise as Falling Oil Prices Provide Support",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-prices-rise-as-falling-oil-prices-provide-support-200687935",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-18T12:01:09.385023+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/central-banks-are-hiking-again-yet-gold-keeps-climbing-200687932",
    "baslik": "Central Banks Are Hiking Again, Yet Gold Keeps Climbing",
    "kaynak": "Investing Emtia",
@@ -796,5 +872,5 @@
    "eklenme": "2026-09-18T09:01:06.310127+03:00"
   }
  ],
- "guncelleme": "2026-09-18T11:30:53.011089+03:00"
+ "guncelleme": "2026-09-18T12:01:09.385023+03:00"
 }
