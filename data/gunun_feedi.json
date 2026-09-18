@@ -2,6 +2,32 @@
  "tarih": "2026-09-18",
  "kap": [
   {
+   "id": "kap-my-ALFAS-202609181105",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ALFAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:05",
+   "tarih_iso": "2026-09-18T11:05:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T11:30:53.011089+03:00"
+  },
+  {
+   "id": "kap-my-TKFEN-202609181044",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:44",
+   "tarih_iso": "2026-09-18T10:44:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T11:30:53.011089+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609181010",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -105,6 +131,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-verileri-aciklandi-turkiyenin-yurt-disi-varliklari-ne-kadar-3468295",
+   "baslik": "TCMB verileri açıklandı: Türkiye'nin yurt dışı varlıkları ne kadar?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/tcmb-verileri-aciklandi-turkiyenin-yurt-disi-varliklari-ne-kadar-3468295",
+   "saat": "14:20",
+   "tarih_iso": "2026-09-18T14:20:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T11:30:53.011089+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/japonya-merkez-bankasi-politika-faizini-yuzde-1-25e-yukseltti-3468288",
+   "baslik": "Japonya Merkez Bankası politika faizini yüzde 1,25'e yükseltti",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/japonya-merkez-bankasi-politika-faizini-yuzde-1-25e-yukseltti-3468288",
+   "saat": "14:01",
+   "tarih_iso": "2026-09-18T14:01:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T11:30:53.011089+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomik-veriler/merkez-bankasi-duyurdu-turkiyenin-yurt-disi-varliklarinda-dikkat-ceken-artis-haberi-840509",
    "baslik": "Merkez Bankası duyurdu: Türkiye’nin yurt dışı varlıklarında dikkat çeken artış",
@@ -750,5 +796,5 @@
    "eklenme": "2026-09-18T09:01:06.310127+03:00"
   }
  ],
- "guncelleme": "2026-09-18T11:01:04.627613+03:00"
+ "guncelleme": "2026-09-18T11:30:53.011089+03:00"
 }
