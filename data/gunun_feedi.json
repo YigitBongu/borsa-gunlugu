@@ -387,6 +387,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/kripto-para/bitcoin-kayiplarini-geri-almaya-calisiyor-fed-yukselisin-onunu-kesti-haberi-840486",
+   "baslik": "Bitcoin kayıplarını geri almaya çalışıyor: Fed yükselişin önünü kesti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/kripto-para/bitcoin-kayiplarini-geri-almaya-calisiyor-fed-yukselisin-onunu-kesti-haberi-840486",
+   "saat": "07:53",
+   "tarih_iso": "2026-09-18T07:53:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T08:30:55.707794+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-18-eylul-cuma-carsamba-doviz-kurlari-haberi-840480",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (18 Eylül Cuma Çarşamba Döviz Kurları)",
    "kaynak": "Dünya",
@@ -1018,6 +1028,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/airline-oil-exposure-winners-and-losers-as-jet-fuel-costs-surge-93CH-4906676",
+   "baslik": "Airline oil exposure: winners and losers as jet fuel costs surge",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/airline-oil-exposure-winners-and-losers-as-jet-fuel-costs-surge-93CH-4906676",
+   "saat": "08:03",
+   "tarih_iso": "2026-09-18T08:03:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T08:30:55.707794+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asian-gold-stocks-rise-as-bullion-rebounds-from-near-sixweek-low-4906673",
    "baslik": "Asian gold stocks rise as bullion rebounds from near six-week low",
@@ -2207,16 +2227,6 @@
    "tarih_iso": "2026-09-17T17:59:37+03:00",
    "kodlar": [],
    "eklenme": "2026-09-17T18:01:07.864793+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/talen-energy-tln-gains-regulatory-145925718.html",
-   "baslik": "Talen Energy (TLN) Gains as Regulatory Progress Enhances Data Center Framework",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/talen-energy-tln-gains-regulatory-145925718.html",
-   "saat": "17:59",
-   "tarih_iso": "2026-09-17T17:59:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-17T18:24:48.970521+03:00"
   }
  ],
  "altin_haber": [
@@ -2229,6 +2239,16 @@
    "tarih_iso": "2026-09-18T07:49:34+03:00",
    "kodlar": [],
    "eklenme": "2026-09-18T08:01:01.355956+03:00"
+  },
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/altn-hisseleri-kulcenin-toparlanmasyla-yukseldi-4070743",
+   "baslik": "Altın hisseleri külçenin toparlanmasıyla yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-hisseleri-kulcenin-toparlanmasyla-yukseldi-4070743",
+   "saat": "07:49",
+   "tarih_iso": "2026-09-18T07:49:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T08:30:55.707794+03:00"
   },
   {
    "id": "alt-https://tr.investing.com/news/stock-market-news/venezuela-4-milyar-dolarlk-abd-altn-transferi-anlasmasna-yakn-93CH-4070739",
@@ -2651,5 +2671,5 @@
    "eklenme": "2026-09-17T09:01:04.210249+03:00"
   }
  ],
- "guncelleme": "2026-09-18T08:01:01.355956+03:00"
+ "guncelleme": "2026-09-18T08:30:55.707794+03:00"
 }
