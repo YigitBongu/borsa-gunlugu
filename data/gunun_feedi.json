@@ -2,6 +2,19 @@
  "tarih": "2026-09-18",
  "kap": [
   {
+   "id": "kap-my-BIENY-202609181247",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BIENY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:47",
+   "tarih_iso": "2026-09-18T12:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
+  {
    "id": "kap-my-EUPWR-202609181126",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -108,6 +121,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/tera-portfoy-den-tasfiye-surecine-iliskin-aciklama-3913408",
+   "baslik": "Tera'dan tasfiye açıklaması",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/tera-portfoy-den-tasfiye-surecine-iliskin-aciklama-3913408",
+   "saat": "13:13",
+   "tarih_iso": "2026-09-18T13:13:53+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsan-56-milyon-dolarlik-gudum-sistemleri-uretim-merkezini-devreye-aldi/4060961",
    "baslik": "ASELSAN, 56 milyon dolarlık \"Güdüm Sistemleri Üretim Merkezi\"ni devreye aldı",
    "kaynak": "AA Ekonomi",
@@ -170,6 +195,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/avro-bolgesinde-enflasyon-beklentileri-yukseldi-ecb-anketinde-dikkat-ceken-veriler-3468388",
+   "baslik": "Avro Bölgesi'nde enflasyon beklentileri yükseldi: ECB anketinde dikkat çeken veriler",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/avro-bolgesinde-enflasyon-beklentileri-yukseldi-ecb-anketinde-dikkat-ceken-veriler-3468388",
+   "saat": "16:17",
+   "tarih_iso": "2026-09-18T16:17:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-verileri-aciklandi-turkiyenin-yurt-disi-varliklari-ne-kadar-3468295",
    "baslik": "TCMB verileri açıklandı: Türkiye'nin yurt dışı varlıkları ne kadar?",
    "kaynak": "CNN Türk Ekonomi",
@@ -188,6 +223,16 @@
    "tarih_iso": "2026-09-18T14:01:51+03:00",
    "kodlar": [],
    "eklenme": "2026-09-18T11:30:53.011089+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/goldman-sachstan-fed-sonrasi-altin-degerlendirmesi-dev-hedef-masada-galeri-840532",
+   "baslik": "Goldman Sachs'tan Fed sonrası altın değerlendirmesi: Dev hedef masada",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/goldman-sachstan-fed-sonrasi-altin-degerlendirmesi-dev-hedef-masada-galeri-840532",
+   "saat": "12:43",
+   "tarih_iso": "2026-09-18T12:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T13:26:59.552366+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/orta-dogu-daki-petrol-soku-avro-bolgesinde-enflasyon-beklentilerini-artirdi/4060960",
@@ -301,6 +346,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dynatrace-stock-climbing-today-93CH-4907001",
+   "baslik": "Why is Dynatrace stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-dynatrace-stock-climbing-today-93CH-4907001",
+   "saat": "13:23",
+   "tarih_iso": "2026-09-18T13:23:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-etsy-stock-climbing-today-93CH-4907000",
+   "baslik": "Why is Etsy stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-etsy-stock-climbing-today-93CH-4907000",
+   "saat": "13:22",
+   "tarih_iso": "2026-09-18T13:22:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
+   "baslik": "The Fed’s never been so confident on economic growth. What investors should do now, according to KKR.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
+   "saat": "13:08",
+   "tarih_iso": "2026-09-18T13:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
+   "baslik": "The Fed hasn’t been this terse since 2007. What a 130-word statement signals for market stability.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
+   "saat": "13:08",
+   "tarih_iso": "2026-09-18T13:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html",
+   "baslik": "Best CD rates today, Friday, September 18, 2026: Up to 4.40% APY return available with a 2-year CD",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-friday-september-18-2026-up-to-440-apy-return-available-with-a-2-year-cd-100000224.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-09-18T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-18-2026-rates-mostly-higher-following-the-fed-100000327.html",
+   "baslik": "Mortgage and refinance interest rates today, Friday, September 18, 2026: Rates mostly higher following the Fed",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-september-18-2026-rates-mostly-higher-following-the-fed-100000327.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-09-18T13:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/investors-buy-us-stocks-at-fastest-pace-in-three-months-bofa-says-4906920",
    "baslik": "Investors buy US stocks at fastest pace in three months, BofA says",
@@ -774,6 +879,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/goldman-sachstan-fed-sonrasi-altin-degerlendirmesi-dev-hedef-masada-galeri-840532",
+   "baslik": "Goldman Sachs'tan Fed sonrası altın değerlendirmesi: Dev hedef masada",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/goldman-sachstan-fed-sonrasi-altin-degerlendirmesi-dev-hedef-masada-galeri-840532",
+   "saat": "12:43",
+   "tarih_iso": "2026-09-18T12:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/kapalicarsi-altin-fiyatlari-canli-18-eylul-altin-fiyatlari-bugun-ne-kadar-kac-tl-altin-yeniden-yukselise-gecti-3468240",
    "baslik": "KAPALIÇARŞI ALTIN FİYATLARI CANLI 18 EYLÜL| Altın fiyatları bugün ne kadar, kaç TL? Altın yeniden yükselişe geçti!",
    "kaynak": "CNN Türk Ekonomi",
@@ -994,5 +1109,5 @@
    "eklenme": "2026-09-18T09:01:06.310127+03:00"
   }
  ],
- "guncelleme": "2026-09-18T13:02:42.019160+03:00"
+ "guncelleme": "2026-09-18T13:26:59.552366+03:00"
 }
