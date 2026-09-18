@@ -1,6 +1,20 @@
 {
  "tarih": "2026-09-18",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-AKSA-202609180910",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "AKSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:10",
+   "tarih_iso": "2026-09-18T09:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T10:01:06.649372+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.haberturk.com/ekonomi/fonlarin-odeme-ve-tasfiye-surecini-belirlendi-spk-dan-yeni-aciklama-3913304",
@@ -16,6 +30,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/dunya/japonyada-faiz-31-yilin-zirvesinde-bojdan-25-baz-puanlik-artis-haberi-840504",
+   "baslik": "Japonya’da faiz 31 yılın zirvesinde: BoJ’dan 25 baz puanlık artış",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/japonyada-faiz-31-yilin-zirvesinde-bojdan-25-baz-puanlik-artis-haberi-840504",
+   "saat": "09:43",
+   "tarih_iso": "2026-09-18T09:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:01:06.649372+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/japonya-merkez-bankasi-politika-faizini-31-yilin-en-yuksek-seviyesine-cikardi/4060730",
+   "baslik": "Japonya Merkez Bankası politika faizini 31 yılın en yüksek seviyesine çıkardı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/japonya-merkez-bankasi-politika-faizini-31-yilin-en-yuksek-seviyesine-cikardi/4060730",
+   "saat": "09:34",
+   "tarih_iso": "2026-09-18T09:34:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:01:06.649372+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/kripto-para/bitcoin-kayiplarini-geri-almaya-calisiyor-fed-yukselisin-onunu-kesti-haberi-840486",
    "baslik": "Bitcoin kayıplarını geri almaya çalışıyor: Fed yükselişin önünü kesti",
@@ -68,6 +102,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-001-4906726",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.01%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-001-4906726",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-18T09:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:01:06.649372+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cxmt-stock-rallying-today-93CH-4906724",
+   "baslik": "Why is CXMT stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cxmt-stock-rallying-today-93CH-4906724",
+   "saat": "09:29",
+   "tarih_iso": "2026-09-18T09:29:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:01:06.649372+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/tata-group-stocks-fall-after-26-billion-sp-group-stake-sale-plan-93CH-4906709",
    "baslik": "Tata Group stocks fall after $2.6 billion SP Group stake sale plan",
@@ -481,5 +535,5 @@
    "eklenme": "2026-09-18T09:01:06.310127+03:00"
   }
  ],
- "guncelleme": "2026-09-18T09:30:53.284316+03:00"
+ "guncelleme": "2026-09-18T10:01:06.649372+03:00"
 }
