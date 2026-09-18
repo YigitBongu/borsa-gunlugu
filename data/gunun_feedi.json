@@ -2,6 +2,58 @@
  "tarih": "2026-09-18",
  "kap": [
   {
+   "id": "kap-my-KZBGY-202609181500",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KZBGY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-18T15:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T15:30:49.501010+03:00"
+  },
+  {
+   "id": "kap-my-REEDR-202609181458",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:58",
+   "tarih_iso": "2026-09-18T14:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T15:30:49.501010+03:00"
+  },
+  {
+   "id": "kap-my-ECILC-202609181451",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ECILC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:51",
+   "tarih_iso": "2026-09-18T14:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T15:30:49.501010+03:00"
+  },
+  {
+   "id": "kap-my-GSDHO-202609181450",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:50",
+   "tarih_iso": "2026-09-18T14:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T15:30:49.501010+03:00"
+  },
+  {
    "id": "kap-my-SASA-202609181438",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -184,6 +236,18 @@
    "eklenme": "2026-09-18T12:30:53.067986+03:00"
   },
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/gubretasin-iskenderundaki-limanina-190-milyon-dolarlik-yatirim-yapilacak/4060844",
+   "baslik": "Gübretaş'ın İskenderun'daki limanına 190 milyon dolarlık yatırım yapılacak",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/gubretasin-iskenderundaki-limanina-190-milyon-dolarlik-yatirim-yapilacak/4060844",
+   "saat": "11:05",
+   "tarih_iso": "2026-09-18T11:05:55+03:00",
+   "kodlar": [
+    "GUBRF"
+   ],
+   "eklenme": "2026-09-18T15:30:49.501010+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/turkcell-6g-calismalarinda-rol-aliyor-3913358",
    "baslik": "Turkcell, 6G çalışmalarında rol alıyor",
    "kaynak": "Habertürk Ekonomi",
@@ -242,6 +306,16 @@
    "tarih_iso": "2026-09-18T16:17:24+03:00",
    "kodlar": [],
    "eklenme": "2026-09-18T13:26:59.552366+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/air-india-ceosu-maliyetleri-dusurmek-icin-butce-biriminin-birlesmesini-arastryor-93CH-4071369",
+   "baslik": "Air India CEO’su maliyetleri düşürmek için bütçe biriminin birleşmesini araştırıyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/air-india-ceosu-maliyetleri-dusurmek-icin-butce-biriminin-birlesmesini-arastryor-93CH-4071369",
+   "saat": "15:07",
+   "tarih_iso": "2026-09-18T15:07:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T15:30:49.501010+03:00"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-verileri-aciklandi-turkiyenin-yurt-disi-varliklari-ne-kadar-3468295",
@@ -385,6 +459,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c94gm0mxmy65o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Economy minister accuses SoS of 'mischief making' in social media exchange",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c94gm0mxmy65o?at_medium=RSS&at_campaign=rss",
+   "saat": "15:12",
+   "tarih_iso": "2026-09-18T15:12:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T15:30:49.501010+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alphabet-stock-climbing-today-93CH-4907193",
    "baslik": "Why is Alphabet stock climbing today?",
@@ -1308,5 +1392,5 @@
    "eklenme": "2026-09-18T09:01:06.310127+03:00"
   }
  ],
- "guncelleme": "2026-09-18T15:01:02.924092+03:00"
+ "guncelleme": "2026-09-18T15:30:49.501010+03:00"
 }
