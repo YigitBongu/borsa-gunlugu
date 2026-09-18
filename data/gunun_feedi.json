@@ -2,6 +2,32 @@
  "tarih": "2026-09-18",
  "kap": [
   {
+   "id": "kap-my-KCAER-202609181007",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KCAER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:07",
+   "tarih_iso": "2026-09-18T10:07:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
+   "id": "kap-my-SDTTR-202609181006",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:06",
+   "tarih_iso": "2026-09-18T10:06:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
    "id": "kap-my-AKSA-202609180910",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -17,6 +43,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-tarfin-mac-saati-olympiacos-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-840512",
+   "baslik": "Fenerbahçe Tarfin maç saati... Olympiacos - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-tarfin-mac-saati-olympiacos-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-840512",
+   "saat": "10:24",
+   "tarih_iso": "2026-09-18T10:24:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/uefa-ulke-siralamasi-puan-durumu-turkiye-kacinci-sirada-ve-puani-kac-haberi-840508",
+   "baslik": "UEFA ülke sıralaması puan durumu... Türkiye kaçıncı sırada ve puanı kaç?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/uefa-ulke-siralamasi-puan-durumu-turkiye-kacinci-sirada-ve-puani-kac-haberi-840508",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-18T10:00:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/fonlarin-odeme-ve-tasfiye-surecini-belirlendi-spk-dan-yeni-aciklama-3913304",
    "baslik": "Fonların ödeme ve tasfiye süreci belli oldu",
    "kaynak": "Habertürk Ekonomi",
@@ -30,6 +80,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/merkez-bankasi-duyurdu-turkiyenin-yurt-disi-varliklarinda-dikkat-ceken-artis-haberi-840509",
+   "baslik": "Merkez Bankası duyurdu: Türkiye’nin yurt dışı varlıklarında dikkat çeken artış",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/merkez-bankasi-duyurdu-turkiyenin-yurt-disi-varliklarinda-dikkat-ceken-artis-haberi-840509",
+   "saat": "10:04",
+   "tarih_iso": "2026-09-18T10:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/enerji/petrol-fiyatlari-geri-cekildi-brent-103-dolar-sinirinda-haberi-840507",
+   "baslik": "Petrol fiyatları geri çekildi: Brent 103 dolar sınırında",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/enerji/petrol-fiyatlari-geri-cekildi-brent-103-dolar-sinirinda-haberi-840507",
+   "saat": "09:58",
+   "tarih_iso": "2026-09-18T09:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/dunya/japonyada-faiz-31-yilin-zirvesinde-bojdan-25-baz-puanlik-artis-haberi-840504",
    "baslik": "Japonya’da faiz 31 yılın zirvesinde: BoJ’dan 25 baz puanlık artış",
@@ -102,6 +172,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+   "baslik": "Why Japanese stocks rose as government bond yields and the yen fell after rate hike",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+   "saat": "10:19",
+   "tarih_iso": "2026-09-18T10:19:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-on-hormuz-crisis-despite-retail-sales-beat-4906757",
+   "baslik": "FTSE 100 today: Stocks slip on Hormuz crisis despite retail sales beat",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-on-hormuz-crisis-despite-retail-sales-beat-4906757",
+   "saat": "10:14",
+   "tarih_iso": "2026-09-18T10:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-snap-twoweek-slide-as-fed-resolve-4906682",
+   "baslik": "European stocks snap two-week slide as Fed resolve",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-snap-twoweek-slide-as-fed-resolve-4906682",
+   "saat": "10:13",
+   "tarih_iso": "2026-09-18T10:13:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/this-stock-is-citis-top-pick-despite-ftc-advertising-lawsuit-93CH-4906756",
+   "baslik": "This Stock is Citi’s Top Pick Despite FTC Advertising Lawsuit",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/this-stock-is-citis-top-pick-despite-ftc-advertising-lawsuit-93CH-4906756",
+   "saat": "10:12",
+   "tarih_iso": "2026-09-18T10:12:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/hang-seng-plunges-below-key-mas-rsi-near-oversold-live-levels-93CH-4898792",
+   "baslik": "Hang Seng stuck below 24,981 resistance in no-trade zone: Live",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/hang-seng-plunges-below-key-mas-rsi-near-oversold-live-levels-93CH-4898792",
+   "saat": "10:11",
+   "tarih_iso": "2026-09-18T10:11:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/barclays-upgrades-soitec-to-overweight-lifts-target-to-200-on-photonics-growth-4906748",
+   "baslik": "Barclays upgrades Soitec to Overweight, lifts target to €200 on photonics growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/barclays-upgrades-soitec-to-overweight-lifts-target-to-200-on-photonics-growth-4906748",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-18T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-152-4906747",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 1.52%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-152-4906747",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-18T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-001-4906726",
    "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.01%",
@@ -375,6 +515,16 @@
    "eklenme": "2026-09-18T09:30:53.284316+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/logarithmic-gold-map-mean-reversion-box-42454566-ahead-of-cycle-date-200687924",
+   "baslik": "Logarithmic Gold Map: Mean Reversion Box $4,245–$4,566 Ahead of Cycle Date",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/logarithmic-gold-map-mean-reversion-box-42454566-ahead-of-cycle-date-200687924",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-18T10:30:50.992197+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-could-retreat-if-buyers-fail-to-break-yesterdays-high-200687886",
    "baslik": "Gold Could Retreat if Buyers Fail to Break Yesterday’s High",
    "kaynak": "Investing Emtia",
@@ -535,5 +685,5 @@
    "eklenme": "2026-09-18T09:01:06.310127+03:00"
   }
  ],
- "guncelleme": "2026-09-18T10:01:06.649372+03:00"
+ "guncelleme": "2026-09-18T10:30:50.992197+03:00"
 }
