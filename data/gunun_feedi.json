@@ -555,6 +555,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-19-eylul-cumartesi-doviz-kurlari-haberi-840603",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (19 Eylül Cumartesi Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-19-eylul-cumartesi-doviz-kurlari-haberi-840603",
+   "saat": "07:27",
+   "tarih_iso": "2026-09-19T07:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-19T08:01:12.229250+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-haftayi-kazancla-kapatti-fed-baskisini-petrol-kirdi-galeri-840602",
    "baslik": "Altın haftayı kazançla kapattı: Fed baskısını petrol kırdı",
    "kaynak": "Dünya",
@@ -756,6 +766,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1",
+   "baslik": "Investors weigh whether Anthropic can sustain surging revenues post-IPO",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/96d0a206-a37b-4166-b78d-b27ed24f7d57?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-19T07:00:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-19T08:01:12.229250+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/05887f92-c777-48ab-8efa-9a39e7e18a9f?syn-25a6b1a6=1",
+   "baslik": "US state department under pressure to disclose Venezuelan oil takings",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/05887f92-c777-48ab-8efa-9a39e7e18a9f?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-19T07:00:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-19T08:01:12.229250+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
    "baslik": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
@@ -1935,26 +1965,6 @@
    "tarih_iso": "2026-09-18T16:52:59+03:00",
    "kodlar": [],
    "eklenme": "2026-09-18T17:01:08.917967+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-macom-technology-solutions-stock-rallying-today-93CH-4907522",
-   "baslik": "Why is MACOM Technology Solutions stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-macom-technology-solutions-stock-rallying-today-93CH-4907522",
-   "saat": "16:50",
-   "tarih_iso": "2026-09-18T16:50:40+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-18T17:01:08.917967+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/news/stock-market-falls-on-ai-fears-hawkish-fed-bounces-back/?src=A00220&yptr=yahoo",
-   "baslik": "Stock Market Falls On AI Fears, Hawkish Fed But Bounces Back: Weekly Review",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/news/stock-market-falls-on-ai-fears-hawkish-fed-bounces-back/?src=A00220&yptr=yahoo",
-   "saat": "16:50",
-   "tarih_iso": "2026-09-18T16:50:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-18T17:30:52.907956+03:00"
   }
  ],
  "altin_haber": [
@@ -2329,5 +2339,5 @@
    "eklenme": "2026-09-18T09:01:06.310127+03:00"
   }
  ],
- "guncelleme": "2026-09-19T07:30:52.806845+03:00"
+ "guncelleme": "2026-09-19T08:01:12.229250+03:00"
 }
