@@ -1,7 +1,20 @@
 {
  "tarih": "2026-09-20",
  "kap": [],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/dunya/kudus-valiligi-israilliler-mescid-i-aksaya-baskin-yapti-haberi-840686",
+   "baslik": "Kudüs Valiliği: İsrailliler Mescid-i Aksa’ya baskın yaptı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/kudus-valiligi-israilliler-mescid-i-aksaya-baskin-yapti-haberi-840686",
+   "saat": "09:55",
+   "tarih_iso": "2026-09-20T09:55:00+03:00",
+   "kodlar": [
+    "AKSA"
+   ],
+   "eklenme": "2026-09-20T10:01:36.828481+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-20-eylul-pazar-doviz-kurlari-haberi-840673",
@@ -158,6 +171,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-20-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3468906",
+   "baslik": "ALTIN FİYATLARI 20 EYLÜL 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlari-20-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3468906",
+   "saat": "12:58",
+   "tarih_iso": "2026-09-20T12:58:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-20T10:01:36.828481+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-vs-silver-2026-why-im-buying-this-dip-not-trading-it-200687984",
    "baslik": "Gold Vs. Silver 2026: Why I’m Buying This Dip, Not Trading It",
    "kaynak": "Investing Emtia",
@@ -218,5 +241,5 @@
    "eklenme": "2026-09-20T09:00:54.708182+03:00"
   }
  ],
- "guncelleme": "2026-09-20T09:30:58.710938+03:00"
+ "guncelleme": "2026-09-20T10:01:36.828481+03:00"
 }
