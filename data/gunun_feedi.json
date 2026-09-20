@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahceden-eyupspora-tarihi-fark-haberi-840734",
+   "baslik": "Fenerbahçe'den Eyüpspor'a tarihi fark",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahceden-eyupspora-tarihi-fark-haberi-840734",
+   "saat": "18:50",
+   "tarih_iso": "2026-09-20T18:50:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-21T00:01:02.589239+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/thy-11-kez-avrupa-nin-en-iyi-havayolu-secildi-3913758",
    "baslik": "THY 11. kez Avrupa'nın en iyi havayolu",
    "kaynak": "Habertürk Ekonomi",
@@ -128,6 +140,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/2-monster-stocks-buy-hold-202800691.html",
+   "baslik": "2 Monster Stocks to Buy and Hold for at Least the Next 5 Years",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-monster-stocks-buy-hold-202800691.html",
+   "saat": "23:28",
+   "tarih_iso": "2026-09-20T23:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T00:01:02.589239+03:00"
+  },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/orion-energy-oesx-raises-guidance-195100572.html",
    "baslik": "Orion Energy (OESX) Raises Guidance. How Firm is the Retailer Opportunity?",
@@ -961,5 +983,5 @@
    "eklenme": "2026-09-20T09:00:54.708182+03:00"
   }
  ],
- "guncelleme": "2026-09-20T23:30:50.967233+03:00"
+ "guncelleme": "2026-09-21T00:01:02.589239+03:00"
 }
