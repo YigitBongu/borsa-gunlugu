@@ -89,6 +89,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/paramount-birlesmeyi-onaylatmak-icin-kaliforniyaya-15-milyar-dolar-taahhudunu-gorusuyor-93CH-4072165",
+   "baslik": "Paramount, birleşmeyi onaylatmak için Kaliforniya’ya 1,5 milyar dolar taahhüdünü görüşüyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/paramount-birlesmeyi-onaylatmak-icin-kaliforniyaya-15-milyar-dolar-taahhudunu-gorusuyor-93CH-4072165",
+   "saat": "07:49",
+   "tarih_iso": "2026-09-21T07:49:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T08:01:01.506031+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-21-eylul-pazartesi-doviz-kurlari-haberi-840761",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (21 Eylül Pazartesi Döviz Kurları)",
    "kaynak": "Dünya",
@@ -190,6 +200,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ingenia-communities-stock-climbing-today-93CH-4908251",
+   "baslik": "Why is Ingenia Communities stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ingenia-communities-stock-climbing-today-93CH-4908251",
+   "saat": "07:48",
+   "tarih_iso": "2026-09-21T07:48:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T08:01:01.506031+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
    "baslik": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
@@ -1379,16 +1399,6 @@
    "tarih_iso": "2026-09-19T23:10:04+03:00",
    "kodlar": [],
    "eklenme": "2026-09-20T09:00:54.708182+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/spacex-nasdaq-100-weight-to-jump-to-282-in-quarterly-rebalance-bloomberg-4908113",
-   "baslik": "SpaceX Nasdaq 100 weight to jump to 2.82% in quarterly rebalance -Bloomberg",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/spacex-nasdaq-100-weight-to-jump-to-282-in-quarterly-rebalance-bloomberg-4908113",
-   "saat": "21:56",
-   "tarih_iso": "2026-09-19T21:56:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-20T09:00:54.708182+03:00"
   }
  ],
  "altin_haber": [
@@ -1513,5 +1523,5 @@
    "eklenme": "2026-09-20T09:00:54.708182+03:00"
   }
  ],
- "guncelleme": "2026-09-21T07:30:53.241535+03:00"
+ "guncelleme": "2026-09-21T08:01:01.506031+03:00"
 }
