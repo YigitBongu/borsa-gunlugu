@@ -2,6 +2,19 @@
  "tarih": "2026-09-21",
  "kap": [
   {
+   "id": "kap-my-ISGYO-202609211635",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "ISGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:35",
+   "tarih_iso": "2026-09-21T16:35:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
    "id": "kap-my-AKBNK-202609211536",
    "baslik": "AKBANK T.A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "AKBANK T.A.Ş.",
@@ -329,6 +342,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-21-eylul-2026/4063365",
+   "baslik": "60 saniyede ekonomide bugün (21 Eylül 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-21-eylul-2026/4063365",
+   "saat": "15:49",
+   "tarih_iso": "2026-09-21T15:49:40+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/cumhurbakanligi-kupasi-fenerbahce-tarfin-besiktas-basketbol-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-840822",
    "baslik": "CUMHURBAKANLIĞI KUPASI: Fenerbahçe Tarfin Beşiktaş basketbol maçı ne zaman, saat kaçta, hangi kanalda?",
    "kaynak": "Dünya",
@@ -569,6 +594,76 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-turning-point-brands-stock-sliding-today-93CH-4909258",
+   "baslik": "Why is Turning Point Brands stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-turning-point-brands-stock-sliding-today-93CH-4909258",
+   "saat": "16:58",
+   "tarih_iso": "2026-09-21T16:58:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
+   "baslik": "Tech stocks rise, Bitcoin rallied as Treasury yields ease: AlphaCheck",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
+   "saat": "16:50",
+   "tarih_iso": "2026-09-21T16:50:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ciena-upgraded-flutter-downgraded-wall-134710881.html",
+   "baslik": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ciena-upgraded-flutter-downgraded-wall-134710881.html",
+   "saat": "16:47",
+   "tarih_iso": "2026-09-21T16:47:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jensen-huang-just-delivered-incredible-133900772.html",
+   "baslik": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-just-delivered-incredible-133900772.html",
+   "saat": "16:39",
+   "tarih_iso": "2026-09-21T16:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt-132800172.html",
+   "baslik": "Tech stocks haven't been this cheap since OpenAI launched ChatGPT",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt-132800172.html",
+   "saat": "16:28",
+   "tarih_iso": "2026-09-21T16:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/record-diesel-prices-hit-transport-132712352.html",
+   "baslik": "Record diesel prices hit transport stocks, threaten U.S. inflation",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/record-diesel-prices-hit-transport-132712352.html",
+   "saat": "16:27",
+   "tarih_iso": "2026-09-21T16:27:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/agnc-investment-joining-p-midcap-132501114.html",
+   "baslik": "AGNC Investment Is Joining the S&P MidCap 400 Index. Here's What That Means for Its 14%+ Yield.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/agnc-investment-joining-p-midcap-132501114.html",
+   "saat": "16:25",
+   "tarih_iso": "2026-09-21T16:25:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/21/german-election-result.html",
    "baslik": "German voters turn to left and far-right as 'disaster' for ruling CDU threatens pro-growth reforms",
    "kaynak": "CNBC",
@@ -577,6 +672,46 @@
    "tarih_iso": "2026-09-21T16:22:48+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T16:30:53.900864+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/fed-rate-hike-fails-lift-132042446.html",
+   "baslik": "Fed Rate Hike Fails to Lift Bank Stocks as Market Reprices the Rally",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/fed-rate-hike-fails-lift-132042446.html",
+   "saat": "16:20",
+   "tarih_iso": "2026-09-21T16:20:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/articles/wall-street-futures-rise-falling-131909115.html",
+   "baslik": "Wall Street Futures Rise as Falling Oil Prices Support Market Sentiment: Dow Jones, S&P, Nasdaq",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/articles/wall-street-futures-rise-falling-131909115.html",
+   "saat": "16:19",
+   "tarih_iso": "2026-09-21T16:19:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/could-seen-warner-bros-discovery-131840031.html",
+   "baslik": "Could You Have Seen Warner Bros Discovery Stock's Run Coming?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/could-seen-warner-bros-discovery-131840031.html",
+   "saat": "16:18",
+   "tarih_iso": "2026-09-21T16:18:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/below-expected-earnings-pressured-shake-131531191.html",
+   "baslik": "Below-Expected Earnings Pressured Shake Shack (SHAK) in Q2",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/below-expected-earnings-pressured-shake-131531191.html",
+   "saat": "16:15",
+   "tarih_iso": "2026-09-21T16:15:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/archer-aviation-stock-no-brainer-131217629.html",
@@ -829,6 +964,16 @@
    "eklenme": "2026-09-21T16:01:04.508815+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/energy/articles/trafigura-launches-volare-shipping-cash-123000703.html",
+   "baslik": "Trafigura Launches Volare Shipping to Cash In on Record Tanker Rates",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/trafigura-launches-volare-shipping-cash-123000703.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-09-21T15:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tokenized-equities-ai-disruption-threaten-122633931.html",
    "baslik": "Tokenized Equities and AI Disruption Threaten Broadridge Financial Solutions’ (BR) Market Share",
    "kaynak": "Yahoo Finance",
@@ -837,6 +982,16 @@
    "tarih_iso": "2026-09-21T15:26:33+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T16:01:04.508815+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/21/treasury-yields-government-bonds.html",
+   "baslik": "Treasury yields ease as global borrowing costs tumble",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/21/treasury-yields-government-bonds.html",
+   "saat": "15:26",
+   "tarih_iso": "2026-09-21T15:26:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/progressive-trailing-yield-wildly-misleading-122053774.html",
@@ -937,6 +1092,16 @@
    "tarih_iso": "2026-09-21T14:59:26+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T15:30:52.216030+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
+   "baslik": "U.S.-listed Greenland stocks surge after Trump announces security deal with Denmark",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html",
+   "saat": "14:59",
+   "tarih_iso": "2026-09-21T14:59:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/softbank-launches-11-billion-junk-115346334.html",
@@ -1319,6 +1484,16 @@
    "eklenme": "2026-09-21T14:05:18.273382+03:00"
   },
   {
+   "id": "yab-https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
+   "baslik": "Novo shares slide as drugmaker lays out post-Wegovy growth strategy",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
+   "saat": "13:40",
+   "tarih_iso": "2026-09-21T13:40:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/energy/articles/totalenergies-partners-gip-african-oil-103910968.html",
    "baslik": "TotalEnergies partners with GIP for African oil and gas assets",
    "kaynak": "Yahoo Finance",
@@ -1617,159 +1792,19 @@
    "tarih_iso": "2026-09-21T12:39:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/finance/commodities-futures/oil-declines-as-concerns-over-extended-supply-disruptions-ease-f7ff8ec9?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Oil Broadly Unchanged as Traders Await U.N. General Assembly",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/finance/commodities-futures/oil-declines-as-concerns-over-extended-supply-disruptions-ease-f7ff8ec9?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:36",
-   "tarih_iso": "2026-09-21T12:36:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-usa-rare-earth-stock-is-jumping-today-93CH-4908495",
-   "baslik": "Why USA Rare Earth stock is jumping today",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-usa-rare-earth-stock-is-jumping-today-93CH-4908495",
-   "saat": "12:34",
-   "tarih_iso": "2026-09-21T12:34:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:01:04.775979+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/stocks-to-watch-warner-bros-intel-strategy-VwQlqTeLLc9SL0RAX8qF?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Stocks to Watch: Warner Bros., Intel, Strategy",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/stocks-to-watch-warner-bros-intel-strategy-VwQlqTeLLc9SL0RAX8qF?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:29",
-   "tarih_iso": "2026-09-21T12:29:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-svrn-stock-surging-today-93CH-4908490",
-   "baslik": "Why is SVRN stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-svrn-stock-surging-today-93CH-4908490",
-   "saat": "12:27",
-   "tarih_iso": "2026-09-21T12:27:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:01:04.775979+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-187-billion-warning-092700742.html",
-   "baslik": "Warren Buffett's $187 Billion Warning to Wall Street Echoes Louder Than Ever, Thanks to His Favorite Valuation Measure",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-187-billion-warning-092700742.html",
-   "saat": "12:27",
-   "tarih_iso": "2026-09-21T12:27:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:01:04.775979+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/wells-fargo-sees-fed-stress-test-changes-as-positive-for-banks-93CH-4908487",
-   "baslik": "Wells Fargo sees Fed stress test changes as positive for banks",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/wells-fargo-sees-fed-stress-test-changes-as-positive-for-banks-93CH-4908487",
-   "saat": "12:23",
-   "tarih_iso": "2026-09-21T12:23:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T12:30:55.663578+03:00"
-  },
-  {
-   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-092126/card/dollar-gains-on-prospects-of-further-fed-tightening-wmmArgpKkRWvKGwdH1vZ?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Dollar Gains on Prospects of Further Fed Tightening",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-092126/card/dollar-gains-on-prospects-of-further-fed-tightening-wmmArgpKkRWvKGwdH1vZ?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:20",
-   "tarih_iso": "2026-09-21T12:20:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:01:04.775979+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns----its-ceo-sees-this-as-the-main-problem-091933221.html",
-   "baslik": "Novo Nordisk stock gets drilled on pipeline concerns -- its CEO sees this as the main problem",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns----its-ceo-sees-this-as-the-main-problem-091933221.html",
-   "saat": "12:19",
-   "tarih_iso": "2026-09-21T12:19:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T12:30:55.663578+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html",
-   "baslik": "Novo Nordisk stock gets drilled on pipeline concerns— its CEO sees this as the main problem",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html",
-   "saat": "12:19",
-   "tarih_iso": "2026-09-21T12:19:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:01:04.775979+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/small-business/articles/grew-chicago-cabrini-green-became-091352416.html",
-   "baslik": "He Grew Up in Chicago’s Cabrini-Green and Became a Billionaire Selling Hot Dogs. You Don’t Need Market Power to Get Rich, You Need Decades",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/small-business/articles/grew-chicago-cabrini-green-became-091352416.html",
-   "saat": "12:13",
-   "tarih_iso": "2026-09-21T12:13:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:01:04.775979+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wall-street-just-got-more-091106433.html",
-   "baslik": "Wall Street Just Got More Bullish on GE Vernova. Consensus Now Puts the Target at $1,237.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-just-got-more-091106433.html",
-   "saat": "12:11",
-   "tarih_iso": "2026-09-21T12:11:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T12:30:55.663578+03:00"
-  },
-  {
-   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-092126/card/chip-stocks-open-week-with-early-gains-SnhVvwnrAUtgIPETt6jo?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Chip Stocks Open Week With Early Gains",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-092126/card/chip-stocks-open-week-with-early-gains-SnhVvwnrAUtgIPETt6jo?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:10",
-   "tarih_iso": "2026-09-21T12:10:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:01:04.775979+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/fed-just-hiked-rates-first-090500873.html",
-   "baslik": "The Fed Just Hiked Rates for the First Time Since 2023. 3 AI Stocks That Could Feel It Most",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/fed-just-hiked-rates-first-090500873.html",
-   "saat": "12:05",
-   "tarih_iso": "2026-09-21T12:05:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T12:30:55.663578+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-   "baslik": "Novo Nordisk stock tumbles as Ozempic maker sets out 2030 goals",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
-   "saat": "11:58",
-   "tarih_iso": "2026-09-21T11:58:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T12:01:03.217989+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/higher-interest-rates-mean-caterpillar-085500295.html",
-   "baslik": "What Higher Interest Rates Mean for Caterpillar, GE Vernova, and Vertiv",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/higher-interest-rates-mean-caterpillar-085500295.html",
-   "saat": "11:55",
-   "tarih_iso": "2026-09-21T11:55:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T12:30:55.663578+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-21-2026-gold-prices-slip-on-middle-east-tensions-133531697.html",
+   "baslik": "Gold prices today, Monday, September 21, 2026: Gold prices slip on Middle East tensions",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-21-2026-gold-prices-slip-on-middle-east-tensions-133531697.html",
+   "saat": "16:35",
+   "tarih_iso": "2026-09-21T16:35:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/golds-bullish-setup-is-improving--but-the-bigger-trend-says-caution-200688066",
    "baslik": "Gold’s Bullish Setup Is Improving — But the Bigger Trend Says Caution",
@@ -2021,5 +2056,5 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   }
  ],
- "guncelleme": "2026-09-21T16:30:53.900864+03:00"
+ "guncelleme": "2026-09-21T17:01:11.489460+03:00"
 }
