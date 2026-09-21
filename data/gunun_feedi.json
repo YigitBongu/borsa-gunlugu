@@ -2,6 +2,19 @@
  "tarih": "2026-09-21",
  "kap": [
   {
+   "id": "kap-my-REEDR-202609211040",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:40",
+   "tarih_iso": "2026-09-21T10:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T11:01:01.136483+03:00"
+  },
+  {
    "id": "kap-my-BOBET-202609211010",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -90,6 +103,16 @@
    "eklenme": "2026-09-21T10:30:52.336498+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-acikladi-reel-kesim-guveni-eylulde-sinirli-yukseldi-haberi-840788",
+   "baslik": "TCMB açıkladı: Reel kesim güveni eylülde sınırlı yükseldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-acikladi-reel-kesim-guveni-eylulde-sinirli-yukseldi-haberi-840788",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-21T10:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T11:01:01.136483+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/sazerac-berentzen-icin-hisse-basna-555-euroluk-devralma-teklifi-planlyor-93CH-4072216",
    "baslik": "Sazerac, Berentzen için hisse başına 5,55 euro’luk devralma teklifi planlıyor",
    "kaynak": "Investing TR",
@@ -171,6 +194,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-elixirr-international-stock-tumbling-today-93CH-4908373",
+   "baslik": "Why is Elixirr International stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-elixirr-international-stock-tumbling-today-93CH-4908373",
+   "saat": "10:48",
+   "tarih_iso": "2026-09-21T10:48:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T11:01:01.136483+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/volkswagen-porsche-shares-extend-losses-following-profit-warning-4908357",
+   "baslik": "Volkswagen, Porsche shares extend losses following profit warning",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/volkswagen-porsche-shares-extend-losses-following-profit-warning-4908357",
+   "saat": "10:37",
+   "tarih_iso": "2026-09-21T10:37:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T11:01:01.136483+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-berentzen-stock-surging-today-93CH-4908364",
+   "baslik": "Why is Berentzen stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-berentzen-stock-surging-today-93CH-4908364",
+   "saat": "10:35",
+   "tarih_iso": "2026-09-21T10:35:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T11:01:01.136483+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kuehne--nagel-stock-rallying-today-93CH-4908363",
+   "baslik": "Why is Kuehne & Nagel stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kuehne--nagel-stock-rallying-today-93CH-4908363",
+   "saat": "10:32",
+   "tarih_iso": "2026-09-21T10:32:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T11:01:01.136483+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/europes-stoxx-600-gains-as-tech-rallies-oil-retreat-eases-nerves-4908362",
+   "baslik": "Europe’s STOXX 600 gains as tech rallies, oil retreat eases nerves",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/europes-stoxx-600-gains-as-tech-rallies-oil-retreat-eases-nerves-4908362",
+   "saat": "10:31",
+   "tarih_iso": "2026-09-21T10:31:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T11:01:01.136483+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-climb-tech-shares-lead-gains-ahead-of-trumpxi-summit-4908239",
    "baslik": "Asia stocks climb, tech shares lead gains ahead of Trump-Xi summit",
@@ -384,6 +457,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-faces-4444-test-as-iran-war-risks-keep-markets-on-edge-200688027",
+   "baslik": "Gold Faces $4,444 Test as Iran War Risks Keep Markets on Edge",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-faces-4444-test-as-iran-war-risks-keep-markets-on-edge-200688027",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-21T11:01:01.136483+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-recovery-stalls-below-4400-200688033",
    "baslik": "Gold Recovery Stalls Below 4,400",
    "kaynak": "Investing Emtia",
@@ -494,5 +577,5 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   }
  ],
- "guncelleme": "2026-09-21T10:30:52.336498+03:00"
+ "guncelleme": "2026-09-21T11:01:01.136483+03:00"
 }
