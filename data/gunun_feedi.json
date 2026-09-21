@@ -2,6 +2,71 @@
  "tarih": "2026-09-21",
  "kap": [
   {
+   "id": "kap-my-BOBET-202609211850",
+   "baslik": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:50",
+   "tarih_iso": "2026-09-21T18:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
+   "id": "kap-my-GLYHO-202609211831",
+   "baslik": "GLOBAL YATIRIM HOLDİNG A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "GLOBAL YATIRIM HOLDİNG A.Ş.",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:31",
+   "tarih_iso": "2026-09-21T18:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
+   "id": "kap-my-ALFAS-202609211830",
+   "baslik": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "ALFAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:30",
+   "tarih_iso": "2026-09-21T18:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
+   "id": "kap-my-AHGAZ-202609211830",
+   "baslik": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:30",
+   "tarih_iso": "2026-09-21T18:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
+   "id": "kap-my-TUKAS-202609211829",
+   "baslik": "TUKAŞ GIDA SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "TUKAŞ GIDA SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "TUKAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:29",
+   "tarih_iso": "2026-09-21T18:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
    "id": "kap-my-AKSA-202609211719",
    "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
    "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
@@ -484,6 +549,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/dunya/abd-orta-dogu-enerji-altyapisi-icin-5-milyar-dolar-onerdi-haberi-840900",
+   "baslik": "ABD, Orta Doğu enerji altyapısı için 5 milyar dolar önerdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/abd-orta-dogu-enerji-altyapisi-icin-5-milyar-dolar-onerdi-haberi-840900",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-21T23:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/turkiye-abd-ticaretinde-hedef-100-milyar-dolar-bolat-bu-hedefe-ulasmak-icin-cok-calisiyoruz-haberi-840897",
+   "baslik": "Türkiye-ABD ticaretinde hedef 100 milyar dolar! Bolat: Bu hedefe ulaşmak için çok çalışıyoruz",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/turkiye-abd-ticaretinde-hedef-100-milyar-dolar-bolat-bu-hedefe-ulasmak-icin-cok-calisiyoruz-haberi-840897",
+   "saat": "21:34",
+   "tarih_iso": "2026-09-21T21:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/abd-hazine-bakani-bessent-yapay-zekadan-insan-sorumludur-3469512",
    "baslik": "ABD Hazine Bakanı Bessent: Yapay zekadan insan sorumludur",
    "kaynak": "CNN Türk Ekonomi",
@@ -492,6 +577,16 @@
    "tarih_iso": "2026-09-21T20:20:24+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-840870",
+   "baslik": "Borsa İstanbul günü yükselişle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-840870",
+   "saat": "18:32",
+   "tarih_iso": "2026-09-21T18:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/hazine-alacaklari-agustos-sonunda-2562-milyar-lira-oldu-haberi-840863",
@@ -705,6 +800,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tech-leads-shares-higher-in-asia-oil-eases-4908206",
+   "baslik": "Nasdaq hits record high as chipmakers fuel stock gains",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tech-leads-shares-higher-in-asia-oil-eases-4908206",
+   "saat": "23:54",
+   "tarih_iso": "2026-09-21T23:54:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/travere-therapeutics-stock-falls-amid-ceo-transition-news-93CH-4909642",
+   "baslik": "Travere Therapeutics stock falls amid CEO transition news",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/travere-therapeutics-stock-falls-amid-ceo-transition-news-93CH-4909642",
+   "saat": "23:51",
+   "tarih_iso": "2026-09-21T23:51:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pacs-group-stock-rises-amid-legal-chief-appointment-93CH-4909638",
+   "baslik": "PACS Group stock rises amid legal chief appointment",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pacs-group-stock-rises-amid-legal-chief-appointment-93CH-4909638",
+   "saat": "23:47",
+   "tarih_iso": "2026-09-21T23:47:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cloudflare-options-activity-surges-as-stock-hits-52week-high-93CH-4909636",
+   "baslik": "Cloudflare options activity surges as stock hits 52-week high",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cloudflare-options-activity-surges-as-stock-hits-52week-high-93CH-4909636",
+   "saat": "23:46",
+   "tarih_iso": "2026-09-21T23:46:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cms-targets-15-medicare-lab-fee-cuts-putting-dgx-and-lh-revenue-at-risk-93CH-4909625",
+   "baslik": "CMS targets 15% Medicare lab fee cuts, putting DGX and LH revenue at risk",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cms-targets-15-medicare-lab-fee-cuts-putting-dgx-and-lh-revenue-at-risk-93CH-4909625",
+   "saat": "23:35",
+   "tarih_iso": "2026-09-21T23:35:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-071-4909615",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.71%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-071-4909615",
+   "saat": "23:31",
+   "tarih_iso": "2026-09-21T23:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-057-4909613",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.57%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-057-4909613",
+   "saat": "23:30",
+   "tarih_iso": "2026-09-21T23:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T00:01:12.528611+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
    "baslik": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s strategy",
@@ -1834,76 +1999,6 @@
    "tarih_iso": "2026-09-21T18:07:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T18:30:54.735400+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-rules-investors-starting-150700720.html",
-   "baslik": "Warren Buffett's rules for investors starting with $10,000",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-rules-investors-starting-150700720.html",
-   "saat": "18:07",
-   "tarih_iso": "2026-09-21T18:07:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T18:30:54.735400+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/far-could-isrg-stock-bounce-150546294.html",
-   "baslik": "How Far Could ISRG Stock Bounce From Here?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/far-could-isrg-stock-bounce-150546294.html",
-   "saat": "18:05",
-   "tarih_iso": "2026-09-21T18:05:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T18:30:54.735400+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wall-street-cant-agree-ge-150501997.html",
-   "baslik": "Wall Street Can't Agree on GE Vernova. Price Targets Range From $470 to $1,450. Here's Why the Gap Is So Wide.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-cant-agree-ge-150501997.html",
-   "saat": "18:05",
-   "tarih_iso": "2026-09-21T18:05:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T18:30:54.735400+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-   "baslik": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-   "saat": "18:04",
-   "tarih_iso": "2026-09-21T18:04:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T18:30:54.735400+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-adds-74m-150049994.html",
-   "baslik": "Tom Lee's Bitmine Adds $74M in Ethereum, Declares a Crypto Bull Market 'Underway'",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/tom-lees-bitmine-adds-74m-150049994.html",
-   "saat": "18:00",
-   "tarih_iso": "2026-09-21T18:00:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T18:30:54.735400+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/piece-anthropic-retail-investors-open-150012469.html",
-   "baslik": "To Get a Piece of Anthropic, Retail Investors Are Open to Big Risks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/piece-anthropic-retail-investors-open-150012469.html",
-   "saat": "18:00",
-   "tarih_iso": "2026-09-21T18:00:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T18:30:54.735400+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
-   "baslik": "AI is a Pandora’s box that some CEOs seem wary of opening — at least with investors",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/ai-is-a-pandoras-box-that-some-ceos-seem-wary-of-opening-at-least-with-investors-39eff0d2?mod=mw_rss_topstories",
-   "saat": "17:57",
-   "tarih_iso": "2026-09-21T17:57:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T18:01:11.118096+03:00"
   }
  ],
  "altin_haber": [
@@ -2278,5 +2373,5 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   }
  ],
- "guncelleme": "2026-09-21T23:30:53.206460+03:00"
+ "guncelleme": "2026-09-22T00:01:12.528611+03:00"
 }
