@@ -2,6 +2,71 @@
  "tarih": "2026-09-21",
  "kap": [
   {
+   "id": "kap-my-SDTTR-202609211711",
+   "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:11",
+   "tarih_iso": "2026-09-21T17:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "kap-my-THYAO-202609211707",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "THYAO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:07",
+   "tarih_iso": "2026-09-21T17:07:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "kap-my-FROTO-202609211701",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "FROTO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:01",
+   "tarih_iso": "2026-09-21T17:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "kap-my-OYAKC-202609211657",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "OYAKC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:57",
+   "tarih_iso": "2026-09-21T16:57:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "kap-my-TAVHL-202609211647",
+   "baslik": "BORSA İSTANBUL A.Ş. — Hak Kullanımı",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:47",
+   "tarih_iso": "2026-09-21T16:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
    "id": "kap-my-ISGYO-202609211635",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -392,6 +457,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/abd-hazine-bakani-bessent-yapay-zekadan-insan-sorumludur-3469512",
+   "baslik": "ABD Hazine Bakanı Bessent: Yapay zekadan insan sorumludur",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/abd-hazine-bakani-bessent-yapay-zekadan-insan-sorumludur-3469512",
+   "saat": "20:20",
+   "tarih_iso": "2026-09-21T20:20:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/yd-ufede-agustos-rakamlari-belli-oldu-yillik-artis-yuzde-32-60-3469332",
    "baslik": "YD-ÜFE'de ağustos rakamları belli oldu: Yıllık artış yüzde 32,60",
    "kaynak": "CNN Türk Ekonomi",
@@ -594,6 +669,56 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/oklo-climbs-5-nuclear-names-141418370.html",
+   "baslik": "Oklo Climbs 5% as Nuclear Names Bounce Back From Last Week’s Selloff; NuScale Power Gains 4%, Uranium Energy Rises 3%",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/oklo-climbs-5-nuclear-names-141418370.html",
+   "saat": "17:14",
+   "tarih_iso": "2026-09-21T17:14:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-140700680.html",
+   "baslik": "Jim Cramer sends strong signal to Oracle stock investors",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sends-strong-signal-140700680.html",
+   "saat": "17:07",
+   "tarih_iso": "2026-09-21T17:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-85-000-nears-140501744.html",
+   "baslik": "Bitcoin Hits $85,000 and Nears 8-Month High. Is the Crypto Bull Market Finally Here?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-hits-85-000-nears-140501744.html",
+   "saat": "17:05",
+   "tarih_iso": "2026-09-21T17:05:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/quest-diagnostics-sees-growth-outpace-140210026.html",
+   "baslik": "Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/quest-diagnostics-sees-growth-outpace-140210026.html",
+   "saat": "17:02",
+   "tarih_iso": "2026-09-21T17:02:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "yab-https://www.investors.com/news/bitcoin-price-cryptocurrency-liquidations-etf-inflows-cftc-sec-coinbase-bullish/?src=A00220&yptr=yahoo",
+   "baslik": "Bitcoin Surges. Coinbase Wins Target Hike. These Crypto Stocks Break Out.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/news/bitcoin-price-cryptocurrency-liquidations-etf-inflows-cftc-sec-coinbase-bullish/?src=A00220&yptr=yahoo",
+   "saat": "17:01",
+   "tarih_iso": "2026-09-21T17:01:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-turning-point-brands-stock-sliding-today-93CH-4909258",
    "baslik": "Why is Turning Point Brands stock sliding today?",
    "kaynak": "Investing.com",
@@ -602,6 +727,16 @@
    "tarih_iso": "2026-09-21T16:58:22+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/nike-gets-hit-with-yet-another-bearish-wall-street-hot-take-135125963.html",
+   "baslik": "Nike gets hit with yet another bearish Wall Street hot take",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/nike-gets-hit-with-yet-another-bearish-wall-street-hot-take-135125963.html",
+   "saat": "16:51",
+   "tarih_iso": "2026-09-21T16:51:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallied-as-treasury-yields-ease-alphacheck-135033093.html",
@@ -614,6 +749,16 @@
    "eklenme": "2026-09-21T17:01:11.489460+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallies-as-treasury-yields-ease-alphacheck-135033093.html",
+   "baslik": "Tech stocks rise, Bitcoin rallies as Treasury yields ease: AlphaCheck",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/article/tech-stocks-rise-bitcoin-rallies-as-treasury-yields-ease-alphacheck-135033093.html",
+   "saat": "16:50",
+   "tarih_iso": "2026-09-21T16:50:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ciena-upgraded-flutter-downgraded-wall-134710881.html",
    "baslik": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
    "kaynak": "Yahoo Finance",
@@ -624,6 +769,76 @@
    "eklenme": "2026-09-21T17:01:11.489460+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/mosaic-co-mos-just-added-134710535.html",
+   "baslik": "Mosaic Co. (MOS) Was Just Added to the Portfolio: Why the Fertilizer Stock Looks Undervalued",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/mosaic-co-mos-just-added-134710535.html",
+   "saat": "16:47",
+   "tarih_iso": "2026-09-21T16:47:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/franklin-resources-ben-surged-47-134651405.html",
+   "baslik": "Franklin Resources (BEN) Surged 47.3% in Q2: Why Investors Took Notice",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/franklin-resources-ben-surged-47-134651405.html",
+   "saat": "16:46",
+   "tarih_iso": "2026-09-21T16:46:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/molina-healthcare-moh-jumped-70-134642412.html",
+   "baslik": "Molina Healthcare (MOH) Jumped 70.7% in Q2: Why the Stock Rally Was Enough to Sell",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/molina-healthcare-moh-jumped-70-134642412.html",
+   "saat": "16:46",
+   "tarih_iso": "2026-09-21T16:46:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/range-resources-rrc-slid-17-134559578.html",
+   "baslik": "Range Resources (RRC) Slid 17.2% in Q2: Why the Natural Gas Stock Still Looks Attractive",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/range-resources-rrc-slid-17-134559578.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-09-21T16:45:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nutrien-ntr-dropped-15-4-134545047.html",
+   "baslik": "Nutrien (NTR) Dropped 15.4% in Q2: Why the Fertilizer Stock Could Be a Bargain",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/nutrien-ntr-dropped-15-4-134545047.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-09-21T16:45:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/novagold-resources-ng-plunged-36-134533396.html",
+   "baslik": "NovaGold Resources (NG) Plunged 36.9%: Is the Gold Stock Now Undervalued?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/novagold-resources-ng-plunged-36-134533396.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-09-21T16:45:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/sibanye-stillwater-ltd-sbsw-fell-134516978.html",
+   "baslik": "Sibanye Stillwater Ltd. (SBSW) Fell 29.3% in Q2: Why the Stock Could Be Worth Watching",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/sibanye-stillwater-ltd-sbsw-fell-134516978.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-09-21T16:45:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jensen-huang-just-delivered-incredible-133900772.html",
    "baslik": "Jensen Huang Just Delivered Incredible News for Nvidia Stock Investors",
    "kaynak": "Yahoo Finance",
@@ -632,6 +847,16 @@
    "tarih_iso": "2026-09-21T16:39:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T17:01:11.489460+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+   "baslik": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2030",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
+   "saat": "16:32",
+   "tarih_iso": "2026-09-21T16:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/article/tech-stocks-havent-been-this-cheap-since-openai-launched-chatgpt-132800172.html",
@@ -1642,159 +1867,39 @@
    "tarih_iso": "2026-09-21T13:06:36+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/commodities/articles/ubs-raises-palladium-price-forecasts-100533405.html",
-   "baslik": "UBS Raises Palladium Price Forecasts as Supply Constraints Tighten Market Outlook",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/commodities/articles/ubs-raises-palladium-price-forecasts-100533405.html",
-   "saat": "13:05",
-   "tarih_iso": "2026-09-21T13:05:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T14:01:02.516507+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/indian-refiners-may-cut-russian-oil-buying-after-us-sanctions-law--report-93CH-4908554",
-   "baslik": "Indian refiners may cut Russian oil buying after U.S. sanctions law - report",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/indian-refiners-may-cut-russian-oil-buying-after-us-sanctions-law--report-93CH-4908554",
-   "saat": "13:05",
-   "tarih_iso": "2026-09-21T13:05:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/2-unstoppable-growth-stocks-buy-100500249.html",
-   "baslik": "2 Unstoppable Growth Stocks to Buy and Hold for the Next Decade",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/2-unstoppable-growth-stocks-buy-100500249.html",
-   "saat": "13:05",
-   "tarih_iso": "2026-09-21T13:05:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/cencora-highlights-specialty-growth-mso-100204777.html",
-   "baslik": "Cencora Highlights Specialty Growth, MSO Expansion and Walgreens Ties at Conference",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/cencora-highlights-specialty-growth-mso-100204777.html",
-   "saat": "13:02",
-   "tarih_iso": "2026-09-21T13:02:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/oil-prices-fall-11-day-100153305.html",
-   "baslik": "Oil Prices Fall to 11-Day Low as Investors Assess US-Iran Diplomacy and Saudi Exports",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/oil-prices-fall-11-day-100153305.html",
-   "saat": "13:01",
-   "tarih_iso": "2026-09-21T13:01:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T14:01:02.516507+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html",
-   "baslik": "Best CD rates today, Monday, September 21, 2026: Lock in up to 4.40% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-monday-september-21-2026-lock-in-up-to-440-apy-100000956.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-21T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
-   "baslik": "HELOC and home equity loan rates today, Monday, September 21, 2026: A 33-basis-point differential",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/heloc-and-home-equity-loan-rates-today-monday-september-21-2026-a-33-basis-point-differential-100000210.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-21T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html",
-   "baslik": "Mortgage and refinance interest rates today, Monday, September 21, 2026: Refinance rates mostly lower",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-monday-september-21-2026-refinance-rates-mostly-lower-100000495.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-21T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-21-2026-earn-up-to-410-apy-100000921.html",
-   "baslik": "Best high-yield savings interest rates today, Monday, September 21, 2026: Earn up to 4.10% APY",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-september-21-2026-earn-up-to-410-apy-100000921.html",
-   "saat": "13:00",
-   "tarih_iso": "2026-09-21T13:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/monster-beverage-coca-cola-beat-095700981.html",
-   "baslik": "Monster Beverage and Coca-Cola Beat the S&P 500 Over the Last 5 Years. Here's Whether the Next 5 Years Will Look the Same.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/monster-beverage-coca-cola-beat-095700981.html",
-   "saat": "12:57",
-   "tarih_iso": "2026-09-21T12:57:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/21/volkswagens-latest-profit-warning-compounds-exit-from-blue-chip-index.html",
-   "baslik": "Volkswagen woes deepen as blue-chip index exit follows latest profit warning",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/21/volkswagens-latest-profit-warning-compounds-exit-from-blue-chip-index.html",
-   "saat": "12:56",
-   "tarih_iso": "2026-09-21T12:56:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:01:04.775979+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
-   "baslik": "Slide in oil prices drives rebound in battered government bonds",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
-   "saat": "12:54",
-   "tarih_iso": "2026-09-21T12:54:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T14:01:02.516507+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/video/coiled-therapeutics-eco-buildings-anglo-094454446.html",
-   "baslik": "Coiled Therapeutics, Eco Buildings, Anglo Asian Mining, Iofina, Powerhouse Energy, Tertiary Minerals",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/video/coiled-therapeutics-eco-buildings-anglo-094454446.html",
-   "saat": "12:44",
-   "tarih_iso": "2026-09-21T12:44:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/finance/citi-raises-10-year-u-s-treasury-yield-forecast-ee0a5651?siteid=yhoof2&yptr=yahoo",
-   "baslik": "U.S. Treasury Yields Ease; Dollar Stable",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/finance/citi-raises-10-year-u-s-treasury-yield-forecast-ee0a5651?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:42",
-   "tarih_iso": "2026-09-21T12:42:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
-  },
-  {
-   "id": "yab-https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-focus-turns-to-trump-xi-meeting-2caa497e?siteid=yhoof2&yptr=yahoo",
-   "baslik": "Dollar Could Extend Gains if Markets Increase Bets on October Fed Rate Rise",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.wsj.com/finance/currencies/asian-currencies-consolidate-as-focus-turns-to-trump-xi-meeting-2caa497e?siteid=yhoof2&yptr=yahoo",
-   "saat": "12:39",
-   "tarih_iso": "2026-09-21T12:39:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T13:30:54.412673+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://finance.yahoo.com/markets/stocks/articles/seabridge-gold-inc-sa-spun-134720749.html",
+   "baslik": "Seabridge Gold Inc. (SA) Spun Off a Major Gold Asset: Why Kopernik Sees More Upside",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/seabridge-gold-inc-sa-spun-134720749.html",
+   "saat": "16:47",
+   "tarih_iso": "2026-09-21T16:47:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "alt-https://finance.yahoo.com/markets/stocks/articles/northern-dynasty-minerals-ltd-nak-134700461.html",
+   "baslik": "Northern Dynasty Minerals Ltd. (NAK) Gained 36.3% in Q2: The Alaska Gold-Copper Opportunity",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/northern-dynasty-minerals-ltd-nak-134700461.html",
+   "saat": "16:47",
+   "tarih_iso": "2026-09-21T16:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
+  {
+   "id": "alt-https://finance.yahoo.com/markets/stocks/articles/novagold-resources-ng-plunged-36-134533396.html",
+   "baslik": "NovaGold Resources (NG) Plunged 36.9%: Is the Gold Stock Now Undervalued?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/novagold-resources-ng-plunged-36-134533396.html",
+   "saat": "16:45",
+   "tarih_iso": "2026-09-21T16:45:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T17:31:09.324661+03:00"
+  },
   {
    "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-september-21-2026-gold-prices-slip-on-middle-east-tensions-133531697.html",
    "baslik": "Gold prices today, Monday, September 21, 2026: Gold prices slip on Middle East tensions",
@@ -2056,5 +2161,5 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   }
  ],
- "guncelleme": "2026-09-21T17:01:11.489460+03:00"
+ "guncelleme": "2026-09-21T17:31:09.324661+03:00"
 }
