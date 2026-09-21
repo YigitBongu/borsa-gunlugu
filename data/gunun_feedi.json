@@ -2,6 +2,19 @@
  "tarih": "2026-09-21",
  "kap": [
   {
+   "id": "kap-my-AKSA-202609210919",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "AKSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:19",
+   "tarih_iso": "2026-09-21T09:19:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T10:01:04.830113+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609210911",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -112,6 +125,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-001-4908298",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.01%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-001-4908298",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-21T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T10:01:04.830113+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cxmt-stock-climbing-today-93CH-4908290",
    "baslik": "Why is CXMT stock climbing today?",
@@ -285,6 +308,16 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-silver-shrug-off-a-brutal-macro-stress-test-200688021",
+   "baslik": "Gold, Silver Shrug Off a Brutal Macro Stress Test",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-silver-shrug-off-a-brutal-macro-stress-test-200688021",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-21T10:01:04.830113+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-vs-silver-2026-why-im-buying-this-dip-not-trading-it-200687984",
    "baslik": "Gold Vs. Silver 2026: Why I’m Buying This Dip, Not Trading It",
    "kaynak": "Investing Emtia",
@@ -355,5 +388,5 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   }
  ],
- "guncelleme": "2026-09-21T09:30:57.240932+03:00"
+ "guncelleme": "2026-09-21T10:01:04.830113+03:00"
 }
