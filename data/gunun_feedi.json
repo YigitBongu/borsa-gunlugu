@@ -1,8 +1,55 @@
 {
  "tarih": "2026-09-21",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-TKFEN-202609210911",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:11",
+   "tarih_iso": "2026-09-21T09:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T09:30:57.240932+03:00"
+  },
+  {
+   "id": "kap-my-YEOTK-202609210901",
+   "baslik": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:01",
+   "tarih_iso": "2026-09-21T09:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T09:30:57.240932+03:00"
+  }
+ ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/sazerac-berentzen-icin-hisse-basna-555-euroluk-devralma-teklifi-planlyor-93CH-4072216",
+   "baslik": "Sazerac, Berentzen için hisse başına 5,55 euro’luk devralma teklifi planlıyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/sazerac-berentzen-icin-hisse-basna-555-euroluk-devralma-teklifi-planlyor-93CH-4072216",
+   "saat": "09:23",
+   "tarih_iso": "2026-09-21T09:23:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T09:30:57.240932+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fed-ve-boe-jane-streetin-kaybnn-ardndan-bankalar-inceliyor-93CH-4072182",
+   "baslik": "Fed ve BoE, Jane Street’in kaybının ardından bankaları inceliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fed-ve-boe-jane-streetin-kaybnn-ardndan-bankalar-inceliyor-93CH-4072182",
+   "saat": "09:01",
+   "tarih_iso": "2026-09-21T09:01:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T09:30:57.240932+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/gundem/netanyahu-karari-sonrasi-abdden-iccye-mali-kusatma-dolar-sistemi-hedefte-haberi-840769",
    "baslik": "Netanyahu kararı sonrası ABD'den ICC'ye mali kuşatma: Dolar sistemi hedefte",
@@ -65,6 +112,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cxmt-stock-climbing-today-93CH-4908290",
+   "baslik": "Why is CXMT stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cxmt-stock-climbing-today-93CH-4908290",
+   "saat": "09:20",
+   "tarih_iso": "2026-09-21T09:20:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T09:30:57.240932+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zai-stock-sliding-today-93CH-4908289",
+   "baslik": "Why is ZAI stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-zai-stock-sliding-today-93CH-4908289",
+   "saat": "09:20",
+   "tarih_iso": "2026-09-21T09:20:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T09:30:57.240932+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tongcheng-travel-stock-sliding-today-93CH-4908288",
+   "baslik": "Why is Tongcheng Travel stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tongcheng-travel-stock-sliding-today-93CH-4908288",
+   "saat": "09:20",
+   "tarih_iso": "2026-09-21T09:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T09:30:57.240932+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ai-strategies-diverge-by-9-points-as-tech-rallies-and-financials-slide-4908270",
+   "baslik": "10-year Treasury tops 5%, but AI Strategies still beat the market",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ai-strategies-diverge-by-9-points-as-tech-rallies-and-financials-slide-4908270",
+   "saat": "09:01",
+   "tarih_iso": "2026-09-21T09:01:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T09:30:57.240932+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/fed-boe-probe-bank-exposure-to-trading-firms-after-jane-street-loss--report-93CH-4908265",
+   "baslik": "Fed, BoE probe bank exposure to trading firms after Jane Street loss - report",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/fed-boe-probe-bank-exposure-to-trading-firms-after-jane-street-loss--report-93CH-4908265",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-21T09:00:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T09:30:57.240932+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-113-4908263",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.13%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-113-4908263",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-21T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T09:30:57.240932+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/21/iran-us-oil-prices-crude-saudi-arabia-.html",
    "baslik": "Oil falls as crude flows remain 'surprisingly strong'",
@@ -248,5 +355,5 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   }
  ],
- "guncelleme": "2026-09-21T09:01:05.669111+03:00"
+ "guncelleme": "2026-09-21T09:30:57.240932+03:00"
 }
