@@ -2,6 +2,19 @@
  "tarih": "2026-09-21",
  "kap": [
   {
+   "id": "kap-my-GSDHO-202609211214",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:14",
+   "tarih_iso": "2026-09-21T12:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T13:01:04.775979+03:00"
+  },
+  {
    "id": "kap-my-TUKAS-202609211149",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -251,6 +264,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/yd-ufede-agustos-rakamlari-belli-oldu-yillik-artis-yuzde-32-60-3469332",
+   "baslik": "YD-ÜFE'de ağustos rakamları belli oldu: Yıllık artış yüzde 32,60",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/yd-ufede-agustos-rakamlari-belli-oldu-yillik-artis-yuzde-32-60-3469332",
+   "saat": "15:47",
+   "tarih_iso": "2026-09-21T15:47:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T13:01:04.775979+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/bist-100-borsa-neden-dusuyor-hisselerde-sert-kayiplarin-nedeni-ne-21-eylul-2026-bist-100de-son-durum-3469314",
    "baslik": "BİST 100 - BORSA NEDEN DÜŞÜYOR? Hisselerde sert kayıpların nedeni ne? 21 Eylül 2026 BIST 100'de son durum!",
    "kaynak": "CNN Türk Ekonomi",
@@ -393,6 +416,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/21/volkswagens-latest-profit-warning-compounds-exit-from-blue-chip-index.html",
+   "baslik": "Volkswagen woes deepen as blue-chip index exit follows latest profit warning",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/21/volkswagens-latest-profit-warning-compounds-exit-from-blue-chip-index.html",
+   "saat": "12:56",
+   "tarih_iso": "2026-09-21T12:56:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T13:01:04.775979+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-usa-rare-earth-stock-is-jumping-today-93CH-4908495",
+   "baslik": "Why USA Rare Earth stock is jumping today",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-usa-rare-earth-stock-is-jumping-today-93CH-4908495",
+   "saat": "12:34",
+   "tarih_iso": "2026-09-21T12:34:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T13:01:04.775979+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-svrn-stock-surging-today-93CH-4908490",
+   "baslik": "Why is SVRN stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-svrn-stock-surging-today-93CH-4908490",
+   "saat": "12:27",
+   "tarih_iso": "2026-09-21T12:27:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T13:01:04.775979+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-187-billion-warning-092700742.html",
+   "baslik": "Warren Buffett's $187 Billion Warning to Wall Street Echoes Louder Than Ever, Thanks to His Favorite Valuation Measure",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-187-billion-warning-092700742.html",
+   "saat": "12:27",
+   "tarih_iso": "2026-09-21T12:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T13:01:04.775979+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/wells-fargo-sees-fed-stress-test-changes-as-positive-for-banks-93CH-4908487",
    "baslik": "Wells Fargo sees Fed stress test changes as positive for banks",
    "kaynak": "Investing.com",
@@ -401,6 +464,16 @@
    "tarih_iso": "2026-09-21T12:23:35+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-092126/card/dollar-gains-on-prospects-of-further-fed-tightening-wmmArgpKkRWvKGwdH1vZ?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Dollar Gains on Prospects of Further Fed Tightening",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-092126/card/dollar-gains-on-prospects-of-further-fed-tightening-wmmArgpKkRWvKGwdH1vZ?siteid=yhoof2&yptr=yahoo",
+   "saat": "12:20",
+   "tarih_iso": "2026-09-21T12:20:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T13:01:04.775979+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns----its-ceo-sees-this-as-the-main-problem-091933221.html",
@@ -413,6 +486,26 @@
    "eklenme": "2026-09-21T12:30:55.663578+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html",
+   "baslik": "Novo Nordisk stock gets drilled on pipeline concerns— its CEO sees this as the main problem",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns-its-ceo-sees-this-as-the-main-problem-091933221.html",
+   "saat": "12:19",
+   "tarih_iso": "2026-09-21T12:19:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T13:01:04.775979+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/small-business/articles/grew-chicago-cabrini-green-became-091352416.html",
+   "baslik": "He Grew Up in Chicago’s Cabrini-Green and Became a Billionaire Selling Hot Dogs. You Don’t Need Market Power to Get Rich, You Need Decades",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/small-business/articles/grew-chicago-cabrini-green-became-091352416.html",
+   "saat": "12:13",
+   "tarih_iso": "2026-09-21T12:13:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T13:01:04.775979+03:00"
+  },
+  {
    "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wall-street-just-got-more-091106433.html",
    "baslik": "Wall Street Just Got More Bullish on GE Vernova. Consensus Now Puts the Target at $1,237.",
    "kaynak": "Yahoo Finance",
@@ -421,6 +514,16 @@
    "tarih_iso": "2026-09-21T12:11:06+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
+   "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-092126/card/chip-stocks-open-week-with-early-gains-SnhVvwnrAUtgIPETt6jo?siteid=yhoof2&yptr=yahoo",
+   "baslik": "Chip Stocks Open Week With Early Gains",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.barrons.com/livecoverage/stock-market-news-today-092126/card/chip-stocks-open-week-with-early-gains-SnhVvwnrAUtgIPETt6jo?siteid=yhoof2&yptr=yahoo",
+   "saat": "12:10",
+   "tarih_iso": "2026-09-21T12:10:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T13:01:04.775979+03:00"
   },
   {
    "id": "yab-https://finance.yahoo.com/economy/policy/articles/fed-just-hiked-rates-first-090500873.html",
@@ -915,6 +1018,16 @@
    "eklenme": "2026-09-21T12:30:55.663578+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/finans/emtia/ne-altin-ne-gumus-dev-banka-bu-metalde-tahminini-sert-yukseltti-haberi-840814",
+   "baslik": "Ne altın ne gümüş! Dev banka bu metalde tahminini sert yükseltti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/emtia/ne-altin-ne-gumus-dev-banka-bu-metalde-tahminini-sert-yukseltti-haberi-840814",
+   "saat": "12:12",
+   "tarih_iso": "2026-09-21T12:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T13:01:04.775979+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-faces-4444-test-as-iran-war-risks-keep-markets-on-edge-200688027",
    "baslik": "Gold Faces $4,444 Test as Iran War Risks Keep Markets on Edge",
    "kaynak": "Investing Emtia",
@@ -1035,5 +1148,5 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   }
  ],
- "guncelleme": "2026-09-21T12:30:55.663578+03:00"
+ "guncelleme": "2026-09-21T13:01:04.775979+03:00"
 }
