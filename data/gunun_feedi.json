@@ -2,6 +2,32 @@
  "tarih": "2026-09-21",
  "kap": [
   {
+   "id": "kap-my-BOBET-202609211010",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:10",
+   "tarih_iso": "2026-09-21T10:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T10:30:52.336498+03:00"
+  },
+  {
+   "id": "kap-my-KCAER-202609211008",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KCAER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:08",
+   "tarih_iso": "2026-09-21T10:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T10:30:52.336498+03:00"
+  },
+  {
    "id": "kap-my-AKSA-202609210919",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -43,6 +69,26 @@
  ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/yurt-disi-ufe-agustosta-aylik-yuzde-3-61-yillik-yuzde-32-60-artti/4062957",
+   "baslik": "Yurt dışı ÜFE ağustosta aylık yüzde 3,61, yıllık yüzde 32,60 arttı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yurt-disi-ufe-agustosta-aylik-yuzde-3-61-yillik-yuzde-32-60-artti/4062957",
+   "saat": "10:14",
+   "tarih_iso": "2026-09-21T10:14:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T10:30:52.336498+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/son-dakika-tcmb-acikladi-reel-kesim-guveni-eylulde-sinirli-yukseldi-haberi-840788",
+   "baslik": "Son dakika: TCMB açıkladı: Reel kesim güveni eylülde sınırlı yükseldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/son-dakika-tcmb-acikladi-reel-kesim-guveni-eylulde-sinirli-yukseldi-haberi-840788",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-21T10:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T10:30:52.336498+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/sazerac-berentzen-icin-hisse-basna-555-euroluk-devralma-teklifi-planlyor-93CH-4072216",
    "baslik": "Sazerac, Berentzen için hisse başına 5,55 euro’luk devralma teklifi planlıyor",
@@ -125,6 +171,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-climb-tech-shares-lead-gains-ahead-of-trumpxi-summit-4908239",
+   "baslik": "Asia stocks climb, tech shares lead gains ahead of Trump-Xi summit",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-climb-tech-shares-lead-gains-ahead-of-trumpxi-summit-4908239",
+   "saat": "10:08",
+   "tarih_iso": "2026-09-21T10:08:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T10:30:52.336498+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citi-is-bullish-on-these-2-chinese-travel-stocks-heading-into-the-autumn-holidays-93CH-4908344",
+   "baslik": "Citi is Bullish on these 2 Chinese travel stocks heading into the autumn holidays",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citi-is-bullish-on-these-2-chinese-travel-stocks-heading-into-the-autumn-holidays-93CH-4908344",
+   "saat": "10:07",
+   "tarih_iso": "2026-09-21T10:07:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T10:30:52.336498+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-bounce-as-oil-eases-but-german-political-shock-ecb-hawks-weigh-4908285",
+   "baslik": "European stocks bounce as oil eases, but German political shock, ECB hawks weigh",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-bounce-as-oil-eases-but-german-political-shock-ecb-hawks-weigh-4908285",
+   "saat": "10:05",
+   "tarih_iso": "2026-09-21T10:05:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T10:30:52.336498+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jpmorgan-says-equities-can-handle-higher-yields-heres-whats-supporting-them-4908323",
+   "baslik": "JPMorgan says equities can handle higher yields. Here’s what’s supporting them",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jpmorgan-says-equities-can-handle-higher-yields-heres-whats-supporting-them-4908323",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-21T10:00:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T10:30:52.336498+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-001-4908298",
    "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.01%",
@@ -298,6 +384,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-recovery-stalls-below-4400-200688033",
+   "baslik": "Gold Recovery Stalls Below 4,400",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-recovery-stalls-below-4400-200688033",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-21T10:30:52.336498+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-targets-44534486-above-the-vc-pmi-daily-mean-200688025",
+   "baslik": "Gold Targets $4,453–$4,486 Above the VC PMI Daily Mean",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-targets-44534486-above-the-vc-pmi-daily-mean-200688025",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-21T10:30:52.336498+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/21-eylul-canli-altin-fiyatlari-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3469180",
    "baslik": "21 EYLÜL CANLI ALTIN FİYATLARI| Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
    "kaynak": "CNN Türk Ekonomi",
@@ -388,5 +494,5 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   }
  ],
- "guncelleme": "2026-09-21T10:01:04.830113+03:00"
+ "guncelleme": "2026-09-21T10:30:52.336498+03:00"
 }
