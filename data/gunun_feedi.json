@@ -2,6 +2,19 @@
  "tarih": "2026-09-21",
  "kap": [
   {
+   "id": "kap-my-TUKAS-202609211149",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TUKAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:49",
+   "tarih_iso": "2026-09-21T11:49:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
    "id": "kap-my-ENJSA-202609211110",
    "baslik": "AK YATIRIM MENKUL DEĞERLER A.Ş. — Likidite Sağlayıcılık Kapsamındaki İşlemler",
    "sirket": "AK YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -238,6 +251,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/bist-100-borsa-neden-dusuyor-hisselerde-sert-kayiplarin-nedeni-ne-21-eylul-2026-bist-100de-son-durum-3469314",
+   "baslik": "BİST 100 - BORSA NEDEN DÜŞÜYOR? Hisselerde sert kayıpların nedeni ne? 21 Eylül 2026 BIST 100'de son durum!",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/bist-100-borsa-neden-dusuyor-hisselerde-sert-kayiplarin-nedeni-ne-21-eylul-2026-bist-100de-son-durum-3469314",
+   "saat": "15:04",
+   "tarih_iso": "2026-09-21T15:04:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/wells-fargo-fedin-stres-testi-degisikliklerini-bankalar-icin-olumlu-goruyor-93CH-4072457",
+   "baslik": "Wells Fargo, Fed’in stres testi değişikliklerini bankalar için olumlu görüyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/wells-fargo-fedin-stres-testi-degisikliklerini-bankalar-icin-olumlu-goruyor-93CH-4072457",
+   "saat": "12:24",
+   "tarih_iso": "2026-09-21T12:24:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/madencilik-ihracati-7-milyar-dolara-kosuyor-3913951",
    "baslik": "Madende yıl sonu ihracat hedefi 7 milyar dolar",
    "kaynak": "Habertürk Ekonomi",
@@ -360,6 +393,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wells-fargo-sees-fed-stress-test-changes-as-positive-for-banks-93CH-4908487",
+   "baslik": "Wells Fargo sees Fed stress test changes as positive for banks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wells-fargo-sees-fed-stress-test-changes-as-positive-for-banks-93CH-4908487",
+   "saat": "12:23",
+   "tarih_iso": "2026-09-21T12:23:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns----its-ceo-sees-this-as-the-main-problem-091933221.html",
+   "baslik": "Novo Nordisk stock gets drilled on pipeline concerns -- its CEO sees this as the main problem",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/novo-nordisk-stock-gets-drilled-on-pipeline-concerns----its-ceo-sees-this-as-the-main-problem-091933221.html",
+   "saat": "12:19",
+   "tarih_iso": "2026-09-21T12:19:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/wall-street-just-got-more-091106433.html",
+   "baslik": "Wall Street Just Got More Bullish on GE Vernova. Consensus Now Puts the Target at $1,237.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-just-got-more-091106433.html",
+   "saat": "12:11",
+   "tarih_iso": "2026-09-21T12:11:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/fed-just-hiked-rates-first-090500873.html",
+   "baslik": "The Fed Just Hiked Rates for the First Time Since 2023. 3 AI Stocks That Could Feel It Most",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/fed-just-hiked-rates-first-090500873.html",
+   "saat": "12:05",
+   "tarih_iso": "2026-09-21T12:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
    "baslik": "Novo Nordisk stock tumbles as Ozempic maker sets out 2030 goals",
    "kaynak": "MarketWatch",
@@ -368,6 +441,16 @@
    "tarih_iso": "2026-09-21T11:58:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T12:01:03.217989+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/higher-interest-rates-mean-caterpillar-085500295.html",
+   "baslik": "What Higher Interest Rates Mean for Caterpillar, GE Vernova, and Vertiv",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/higher-interest-rates-mean-caterpillar-085500295.html",
+   "saat": "11:55",
+   "tarih_iso": "2026-09-21T11:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/21/novo-nordisk-stock-sales-target-obesity-drugs.html",
@@ -388,6 +471,16 @@
    "tarih_iso": "2026-09-21T11:47:21+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T12:01:03.217989+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/were-20s-id-buy-2-084400679.html",
+   "baslik": "If I Were in My 20s, I'd Buy These 2 Trillion-Dollar Stocks and Hold Them Forever",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/were-20s-id-buy-2-084400679.html",
+   "saat": "11:44",
+   "tarih_iso": "2026-09-21T11:44:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-warner-bros-discovery-stock-surging-today-93CH-4908427",
@@ -480,6 +573,16 @@
    "eklenme": "2026-09-21T11:30:56.642889+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/jim-cramer-hub-group-hubg-080851735.html",
+   "baslik": "Jim Cramer on Hub Group (HUBG): “Got to Wait Till Oil Calms Down”",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-hub-group-hubg-080851735.html",
+   "saat": "11:08",
+   "tarih_iso": "2026-09-21T11:08:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-newag-stock-surging-today-93CH-4908394",
    "baslik": "Why is Newag stock surging today?",
    "kaynak": "Investing.com",
@@ -488,6 +591,16 @@
    "tarih_iso": "2026-09-21T11:05:50+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T11:30:56.642889+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+   "baslik": "Stock market today: Dow, S&P 500, Nasdaq futures rise as oil falls, anticipation builds for Trump-Xi summit",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+   "saat": "11:02",
+   "tarih_iso": "2026-09-21T11:02:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-elixirr-international-stock-tumbling-today-93CH-4908373",
@@ -670,6 +783,16 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stocks-advance-bessent-says-talks-051936845.html",
+   "baslik": "Stocks advance after Bessent says talks with China were successful before Trump-Xi meeting",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-advance-bessent-says-talks-051936845.html",
+   "saat": "08:19",
+   "tarih_iso": "2026-09-21T08:19:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/trumpxi-summit-outlook-us-stocks-and-sectors-to-watch-93CH-4908255",
    "baslik": "Trump-Xi summit outlook: U.S. stocks and sectors to watch",
    "kaynak": "Investing.com",
@@ -678,6 +801,16 @@
    "tarih_iso": "2026-09-21T08:06:53+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/four-old-iphones-hitting-trade-044621474.html",
+   "baslik": "Four-Year-Old iPhones Are Hitting Trade-In Bins, and Assurant (AIZ) Is Ready",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/four-old-iphones-hitting-trade-044621474.html",
+   "saat": "07:46",
+   "tarih_iso": "2026-09-21T07:46:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
@@ -760,6 +893,26 @@
    "tarih_iso": "2026-09-21T14:48:38+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T12:01:03.217989+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/cbrt-could-be-forced-back-into-gold-sales-to-defend-the-lira-200688052",
+   "baslik": "CBRT Could Be Forced Back Into Gold Sales to Defend the Lira",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/cbrt-could-be-forced-back-into-gold-sales-to-defend-the-lira-200688052",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-barely-records-an-up-week-in-maintaining-the-long-streak-200688044",
+   "baslik": "Gold Barely Records an Up Week in Maintaining the Long Streak",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-barely-records-an-up-week-in-maintaining-the-long-streak-200688044",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-21T12:30:55.663578+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-faces-4444-test-as-iran-war-risks-keep-markets-on-edge-200688027",
@@ -882,5 +1035,5 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   }
  ],
- "guncelleme": "2026-09-21T12:01:03.217989+03:00"
+ "guncelleme": "2026-09-21T12:30:55.663578+03:00"
 }
