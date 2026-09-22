@@ -2,6 +2,19 @@
  "tarih": "2026-09-22",
  "kap": [
   {
+   "id": "kap-my-REEDR-202609221246",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:46",
+   "tarih_iso": "2026-09-22T12:46:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T13:19:02.874942+03:00"
+  },
+  {
    "id": "kap-my-SKBNK-202609221210",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -245,6 +258,16 @@
    "tarih_iso": "2026-09-22T13:46:32+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T11:01:04.630765+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbulda-gunun-ilk-yarisinda-ibre-asagi-dondu-haberi-840975",
+   "baslik": "Borsa İstanbul'da günün ilk yarısında ibre aşağı döndü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbulda-gunun-ilk-yarisinda-ibre-asagi-dondu-haberi-840975",
+   "saat": "13:11",
+   "tarih_iso": "2026-09-22T13:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T13:19:02.874942+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/faiz-altin-dengesi-degisiyor-galeri-840964",
@@ -1251,5 +1274,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-22T13:01:05.691839+03:00"
+ "guncelleme": "2026-09-22T13:19:02.874942+03:00"
 }
