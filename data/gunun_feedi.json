@@ -56,6 +56,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/rahmi-m-koca-abdde-100-yillik-onur-odulu-haberi-840946",
+   "baslik": "Rahmi M. Koç’a ABD’de  “100 yıllık” onur ödülü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/rahmi-m-koca-abdde-100-yillik-onur-odulu-haberi-840946",
+   "saat": "10:24",
+   "tarih_iso": "2026-09-22T10:24:00+03:00",
+   "kodlar": [
+    "KCHOL"
+   ],
+   "eklenme": "2026-09-22T11:01:04.630765+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/rahmi-m-koca-abdde-100-yillik-onur-odulu-3914181",
    "baslik": "Rahmi M. Koç’a ABD’de “100 Yıllık” Onur Ödülü",
    "kaynak": "Habertürk Ekonomi",
@@ -69,6 +81,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/bist-30-sirketlerinde-dikkat-ceken-hareketlilik-esas-faliyet-karindaki-artis-neye-isaret-ediyor-3469734",
+   "baslik": "BİST- 30 şirketlerinde dikkat çeken hareketlilik! Esas faliyet karındaki artış neye işaret ediyor?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/bist-30-sirketlerinde-dikkat-ceken-hareketlilik-esas-faliyet-karindaki-artis-neye-isaret-ediyor-3469734",
+   "saat": "13:46",
+   "tarih_iso": "2026-09-22T13:46:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T11:01:04.630765+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/bist-50de-aciga-satis-islemlerinde-yukari-adim-kurali-uygulanacak/4064043",
    "baslik": "BIST 50'de açığa satış işlemlerinde yukarı adım kuralı uygulanacak",
@@ -181,6 +203,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+   "baslik": "U.S. threatens to 'shut down' Iranian airlines as Houthis tighten pressure on oil route",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
+   "saat": "10:55",
+   "tarih_iso": "2026-09-22T10:55:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T11:01:04.630765+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bureau-veritas-stock-gains-after-raising-revenue-growth-target-93CH-4910000",
+   "baslik": "Bureau Veritas stock gains after raising revenue growth target",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bureau-veritas-stock-gains-after-raising-revenue-growth-target-93CH-4910000",
+   "saat": "10:38",
+   "tarih_iso": "2026-09-22T10:38:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T11:01:04.630765+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-industrie-de-nora-stock-tumbling-today-93CH-4909994",
+   "baslik": "Why is Industrie De Nora stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-industrie-de-nora-stock-tumbling-today-93CH-4909994",
+   "saat": "10:33",
+   "tarih_iso": "2026-09-22T10:33:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T11:01:04.630765+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/22/foreign-investors-bernstein-india-tata-reliance.html",
+   "baslik": "India's large caps stuck in 'bygone economic era', says Bernstein, as foreign investors head for the exit",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/22/foreign-investors-bernstein-india-tata-reliance.html",
+   "saat": "10:26",
+   "tarih_iso": "2026-09-22T10:26:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T11:01:04.630765+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-muted-as-investors-eye-usiran-talks-4909991",
+   "baslik": "European shares muted as investors eye US-Iran talks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-muted-as-investors-eye-usiran-talks-4909991",
+   "saat": "10:24",
+   "tarih_iso": "2026-09-22T10:24:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T11:01:04.630765+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-smiths-stock-surging-today-93CH-4909989",
    "baslik": "Why is Smiths stock surging today?",
@@ -654,5 +726,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-22T10:30:53.246506+03:00"
+ "guncelleme": "2026-09-22T11:01:04.630765+03:00"
 }
