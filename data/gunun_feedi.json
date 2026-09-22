@@ -1,8 +1,55 @@
 {
  "tarih": "2026-09-22",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-GLYHO-202609220908",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:08",
+   "tarih_iso": "2026-09-22T09:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T09:30:55.388052+03:00"
+  },
+  {
+   "id": "kap-my-TAVHL-202609220846",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:46",
+   "tarih_iso": "2026-09-22T08:46:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T09:30:55.388052+03:00"
+  }
+ ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/son-dakika-bist-50-de-yukari-adim-kurali-uygulanacak-3914166",
+   "baslik": "BIST 50'de yukarı adım kuralı uygulanacak",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/son-dakika-bist-50-de-yukari-adim-kurali-uygulanacak-3914166",
+   "saat": "09:22",
+   "tarih_iso": "2026-09-22T09:22:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T09:30:55.388052+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/gundem/bakan-bolat-tarih-verdi-abd-ile-ticarette-50-milyar-dolar-hedefi-haberi-840925",
+   "baslik": "Bakan Bolat tarih verdi: ABD ile ticarette 50 milyar dolar hedefi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/bakan-bolat-tarih-verdi-abd-ile-ticarette-50-milyar-dolar-hedefi-haberi-840925",
+   "saat": "09:01",
+   "tarih_iso": "2026-09-22T09:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T09:30:55.388052+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/ecbden-lane-ikinci-enerji-dalgas-enflasyonu-artrabilir-93CH-4073647",
    "baslik": "ECB’den Lane: İkinci enerji dalgası enflasyonu artırabilir",
@@ -55,6 +102,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-026-4909899",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.26%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-026-4909899",
+   "saat": "09:05",
+   "tarih_iso": "2026-09-22T09:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T09:30:55.388052+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rbc-cuts-lvmh-view-as-luxury-demand-weakness-weighs-on-growth-4909892",
+   "baslik": "RBC cuts LVMH view as luxury demand weakness weighs on growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rbc-cuts-lvmh-view-as-luxury-demand-weakness-weighs-on-growth-4909892",
+   "saat": "09:00",
+   "tarih_iso": "2026-09-22T09:00:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T09:30:55.388052+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
    "baslik": "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning",
@@ -398,5 +465,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-22T09:01:05.454587+03:00"
+ "guncelleme": "2026-09-22T09:30:55.388052+03:00"
 }
