@@ -2,6 +2,32 @@
  "tarih": "2026-09-22",
  "kap": [
   {
+   "id": "kap-my-ASELS-202609221550",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "ASELS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:50",
+   "tarih_iso": "2026-09-22T15:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
+   "id": "kap-my-VAKBN-202609221550",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:50",
+   "tarih_iso": "2026-09-22T15:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
    "id": "kap-my-TOASO-202609221359",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -290,6 +316,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/son-dakika-bakan-ciftci-acikladi-okul-saldirisinda-yaralanan-3-cocuk-yogun-bakimda-haberi-841003",
+   "baslik": "Son dakika: Bakan Çiftçi açıkladı: Okul saldırısında yaralanan 3 çocuk yoğun bakımda",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/son-dakika-bakan-ciftci-acikladi-okul-saldirisinda-yaralanan-3-cocuk-yogun-bakimda-haberi-841003",
+   "saat": "16:05",
+   "tarih_iso": "2026-09-22T16:05:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-tarfin-besiktas-basketbol-maci-ne-zaman-saat-kacta-hangi-kanalda-bjk-fb-mac-tarihi-ve-saati-haberi-841001",
    "baslik": "Fenerbahçe Tarfin Beşiktaş basketbol maçı ne zaman, saat kaçta, hangi kanalda? BJK - FB maç tarihi ve saati...",
    "kaynak": "Dünya",
@@ -562,6 +600,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/22/santoli-the-sp-500-is-within-striking-distance-of-record-as-bull-relies-on-familiar-leadership.html",
+   "baslik": "Santoli: The S&P 500 is within striking distance of record as bull relies on familiar leadership",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/22/santoli-the-sp-500-is-within-striking-distance-of-record-as-bull-relies-on-familiar-leadership.html",
+   "saat": "16:21",
+   "tarih_iso": "2026-09-22T16:21:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/factboxweightloss-drug-developers-line-up-to-tap-lucrative-market-as-competition-heats-up-4910974",
+   "baslik": "Factbox-Weight-loss drug developers line up to tap lucrative market as competition heats up",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/factboxweightloss-drug-developers-line-up-to-tap-lucrative-market-as-competition-heats-up-4910974",
+   "saat": "16:12",
+   "tarih_iso": "2026-09-22T16:12:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/5-beaten-down-dividend-kings-131216549.html",
+   "baslik": "5 Beaten-Down Dividend Kings Ready to Roar Back in 2027 (One Yields Over 5%)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/5-beaten-down-dividend-kings-131216549.html",
+   "saat": "16:12",
+   "tarih_iso": "2026-09-22T16:12:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/real-estate/articles/self-storage-could-entering-growth-131101680.html",
+   "baslik": "Self-Storage Could Be Entering a New Growth Cycle — Baron Capital Re-Initiated Public Storage (PSA)",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/real-estate/articles/self-storage-could-entering-growth-131101680.html",
+   "saat": "16:11",
+   "tarih_iso": "2026-09-22T16:11:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/bounty-oil-gas-agrees-deal-130809413.html",
+   "baslik": "Bounty Oil & Gas agrees deal for Liberia deepwater block",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/bounty-oil-gas-agrees-deal-130809413.html",
+   "saat": "16:08",
+   "tarih_iso": "2026-09-22T16:08:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-autozone-stock-climbing-today-93CH-4910953",
+   "baslik": "Why is AutoZone stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-autozone-stock-climbing-today-93CH-4910953",
+   "saat": "16:05",
+   "tarih_iso": "2026-09-22T16:05:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-surging-today-93CH-4910952",
+   "baslik": "Why is Alibaba stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-surging-today-93CH-4910952",
+   "saat": "16:05",
+   "tarih_iso": "2026-09-22T16:05:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-record-borrowing-data-fans-budget-pressure-4909976",
+   "baslik": "FTSE 100 today: Stocks rise as Iran Hormuz offer drives oil sharply lower",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-record-borrowing-data-fans-budget-pressure-4909976",
+   "saat": "16:04",
+   "tarih_iso": "2026-09-22T16:04:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
    "baslik": "Our top 10 things to watch in the stock market Tuesday",
    "kaynak": "CNBC",
@@ -570,6 +688,16 @@
    "tarih_iso": "2026-09-22T16:00:28+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/equinix-eqix-positions-benefit-exponential-125701911.html",
+   "baslik": "Equinix (EQIX) Positions to Benefit from Exponential Data Growth and Early-Stage Enterprise AI",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/equinix-eqix-positions-benefit-exponential-125701911.html",
+   "saat": "15:57",
+   "tarih_iso": "2026-09-22T15:57:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/meta-stock-rallied-20-since-muse-ai-launch-is-meta-the-best-mag-7-buy-now-93CH-4910878",
@@ -1402,6 +1530,16 @@
    "eklenme": "2026-09-22T13:01:05.691839+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
+   "baslik": "Why Muse just added billions to Meta's market cap and to Mark Zuckerberg's net worth",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/why-muse-just-added-billions-to-metas-market-cap-and-to-mark-zuckerbergs-net-worth-094853229.html",
+   "saat": "12:48",
+   "tarih_iso": "2026-09-22T12:48:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/citi-sees-essd-demand-to-jump-529-in-2027-on-ai-growth-93CH-4910190",
    "baslik": "Citi sees eSSD demand to jump 52.9% in 2027 on AI growth",
    "kaynak": "Investing.com",
@@ -1660,109 +1798,19 @@
    "tarih_iso": "2026-09-22T11:30:04+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T12:01:14.265606+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
-   "baslik": "Oil prices climb ahead of potential US-Iran talks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
-   "saat": "11:26",
-   "tarih_iso": "2026-09-22T11:26:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T12:30:56.555113+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-   "baslik": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
-   "saat": "11:06",
-   "tarih_iso": "2026-09-22T11:06:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T12:30:56.555113+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/digia-lowers-2026-profit-guidance-citing-project-challenges-93CH-4910020",
-   "baslik": "Digia lowers 2026 profit guidance citing project challenges",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/digia-lowers-2026-profit-guidance-citing-project-challenges-93CH-4910020",
-   "saat": "11:06",
-   "tarih_iso": "2026-09-22T11:06:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T11:30:53.203365+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/soaring-oil-gas-prices-push-080000656.html",
-   "baslik": "Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/soaring-oil-gas-prices-push-080000656.html",
-   "saat": "11:00",
-   "tarih_iso": "2026-09-22T11:00:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T12:30:56.555113+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
-   "baslik": "U.S. threatens to 'shut down' Iranian airlines as Houthis tighten pressure on oil route",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
-   "saat": "10:55",
-   "tarih_iso": "2026-09-22T10:55:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T11:01:04.630765+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/bureau-veritas-stock-gains-after-raising-revenue-growth-target-93CH-4910000",
-   "baslik": "Bureau Veritas stock gains after raising revenue growth target",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/bureau-veritas-stock-gains-after-raising-revenue-growth-target-93CH-4910000",
-   "saat": "10:38",
-   "tarih_iso": "2026-09-22T10:38:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T11:01:04.630765+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-industrie-de-nora-stock-tumbling-today-93CH-4909994",
-   "baslik": "Why is Industrie De Nora stock tumbling today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-industrie-de-nora-stock-tumbling-today-93CH-4909994",
-   "saat": "10:33",
-   "tarih_iso": "2026-09-22T10:33:26+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T11:01:04.630765+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/warren-buffett-just-stepped-down-073051631.html",
-   "baslik": "Warren Buffett Just Stepped Down. These 2 AI Stocks Still Define Berkshire’s Portfolio",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/warren-buffett-just-stepped-down-073051631.html",
-   "saat": "10:30",
-   "tarih_iso": "2026-09-22T10:30:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T12:30:56.555113+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/22/foreign-investors-bernstein-india-tata-reliance.html",
-   "baslik": "India's large caps stuck in 'bygone economic era', says Bernstein, as foreign investors head for the exit",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/22/foreign-investors-bernstein-india-tata-reliance.html",
-   "saat": "10:26",
-   "tarih_iso": "2026-09-22T10:26:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T11:01:04.630765+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-muted-as-investors-eye-usiran-talks-4909991",
-   "baslik": "European shares muted as investors eye US-Iran talks",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-shares-muted-as-investors-eye-usiran-talks-4909991",
-   "saat": "10:24",
-   "tarih_iso": "2026-09-22T10:24:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T11:01:04.630765+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.cnnturk.com/ekonomi/14-kurumun-altin-tahmini-ortaya-cikti-2026-yil-sonu-icin-rakamlar-belli-oldu-3469956",
+   "baslik": "14 kurumun altın tahmini ortaya çıktı! 2026 yıl sonu için rakamlar belli oldu",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/14-kurumun-altin-tahmini-ortaya-cikti-2026-yil-sonu-icin-rakamlar-belli-oldu-3469956",
+   "saat": "19:20",
+   "tarih_iso": "2026-09-22T19:20:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:31:02.628440+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/uzman-isimler-anlatti-borsa-ve-altinin-seyri-yon-ne-olacak-beklentiler-nasil-3469884",
    "baslik": "Uzman isimler anlattı: Borsa ve altının seyri yön ne olacak, beklentiler nasıl?",
@@ -1974,5 +2022,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-22T16:01:08.140409+03:00"
+ "guncelleme": "2026-09-22T16:31:02.628440+03:00"
 }
