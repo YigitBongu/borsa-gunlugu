@@ -459,6 +459,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/otokarda-mercedes-benz-conectonun-seri-uretimi-basladi-haberi-841039",
+   "baslik": "Otokar’da Mercedes-Benz Conecto’nun seri üretimi başladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/otokarda-mercedes-benz-conectonun-seri-uretimi-basladi-haberi-841039",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-23T00:00:00+03:00",
+   "kodlar": [
+    "OTKAR"
+   ],
+   "eklenme": "2026-09-23T00:30:51.827339+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/kadin-girisimciler-icin-10-milyar-liralik-destek-haberi-841043",
+   "baslik": "Kadın girişimciler için 10 milyar liralık destek",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/kadin-girisimciler-icin-10-milyar-liralik-destek-haberi-841043",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-23T00:00:00+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-09-23T00:30:51.827339+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/cumhurbaskanligi-kupasi-fenerbahcenin-haberi-841054",
    "baslik": "Cumhurbaşkanlığı Kupası Fenerbahçe'nin",
    "kaynak": "Dünya",
@@ -806,6 +830,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/talos-energy-stock-rises-on-420m-gulf-of-america-asset-deal-93CH-4911722",
+   "baslik": "Talos Energy stock rises on $420M Gulf of America asset deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/talos-energy-stock-rises-on-420m-gulf-of-america-asset-deal-93CH-4911722",
+   "saat": "00:13",
+   "tarih_iso": "2026-09-23T00:13:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T00:30:51.827339+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kb-home-stock-sliding-today-93CH-4911713",
+   "baslik": "Why is KB Home stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kb-home-stock-sliding-today-93CH-4911713",
+   "saat": "00:04",
+   "tarih_iso": "2026-09-23T00:04:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T00:30:51.827339+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-voyager-technologies-stock-sliding-today-93CH-4911709",
+   "baslik": "Why is Voyager Technologies stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-voyager-technologies-stock-sliding-today-93CH-4911709",
+   "saat": "00:03",
+   "tarih_iso": "2026-09-23T00:03:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T00:30:51.827339+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/financial-stocks-fall-with-ai-and-flattening-yield-curve-in-focus-4911692",
    "baslik": "Financial stocks fall with AI and flattening yield curve in focus",
@@ -1975,36 +2029,6 @@
    "tarih_iso": "2026-09-22T17:28:27+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T18:01:08.724227+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-curtisswright-stock-sliding-today-93CH-4911165",
-   "baslik": "Why is Curtiss-Wright stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-curtisswright-stock-sliding-today-93CH-4911165",
-   "saat": "17:27",
-   "tarih_iso": "2026-09-22T17:27:50+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T17:30:55.697315+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-rallying-today-93CH-4911153",
-   "baslik": "Why is Western Digital stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-rallying-today-93CH-4911153",
-   "saat": "17:24",
-   "tarih_iso": "2026-09-22T17:24:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T17:30:55.697315+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
-   "baslik": "10-year Treasury yield slips further below 5% as traders await Fed comments",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
-   "saat": "17:21",
-   "tarih_iso": "2026-09-22T17:21:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T17:30:55.697315+03:00"
   }
  ],
  "altin_haber": [
@@ -2269,5 +2293,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-23T00:01:02.396131+03:00"
+ "guncelleme": "2026-09-23T00:30:51.827339+03:00"
 }
