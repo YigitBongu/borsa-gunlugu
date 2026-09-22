@@ -2,6 +2,19 @@
  "tarih": "2026-09-22",
  "kap": [
   {
+   "id": "kap-my-GESAN-202609220926",
+   "baslik": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş. — Yeni İş İlişkisi",
+   "sirket": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
+   "kodlar": [
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:26",
+   "tarih_iso": "2026-09-22T09:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T10:01:03.045353+03:00"
+  },
+  {
    "id": "kap-my-GLYHO-202609220908",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -30,6 +43,16 @@
  ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbuldan-aciga-satis-karari-yukari-adim-kurali-uygulanacak-haberi-840934",
+   "baslik": "Borsa İstanbul'dan açığa satış kararı: Yukarı adım kuralı uygulanacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/borsa-istanbuldan-aciga-satis-karari-yukari-adim-kurali-uygulanacak-haberi-840934",
+   "saat": "09:41",
+   "tarih_iso": "2026-09-22T09:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:01:03.045353+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/son-dakika-bist-50-de-yukari-adim-kurali-uygulanacak-3914166",
    "baslik": "BIST 50'de yukarı adım kuralı uygulanacak",
@@ -102,6 +125,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-030-4909931",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.30%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-030-4909931",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-22T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:01:03.045353+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-026-4909899",
    "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.26%",
@@ -365,6 +398,16 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-futures-market-structure-vc-pmi-square-9-and-cycle-timing-200688105",
+   "baslik": "Gold Futures Market Structure: VC PMI, Square 9 and Cycle Timing",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-futures-market-structure-vc-pmi-square-9-and-cycle-timing-200688105",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:01:03.045353+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-and-silver-are-trading-the-inflation-the-oil-chart-is-missing-200688093",
    "baslik": "Gold and Silver Are Trading the Inflation the Oil Chart Is Missing",
    "kaynak": "Investing Emtia",
@@ -465,5 +508,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-22T09:30:55.388052+03:00"
+ "guncelleme": "2026-09-22T10:01:03.045353+03:00"
 }
