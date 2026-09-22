@@ -290,6 +290,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-tarfin-besiktas-basketbol-maci-ne-zaman-saat-kacta-hangi-kanalda-bjk-fb-mac-tarihi-ve-saati-haberi-841001",
+   "baslik": "Fenerbahçe Tarfin Beşiktaş basketbol maçı ne zaman, saat kaçta, hangi kanalda? BJK - FB maç tarihi ve saati...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-tarfin-besiktas-basketbol-maci-ne-zaman-saat-kacta-hangi-kanalda-bjk-fb-mac-tarihi-ve-saati-haberi-841001",
+   "saat": "15:53",
+   "tarih_iso": "2026-09-22T15:53:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/halkbank-tan-girisimcilere-yonelik-destek-3914218",
    "baslik": "Halkbank'tan girişimcilere yönelik destek",
    "kaynak": "Habertürk Ekonomi",
@@ -327,6 +339,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/adani-sirketleri-sebi-ile-158000-dolar-odeyerek-anlast-93CH-4074493",
+   "baslik": "Adani şirketleri SEBI ile 158.000 dolar ödeyerek anlaştı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/adani-sirketleri-sebi-ile-158000-dolar-odeyerek-anlast-93CH-4074493",
+   "saat": "15:41",
+   "tarih_iso": "2026-09-22T15:41:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/accelevation-destekcisi-olympus-ile-halka-arzda-720-milyon-dolar-hedefliyor-93CH-4074461",
+   "baslik": "Accelevation, destekçisi Olympus ile halka arzda 720 milyon dolar hedefliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/accelevation-destekcisi-olympus-ile-halka-arzda-720-milyon-dolar-hedefliyor-93CH-4074461",
+   "saat": "15:33",
+   "tarih_iso": "2026-09-22T15:33:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/tcmb-acikladi-reel-sektorun-net-doviz-pozisyonu-acigi-rekor-seviyede-haberi-840996",
    "baslik": "TCMB açıkladı: Reel sektörün net döviz pozisyonu açığı rekor seviyede",
@@ -530,6 +562,116 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "baslik": "Our top 10 things to watch in the stock market Tuesday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-09-22T16:00:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/meta-stock-rallied-20-since-muse-ai-launch-is-meta-the-best-mag-7-buy-now-93CH-4910878",
+   "baslik": "Meta stock rallied 20% since Muse AI launch: Is META the best Mag 7 buy now?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/meta-stock-rallied-20-since-muse-ai-launch-is-meta-the-best-mag-7-buy-now-93CH-4910878",
+   "saat": "15:54",
+   "tarih_iso": "2026-09-22T15:54:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/ppg-names-alex-lopez-investor-124537498.html",
+   "baslik": "PPG names Alex Lopez as investor relations and operational finance VP",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/ppg-names-alex-lopez-investor-124537498.html",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-22T15:45:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-001-4910849",
+   "baslik": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.01%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-001-4910849",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-22T15:45:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+   "baslik": "Oil prices fall after report Saudi Arabia aims to restart critical pipeline this week",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
+   "saat": "15:43",
+   "tarih_iso": "2026-09-22T15:43:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-verbund-stock-gaining-today-93CH-4910837",
+   "baslik": "Why is Verbund stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-verbund-stock-gaining-today-93CH-4910837",
+   "saat": "15:43",
+   "tarih_iso": "2026-09-22T15:43:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-upbeat-after-ai-rally-falling-oil-boost-wall-st-4909802",
+   "baslik": "S&P, Dow futures tick up, Nasdaq 100 futures flat a day after big AI-driven rally",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-upbeat-after-ai-rally-falling-oil-boost-wall-st-4909802",
+   "saat": "15:42",
+   "tarih_iso": "2026-09-22T15:42:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
+   "baslik": "Kalshi asks CFTC to allow margin trading on prediction markets",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html",
+   "saat": "15:39",
+   "tarih_iso": "2026-09-22T15:39:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/economy/policy/articles/boston-feds-susan-collins-backed-123902176.html",
+   "baslik": "Boston Fed's Susan Collins backed rate hike, expects another in 2026",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/economy/policy/articles/boston-feds-susan-collins-backed-123902176.html",
+   "saat": "15:39",
+   "tarih_iso": "2026-09-22T15:39:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/realty-income-falls-3-months-123804321.html",
+   "baslik": "Realty Income Falls for 3 Months: Two Wall Street Pros Say Near 30% Gains Lie Ahead for the Dividend Powerhouse.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/realty-income-falls-3-months-123804321.html",
+   "saat": "15:38",
+   "tarih_iso": "2026-09-22T15:38:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/paychex-stock-react-upcoming-earnings-123659252.html",
+   "baslik": "How Will Paychex Stock React To Its Upcoming Earnings?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/paychex-stock-react-upcoming-earnings-123659252.html",
+   "saat": "15:36",
+   "tarih_iso": "2026-09-22T15:36:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/wall-street-and-ai-ruined-your-diversified-portfolio-f1255373?mod=mw_rss_topstories",
    "baslik": "Wall Street and AI ruined your ‘diversified’ portfolio",
    "kaynak": "MarketWatch",
@@ -618,6 +760,16 @@
    "tarih_iso": "2026-09-22T15:02:56+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T15:30:55.662325+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+   "baslik": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot new AI assistant",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+   "saat": "15:02",
+   "tarih_iso": "2026-09-22T15:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
   },
   {
    "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo",
@@ -1608,126 +1760,6 @@
    "tarih_iso": "2026-09-22T10:24:37+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T11:01:04.630765+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-smiths-stock-surging-today-93CH-4909989",
-   "baslik": "Why is Smiths stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-smiths-stock-surging-today-93CH-4909989",
-   "saat": "10:19",
-   "tarih_iso": "2026-09-22T10:19:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T10:30:53.246506+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mc-saatchi-stock-sliding-today-93CH-4909985",
-   "baslik": "Why is M&C Saatchi stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-mc-saatchi-stock-sliding-today-93CH-4909985",
-   "saat": "10:16",
-   "tarih_iso": "2026-09-22T10:16:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T10:30:53.246506+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kingfisher-stock-surging-today-93CH-4909984",
-   "baslik": "Why is Kingfisher stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-kingfisher-stock-surging-today-93CH-4909984",
-   "saat": "10:15",
-   "tarih_iso": "2026-09-22T10:15:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T10:30:53.246506+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-record-borrowing-data-fans-budget-pressure-4909976",
-   "baslik": "FTSE 100 today: Stocks edge up as record borrowing data fans Budget pressure",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-record-borrowing-data-fans-budget-pressure-4909976",
-   "saat": "10:09",
-   "tarih_iso": "2026-09-22T10:09:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T10:30:53.246506+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/tui-narrows-2026-operating-profit-outlook-4909972",
-   "baslik": "TUI narrows 2026 operating profit outlook",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/tui-narrows-2026-operating-profit-outlook-4909972",
-   "saat": "10:00",
-   "tarih_iso": "2026-09-22T10:00:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T10:30:53.246506+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-rise-tracking-us-tech-rally-trumpxi-meeting-eyed-4909838",
-   "baslik": "Asia stocks erase early tech-driven gains; Trump-Xi meeting eyed",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-tracking-us-tech-rally-trumpxi-meeting-eyed-4909838",
-   "saat": "09:48",
-   "tarih_iso": "2026-09-22T09:48:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T10:30:53.246506+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/generac-holdings-inc-gnrc-stock-064555046.html",
-   "baslik": "Is Generac Holdings Inc. (GNRC) Stock a Top AI Infrastructure Play After $2.4 Billion Amazon Deal?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/generac-holdings-inc-gnrc-stock-064555046.html",
-   "saat": "09:45",
-   "tarih_iso": "2026-09-22T09:45:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T12:30:56.555113+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
-   "baslik": "AI optimism lifts Asian stocks after Nasdaq ends at record high",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
-   "saat": "09:45",
-   "tarih_iso": "2026-09-22T09:45:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T10:30:53.246506+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-1-3-064015139.html",
-   "baslik": "Tower Semiconductor (TSEM): $1.3 Billion in Silicon Photonics Contracts Puts AI Growth in Focus",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-1-3-064015139.html",
-   "saat": "09:40",
-   "tarih_iso": "2026-09-22T09:40:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T12:30:56.555113+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-030-4909931",
-   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.30%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-030-4909931",
-   "saat": "09:30",
-   "tarih_iso": "2026-09-22T09:30:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T10:01:03.045353+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-026-4909899",
-   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.26%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-026-4909899",
-   "saat": "09:05",
-   "tarih_iso": "2026-09-22T09:05:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T09:30:55.388052+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/rbc-cuts-lvmh-view-as-luxury-demand-weakness-weighs-on-growth-4909892",
-   "baslik": "RBC cuts LVMH view as luxury demand weakness weighs on growth",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/rbc-cuts-lvmh-view-as-luxury-demand-weakness-weighs-on-growth-4909892",
-   "saat": "09:00",
-   "tarih_iso": "2026-09-22T09:00:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T09:30:55.388052+03:00"
   }
  ],
  "altin_haber": [
@@ -1740,6 +1772,16 @@
    "tarih_iso": "2026-09-22T17:27:09+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T14:30:53.915292+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/finans/altin/14-dev-kurumdan-altin-tahmini-yeni-hedefler-belli-oldu-haberi-840999",
+   "baslik": "14 dev kurumdan altın tahmini: Yeni hedefler belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/14-dev-kurumdan-altin-tahmini-yeni-hedefler-belli-oldu-haberi-840999",
+   "saat": "15:20",
+   "tarih_iso": "2026-09-22T15:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T16:01:08.140409+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-holds-above-4300-as-4400-resistance-comes-into-focus-200688143",
@@ -1932,5 +1974,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-22T15:30:55.662325+03:00"
+ "guncelleme": "2026-09-22T16:01:08.140409+03:00"
 }
