@@ -549,6 +549,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/bist-100-de-27-sirket-degisikligi-borsa-istanbul-endekslerinde-yeni-donem-3914149",
+   "baslik": "Borsa İstanbul endekslerinde yeni dönem",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/bist-100-de-27-sirket-degisikligi-borsa-istanbul-endekslerinde-yeni-donem-3914149",
+   "saat": "07:24",
+   "tarih_iso": "2026-09-22T07:24:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T08:01:06.047994+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-22-eylul-sali-doviz-kurlari-haberi-840911",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (22 Eylül Salı Döviz Kurları)",
    "kaynak": "Dünya",
@@ -811,6 +821,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zai-stock-declining-today-93CH-4909855",
+   "baslik": "Why is ZAI stock declining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-zai-stock-declining-today-93CH-4909855",
+   "saat": "07:26",
+   "tarih_iso": "2026-09-22T07:26:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T08:01:06.047994+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html",
    "baslik": "Oil rises amid worries of growing Iran-U.S. tensions after Bessent issues Iranian airline shutdown warning",
    "kaynak": "CNBC",
@@ -819,6 +839,16 @@
    "tarih_iso": "2026-09-22T07:22:20+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T07:30:57.809252+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tencent-stock-climbing-today-93CH-4909853",
+   "baslik": "Why is Tencent stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tencent-stock-climbing-today-93CH-4909853",
+   "saat": "07:20",
+   "tarih_iso": "2026-09-22T07:20:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T08:01:06.047994+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alibaba-stock-surging-today-93CH-4909852",
@@ -1989,29 +2019,19 @@
    "tarih_iso": "2026-09-21T19:09:43+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T20:01:07.513745+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/energy-stock-ceo-liquidates-nearly-160501720.html",
-   "baslik": "Energy Stock CEO Liquidates Nearly 4,000 Shares Valued at Almost $200,000",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/energy-stock-ceo-liquidates-nearly-160501720.html",
-   "saat": "19:05",
-   "tarih_iso": "2026-09-21T19:05:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T19:30:55.340615+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/nike-holding-deckers-outdoor-down-160500455.html",
-   "baslik": "Nike, On Holding, and Deckers Outdoor Are Down Between 23% and 43%. Here's the Stock to Buy, Even if the Fed Keeps Hiking Interest Rates.",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/nike-holding-deckers-outdoor-down-160500455.html",
-   "saat": "19:05",
-   "tarih_iso": "2026-09-21T19:05:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T19:30:55.340615+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-22-eylul-canli-gram-altin-ne-kadar-ceyrek-altin-kac-tl-kapalicarsi-altin-fiyatlari-alis-satis-tablosu-3469667",
+   "baslik": "ALTIN FİYATLARI 22 EYLÜL CANLI | Gram altın ne kadar, çeyrek altın kaç TL? Kapalıçarşı altın fiyatları alış-satış tablosu!",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlari-22-eylul-canli-gram-altin-ne-kadar-ceyrek-altin-kac-tl-kapalicarsi-altin-fiyatlari-alis-satis-tablosu-3469667",
+   "saat": "10:39",
+   "tarih_iso": "2026-09-22T10:39:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T08:01:06.047994+03:00"
+  },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-kolay-dusmuyor-buyuk-yatirimci-piyasadan-cikmadi-galeri-840904",
    "baslik": "Altın kolay düşmüyor: Büyük yatırımcı piyasadan çıkmadı",
@@ -2403,5 +2423,5 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   }
  ],
- "guncelleme": "2026-09-22T07:30:57.809252+03:00"
+ "guncelleme": "2026-09-22T08:01:06.047994+03:00"
 }
