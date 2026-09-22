@@ -2,6 +2,32 @@
  "tarih": "2026-09-22",
  "kap": [
   {
+   "id": "kap-my-VAKBN-202609221109",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:09",
+   "tarih_iso": "2026-09-22T11:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T11:30:53.203365+03:00"
+  },
+  {
+   "id": "kap-my-YKBNK-202609221107",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "YKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:07",
+   "tarih_iso": "2026-09-22T11:07:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T11:30:53.203365+03:00"
+  },
+  {
    "id": "kap-my-REEDR-202609221000",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -90,6 +116,16 @@
    "tarih_iso": "2026-09-22T13:46:32+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T11:01:04.630765+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/makine-sektorunden-8-ayda-18-8-milyar-dolar-ihracat/4064155",
+   "baslik": "Makine sektöründen 8 ayda 18,8 milyar dolar ihracat",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/makine-sektorunden-8-ayda-18-8-milyar-dolar-ihracat/4064155",
+   "saat": "11:22",
+   "tarih_iso": "2026-09-22T11:22:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T11:30:53.203365+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/bist-50de-aciga-satis-islemlerinde-yukari-adim-kurali-uygulanacak/4064043",
@@ -203,6 +239,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/digia-lowers-2026-profit-guidance-citing-project-challenges-93CH-4910020",
+   "baslik": "Digia lowers 2026 profit guidance citing project challenges",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/digia-lowers-2026-profit-guidance-citing-project-challenges-93CH-4910020",
+   "saat": "11:06",
+   "tarih_iso": "2026-09-22T11:06:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T11:30:53.203365+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
    "baslik": "U.S. threatens to 'shut down' Iranian airlines as Houthis tighten pressure on oil route",
@@ -726,5 +772,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-22T11:01:04.630765+03:00"
+ "guncelleme": "2026-09-22T11:30:53.203365+03:00"
 }
