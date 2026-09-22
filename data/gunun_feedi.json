@@ -2,6 +2,19 @@
  "tarih": "2026-09-22",
  "kap": [
   {
+   "id": "kap-my-REEDR-202609221000",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-22T10:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
    "id": "kap-my-GESAN-202609220926",
    "baslik": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş. — Yeni İş İlişkisi",
    "sirket": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
@@ -41,8 +54,51 @@
    "eklenme": "2026-09-22T09:30:55.388052+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/rahmi-m-koca-abdde-100-yillik-onur-odulu-3914181",
+   "baslik": "Rahmi M. Koç’a ABD’de “100 Yıllık” Onur Ödülü",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/rahmi-m-koca-abdde-100-yillik-onur-odulu-3914181",
+   "saat": "10:14",
+   "tarih_iso": "2026-09-22T10:14:34+03:00",
+   "kodlar": [
+    "KCHOL"
+   ],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  }
+ ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/bist-50de-aciga-satis-islemlerinde-yukari-adim-kurali-uygulanacak/4064043",
+   "baslik": "BIST 50'de açığa satış işlemlerinde yukarı adım kuralı uygulanacak",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bist-50de-aciga-satis-islemlerinde-yukari-adim-kurali-uygulanacak/4064043",
+   "saat": "10:16",
+   "tarih_iso": "2026-09-22T10:16:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/ftse-100-bugun-rekor-borclanma-verisi-butce-basksn-artrrken-hisseler-yukseldi-4073783",
+   "baslik": "FTSE 100 bugün: Rekor borçlanma verisi Bütçe baskısını artırırken hisseler yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/ftse-100-bugun-rekor-borclanma-verisi-butce-basksn-artrrken-hisseler-yukseldi-4073783",
+   "saat": "10:09",
+   "tarih_iso": "2026-09-22T10:09:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbul-gune-dususle-basladi-haberi-840942",
+   "baslik": "Borsa İstanbul güne düşüşle başladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/borsa-istanbul-gune-dususle-basladi-haberi-840942",
+   "saat": "10:09",
+   "tarih_iso": "2026-09-22T10:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbuldan-aciga-satis-karari-yukari-adim-kurali-uygulanacak-haberi-840934",
    "baslik": "Borsa İstanbul'dan açığa satış kararı: Yukarı adım kuralı uygulanacak",
@@ -125,6 +181,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-smiths-stock-surging-today-93CH-4909989",
+   "baslik": "Why is Smiths stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-smiths-stock-surging-today-93CH-4909989",
+   "saat": "10:19",
+   "tarih_iso": "2026-09-22T10:19:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mc-saatchi-stock-sliding-today-93CH-4909985",
+   "baslik": "Why is M&C Saatchi stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mc-saatchi-stock-sliding-today-93CH-4909985",
+   "saat": "10:16",
+   "tarih_iso": "2026-09-22T10:16:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kingfisher-stock-surging-today-93CH-4909984",
+   "baslik": "Why is Kingfisher stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kingfisher-stock-surging-today-93CH-4909984",
+   "saat": "10:15",
+   "tarih_iso": "2026-09-22T10:15:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-record-borrowing-data-fans-budget-pressure-4909976",
+   "baslik": "FTSE 100 today: Stocks edge up as record borrowing data fans Budget pressure",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-edge-up-as-record-borrowing-data-fans-budget-pressure-4909976",
+   "saat": "10:09",
+   "tarih_iso": "2026-09-22T10:09:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tui-narrows-2026-operating-profit-outlook-4909972",
+   "baslik": "TUI narrows 2026 operating profit outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tui-narrows-2026-operating-profit-outlook-4909972",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-22T10:00:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-rise-tracking-us-tech-rally-trumpxi-meeting-eyed-4909838",
+   "baslik": "Asia stocks erase early tech-driven gains; Trump-Xi meeting eyed",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-tracking-us-tech-rally-trumpxi-meeting-eyed-4909838",
+   "saat": "09:48",
+   "tarih_iso": "2026-09-22T09:48:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
+   "baslik": "AI optimism lifts Asian stocks after Nasdaq ends at record high",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
+   "saat": "09:45",
+   "tarih_iso": "2026-09-22T09:45:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-030-4909931",
    "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.30%",
@@ -398,6 +524,26 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-is-finally-starting-to-respect-the-price-of-money-200688121",
+   "baslik": "Gold Is Finally Starting to Respect the Price of Money",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-is-finally-starting-to-respect-the-price-of-money-200688121",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-4362-breakdown-could-accelerate-the-selling-pressure-200688111",
+   "baslik": "Gold: $4,362 Breakdown Could Accelerate the Selling Pressure",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-4362-breakdown-could-accelerate-the-selling-pressure-200688111",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-futures-market-structure-vc-pmi-square-9-and-cycle-timing-200688105",
    "baslik": "Gold Futures Market Structure: VC PMI, Square 9 and Cycle Timing",
    "kaynak": "Investing Emtia",
@@ -508,5 +654,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-22T10:01:03.045353+03:00"
+ "guncelleme": "2026-09-22T10:30:53.246506+03:00"
 }
