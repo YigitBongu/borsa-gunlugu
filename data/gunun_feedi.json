@@ -2,6 +2,45 @@
  "tarih": "2026-09-22",
  "kap": [
   {
+   "id": "kap-my-YKBNK-202609221343",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "YKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:43",
+   "tarih_iso": "2026-09-22T13:43:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "kap-my-CIMSA-202609221342",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "CIMSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:42",
+   "tarih_iso": "2026-09-22T13:42:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "kap-my-AKBNK-202609221341",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:41",
+   "tarih_iso": "2026-09-22T13:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
    "id": "kap-my-REEDR-202609221246",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -250,6 +289,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/ecb-stablecoin-rezervleri-icin-banka-mevduat-sartna-kars-ckt-93CH-4074160",
+   "baslik": "ECB, stablecoin rezervleri için banka mevduat şartına karşı çıktı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/ecb-stablecoin-rezervleri-icin-banka-mevduat-sartna-kars-ckt-93CH-4074160",
+   "saat": "13:59",
+   "tarih_iso": "2026-09-22T13:59:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/bist-30-sirketlerinde-dikkat-ceken-hareketlilik-esas-faliyet-karindaki-artis-neye-isaret-ediyor-3469734",
    "baslik": "BİST- 30 şirketlerinde dikkat çeken hareketlilik! Esas faliyet karındaki artış neye işaret ediyor?",
    "kaynak": "CNN Türk Ekonomi",
@@ -422,6 +471,126 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
+   "baslik": "McDonald's is hosting an investor day as its U.S. business struggles. Here are 4 things to expect",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/22/mcdonalds-mcd-hosts-investor-day.html",
+   "saat": "14:00",
+   "tarih_iso": "2026-09-22T14:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
+   "baslik": "How this market-beating fund is constantly shifting to keep up with the AI trade",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
+   "saat": "13:59",
+   "tarih_iso": "2026-09-22T13:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ecb-opposes-bank-deposit-requirements-for-stablecoin-reserves-93CH-4910394",
+   "baslik": "ECB opposes bank deposit requirements for stablecoin reserves",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ecb-opposes-bank-deposit-requirements-for-stablecoin-reserves-93CH-4910394",
+   "saat": "13:58",
+   "tarih_iso": "2026-09-22T13:58:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/accelevation-holdings-files-for-ipo-on-nasdaq-at-2024sh-432SI-4910373",
+   "baslik": "Accelevation Holdings files for IPO on Nasdaq at $20-$24/sh",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/accelevation-holdings-files-for-ipo-on-nasdaq-at-2024sh-432SI-4910373",
+   "saat": "13:58",
+   "tarih_iso": "2026-09-22T13:58:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pep-stock-is-its-cheap-valuation-enough-to-justify-a-buy-93CH-4910391",
+   "baslik": "PEP stock: Is its cheap valuation enough to justify a buy?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pep-stock-is-its-cheap-valuation-enough-to-justify-a-buy-93CH-4910391",
+   "saat": "13:57",
+   "tarih_iso": "2026-09-22T13:57:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/costco-stock-analysis-is-now-time-to-buy-the-pullback-93CH-4910386",
+   "baslik": "Costco stock analysis: Is now time to buy the pullback?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/costco-stock-analysis-is-now-time-to-buy-the-pullback-93CH-4910386",
+   "saat": "13:54",
+   "tarih_iso": "2026-09-22T13:54:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-securities-names-top-biotech-stock-amid-sector-rally-93CH-4910385",
+   "baslik": "BofA Securities Names Top Biotech Stock Amid Sector Rally",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bofa-securities-names-top-biotech-stock-amid-sector-rally-93CH-4910385",
+   "saat": "13:53",
+   "tarih_iso": "2026-09-22T13:53:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/small-business/articles/lycra-company-names-hua-du-104958553.html",
+   "baslik": "The Lycra Company names Hua Du CEO to lead post-restructuring growth",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/small-business/articles/lycra-company-names-hua-du-104958553.html",
+   "saat": "13:49",
+   "tarih_iso": "2026-09-22T13:49:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
+   "baslik": "Home Depot CFO issues chilling alarm over ‘frozen’ US housing market — crucial metric plunges to historic low",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/real-estate/articles/home-depot-cfo-issues-chilling-104500209.html",
+   "saat": "13:45",
+   "tarih_iso": "2026-09-22T13:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/think-sandisk-stock-low-2-104301239.html",
+   "baslik": "I Think Sandisk Stock Will Be in the Low $2,000s in 2030. From About $1,790, That Wouldn't Beat the Market.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/think-sandisk-stock-low-2-104301239.html",
+   "saat": "13:43",
+   "tarih_iso": "2026-09-22T13:43:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/news/morning-bid-oil-swoons-ai-103925671.html",
+   "baslik": "Morning Bid: As oil swoons, AI recharges",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/news/morning-bid-oil-swoons-ai-103925671.html",
+   "saat": "13:39",
+   "tarih_iso": "2026-09-22T13:39:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/shiba-inu-reach-1-during-103800558.html",
+   "baslik": "Can Shiba Inu Reach $1 During the Next Crypto Bull Market? The Answer Might Shock You.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/shiba-inu-reach-1-during-103800558.html",
+   "saat": "13:38",
+   "tarih_iso": "2026-09-22T13:38:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-036-4910311",
    "baslik": "India stocks lower at close of trade; Nifty 50 down 0.36%",
    "kaynak": "Investing.com",
@@ -460,6 +629,16 @@
    "tarih_iso": "2026-09-22T13:25:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T13:50:45.626198+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/tsmc-spent-15-59-billion-102237675.html",
+   "baslik": "TSMC Spent $15.59 Billion on CapEx in a Single Quarter, 42% More Than the Quarter Before. Here’s What It Means For the Stock.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/tsmc-spent-15-59-billion-102237675.html",
+   "saat": "13:22",
+   "tarih_iso": "2026-09-22T13:22:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
   },
   {
    "id": "yab-https://www.barrons.com/livecoverage/stock-market-news-today-092226/card/dow-futures-fall-as-record-tech-rally-runs-out-of-gas-1HVhU55FCnoBKxeTUDoM?siteid=yhoof2&yptr=yahoo",
@@ -1384,6 +1563,16 @@
    "eklenme": "2026-09-22T13:50:45.626198+03:00"
   },
   {
+   "id": "alt-https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-september-22-2026-gold-prices-holding-as-chinese-gold-imports-set-record-104326063.html",
+   "baslik": "Gold price today, Tuesday, September 22, 2026: Gold prices holding as Chinese gold imports set record",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-september-22-2026-gold-prices-holding-as-chinese-gold-imports-set-record-104326063.html",
+   "saat": "13:43",
+   "tarih_iso": "2026-09-22T13:43:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T14:01:05.587482+03:00"
+  },
+  {
    "id": "alt-https://finance.yahoo.com/markets/commodities/articles/gold-prices-fall-stronger-dollar-094401799.html",
    "baslik": "Gold Prices Fall as Stronger Dollar and Fed Rate Expectations Weigh on Bullion",
    "kaynak": "Yahoo Finance",
@@ -1554,5 +1743,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-22T13:50:45.626198+03:00"
+ "guncelleme": "2026-09-22T14:01:05.587482+03:00"
 }
