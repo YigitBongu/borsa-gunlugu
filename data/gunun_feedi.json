@@ -549,6 +549,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/avustralya-merkez-bankas-baskan-bullock-enflasyon-risklerini-uyard-93CH-4073645",
+   "baslik": "Avustralya Merkez Bankası Başkanı Bullock enflasyon risklerini uyardı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/avustralya-merkez-bankas-baskan-bullock-enflasyon-risklerini-uyard-93CH-4073645",
+   "saat": "08:08",
+   "tarih_iso": "2026-09-22T08:08:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T08:30:53.538582+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/bist-100-de-27-sirket-degisikligi-borsa-istanbul-endekslerinde-yeni-donem-3914149",
    "baslik": "Borsa İstanbul endekslerinde yeni dönem",
    "kaynak": "Habertürk Ekonomi",
@@ -820,6 +830,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/reserve-bank-of-australia-governor-bullock-warns-of-inflation-risks-as-rate-decision-looms-93CH-4909866",
+   "baslik": "Reserve Bank of Australia Governor Bullock warns of inflation risks as rate decision looms",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/reserve-bank-of-australia-governor-bullock-warns-of-inflation-risks-as-rate-decision-looms-93CH-4909866",
+   "saat": "08:07",
+   "tarih_iso": "2026-09-22T08:07:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T08:30:53.538582+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chinas-offshore-trust-tax-crackdown-could-impact-single-stocks-bofa-says-4909865",
+   "baslik": "China’s offshore trust tax crackdown could impact single stocks, BofA says",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chinas-offshore-trust-tax-crackdown-could-impact-single-stocks-bofa-says-4909865",
+   "saat": "08:06",
+   "tarih_iso": "2026-09-22T08:06:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T08:30:53.538582+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zai-stock-declining-today-93CH-4909855",
    "baslik": "Why is ZAI stock declining today?",
@@ -1999,26 +2029,6 @@
    "tarih_iso": "2026-09-21T19:10:35+03:00",
    "kodlar": [],
    "eklenme": "2026-09-21T19:30:55.340615+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-the-cheesecake-factory-stock-rallying-today-93CH-4909427",
-   "baslik": "Why is The Cheesecake Factory stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-the-cheesecake-factory-stock-rallying-today-93CH-4909427",
-   "saat": "19:10",
-   "tarih_iso": "2026-09-21T19:10:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T19:30:55.340615+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-   "baslik": "Stock Market Today: Dow Up As Boeing, Nvidia Pop; Bessent Touts This China AI Move (Live Coverage)",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-nvidia-stock-nvda-buy-point/?src=A00220&yptr=yahoo",
-   "saat": "19:09",
-   "tarih_iso": "2026-09-21T19:09:43+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-21T20:01:07.513745+03:00"
   }
  ],
  "altin_haber": [
@@ -2423,5 +2433,5 @@
    "eklenme": "2026-09-21T09:01:05.669111+03:00"
   }
  ],
- "guncelleme": "2026-09-22T08:01:06.047994+03:00"
+ "guncelleme": "2026-09-22T08:30:53.538582+03:00"
 }
