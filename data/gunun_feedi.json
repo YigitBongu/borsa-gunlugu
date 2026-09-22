@@ -2,6 +2,32 @@
  "tarih": "2026-09-22",
  "kap": [
   {
+   "id": "kap-my-ALFAS-202609221811",
+   "baslik": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "ALFAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:11",
+   "tarih_iso": "2026-09-22T18:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T18:31:01.547333+03:00"
+  },
+  {
+   "id": "kap-my-IZENR-202609221811",
+   "baslik": "İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+   "kodlar": [
+    "IZENR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:11",
+   "tarih_iso": "2026-09-22T18:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T18:31:01.547333+03:00"
+  },
+  {
    "id": "kap-my-PETKM-202609221755",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -674,6 +700,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/homes-stocks-us-households-now-151605046.html",
+   "baslik": "Homes or Stocks? US Households Now Lean on Stocks Like Never Before",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/homes-stocks-us-households-now-151605046.html",
+   "saat": "18:16",
+   "tarih_iso": "2026-09-22T18:16:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T18:31:01.547333+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/corporate-bond-buyers-get-picky-with-flood-of-ai-debt-4910258",
    "baslik": "Corporate bond buyers get picky with flood of AI debt",
    "kaynak": "Investing.com",
@@ -684,6 +720,26 @@
    "eklenme": "2026-09-22T18:22:33.904708+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/technology/article/intel-stock-up-25-in-last-5-days-on-cpu-demand-as-ai-agents-gain-traction-151217555.html",
+   "baslik": "Intel stock up 25% in last 5 days, on CPU demand as AI agents gain traction",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/article/intel-stock-up-25-in-last-5-days-on-cpu-demand-as-ai-agents-gain-traction-151217555.html",
+   "saat": "18:12",
+   "tarih_iso": "2026-09-22T18:12:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T18:31:01.547333+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-dht-holdings-stock-dropped-151139312.html",
+   "baslik": "Why DHT Holdings Stock Dropped Today",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-dht-holdings-stock-dropped-151139312.html",
+   "saat": "18:11",
+   "tarih_iso": "2026-09-22T18:11:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T18:31:01.547333+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-047-4911229",
    "baslik": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.47%",
    "kaynak": "Investing.com",
@@ -692,6 +748,26 @@
    "tarih_iso": "2026-09-22T18:10:03+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T18:22:33.904708+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/articles/investors-snub-wall-street-build-150945565.html",
+   "baslik": "Investors Snub Wall Street, Build $5.1 Trillion Cash Fortress as Fed Pushes Rates Toward 4.75%",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/articles/investors-snub-wall-street-build-150945565.html",
+   "saat": "18:09",
+   "tarih_iso": "2026-09-22T18:09:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T18:31:01.547333+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
+   "baslik": "Corporate bond buyers get picky with flood of AI debt",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/options/articles/corporate-bond-buyers-picky-flood-100410778.html",
+   "saat": "18:06",
+   "tarih_iso": "2026-09-22T18:06:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T18:31:01.547333+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/financial-sector-stocks-fall-as-traders-rotate-into-tech-4911211",
@@ -1822,56 +1898,6 @@
    "tarih_iso": "2026-09-22T13:38:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T14:01:05.587482+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-036-4910311",
-   "baslik": "India stocks lower at close of trade; Nifty 50 down 0.36%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-036-4910311",
-   "saat": "13:30",
-   "tarih_iso": "2026-09-22T13:30:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T13:50:45.626198+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/prediction-ast-spacemobile-best-performing-103000605.html",
-   "baslik": "Prediction: AST SpaceMobile Will Be the Best-Performing Space Stock of 2027",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-ast-spacemobile-best-performing-103000605.html",
-   "saat": "13:30",
-   "tarih_iso": "2026-09-22T13:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T13:50:45.626198+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/energy/articles/saudi-oil-lifeline-may-reopen-103000476.html",
-   "baslik": "Saudi Oil Lifeline May Reopen as Aramco Eyes Yanbu Restart",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/energy/articles/saudi-oil-lifeline-may-reopen-103000476.html",
-   "saat": "13:30",
-   "tarih_iso": "2026-09-22T13:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T15:01:09.657903+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/el-nino-stock-plays-winners-and-losers-across-sectors-and-regions-93CH-4910306",
-   "baslik": "El Niño stock plays: Winners and losers across sectors and regions",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/el-nino-stock-plays-winners-and-losers-across-sectors-and-regions-93CH-4910306",
-   "saat": "13:27",
-   "tarih_iso": "2026-09-22T13:27:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T13:50:45.626198+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/abbvie-vs-pfizer-dividend-stock-102500967.html",
-   "baslik": "AbbVie vs. Pfizer: Which Dividend Stock Is the Better Buy in September?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/abbvie-vs-pfizer-dividend-stock-102500967.html",
-   "saat": "13:25",
-   "tarih_iso": "2026-09-22T13:25:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T13:50:45.626198+03:00"
   }
  ],
  "altin_haber": [
@@ -2096,5 +2122,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-22T18:22:33.904708+03:00"
+ "guncelleme": "2026-09-22T18:31:01.547333+03:00"
 }
