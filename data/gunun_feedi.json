@@ -2,6 +2,19 @@
  "tarih": "2026-09-22",
  "kap": [
   {
+   "id": "kap-my-SKBNK-202609221210",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:10",
+   "tarih_iso": "2026-09-22T12:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
    "id": "kap-my-HALKB-202609221122",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -234,6 +247,16 @@
    "eklenme": "2026-09-22T11:01:04.630765+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/faiz-altin-dengesi-degisiyor-galeri-840964",
+   "baslik": "Faiz-altın dengesi değişiyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/faiz-altin-dengesi-degisiyor-galeri-840964",
+   "saat": "11:52",
+   "tarih_iso": "2026-09-22T11:52:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/makine-sektorunden-8-ayda-18-8-milyar-dolar-ihracat/4064155",
    "baslik": "Makine sektöründen 8 ayda 18,8 milyar dolar ihracat",
    "kaynak": "AA Ekonomi",
@@ -356,6 +379,96 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories",
+   "baslik": "What this machine-learning model with 65% accuracy says is coming next for the 10-year Treasury",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories",
+   "saat": "12:23",
+   "tarih_iso": "2026-09-22T12:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
+   "baslik": "U.S. Treasury yields ease as investors await fresh jobs data, Fed comments",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/22/treasury-yield-us-bond-market-trump.html",
+   "saat": "12:16",
+   "tarih_iso": "2026-09-22T12:16:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/small-business/articles/jd-sports-signs-franchise-deal-091537625.html",
+   "baslik": "JD Sports signs franchise deal with Axo to enter Mexican market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/small-business/articles/jd-sports-signs-franchise-deal-091537625.html",
+   "saat": "12:15",
+   "tarih_iso": "2026-09-22T12:15:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/stock-market-investors-just-got-090801596.html",
+   "baslik": "Stock Market Investors Just Got Bad News About President Trump’s Economy. History Says This Will Happen Next.",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-investors-just-got-090801596.html",
+   "saat": "12:08",
+   "tarih_iso": "2026-09-22T12:08:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
+   "id": "yab-https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?siteid=yhoof2&yptr=yahoo",
+   "baslik": "U.S. Treasury Curve Flattening Suggests Stronger Fed Credibility",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.wsj.com/finance/macro-backdrop-might-weigh-on-two-year-u-s-treasury-auction-ebc5d728?siteid=yhoof2&yptr=yahoo",
+   "saat": "12:06",
+   "tarih_iso": "2026-09-22T12:06:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/biontech-stock-recently-got-downgraded-090400075.html",
+   "baslik": "BioNTech Stock Recently Got Downgraded. But Is Wall Street Underestimating Its Cancer Pipeline?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/biontech-stock-recently-got-downgraded-090400075.html",
+   "saat": "12:04",
+   "tarih_iso": "2026-09-22T12:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/teva-ceo-details-biopharma-pivot-090251701.html",
+   "baslik": "Teva CEO Details Biopharma Pivot, $700M Savings Plan and Growth Pipeline",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/teva-ceo-details-biopharma-pivot-090251701.html",
+   "saat": "12:02",
+   "tarih_iso": "2026-09-22T12:02:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/real-estate/articles/target-healthcare-reit-h2-earnings-090251828.html",
+   "baslik": "Target Healthcare REIT H2 Earnings Call Highlights",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/real-estate/articles/target-healthcare-reit-h2-earnings-090251828.html",
+   "saat": "12:02",
+   "tarih_iso": "2026-09-22T12:02:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/factboxprivate-equity-foreign-investors-fuel-aussie-ma-activity-in-2026-4910093",
+   "baslik": "Factbox-Private equity, foreign investors fuel Aussie M&A activity in 2026",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/factboxprivate-equity-foreign-investors-fuel-aussie-ma-activity-in-2026-4910093",
+   "saat": "12:00",
+   "tarih_iso": "2026-09-22T12:00:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html",
    "baslik": "Trump to press Zelenskyy for energy truce, says Russia has ‘lost control’ of oil due to Ukraine war",
    "kaynak": "CNBC",
@@ -364,6 +477,16 @@
    "tarih_iso": "2026-09-22T11:57:24+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T12:01:14.265606+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/trump-xi-meet-investors-play-085656582.html",
+   "baslik": "As Trump and Xi meet, investors play both sides of AI divide",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/trump-xi-meet-investors-play-085656582.html",
+   "saat": "11:56",
+   "tarih_iso": "2026-09-22T11:56:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vicor-stock-surging-today-93CH-4910049",
@@ -396,6 +519,26 @@
    "eklenme": "2026-09-22T12:01:14.265606+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
+   "baslik": "Oil prices climb ahead of potential US-Iran talks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/oil-rises-slightly-ahead-potential-003404571.html",
+   "saat": "11:26",
+   "tarih_iso": "2026-09-22T11:26:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+   "baslik": "Stock market today: Nasdaq, Dow and S&P 500 little changed as AI trade powers market",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+   "saat": "11:06",
+   "tarih_iso": "2026-09-22T11:06:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/digia-lowers-2026-profit-guidance-citing-project-challenges-93CH-4910020",
    "baslik": "Digia lowers 2026 profit guidance citing project challenges",
    "kaynak": "Investing.com",
@@ -404,6 +547,16 @@
    "tarih_iso": "2026-09-22T11:06:10+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T11:30:53.203365+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/energy/articles/soaring-oil-gas-prices-push-080000656.html",
+   "baslik": "Soaring Oil and Gas Prices Push Europe’s Inflation Fight Into 2027",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/energy/articles/soaring-oil-gas-prices-push-080000656.html",
+   "saat": "11:00",
+   "tarih_iso": "2026-09-22T11:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/22/us-iran-war-trump-hormuz.html",
@@ -434,6 +587,16 @@
    "tarih_iso": "2026-09-22T10:33:26+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T11:01:04.630765+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/warren-buffett-just-stepped-down-073051631.html",
+   "baslik": "Warren Buffett Just Stepped Down. These 2 AI Stocks Still Define Berkshire’s Portfolio",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/warren-buffett-just-stepped-down-073051631.html",
+   "saat": "10:30",
+   "tarih_iso": "2026-09-22T10:30:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/22/foreign-investors-bernstein-india-tata-reliance.html",
@@ -516,6 +679,16 @@
    "eklenme": "2026-09-22T10:30:53.246506+03:00"
   },
   {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/generac-holdings-inc-gnrc-stock-064555046.html",
+   "baslik": "Is Generac Holdings Inc. (GNRC) Stock a Top AI Infrastructure Play After $2.4 Billion Amazon Deal?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/generac-holdings-inc-gnrc-stock-064555046.html",
+   "saat": "09:45",
+   "tarih_iso": "2026-09-22T09:45:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
    "id": "yab-https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
    "baslik": "AI optimism lifts Asian stocks after Nasdaq ends at record high",
    "kaynak": "FT",
@@ -524,6 +697,16 @@
    "tarih_iso": "2026-09-22T09:45:16+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T10:30:53.246506+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-1-3-064015139.html",
+   "baslik": "Tower Semiconductor (TSEM): $1.3 Billion in Silicon Photonics Contracts Puts AI Growth in Focus",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/ai/articles/tower-semiconductor-tsem-1-3-064015139.html",
+   "saat": "09:40",
+   "tarih_iso": "2026-09-22T09:40:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-030-4909931",
@@ -788,6 +971,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/faiz-altin-dengesi-degisiyor-galeri-840964",
+   "baslik": "Faiz-altın dengesi değişiyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/faiz-altin-dengesi-degisiyor-galeri-840964",
+   "saat": "11:52",
+   "tarih_iso": "2026-09-22T11:52:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/dunya/31-ton-altin-icin-dev-transfer-plani-yeni-adresi-belli-oluyor-haberi-840966",
+   "baslik": "31 ton altın için dev transfer planı: Yeni adresi belli oluyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/31-ton-altin-icin-dev-transfer-plani-yeni-adresi-belli-oluyor-haberi-840966",
+   "saat": "11:51",
+   "tarih_iso": "2026-09-22T11:51:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-22T12:30:56.555113+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-22-eylul-canli-gram-altin-ne-kadar-ceyrek-altin-kac-tl-kapalicarsi-altin-fiyatlari-alis-satis-tablosu-3469667",
    "baslik": "ALTIN FİYATLARI 22 EYLÜL CANLI | Gram altın ne kadar, çeyrek altın kaç TL? Kapalıçarşı altın fiyatları alış-satış tablosu!",
    "kaynak": "CNN Türk Ekonomi",
@@ -928,5 +1131,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-22T12:01:14.265606+03:00"
+ "guncelleme": "2026-09-22T12:30:56.555113+03:00"
 }
