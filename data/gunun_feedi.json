@@ -2,6 +2,19 @@
  "tarih": "2026-09-23",
  "kap": [
   {
+   "id": "kap-my-ULKER-202609231041",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "ULKER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:41",
+   "tarih_iso": "2026-09-23T10:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T11:01:02.271713+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609230957",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -41,8 +54,41 @@
    "eklenme": "2026-09-23T10:01:01.255247+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsan-ile-roketsan-arasinda-1-2-milyar-avroluk-sozlesme-imzalandi/4065836",
+   "baslik": "ASELSAN ile ROKETSAN arasında 1,2 milyar avroluk sözleşme imzalandı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/aselsan-ile-roketsan-arasinda-1-2-milyar-avroluk-sozlesme-imzalandi/4065836",
+   "saat": "10:39",
+   "tarih_iso": "2026-09-23T10:39:41+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-09-23T11:01:02.271713+03:00"
+  }
+ ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-sektorel-enflasyon-beklentilerini-yayimladi/4065839",
+   "baslik": "TCMB \"Sektörel Enflasyon Beklentileri\"ni yayımladı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-sektorel-enflasyon-beklentilerini-yayimladi/4065839",
+   "saat": "10:42",
+   "tarih_iso": "2026-09-23T10:42:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:01:02.271713+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/danimarka-merkez-bankas-yuzde-4-buyume-ongoruyor-mali-politikada-ihtiyatl-olunmasn-istiyor-93CH-4075319",
+   "baslik": "Danimarka merkez bankası yüzde 4 büyüme öngörüyor, mali politikada ihtiyatlı olunmasını istiyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/danimarka-merkez-bankas-yuzde-4-buyume-ongoruyor-mali-politikada-ihtiyatl-olunmasn-istiyor-93CH-4075319",
+   "saat": "10:32",
+   "tarih_iso": "2026-09-23T10:32:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:01:02.271713+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/enflasyon-beklentileri-degisti-3914451",
    "baslik": "Enflasyon beklentileri değişti",
@@ -145,6 +191,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/grab-execs-buy-back-shares-after-stock-hits-3year-low-on-atome-deal-4912209",
+   "baslik": "Grab execs buy back shares after stock hits 3-year low on Atome deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/grab-execs-buy-back-shares-after-stock-hits-3year-low-on-atome-deal-4912209",
+   "saat": "10:36",
+   "tarih_iso": "2026-09-23T10:36:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:01:02.271713+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/europe-stocks-rise-as-oil-retreat-aids-sentiment-pmi-data-in-focus-4912213",
+   "baslik": "Europe stocks rise as oil retreat aids sentiment; PMI data in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/europe-stocks-rise-as-oil-retreat-aids-sentiment-pmi-data-in-focus-4912213",
+   "saat": "10:31",
+   "tarih_iso": "2026-09-23T10:31:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:01:02.271713+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/denmark-central-bank-forecasts-4-growth-urges-caution-on-fiscal-policy-93CH-4912212",
+   "baslik": "Denmark central bank forecasts 4% growth, urges caution on fiscal policy",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/denmark-central-bank-forecasts-4-growth-urges-caution-on-fiscal-policy-93CH-4912212",
+   "saat": "10:31",
+   "tarih_iso": "2026-09-23T10:31:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:01:02.271713+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-renishaw-stock-rallying-today-93CH-4912199",
    "baslik": "Why is Renishaw stock rallying today?",
@@ -518,5 +594,5 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
- "guncelleme": "2026-09-23T10:30:55.322546+03:00"
+ "guncelleme": "2026-09-23T11:01:02.271713+03:00"
 }
