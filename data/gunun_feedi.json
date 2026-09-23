@@ -2,6 +2,45 @@
  "tarih": "2026-09-23",
  "kap": [
   {
+   "id": "kap-my-FROTO-202609231212",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "FROTO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:12",
+   "tarih_iso": "2026-09-23T12:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T12:31:02.344538+03:00"
+  },
+  {
+   "id": "kap-my-OYAKC-202609231211",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "OYAKC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:11",
+   "tarih_iso": "2026-09-23T12:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T12:31:02.344538+03:00"
+  },
+  {
+   "id": "kap-my-ASELS-202609231209",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "ASELS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:09",
+   "tarih_iso": "2026-09-23T12:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T12:31:02.344538+03:00"
+  },
+  {
    "id": "kap-my-ASTOR-202609231118",
    "baslik": "ASTOR ENERJİ A.Ş. — Yeni İş İlişkisi",
    "sirket": "ASTOR ENERJİ A.Ş.",
@@ -69,6 +108,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/aselsan-ve-roketsan-dan-dev-sozlesme-3914519",
+   "baslik": "Savunma sanayiinde dev anlaşma",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/aselsan-ve-roketsan-dan-dev-sozlesme-3914519",
+   "saat": "12:16",
+   "tarih_iso": "2026-09-23T12:16:45+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-09-23T12:31:02.344538+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekomdan-245-milyar-dolarlik-yatirim-gunes-enerjisinde-hedef-530-mwp-haberi-841123",
+   "baslik": "Türk Telekom'dan 24,5 milyar dolarlık yatırım: Güneş enerjisinde hedef 530 MWp",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekomdan-245-milyar-dolarlik-yatirim-gunes-enerjisinde-hedef-530-mwp-haberi-841123",
+   "saat": "11:55",
+   "tarih_iso": "2026-09-23T11:55:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-09-23T12:31:02.344538+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/ali-koc-enerjide-disa-bagimlilik-enflasyonu-ve-maliyetleri-etkiliyor-haberi-841121",
    "baslik": "Ali Koç: Enerjide dışa bağımlılık enflasyonu ve maliyetleri etkiliyor",
    "kaynak": "Dünya",
@@ -127,6 +190,16 @@
    "tarih_iso": "2026-09-23T14:37:40+03:00",
    "kodlar": [],
    "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-tcmb-faiz-indirecek-mi-haberi-841126",
+   "baslik": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB faiz indirecek mi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-tcmb-faiz-indirecek-mi-haberi-841126",
+   "saat": "12:05",
+   "tarih_iso": "2026-09-23T12:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:31:02.344538+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-pmi-41-ayin-zirvesine-cikti-haberi-841119",
@@ -271,6 +344,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/here-are-the-hidden-flaws-in-warshs-new-way-of-tracking-inflation-fb7939de?mod=mw_rss_topstories",
+   "baslik": "Here are the hidden flaws in Warsh’s new way of tracking inflation",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/here-are-the-hidden-flaws-in-warshs-new-way-of-tracking-inflation-fb7939de?mod=mw_rss_topstories",
+   "saat": "12:28",
+   "tarih_iso": "2026-09-23T12:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:31:02.344538+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/china-maintains-reduced-oil-imports-despite-iran-war-pressures-93CH-4912360",
+   "baslik": "China maintains reduced oil imports despite Iran war pressures",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/china-maintains-reduced-oil-imports-despite-iran-war-pressures-93CH-4912360",
+   "saat": "12:15",
+   "tarih_iso": "2026-09-23T12:15:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:31:02.344538+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/btig-shares-its-nike-stock-outlook-ahead-of-next-weeks-earnings-93CH-4912354",
+   "baslik": "BTIG shares its Nike stock outlook ahead of next week’s earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/btig-shares-its-nike-stock-outlook-ahead-of-next-weeks-earnings-93CH-4912354",
+   "saat": "12:09",
+   "tarih_iso": "2026-09-23T12:09:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:31:02.344538+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/softbanks-mega-junk-bond-deal-shows-capital-for-the-ai-race-is-getting-more-expensive-9eb3fa28?mod=mw_rss_topstories",
    "baslik": "Softbank’s mega junk-bond deal shows capital for the AI race is getting more expensive",
    "kaynak": "MarketWatch",
@@ -279,6 +382,16 @@
    "tarih_iso": "2026-09-23T11:56:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kws-saat-stock-sliding-today-93CH-4912314",
+   "baslik": "Why is KWS SAAT stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kws-saat-stock-sliding-today-93CH-4912314",
+   "saat": "11:50",
+   "tarih_iso": "2026-09-23T11:50:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:31:02.344538+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-arcadis-stock-sliding-today-93CH-4912313",
@@ -299,6 +412,16 @@
    "tarih_iso": "2026-09-23T11:46:25+03:00",
    "kodlar": [],
    "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+   "baslik": "Treasury yields little changed as oil price oscillates",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/23/treasury-yields-oil-inflation-fed.html",
+   "saat": "11:44",
+   "tarih_iso": "2026-09-23T11:44:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:31:02.344538+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/jpmorgan-upgrades-bp-downgrades-totalenergies-in-oil-sector-reshuffle-4912301",
@@ -853,5 +976,5 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
- "guncelleme": "2026-09-23T12:01:03.019378+03:00"
+ "guncelleme": "2026-09-23T12:31:02.344538+03:00"
 }
