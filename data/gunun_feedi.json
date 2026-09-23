@@ -569,6 +569,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/altn-petrol-dususuyle-yukseldi-iran-gorusmeleri-odakta-4075134",
+   "baslik": "Petrol düşüşü Fed faiz artışı endişelerini azaltırken altın yükseldi, İran görüşmeleri odakta",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-petrol-dususuyle-yukseldi-iran-gorusmeleri-odakta-4075134",
+   "saat": "04:26",
+   "tarih_iso": "2026-09-23T04:26:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T06:30:55.189609+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-new-yorkta-enflasyon-ve-makroekonomik-gorunum-baslikli-sunum-yapti/4065484",
    "baslik": "TCMB Başkanı Karahan New York'ta \"Enflasyon ve Makroekonomik Görünüm\" başlıklı sunum yaptı",
    "kaynak": "AA Ekonomi",
@@ -830,6 +840,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html",
+   "baslik": "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html",
+   "saat": "06:08",
+   "tarih_iso": "2026-09-23T06:08:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T06:30:55.189609+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-struggle-for-direction-ahead-of-trumpxi-meeting-china-shares-down-4912042",
+   "baslik": "Asia stocks struggle for direction ahead of Trump-Xi meeting; China shares down",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-struggle-for-direction-ahead-of-trumpxi-meeting-china-shares-down-4912042",
+   "saat": "05:57",
+   "tarih_iso": "2026-09-23T05:57:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T06:30:55.189609+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nufarm-stock-sliding-today-93CH-4912023",
    "baslik": "Why is Nufarm stock sliding today?",
@@ -2009,29 +2039,19 @@
    "tarih_iso": "2026-09-22T18:11:43+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T20:01:09.133492+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/why-dht-holdings-stock-dropped-151139312.html",
-   "baslik": "Why DHT Holdings Stock Dropped Today",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/why-dht-holdings-stock-dropped-151139312.html",
-   "saat": "18:11",
-   "tarih_iso": "2026-09-22T18:11:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T18:31:01.547333+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-047-4911229",
-   "baslik": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.47%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-047-4911229",
-   "saat": "18:10",
-   "tarih_iso": "2026-09-22T18:10:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T18:22:33.904708+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlari-4300-dolarin-altindan-dondu-9-gunluk-kritik-takvim-basliyor-galeri-841070",
+   "baslik": "Altın fiyatları 4.300 doların altından döndü: 9 günlük kritik takvim başlıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatlari-4300-dolarin-altindan-dondu-9-gunluk-kritik-takvim-basliyor-galeri-841070",
+   "saat": "06:12",
+   "tarih_iso": "2026-09-23T06:12:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T06:30:55.189609+03:00"
+  },
   {
    "id": "alt-https://tr.investing.com/news/stock-market-news/altn-petrol-dususuyle-yukseldi-iran-gorusmeleri-odakta-4075134",
    "baslik": "Altın petrol düşüşüyle yükseldi, İran görüşmeleri odakta",
@@ -2313,5 +2333,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-23T06:01:07.257714+03:00"
+ "guncelleme": "2026-09-23T06:30:55.189609+03:00"
 }
