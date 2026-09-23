@@ -569,6 +569,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/tcmb-papel-in-faaliyet-iznini-iptal-etti-3914411",
+   "baslik": "TCMB, Papel'in faaliyet iznini iptal etti",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/tcmb-papel-in-faaliyet-iznini-iptal-etti-3914411",
+   "saat": "07:25",
+   "tarih_iso": "2026-09-23T07:25:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T08:01:10.990064+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-23-eylul-carsamba-doviz-kurlari-haberi-841076",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (23 Eylül Çarşamba Döviz Kurları)",
    "kaynak": "Dünya",
@@ -850,6 +860,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/0a5a5b70-adea-40af-9933-1f7679f9f359?syn-25a6b1a6=1",
+   "baslik": "Oil price on track for longest losing streak in more than 12 months",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/0a5a5b70-adea-40af-9933-1f7679f9f359?syn-25a6b1a6=1",
+   "saat": "07:42",
+   "tarih_iso": "2026-09-23T07:42:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T08:01:10.990064+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ai-laptop-deal-sends-this-aipicked-stock-up-nearly-20-this-month-4912061",
    "baslik": "AI laptop deal sends this AI-picked stock up nearly 20% this month",
@@ -2039,16 +2059,6 @@
    "tarih_iso": "2026-09-22T18:39:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-22T19:01:15.583946+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-016-4911273",
-   "baslik": "Poland stocks higher at close of trade; WIG30 up 0.16%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-016-4911273",
-   "saat": "18:35",
-   "tarih_iso": "2026-09-22T18:35:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-22T19:01:15.583946+03:00"
   }
  ],
  "altin_haber": [
@@ -2343,5 +2353,5 @@
    "eklenme": "2026-09-22T09:01:05.454587+03:00"
   }
  ],
- "guncelleme": "2026-09-23T07:30:56.089078+03:00"
+ "guncelleme": "2026-09-23T08:01:10.990064+03:00"
 }
