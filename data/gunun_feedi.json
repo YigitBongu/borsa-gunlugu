@@ -1,8 +1,55 @@
 {
  "tarih": "2026-09-23",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-EGEEN-202609230936",
+   "baslik": "EGE ENDÜSTRİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "EGEEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:36",
+   "tarih_iso": "2026-09-23T09:36:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T10:01:01.255247+03:00"
+  },
+  {
+   "id": "kap-my-ASELS-202609230915",
+   "baslik": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Yeni İş İlişkisi",
+   "sirket": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "ASELS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:15",
+   "tarih_iso": "2026-09-23T09:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T10:01:01.255247+03:00"
+  }
+ ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/petrol-faiz-hesabini-bozdu-bmden-yeni-enflasyon-uyarisi-haberi-841099",
+   "baslik": "Petrol faiz hesabını bozdu: BM’den yeni enflasyon uyarısı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/petrol-faiz-hesabini-bozdu-bmden-yeni-enflasyon-uyarisi-haberi-841099",
+   "saat": "09:44",
+   "tarih_iso": "2026-09-23T09:44:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:01:01.255247+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/adbden-turkiye-raporu-buyume-ve-enflasyon-degisti-haberi-841097",
+   "baslik": "ADB’den Türkiye raporu: Büyüme ve enflasyon değişti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/adbden-turkiye-raporu-buyume-ve-enflasyon-degisti-haberi-841097",
+   "saat": "09:27",
+   "tarih_iso": "2026-09-23T09:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:01:01.255247+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/tcmb-papelin-faaliyet-iznini-iptal-etti-kullanici-fonlari-ne-olacak-haberi-841086",
    "baslik": "TCMB Papel'in faaliyet iznini iptal etti: Kullanıcı fonları ne olacak?",
@@ -45,6 +92,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/42-39-36-these-aipicked-chip-stocks-are-rallying-in-september--see-why-4912129",
+   "baslik": "+42%, +39%, +36%: These AI-picked chip stocks are rallying in September - see why",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/42-39-36-these-aipicked-chip-stocks-are-rallying-in-september--see-why-4912129",
+   "saat": "09:34",
+   "tarih_iso": "2026-09-23T09:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:01:01.255247+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-009-4912126",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.09%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-009-4912126",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-23T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:01:01.255247+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-struggle-for-direction-ahead-of-trumpxi-meeting-china-shares-down-4912042",
    "baslik": "Asia stocks struggle for direction ahead of Trump-Xi meeting; China shares down",
@@ -258,6 +325,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-23-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3470207",
+   "baslik": "ALTIN FİYATLARI 23 EYLÜL 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlari-23-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3470207",
+   "saat": "12:41",
+   "tarih_iso": "2026-09-23T12:41:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:01:01.255247+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-real-bull-case-is-moving-east-while-wall-street-watches-rates-200688177",
    "baslik": "Gold’s Real Bull Case Is Moving East While Wall Street Watches Rates",
    "kaynak": "Investing Emtia",
@@ -338,5 +415,5 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
- "guncelleme": "2026-09-23T09:30:53.590077+03:00"
+ "guncelleme": "2026-09-23T10:01:01.255247+03:00"
 }
