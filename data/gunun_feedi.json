@@ -538,6 +538,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/kuresel-borc-2026nn-ilk-yarsnda-10-trilyon-dolar-artt-93CH-4076713",
+   "baslik": "Küresel borç 2026’nın ilk yarısında 10 trilyon dolar arttı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/kuresel-borc-2026nn-ilk-yarsnda-10-trilyon-dolar-artt-93CH-4076713",
+   "saat": "00:15",
+   "tarih_iso": "2026-09-24T00:15:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T00:30:51.954438+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/is-dunyasi/enflasyon-halen-en-onemli-makro-kirilganligimiz-haberi-841184",
    "baslik": "“Enflasyon halen en önemli makro kırılganlığımız”",
    "kaynak": "Dünya",
@@ -849,6 +859,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-051-4914043",
+   "baslik": "Russia stocks higher at close of trade; MOEX Russia Index up 0.51%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-051-4914043",
+   "saat": "00:20",
+   "tarih_iso": "2026-09-24T00:20:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T00:30:51.954438+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/turkey-says-nearly-half-a-million-investors-affected-by-funds-liquidation-4912367",
+   "baslik": "Turkey says nearly half a million investors affected by funds liquidation",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/turkey-says-nearly-half-a-million-investors-affected-by-funds-liquidation-4912367",
+   "saat": "00:14",
+   "tarih_iso": "2026-09-24T00:14:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T00:30:51.954438+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
+   "baslik": "Inflation could cost Republicans the Senate — this chart shows how",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories",
+   "saat": "00:13",
+   "tarih_iso": "2026-09-24T00:13:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T00:30:51.954438+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
    "baslik": "Fewer stocks are carrying the market than at any time since the dot-com peak",
@@ -2018,36 +2058,6 @@
    "tarih_iso": "2026-09-23T17:34:40+03:00",
    "kodlar": [],
    "eklenme": "2026-09-23T18:01:08.460306+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dave-stock-sliding-today-93CH-4913428",
-   "baslik": "Why is Dave stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-dave-stock-sliding-today-93CH-4913428",
-   "saat": "17:34",
-   "tarih_iso": "2026-09-23T17:34:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T18:01:08.460306+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/billionaire-chase-coleman-top-2-143424880.html",
-   "baslik": "Billionaire Chase Coleman’s Top 2 New AI Stock Picks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-chase-coleman-top-2-143424880.html",
-   "saat": "17:34",
-   "tarih_iso": "2026-09-23T17:34:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T18:01:08.460306+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/citi-expects-micron-stock-to-rally-into-this-event-4913421",
-   "baslik": "Citi expects Micron stock to rally into this event",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/citi-expects-micron-stock-to-rally-into-this-event-4913421",
-   "saat": "17:31",
-   "tarih_iso": "2026-09-23T17:31:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T18:01:08.460306+03:00"
   }
  ],
  "altin_haber": [
@@ -2322,5 +2332,5 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
- "guncelleme": "2026-09-24T00:01:04.980291+03:00"
+ "guncelleme": "2026-09-24T00:30:51.954438+03:00"
 }
