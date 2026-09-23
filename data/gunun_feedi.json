@@ -56,6 +56,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/aselsan-ile-roketsan-arasinda-123-milyar-euroluk-sozlesme-haberi-841116",
+   "baslik": "ASELSAN ile ROKETSAN arasında 1,23 milyar Euro'luk sözleşme",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/aselsan-ile-roketsan-arasinda-123-milyar-euroluk-sozlesme-haberi-841116",
+   "saat": "11:11",
+   "tarih_iso": "2026-09-23T11:11:00+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-09-23T11:30:52.825153+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/ali-koc-elektrifikasyonu-artirmak-gerek-3914477",
+   "baslik": "Ali Koç: Elektrifikasyonu artırmak gerek",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/ali-koc-elektrifikasyonu-artirmak-gerek-3914477",
+   "saat": "11:04",
+   "tarih_iso": "2026-09-23T11:04:45+03:00",
+   "kodlar": [
+    "KCHOL"
+   ],
+   "eklenme": "2026-09-23T11:30:52.825153+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsan-ile-roketsan-arasinda-1-2-milyar-avroluk-sozlesme-imzalandi/4065836",
    "baslik": "ASELSAN ile ROKETSAN arasında 1,2 milyar avroluk sözleşme imzalandı",
    "kaynak": "AA Ekonomi",
@@ -69,6 +93,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-pmi-41-ayin-zirvesine-cikti-haberi-841119",
+   "baslik": "Euro Bölgesi’nde PMI 41 ayın zirvesine çıktı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/euro-bolgesinde-pmi-41-ayin-zirvesine-cikti-haberi-841119",
+   "saat": "11:28",
+   "tarih_iso": "2026-09-23T11:28:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:30:52.825153+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-tarihte-aciklaniyor-fed-faiz-artiracak-mi-haberi-841117",
+   "baslik": "Fed faiz kararı ne zaman, hangi tarihte açıklanıyor? Fed faiz artıracak mı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-tarihte-aciklaniyor-fed-faiz-artiracak-mi-haberi-841117",
+   "saat": "11:21",
+   "tarih_iso": "2026-09-23T11:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:30:52.825153+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-sektorel-enflasyon-beklentilerini-yayimladi/4065839",
    "baslik": "TCMB \"Sektörel Enflasyon Beklentileri\"ni yayımladı",
@@ -192,6 +236,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/23/trump-xi-summit-us-china-trade-rare-earth-soybean-plane.html",
+   "baslik": "Soybeans, planes and rare earths: What they say about fragile U.S.-China trade truce",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/23/trump-xi-summit-us-china-trade-rare-earth-soybean-plane.html",
+   "saat": "11:25",
+   "tarih_iso": "2026-09-23T11:25:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:30:52.825153+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
+   "baslik": "This oil giant has lagged its leading rivals through two energy crises. Now one Wall Street giant says it’s time to buy.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/this-oil-giant-has-lagged-its-leading-rivals-through-two-energy-crises-now-one-wall-street-giant-says-its-time-to-buy-987838c3?mod=mw_rss_topstories",
+   "saat": "11:24",
+   "tarih_iso": "2026-09-23T11:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:30:52.825153+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
+   "baslik": "Zelenskyy says Ukraine ready for ‘energy ceasefire’, calls for trilateral meeting with Putin, Trump",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
+   "saat": "11:06",
+   "tarih_iso": "2026-09-23T11:06:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:30:52.825153+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+   "baslik": "UK economy will grow by less than expected next year, OECD says",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
+   "saat": "11:05",
+   "tarih_iso": "2026-09-23T11:05:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:30:52.825153+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/grab-execs-buy-back-shares-after-stock-hits-3year-low-on-atome-deal-4912209",
    "baslik": "Grab execs buy back shares after stock hits 3-year low on Atome deal",
    "kaynak": "Investing.com",
@@ -230,6 +314,16 @@
    "tarih_iso": "2026-09-23T10:21:19+03:00",
    "kodlar": [],
    "eklenme": "2026-09-23T10:30:55.322546+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
+   "baslik": "Oil falls after U.S. and Iran talk for hours at UN meeting",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/23/iran-us-talks-crude-oil-un-wti.html",
+   "saat": "10:15",
+   "tarih_iso": "2026-09-23T10:15:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T11:30:52.825153+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-usiran-diplomacy-eases-oil-fears-4912189",
@@ -594,5 +688,5 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
- "guncelleme": "2026-09-23T11:01:02.271713+03:00"
+ "guncelleme": "2026-09-23T11:30:52.825153+03:00"
 }
