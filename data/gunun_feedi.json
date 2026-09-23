@@ -2,6 +2,19 @@
  "tarih": "2026-09-23",
  "kap": [
   {
+   "id": "kap-my-ASTOR-202609231118",
+   "baslik": "ASTOR ENERJİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "ASTOR ENERJİ A.Ş.",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:18",
+   "tarih_iso": "2026-09-23T11:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
    "id": "kap-my-ULKER-202609231041",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -56,6 +69,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/ali-koc-enerjide-disa-bagimlilik-enflasyonu-ve-maliyetleri-etkiliyor-haberi-841121",
+   "baslik": "Ali Koç: Enerjide dışa bağımlılık enflasyonu ve maliyetleri etkiliyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/ali-koc-enerjide-disa-bagimlilik-enflasyonu-ve-maliyetleri-etkiliyor-haberi-841121",
+   "saat": "11:33",
+   "tarih_iso": "2026-09-23T11:33:00+03:00",
+   "kodlar": [
+    "KCHOL"
+   ],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/aselsan-ile-roketsan-arasinda-123-milyar-euroluk-sozlesme-haberi-841116",
    "baslik": "ASELSAN ile ROKETSAN arasında 1,23 milyar Euro'luk sözleşme",
    "kaynak": "Dünya",
@@ -93,6 +118,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-acikladi-enflasyon-beklentileri-eylulde-nasil-degisti-3470304",
+   "baslik": "TCMB açıkladı: Enflasyon beklentileri eylülde nasıl değişti?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/tcmb-acikladi-enflasyon-beklentileri-eylulde-nasil-degisti-3470304",
+   "saat": "14:37",
+   "tarih_iso": "2026-09-23T14:37:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-pmi-41-ayin-zirvesine-cikti-haberi-841119",
    "baslik": "Euro Bölgesi’nde PMI 41 ayın zirvesine çıktı",
@@ -236,6 +271,96 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/softbanks-mega-junk-bond-deal-shows-capital-for-the-ai-race-is-getting-more-expensive-9eb3fa28?mod=mw_rss_topstories",
+   "baslik": "Softbank’s mega junk-bond deal shows capital for the AI race is getting more expensive",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/softbanks-mega-junk-bond-deal-shows-capital-for-the-ai-race-is-getting-more-expensive-9eb3fa28?mod=mw_rss_topstories",
+   "saat": "11:56",
+   "tarih_iso": "2026-09-23T11:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-arcadis-stock-sliding-today-93CH-4912313",
+   "baslik": "Why is Arcadis stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-arcadis-stock-sliding-today-93CH-4912313",
+   "saat": "11:49",
+   "tarih_iso": "2026-09-23T11:49:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/italy-eyes-2026-deficit-under-eu-3-cap-raises-gdp-growth-view--report-93CH-4912311",
+   "baslik": "Italy eyes 2026 deficit under EU 3% cap, raises GDP growth view - report",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/italy-eyes-2026-deficit-under-eu-3-cap-raises-gdp-growth-view--report-93CH-4912311",
+   "saat": "11:46",
+   "tarih_iso": "2026-09-23T11:46:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jpmorgan-upgrades-bp-downgrades-totalenergies-in-oil-sector-reshuffle-4912301",
+   "baslik": "JPMorgan upgrades BP, downgrades TotalEnergies in oil sector reshuffle",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jpmorgan-upgrades-bp-downgrades-totalenergies-in-oil-sector-reshuffle-4912301",
+   "saat": "11:37",
+   "tarih_iso": "2026-09-23T11:37:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-six-flags-entertainment-stock-climbing-today-93CH-4912298",
+   "baslik": "Why is Six Flags Entertainment stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-six-flags-entertainment-stock-climbing-today-93CH-4912298",
+   "saat": "11:35",
+   "tarih_iso": "2026-09-23T11:35:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-six-flags-entertainment-stock-gaining-today-93CH-4912297",
+   "baslik": "Why is Six Flags Entertainment stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-six-flags-entertainment-stock-gaining-today-93CH-4912297",
+   "saat": "11:35",
+   "tarih_iso": "2026-09-23T11:35:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ionq-stock-surging-today-93CH-4912296",
+   "baslik": "Why is IonQ stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ionq-stock-surging-today-93CH-4912296",
+   "saat": "11:34",
+   "tarih_iso": "2026-09-23T11:34:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-raiffeisen-bank-international-stock-rallying-today-93CH-4912295",
+   "baslik": "Why is Raiffeisen Bank International stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-raiffeisen-bank-international-stock-rallying-today-93CH-4912295",
+   "saat": "11:34",
+   "tarih_iso": "2026-09-23T11:34:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-142-4912284",
+   "baslik": "Indonesia stocks higher at close of trade; IDX Composite Index up 1.42%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-higher-at-close-of-trade-idx-composite-index-up-142-4912284",
+   "saat": "11:30",
+   "tarih_iso": "2026-09-23T11:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/23/trump-xi-summit-us-china-trade-rare-earth-soybean-plane.html",
    "baslik": "Soybeans, planes and rare earths: What they say about fragile U.S.-China trade truce",
    "kaynak": "CNBC",
@@ -284,6 +409,16 @@
    "tarih_iso": "2026-09-23T10:36:29+03:00",
    "kodlar": [],
    "eklenme": "2026-09-23T11:01:02.271713+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html",
+   "baslik": "Fed's Collins warns inflation could be 'notably' higher after backing rate hike",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html",
+   "saat": "10:33",
+   "tarih_iso": "2026-09-23T10:33:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/europe-stocks-rise-as-oil-retreat-aids-sentiment-pmi-data-in-focus-4912213",
@@ -446,6 +581,16 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   },
   {
+   "id": "yab-https://www.ft.com/content/f95db340-8c8f-435f-957d-4623255ac29e?syn-25a6b1a6=1",
+   "baslik": "Oil tanker costs hit record $1.2mn a day as Iran war disrupts shipping",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/f95db340-8c8f-435f-957d-4623255ac29e?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-23T07:00:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/23/korean-solar-stocks-jump-as-curbs-on-china-expected-to-stay-in-place.html",
    "baslik": "South Korean solar stocks jump as curbs on Chinese sector expected to remain in place",
    "kaynak": "CNBC",
@@ -578,6 +723,26 @@
    "eklenme": "2026-09-23T10:01:01.255247+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-faces-steep-selloff-near-4300-200688210",
+   "baslik": "Gold faces steep sell-off near 4,300",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-faces-steep-selloff-near-4300-200688210",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-faces-extreme-volatility-as-hormuz-uncertainty-keeps-markets-guessing-200688206",
+   "baslik": "Gold Faces Extreme Volatility as Hormuz Uncertainty Keeps Markets Guessing",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-faces-extreme-volatility-as-hormuz-uncertainty-keeps-markets-guessing-200688206",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-23T12:01:03.019378+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-technical-outlook-vc-pmi-square-9-geometry-and-market-cycles-200688195",
    "baslik": "Gold Technical Outlook: VC PMI, Square 9 Geometry and Market Cycles",
    "kaynak": "Investing Emtia",
@@ -688,5 +853,5 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
- "guncelleme": "2026-09-23T11:30:52.825153+03:00"
+ "guncelleme": "2026-09-23T12:01:03.019378+03:00"
 }
