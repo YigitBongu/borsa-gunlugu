@@ -2,6 +2,32 @@
  "tarih": "2026-09-23",
  "kap": [
   {
+   "id": "kap-my-EUPWR-202609231541",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:41",
+   "tarih_iso": "2026-09-23T15:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
+   "id": "kap-my-KARSN-202609231529",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KARSN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:29",
+   "tarih_iso": "2026-09-23T15:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
    "id": "kap-my-OYAKC-202609231434",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -534,6 +560,116 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-paychex-stock-dropping-today-93CH-4913043",
+   "baslik": "Why is Paychex stock dropping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-paychex-stock-dropping-today-93CH-4913043",
+   "saat": "15:44",
+   "tarih_iso": "2026-09-23T15:44:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/autozone-azo-posts-strong-earnings-124129297.html",
+   "baslik": "AutoZone (AZO) Posts Strong Earnings, But Is the Stock Ready to Rebound?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/autozone-azo-posts-strong-earnings-124129297.html",
+   "saat": "15:41",
+   "tarih_iso": "2026-09-23T15:41:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ai-signals-strong-rebound-potential-for-this-beatendown-it-stock-93CH-4913028",
+   "baslik": "AI signals strong rebound potential for this beaten-down IT stock",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ai-signals-strong-rebound-potential-for-this-beatendown-it-stock-93CH-4913028",
+   "saat": "15:38",
+   "tarih_iso": "2026-09-23T15:38:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-applovin-stock-sliding-today-93CH-4913027",
+   "baslik": "Why is AppLovin stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-applovin-stock-sliding-today-93CH-4913027",
+   "saat": "15:38",
+   "tarih_iso": "2026-09-23T15:38:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/pay-attention-wall-street-actively-123708941.html",
+   "baslik": "Pay Attention, Wall Street Is Actively Re-Rating AMD as It Crosses $1 Trillion",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/pay-attention-wall-street-actively-123708941.html",
+   "saat": "15:37",
+   "tarih_iso": "2026-09-23T15:37:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/technology/articles/chipotle-cmg-piloting-palantir-pltr-123400398.html",
+   "baslik": "Chipotle (CMG) Is Piloting Palantir (PLTR) for Food Safety. Does It Matter for Investors?",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/technology/articles/chipotle-cmg-piloting-palantir-pltr-123400398.html",
+   "saat": "15:34",
+   "tarih_iso": "2026-09-23T15:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-could-double-123400857.html",
+   "baslik": "2 Growth Stocks That Could Double by 2030",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-could-double-123400857.html",
+   "saat": "15:34",
+   "tarih_iso": "2026-09-23T15:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/valueact-2-stock-picks-shouldn-123304790.html",
+   "baslik": "ValueAct’s 2 Stock Picks You Shouldn’t Miss",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/articles/valueact-2-stock-picks-shouldn-123304790.html",
+   "saat": "15:33",
+   "tarih_iso": "2026-09-23T15:33:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/hsbc-addresses-the-concerns-that-are-gripping-the-stock-market-and-dismisses-most-of-them-f9b34a8d?mod=mw_rss_topstories",
+   "baslik": "HSBC addresses the concerns that are gripping the stock market — and dismisses most of them",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/hsbc-addresses-the-concerns-that-are-gripping-the-stock-market-and-dismisses-most-of-them-f9b34a8d?mod=mw_rss_topstories",
+   "saat": "15:32",
+   "tarih_iso": "2026-09-23T15:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/stocks/article/netflix-stock-is-getting-shredded--and-googles-youtube-may-be-the-reason-123041480.html",
+   "baslik": "Netflix stock is getting shredded — and Google's YouTube may be the reason",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/stocks/article/netflix-stock-is-getting-shredded--and-googles-youtube-may-be-the-reason-123041480.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-09-23T15:30:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/healthcare/articles/crispr-therapeutics-traded-sideways-down-122245548.html",
+   "baslik": "CRISPR Therapeutics Traded Sideways and Down for 12 Months: One Wall Street Pro Expects 85% Gains Soon",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/healthcare/articles/crispr-therapeutics-traded-sideways-down-122245548.html",
+   "saat": "15:22",
+   "tarih_iso": "2026-09-23T15:22:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T16:01:07.150292+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-remodels-training-chicken-growth-plans.html",
    "baslik": "McDonald's will spend big on restaurant upgrades, training to drive growth",
@@ -1623,36 +1759,6 @@
    "tarih_iso": "2026-09-22T22:00:39+03:00",
    "kodlar": [],
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/22/no-new-stock-highs-no-problem-options-traders-bet-theyre-coming-in-these-names.html",
-   "baslik": "No new stock highs, no problem: Options traders bet they're coming in these names",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/22/no-new-stock-highs-no-problem-options-traders-bet-theyre-coming-in-these-names.html",
-   "saat": "21:09",
-   "tarih_iso": "2026-09-22T21:09:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T09:01:05.445906+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Davey promises tax cuts for millions if UK rejoins EU single market",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-   "saat": "19:50",
-   "tarih_iso": "2026-09-22T19:50:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T09:01:05.445906+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
-   "baslik": "Sullivan: Wall Street admits it doesn't know where oil is headed. There's one stock they do agree on",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/22/sullivan-wall-street-admits-it-doesnt-know-where-oil-is-headed-theres-one-stock-they-do-agree-on.html",
-   "saat": "19:05",
-   "tarih_iso": "2026-09-22T19:05:57+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
  "altin_haber": [
@@ -1847,5 +1953,5 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
- "guncelleme": "2026-09-23T15:31:03.086933+03:00"
+ "guncelleme": "2026-09-23T16:01:07.150292+03:00"
 }
