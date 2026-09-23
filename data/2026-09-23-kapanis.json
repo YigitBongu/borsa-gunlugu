@@ -2,6 +2,34 @@
  "tarih": "2026-09-23",
  "kap": [
   {
+   "id": "kap-my-ALFAS-202609231811",
+   "baslik": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "ALFAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:11",
+   "tarih_iso": "2026-09-23T18:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T18:31:02.322072+03:00",
+   "saat_g": "18:11"
+  },
+  {
+   "id": "kap-my-IZENR-202609231811",
+   "baslik": "İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+   "kodlar": [
+    "IZENR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:11",
+   "tarih_iso": "2026-09-23T18:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T18:31:02.322072+03:00",
+   "saat_g": "18:11"
+  },
+  {
    "id": "kap-my-MAVI-202609231755",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -443,6 +471,17 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/euro-bolgesi-tahvilleri-is-aktivitesi-verileriyle-dustu-93CH-4076412",
+   "baslik": "Euro bölgesi tahvilleri iş aktivitesi verileriyle düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/euro-bolgesi-tahvilleri-is-aktivitesi-verileriyle-dustu-93CH-4076412",
+   "saat": "18:18",
+   "tarih_iso": "2026-09-23T18:18:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T18:31:02.322072+03:00",
+   "saat_g": "18:18"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/oecdnin-turkiye-raporu-yayimlandi-iste-buyume-ve-enflasyon-tahminleri-3470356",
    "baslik": "OECD'nin Türkiye raporu yayımlandı: İşte büyüme ve enflasyon tahminleri",
    "kaynak": "CNN Türk Ekonomi",
@@ -741,6 +780,94 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/23/history-rhymes-for-meta-and-our-plan-for-micron-ahead-of-earnings.html",
+   "baslik": "History rhymes for Meta, and our plan for Micron ahead of earnings",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/23/history-rhymes-for-meta-and-our-plan-for-micron-ahead-of-earnings.html",
+   "saat": "18:25",
+   "tarih_iso": "2026-09-23T18:25:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T18:31:02.322072+03:00",
+   "saat_g": "18:25"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-judge-dismisses-michigan-climate-lawsuit-against-oil-companies-4911946",
+   "baslik": "US judge dismisses Michigan climate lawsuit against oil companies",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-michigan-climate-lawsuit-against-oil-companies-4911946",
+   "saat": "18:18",
+   "tarih_iso": "2026-09-23T18:18:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T18:31:02.322072+03:00",
+   "saat_g": "18:18"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hemlo-mining-stock-sliding-today-93CH-4913497",
+   "baslik": "Why is Hemlo Mining stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hemlo-mining-stock-sliding-today-93CH-4913497",
+   "saat": "18:18",
+   "tarih_iso": "2026-09-23T18:18:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T18:31:02.322072+03:00",
+   "saat_g": "18:18"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/euro-zone-bonds-fall-as-business-activity-data-exceeds-forecasts-93CH-4913495",
+   "baslik": "Euro zone bonds fall as business activity data exceeds forecasts",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/euro-zone-bonds-fall-as-business-activity-data-exceeds-forecasts-93CH-4913495",
+   "saat": "18:17",
+   "tarih_iso": "2026-09-23T18:17:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T18:31:02.322072+03:00",
+   "saat_g": "18:17"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/real-estate/articles/home-depot-hd-positioned-benefit-151515088.html",
+   "baslik": "Home Depot (HD) is Positioned to benefit from Housing Market Recovery",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/real-estate/articles/home-depot-hd-positioned-benefit-151515088.html",
+   "saat": "18:15",
+   "tarih_iso": "2026-09-23T18:15:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T18:31:02.322072+03:00",
+   "saat_g": "18:15"
+  },
+  {
+   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/nyse-teams-blockchain-com-offer-151400975.html",
+   "baslik": "NYSE Teams Up With Blockchain.com to Offer Tokenized Stocks",
+   "kaynak": "Yahoo Finance",
+   "link": "https://finance.yahoo.com/markets/crypto/articles/nyse-teams-blockchain-com-offer-151400975.html",
+   "saat": "18:14",
+   "tarih_iso": "2026-09-23T18:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T18:31:02.322072+03:00",
+   "saat_g": "18:14"
+  },
+  {
+   "id": "yab-https://www.investors.com/research/ibd-stock-of-the-day/palantir-stock-buy-signal-earnings-ai-momentum/?src=A00220&yptr=yahoo",
+   "baslik": "Palantir, IBD Stock Of The Day, Flashes Buy Signal Amid Earnings, AI Momentum",
+   "kaynak": "Yahoo Finance",
+   "link": "https://www.investors.com/research/ibd-stock-of-the-day/palantir-stock-buy-signal-earnings-ai-momentum/?src=A00220&yptr=yahoo",
+   "saat": "18:13",
+   "tarih_iso": "2026-09-23T18:13:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T18:31:02.322072+03:00",
+   "saat_g": "18:13"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-032-4913487",
+   "baslik": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.32%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-032-4913487",
+   "saat": "18:10",
+   "tarih_iso": "2026-09-23T18:10:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T18:31:02.322072+03:00",
+   "saat_g": "18:10"
+  },
   {
    "id": "yab-https://finance.yahoo.com/economy/policy/article/goldman-sachs-interest-rate-prediction-hinges-on-oil-prices-150835873.html",
    "baslik": "Goldman Sachs' interest rate prediction hinges on oil prices",
@@ -1972,94 +2099,6 @@
    "kodlar": [],
    "eklenme": "2026-09-23T14:30:50.760589+03:00",
    "saat_g": "13:57"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/peloton-pton-stock-buy-massive-105528498.html",
-   "baslik": "Is Peloton (PTON) Stock a Buy After Its Massive Hardware Overhaul?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/peloton-pton-stock-buy-massive-105528498.html",
-   "saat": "13:55",
-   "tarih_iso": "2026-09-23T13:55:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T14:30:50.760589+03:00",
-   "saat_g": "13:55"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
-   "baslik": "The AI infrastructure trade is still not over, says this top-performing fund manager. Where he’s investing.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
-   "saat": "13:51",
-   "tarih_iso": "2026-09-23T13:51:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T14:01:09.124087+03:00",
-   "saat_g": "13:51"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/taketwo-interactive-ttwo-stock-analysis-ahead-of-gta-vi-launch-93CH-4912589",
-   "baslik": "Take-Two Interactive (TTWO) stock analysis ahead of GTA VI launch",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/taketwo-interactive-ttwo-stock-analysis-ahead-of-gta-vi-launch-93CH-4912589",
-   "saat": "13:48",
-   "tarih_iso": "2026-09-23T13:48:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T14:01:09.124087+03:00",
-   "saat_g": "13:48"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/applied-aerospace-aadx-turn-record-104421317.html",
-   "baslik": "Can Applied Aerospace (AADX) Turn Record Backlog Into Real Profit?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/applied-aerospace-aadx-turn-record-104421317.html",
-   "saat": "13:44",
-   "tarih_iso": "2026-09-23T13:44:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T14:30:50.760589+03:00",
-   "saat_g": "13:44"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/economy/policy/articles/federal-delivers-warning-americans-savings-103500121.html",
-   "baslik": "Federal Reserve delivers warning to all Americans with a savings account: ‘There will be a reckoning.’ Are you ready?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/economy/policy/articles/federal-delivers-warning-americans-savings-103500121.html",
-   "saat": "13:35",
-   "tarih_iso": "2026-09-23T13:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T14:01:09.124087+03:00",
-   "saat_g": "13:35"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/whys-everyone-talking-monster-beverage-103500317.html",
-   "baslik": "Why's Everyone Talking About Monster Beverage Stock Now?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/whys-everyone-talking-monster-beverage-103500317.html",
-   "saat": "13:35",
-   "tarih_iso": "2026-09-23T13:35:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T14:01:09.124087+03:00",
-   "saat_g": "13:35"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/healthcare/articles/ocular-therapeutix-ocul-stock-buy-103248526.html",
-   "baslik": "Is Ocular Therapeutix (OCUL) Stock a Buy Ahead of Its Major NDA Catalyst?",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/healthcare/articles/ocular-therapeutix-ocul-stock-buy-103248526.html",
-   "saat": "13:32",
-   "tarih_iso": "2026-09-23T13:32:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T14:01:09.124087+03:00",
-   "saat_g": "13:32"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-iran-talks-ai-optimism-4911928",
-   "baslik": "U.S. stock futures muted amid AI buzz, Mideast diplomacy hopes; Trump, Xi to meet",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-iran-talks-ai-optimism-4911928",
-   "saat": "13:31",
-   "tarih_iso": "2026-09-23T13:31:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T13:39:42.910325+03:00",
-   "saat_g": "13:31"
   }
  ],
  "altin_haber": [
@@ -2284,5 +2323,5 @@
    "saat_g": "dün 19:11"
   }
  ],
- "guncelleme": "2026-09-23T18:15:53.291601+03:00"
+ "guncelleme": "2026-09-23T18:31:02.322072+03:00"
 }
