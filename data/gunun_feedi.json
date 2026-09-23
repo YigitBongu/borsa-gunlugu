@@ -2,6 +2,19 @@
  "tarih": "2026-09-23",
  "kap": [
   {
+   "id": "kap-my-TKFEN-202609230957",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:57",
+   "tarih_iso": "2026-09-23T09:57:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-23T10:30:55.322546+03:00"
+  },
+  {
    "id": "kap-my-EGEEN-202609230936",
    "baslik": "EGE ENDÜSTRİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
@@ -30,6 +43,46 @@
  ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/enflasyon-beklentileri-degisti-3914451",
+   "baslik": "Enflasyon beklentileri değişti",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/enflasyon-beklentileri-degisti-3914451",
+   "saat": "10:10",
+   "tarih_iso": "2026-09-23T10:10:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:30:55.322546+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-acikladi-finans-sektorunde-guven-kaybi-haberi-841104",
+   "baslik": "Merkez Bankası açıkladı: Finans sektöründe güven kaybı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/merkez-bankasi-acikladi-finans-sektorunde-guven-kaybi-haberi-841104",
+   "saat": "10:03",
+   "tarih_iso": "2026-09-23T10:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:30:55.322546+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/halkin-enflasyon-beklentisi-ve-dolar-tahmini-belli-oldu-haberi-841101",
+   "baslik": "Halkın enflasyon beklentisi ve dolar tahmini belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/halkin-enflasyon-beklentisi-ve-dolar-tahmini-belli-oldu-haberi-841101",
+   "saat": "10:02",
+   "tarih_iso": "2026-09-23T10:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:30:55.322546+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomik-veriler/piyasa-katilimcilarinin-enflasyon-beklentisi-yuzde-2370e-yukseldi-haberi-841103",
+   "baslik": "Piyasa katılımcılarının enflasyon beklentisi yüzde 23,70'e yükseldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomik-veriler/piyasa-katilimcilarinin-enflasyon-beklentisi-yuzde-2370e-yukseldi-haberi-841103",
+   "saat": "10:02",
+   "tarih_iso": "2026-09-23T10:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:30:55.322546+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/petrol-faiz-hesabini-bozdu-bmden-yeni-enflasyon-uyarisi-haberi-841099",
    "baslik": "Petrol faiz hesabını bozdu: BM’den yeni enflasyon uyarısı",
@@ -92,6 +145,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-renishaw-stock-rallying-today-93CH-4912199",
+   "baslik": "Why is Renishaw stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-renishaw-stock-rallying-today-93CH-4912199",
+   "saat": "10:21",
+   "tarih_iso": "2026-09-23T10:21:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:30:55.322546+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-usiran-diplomacy-eases-oil-fears-4912189",
+   "baslik": "FTSE 100 today: Stocks rise as U.S.-Iran diplomacy eases oil fears",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-usiran-diplomacy-eases-oil-fears-4912189",
+   "saat": "10:13",
+   "tarih_iso": "2026-09-23T10:13:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:30:55.322546+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/42-39-36-these-aipicked-chip-stocks-are-rallying-in-september--see-why-4912129",
    "baslik": "+42%, +39%, +36%: These AI-picked chip stocks are rallying in September - see why",
@@ -335,6 +408,36 @@
    "eklenme": "2026-09-23T10:01:01.255247+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-technical-outlook-vc-pmi-square-9-geometry-and-market-cycles-200688195",
+   "baslik": "Gold Technical Outlook: VC PMI, Square 9 Geometry and Market Cycles",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-technical-outlook-vc-pmi-square-9-geometry-and-market-cycles-200688195",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:30:55.322546+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-market-daily-oil-is-still-setting-the-terms-for-gold-200688193",
+   "baslik": "Gold Market Daily: Oil Is Still Setting the Terms for Gold",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-market-daily-oil-is-still-setting-the-terms-for-gold-200688193",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:30:55.322546+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/cin-altin-ithalatinda-rekor-8-ayda-gecen-yil-asildi-galeri-841105",
+   "baslik": "Çin altın ithalatında rekor: 8 ayda geçen yıl aşıldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/cin-altin-ithalatinda-rekor-8-ayda-gecen-yil-asildi-galeri-841105",
+   "saat": "10:14",
+   "tarih_iso": "2026-09-23T10:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-23T10:30:55.322546+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-real-bull-case-is-moving-east-while-wall-street-watches-rates-200688177",
    "baslik": "Gold’s Real Bull Case Is Moving East While Wall Street Watches Rates",
    "kaynak": "Investing Emtia",
@@ -415,5 +518,5 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
- "guncelleme": "2026-09-23T10:01:01.255247+03:00"
+ "guncelleme": "2026-09-23T10:30:55.322546+03:00"
 }
