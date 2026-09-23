@@ -2,6 +2,71 @@
  "tarih": "2026-09-23",
  "kap": [
   {
+   "id": "kap-my-TTKOM-202609231910",
+   "baslik": "TÜRK TELEKOMÜNİKASYON A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:10",
+   "tarih_iso": "2026-09-23T19:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
+  {
+   "id": "kap-my-TTKOM-202609231856",
+   "baslik": "TÜRK TELEKOMÜNİKASYON A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:56",
+   "tarih_iso": "2026-09-23T18:56:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
+  {
+   "id": "kap-my-ECILC-202609231833",
+   "baslik": "EİS ECZACIBAŞI İLAÇ SINAİ VE FİNANSAL YATIRIMLAR SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "EİS ECZACIBAŞI İLAÇ SINAİ VE FİNANSAL YATIRIMLAR SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "ECILC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:33",
+   "tarih_iso": "2026-09-23T18:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
+  {
+   "id": "kap-my-AHGAZ-202609231830",
+   "baslik": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:30",
+   "tarih_iso": "2026-09-23T18:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
+  {
+   "id": "kap-my-MAVI-202609231829",
+   "baslik": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "MAVI"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:29",
+   "tarih_iso": "2026-09-23T18:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
+  {
    "id": "kap-my-ALFAS-202609231811",
    "baslik": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
    "sirket": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş.",
@@ -290,6 +355,42 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/280-bin-kadin-girisimciye-140-milyar-lira-kaynak-haberi-841202",
+   "baslik": "280 bin kadın girişimciye 140 milyar lira kaynak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/280-bin-kadin-girisimciye-140-milyar-lira-kaynak-haberi-841202",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-24T00:00:00+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/thy-boeing-ten-150-adet-ucak-satin-alacak-3914638",
+   "baslik": "THY, Boeing'ten 150 adet uçak satın alacak",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/thy-boeing-ten-150-adet-ucak-satin-alacak-3914638",
+   "saat": "21:28",
+   "tarih_iso": "2026-09-23T21:28:43+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-150-adede-kadar-boeing-737-max-ucagi-icin-siparis-anlasmasini-kesinlestirdi/4066651",
+   "baslik": "THY, 150 adede kadar Boeing 737 MAX uçağı için sipariş anlaşmasını kesinleştirdi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thy-150-adede-kadar-boeing-737-max-ucagi-icin-siparis-anlasmasini-kesinlestirdi/4066651",
+   "saat": "19:35",
+   "tarih_iso": "2026-09-23T19:35:35+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/teknoloji-girisimcilerinin-yatirim-hazirligi-hizlaniyor-3914606",
    "baslik": "Teknoloji girişimleri için finansal okuryazarlık gündemde",
    "kaynak": "Habertürk Ekonomi",
@@ -436,6 +537,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/is-dunyasi/enflasyon-halen-en-onemli-makro-kirilganligimiz-haberi-841184",
+   "baslik": "“Enflasyon halen en önemli makro kırılganlığımız”",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/is-dunyasi/enflasyon-halen-en-onemli-makro-kirilganligimiz-haberi-841184",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-24T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/1789-capital-ikinci-buyume-fonu-icin-3-milyar-dolar-toplamay-hedefliyor-93CH-4076640",
+   "baslik": "1789 Capital ikinci büyüme fonu için 3 milyar dolar toplamayı hedefliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/1789-capital-ikinci-buyume-fonu-icin-3-milyar-dolar-toplamay-hedefliyor-93CH-4076640",
+   "saat": "23:24",
+   "tarih_iso": "2026-09-23T23:24:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/peloton-ilk-tahvil-ihrac-icin-800-milyon-dolar-toplamay-degerlendiriyor-93CH-4076638",
+   "baslik": "Peloton ilk tahvil ihracı için 800 milyon dolar toplamayı değerlendiriyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/peloton-ilk-tahvil-ihrac-icin-800-milyon-dolar-toplamay-degerlendiriyor-93CH-4076638",
+   "saat": "23:23",
+   "tarih_iso": "2026-09-23T23:23:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/euro-bolgesi-tahvilleri-is-aktivitesi-verileriyle-dustu-93CH-4076412",
    "baslik": "Euro bölgesi tahvilleri iş aktivitesi verileriyle düştü",
@@ -718,6 +849,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
+   "baslik": "Fewer stocks are carrying the market than at any time since the dot-com peak",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories",
+   "saat": "23:45",
+   "tarih_iso": "2026-09-23T23:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T00:01:04.980291+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/1789-capital-in-talks-to-raise-3-billion-for-second-growth-fund--bloomberg-93CH-4913893",
    "baslik": "1789 Capital in talks to raise $3 billion for second growth fund - Bloomberg",
@@ -1907,16 +2048,6 @@
    "tarih_iso": "2026-09-23T17:31:19+03:00",
    "kodlar": [],
    "eklenme": "2026-09-23T18:01:08.460306+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/stocks/articles/exceptional-earnings-ai-immunity-fuel-143115048.html",
-   "baslik": "Exceptional Earnings and AI Immunity Fuel Hinge Health’s (HNGE) Performance",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/stocks/articles/exceptional-earnings-ai-immunity-fuel-143115048.html",
-   "saat": "17:31",
-   "tarih_iso": "2026-09-23T17:31:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T18:01:08.460306+03:00"
   }
  ],
  "altin_haber": [
@@ -2191,5 +2322,5 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
- "guncelleme": "2026-09-23T23:30:55.540981+03:00"
+ "guncelleme": "2026-09-24T00:01:04.980291+03:00"
 }
