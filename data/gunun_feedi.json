@@ -538,6 +538,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altina-faiz-duvari-piyasa-yeni-bir-artisi-fiyatliyor-galeri-841223",
+   "baslik": "Altına faiz duvarı: Piyasa yeni bir artışı fiyatlıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altina-faiz-duvari-piyasa-yeni-bir-artisi-fiyatliyor-galeri-841223",
+   "saat": "05:56",
+   "tarih_iso": "2026-09-24T05:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T06:30:47.301461+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/softbank-group-openai-yatrm-icin-111-milyar-dolar-tahvil-ckard-93CH-4076837",
    "baslik": "SoftBank Group, OpenAI yatırımı için 11,1 milyar dolar tahvil çıkardı",
    "kaynak": "Investing TR",
@@ -869,6 +879,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/it-services-stock-is-up-89-since-july--our-ai-models-picked-it-first-4914387",
+   "baslik": "IT services stock is up 89%+ since July - our AI models picked it first",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/it-services-stock-is-up-89-since-july--our-ai-models-picked-it-first-4914387",
+   "saat": "05:51",
+   "tarih_iso": "2026-09-24T05:51:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T06:30:47.301461+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/chinese-tech-chip-stocks-slide-as-us-yields-surge-4914380",
    "baslik": "Chinese tech, chip stocks slide as U.S. yields surge",
@@ -2058,16 +2078,6 @@
    "tarih_iso": "2026-09-23T18:18:48+03:00",
    "kodlar": [],
    "eklenme": "2026-09-23T19:01:08.674606+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/us-judge-dismisses-michigan-climate-lawsuit-against-oil-companies-4911946",
-   "baslik": "US judge dismisses Michigan climate lawsuit against oil companies",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/us-judge-dismisses-michigan-climate-lawsuit-against-oil-companies-4911946",
-   "saat": "18:18",
-   "tarih_iso": "2026-09-23T18:18:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T18:31:02.322072+03:00"
   }
  ],
  "altin_haber": [
@@ -2342,5 +2352,5 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
- "guncelleme": "2026-09-24T06:01:02.020182+03:00"
+ "guncelleme": "2026-09-24T06:30:47.301461+03:00"
 }
