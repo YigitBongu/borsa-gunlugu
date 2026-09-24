@@ -2,6 +2,19 @@
  "tarih": "2026-09-24",
  "kap": [
   {
+   "id": "kap-my-EUPWR-202609241412",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:12",
+   "tarih_iso": "2026-09-24T14:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
+  {
    "id": "kap-my-SMRTG-202609241339",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -153,6 +166,26 @@
    "tarih_iso": "2026-09-24T16:44:50+03:00",
    "kodlar": [],
    "eklenme": "2026-09-24T14:01:23.501999+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/fed-beklentisi-dolari-guclendirdi-dolar-endeksi-2-ayin-zirvesinde-galeri-841296",
+   "baslik": "Fed beklentisi doları güçlendirdi: Dolar endeksi 2 ayın zirvesinde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/fed-beklentisi-dolari-guclendirdi-dolar-endeksi-2-ayin-zirvesinde-galeri-841296",
+   "saat": "14:00",
+   "tarih_iso": "2026-09-24T14:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fede-iliskin-sahin-beklentiler-dolar-endeksini-yaklasik-2-ayin-zirvesine-tasidi/4067671",
+   "baslik": "Fed'e ilişkin şahin beklentiler dolar endeksini yaklaşık 2 ayın zirvesine taşıdı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fede-iliskin-sahin-beklentiler-dolar-endeksini-yaklasik-2-ayin-zirvesine-tasidi/4067671",
+   "saat": "13:58",
+   "tarih_iso": "2026-09-24T13:58:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/sp-500-tarihi-fed-faiz-artrmlarnda-guclu-kazanclar-gosteriyor-4077419",
@@ -366,6 +399,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+   "baslik": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+   "saat": "14:20",
+   "tarih_iso": "2026-09-24T14:20:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+   "baslik": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+   "saat": "14:17",
+   "tarih_iso": "2026-09-24T14:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/blackberry-lifts-annual-revenue-forecast-on-strength-in-automotive-software-business-4915045",
+   "baslik": "BlackBerry lifts annual revenue forecast on strength in automotive software business",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/blackberry-lifts-annual-revenue-forecast-on-strength-in-automotive-software-business-4915045",
+   "saat": "14:14",
+   "tarih_iso": "2026-09-24T14:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-grail-stock-surging-today-93CH-4915071",
+   "baslik": "Why is Grail stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-grail-stock-surging-today-93CH-4915071",
+   "saat": "14:12",
+   "tarih_iso": "2026-09-24T14:12:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-darden-restaurants-stock-sliding-today-93CH-4915067",
+   "baslik": "Why is Darden Restaurants stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-darden-restaurants-stock-sliding-today-93CH-4915067",
+   "saat": "14:11",
+   "tarih_iso": "2026-09-24T14:11:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/30year-treasury-yield-hits-539-a-22year-high-after-hot-pmi-data-93CH-4915064",
+   "baslik": "30-year Treasury yield hits 5.39%, a 22-year high, after hot PMI data",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/30year-treasury-yield-hits-539-a-22year-high-after-hot-pmi-data-93CH-4915064",
+   "saat": "14:10",
+   "tarih_iso": "2026-09-24T14:10:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-blackberry-stock-rallying-today-93CH-4915050",
+   "baslik": "Why is BlackBerry stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-blackberry-stock-rallying-today-93CH-4915050",
+   "saat": "14:07",
+   "tarih_iso": "2026-09-24T14:07:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/acadia-pharmaceuticals-stock-tumbles-on-mixed-trial-results-93CH-4915049",
+   "baslik": "Acadia Pharmaceuticals stock tumbles on mixed trial results",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/acadia-pharmaceuticals-stock-tumbles-on-mixed-trial-results-93CH-4915049",
+   "saat": "14:07",
+   "tarih_iso": "2026-09-24T14:07:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
+   "baslik": "As the Trump-Xi meetings unfold, investors should watch for this hidden AI trade",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/as-the-trump-xi-meetings-unfold-investors-should-watch-for-this-hidden-ai-trade-7abf11b9?mod=mw_rss_topstories",
+   "saat": "14:01",
+   "tarih_iso": "2026-09-24T14:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-stitch-fix-stock-plunging-today-93CH-4914982",
    "baslik": "Why is Stitch Fix stock plunging today?",
@@ -1139,6 +1262,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+   "baslik": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+   "saat": "14:17",
+   "tarih_iso": "2026-09-24T14:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:30:54.360799+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-24-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3470713",
    "baslik": "ALTIN FİYATLARI 24 EYLÜL 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
    "kaynak": "CNN Türk Ekonomi",
@@ -1299,5 +1432,5 @@
    "eklenme": "2026-09-24T09:01:05.593725+03:00"
   }
  ],
- "guncelleme": "2026-09-24T14:01:23.501999+03:00"
+ "guncelleme": "2026-09-24T14:30:54.360799+03:00"
 }
