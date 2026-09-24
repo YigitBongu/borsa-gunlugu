@@ -2,6 +2,32 @@
  "tarih": "2026-09-24",
  "kap": [
   {
+   "id": "kap-my-SDTTR-202609241542",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:42",
+   "tarih_iso": "2026-09-24T15:42:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
+  {
+   "id": "kap-my-VESBE-202609241538",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "VESBE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:38",
+   "tarih_iso": "2026-09-24T15:38:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
+  {
    "id": "kap-my-AKSEN-202609241433",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -121,6 +147,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/yeni-iphone-18-pro-serisi-turkcell-magazalari-ve-pasajda-satisa-sunuldu-3914834",
+   "baslik": "iPhone 18 Pro Turkcell mağazalarında",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/yeni-iphone-18-pro-serisi-turkcell-magazalari-ve-pasajda-satisa-sunuldu-3914834",
+   "saat": "15:40",
+   "tarih_iso": "2026-09-24T15:40:46+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/turk-telekomdan-silikon-vadisinde-stratejik-is-birligi-haberi-841273",
    "baslik": "Türk Telekom’dan Silikon Vadisi’nde stratejik iş birliği",
    "kaynak": "Dünya",
@@ -179,6 +217,26 @@
    "tarih_iso": "2026-09-24T16:44:50+03:00",
    "kodlar": [],
    "eklenme": "2026-09-24T14:01:23.501999+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/precision-neuroscience-pershing-square-onderliginde-250-milyon-dolar-toplad-93CH-4077753",
+   "baslik": "Precision Neuroscience, Pershing Square önderliğinde 250 milyon dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/precision-neuroscience-pershing-square-onderliginde-250-milyon-dolar-toplad-93CH-4077753",
+   "saat": "15:37",
+   "tarih_iso": "2026-09-24T15:37:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/metis-reasoning-onlarca-milyon-dolar-finansman-aryor--bloomberg-93CH-4077744",
+   "baslik": "Metis Reasoning onlarca milyon dolar finansman arıyor - Bloomberg",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/metis-reasoning-onlarca-milyon-dolar-finansman-aryor--bloomberg-93CH-4077744",
+   "saat": "15:37",
+   "tarih_iso": "2026-09-24T15:37:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/rusya-merkez-bankasi-baskani-nabiullina-dijital-rublede-teknik-sorunlar-yasaniyor/4067746",
@@ -452,6 +510,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/three-reasons-to-stick-with-stocks-despite-rising-yields-according-to-barclays-9b8ea2c3?mod=mw_rss_topstories",
+   "baslik": "Three reasons to stick with stocks despite rising yields, according to Barclays",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/three-reasons-to-stick-with-stocks-despite-rising-yields-according-to-barclays-9b8ea2c3?mod=mw_rss_topstories",
+   "saat": "15:58",
+   "tarih_iso": "2026-09-24T15:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dollar-general-stock-rising-today-93CH-4915384",
+   "baslik": "Why is Dollar General stock rising today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-dollar-general-stock-rising-today-93CH-4915384",
+   "saat": "15:50",
+   "tarih_iso": "2026-09-24T15:50:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/these-stock-markets-are-most-exposed-to-a-strong-el-nino-event-93CH-4915379",
+   "baslik": "These stock markets are most exposed to a strong El Niño event",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/these-stock-markets-are-most-exposed-to-a-strong-el-nino-event-93CH-4915379",
+   "saat": "15:49",
+   "tarih_iso": "2026-09-24T15:49:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-delek-us-stock-down-today-93CH-4915375",
+   "baslik": "Why is Delek US stock down today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-delek-us-stock-down-today-93CH-4915375",
+   "saat": "15:48",
+   "tarih_iso": "2026-09-24T15:48:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dollar-general-stock-rises-amid-hsbc-upgrade-to-buy-93CH-4915374",
+   "baslik": "Dollar General stock rises amid HSBC upgrade to buy",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dollar-general-stock-rises-amid-hsbc-upgrade-to-buy-93CH-4915374",
+   "saat": "15:47",
+   "tarih_iso": "2026-09-24T15:47:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-077-4915363",
+   "baslik": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.77%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-077-4915363",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-24T15:45:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/record-breaking-diesel-prices-look-set-to-push-grocery-bills-even-higher-and-thanksgiving-is-getting-closer-178d3959?mod=mw_rss_topstories",
+   "baslik": "Record-breaking diesel prices are poised to hit grocery bills — and your Thanksgiving turkey",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/record-breaking-diesel-prices-look-set-to-push-grocery-bills-even-higher-and-thanksgiving-is-getting-closer-178d3959?mod=mw_rss_topstories",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-24T15:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html",
    "baslik": "Darden Restaurants stock falls as Olive Garden reports slower growth",
@@ -1635,5 +1763,5 @@
    "eklenme": "2026-09-24T09:01:05.593725+03:00"
   }
  ],
- "guncelleme": "2026-09-24T15:30:55.770369+03:00"
+ "guncelleme": "2026-09-24T16:01:06.987259+03:00"
 }
