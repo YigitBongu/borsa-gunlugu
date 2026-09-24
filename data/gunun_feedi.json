@@ -538,6 +538,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/softbank-group-openai-yatrm-icin-111-milyar-dolar-tahvil-ckard-93CH-4076837",
+   "baslik": "SoftBank Group, OpenAI yatırımı için 11,1 milyar dolar tahvil çıkardı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/softbank-group-openai-yatrm-icin-111-milyar-dolar-tahvil-ckard-93CH-4076837",
+   "saat": "04:44",
+   "tarih_iso": "2026-09-24T04:44:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T05:30:53.445661+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/kuresel-borc-2026nn-ilk-yarsnda-10-trilyon-dolar-artt-93CH-4076713",
    "baslik": "Küresel borç 2026’nın ilk yarısında 10 trilyon dolar arttı",
    "kaynak": "Investing TR",
@@ -859,6 +869,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
+   "baslik": "Oil falls on report Asia will import highest volume of crude since start of Iran war",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
+   "saat": "05:12",
+   "tarih_iso": "2026-09-24T05:12:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T05:30:53.445661+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-softbank-stock-surging-today-93CH-4914341",
+   "baslik": "Why is SoftBank stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-stock-surging-today-93CH-4914341",
+   "saat": "04:44",
+   "tarih_iso": "2026-09-24T04:44:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T05:30:53.445661+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/softbank-group-issues-111-billion-in-bonds-for-openai-investment-93CH-4914339",
+   "baslik": "SoftBank Group issues $11.1 billion in bonds for OpenAI investment",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/softbank-group-issues-111-billion-in-bonds-for-openai-investment-93CH-4914339",
+   "saat": "04:44",
+   "tarih_iso": "2026-09-24T04:44:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T05:30:53.445661+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/24/japan-jgb-bond-yield-treasurys.html",
+   "baslik": "Japan's 10-year bond yield hits 30-year high following sell-off in Treasurys",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/24/japan-jgb-bond-yield-treasurys.html",
+   "saat": "04:38",
+   "tarih_iso": "2026-09-24T04:38:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T05:30:53.445661+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-dip-after-high-yields-batter-tech-trumpxi-summit-begins-4914303",
    "baslik": "U.S. stock futures dip after high yields batter tech; Trump-Xi summit begins",
@@ -2018,46 +2068,6 @@
    "tarih_iso": "2026-09-23T18:18:27+03:00",
    "kodlar": [],
    "eklenme": "2026-09-23T18:31:02.322072+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/euro-zone-bonds-fall-as-business-activity-data-exceeds-forecasts-93CH-4913495",
-   "baslik": "Euro zone bonds fall as business activity data exceeds forecasts",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/euro-zone-bonds-fall-as-business-activity-data-exceeds-forecasts-93CH-4913495",
-   "saat": "18:17",
-   "tarih_iso": "2026-09-23T18:17:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T18:31:02.322072+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/real-estate/articles/home-depot-hd-positioned-benefit-151515088.html",
-   "baslik": "Home Depot (HD) is Positioned to benefit from Housing Market Recovery",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/real-estate/articles/home-depot-hd-positioned-benefit-151515088.html",
-   "saat": "18:15",
-   "tarih_iso": "2026-09-23T18:15:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T18:31:02.322072+03:00"
-  },
-  {
-   "id": "yab-https://finance.yahoo.com/markets/crypto/articles/nyse-teams-blockchain-com-offer-151400975.html",
-   "baslik": "NYSE Teams Up With Blockchain.com to Offer Tokenized Stocks",
-   "kaynak": "Yahoo Finance",
-   "link": "https://finance.yahoo.com/markets/crypto/articles/nyse-teams-blockchain-com-offer-151400975.html",
-   "saat": "18:14",
-   "tarih_iso": "2026-09-23T18:14:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T18:31:02.322072+03:00"
-  },
-  {
-   "id": "yab-https://www.investors.com/research/ibd-stock-of-the-day/palantir-stock-buy-signal-earnings-ai-momentum/?src=A00220&yptr=yahoo",
-   "baslik": "Palantir, IBD Stock Of The Day, Flashes Buy Signal Amid Earnings, AI Momentum",
-   "kaynak": "Yahoo Finance",
-   "link": "https://www.investors.com/research/ibd-stock-of-the-day/palantir-stock-buy-signal-earnings-ai-momentum/?src=A00220&yptr=yahoo",
-   "saat": "18:13",
-   "tarih_iso": "2026-09-23T18:13:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-23T18:31:02.322072+03:00"
   }
  ],
  "altin_haber": [
@@ -2332,5 +2342,5 @@
    "eklenme": "2026-09-23T09:01:05.445906+03:00"
   }
  ],
- "guncelleme": "2026-09-24T05:00:56.276636+03:00"
+ "guncelleme": "2026-09-24T05:30:53.445661+03:00"
 }
