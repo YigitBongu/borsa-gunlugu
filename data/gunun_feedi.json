@@ -2,6 +2,19 @@
  "tarih": "2026-09-24",
  "kap": [
   {
+   "id": "kap-my-SMRTG-202609241339",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:39",
+   "tarih_iso": "2026-09-24T13:39:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T14:00:00.107087+03:00"
+  },
+  {
    "id": "kap-my-QUAGR-202609241229",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -131,6 +144,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/bitcoinde-yukselis-sonrasi-satis-baskisi-gozler-fed-ve-tahvil-faizlerinde-3470795",
+   "baslik": "Bitcoin'de yükseliş sonrası satış baskısı: Gözler Fed ve tahvil faizlerinde",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/bitcoinde-yukselis-sonrasi-satis-baskisi-gozler-fed-ve-tahvil-faizlerinde-3470795",
+   "saat": "16:44",
+   "tarih_iso": "2026-09-24T16:44:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:00:00.107087+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/sp-500-tarihi-fed-faiz-artrmlarnda-guclu-kazanclar-gosteriyor-4077419",
+   "baslik": "S&P 500 tarihi, Fed faiz artış döngülerinde güçlü kazanımlar gösteriyor: BCA",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/sp-500-tarihi-fed-faiz-artrmlarnda-guclu-kazanclar-gosteriyor-4077419",
+   "saat": "13:30",
+   "tarih_iso": "2026-09-24T13:30:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:00:00.107087+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligindan-1-5-milyar-dolarlik-esg-tahvili-ihraci/4067551",
    "baslik": "Hazine ve Maliye Bakanlığından 1,5 milyar dolarlık ESG tahvili ihracı",
@@ -333,6 +366,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-stitch-fix-stock-plunging-today-93CH-4914982",
+   "baslik": "Why is Stitch Fix stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-stitch-fix-stock-plunging-today-93CH-4914982",
+   "saat": "13:49",
+   "tarih_iso": "2026-09-24T13:49:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:00:00.107087+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-outlook-can-the-market-withstand-higher-yields-93CH-4914938",
+   "baslik": "European stocks outlook: Can the market withstand higher yields?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-outlook-can-the-market-withstand-higher-yields-93CH-4914938",
+   "saat": "13:35",
+   "tarih_iso": "2026-09-24T13:35:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:00:00.107087+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mizuho-stays-cautious-on-self-storage-stocks-amid-ai-demand-concerns-93CH-4914933",
+   "baslik": "Mizuho stays cautious on Self Storage stocks amid AI, demand concerns",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mizuho-stays-cautious-on-self-storage-stocks-amid-ai-demand-concerns-93CH-4914933",
+   "saat": "13:32",
+   "tarih_iso": "2026-09-24T13:32:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:00:00.107087+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-history-shows-strong-gains-across-fed-hiking-cycles-bca-4914922",
+   "baslik": "S&P 500 history shows strong gains across Fed hiking cycles: BCA",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-history-shows-strong-gains-across-fed-hiking-cycles-bca-4914922",
+   "saat": "13:30",
+   "tarih_iso": "2026-09-24T13:30:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:00:00.107087+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-164-4914917",
+   "baslik": "India stocks lower at close of trade; Nifty 50 down 1.64%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-164-4914917",
+   "saat": "13:30",
+   "tarih_iso": "2026-09-24T13:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T14:00:00.107087+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/bmw-stock-hits-a-fresh-6year-low-ahead-of-next-weeks-cmd-4914891",
    "baslik": "BMW stock hits a fresh 6-year low ahead of next week’s CMD",
@@ -1216,5 +1299,5 @@
    "eklenme": "2026-09-24T09:01:05.593725+03:00"
   }
  ],
- "guncelleme": "2026-09-24T13:31:42.734182+03:00"
+ "guncelleme": "2026-09-24T14:00:00.107087+03:00"
 }
