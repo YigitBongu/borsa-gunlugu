@@ -2,6 +2,32 @@
  "tarih": "2026-09-24",
  "kap": [
   {
+   "id": "kap-my-QUAGR-202609241229",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "QUAGR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:29",
+   "tarih_iso": "2026-09-24T12:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
+  {
+   "id": "kap-my-AKSEN-202609241218",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "AKSEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:18",
+   "tarih_iso": "2026-09-24T12:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
+  {
    "id": "kap-my-SMRTG-202609241127",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -105,6 +131,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligindan-1-5-milyar-dolarlik-esg-tahvili-ihraci/4067551",
+   "baslik": "Hazine ve Maliye Bakanlığından 1,5 milyar dolarlık ESG tahvili ihracı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligindan-1-5-milyar-dolarlik-esg-tahvili-ihraci/4067551",
+   "saat": "12:38",
+   "tarih_iso": "2026-09-24T12:38:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hazine-15-milyar-dolarlik-esg-tahvil-ihracini-tamamladi-haberi-841282",
+   "baslik": "Hazine 1,5 milyar dolarlık ESG tahvil ihracını tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazine-15-milyar-dolarlik-esg-tahvil-ihracini-tamamladi-haberi-841282",
+   "saat": "12:36",
+   "tarih_iso": "2026-09-24T12:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/ecbden-schnabel-iran-savas-enerji-soku-suruyor-ve-genisliyor-93CH-4077234",
+   "baslik": "ECB’den Schnabel: İran savaşı enerji şoku sürüyor ve genişliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/ecbden-schnabel-iran-savas-enerji-soku-suruyor-ve-genisliyor-93CH-4077234",
+   "saat": "12:30",
+   "tarih_iso": "2026-09-24T12:30:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/amazon-hindistanda-hzl-ticarete-3-milyar-dolar-yatracak-93CH-4077208",
    "baslik": "Amazon Hindistan’da hızlı ticarete 3 milyar dolar yatıracak",
@@ -277,6 +333,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/boes-lombardelli-flags-rising-odds-of-hike-as-oil-stays-elevated-93CH-4914747",
+   "baslik": "BOE’s Lombardelli flags rising odds of hike as oil stays elevated",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/boes-lombardelli-flags-rising-odds-of-hike-as-oil-stays-elevated-93CH-4914747",
+   "saat": "12:45",
+   "tarih_iso": "2026-09-24T12:45:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+   "baslik": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
+   "kaynak": "CNBC Finans",
+   "link": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
+   "saat": "12:40",
+   "tarih_iso": "2026-09-24T12:40:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-everpure-stock-surging-today-93CH-4914731",
+   "baslik": "Why is Everpure stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-everpure-stock-surging-today-93CH-4914731",
+   "saat": "12:37",
+   "tarih_iso": "2026-09-24T12:37:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/4-lowbeta-value-stocks-for-rate-and-geopolitical-uncertainty-93CH-4914730",
+   "baslik": "4 low-beta value stocks for rate and geopolitical uncertainty",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/4-lowbeta-value-stocks-for-rate-and-geopolitical-uncertainty-93CH-4914730",
+   "saat": "12:36",
+   "tarih_iso": "2026-09-24T12:36:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-energa-stock-surging-today-93CH-4914729",
+   "baslik": "Why is Energa stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-energa-stock-surging-today-93CH-4914729",
+   "saat": "12:36",
+   "tarih_iso": "2026-09-24T12:36:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-dip-after-high-yields-batter-tech-trumpxi-summit-begins-4914303",
+   "baslik": "U.S. stock futures extend declines amid bond market selloff, Trump-Xi summit",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-dip-after-high-yields-batter-tech-trumpxi-summit-begins-4914303",
+   "saat": "12:31",
+   "tarih_iso": "2026-09-24T12:31:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ecbs-schnabel-says-energy-shock-from-iran-war-is-lasting-widening-93CH-4914712",
+   "baslik": "ECB’s Schnabel says energy shock from Iran war is lasting, widening",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ecbs-schnabel-says-energy-shock-from-iran-war-is-lasting-widening-93CH-4914712",
+   "saat": "12:29",
+   "tarih_iso": "2026-09-24T12:29:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-shelly-stock-surging-today-93CH-4914686",
    "baslik": "Why is Shelly stock surging today?",
@@ -890,6 +1016,16 @@
    "eklenme": "2026-09-24T11:30:58.806430+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-rising-oil-increasing-yields-highlight-risks-on-ongoing-peace-negotiations-200688285",
+   "baslik": "Gold: Rising Oil, Increasing Yields Highlight Risks on Ongoing Peace Negotiations",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-rising-oil-increasing-yields-highlight-risks-on-ongoing-peace-negotiations-200688285",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-24T13:01:06.636204+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-bulls-need-4242-to-hold--or-the-summer-rally-starts-to-look-vulnerable-200688280",
    "baslik": "Gold Bulls Need $4,242 to Hold — or the Summer Rally Starts to Look Vulnerable",
    "kaynak": "Investing Emtia",
@@ -1020,5 +1156,5 @@
    "eklenme": "2026-09-24T09:01:05.593725+03:00"
   }
  ],
- "guncelleme": "2026-09-24T12:32:06.515625+03:00"
+ "guncelleme": "2026-09-24T13:01:06.636204+03:00"
 }
