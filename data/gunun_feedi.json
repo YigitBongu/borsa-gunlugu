@@ -2,6 +2,19 @@
  "tarih": "2026-09-24",
  "kap": [
   {
+   "id": "kap-my-SMRTG-202609241127",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:27",
+   "tarih_iso": "2026-09-24T11:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T12:01:08.421363+03:00"
+  },
+  {
    "id": "kap-my-PETKM-202609241039",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -43,6 +56,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekomdan-silikon-vadisinde-stratejik-is-birligi-haberi-841273",
+   "baslik": "Türk Telekom’dan Silikon Vadisi’nde stratejik iş birliği",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekomdan-silikon-vadisinde-stratejik-is-birligi-haberi-841273",
+   "saat": "11:36",
+   "tarih_iso": "2026-09-24T11:36:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-09-24T12:01:08.421363+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/son-dakika-sanliurfada-korkutan-deprem-haberi-841265",
    "baslik": "Son dakika: Şanlıurfa'da korkutan deprem!",
    "kaynak": "Dünya",
@@ -81,6 +106,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/christian-dior-hisseleri-arnault-ailesinin-46905-euro-teklifinde-yuzde-16-yukseldi-4077113",
+   "baslik": "Christian Dior hisseleri Arnault ailesinin 469,05 euro teklifinde yüzde 16 yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/christian-dior-hisseleri-arnault-ailesinin-46905-euro-teklifinde-yuzde-16-yukseldi-4077113",
+   "saat": "11:38",
+   "tarih_iso": "2026-09-24T11:38:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T12:01:08.421363+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/norvec-merkez-bankas-faiz-orann-450ye-yukseltti-93CH-4077075",
    "baslik": "Norveç merkez bankası faiz oranını %4,50’ye yükseltti",
    "kaynak": "Investing TR",
@@ -99,6 +134,16 @@
    "tarih_iso": "2026-09-24T11:09:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-24T11:30:58.806430+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/cop31in-elektrifikasyon-hedefi-kuresel-enerji-ithalat-faturasini-yillik-500-milyar-dolar-azaltabilir/4067371",
+   "baslik": "COP31'in elektrifikasyon hedefi küresel enerji ithalat faturasını yıllık 500 milyar dolar azaltabilir",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31in-elektrifikasyon-hedefi-kuresel-enerji-ithalat-faturasini-yillik-500-milyar-dolar-azaltabilir/4067371",
+   "saat": "11:03",
+   "tarih_iso": "2026-09-24T11:03:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T12:01:08.421363+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/isvicre-merkez-bankas-faiz-orann-0da-tuttu-93CH-4077030",
@@ -222,6 +267,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories",
+   "baslik": "The market is pricing in too many Fed hikes, says the former Dallas Fed chief",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-market-is-pricing-in-too-many-fed-hikes-says-the-former-dallas-fed-chief-5de8cc3c?mod=mw_rss_topstories",
+   "saat": "11:42",
+   "tarih_iso": "2026-09-24T11:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T12:01:08.421363+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bmw-stock-is-its-cheap-valuation-enough-for-a-buy-ahead-of-next-weeks-cmd-93CH-4914599",
+   "baslik": "BMW stock: Is its cheap valuation enough for a buy ahead of next week’s CMD?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bmw-stock-is-its-cheap-valuation-enough-for-a-buy-ahead-of-next-weeks-cmd-93CH-4914599",
+   "saat": "11:34",
+   "tarih_iso": "2026-09-24T11:34:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T12:01:08.421363+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-121-4914593",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 1.21%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-121-4914593",
+   "saat": "11:30",
+   "tarih_iso": "2026-09-24T11:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T12:01:08.421363+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vistry-stock-tumbling-today-93CH-4914589",
+   "baslik": "Why is Vistry stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-vistry-stock-tumbling-today-93CH-4914589",
+   "saat": "11:28",
+   "tarih_iso": "2026-09-24T11:28:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T12:01:08.421363+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-sliding-today-93CH-4914588",
+   "baslik": "Why is Stellantis stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-sliding-today-93CH-4914588",
+   "saat": "11:26",
+   "tarih_iso": "2026-09-24T11:26:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T12:01:08.421363+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-christian-dior-stock-surging-today-93CH-4914587",
    "baslik": "Why is Christian Dior stock surging today?",
@@ -845,5 +940,5 @@
    "eklenme": "2026-09-24T09:01:05.593725+03:00"
   }
  ],
- "guncelleme": "2026-09-24T11:30:58.806430+03:00"
+ "guncelleme": "2026-09-24T12:01:08.421363+03:00"
 }
