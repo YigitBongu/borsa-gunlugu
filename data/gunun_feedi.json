@@ -1,6 +1,33 @@
 {
  "tarih": "2026-09-24",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-GSDHO-202609240932",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:32",
+   "tarih_iso": "2026-09-24T09:32:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T10:01:15.782022+03:00"
+  },
+  {
+   "id": "kap-my-PETKM-202609240920",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "PETKM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:20",
+   "tarih_iso": "2026-09-24T09:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T10:01:15.782022+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-150-adede-kadar-boeing-737-max-ucagi-icin-siparis-anlasmasini-kesinlestirdi/4066651",
@@ -16,6 +43,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/mercedes-almanyada-800-milyon-euro-iscilik-maliyeti-tasarrufu-hedefliyor-93CH-4076945",
+   "baslik": "Mercedes Almanya’da 800 milyon euro işçilik maliyeti tasarrufu hedefliyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/mercedes-almanyada-800-milyon-euro-iscilik-maliyeti-tasarrufu-hedefliyor-93CH-4076945",
+   "saat": "09:45",
+   "tarih_iso": "2026-09-24T09:45:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:01:15.782022+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/petrol-100-dolari-asti-piyasalar-baski-altinda-3914703",
+   "baslik": "Küresel piyasalarda petrol ve faiz baskısı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/petrol-100-dolari-asti-piyasalar-baski-altinda-3914703",
+   "saat": "09:34",
+   "tarih_iso": "2026-09-24T09:34:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:01:15.782022+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/hazine-arazilerinde-kural-degisti-ilan-sarti-kalkiyor-haberi-841248",
    "baslik": "Hazine arazilerinde kural değişti: İlan şartı kalkıyor",
@@ -89,6 +136,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-072-4914484",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.72%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-072-4914484",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-24T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:01:15.782022+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mitchells--butlers-sees-fy26-in-line-with-consensus-as-sales-return-to-growth-4914482",
+   "baslik": "Mitchells & Butlers sees FY26 in line with consensus as sales return to growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mitchells--butlers-sees-fy26-in-line-with-consensus-as-sales-return-to-growth-4914482",
+   "saat": "09:25",
+   "tarih_iso": "2026-09-24T09:25:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:01:15.782022+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/24/novo-nordisk-ceo-rebuild-investor-trust-strategy-backlash.html",
    "baslik": "Novo's new strategy hinges on something it can't manufacture: investor trust",
    "kaynak": "CNBC",
@@ -97,6 +164,16 @@
    "tarih_iso": "2026-09-24T09:20:12+03:00",
    "kodlar": [],
    "eklenme": "2026-09-24T09:30:54.120599+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/24/miami-luxury-housing-boom-bugatti-bubble.html",
+   "baslik": "Miami's ultra-luxury housing market booms as cash transactions dominate, high-end brands like Bugatti and Porsche jump in",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/24/miami-luxury-housing-boom-bugatti-bubble.html",
+   "saat": "09:19",
+   "tarih_iso": "2026-09-24T09:19:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:01:15.782022+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/hms-operating-profit-grows-more-than-expected-in-third-quarter-4914468",
@@ -441,6 +518,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-silver-slammed-as-hawkish-fed-repricing-reignites-us-dollar-upside-200688266",
+   "baslik": "Gold, Silver Slammed as Hawkish Fed Repricing Reignites US Dollar Upside",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-silver-slammed-as-hawkish-fed-repricing-reignites-us-dollar-upside-200688266",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:01:15.782022+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-selloff-shows-why-5-treasury-yields-are-the-bigger-threat-200688251",
    "baslik": "Gold Selloff Shows Why 5% Treasury Yields Are the Bigger Threat",
    "kaynak": "Investing Emtia",
@@ -531,5 +618,5 @@
    "eklenme": "2026-09-24T09:01:05.593725+03:00"
   }
  ],
- "guncelleme": "2026-09-24T09:30:54.120599+03:00"
+ "guncelleme": "2026-09-24T10:01:15.782022+03:00"
 }
