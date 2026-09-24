@@ -30,6 +30,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/yahsihan-belediyesine-yolsuzluk-operasyonu-eski-baskanlar-hakkinda-gozalti-karari-haberi-841261",
+   "baslik": "Yahşihan Belediyesi'ne yolsuzluk operasyonu: Eski başkanlar hakkında gözaltı kararı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/yahsihan-belediyesine-yolsuzluk-operasyonu-eski-baskanlar-hakkinda-gozalti-karari-haberi-841261",
+   "saat": "10:18",
+   "tarih_iso": "2026-09-24T10:18:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-09-24T10:30:55.791108+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-150-adede-kadar-boeing-737-max-ucagi-icin-siparis-anlasmasini-kesinlestirdi/4066651",
    "baslik": "THY, 150 adede kadar Boeing 737 MAX uçağı için sipariş anlaşmasını kesinleştirdi",
    "kaynak": "AA Ekonomi",
@@ -43,6 +55,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbul-gune-dususle-basladi-bist-100de-kayip-yuzde-060-haberi-841256",
+   "baslik": "Borsa İstanbul güne düşüşle başladı: BIST 100’de kayıp yüzde 0,60",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/borsa-istanbul-gune-dususle-basladi-bist-100de-kayip-yuzde-060-haberi-841256",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-24T10:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:30:55.791108+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-degil-petrol-belirliyor-tahvil-piyasasinda-dikkat-ceken-hesap-haberi-841257",
+   "baslik": "Fed değil petrol belirliyor: Tahvil piyasasında dikkat çeken hesap",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-degil-petrol-belirliyor-tahvil-piyasasinda-dikkat-ceken-hesap-haberi-841257",
+   "saat": "09:58",
+   "tarih_iso": "2026-09-24T09:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:30:55.791108+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/mercedes-almanyada-800-milyon-euro-iscilik-maliyeti-tasarrufu-hedefliyor-93CH-4076945",
    "baslik": "Mercedes Almanya’da 800 milyon euro işçilik maliyeti tasarrufu hedefliyor",
@@ -135,6 +167,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hm-stock-sliding-today-93CH-4914530",
+   "baslik": "Why is H&M stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hm-stock-sliding-today-93CH-4914530",
+   "saat": "10:17",
+   "tarih_iso": "2026-09-24T10:17:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:30:55.791108+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-raspberry-pi-stock-surging-today-93CH-4914528",
+   "baslik": "Why is Raspberry Pi stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-raspberry-pi-stock-surging-today-93CH-4914528",
+   "saat": "10:16",
+   "tarih_iso": "2026-09-24T10:16:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:30:55.791108+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+   "baslik": "Treasury yields continue to rise after 10-year hit 19-year high as investors ramp-up rate hike bets",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+   "saat": "10:16",
+   "tarih_iso": "2026-09-24T10:16:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:30:55.791108+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-088-4914514",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 0.88%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-088-4914514",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-24T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:30:55.791108+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-072-4914484",
    "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.72%",
@@ -518,6 +590,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-market-daily-the-king-us-dollar-swings-the-wrecking-ball-200688274",
+   "baslik": "Gold Market Daily: The King US Dollar Swings the Wrecking Ball",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-market-daily-the-king-us-dollar-swings-the-wrecking-ball-200688274",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-24T10:30:55.791108+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-silver-slammed-as-hawkish-fed-repricing-reignites-us-dollar-upside-200688266",
    "baslik": "Gold, Silver Slammed as Hawkish Fed Repricing Reignites US Dollar Upside",
    "kaynak": "Investing Emtia",
@@ -618,5 +700,5 @@
    "eklenme": "2026-09-24T09:01:05.593725+03:00"
   }
  ],
- "guncelleme": "2026-09-24T10:01:15.782022+03:00"
+ "guncelleme": "2026-09-24T10:30:55.791108+03:00"
 }
