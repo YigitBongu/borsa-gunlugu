@@ -2,6 +2,19 @@
  "tarih": "2026-09-24",
  "kap": [
   {
+   "id": "kap-my-ZOREN-202609241548",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ZOREN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:48",
+   "tarih_iso": "2026-09-24T15:48:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T16:30:54.454275+03:00"
+  },
+  {
    "id": "kap-my-SDTTR-202609241542",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -217,6 +230,16 @@
    "tarih_iso": "2026-09-24T16:44:50+03:00",
    "kodlar": [],
    "eklenme": "2026-09-24T14:01:23.501999+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/amazon-indianada-yeni-robotik-tesise-100-milyon-dolar-harcayacak-93CH-4077854",
+   "baslik": "Amazon Indiana’da yeni robotik tesise 100 milyon dolar harcayacak",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/amazon-indianada-yeni-robotik-tesise-100-milyon-dolar-harcayacak-93CH-4077854",
+   "saat": "16:09",
+   "tarih_iso": "2026-09-24T16:09:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:30:54.454275+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/precision-neuroscience-pershing-square-onderliginde-250-milyon-dolar-toplad-93CH-4077753",
@@ -511,6 +534,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/24/our-top-10-things-to-watch-in-the-stock-market-thursday.html",
+   "baslik": "Our top 10 things to watch in the stock market Thursday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/24/our-top-10-things-to-watch-in-the-stock-market-thursday.html",
+   "saat": "16:24",
+   "tarih_iso": "2026-09-24T16:24:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:30:54.454275+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/transunion-stock-falls-after-cfo-announces-departure-4915443",
+   "baslik": "TransUnion stock falls after CFO announces departure",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/transunion-stock-falls-after-cfo-announces-departure-4915443",
+   "saat": "16:06",
+   "tarih_iso": "2026-09-24T16:06:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:30:54.454275+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+   "baslik": "Oracle’s stock is falling as investors fear a data-center setback",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/oracles-stock-is-falling-as-investors-fear-a-data-center-setback-d8105ef9?mod=mw_rss_topstories",
+   "saat": "16:02",
+   "tarih_iso": "2026-09-24T16:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:30:54.454275+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/three-reasons-to-stick-with-stocks-despite-rising-yields-according-to-barclays-9b8ea2c3?mod=mw_rss_topstories",
    "baslik": "Three reasons to stick with stocks despite rising yields, according to Barclays",
    "kaynak": "MarketWatch",
@@ -579,6 +632,16 @@
    "tarih_iso": "2026-09-24T15:45:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-24T16:01:06.987259+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/24/citi-family-offices-inflation-investing.html",
+   "baslik": "Family offices double down on stocks and private equity even as inflation spurs worry, Citi survey finds",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/24/citi-family-offices-inflation-investing.html",
+   "saat": "15:30",
+   "tarih_iso": "2026-09-24T15:30:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:30:54.454275+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/09/24/darden-restaurants-dri-q1-2027-earnings.html",
@@ -1583,6 +1646,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-at-the-neckline-as-yields-hit-2007-highs-200688314",
+   "baslik": "Gold at the Neckline as Yields Hit 2007 Highs",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-at-the-neckline-as-yields-hit-2007-highs-200688314",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-24T16:30:54.454275+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-dusus-egilimini-surduruyor-satis-baskisi-guclendi-galeri-841304",
    "baslik": "Altın düşüş eğilimini sürdürüyor: Satış baskısı güçlendi",
    "kaynak": "Dünya",
@@ -1763,5 +1836,5 @@
    "eklenme": "2026-09-24T09:01:05.593725+03:00"
   }
  ],
- "guncelleme": "2026-09-24T16:01:06.987259+03:00"
+ "guncelleme": "2026-09-24T16:30:54.454275+03:00"
 }
