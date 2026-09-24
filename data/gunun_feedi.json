@@ -2,6 +2,19 @@
  "tarih": "2026-09-24",
  "kap": [
   {
+   "id": "kap-my-AKSEN-202609241433",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "AKSEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:33",
+   "tarih_iso": "2026-09-24T14:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
+  {
    "id": "kap-my-EUPWR-202609241412",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -166,6 +179,46 @@
    "tarih_iso": "2026-09-24T16:44:50+03:00",
    "kodlar": [],
    "eklenme": "2026-09-24T14:01:23.501999+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/rusya-merkez-bankasi-baskani-nabiullina-dijital-rublede-teknik-sorunlar-yasaniyor/4067746",
+   "baslik": "Rusya Merkez Bankası Başkanı Nabiullina: Dijital rublede teknik sorunlar yaşanıyor",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/rusya-merkez-bankasi-baskani-nabiullina-dijital-rublede-teknik-sorunlar-yasaniyor/4067746",
+   "saat": "14:49",
+   "tarih_iso": "2026-09-24T14:49:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-174-4-milyar-dolar-oldu/4067744",
+   "baslik": "Merkez Bankası rezervleri 174,4 milyar dolar oldu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-174-4-milyar-dolar-oldu/4067744",
+   "saat": "14:48",
+   "tarih_iso": "2026-09-24T14:48:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-acikladi-rezervler-geriledi-haberi-841303",
+   "baslik": "Merkez Bankası açıkladı: Rezervler geriledi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/merkez-bankasi-acikladi-rezervler-geriledi-haberi-841303",
+   "saat": "14:46",
+   "tarih_iso": "2026-09-24T14:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/fed-e-iliskin-sahin-beklentiler-dolar-endeksini-yaklasik-2-ayin-zirvesine-tasidi-3914804",
+   "baslik": "Dolar endeksi yaklaşık 2 ayın zirvesinde",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/fed-e-iliskin-sahin-beklentiler-dolar-endeksini-yaklasik-2-ayin-zirvesine-tasidi-3914804",
+   "saat": "14:25",
+   "tarih_iso": "2026-09-24T14:25:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/fed-beklentisi-dolari-guclendirdi-dolar-endeksi-2-ayin-zirvesinde-galeri-841296",
@@ -399,6 +452,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-atresmedia-stock-surging-today-93CH-4915195",
+   "baslik": "Why is Atresmedia stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-atresmedia-stock-surging-today-93CH-4915195",
+   "saat": "14:51",
+   "tarih_iso": "2026-09-24T14:51:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/fervo-energy-stock-rises-after-cape-station-achieves-first-power-93CH-4915187",
+   "baslik": "Fervo Energy stock rises after Cape Station achieves first power",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/fervo-energy-stock-rises-after-cape-station-achieves-first-power-93CH-4915187",
+   "saat": "14:49",
+   "tarih_iso": "2026-09-24T14:49:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-dropbox-stock-sliding-today-93CH-4915185",
+   "baslik": "Why is Dropbox stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-dropbox-stock-sliding-today-93CH-4915185",
+   "saat": "14:48",
+   "tarih_iso": "2026-09-24T14:48:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-uxin-stock-surging-today-93CH-4915173",
+   "baslik": "Why is Uxin stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-uxin-stock-surging-today-93CH-4915173",
+   "saat": "14:46",
+   "tarih_iso": "2026-09-24T14:46:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-street-sees-muse-as-metas-next-big-catalyst-after-connect-event-4915180",
+   "baslik": "Wall Street sees Muse as Meta’s next big catalyst after Connect event",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-street-sees-muse-as-metas-next-big-catalyst-after-connect-event-4915180",
+   "saat": "14:46",
+   "tarih_iso": "2026-09-24T14:46:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/qualcomm-secures-longterm-apple-patent-deal-easing-revenue-fears-4915175",
+   "baslik": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/qualcomm-secures-longterm-apple-patent-deal-easing-revenue-fears-4915175",
+   "saat": "14:45",
+   "tarih_iso": "2026-09-24T14:45:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fervo-energy-stock-surging-today-93CH-4915171",
+   "baslik": "Why is Fervo Energy stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-fervo-energy-stock-surging-today-93CH-4915171",
+   "saat": "14:39",
+   "tarih_iso": "2026-09-24T14:39:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jpmorgan-prefers-these-european-chemicals-stocks-as-china-pressure-grows-4915167",
+   "baslik": "JPMorgan prefers these European chemicals stocks as China pressure grows",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jpmorgan-prefers-these-european-chemicals-stocks-as-china-pressure-grows-4915167",
+   "saat": "14:38",
+   "tarih_iso": "2026-09-24T14:38:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-24T15:01:06.187378+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
    "baslik": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
@@ -1432,5 +1565,5 @@
    "eklenme": "2026-09-24T09:01:05.593725+03:00"
   }
  ],
- "guncelleme": "2026-09-24T14:30:54.360799+03:00"
+ "guncelleme": "2026-09-24T15:01:06.187378+03:00"
 }
