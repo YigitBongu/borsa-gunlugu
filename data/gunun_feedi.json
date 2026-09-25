@@ -2,6 +2,19 @@
  "tarih": "2026-09-25",
  "kap": [
   {
+   "id": "kap-my-GSDHO-202609250909",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:09",
+   "tarih_iso": "2026-09-25T09:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T10:01:04.600138+03:00"
+  },
+  {
    "id": "kap-my-EGEEN-202609250653",
    "baslik": "EGE ENDÜSTRİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
@@ -43,6 +56,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/doviz-hesaplarina-3-milyar-dolar-eklendi-asil-hareket-sirketlerden-geldi-haberi-841399",
+   "baslik": "Döviz hesaplarına 3 milyar dolar eklendi: Asıl hareket şirketlerden geldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/doviz-hesaplarina-3-milyar-dolar-eklendi-asil-hareket-sirketlerden-geldi-haberi-841399",
+   "saat": "09:35",
+   "tarih_iso": "2026-09-25T09:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T10:01:04.600138+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sektorler/tutun-ihracati-11-milyar-dolari-asti-hedef-15-milyar-dolar-haberi-841400",
+   "baslik": "Tütün ihracatı 1,1 milyar doları aştı: Hedef 1,5 milyar dolar",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sektorler/tutun-ihracati-11-milyar-dolari-asti-hedef-15-milyar-dolar-haberi-841400",
+   "saat": "09:34",
+   "tarih_iso": "2026-09-25T09:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T10:01:04.600138+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/haberler/10-bin-euroda-makas-47-bin-tlyi-asti-banka-ekranlarinda-buyuk-fark-haberi-841395",
    "baslik": "10 bin Euro’da makas 47 bin TL’yi aştı: Banka ekranlarında büyük fark",
@@ -125,6 +158,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-043-4916689",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.43%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-043-4916689",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-25T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T10:01:04.600138+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/is-a-1553-postearnings-run-the-start-or-end-for-this-restaurant-pick-4916664",
    "baslik": "Is a 15.53% post-earnings run the start or end for this restaurant pick?",
@@ -508,5 +551,5 @@
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
- "guncelleme": "2026-09-25T09:30:53.228201+03:00"
+ "guncelleme": "2026-09-25T10:01:04.600138+03:00"
 }
