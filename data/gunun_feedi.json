@@ -2,6 +2,19 @@
  "tarih": "2026-09-25",
  "kap": [
   {
+   "id": "kap-my-EGEEN-202609250653",
+   "baslik": "EGE ENDÜSTRİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "EGEEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "06:53",
+   "tarih_iso": "2026-09-25T06:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T09:30:53.228201+03:00"
+  },
+  {
    "id": "kap-my-BOBET-202609241926",
    "baslik": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
    "sirket": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.",
@@ -30,6 +43,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/10-bin-euroda-makas-47-bin-tlyi-asti-banka-ekranlarinda-buyuk-fark-haberi-841395",
+   "baslik": "10 bin Euro’da makas 47 bin TL’yi aştı: Banka ekranlarında büyük fark",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/10-bin-euroda-makas-47-bin-tlyi-asti-banka-ekranlarinda-buyuk-fark-haberi-841395",
+   "saat": "09:22",
+   "tarih_iso": "2026-09-25T09:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T09:30:53.228201+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fedden-piyasalari-tedirgin-eden-enflasyon-uyarisi-riskler-yukari-yonlu-haberi-841393",
+   "baslik": "Fed’den piyasaları tedirgin eden enflasyon uyarısı: Riskler yukarı yönlü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fedden-piyasalari-tedirgin-eden-enflasyon-uyarisi-riskler-yukari-yonlu-haberi-841393",
+   "saat": "09:08",
+   "tarih_iso": "2026-09-25T09:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T09:30:53.228201+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/japon-banka-hisseleri-getiri-arts-ve-faiz-artrm-beklentileriyle-yukseldi-4078573",
    "baslik": "Japon banka hisseleri getiri artışı ve faiz artırımı beklentileriyle yükseldi",
@@ -92,6 +125,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/is-a-1553-postearnings-run-the-start-or-end-for-this-restaurant-pick-4916664",
+   "baslik": "Is a 15.53% post-earnings run the start or end for this restaurant pick?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/is-a-1553-postearnings-run-the-start-or-end-for-this-restaurant-pick-4916664",
+   "saat": "09:15",
+   "tarih_iso": "2026-09-25T09:15:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T09:30:53.228201+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/hellofresh-cuts-2026-outlook-as-marketing-cuts-hit-customer-growth-4916657",
+   "baslik": "HelloFresh cuts 2026 outlook as marketing cuts hit customer growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/hellofresh-cuts-2026-outlook-as-marketing-cuts-hit-customer-growth-4916657",
+   "saat": "09:12",
+   "tarih_iso": "2026-09-25T09:12:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T09:30:53.228201+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-slip-as-bond-selloff-weighs-trumpxi-summit-offers-little-relief-4916561",
+   "baslik": "Asia stocks slip as bond selloff weighs; Trump-Xi summit offers little relief",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-slip-as-bond-selloff-weighs-trumpxi-summit-offers-little-relief-4916561",
+   "saat": "09:10",
+   "tarih_iso": "2026-09-25T09:10:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T09:30:53.228201+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1",
    "baslik": "Japanese government bond yields hit new high as global sell-off continues",
@@ -445,5 +508,5 @@
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
- "guncelleme": "2026-09-25T09:01:03.297926+03:00"
+ "guncelleme": "2026-09-25T09:30:53.228201+03:00"
 }
