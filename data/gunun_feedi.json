@@ -2,6 +2,19 @@
  "tarih": "2026-09-25",
  "kap": [
   {
+   "id": "kap-my-GLYHO-202609251627",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:27",
+   "tarih_iso": "2026-09-25T16:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T17:01:07.019038+03:00"
+  },
+  {
    "id": "kap-my-TCELL-202609251602",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -325,6 +338,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/altin-fiyatlarinda-fed-baskisi-haftalik-kayip-yuzde-2yi-asabilir-3471432",
+   "baslik": "Altın fiyatlarında Fed baskısı: Haftalık kayıp yüzde 2'yi aşabilir",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlarinda-fed-baskisi-haftalik-kayip-yuzde-2yi-asabilir-3471432",
+   "saat": "19:42",
+   "tarih_iso": "2026-09-25T19:42:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T17:01:07.019038+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/hiperoceklendirme-sirketleri-basa-bas-icin-300-milyar-dolar-gelir-istiyor-4079304",
    "baslik": "Hiperöçeklendirme şirketleri başa baş için 300 milyar dolar gelir istiyor",
    "kaynak": "Investing TR",
@@ -456,6 +479,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/midterms-in-the-us-find-out-which-stocks-can-withstand-any-outcome-4917670",
+   "baslik": "Midterms in the US: Find out which stocks can withstand any outcome",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/midterms-in-the-us-find-out-which-stocks-can-withstand-any-outcome-4917670",
+   "saat": "16:45",
+   "tarih_iso": "2026-09-25T16:45:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T17:01:07.019038+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
+   "baslik": "The options market is sending a contrarian signal about oil prices",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-options-market-is-sending-a-contrarian-signal-about-oil-prices-a8812210?mod=mw_rss_topstories",
+   "saat": "16:43",
+   "tarih_iso": "2026-09-25T16:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T17:01:07.019038+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-opens-steady-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-4917656",
+   "baslik": "Wall St opens steady as AI enthusiasm eases worries over higher oil prices, yields",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-steady-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields-4917656",
+   "saat": "16:36",
+   "tarih_iso": "2026-09-25T16:36:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T17:01:07.019038+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
    "baslik": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
@@ -1389,6 +1442,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlarinda-fed-baskisi-haftalik-kayip-yuzde-2yi-asabilir-3471432",
+   "baslik": "Altın fiyatlarında Fed baskısı: Haftalık kayıp yüzde 2'yi aşabilir",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlarinda-fed-baskisi-haftalik-kayip-yuzde-2yi-asabilir-3471432",
+   "saat": "19:42",
+   "tarih_iso": "2026-09-25T19:42:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T17:01:07.019038+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/yatirimci-ne-aliyor-rakamlar-ortaya-cikti-3471310",
    "baslik": "Yatırımcı ne alıyor? Rakamlar ortaya çıktı",
    "kaynak": "CNN Türk Ekonomi",
@@ -1519,5 +1582,5 @@
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
- "guncelleme": "2026-09-25T16:30:56.491668+03:00"
+ "guncelleme": "2026-09-25T17:01:07.019038+03:00"
 }
