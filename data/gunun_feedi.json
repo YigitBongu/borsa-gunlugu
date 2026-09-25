@@ -43,6 +43,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/petkim-petrokimya-tesisi-muhendisligi-icin-sozlesme-imzalad-93CH-4078652",
+   "baslik": "Petkim petrokimya tesisi mühendisliği için sözleşme imzaladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/petkim-petrokimya-tesisi-muhendisligi-icin-sozlesme-imzalad-93CH-4078652",
+   "saat": "09:54",
+   "tarih_iso": "2026-09-25T09:54:43+03:00",
+   "kodlar": [
+    "PETKM"
+   ],
+   "eklenme": "2026-09-25T10:30:56.647357+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/enerji/mavi-ufkun-3-milyar-dolarlik-gucu-haberi-841319",
    "baslik": "Mavi ufkun 3 milyar dolarlık gücü",
    "kaynak": "Dünya",
@@ -56,6 +68,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/dunya-bankasindan-tarimsal-gida-isletmelerine-750-milyon-dolar-destek/4068787",
+   "baslik": "Dünya Bankasından tarımsal gıda işletmelerine 750 milyon dolar destek",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasindan-tarimsal-gida-isletmelerine-750-milyon-dolar-destek/4068787",
+   "saat": "10:01",
+   "tarih_iso": "2026-09-25T10:01:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T10:30:56.647357+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/haberler/doviz-hesaplarina-3-milyar-dolar-eklendi-asil-hareket-sirketlerden-geldi-haberi-841399",
    "baslik": "Döviz hesaplarına 3 milyar dolar eklendi: Asıl hareket şirketlerden geldi",
@@ -158,6 +180,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nanexa-stock-surging-today-93CH-4916755",
+   "baslik": "Why is Nanexa stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nanexa-stock-surging-today-93CH-4916755",
+   "saat": "10:20",
+   "tarih_iso": "2026-09-25T10:20:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T10:30:56.647357+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-usiran-ceasefire-talks-offset-hormuz-supply-fear-4916741",
+   "baslik": "FTSE 100 today: Stocks rise as U.S.-Iran ceasefire talks offset Hormuz supply fear",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-usiran-ceasefire-talks-offset-hormuz-supply-fear-4916741",
+   "saat": "10:14",
+   "tarih_iso": "2026-09-25T10:14:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T10:30:56.647357+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/hsbc-shuffles-oil-stocks-ratings-upgrades-bp-and-totalenergies-to-buy-4916740",
+   "baslik": "HSBC shuffles oil stocks ratings, upgrades BP and TotalEnergies to Buy",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/hsbc-shuffles-oil-stocks-ratings-upgrades-bp-and-totalenergies-to-buy-4916740",
+   "saat": "10:12",
+   "tarih_iso": "2026-09-25T10:12:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T10:30:56.647357+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-equities-edge-higher-as-easing-crude-overshadow-yield-spikes-4916644",
+   "baslik": "European equities edge higher as easing crude overshadow yield spikes",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-equities-edge-higher-as-easing-crude-overshadow-yield-spikes-4916644",
+   "saat": "10:04",
+   "tarih_iso": "2026-09-25T10:04:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T10:30:56.647357+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-145-4916728",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 1.45%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-145-4916728",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-25T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T10:30:56.647357+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-043-4916689",
    "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.43%",
@@ -451,6 +523,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-approaches-key-technical-levels--breakdown-may-initiate-selling-pressure-200688382",
+   "baslik": "Gold Approaches Key Technical Levels - Breakdown May Initiate Selling Pressure",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-approaches-key-technical-levels--breakdown-may-initiate-selling-pressure-200688382",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-25T10:30:56.647357+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-outlook-4309-support-and-the-path-to-4365-200688367",
+   "baslik": "Gold Outlook: $4,309 Support and the Path to $4,365",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-outlook-4309-support-and-the-path-to-4365-200688367",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-25T10:30:56.647357+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-faces-a-realyield-shock-as-treasury-returns-surge-above-5-200688347",
    "baslik": "Gold Faces a Real-Yield Shock as Treasury Returns Surge Above 5%",
    "kaynak": "Investing Emtia",
@@ -551,5 +643,5 @@
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
- "guncelleme": "2026-09-25T10:01:04.600138+03:00"
+ "guncelleme": "2026-09-25T10:30:56.647357+03:00"
 }
