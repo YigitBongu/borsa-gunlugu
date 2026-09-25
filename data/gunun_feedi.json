@@ -2,6 +2,58 @@
  "tarih": "2026-09-25",
  "kap": [
   {
+   "id": "kap-my-SMRTG-202609251528",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:28",
+   "tarih_iso": "2026-09-25T15:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T16:01:15.230655+03:00"
+  },
+  {
+   "id": "kap-my-KMPUR-202609251524",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KMPUR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:24",
+   "tarih_iso": "2026-09-25T15:24:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T16:01:15.230655+03:00"
+  },
+  {
+   "id": "kap-my-AEFES-202609251514",
+   "baslik": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş. — İhraç Tavanına İlişkin Bildirim",
+   "sirket": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+   "kodlar": [
+    "AEFES"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:14",
+   "tarih_iso": "2026-09-25T15:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T16:01:15.230655+03:00"
+  },
+  {
+   "id": "kap-my-KMPUR-202609251511",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KMPUR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:11",
+   "tarih_iso": "2026-09-25T15:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T16:01:15.230655+03:00"
+  },
+  {
    "id": "kap-my-SASA-202609251456",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -146,6 +198,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/turk-firmasi-tunusta-havacilik-yatirimi-yapacak-3471389",
+   "baslik": "Türk Firması Tunus’ta havacılık yatırımı yapacak",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/turk-firmasi-tunusta-havacilik-yatirimi-yapacak-3471389",
+   "saat": "18:42",
+   "tarih_iso": "2026-09-25T18:42:31+03:00",
+   "kodlar": [
+    "AKSA"
+   ],
+   "eklenme": "2026-09-25T16:01:15.230655+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/aksa-kompozit-tunusta-havacilik-tesisi-kuruyor-3915030",
    "baslik": "Tunus’ta 5 milyon dolarlık havacılık yatırımı",
@@ -340,6 +404,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/these-two-market-gauges-may-signal-a-big-risk-off-event-for-the-market-says-bofa-0432250a?mod=mw_rss_topstories",
+   "baslik": "The stock market could be due for a nasty selloff, judging by these two signals",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/these-two-market-gauges-may-signal-a-big-risk-off-event-for-the-market-says-bofa-0432250a?mod=mw_rss_topstories",
+   "saat": "15:52",
+   "tarih_iso": "2026-09-25T15:52:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T16:01:15.230655+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/atlas-energy-stock-surges-on-ai-data-center-power-deals-4917535",
+   "baslik": "Atlas Energy stock surges on AI data center power deals",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/atlas-energy-stock-surges-on-ai-data-center-power-deals-4917535",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-25T15:45:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T16:01:15.230655+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-says-investors-are-increasingly-worried-about-an-ai-boombust-cycle-4917525",
+   "baslik": "BofA says investors are increasingly worried about an AI boom-bust cycle",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bofa-says-investors-are-increasingly-worried-about-an-ai-boombust-cycle-4917525",
+   "saat": "15:41",
+   "tarih_iso": "2026-09-25T15:41:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T16:01:15.230655+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/microsoft-unveils-unified-copilot-cedes-consumer-ai-market-to-focus-on-enterprise-4917498",
+   "baslik": "Microsoft unveils unified Copilot, cedes consumer AI market to focus on enterprise",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/microsoft-unveils-unified-copilot-cedes-consumer-ai-market-to-focus-on-enterprise-4917498",
+   "saat": "15:34",
+   "tarih_iso": "2026-09-25T15:34:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T16:01:15.230655+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-outokumpu-stock-rallying-today-93CH-4917462",
+   "baslik": "Why is Outokumpu stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-outokumpu-stock-rallying-today-93CH-4917462",
+   "saat": "15:30",
+   "tarih_iso": "2026-09-25T15:30:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T16:01:15.230655+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/energy-stocks-defy-weaker-tsx-as-september-rally-gathers-pace-93CH-4917449",
+   "baslik": "Energy stocks defy weaker TSX as September rally gathers pace",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/energy-stocks-defy-weaker-tsx-as-september-rally-gathers-pace-93CH-4917449",
+   "saat": "15:22",
+   "tarih_iso": "2026-09-25T15:22:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T16:01:15.230655+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/hyperscalers-need-300-billion-in-annual-ai-revenue-to-break-even-goldman-4917423",
    "baslik": "Hyperscalers need $300 billion in annual AI revenue to break even: Goldman",
@@ -1263,5 +1387,5 @@
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
- "guncelleme": "2026-09-25T15:30:57.123811+03:00"
+ "guncelleme": "2026-09-25T16:01:15.230655+03:00"
 }
