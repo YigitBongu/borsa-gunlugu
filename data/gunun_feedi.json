@@ -69,6 +69,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/borsa/bist-100-gune-yatay-seyirle-basladi-haberi-841407",
+   "baslik": "BIST 100 güne yatay seyirle başladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/bist-100-gune-yatay-seyirle-basladi-haberi-841407",
+   "saat": "10:19",
+   "tarih_iso": "2026-09-25T10:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T11:01:03.923958+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/dunya-bankasindan-tarimsal-gida-isletmelerine-750-milyon-dolar-destek/4068787",
    "baslik": "Dünya Bankasından tarımsal gıda işletmelerine 750 milyon dolar destek",
    "kaynak": "AA Ekonomi",
@@ -180,6 +190,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-on-track-for-weekly-gain-as-oil-prices-ease-4916775",
+   "baslik": "European stocks on track for weekly gain as oil prices ease",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-on-track-for-weekly-gain-as-oil-prices-ease-4916775",
+   "saat": "10:36",
+   "tarih_iso": "2026-09-25T10:36:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T11:01:03.923958+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hellofresh-stock-sliding-today-93CH-4916769",
+   "baslik": "Why is HelloFresh stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hellofresh-stock-sliding-today-93CH-4916769",
+   "saat": "10:33",
+   "tarih_iso": "2026-09-25T10:33:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T11:01:03.923958+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nanexa-stock-surging-today-93CH-4916755",
    "baslik": "Why is Nanexa stock surging today?",
@@ -309,6 +339,16 @@
    "tarih_iso": "2026-09-25T07:22:14+03:00",
    "kodlar": [],
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900?syn-25a6b1a6=1",
+   "baslik": "No product, no problem: investors place big bets on AI neolabs",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/5308cce5-ba65-45e8-b9f4-59ea8b3cd900?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-25T07:00:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T11:01:03.923958+03:00"
   },
   {
    "id": "yab-https://www.ft.com/content/8b1b398d-da7d-4dda-aa64-b7a42c59fd7e?syn-25a6b1a6=1",
@@ -643,5 +683,5 @@
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
- "guncelleme": "2026-09-25T10:30:56.647357+03:00"
+ "guncelleme": "2026-09-25T11:01:03.923958+03:00"
 }
