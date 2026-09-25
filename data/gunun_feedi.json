@@ -634,6 +634,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/adarx-pharmaceuticals-halka-arz-4463-milyon-dolar-olarak-tamamland-432SI-4078509",
+   "baslik": "ADARx Pharmaceuticals halka arzı 446,3 milyon dolar olarak tamamlandı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/adarx-pharmaceuticals-halka-arz-4463-milyon-dolar-olarak-tamamland-432SI-4078509",
+   "saat": "02:45",
+   "tarih_iso": "2026-09-25T02:45:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T03:01:05.463167+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-istifa-iddialarini-yalanladi/4068495",
    "baslik": "Hazine ve Maliye Bakanı Şimşek \"istifa\" iddialarını yalanladı",
    "kaynak": "AA Ekonomi",
@@ -1005,6 +1015,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016?syn-25a6b1a6=1",
+   "baslik": "Oracle on the hook to pay data centre investors even if site has no electricity",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/a96bf05a-a299-4d6a-a753-b298dd0f4016?syn-25a6b1a6=1",
+   "saat": "02:47",
+   "tarih_iso": "2026-09-25T02:47:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T03:01:05.463167+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/polymarket-sues-new-york-attorney-general-to-block-regulation-of-its-prediction-market-4916415",
+   "baslik": "Polymarket sues New York attorney general to block regulation of its prediction market",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/polymarket-sues-new-york-attorney-general-to-block-regulation-of-its-prediction-market-4916415",
+   "saat": "02:30",
+   "tarih_iso": "2026-09-25T02:30:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T03:01:05.463167+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/costco-beats-quarterly-sales-estimates-on-resilient-demand-for-essentials-4916155",
    "baslik": "Costco tops estimates as discount gas, bulk deals draw inflation-weary shoppers",
@@ -2184,26 +2214,6 @@
    "tarih_iso": "2026-09-24T14:38:11+03:00",
    "kodlar": [],
    "eklenme": "2026-09-24T15:01:06.187378+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-   "baslik": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-   "saat": "14:20",
-   "tarih_iso": "2026-09-24T14:20:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-24T14:30:54.360799+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
-   "baslik": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20% slump for the S&P 500 next year.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
-   "saat": "14:17",
-   "tarih_iso": "2026-09-24T14:17:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-24T14:30:54.360799+03:00"
   }
  ],
  "altin_haber": [
@@ -2458,5 +2468,5 @@
    "eklenme": "2026-09-24T09:01:05.593725+03:00"
   }
  ],
- "guncelleme": "2026-09-25T02:30:48.430368+03:00"
+ "guncelleme": "2026-09-25T03:01:05.463167+03:00"
 }
