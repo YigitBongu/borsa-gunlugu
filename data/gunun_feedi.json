@@ -2,6 +2,32 @@
  "tarih": "2026-09-25",
  "kap": [
   {
+   "id": "kap-my-SASA-202609251456",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SASA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:56",
+   "tarih_iso": "2026-09-25T14:56:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T15:30:57.123811+03:00"
+  },
+  {
+   "id": "kap-my-GWIND-202609251438",
+   "baslik": "GALATA WIND ENERJİ A.Ş. — Sürdürülebilirlik Raporu",
+   "sirket": "GALATA WIND ENERJİ A.Ş.",
+   "kodlar": [
+    "GWIND"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:38",
+   "tarih_iso": "2026-09-25T14:38:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T15:30:57.123811+03:00"
+  },
+  {
    "id": "kap-my-BUCIM-202609251412",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -183,6 +209,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/hiperoceklendirme-sirketleri-basa-bas-icin-300-milyar-dolar-gelir-istiyor-4079304",
+   "baslik": "Hiperöçeklendirme şirketleri başa baş için 300 milyar dolar gelir istiyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/hiperoceklendirme-sirketleri-basa-bas-icin-300-milyar-dolar-gelir-istiyor-4079304",
+   "saat": "15:11",
+   "tarih_iso": "2026-09-25T15:11:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T15:30:57.123811+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/borsa/bist-100-gune-yatay-seyirle-basladi-haberi-841407",
    "baslik": "BIST 100 güne yatay seyirle başladı",
    "kaynak": "Dünya",
@@ -304,6 +340,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/hyperscalers-need-300-billion-in-annual-ai-revenue-to-break-even-goldman-4917423",
+   "baslik": "Hyperscalers need $300 billion in annual AI revenue to break even: Goldman",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/hyperscalers-need-300-billion-in-annual-ai-revenue-to-break-even-goldman-4917423",
+   "saat": "15:11",
+   "tarih_iso": "2026-09-25T15:11:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T15:30:57.123811+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cipher-mining-stock-rallying-today-93CH-4917420",
+   "baslik": "Why is Cipher Mining stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cipher-mining-stock-rallying-today-93CH-4917420",
+   "saat": "15:10",
+   "tarih_iso": "2026-09-25T15:10:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T15:30:57.123811+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/elite-wall-street-boutiques-push-back-on-saudi-headquarters-rules-93CH-4917415",
+   "baslik": "Elite Wall Street boutiques push back on Saudi headquarters rules",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/elite-wall-street-boutiques-push-back-on-saudi-headquarters-rules-93CH-4917415",
+   "saat": "15:08",
+   "tarih_iso": "2026-09-25T15:08:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T15:30:57.123811+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bernstein-unveils-top-european-medtech-stock-picks-to-buy-for-h2-4917408",
+   "baslik": "Bernstein unveils top European medtech stock picks to buy for H2",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bernstein-unveils-top-european-medtech-stock-picks-to-buy-for-h2-4917408",
+   "saat": "15:05",
+   "tarih_iso": "2026-09-25T15:05:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T15:30:57.123811+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+   "baslik": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the past 5 years",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-25T15:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T15:30:57.123811+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cipher-digital-stock-jumps-after-extending-barber-lake-lease-4917364",
+   "baslik": "Cipher Digital stock jumps after extending Barber Lake lease",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cipher-digital-stock-jumps-after-extending-barber-lake-lease-4917364",
+   "saat": "14:49",
+   "tarih_iso": "2026-09-25T14:49:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T15:30:57.123811+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-ailinked-stocks-rally-after-anthropics-116-bln-computing-deal-4917347",
+   "baslik": "European AI-linked stocks rally After Anthropic’s $11.6 bln computing deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-ailinked-stocks-rally-after-anthropics-116-bln-computing-deal-4917347",
+   "saat": "14:44",
+   "tarih_iso": "2026-09-25T14:44:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T15:30:57.123811+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/barclays-asks-if-equity-markets-are-nearing-the-boiling-point-4917346",
+   "baslik": "Barclays asks if equity markets are nearing the boiling point",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/barclays-asks-if-equity-markets-are-nearing-the-boiling-point-4917346",
+   "saat": "14:44",
+   "tarih_iso": "2026-09-25T14:44:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T15:30:57.123811+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nike-stock-sliding-today-93CH-4917291",
    "baslik": "Why is Nike stock sliding today?",
@@ -1147,5 +1263,5 @@
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
- "guncelleme": "2026-09-25T15:01:09.101146+03:00"
+ "guncelleme": "2026-09-25T15:30:57.123811+03:00"
 }
