@@ -2,6 +2,34 @@
  "tarih": "2026-09-25",
  "kap": [
   {
+   "id": "kap-my-HALKB-202609251756",
+   "baslik": "TÜRKİYE HALK BANKASI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜRKİYE HALK BANKASI A.Ş.",
+   "kodlar": [
+    "HALKB"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:56",
+   "tarih_iso": "2026-09-25T17:56:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T18:30:54.881364+03:00",
+   "saat_g": "17:56"
+  },
+  {
+   "id": "kap-my-ASELS-202609251753",
+   "baslik": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Sürdürülebilirlik Raporu",
+   "sirket": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "ASELS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:53",
+   "tarih_iso": "2026-09-25T17:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T18:30:54.881364+03:00",
+   "saat_g": "17:53"
+  },
+  {
    "id": "kap-my-TCELL-202609251721",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — İstanbul Takas ve Saklama Bankası A.Ş. Duyurusu",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -325,6 +353,19 @@
    "saat_g": "18:42"
   },
   {
+   "id": "rss-https://www.dunya.com/spor/uefa-guendouziye-verilen-4-maclik-men-cezasini-dusurdu-haberi-841474",
+   "baslik": "UEFA Guendouzi'ye verilen 4 maçlık men cezasını düşürdü",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/uefa-guendouziye-verilen-4-maclik-men-cezasini-dusurdu-haberi-841474",
+   "saat": "18:29",
+   "tarih_iso": "2026-09-25T18:29:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-25T18:30:54.881364+03:00",
+   "saat_g": "18:29"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/turk-telekomdan-abdli-arastirma-kurulusuyla-ar-ge-anlasmasi-3915104",
    "baslik": "Yeni nesil iletişim için Ar-Ge iş birliği",
    "kaynak": "Habertürk Ekonomi",
@@ -573,6 +614,61 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cognition-ai-hits-1-billion-run-rate-amid-demand-for-coding-software--bloomberg-4917797",
+   "baslik": "Cognition AI hits $1 billion run rate amid demand for coding software - Bloomberg",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cognition-ai-hits-1-billion-run-rate-amid-demand-for-coding-software--bloomberg-4917797",
+   "saat": "18:20",
+   "tarih_iso": "2026-09-25T18:20:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T18:30:54.881364+03:00",
+   "saat_g": "18:20"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mgm-resorts-stock-sliding-today-93CH-4917783",
+   "baslik": "Why is MGM Resorts stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mgm-resorts-stock-sliding-today-93CH-4917783",
+   "saat": "18:10",
+   "tarih_iso": "2026-09-25T18:10:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T18:30:54.881364+03:00",
+   "saat_g": "18:10"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-019-4917782",
+   "baslik": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.19%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-019-4917782",
+   "saat": "18:10",
+   "tarih_iso": "2026-09-25T18:10:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T18:30:54.881364+03:00",
+   "saat_g": "18:10"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/b-rileys-top-biotech-picks-ahead-of-3q26-earnings-season-4917781",
+   "baslik": "B. Riley’s Top Biotech Picks Ahead of 3Q26 Earnings Season",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/b-rileys-top-biotech-picks-ahead-of-3q26-earnings-season-4917781",
+   "saat": "18:09",
+   "tarih_iso": "2026-09-25T18:09:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T18:30:54.881364+03:00",
+   "saat_g": "18:09"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-079-4917767",
+   "baslik": "Norway stocks lower at close of trade; Oslo OBX down 0.79%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-079-4917767",
+   "saat": "18:00",
+   "tarih_iso": "2026-09-25T18:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T18:30:54.881364+03:00",
+   "saat_g": "18:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/qualcomm-and-akamai-among-market-cap-stock-movers-on-friday-93CH-4917745",
    "baslik": "Qualcomm and Akamai among market cap stock movers on Friday",
@@ -1962,5 +2058,5 @@
    "saat_g": "dün 17:43"
   }
  ],
- "guncelleme": "2026-09-25T18:01:10.184276+03:00"
+ "guncelleme": "2026-09-25T18:30:54.881364+03:00"
 }
