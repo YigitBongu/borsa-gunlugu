@@ -698,6 +698,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/25/treasury-yield-buy-bonds.html",
+   "baslik": "10-year Treasury yield hit a 19-year high—and some investors see opportunity to buy bonds",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/25/treasury-yield-buy-bonds.html",
+   "saat": "19:40",
+   "tarih_iso": "2026-09-25T19:40:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T20:01:03.863083+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/micron-investors-should-get-ready-for-a-seesaw-ride-analyst-says-1c0cc651?mod=mw_rss_topstories",
    "baslik": "Micron investors should get ready for a seesaw ride, analyst says",
    "kaynak": "MarketWatch",
@@ -1886,19 +1896,19 @@
    "tarih_iso": "2026-09-24T23:20:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
-   "baslik": "Oracle sends 'force majeure' notice about data center project — stock drops 3%",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html",
-   "saat": "23:00",
-   "tarih_iso": "2026-09-24T23:00:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-miners-are-printing-record-profits-and-almost-nobody-is-paying-attention-200688427",
+   "baslik": "Gold Miners Are Printing Record Profits, and Almost Nobody Is Paying Attention",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-miners-are-printing-record-profits-and-almost-nobody-is-paying-attention-200688427",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-25T20:01:03.863083+03:00"
+  },
   {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlarinda-fed-baskisi-haftalik-kayip-yuzde-2yi-asabilir-3471432",
    "baslik": "Altın fiyatlarında Fed baskısı: Haftalık kayıp yüzde 2'yi aşabilir",
@@ -2070,5 +2080,5 @@
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
- "guncelleme": "2026-09-25T19:30:58.087665+03:00"
+ "guncelleme": "2026-09-25T20:01:03.863083+03:00"
 }
