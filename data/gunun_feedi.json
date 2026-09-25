@@ -2,6 +2,45 @@
  "tarih": "2026-09-25",
  "kap": [
   {
+   "id": "kap-my-SMRTG-202609251224",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:24",
+   "tarih_iso": "2026-09-25T12:24:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T13:01:04.119759+03:00"
+  },
+  {
+   "id": "kap-my-BUCIM-202609251222",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "BUCIM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:22",
+   "tarih_iso": "2026-09-25T12:22:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T13:01:04.119759+03:00"
+  },
+  {
+   "id": "kap-my-ISDMR-202609251213",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ISDMR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:13",
+   "tarih_iso": "2026-09-25T12:13:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T13:01:04.119759+03:00"
+  },
+  {
    "id": "kap-my-ALBRK-202609251136",
    "baslik": "BEREKET VARLIK KİRALAMA A.Ş. — Tertip İhraç Belgesi",
    "sirket": "BEREKET VARLIK KİRALAMA A.Ş.",
@@ -55,6 +94,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/aksa-kompozit-tunusta-havacilik-tesisi-kuruyor-3915030",
+   "baslik": "Tunus’ta 5 milyon dolarlık havacılık yatırımı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/aksa-kompozit-tunusta-havacilik-tesisi-kuruyor-3915030",
+   "saat": "12:35",
+   "tarih_iso": "2026-09-25T12:35:55+03:00",
+   "kodlar": [
+    "AKSA"
+   ],
+   "eklenme": "2026-09-25T13:01:04.119759+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/sirketler/akbankin-sehrin-iyi-hali-projesinde-basvurular-basladi-9-stk-ile-gonulluluk-firsati-haberi-841423",
    "baslik": "Akbank’ın Şehrin İyi Hali projesinde başvurular başladı: 9 STK ile gönüllülük fırsatı",
@@ -227,6 +278,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/25/wegovy-novo-nordisk-obesity-drugs.html",
+   "baslik": "Pharma stock soars 150% on injectables deal with Wegovy maker Novo",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/25/wegovy-novo-nordisk-obesity-drugs.html",
+   "saat": "12:58",
+   "tarih_iso": "2026-09-25T12:58:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T13:01:04.119759+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-drift-lower-as-soaring-yields-oil-prices-weigh-4916485",
+   "baslik": "U.S. stock futures edge higher as oil drop offers relief amid bond selloff",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-lower-as-soaring-yields-oil-prices-weigh-4916485",
+   "saat": "12:52",
+   "tarih_iso": "2026-09-25T12:52:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T13:01:04.119759+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/raspberry-pi-shares-fall-9-after-record-h1-results-trigger-profittaking-4917002",
+   "baslik": "Raspberry Pi shares fall 9% after record H1 results trigger profit-taking",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/raspberry-pi-shares-fall-9-after-record-h1-results-trigger-profittaking-4917002",
+   "saat": "12:44",
+   "tarih_iso": "2026-09-25T12:44:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T13:01:04.119759+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tandem-stock-surging-today-93CH-4916986",
+   "baslik": "Why is Tandem stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tandem-stock-surging-today-93CH-4916986",
+   "saat": "12:29",
+   "tarih_iso": "2026-09-25T12:29:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T13:01:04.119759+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
    "baslik": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish company’s stock soaring",
@@ -880,5 +971,5 @@
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
- "guncelleme": "2026-09-25T12:30:55.845397+03:00"
+ "guncelleme": "2026-09-25T13:01:04.119759+03:00"
 }
