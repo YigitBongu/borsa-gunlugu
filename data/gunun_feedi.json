@@ -537,6 +537,42 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekomdan-turkiyeye-cevreci-teknoloji-yatirimlari-haberi-841476",
+   "baslik": "Türk Telekom'dan Türkiye'ye çevreci teknoloji yatırımları",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekomdan-turkiyeye-cevreci-teknoloji-yatirimlari-haberi-841476",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-26T00:00:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-09-26T00:30:53.841151+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/akkok-holdingden-tunusta-5-milyon-dolarlik-havacilik-yatirimi-haberi-841479",
+   "baslik": "Akkök Holding’den Tunus’ta 5 milyon dolarlık havacılık yatırımı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/akkok-holdingden-tunusta-5-milyon-dolarlik-havacilik-yatirimi-haberi-841479",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-26T00:00:00+03:00",
+   "kodlar": [
+    "AKSA"
+   ],
+   "eklenme": "2026-09-26T00:30:53.841151+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/is-dunyasi/turkonfedden-elazigda-kritik-zirve-turkiye-yeni-dengelere-hazirlikli-olmali-haberi-841482",
+   "baslik": "TÜRKONFED'den Elazığ’da kritik zirve: Türkiye yeni dengelere hazırlıklı olmalı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/is-dunyasi/turkonfedden-elazigda-kritik-zirve-turkiye-yeni-dengelere-hazirlikli-olmali-haberi-841482",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-26T00:00:00+03:00",
+   "kodlar": [
+    "KCHOL"
+   ],
+   "eklenme": "2026-09-26T00:30:53.841151+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/turk-firmasi-tunusta-havacilik-yatirimi-yapacak-3471389",
    "baslik": "Türk Firması Tunus’ta havacılık yatırımı yapacak",
    "kaynak": "CNN Türk Ekonomi",
@@ -798,6 +834,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
+   "baslik": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/25/appeals-court-rules-states-can-regulate-sports-prediction-markets.html",
+   "saat": "00:06",
+   "tarih_iso": "2026-09-26T00:06:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-26T00:30:53.841151+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/25/monster-coca-cola-rob-gehring.html",
    "baslik": "Coca-Cola hires Rob Gehring from Monster Energy to run its North American operations",
@@ -1987,16 +2033,6 @@
    "tarih_iso": "2026-09-25T12:44:47+03:00",
    "kodlar": [],
    "eklenme": "2026-09-25T13:01:04.119759+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tandem-stock-surging-today-93CH-4916986",
-   "baslik": "Why is Tandem stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-tandem-stock-surging-today-93CH-4916986",
-   "saat": "12:29",
-   "tarih_iso": "2026-09-25T12:29:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-25T13:01:04.119759+03:00"
   }
  ],
  "altin_haber": [
@@ -2221,5 +2257,5 @@
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
- "guncelleme": "2026-09-26T00:01:06.993473+03:00"
+ "guncelleme": "2026-09-26T00:30:53.841151+03:00"
 }
