@@ -2,6 +2,19 @@
  "tarih": "2026-09-25",
  "kap": [
   {
+   "id": "kap-my-ALBRK-202609251136",
+   "baslik": "BEREKET VARLIK KİRALAMA A.Ş. — Tertip İhraç Belgesi",
+   "sirket": "BEREKET VARLIK KİRALAMA A.Ş.",
+   "kodlar": [
+    "ALBRK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:36",
+   "tarih_iso": "2026-09-25T11:36:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-25T12:01:10.444403+03:00"
+  },
+  {
    "id": "kap-my-GSDHO-202609250909",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -42,6 +55,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-tarfin-virtus-bologna-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-mac-saati-haberi-841418",
+   "baslik": "Fenerbahçe Tarfin Virtus Bologna maçı ne zaman, saat kaçta, hangi kanalda? FB maç saati...",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-tarfin-virtus-bologna-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-mac-saati-haberi-841418",
+   "saat": "11:27",
+   "tarih_iso": "2026-09-25T11:27:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-09-25T12:01:10.444403+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/petkim-petrokimya-tesisi-muhendisligi-icin-sozlesme-imzalad-93CH-4078652",
    "baslik": "Petkim petrokimya tesisi mühendisliği için sözleşme imzaladı",
@@ -190,6 +215,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
+   "baslik": "Akamai stock is surging. A $12 billion Anthropic deal reveals its powerful edge over cloud providers.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/akamai-stock-is-surging-a-12-billion-anthropic-deal-reveals-its-powerful-edge-over-cloud-providers-0b60ca6d?mod=mw_rss_topstories",
+   "saat": "11:42",
+   "tarih_iso": "2026-09-25T11:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T12:01:10.444403+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-konecranes-stock-rallying-today-93CH-4916901",
+   "baslik": "Why is Konecranes stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-konecranes-stock-rallying-today-93CH-4916901",
+   "saat": "11:39",
+   "tarih_iso": "2026-09-25T11:39:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T12:01:10.444403+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-soltec-power-stock-sliding-today-93CH-4916900",
+   "baslik": "Why is Soltec Power stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-soltec-power-stock-sliding-today-93CH-4916900",
+   "saat": "11:39",
+   "tarih_iso": "2026-09-25T11:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T12:01:10.444403+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-people-stock-surging-today-93CH-4916899",
+   "baslik": "Why is People stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-people-stock-surging-today-93CH-4916899",
+   "saat": "11:38",
+   "tarih_iso": "2026-09-25T11:38:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T12:01:10.444403+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-banco-bpm-stock-rallying-today-93CH-4916892",
+   "baslik": "Why is Banco BPM stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-banco-bpm-stock-rallying-today-93CH-4916892",
+   "saat": "11:34",
+   "tarih_iso": "2026-09-25T11:34:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T12:01:10.444403+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-078-4916876",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.78%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-078-4916876",
+   "saat": "11:30",
+   "tarih_iso": "2026-09-25T11:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T12:01:10.444403+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alten-stock-rallying-today-93CH-4916865",
+   "baslik": "Why is Alten stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-alten-stock-rallying-today-93CH-4916865",
+   "saat": "11:27",
+   "tarih_iso": "2026-09-25T11:27:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T12:01:10.444403+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-akamai-technologies-stock-surging-today-93CH-4916836",
    "baslik": "Why is Akamai Technologies stock surging today?",
@@ -369,6 +464,16 @@
    "tarih_iso": "2026-09-25T08:41:20+03:00",
    "kodlar": [],
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c6vgywjxv14po?at_medium=RSS&at_campaign=rss",
+   "baslik": "NI's economic output rises, but businesses warn of rising costs",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgywjxv14po?at_medium=RSS&at_campaign=rss",
+   "saat": "08:24",
+   "tarih_iso": "2026-09-25T08:24:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-25T12:01:10.444403+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/japanese-bank-stocks-rise-tracking-yield-surge-rate-hike-bets-4916599",
@@ -743,5 +848,5 @@
    "eklenme": "2026-09-25T09:01:03.297926+03:00"
   }
  ],
- "guncelleme": "2026-09-25T11:30:58.707009+03:00"
+ "guncelleme": "2026-09-25T12:01:10.444403+03:00"
 }
