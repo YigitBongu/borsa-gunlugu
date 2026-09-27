@@ -103,6 +103,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-27-eylul-pazar-doviz-kurlari-haberi-841567",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (27 Eylül Pazar Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-27-eylul-pazar-doviz-kurlari-haberi-841567",
+   "saat": "07:21",
+   "tarih_iso": "2026-09-27T07:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-27T07:30:51.529996+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/iraka-abdden-yeni-dolar-sevkiyati-yapilacagi-belirtildi-/4070353",
    "baslik": "Irak'a ABD'den yeni dolar sevkiyatı yapılacağı belirtildi",
    "kaynak": "AA Ekonomi",
@@ -184,6 +194,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/a2c22bca-f50a-440d-82f8-1a373859770d?syn-25a6b1a6=1",
+   "baslik": "Value of old supertankers soars past new builds as market goes ‘bananas’",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/a2c22bca-f50a-440d-82f8-1a373859770d?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-27T07:00:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-27T07:30:51.529996+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/china-consumer-stocks-near-decade-lows-as-investors-pile-into-ai-4918679",
    "baslik": "China consumer stocks near decade lows as investors pile into AI",
@@ -487,6 +507,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-27-eylul-2026-haberi-841568",
+   "baslik": "ALTINDA SON DURUM: Gram ve çeyrek altın kaç TL oldu? Altın fiyatları ne kadar? (27 Eylül 2026)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinda-son-durum-gram-ve-ceyrek-altin-kac-tl-oldu-altin-fiyatlari-ne-kadar-27-eylul-2026-haberi-841568",
+   "saat": "07:24",
+   "tarih_iso": "2026-09-27T07:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-27T07:30:51.529996+03:00"
+  },
+  {
+   "id": "alt-https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1",
+   "baslik": "Gold-rich Nicaragua hands Chinese miners rights to a tenth of its land",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/452648fd-90d6-450f-9739-073f5b6a0d18?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-27T07:00:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-27T07:30:51.529996+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/bu-hafta-yatirim-araclarinda-yatirimcilarin-odaginda-ne-oldu-3471708",
    "baslik": "Bu hafta yatırım araçlarında yatırımcıların odağında ne oldu?",
    "kaynak": "CNN Türk Ekonomi",
@@ -647,5 +687,5 @@
    "eklenme": "2026-09-26T09:01:03.609600+03:00"
   }
  ],
- "guncelleme": "2026-09-27T07:01:02.333945+03:00"
+ "guncelleme": "2026-09-27T07:30:51.529996+03:00"
 }
