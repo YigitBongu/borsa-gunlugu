@@ -2,6 +2,19 @@
  "tarih": "2026-09-28",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202609281538",
+   "baslik": "BORSA İSTANBUL A.Ş. — Varantların veya Sertifikaların İşlem Görmeye Başlaması",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:38",
+   "tarih_iso": "2026-09-28T15:38:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
    "id": "kap-my-VESTL-202609281453",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -753,6 +766,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Monday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+   "saat": "15:50",
+   "tarih_iso": "2026-09-28T15:50:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/meta-stock-cuts-losses-after-major-executive-hire-confirmed-93CH-4920395",
+   "baslik": "Meta stock cuts losses after major executive hire confirmed",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/meta-stock-cuts-losses-after-major-executive-hire-confirmed-93CH-4920395",
+   "saat": "15:48",
+   "tarih_iso": "2026-09-28T15:48:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/kodiak-sciences-stock-soars-on-positive-amd-trial-data-4920391",
+   "baslik": "Kodiak Sciences stock soars on positive AMD trial data",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/kodiak-sciences-stock-soars-on-positive-amd-trial-data-4920391",
+   "saat": "15:46",
+   "tarih_iso": "2026-09-28T15:46:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-096-4920386",
+   "baslik": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.96%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-096-4920386",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-28T15:45:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/adobe-sees-aidriven-retail-traffic-surging-as-paid-search-growth-slows-93CH-4920381",
+   "baslik": "Adobe sees AI-driven retail traffic surging as paid search growth slows",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/adobe-sees-aidriven-retail-traffic-surging-as-paid-search-growth-slows-93CH-4920381",
+   "saat": "15:43",
+   "tarih_iso": "2026-09-28T15:43:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-plunging-today-93CH-4920377",
+   "baslik": "Why is MongoDB stock plunging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-plunging-today-93CH-4920377",
+   "saat": "15:41",
+   "tarih_iso": "2026-09-28T15:41:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mongodb-stock-drops-15-as-ceo-desai-resigns-for-meta-4920369",
+   "baslik": "MongoDB stock drops 15% as CEO Desai resigns for Meta",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mongodb-stock-drops-15-as-ceo-desai-resigns-for-meta-4920369",
+   "saat": "15:39",
+   "tarih_iso": "2026-09-28T15:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rollsroyce-invests-300m-in-uk-facilities-for-aerospace-growth-93CH-4920347",
+   "baslik": "Rolls-Royce invests £300m in UK facilities for aerospace growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rollsroyce-invests-300m-in-uk-facilities-for-aerospace-growth-93CH-4920347",
+   "saat": "15:32",
+   "tarih_iso": "2026-09-28T15:32:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
    "baslik": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
    "kaynak": "CNBC",
@@ -1345,6 +1438,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-rising-yields-prove-too-much-for-now-but-longerterm-outlook-stays-bullish-200688516",
+   "baslik": "Gold: Rising Yields Prove Too Much for Now, but Longer-Term Outlook Stays Bullish",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-rising-yields-prove-too-much-for-now-but-longerterm-outlook-stays-bullish-200688516",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/oil-gold-forecast-2-trades-to-watch-200688518",
+   "baslik": "Oil, Gold Forecast: 2 Trades to Watch",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/oil-gold-forecast-2-trades-to-watch-200688518",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatinda-ezberler-bozuldu-turkiyenin-90lardan-kalan-hesabi-sil-bastan-galeri-841746",
    "baslik": "Altın fiyatında ezberler bozuldu: Türkiye'nin 90'lardan kalan hesabı sil baştan",
    "kaynak": "Dünya",
@@ -1675,5 +1788,5 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   }
  ],
- "guncelleme": "2026-09-28T15:44:03.753747+03:00"
+ "guncelleme": "2026-09-28T16:01:09.380294+03:00"
 }
