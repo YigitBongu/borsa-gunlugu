@@ -2,6 +2,32 @@
  "tarih": "2026-09-28",
  "kap": [
   {
+   "id": "kap-my-PENTA-202609281308",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "PENTA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:08",
+   "tarih_iso": "2026-09-28T13:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T13:31:43.795603+03:00"
+  },
+  {
+   "id": "kap-my-KONYA-202609281307",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KONYA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:07",
+   "tarih_iso": "2026-09-28T13:07:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T13:31:43.795603+03:00"
+  },
+  {
    "id": "kap-my-REEDR-202609281135",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -464,6 +490,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+   "baslik": "Oil prices jump over 4% as Trump rejects Iranian proposal to reopen Strait of Hormuz",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+   "saat": "13:29",
+   "tarih_iso": "2026-09-28T13:29:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T13:31:43.795603+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/prediction-markets-push-into-us-stocks-raises-regulatory-alarm-bells-4919710",
+   "baslik": "Prediction markets’ push into US stocks raises regulatory alarm bells",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/prediction-markets-push-into-us-stocks-raises-regulatory-alarm-bells-4919710",
+   "saat": "13:06",
+   "tarih_iso": "2026-09-28T13:06:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T13:31:43.795603+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/28/gold-silver-prices-bond-yields.html",
+   "baslik": "Gold and silver prices fall sharply as higher bond yields weigh on metals",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/28/gold-silver-prices-bond-yields.html",
+   "saat": "12:56",
+   "tarih_iso": "2026-09-28T12:56:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T13:31:43.795603+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-dip-as-markets-parse-iran-tensions-openai-training-halt-4919222",
+   "baslik": "U.S. stock futures slip as markets parse Iran tensions, OpenAI training halt",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-dip-as-markets-parse-iran-tensions-openai-training-halt-4919222",
+   "saat": "12:47",
+   "tarih_iso": "2026-09-28T12:47:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T13:31:43.795603+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/global-fuel-subsidies-surge-as-oil-prices-climb-on-middle-east-conflict-93CH-4919649",
    "baslik": "Global fuel subsidies surge as oil prices climb on Middle East conflict",
    "kaynak": "Investing.com",
@@ -886,6 +952,36 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-just-broke--the-real-stress-test-is-the-sp-500-and-nasdaq-200688501",
+   "baslik": "Gold Just Broke - The Real Stress Test Is the S&P 500 and Nasdaq",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-just-broke--the-real-stress-test-is-the-sp-500-and-nasdaq-200688501",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-28T13:31:43.795603+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-and-silver-sell-signals-trigger-200688500",
+   "baslik": "Gold and Silver Sell Signals Trigger",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-and-silver-sell-signals-trigger-200688500",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-28T13:31:43.795603+03:00"
+  },
+  {
+   "id": "alt-https://www.cnbc.com/2026/09/28/gold-silver-prices-bond-yields.html",
+   "baslik": "Gold and silver prices fall sharply as higher bond yields weigh on metals",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/28/gold-silver-prices-bond-yields.html",
+   "saat": "12:56",
+   "tarih_iso": "2026-09-28T12:56:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T13:31:43.795603+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-price-outlook-key-support-zones-could-decide-the-next-major-move-200688493",
    "baslik": "Gold Price Outlook: Key Support Zones Could Decide the Next Major Move",
    "kaynak": "Investing Emtia",
@@ -1156,5 +1252,5 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   }
  ],
- "guncelleme": "2026-09-28T13:01:07.360086+03:00"
+ "guncelleme": "2026-09-28T13:31:43.795603+03:00"
 }
