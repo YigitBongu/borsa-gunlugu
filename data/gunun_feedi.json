@@ -2,6 +2,84 @@
  "tarih": "2026-09-28",
  "kap": [
   {
+   "id": "kap-my-ZOREN-202609281438",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ZOREN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:38",
+   "tarih_iso": "2026-09-28T14:38:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
+   "id": "kap-my-KZBGY-202609281435",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KZBGY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:35",
+   "tarih_iso": "2026-09-28T14:35:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
+   "id": "kap-my-SKBNK-202609281431",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:31",
+   "tarih_iso": "2026-09-28T14:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
+   "id": "kap-my-FENER-202609281423",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "FENER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:23",
+   "tarih_iso": "2026-09-28T14:23:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
+   "id": "kap-my-KLSER-202609281420",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KLSER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:20",
+   "tarih_iso": "2026-09-28T14:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
+   "id": "kap-my-CANTE-202609281411",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CANTE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:11",
+   "tarih_iso": "2026-09-28T14:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
    "id": "kap-my-ODAS-202609281401",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -394,6 +472,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/komedyen-deniz-goktas-88-gun-sonra-tahliye-edildi-haberi-841749",
+   "baslik": "Komedyen Deniz Göktaş 88 gün sonra tahliye edildi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/komedyen-deniz-goktas-88-gun-sonra-tahliye-edildi-haberi-841749",
+   "saat": "14:41",
+   "tarih_iso": "2026-09-28T14:41:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/garanti-bbvadan-125-milyon-dolarlik-tahvil-ihraci-3915598",
    "baslik": "Garanti BBVA’dan 125 milyon dolarlık tahvil ihracı",
    "kaynak": "Habertürk Ekonomi",
@@ -431,6 +521,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/faiz-ve-enflasyon-gundemi-tbmmye-tasiniyor-karahan-sunum-yapacak-haberi-841751",
+   "baslik": "Faiz ve enflasyon gündemi TBMM'ye taşınıyor: Karahan sunum yapacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/faiz-ve-enflasyon-gundemi-tbmmye-tasiniyor-karahan-sunum-yapacak-haberi-841751",
+   "saat": "14:39",
+   "tarih_iso": "2026-09-28T14:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-6-ekimde-mecliste-sunum-yapacak/4071562",
+   "baslik": "TCMB Başkanı Karahan, 6 Ekim'de Meclis'te sunum yapacak",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-6-ekimde-mecliste-sunum-yapacak/4071562",
+   "saat": "14:38",
+   "tarih_iso": "2026-09-28T14:38:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/komsudan-200-milyon-euroluk-akaryakit-destegi-haberi-841728",
    "baslik": "Komşu'dan 200 milyon Euro'luk akaryakıt desteği",
@@ -593,6 +703,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+   "baslik": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+   "saat": "14:47",
+   "tarih_iso": "2026-09-28T14:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canadian-stock-futures-slip-as-markets-gear-up-for-heavydata-week-4920037",
+   "baslik": "Canadian stock futures slip as markets gear up for heavy-data week",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canadian-stock-futures-slip-as-markets-gear-up-for-heavydata-week-4920037",
+   "saat": "14:43",
+   "tarih_iso": "2026-09-28T14:43:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/red-bull-sues-india-over-ban-on-energy-drink-label-93CH-4920033",
+   "baslik": "Red Bull sues India over ban on energy drink label",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/red-bull-sues-india-over-ban-on-energy-drink-label-93CH-4920033",
+   "saat": "14:39",
+   "tarih_iso": "2026-09-28T14:39:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-anglogold-ashanti-stock-sliding-today-93CH-4920007",
+   "baslik": "Why is AngloGold Ashanti stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-anglogold-ashanti-stock-sliding-today-93CH-4920007",
+   "saat": "14:34",
+   "tarih_iso": "2026-09-28T14:34:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/what-will-it-take-to-fix-the-markets-weak-breadth-morgan-stanley-weighs-in-4919901",
    "baslik": "What will it take to fix the market’s weak breadth? Morgan Stanley weighs in",
@@ -1416,5 +1566,5 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   }
  ],
- "guncelleme": "2026-09-28T14:30:58.208114+03:00"
+ "guncelleme": "2026-09-28T14:58:48.450750+03:00"
 }
