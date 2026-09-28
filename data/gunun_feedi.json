@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/tofasta-egea-sonrasi-yeni-model-bilmecesi-3915491",
+   "baslik": "Egea sonrası yeni model bilmecesi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/tofasta-egea-sonrasi-yeni-model-bilmecesi-3915491",
+   "saat": "07:07",
+   "tarih_iso": "2026-09-28T07:07:19+03:00",
+   "kodlar": [
+    "TOASO"
+   ],
+   "eklenme": "2026-09-28T07:30:56.265486+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/disisleri-bakanligindan-mescid-i-aksa-baskinina-kinama-haberi-841656",
    "baslik": "Dışişleri Bakanlığı'ndan Mescid-i Aksa baskınına kınama",
    "kaynak": "Dünya",
@@ -89,6 +101,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-28-eylul-pazartesi-doviz-kurlari-haberi-841670",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (28 Eylül Pazartesi Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-28-eylul-pazartesi-doviz-kurlari-haberi-841670",
+   "saat": "07:11",
+   "tarih_iso": "2026-09-28T07:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T07:30:56.265486+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-200-dolar-sinirina-cekildi-fiyati-sarsabilecek-7-gelisme-galeri-841665",
    "baslik": "Altın 4 bin 200 dolar sınırına çekildi: Fiyatı sarsabilecek 7 gelişme",
    "kaynak": "Dünya",
@@ -150,6 +172,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
+   "baslik": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
+   "saat": "07:04",
+   "tarih_iso": "2026-09-28T07:04:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T07:30:56.265486+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4",
+   "baslik": "For once, the Fed has put Main Street before Wall Street",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/4339e9f0-ff48-4873-be6a-36cbac2631c4",
+   "saat": "07:00",
+   "tarih_iso": "2026-09-28T07:00:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T07:30:56.265486+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/openai-training-pause-these-stocks-and-sectors-are-at-risk-93CH-4919300",
+   "baslik": "OpenAI training pause: These stocks and sectors are at risk",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/openai-training-pause-these-stocks-and-sectors-are-at-risk-93CH-4919300",
+   "saat": "06:38",
+   "tarih_iso": "2026-09-28T06:38:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T07:30:56.265486+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-sliding-today-93CH-4919299",
    "baslik": "Why is Samsung Electronics stock sliding today?",
@@ -673,5 +725,5 @@
    "eklenme": "2026-09-27T09:00:57.611513+03:00"
   }
  ],
- "guncelleme": "2026-09-28T07:01:05.510590+03:00"
+ "guncelleme": "2026-09-28T07:30:56.265486+03:00"
 }
