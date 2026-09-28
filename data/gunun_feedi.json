@@ -2,6 +2,32 @@
  "tarih": "2026-09-28",
  "kap": [
   {
+   "id": "kap-my-REEDR-202609281135",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:35",
+   "tarih_iso": "2026-09-28T11:35:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T12:01:14.677657+03:00"
+  },
+  {
+   "id": "kap-my-TTRAK-202609281125",
+   "baslik": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş.",
+   "kodlar": [
+    "TTRAK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:25",
+   "tarih_iso": "2026-09-28T11:25:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T12:01:14.677657+03:00"
+  },
+  {
    "id": "kap-my-AHGAZ-202609281055",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -274,6 +300,16 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   },
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/apple-a-57-milyar-dolar-patent-cezasi-3915586",
+   "baslik": "Apple'a 5.7 milyar dolar ceza",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/apple-a-57-milyar-dolar-patent-cezasi-3915586",
+   "saat": "11:34",
+   "tarih_iso": "2026-09-28T11:34:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T12:01:14.677657+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/soguklar-bastirdi-dolaplardan-cikti-turkiye-bu-urunlerden-milyonlarca-dolar-kazaniyor-haberi-841716",
    "baslik": "Soğuklar bastırdı, dolaplardan çıktı: Türkiye bu ürünlerden milyonlarca dolar kazanıyor",
    "kaynak": "Dünya",
@@ -375,6 +411,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/telecom-italia-shares-fall-as-poste-misses-90-threshold-to-delist-stock-4919591",
+   "baslik": "Telecom Italia shares fall as Poste misses 90% threshold to delist stock",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/telecom-italia-shares-fall-as-poste-misses-90-threshold-to-delist-stock-4919591",
+   "saat": "11:52",
+   "tarih_iso": "2026-09-28T11:52:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T12:01:14.677657+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
+   "baslik": "U.S. Treasury yields edge higher amid pressure on global government bonds",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
+   "saat": "11:49",
+   "tarih_iso": "2026-09-28T11:49:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T12:01:14.677657+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-suedzucker-stock-gaining-today-93CH-4919586",
+   "baslik": "Why is Suedzucker stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-suedzucker-stock-gaining-today-93CH-4919586",
+   "saat": "11:48",
+   "tarih_iso": "2026-09-28T11:48:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T12:01:14.677657+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-145-4919548",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 1.45%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-145-4919548",
+   "saat": "11:30",
+   "tarih_iso": "2026-09-28T11:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T12:01:14.677657+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-capricorn-energy-stock-sliding-today-93CH-4919542",
+   "baslik": "Why is Capricorn Energy stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-capricorn-energy-stock-sliding-today-93CH-4919542",
+   "saat": "11:28",
+   "tarih_iso": "2026-09-28T11:28:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T12:01:14.677657+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/suedzucker-raises-revenue-outlook-on-biofuel-demand-growth-93CH-4919519",
    "baslik": "Suedzucker raises revenue outlook on biofuel demand growth",
@@ -688,6 +774,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/fed-hikes-will-slow-not-break-the-gold-rally-200688490",
+   "baslik": "Fed Hikes Will Slow, Not Break, the Gold Rally",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/fed-hikes-will-slow-not-break-the-gold-rally-200688490",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-28T12:01:14.677657+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/neden-sert-dustu-altini-zorlayan-ikili-petrol-ve-faiz-3472268",
    "baslik": "Neden sert düştü? Altını zorlayan ikili: Petrol ve faiz",
    "kaynak": "CNN Türk Ekonomi",
@@ -696,6 +792,26 @@
    "tarih_iso": "2026-09-28T11:47:57+03:00",
    "kodlar": [],
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/gundem/ne-altin-ne-para-dugunde-bir-cuval-findik-taktilar-haberi-841721",
+   "baslik": "Ne altın ne para: Düğünde bir çuval fındık taktılar",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/ne-altin-ne-para-dugunde-bir-cuval-findik-taktilar-haberi-841721",
+   "saat": "11:43",
+   "tarih_iso": "2026-09-28T11:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T12:01:14.677657+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/piyasalar-haftaya-sert-basladi-altin-ve-borsada-satis-hizlandi-galeri-841717",
+   "baslik": "Piyasalar haftaya sert başladı: Altın ve borsada satış hızlandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/piyasalar-haftaya-sert-basladi-altin-ve-borsada-satis-hizlandi-galeri-841717",
+   "saat": "11:36",
+   "tarih_iso": "2026-09-28T11:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T12:01:14.677657+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-drops-amid-lack-of-prospects-for-middle-east-conflict-settlement-200688485",
@@ -898,5 +1014,5 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   }
  ],
- "guncelleme": "2026-09-28T11:30:59.872558+03:00"
+ "guncelleme": "2026-09-28T12:01:14.677657+03:00"
 }
