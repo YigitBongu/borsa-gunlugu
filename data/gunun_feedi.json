@@ -2,6 +2,71 @@
  "tarih": "2026-09-28",
  "kap": [
   {
+   "id": "kap-my-ODAS-202609281401",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ODAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:01",
+   "tarih_iso": "2026-09-28T14:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T14:30:58.208114+03:00"
+  },
+  {
+   "id": "kap-my-ALARK-202609281401",
+   "baslik": "ALARKO HOLDİNG A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "ALARKO HOLDİNG A.Ş.",
+   "kodlar": [
+    "ALARK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:01",
+   "tarih_iso": "2026-09-28T14:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T14:30:58.208114+03:00"
+  },
+  {
+   "id": "kap-my-SASA-202609281359",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SASA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:59",
+   "tarih_iso": "2026-09-28T13:59:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T14:30:58.208114+03:00"
+  },
+  {
+   "id": "kap-my-HEKTS-202609281358",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "HEKTS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:58",
+   "tarih_iso": "2026-09-28T13:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T14:30:58.208114+03:00"
+  },
+  {
+   "id": "kap-my-BOBET-202609281356",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:56",
+   "tarih_iso": "2026-09-28T13:56:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T14:30:58.208114+03:00"
+  },
+  {
    "id": "kap-my-EKGYO-202609281319",
    "baslik": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Haber ve Söylentilere İlişkin Açıklama",
    "sirket": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
@@ -529,6 +594,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/what-will-it-take-to-fix-the-markets-weak-breadth-morgan-stanley-weighs-in-4919901",
+   "baslik": "What will it take to fix the market’s weak breadth? Morgan Stanley weighs in",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/what-will-it-take-to-fix-the-markets-weak-breadth-morgan-stanley-weighs-in-4919901",
+   "saat": "14:05",
+   "tarih_iso": "2026-09-28T14:05:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T14:30:58.208114+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories",
    "baslik": "The history of this market bad breadth signal points to ominous risks ahead",
    "kaynak": "MarketWatch",
@@ -1021,6 +1096,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatinda-ezberler-bozuldu-turkiyenin-90lardan-kalan-hesabi-sil-bastan-galeri-841746",
+   "baslik": "Altın fiyatında ezberler bozuldu: Türkiye'nin 90'lardan kalan hesabı sil baştan",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatinda-ezberler-bozuldu-turkiyenin-90lardan-kalan-hesabi-sil-bastan-galeri-841746",
+   "saat": "14:10",
+   "tarih_iso": "2026-09-28T14:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T14:30:58.208114+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-just-broke--the-real-stress-test-is-the-sp-500-and-nasdaq-200688501",
    "baslik": "Gold Just Broke - The Real Stress Test Is the S&P 500 and Nasdaq",
    "kaynak": "Investing Emtia",
@@ -1331,5 +1416,5 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   }
  ],
- "guncelleme": "2026-09-28T14:01:08.247049+03:00"
+ "guncelleme": "2026-09-28T14:30:58.208114+03:00"
 }
