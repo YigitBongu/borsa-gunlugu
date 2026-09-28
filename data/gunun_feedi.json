@@ -2,6 +2,19 @@
  "tarih": "2026-09-28",
  "kap": [
   {
+   "id": "kap-my-BERA-202609281702",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "BERA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:02",
+   "tarih_iso": "2026-09-28T17:02:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
+  {
    "id": "kap-my-TAVHL-202609281551",
    "baslik": "TAV HAVALİMANLARI HOLDİNG A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
@@ -549,6 +562,18 @@
    "eklenme": "2026-09-28T17:01:11.894559+03:00"
   },
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-28-eylul-2026/4071701",
+   "baslik": "60 saniyede ekonomide bugün (28 Eylül 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-28-eylul-2026/4071701",
+   "saat": "16:11",
+   "tarih_iso": "2026-09-28T16:11:43+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/komedyen-deniz-goktas-88-gun-sonra-tahliye-edildi-haberi-841749",
    "baslik": "Komedyen Deniz Göktaş 88 gün sonra tahliye edildi",
    "kaynak": "Dünya",
@@ -598,6 +623,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/eylul-enflasyonu-aciklandi-mi-2026-eylul-enflasyon-beklentisi-ne-yonde-tcmb-enflasyon-beklenti-anketi-sonrasi-piyasalarda-gozler-yeni-3472523",
+   "baslik": "EYLÜL ENFLASYONU AÇIKLANDI MI? 2026 Eylül Enflasyon Beklentisi Ne Yönde? TCMB Enflasyon Beklenti Anketi Sonrası Piyasalarda Gözler Yeni Verilerde",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/eylul-enflasyonu-aciklandi-mi-2026-eylul-enflasyon-beklentisi-ne-yonde-tcmb-enflasyon-beklenti-anketi-sonrasi-piyasalarda-gozler-yeni-3472523",
+   "saat": "20:21",
+   "tarih_iso": "2026-09-28T20:21:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/cms-krsal-teksasa-diyabet-ve-obeziteyle-mucadele-icin-51-milyon-dolar-aktard-93CH-4081452",
+   "baslik": "CMS kırsal Teksas’a diyabet ve obeziteyle mücadele için 51 milyon dolar aktardı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/cms-krsal-teksasa-diyabet-ve-obeziteyle-mucadele-icin-51-milyon-dolar-aktard-93CH-4081452",
+   "saat": "17:12",
+   "tarih_iso": "2026-09-28T17:12:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/tcmb-rezervlerinde-dusus-besinci-haftada-haberi-841754",
    "baslik": "TCMB rezervlerinde düşüş beşinci haftada",
@@ -790,6 +835,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "baslik": "What will the energy cap changes mean for my bills?",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "saat": "17:20",
+   "tarih_iso": "2026-09-28T17:20:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-netease-stock-surging-today-93CH-4920677",
+   "baslik": "Why is NetEase stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-netease-stock-surging-today-93CH-4920677",
+   "saat": "17:14",
+   "tarih_iso": "2026-09-28T17:14:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-credo-technology-stock-sliding-today-93CH-4920667",
+   "baslik": "Why is Credo Technology stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-credo-technology-stock-sliding-today-93CH-4920667",
+   "saat": "17:11",
+   "tarih_iso": "2026-09-28T17:11:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+   "baslik": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+   "saat": "17:11",
+   "tarih_iso": "2026-09-28T17:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vital-farms-stock-sliding-today-93CH-4920662",
+   "baslik": "Why is Vital Farms stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-vital-farms-stock-sliding-today-93CH-4920662",
+   "saat": "17:08",
+   "tarih_iso": "2026-09-28T17:08:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-servicenow-stock-sliding-today-93CH-4920661",
+   "baslik": "Why is ServiceNow stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-servicenow-stock-sliding-today-93CH-4920661",
+   "saat": "17:08",
+   "tarih_iso": "2026-09-28T17:08:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-4920654",
+   "baslik": "Why is Bloom Energy stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-sliding-today-93CH-4920654",
+   "saat": "17:05",
+   "tarih_iso": "2026-09-28T17:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dare-bioscience-stock-rises-after-receiving-hpv-treatment-patent-4920646",
+   "baslik": "Dare Bioscience stock rises after receiving HPV treatment patent",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dare-bioscience-stock-rises-after-receiving-hpv-treatment-patent-4920646",
+   "saat": "17:02",
+   "tarih_iso": "2026-09-28T17:02:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-sliding-today-93CH-4920644",
+   "baslik": "Why is Qualcomm stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-qualcomm-stock-sliding-today-93CH-4920644",
+   "saat": "17:01",
+   "tarih_iso": "2026-09-28T17:01:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:31:08.569082+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
    "baslik": "MongoDB’s stock is down more than 20% as CEO decamps to Meta",
@@ -1933,5 +2068,5 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   }
  ],
- "guncelleme": "2026-09-28T17:01:11.894559+03:00"
+ "guncelleme": "2026-09-28T17:31:08.569082+03:00"
 }
