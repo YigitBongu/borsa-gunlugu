@@ -537,6 +537,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/aaa-3915658",
+   "baslik": "\"Türkiye’nin petrokimya ekosisteminin gelişimine katkı sağlayacağına inanıyoruz”",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/aaa-3915658",
+   "saat": "16:54",
+   "tarih_iso": "2026-09-28T16:54:31+03:00",
+   "kodlar": [
+    "PETKM"
+   ],
+   "eklenme": "2026-09-28T17:01:11.894559+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/gundem/komedyen-deniz-goktas-88-gun-sonra-tahliye-edildi-haberi-841749",
    "baslik": "Komedyen Deniz Göktaş 88 gün sonra tahliye edildi",
    "kaynak": "Dünya",
@@ -778,6 +790,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+   "baslik": "MongoDB’s stock is down more than 20% as CEO decamps to Meta",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+   "saat": "16:57",
+   "tarih_iso": "2026-09-28T16:57:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:01:11.894559+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-stock-market-usually-booms-in-the-november-to-april-stretch-this-indicator-suggests-otherwise-f30a744e?mod=mw_rss_topstories",
+   "baslik": "The stock market usually booms in the November-to-April stretch. This indicator suggests otherwise.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-stock-market-usually-booms-in-the-november-to-april-stretch-this-indicator-suggests-otherwise-f30a744e?mod=mw_rss_topstories",
+   "saat": "16:41",
+   "tarih_iso": "2026-09-28T16:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:01:11.894559+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-finalizes-new-lower-fuel-economy-standards-4920407",
    "baslik": "US finalizes new lower fuel economy standards",
@@ -1511,6 +1543,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-geriledi-haberi-841762",
+   "baslik": "Altının kilogram fiyatı geriledi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-geriledi-haberi-841762",
+   "saat": "16:37",
+   "tarih_iso": "2026-09-28T16:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:01:11.894559+03:00"
+  },
+  {
    "id": "alt-https://tr.investing.com/news/stock-market-news/gold-fields-hisseleri-neden-dusuyor-93CH-4081244",
    "baslik": "Gold Fields hisseleri neden düşüyor?",
    "kaynak": "Investing TR",
@@ -1549,6 +1591,16 @@
    "tarih_iso": "",
    "kodlar": [],
    "eklenme": "2026-09-28T16:01:09.380294+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/northern-star-rejects-opportunistic-gold-fields-27b-takeover-bid/",
+   "baslik": "Northern Star rejects ‘opportunistic’ Gold Fields’ $27B takeover bid",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/northern-star-rejects-opportunistic-gold-fields-27b-takeover-bid/",
+   "saat": "14:36",
+   "tarih_iso": "2026-09-28T14:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T17:01:11.894559+03:00"
   },
   {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-fiyatinda-ezberler-bozuldu-turkiyenin-90lardan-kalan-hesabi-sil-bastan-galeri-841746",
@@ -1881,5 +1933,5 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   }
  ],
- "guncelleme": "2026-09-28T16:30:56.553319+03:00"
+ "guncelleme": "2026-09-28T17:01:11.894559+03:00"
 }
