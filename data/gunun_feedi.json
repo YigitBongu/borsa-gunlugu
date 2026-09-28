@@ -2,6 +2,45 @@
  "tarih": "2026-09-28",
  "kap": [
   {
+   "id": "kap-my-VESTL-202609281453",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "VESTL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:53",
+   "tarih_iso": "2026-09-28T14:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T15:30:58.874868+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202609281440",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "14:40",
+   "tarih_iso": "2026-09-28T14:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T15:30:58.874868+03:00"
+  },
+  {
+   "id": "kap-my-TUKAS-202609281440",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TUKAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:40",
+   "tarih_iso": "2026-09-28T14:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T15:30:58.874868+03:00"
+  },
+  {
    "id": "kap-my-ZOREN-202609281438",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -714,6 +753,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
+   "baslik": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
+   "saat": "15:27",
+   "tarih_iso": "2026-09-28T15:27:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T15:30:58.874868+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nvidia-adds-150-billion-to-existing-share-repurchase-plan-4919956",
+   "baslik": "Nvidia boosts share buyback by record $150 billion as AI boom fuels growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nvidia-adds-150-billion-to-existing-share-repurchase-plan-4919956",
+   "saat": "15:00",
+   "tarih_iso": "2026-09-28T15:00:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T15:30:58.874868+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-snowflake-stock-sliding-today-93CH-4920105",
+   "baslik": "Why is Snowflake stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-snowflake-stock-sliding-today-93CH-4920105",
+   "saat": "14:59",
+   "tarih_iso": "2026-09-28T14:59:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T15:30:58.874868+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
    "baslik": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
    "kaynak": "MarketWatch",
@@ -722,6 +791,16 @@
    "tarih_iso": "2026-09-28T14:47:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-28T14:58:48.450750+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-scynexis-stock-surging-today-93CH-4920051",
+   "baslik": "Why is Scynexis stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-scynexis-stock-surging-today-93CH-4920051",
+   "saat": "14:45",
+   "tarih_iso": "2026-09-28T14:45:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T15:30:58.874868+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/canadian-stock-futures-slip-as-markets-gear-up-for-heavydata-week-4920037",
@@ -1576,5 +1655,5 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   }
  ],
- "guncelleme": "2026-09-28T15:01:11.683805+03:00"
+ "guncelleme": "2026-09-28T15:30:58.874868+03:00"
 }
