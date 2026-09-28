@@ -2,6 +2,71 @@
  "tarih": "2026-09-28",
  "kap": [
   {
+   "id": "kap-my-BAGFS-202609281034",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BAGFS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:34",
+   "tarih_iso": "2026-09-28T10:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T11:01:06.665877+03:00"
+  },
+  {
+   "id": "kap-my-KORDS-202609281033",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:33",
+   "tarih_iso": "2026-09-28T10:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T11:01:06.665877+03:00"
+  },
+  {
+   "id": "kap-my-BIENY-202609281031",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BIENY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:31",
+   "tarih_iso": "2026-09-28T10:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T11:01:06.665877+03:00"
+  },
+  {
+   "id": "kap-my-VESBE-202609281031",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "VESBE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:31",
+   "tarih_iso": "2026-09-28T10:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T11:01:06.665877+03:00"
+  },
+  {
+   "id": "kap-my-GESAN-202609281029",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:29",
+   "tarih_iso": "2026-09-28T10:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-28T11:01:06.665877+03:00"
+  },
+  {
    "id": "kap-my-EUPWR-202609281004",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -134,6 +199,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-den-guney-avrupa-ucuslarinda-avantajli-bilet-kampanyasi/4071255",
+   "baslik": "THY’den Güney Avrupa uçuşlarında avantajlı bilet kampanyası",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thy-den-guney-avrupa-ucuslarinda-avantajli-bilet-kampanyasi/4071255",
+   "saat": "10:50",
+   "tarih_iso": "2026-09-28T10:50:09+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-09-28T11:01:06.665877+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/tofasta-egea-sonrasi-yeni-model-bilmecesi-3915491",
    "baslik": "Egea sonrası yeni model bilmecesi",
    "kaynak": "Habertürk Ekonomi",
@@ -156,6 +233,16 @@
    "tarih_iso": "2026-09-28T11:47:57+03:00",
    "kodlar": [],
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-faiz-karari-ne-zaman-aciklanacak-merkez-bankasi-faiz-indirecek-mi-haberi-841708",
+   "baslik": "TCMB faiz kararı ne zaman açıklanacak? Merkez Bankası faiz indirecek mi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-faiz-karari-ne-zaman-aciklanacak-merkez-bankasi-faiz-indirecek-mi-haberi-841708",
+   "saat": "10:34",
+   "tarih_iso": "2026-09-28T10:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T11:01:06.665877+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/dunya/apple-patent-davasini-kaybetti-572-milyar-dolar-odeyecek-haberi-841706",
@@ -239,6 +326,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-verbund-stock-climbing-today-93CH-4919495",
+   "baslik": "Why is Verbund stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-verbund-stock-climbing-today-93CH-4919495",
+   "saat": "10:42",
+   "tarih_iso": "2026-09-28T10:42:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-28T11:01:06.665877+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tullow-oil-stock-sliding-today-93CH-4919479",
    "baslik": "Why is Tullow Oil stock sliding today?",
@@ -512,6 +609,16 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/the-gold-update-still-lower-ahead-200688479",
+   "baslik": "The Gold Update: Still Lower Ahead",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/the-gold-update-still-lower-ahead-200688479",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-28T11:01:06.665877+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-bears-target-4100-as-selling-pressure-builds-200688481",
    "baslik": "Gold Bears Target 4,100 as Selling Pressure Builds",
    "kaynak": "Investing Emtia",
@@ -662,5 +769,5 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   }
  ],
- "guncelleme": "2026-09-28T10:30:59.931560+03:00"
+ "guncelleme": "2026-09-28T11:01:06.665877+03:00"
 }
