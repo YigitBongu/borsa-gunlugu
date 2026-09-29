@@ -728,6 +728,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/yatrmclar-fedi-izlerken-bir-restoran-hissesi-1866-yukseldi-4081952",
+   "baslik": "Yatırımcılar Fed’i izlerken bir restoran hissesi %18,66 yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/yatrmclar-fedi-izlerken-bir-restoran-hissesi-1866-yukseldi-4081952",
+   "saat": "05:01",
+   "tarih_iso": "2026-09-29T05:01:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T05:30:53.921008+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/samsung-ve-bagl-sirketler-yapay-zeka-altyap-firmas-helixe-1-milyar-dolar-yatrm-yapacak-4081934",
    "baslik": "Samsung ve bağlı şirketler yapay zeka altyapı firması Helix’e 1 milyar dolar yatırım yapacak",
    "kaynak": "Investing TR",
@@ -979,6 +989,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/shares-of-fastfashion-platform-shein-fall-4-after-quarterly-profit-slides-67-4921492",
+   "baslik": "Shares of fast-fashion platform Shein fall 6% after quarterly profit slides 67%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/shares-of-fastfashion-platform-shein-fall-4-after-quarterly-profit-slides-67-4921492",
+   "saat": "05:12",
+   "tarih_iso": "2026-09-29T05:12:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T05:30:53.921008+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/investors-are-watching-the-fed--but-one-restaurant-stock-is-up-1866-this-week-4921498",
+   "baslik": "Investors are watching the Fed - but one restaurant stock is up 18.66% this week",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/investors-are-watching-the-fed--but-one-restaurant-stock-is-up-1866-this-week-4921498",
+   "saat": "05:01",
+   "tarih_iso": "2026-09-29T05:01:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T05:30:53.921008+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-codan-stock-surging-today-93CH-4921496",
+   "baslik": "Why is Codan stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-codan-stock-surging-today-93CH-4921496",
+   "saat": "04:56",
+   "tarih_iso": "2026-09-29T04:56:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T05:30:53.921008+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/29/oil-prices-today-brent-wti-hormuz.html",
    "baslik": "Oil extends gains as Middle East supply concerns persist",
@@ -2148,36 +2188,6 @@
    "tarih_iso": "2026-09-28T14:00:42+03:00",
    "kodlar": [],
    "eklenme": "2026-09-28T15:44:03.753747+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories",
-   "baslik": "The history of this market bad breadth signal points to ominous risks ahead",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories",
-   "saat": "13:45",
-   "tarih_iso": "2026-09-28T13:45:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-28T14:01:08.247049+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kodiak-sciences-stock-surging-today-93CH-4919780",
-   "baslik": "Why is Kodiak Sciences stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-kodiak-sciences-stock-surging-today-93CH-4919780",
-   "saat": "13:40",
-   "tarih_iso": "2026-09-28T13:40:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-28T14:01:08.247049+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-breadth-hits-lowest-level-since-dotcom-bubble-goldman-says-4919770",
-   "baslik": "S&P 500 breadth hits lowest level since dot-com bubble, Goldman says",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/sp-500-breadth-hits-lowest-level-since-dotcom-bubble-goldman-says-4919770",
-   "saat": "13:35",
-   "tarih_iso": "2026-09-28T13:35:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-28T14:01:08.247049+03:00"
   }
  ],
  "altin_haber": [
@@ -2642,5 +2652,5 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   }
  ],
- "guncelleme": "2026-09-29T05:01:06.909774+03:00"
+ "guncelleme": "2026-09-29T05:30:53.921008+03:00"
 }
