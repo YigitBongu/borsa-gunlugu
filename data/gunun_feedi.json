@@ -728,6 +728,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/samsung-ve-bagl-sirketler-yapay-zeka-altyap-firmas-helixe-1-milyar-dolar-yatrm-yapacak-4081934",
+   "baslik": "Samsung ve bağlı şirketler yapay zeka altyapı firması Helix’e 1 milyar dolar yatırım yapacak",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/samsung-ve-bagl-sirketler-yapay-zeka-altyap-firmas-helixe-1-milyar-dolar-yatrm-yapacak-4081934",
+   "saat": "03:21",
+   "tarih_iso": "2026-09-29T03:21:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T04:01:06.990083+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/eylul-enflasyonu-aciklandi-mi-2026-eylul-enflasyon-beklentisi-ne-yonde-tcmb-enflasyon-beklenti-anketi-sonrasi-piyasalarda-gozler-yeni-3472523",
    "baslik": "EYLÜL ENFLASYONU AÇIKLANDI MI? 2026 Eylül Enflasyon Beklentisi Ne Yönde? TCMB Enflasyon Beklenti Anketi Sonrası Piyasalarda Gözler Yeni Verilerde",
    "kaynak": "CNN Türk Ekonomi",
@@ -969,6 +979,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
+   "baslik": "Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
+   "saat": "03:33",
+   "tarih_iso": "2026-09-29T03:33:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T04:01:06.990083+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/exclusiveanthropic-leaders-to-control-ai-lab-via-founder-llc-to-promote-public-good-over-market-forces-4921448",
    "baslik": "Exclusive-Anthropic leaders to control AI lab via ’Founder LLC’ to promote public good over market forces",
@@ -2158,16 +2178,6 @@
    "tarih_iso": "2026-09-28T12:47:17+03:00",
    "kodlar": [],
    "eklenme": "2026-09-28T13:31:43.795603+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/global-fuel-subsidies-surge-as-oil-prices-climb-on-middle-east-conflict-93CH-4919649",
-   "baslik": "Global fuel subsidies surge as oil prices climb on Middle East conflict",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/global-fuel-subsidies-surge-as-oil-prices-climb-on-middle-east-conflict-93CH-4919649",
-   "saat": "12:42",
-   "tarih_iso": "2026-09-28T12:42:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-28T13:01:07.360086+03:00"
   }
  ],
  "altin_haber": [
@@ -2632,5 +2642,5 @@
    "eklenme": "2026-09-28T09:01:03.437867+03:00"
   }
  ],
- "guncelleme": "2026-09-29T03:30:54.982010+03:00"
+ "guncelleme": "2026-09-29T04:01:06.990083+03:00"
 }
