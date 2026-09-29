@@ -2,6 +2,71 @@
  "tarih": "2026-09-29",
  "kap": [
   {
+   "id": "kap-my-GUBRF-202609291543",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GUBRF"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:43",
+   "tarih_iso": "2026-09-29T15:43:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "kap-my-EKGYO-202609291537",
+   "baslik": "HALK VARLIK KİRALAMA A.Ş. — Tertip İhraç Belgesi",
+   "sirket": "HALK VARLIK KİRALAMA A.Ş.",
+   "kodlar": [
+    "EKGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:37",
+   "tarih_iso": "2026-09-29T15:37:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "kap-my-TCELL-202609291533",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "TCELL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:33",
+   "tarih_iso": "2026-09-29T15:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "kap-my-AKBNK-202609291531",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "AKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:31",
+   "tarih_iso": "2026-09-29T15:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "kap-my-AKSEN-202609291529",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "AKSEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:29",
+   "tarih_iso": "2026-09-29T15:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609291417",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -184,6 +249,56 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/merkez-bankasi-tbmmde-sunum-yapacak-3472879",
+   "baslik": "Merkez Bankası, TBMM'de sunum yapacak",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/merkez-bankasi-tbmmde-sunum-yapacak-3472879",
+   "saat": "18:46",
+   "tarih_iso": "2026-09-29T18:46:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/euro-dolar-karsisinda-son-3-ayin-en-dusuk-seviyesinde-3915932",
+   "baslik": "Euro, dolar karşısında son 3 ayın en düşük seviyesinde",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/euro-dolar-karsisinda-son-3-ayin-en-dusuk-seviyesinde-3915932",
+   "saat": "15:47",
+   "tarih_iso": "2026-09-29T15:47:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/texas-dizelinde-rekor-597-dolar-abbottun-karar-vlo-ve-psxi-vurdu-93CH-4082931",
+   "baslik": "Texas dizelinde rekor: 5,97 dolar; Abbott’un kararı VLO ve PSX’i vurdu",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/texas-dizelinde-rekor-597-dolar-abbottun-karar-vlo-ve-psxi-vurdu-93CH-4082931",
+   "saat": "15:37",
+   "tarih_iso": "2026-09-29T15:37:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/enflasyon-rakamlari-ne-zaman-hangi-tarihte-aciklaniyor-haberi-841896",
+   "baslik": "Enflasyon rakamları ne zaman, hangi tarihte açıklanıyor?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/enflasyon-rakamlari-ne-zaman-hangi-tarihte-aciklaniyor-haberi-841896",
+   "saat": "15:29",
+   "tarih_iso": "2026-09-29T15:29:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/aa-finansin-eylul-ayi-enflasyon-beklenti-anketi-sonuclandi/4072641",
+   "baslik": "AA Finans'ın eylül ayı Enflasyon Beklenti Anketi sonuçlandı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/aa-finansin-eylul-ayi-enflasyon-beklenti-anketi-sonuclandi/4072641",
+   "saat": "15:28",
+   "tarih_iso": "2026-09-29T15:28:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/avro-dolar-karsisinda-son-3-ayin-en-dusuk-seviyesinde/4072615",
    "baslik": "Avro, dolar karşısında son 3 ayın en düşük seviyesinde",
@@ -376,6 +491,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jpmorgan-cuts-mondaycom-to-neutral-on-slowing-growth-4922703",
+   "baslik": "JPMorgan cuts Monday.com to Neutral on slowing growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jpmorgan-cuts-mondaycom-to-neutral-on-slowing-growth-4922703",
+   "saat": "15:53",
+   "tarih_iso": "2026-09-29T15:53:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/corning-stock-rises-on-3b-att-fiber-deal-4922696",
+   "baslik": "Corning stock rises on $3B AT&T fiber deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/corning-stock-rises-on-3b-att-fiber-deal-4922696",
+   "saat": "15:46",
+   "tarih_iso": "2026-09-29T15:46:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/fuelcell-energy-jumps-on-oppenheimer-initiation-citing-data-center-demand-4922680",
+   "baslik": "FuelCell Energy jumps on Oppenheimer initiation, citing data center demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/fuelcell-energy-jumps-on-oppenheimer-initiation-citing-data-center-demand-4922680",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-29T15:45:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-117-4922672",
+   "baslik": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 1.17%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-117-4922672",
+   "saat": "15:45",
+   "tarih_iso": "2026-09-29T15:45:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ww-international-stock-surging-today-93CH-4922663",
+   "baslik": "Why is WW International stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ww-international-stock-surging-today-93CH-4922663",
+   "saat": "15:39",
+   "tarih_iso": "2026-09-29T15:39:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/voyager-stock-surges-6-on-anduril-partnership-announcement-4922543",
    "baslik": "Voyager stock surges 6% on Anduril partnership announcement",
@@ -1159,6 +1324,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/ekonomi/altin-dusecek-mi-yukselecek-mi-gram-altin-artar-mi-haberi-841900",
+   "baslik": "Altın düşecek mi, yükselecek mi? Gram altın artar mı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/altin-dusecek-mi-yukselecek-mi-gram-altin-artar-mi-haberi-841900",
+   "saat": "15:52",
+   "tarih_iso": "2026-09-29T15:52:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-under-pressure-near-7week-low-ahead-of-us-data-200688577",
    "baslik": "Gold Under Pressure Near 7-Week Low Ahead of US Data",
    "kaynak": "Investing Emtia",
@@ -1299,5 +1474,5 @@
    "eklenme": "2026-09-29T09:01:05.117374+03:00"
   }
  ],
- "guncelleme": "2026-09-29T15:31:01.331315+03:00"
+ "guncelleme": "2026-09-29T16:01:10.918221+03:00"
 }
