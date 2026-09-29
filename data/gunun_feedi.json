@@ -2,6 +2,45 @@
  "tarih": "2026-09-29",
  "kap": [
   {
+   "id": "kap-my-REEDR-202609291700",
+   "baslik": "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:00",
+   "tarih_iso": "2026-09-29T17:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-29T17:30:57.356891+03:00"
+  },
+  {
+   "id": "kap-my-YEOTK-202609291655",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:55",
+   "tarih_iso": "2026-09-29T16:55:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-29T17:30:57.356891+03:00"
+  },
+  {
+   "id": "kap-my-TUPRS-202609291650",
+   "baslik": "BORSA İSTANBUL A.Ş. — Hak Kullanımı",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:50",
+   "tarih_iso": "2026-09-29T16:50:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-29T17:30:57.356891+03:00"
+  },
+  {
    "id": "kap-my-KRDMD-202609291635",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -539,6 +578,56 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nasdaq-100-rangebound-between-30548-and-30787-live-levels-93CH-4920692",
+   "baslik": "Nasdaq 100 trapped between SMAs at 30,620: Live levels",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nasdaq-100-rangebound-between-30548-and-30787-live-levels-93CH-4920692",
+   "saat": "17:17",
+   "tarih_iso": "2026-09-29T17:17:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:30:57.356891+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dow-jones-trapped-at-51913-between-double-bottom-and-downtrend-live-93CH-4920690",
+   "baslik": "Dow Jones clings to 51,480 support in downtrend: Live levels",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dow-jones-trapped-at-51913-between-double-bottom-and-downtrend-live-93CH-4920690",
+   "saat": "17:16",
+   "tarih_iso": "2026-09-29T17:16:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:30:57.356891+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-doji-signals-breakout-or-breakdown-at-7766-live-93CH-4920693",
+   "baslik": "S&P 500 wedged at 7,739 between key support and resistance: Live",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-doji-signals-breakout-or-breakdown-at-7766-live-93CH-4920693",
+   "saat": "17:16",
+   "tarih_iso": "2026-09-29T17:16:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:30:57.356891+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dollar-index-stalls-below-101-with-double-top-risk-live-levels-93CH-4920689",
+   "baslik": "Dollar Index battles 101.49 double top resistance: Live levels",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dollar-index-stalls-below-101-with-double-top-risk-live-levels-93CH-4920689",
+   "saat": "17:16",
+   "tarih_iso": "2026-09-29T17:16:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:30:57.356891+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+   "baslik": "Trump’s municipal bond portfolio reaches as much as $1 billion as policy overlaps mount",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/29/trump-municipal-bond-portfolio.html",
+   "saat": "17:03",
+   "tarih_iso": "2026-09-29T17:03:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:30:57.356891+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/29/comer-house-prediction-market-insider-trading.html",
    "baslik": "Rep. James Comer expands House investigation into prediction market insider trading",
    "kaynak": "CNBC",
@@ -547,6 +636,16 @@
    "tarih_iso": "2026-09-29T17:00:01+03:00",
    "kodlar": [],
    "eklenme": "2026-09-29T17:01:20.555325+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/junk-bonds-are-heading-for-worst-month-since-2022-after-punishing-global-selloff-12b70a3e?mod=mw_rss_topstories",
+   "baslik": "Junk bonds are heading for worst month since 2022 after punishing global selloff",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/junk-bonds-are-heading-for-worst-month-since-2022-after-punishing-global-selloff-12b70a3e?mod=mw_rss_topstories",
+   "saat": "17:00",
+   "tarih_iso": "2026-09-29T17:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:30:57.356891+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/sp-nasdaq-open-higher-on-oil-retreat-tech-optimism-4922926",
@@ -1491,6 +1590,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-faces-pressure-from-rising-yields-and-renewed-fed-rate-hike-bets-200688600",
+   "baslik": "Gold Faces Pressure From Rising Yields and Renewed Fed Rate Hike Bets",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-faces-pressure-from-rising-yields-and-renewed-fed-rate-hike-bets-200688600",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:30:57.356891+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/ekonomi/altin-dusecek-mi-yukselecek-mi-gram-altin-artar-mi-haberi-841900",
    "baslik": "Altın düşecek mi, yükselecek mi? Gram altın artar mı?",
    "kaynak": "Dünya",
@@ -1641,5 +1750,5 @@
    "eklenme": "2026-09-29T09:01:05.117374+03:00"
   }
  ],
- "guncelleme": "2026-09-29T17:01:20.555325+03:00"
+ "guncelleme": "2026-09-29T17:30:57.356891+03:00"
 }
