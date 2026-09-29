@@ -415,6 +415,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/ispanyada-enflasyon-eylulde-yuzde-5-ile-son-3-5-yilin-en-yuksek-seviyesine-cikti/4073130",
+   "baslik": "İspanya'da enflasyon eylülde yüzde 5 ile son 3,5 yılın en yüksek seviyesine çıktı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ispanyada-enflasyon-eylulde-yuzde-5-ile-son-3-5-yilin-en-yuksek-seviyesine-cikti/4073130",
+   "saat": "23:38",
+   "tarih_iso": "2026-09-29T23:38:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T00:30:55.547121+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/kanada-merkez-bankas-bankalar-likidite-kolaylgn-kullanmaya-cagrd-4083440",
    "baslik": "Kanada Merkez Bankası bankaları likidite kolaylığını kullanmaya çağırdı",
    "kaynak": "Investing TR",
@@ -696,6 +706,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
+   "baslik": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
+   "saat": "00:18",
+   "tarih_iso": "2026-09-30T00:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T00:30:55.547121+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-upgrades-wells-fargo-to-a-following-risk-management-overhauls-4923630",
+   "baslik": "S&P upgrades Wells Fargo to A- following risk management overhauls",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-upgrades-wells-fargo-to-a-following-risk-management-overhauls-4923630",
+   "saat": "00:09",
+   "tarih_iso": "2026-09-30T00:09:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T00:30:55.547121+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-airline-stocks-to-watch-as-fuel-volatility-tests-sector-outlook-4923620",
+   "baslik": "Top airline stocks to watch as fuel volatility tests sector outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-airline-stocks-to-watch-as-fuel-volatility-tests-sector-outlook-4923620",
+   "saat": "00:05",
+   "tarih_iso": "2026-09-30T00:05:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T00:30:55.547121+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/this-is-the-top-biotech-stock-pick-from-b-riley-securities-4923579",
    "baslik": "This is the top biotech stock pick from B Riley Securities",
@@ -1865,36 +1905,6 @@
    "tarih_iso": "2026-09-29T12:16:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-29T12:31:04.090523+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-smiths-news-stock-surging-today-93CH-4921831",
-   "baslik": "Why is Smiths News stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-smiths-news-stock-surging-today-93CH-4921831",
-   "saat": "12:13",
-   "tarih_iso": "2026-09-29T12:13:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-29T12:31:04.090523+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
-   "baslik": "Two-thirds of the revenue needed to justify the AI buildout are still unaccounted for, says major consulting firm",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/two-thirds-of-the-revenue-needed-to-justify-the-ai-buildout-are-still-unaccounted-for-says-major-consulting-firm-8c55ccba?mod=mw_rss_topstories",
-   "saat": "12:12",
-   "tarih_iso": "2026-09-29T12:12:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-29T12:31:04.090523+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/european-chip-stocks-rise-as-anthropic-spending-outlook-lifts-ai-demand-hopes-4921824",
-   "baslik": "European chip stocks rise as Anthropic spending outlook lifts AI demand hopes",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/european-chip-stocks-rise-as-anthropic-spending-outlook-lifts-ai-demand-hopes-4921824",
-   "saat": "12:10",
-   "tarih_iso": "2026-09-29T12:10:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-29T12:31:04.090523+03:00"
   }
  ],
  "altin_haber": [
@@ -1907,6 +1917,16 @@
    "tarih_iso": "2026-09-30T01:55:17+03:00",
    "kodlar": [],
    "eklenme": "2026-09-29T23:01:06.830506+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/finans/haberler/sorusturmayla-borsada-kayiplar-derinlesiyor-haberi-841941",
+   "baslik": "Soruşturmayla borsada kayıplar derinleşiyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/sorusturmayla-borsada-kayiplar-derinlesiyor-haberi-841941",
+   "saat": "00:00",
+   "tarih_iso": "2026-09-30T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T00:30:55.547121+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-market-faces-a-rate-test-after-losing-its-fed-cut-premium-200688630",
@@ -2149,5 +2169,5 @@
    "eklenme": "2026-09-29T09:01:05.117374+03:00"
   }
  ],
- "guncelleme": "2026-09-30T00:01:07.988868+03:00"
+ "guncelleme": "2026-09-30T00:30:55.547121+03:00"
 }
