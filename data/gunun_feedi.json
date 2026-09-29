@@ -2,6 +2,19 @@
  "tarih": "2026-09-29",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202609290917",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:17",
+   "tarih_iso": "2026-09-29T09:17:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-29T10:01:03.921703+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609290847",
    "baslik": "TEKFEN HOLDİNG A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "TEKFEN HOLDİNG A.Ş.",
@@ -43,6 +56,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/fed-faiz-karari-ne-zaman-hangi-gun-aciklanacak-amerikan-merkez-bankasi-faiz-artiracak-mi-haberi-841839",
+   "baslik": "Fed faiz kararı ne zaman, hangi gün açıklanacak? Amerikan Merkez Bankası faiz artıracak mı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/fed-faiz-karari-ne-zaman-hangi-gun-aciklanacak-amerikan-merkez-bankasi-faiz-artiracak-mi-haberi-841839",
+   "saat": "09:55",
+   "tarih_iso": "2026-09-29T09:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T10:01:03.921703+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/altin/altindaki-dusus-kripto-devini-vurdu-5-haftada-265-milyar-dolar-eridi-haberi-841824",
    "baslik": "Altındaki düşüş kripto devini vurdu: 5 haftada 2,65 milyar dolar eridi",
@@ -95,6 +118,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/swedish-household-confidence-hits-highest-since-2021-as-economic-sentiment-rises-93CH-4921646",
+   "baslik": "Swedish household confidence hits highest since 2021 as economic sentiment rises",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/swedish-household-confidence-hits-highest-since-2021-as-economic-sentiment-rises-93CH-4921646",
+   "saat": "09:48",
+   "tarih_iso": "2026-09-29T09:48:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T10:01:03.921703+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-rising-yields-oil-weigh-on-risk-appetite-rba-decision-ahead-4921528",
+   "baslik": "Asia subdued fall as rising yields, oil weigh; RBA hikes rates as expected",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-rising-yields-oil-weigh-on-risk-appetite-rba-decision-ahead-4921528",
+   "saat": "09:47",
+   "tarih_iso": "2026-09-29T09:47:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T10:01:03.921703+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-names-top-asiapacific-internet-stocks-4921636",
+   "baslik": "Jefferies Names Top Asia-Pacific Internet Stocks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jefferies-names-top-asiapacific-internet-stocks-4921636",
+   "saat": "09:36",
+   "tarih_iso": "2026-09-29T09:36:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T10:01:03.921703+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-034-4921626",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.34%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-034-4921626",
+   "saat": "09:30",
+   "tarih_iso": "2026-09-29T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T10:01:03.921703+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-066-4921594",
    "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.66%",
@@ -278,6 +341,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-tests-4143-as-the-vc-pmi-mean-holds-overhead-200688557",
+   "baslik": "Gold Tests $4,143 as the VC PMI Mean Holds Overhead",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-tests-4143-as-the-vc-pmi-mean-holds-overhead-200688557",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-29T10:01:03.921703+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-outlook-xauusd-hammered-stretched-and-vulnerable-to-a-sharp-rebound-200688559",
+   "baslik": "Gold Outlook: XAU/USD Hammered, Stretched and Vulnerable to a Sharp Rebound",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-outlook-xauusd-hammered-stretched-and-vulnerable-to-a-sharp-rebound-200688559",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-29T10:01:03.921703+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-4100-test-could-decide-whether-the-2026-bull-market-holds-200688549",
    "baslik": "Gold’s $4,100 Test Could Decide Whether the 2026 Bull Market Holds",
    "kaynak": "Investing Emtia",
@@ -368,5 +451,5 @@
    "eklenme": "2026-09-29T09:01:05.117374+03:00"
   }
  ],
- "guncelleme": "2026-09-29T09:30:55.913575+03:00"
+ "guncelleme": "2026-09-29T10:01:03.921703+03:00"
 }
