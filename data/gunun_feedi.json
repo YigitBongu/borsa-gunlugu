@@ -2,6 +2,45 @@
  "tarih": "2026-09-29",
  "kap": [
   {
+   "id": "kap-my-SKBNK-202609291858",
+   "baslik": "ŞEKERBANK T.A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "ŞEKERBANK T.A.Ş.",
+   "kodlar": [
+    "SKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:58",
+   "tarih_iso": "2026-09-29T18:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T00:01:07.988868+03:00"
+  },
+  {
+   "id": "kap-my-TTRAK-202609291855",
+   "baslik": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş.",
+   "kodlar": [
+    "TTRAK"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "18:55",
+   "tarih_iso": "2026-09-29T18:55:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T00:01:07.988868+03:00"
+  },
+  {
+   "id": "kap-my-AHGAZ-202609291830",
+   "baslik": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:30",
+   "tarih_iso": "2026-09-29T18:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T00:01:07.988868+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202609291713",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -290,6 +329,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/is-bankasi-emekli-promosyonu-eylul-2026-is-bankasi-ne-kadar-emekli-promosyonu-oduyor-ssk-bag-kur-emekli-promosyon-tutari-3472973",
+   "baslik": "İŞ BANKASI EMEKLİ PROMOSYONU EYLÜL 2026: İş Bankası Ne Kadar Emekli Promosyonu Ödüyor? SSK, Bağ-Kur Emekli Promosyon Tutarı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/is-bankasi-emekli-promosyonu-eylul-2026-is-bankasi-ne-kadar-emekli-promosyonu-oduyor-ssk-bag-kur-emekli-promosyon-tutari-3472973",
+   "saat": "01:44",
+   "tarih_iso": "2026-09-30T01:44:56+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-09-30T00:01:07.988868+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/astor-enerji-yonetim-kurulu-baskani-gecgelden-aciklama-haberi-841938",
+   "baslik": "Astor Enerji Yönetim Kurulu Başkanı Geçgel’den açıklama",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/astor-enerji-yonetim-kurulu-baskani-gecgelden-aciklama-haberi-841938",
+   "saat": "19:34",
+   "tarih_iso": "2026-09-29T19:34:00+03:00",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "eklenme": "2026-09-30T00:01:07.988868+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/cemal-onaran-dis-ticarette-uluslararasi-rekabet-gucunu-destekleyen-cozumler-gelistirecegiz-3915947",
    "baslik": "“Uluslararası rekabet gücünü destekleyen çözümler geliştireceğiz”",
    "kaynak": "Habertürk Ekonomi",
@@ -351,6 +414,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/kanada-merkez-bankas-bankalar-likidite-kolaylgn-kullanmaya-cagrd-4083440",
+   "baslik": "Kanada Merkez Bankası bankaları likidite kolaylığını kullanmaya çağırdı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/kanada-merkez-bankas-bankalar-likidite-kolaylgn-kullanmaya-cagrd-4083440",
+   "saat": "21:58",
+   "tarih_iso": "2026-09-29T21:58:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T00:01:07.988868+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-841936",
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-841936",
+   "saat": "19:23",
+   "tarih_iso": "2026-09-29T19:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T00:01:07.988868+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/merkez-bankasi-tbmmde-sunum-yapacak-3472879",
    "baslik": "Merkez Bankası, TBMM'de sunum yapacak",
@@ -613,6 +696,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/this-is-the-top-biotech-stock-pick-from-b-riley-securities-4923579",
+   "baslik": "This is the top biotech stock pick from B Riley Securities",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/this-is-the-top-biotech-stock-pick-from-b-riley-securities-4923579",
+   "saat": "23:54",
+   "tarih_iso": "2026-09-29T23:54:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T00:01:07.988868+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dyne-therapeutics-stock-rises-on-positive-dm1-trial-results-4923577",
+   "baslik": "Dyne Therapeutics stock rises on positive DM1 trial results",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dyne-therapeutics-stock-rises-on-positive-dm1-trial-results-4923577",
+   "saat": "23:53",
+   "tarih_iso": "2026-09-29T23:53:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T00:01:07.988868+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pyxis-oncology-stock-falls-on-public-offering-announcement-4923564",
+   "baslik": "Pyxis Oncology stock falls on public offering announcement",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pyxis-oncology-stock-falls-on-public-offering-announcement-4923564",
+   "saat": "23:49",
+   "tarih_iso": "2026-09-29T23:49:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T00:01:07.988868+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-025-4923522",
    "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.25%",
@@ -1782,36 +1895,6 @@
    "tarih_iso": "2026-09-29T12:10:58+03:00",
    "kodlar": [],
    "eklenme": "2026-09-29T12:31:04.090523+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/a-month-ago-this-jpmorgan-team-urged-caution-on-stocks-now-its-going-all-in-on-tech-f2e4b007?mod=mw_rss_topstories",
-   "baslik": "A month ago, this JPMorgan team urged caution on stocks. Now it’s going all in on tech.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/a-month-ago-this-jpmorgan-team-urged-caution-on-stocks-now-its-going-all-in-on-tech-f2e4b007?mod=mw_rss_topstories",
-   "saat": "11:56",
-   "tarih_iso": "2026-09-29T11:56:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-29T12:01:07.551701+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/smiths-news-stock-gains-on-fy2026-trading-above-forecasts-93CH-4921808",
-   "baslik": "Smiths News stock gains on FY2026 trading above forecasts",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/smiths-news-stock-gains-on-fy2026-trading-above-forecasts-93CH-4921808",
-   "saat": "11:52",
-   "tarih_iso": "2026-09-29T11:52:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-29T12:01:07.551701+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hapaglloyd-stock-rallying-today-93CH-4921805",
-   "baslik": "Why is Hapag-Lloyd stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-hapaglloyd-stock-rallying-today-93CH-4921805",
-   "saat": "11:50",
-   "tarih_iso": "2026-09-29T11:50:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-29T12:01:07.551701+03:00"
   }
  ],
  "altin_haber": [
@@ -2066,5 +2149,5 @@
    "eklenme": "2026-09-29T09:01:05.117374+03:00"
   }
  ],
- "guncelleme": "2026-09-29T23:55:21.525234+03:00"
+ "guncelleme": "2026-09-30T00:01:07.988868+03:00"
 }
