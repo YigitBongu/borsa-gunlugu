@@ -2,6 +2,19 @@
  "tarih": "2026-09-29",
  "kap": [
   {
+   "id": "kap-my-KRDMD-202609291635",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:35",
+   "tarih_iso": "2026-09-29T16:35:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-29T17:01:20.555325+03:00"
+  },
+  {
    "id": "kap-my-GUBRF-202609291543",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -212,6 +225,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/cemal-onaran-dis-ticarette-uluslararasi-rekabet-gucunu-destekleyen-cozumler-gelistirecegiz-3915947",
+   "baslik": "“Uluslararası rekabet gücünü destekleyen çözümler geliştireceğiz”",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/cemal-onaran-dis-ticarette-uluslararasi-rekabet-gucunu-destekleyen-cozumler-gelistirecegiz-3915947",
+   "saat": "16:39",
+   "tarih_iso": "2026-09-29T16:39:14+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-09-29T17:01:20.555325+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-29-eylul-2026/4072680",
+   "baslik": "60 saniyede ekonomide bugün (29 Eylül 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-29-eylul-2026/4072680",
+   "saat": "16:01",
+   "tarih_iso": "2026-09-29T16:01:08+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-09-29T17:01:20.555325+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/anadolu-efes-real-madrid-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-841852",
    "baslik": "Anadolu Efes Real Madrid maçı ne zaman, saat kaçta, hangi kanalda?",
    "kaynak": "Dünya",
@@ -258,6 +295,16 @@
    "tarih_iso": "2026-09-29T18:46:55+03:00",
    "kodlar": [],
    "eklenme": "2026-09-29T16:01:10.918221+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/ekonomistlerin-eylul-ayi-enflasyon-beklentisi-belli-oldu-haberi-841906",
+   "baslik": "Ekonomistlerin eylül ayı enflasyon beklentisi belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/ekonomistlerin-eylul-ayi-enflasyon-beklentisi-belli-oldu-haberi-841906",
+   "saat": "16:35",
+   "tarih_iso": "2026-09-29T16:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:01:20.555325+03:00"
   },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/euro-dolar-karsisinda-son-3-ayin-en-dusuk-seviyesinde-3915932",
@@ -491,6 +538,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/29/comer-house-prediction-market-insider-trading.html",
+   "baslik": "Rep. James Comer expands House investigation into prediction market insider trading",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/29/comer-house-prediction-market-insider-trading.html",
+   "saat": "17:00",
+   "tarih_iso": "2026-09-29T17:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:01:20.555325+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-nasdaq-open-higher-on-oil-retreat-tech-optimism-4922926",
+   "baslik": "S&P, Nasdaq open higher on oil retreat, tech optimism",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-nasdaq-open-higher-on-oil-retreat-tech-optimism-4922926",
+   "saat": "16:48",
+   "tarih_iso": "2026-09-29T16:48:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:01:20.555325+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-carvana-stock-rallying-today-93CH-4922924",
+   "baslik": "Why is Carvana stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-carvana-stock-rallying-today-93CH-4922924",
+   "saat": "16:46",
+   "tarih_iso": "2026-09-29T16:46:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:01:20.555325+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/qumulusai-stock-surges-on-2409m-nvidia-gpu-contracts-4922854",
+   "baslik": "QumulusAI stock falls amid $240.9M Nvidia GPU contracts",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/qumulusai-stock-surges-on-2409m-nvidia-gpu-contracts-4922854",
+   "saat": "16:46",
+   "tarih_iso": "2026-09-29T16:46:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:01:20.555325+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/exclusiveexus-acquires-large-us-solar-projects-fromibv-energy-in-data-center-hot-spots-louisiana-and-wisconsin-4922641",
+   "baslik": "Exclusive-Exus acquires large US solar projects from ibV Energy in data center hot spots Louisiana and Wisconsin",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/exclusiveexus-acquires-large-us-solar-projects-fromibv-energy-in-data-center-hot-spots-louisiana-and-wisconsin-4922641",
+   "saat": "16:31",
+   "tarih_iso": "2026-09-29T16:31:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:01:20.555325+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-carnival-stock-surging-today-93CH-4922859",
+   "baslik": "Why is Carnival stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-carnival-stock-surging-today-93CH-4922859",
+   "saat": "16:28",
+   "tarih_iso": "2026-09-29T16:28:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-29T17:01:20.555325+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/29/investors-who-have-shunned-diversification-face-maybe-the-best-buying-opportunity-for-bonds-in-decades.html",
    "baslik": "Investors who have shunned diversification face maybe the best buying opportunity for bonds in decades",
@@ -1534,5 +1641,5 @@
    "eklenme": "2026-09-29T09:01:05.117374+03:00"
   }
  ],
- "guncelleme": "2026-09-29T16:31:02.936886+03:00"
+ "guncelleme": "2026-09-29T17:01:20.555325+03:00"
 }
