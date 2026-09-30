@@ -890,6 +890,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/trump-powellin-fed-yonetim-kurulundan-istifa-etmesi-gerektigini-belirtti/4074307",
+   "baslik": "Trump, Powell'ın Fed Yönetim Kurulundan istifa etmesi gerektiğini belirtti",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/trump-powellin-fed-yonetim-kurulundan-istifa-etmesi-gerektigini-belirtti/4074307",
+   "saat": "00:07",
+   "tarih_iso": "2026-10-01T00:07:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T00:30:53.614430+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/is-dunyasi/gulsoy-enflasyon-dusurulurken-sanayicinin-azmi-kirilmamali-haberi-842108",
    "baslik": "Gülsoy: Enflasyon düşürülürken sanayicinin azmi kırılmamalı",
    "kaynak": "Dünya",
@@ -1131,6 +1141,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/logistic-properties-of-americas-stock-surges-on-peru-asset-sale-4925945",
+   "baslik": "Logistic Properties of Americas stock surges on Peru asset sale",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/logistic-properties-of-americas-stock-surges-on-peru-asset-sale-4925945",
+   "saat": "00:02",
+   "tarih_iso": "2026-10-01T00:02:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T00:30:53.614430+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
    "baslik": "A brutal September for bonds points to an even darker October",
@@ -2320,16 +2340,6 @@
    "tarih_iso": "2026-09-30T14:35:47+03:00",
    "kodlar": [],
    "eklenme": "2026-09-30T14:49:03.617096+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
-   "baslik": "Micron earnings hit Wall Street after the bell. Here's how traders are positioned into the report",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
-   "saat": "14:34",
-   "tarih_iso": "2026-09-30T14:34:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-30T14:49:03.617096+03:00"
   }
  ],
  "altin_haber": [
@@ -2634,5 +2644,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-10-01T00:01:06.050504+03:00"
+ "guncelleme": "2026-10-01T00:30:53.614430+03:00"
 }
