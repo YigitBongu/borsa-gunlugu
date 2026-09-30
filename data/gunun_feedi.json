@@ -2,6 +2,45 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-KONTR-202609301931",
+   "baslik": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş. — Bağımsız Denetim Kuruluşunun Belirlenmesi",
+   "sirket": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş.",
+   "kodlar": [
+    "KONTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:31",
+   "tarih_iso": "2026-09-30T19:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
+  {
+   "id": "kap-my-GARAN-202609301854",
+   "baslik": "TÜRKİYE GARANTİ BANKASI A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "TÜRKİYE GARANTİ BANKASI A.Ş.",
+   "kodlar": [
+    "GARAN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "18:54",
+   "tarih_iso": "2026-09-30T18:54:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202609301846",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "18:46",
+   "tarih_iso": "2026-09-30T18:46:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
+  {
    "id": "kap-my-BIENY-202609301758",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -680,6 +719,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/wi-fi-8i-ev-kosullarinda-test-eden-avrupadaki-ilk-operator-oldu-haberi-842088",
+   "baslik": "Wi-Fi 8’i ev koşullarında test eden Avrupa’daki ilk operatör oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/wi-fi-8i-ev-kosullarinda-test-eden-avrupadaki-ilk-operator-oldu-haberi-842088",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-01T00:00:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-uefa-kadinlar-avrupa-kupasinda-son-16-turuna-yukseldi-haberi-842121",
+   "baslik": "Fenerbahçe, UEFA Kadınlar Avrupa Kupası'nda son 16 turuna yükseldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-uefa-kadinlar-avrupa-kupasinda-son-16-turuna-yukseldi-haberi-842121",
+   "saat": "22:34",
+   "tarih_iso": "2026-09-30T22:34:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/tupras-2-taksit-temettu-odeme-tarihi-belli-oldu-tupras-temettu-odemesi-ne-zaman-hesaplara-yatacak-tuprs-temettu-takvimi-3473352",
    "baslik": "TÜPRAŞ 2. TAKSİT TEMETTÜ ÖDEME TARİHİ BELLİ OLDU! TÜPRAŞ Temettü Ödemesi Ne Zaman Hesaplara Yatacak? TUPRS Temettü Takvimi",
    "kaynak": "CNN Türk Ekonomi",
@@ -826,6 +889,46 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/is-dunyasi/gulsoy-enflasyon-dusurulurken-sanayicinin-azmi-kirilmamali-haberi-842108",
+   "baslik": "Gülsoy: Enflasyon düşürülürken sanayicinin azmi kırılmamalı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/is-dunyasi/gulsoy-enflasyon-dusurulurken-sanayicinin-azmi-kirilmamali-haberi-842108",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-01T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/ecb-baskani-lagardedan-istifa-sinyali-gorevimden-birkac-ay-once-ayrilabilirim-haberi-842120",
+   "baslik": "ECB Başkanı Lagarde'dan istifa sinyali: Görevimden birkaç ay önce ayrılabilirim",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/ecb-baskani-lagardedan-istifa-sinyali-gorevimden-birkac-ay-once-ayrilabilirim-haberi-842120",
+   "saat": "22:00",
+   "tarih_iso": "2026-09-30T22:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/ecb-baskani-christine-lagardedan-erken-istifa-sinyali/4074197",
+   "baslik": "ECB Başkanı Christine Lagarde'dan erken istifa sinyali",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-baskani-christine-lagardedan-erken-istifa-sinyali/4074197",
+   "saat": "21:33",
+   "tarih_iso": "2026-09-30T21:33:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fed-bankalarin-stres-testine-yonelik-degisiklikleri-tamamladi/4074048",
+   "baslik": "Fed, bankaların stres testine yönelik değişiklikleri tamamladı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-bankalarin-stres-testine-yonelik-degisiklikleri-tamamladi/4074048",
+   "saat": "19:14",
+   "tarih_iso": "2026-09-30T19:14:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/hazinenin-3-aylik-borclanma-plani-aciklandi-6307-milyar-liralik-ic-borclanma-ongoruluyor-haberi-842085",
    "baslik": "Hazine’nin 3 aylık borçlanma planı açıklandı: 630,7 milyar liralık iç borçlanma öngörülüyor",
@@ -1028,6 +1131,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
+   "baslik": "A brutal September for bonds points to an even darker October",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
+   "saat": "23:56",
+   "tarih_iso": "2026-09-30T23:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nu-holdings-stock-surging-in-afterhours-trading-today-93CH-4925922",
+   "baslik": "Why is Nu Holdings stock surging in after-hours trading today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nu-holdings-stock-surging-in-afterhours-trading-today-93CH-4925922",
+   "saat": "23:47",
+   "tarih_iso": "2026-09-30T23:47:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bernstein-names-top-networking-stocks-led-by-celestica-4925913",
+   "baslik": "Bernstein Names Top Networking Stocks Led by Celestica",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bernstein-names-top-networking-stocks-led-by-celestica-4925913",
+   "saat": "23:42",
+   "tarih_iso": "2026-09-30T23:42:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nu-holdings-stock-jumps-6-after-denying-monzo-acquisition-4925910",
+   "baslik": "Nu Holdings stock jumps 6% after denying Monzo acquisition",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nu-holdings-stock-jumps-6-after-denying-monzo-acquisition-4925910",
+   "saat": "23:37",
+   "tarih_iso": "2026-09-30T23:37:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-086-4925883",
    "baslik": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average down 0.86%",
@@ -2187,49 +2330,19 @@
    "tarih_iso": "2026-09-30T14:34:45+03:00",
    "kodlar": [],
    "eklenme": "2026-09-30T14:49:03.617096+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
-   "baslik": "Holiday retail sales are expected to top $1 trillion as inflation boosts growth",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
-   "saat": "14:30",
-   "tarih_iso": "2026-09-30T14:30:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-30T14:49:03.617096+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-factset-research-stock-sliding-today-93CH-4924833",
-   "baslik": "Why is FactSet Research stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-factset-research-stock-sliding-today-93CH-4924833",
-   "saat": "14:27",
-   "tarih_iso": "2026-09-30T14:27:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-30T14:49:03.617096+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/jp-morgan-favors-european-platforms-on-growth-sees-uk-backdrop-as-drag-4924827",
-   "baslik": "J.P. Morgan favors European platforms on growth, sees UK backdrop as drag",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/jp-morgan-favors-european-platforms-on-growth-sees-uk-backdrop-as-drag-4924827",
-   "saat": "14:23",
-   "tarih_iso": "2026-09-30T14:23:10+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-30T14:30:52.818392+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/deutsche-bank-sees-mixed-third-quarter-for-transportation-stocks-93CH-4924813",
-   "baslik": "Deutsche Bank sees mixed third quarter for transportation stocks",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-sees-mixed-third-quarter-for-transportation-stocks-93CH-4924813",
-   "saat": "14:20",
-   "tarih_iso": "2026-09-30T14:20:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-30T14:30:52.818392+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/golds-september-selloff-shows-the-cost-of-higher-real-rates-200688720",
+   "baslik": "Gold’s September Selloff Shows the Cost of Higher Real Rates",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-september-selloff-shows-the-cost-of-higher-real-rates-200688720",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-01T00:01:06.050504+03:00"
+  },
   {
    "id": "alt-https://www.mining.com/gold-fields-halts-windfall-work-as-quebec-permit-lapses/",
    "baslik": "Gold Fields halts Windfall work as Quebec permit lapses",
@@ -2521,5 +2634,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T23:53:25.740237+03:00"
+ "guncelleme": "2026-10-01T00:01:06.050504+03:00"
 }
