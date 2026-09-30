@@ -1142,6 +1142,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Energy bills are going up - here's what you can do about it",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "saat": "02:01",
+   "tarih_iso": "2026-10-01T02:01:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T02:30:54.025082+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/f0cdc5bc-c07a-47cf-9602-064006176aef?syn-25a6b1a6=1",
+   "baslik": "Trump says South Korea will invest $200bn in US energy projects",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/f0cdc5bc-c07a-47cf-9602-064006176aef?syn-25a6b1a6=1",
+   "saat": "01:41",
+   "tarih_iso": "2026-10-01T01:41:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T02:30:54.025082+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/30/watch-minneapolis-fed-president-neel-kashkari.html",
    "baslik": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data",
    "kaynak": "CNBC",
@@ -2320,26 +2340,6 @@
    "tarih_iso": "2026-09-30T15:02:39+03:00",
    "kodlar": [],
    "eklenme": "2026-09-30T15:30:55.788475+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/norwegian-cruise-line-stock-rises-on-upbeat-q3-forecast-4924963",
-   "baslik": "Norwegian Cruise Line stock rises on upbeat Q3 forecast",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/norwegian-cruise-line-stock-rises-on-upbeat-q3-forecast-4924963",
-   "saat": "14:57",
-   "tarih_iso": "2026-09-30T14:57:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-30T15:30:55.788475+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/conagra-brands-beats-firstquarter-profit-and-sales-estimates-4924958",
-   "baslik": "Conagra Brands beats first-quarter profit and sales estimates",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/conagra-brands-beats-firstquarter-profit-and-sales-estimates-4924958",
-   "saat": "14:55",
-   "tarih_iso": "2026-09-30T14:55:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-30T15:30:55.788475+03:00"
   }
  ],
  "altin_haber": [
@@ -2644,5 +2644,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-10-01T02:01:09.179481+03:00"
+ "guncelleme": "2026-10-01T02:30:54.025082+03:00"
 }
