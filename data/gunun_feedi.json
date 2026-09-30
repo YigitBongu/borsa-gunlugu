@@ -2,6 +2,45 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-REEDR-202609301501",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:01",
+   "tarih_iso": "2026-09-30T15:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
+  {
+   "id": "kap-my-VAKBN-202609301451",
+   "baslik": "TÜRKİYE VAKIFLAR BANKASI T.A.O. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:51",
+   "tarih_iso": "2026-09-30T14:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
+  {
+   "id": "kap-my-SASA-202609301441",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SASA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:41",
+   "tarih_iso": "2026-09-30T14:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
+  {
    "id": "kap-my-YKBNK-202609301419",
    "baslik": "YAPI VE KREDİ BANKASI A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
    "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
@@ -368,6 +407,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/orhan-veli-cayci-turkiyenin-yesil-donusumune-katki-saglayan-yatirimlari-desteklemeye-devam-etmekten--3916197",
+   "baslik": "\"Yeşil dönüşüme katkı sağlayan yatırımları destekliyoruz\"",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/orhan-veli-cayci-turkiyenin-yesil-donusumune-katki-saglayan-yatirimlari-desteklemeye-devam-etmekten--3916197",
+   "saat": "15:12",
+   "tarih_iso": "2026-09-30T15:12:15+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/super-kupa-maclarinin-tarihleri-belli-oldu-haberi-842063",
+   "baslik": "Süper Kupa maçlarının tarihleri belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/super-kupa-maclarinin-tarihleri-belli-oldu-haberi-842063",
+   "saat": "15:03",
+   "tarih_iso": "2026-09-30T15:03:00+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/yerli-telefon-ne-zaman-cikacak-nerede-uretilecek-turkiyede-uretilecek-yeni-akilli-telefonun-ozellikleri-ne-aselsan-ve-turk-3473137",
    "baslik": "YERLİ TELEFON NE ZAMAN ÇIKACAK, NEREDE ÜRETİLECEK? Türkiye'de Üretilecek Yeni Akıllı Telefonun Özellikleri Ne? ASELSAN ve Türk Telekom'dan Ortak Hamle",
    "kaynak": "CNN Türk Ekonomi",
@@ -582,6 +645,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/robinhood-stock-rises-as-analysts-applaud-ai-agents-trading-tools-4924900",
+   "baslik": "Robinhood stock rises as analysts applaud AI agents, trading tools",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/robinhood-stock-rises-as-analysts-applaud-ai-agents-trading-tools-4924900",
+   "saat": "15:21",
+   "tarih_iso": "2026-09-30T15:21:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-robinhood-markets-stock-rallying-today-93CH-4925067",
+   "baslik": "Why is Robinhood Markets stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-robinhood-markets-stock-rallying-today-93CH-4925067",
+   "saat": "15:17",
+   "tarih_iso": "2026-09-30T15:17:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/30/openai-follows-meta-into-the-red-hot-market-for-personal-agents.html",
+   "baslik": "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/30/openai-follows-meta-into-the-red-hot-market-for-personal-agents.html",
+   "saat": "15:04",
+   "tarih_iso": "2026-09-30T15:04:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
+   "baslik": "Robinhood unveils weekend hours, AI agents to allow users to trade nonstop",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/30/robinhood-unveils-weekend-hours-ai-agents-to-allow-users-to-trade-nonstop.html",
+   "saat": "15:02",
+   "tarih_iso": "2026-09-30T15:02:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/norwegian-cruise-line-stock-rises-on-upbeat-q3-forecast-4924963",
+   "baslik": "Norwegian Cruise Line stock rises on upbeat Q3 forecast",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/norwegian-cruise-line-stock-rises-on-upbeat-q3-forecast-4924963",
+   "saat": "14:57",
+   "tarih_iso": "2026-09-30T14:57:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/conagra-brands-beats-firstquarter-profit-and-sales-estimates-4924958",
+   "baslik": "Conagra Brands beats first-quarter profit and sales estimates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/conagra-brands-beats-firstquarter-profit-and-sales-estimates-4924958",
+   "saat": "14:55",
+   "tarih_iso": "2026-09-30T14:55:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-moderna-stock-sliding-today-93CH-4924947",
+   "baslik": "Why is Moderna stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-sliding-today-93CH-4924947",
+   "saat": "14:51",
+   "tarih_iso": "2026-09-30T14:51:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T15:30:55.788475+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-conagra-brands-stock-rallying-today-93CH-4924917",
    "baslik": "Why is Conagra Brands stock rallying today?",
@@ -1555,5 +1688,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T15:01:08.739363+03:00"
+ "guncelleme": "2026-09-30T15:30:55.788475+03:00"
 }
