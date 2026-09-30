@@ -2,6 +2,58 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-CANTE-202609301223",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CANTE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:23",
+   "tarih_iso": "2026-09-30T12:23:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T13:01:01.576413+03:00"
+  },
+  {
+   "id": "kap-my-ASTOR-202609301223",
+   "baslik": "ASTOR ENERJİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "ASTOR ENERJİ A.Ş.",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:23",
+   "tarih_iso": "2026-09-30T12:23:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T13:01:01.576413+03:00"
+  },
+  {
+   "id": "kap-my-SMRTG-202609301222",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:22",
+   "tarih_iso": "2026-09-30T12:22:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T13:01:01.576413+03:00"
+  },
+  {
+   "id": "kap-my-GUBRF-202609301212",
+   "baslik": "GÜBRE FABRİKALARI T.A.Ş. — Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+   "sirket": "GÜBRE FABRİKALARI T.A.Ş.",
+   "kodlar": [
+    "GUBRF"
+   ],
+   "kategori": "Temettü",
+   "saat": "12:12",
+   "tarih_iso": "2026-09-30T12:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T13:01:01.576413+03:00"
+  },
+  {
    "id": "kap-my-GUBRF-202609301200",
    "baslik": "GÜBRE FABRİKALARI T.A.Ş. — Genel Kurul İşlemlerine İlişkin Bildirim",
    "sirket": "GÜBRE FABRİKALARI T.A.Ş.",
@@ -288,6 +340,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fransada-enflasyon-eylulde-enerji-maliyetleriyle-yuzde-3e-scrad-93CH-4084227",
+   "baslik": "Fransa’da enflasyon Eylül’de enerji maliyetleriyle yüzde 3’e sıçradı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fransada-enflasyon-eylulde-enerji-maliyetleriyle-yuzde-3e-scrad-93CH-4084227",
+   "saat": "12:29",
+   "tarih_iso": "2026-09-30T12:29:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T13:01:01.576413+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/bist-ayi-piyasasina-girdi-warren-buffettin-kazandiran-stratejisi-yeniden-gundemde-galeri-842034",
    "baslik": "BİST ayı piyasasına girdi: Warren Buffett'ın kazandıran stratejisi yeniden gündemde",
    "kaynak": "Dünya",
@@ -369,6 +431,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/metas-muse-ai-agent-pressures-online-travel-stocks-truist-comments-93CH-4924456",
+   "baslik": "Meta’s Muse AI agent pressures online travel stocks, Truist comments",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/metas-muse-ai-agent-pressures-online-travel-stocks-truist-comments-93CH-4924456",
+   "saat": "12:36",
+   "tarih_iso": "2026-09-30T12:36:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T13:01:01.576413+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
+   "baslik": "He’s been badmouthing Treasury bonds since 2020, but now ‘the big fat cushion’ of 5.25% yields is turning this strategist bullish",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/hes-been-badmouthing-treasury-bonds-since-2020-but-now-the-big-fat-cushion-of-5-25-yields-is-turning-this-strategist-bullish-376fafba?mod=mw_rss_topstories",
+   "saat": "12:32",
+   "tarih_iso": "2026-09-30T12:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T13:01:01.576413+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/french-inflation-jumps-to-3-in-september-on-energy-costs-93CH-4924448",
+   "baslik": "French inflation jumps to 3% in September on energy costs",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/french-inflation-jumps-to-3-in-september-on-energy-costs-93CH-4924448",
+   "saat": "12:28",
+   "tarih_iso": "2026-09-30T12:28:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T13:01:01.576413+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-climbing-today-93CH-4924447",
+   "baslik": "Why is GameStop stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-gamestop-stock-climbing-today-93CH-4924447",
+   "saat": "12:27",
+   "tarih_iso": "2026-09-30T12:27:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T13:01:01.576413+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/stifel-says-your-first-home-scheme-could-boost-builder-earnings-93CH-4924438",
+   "baslik": "Stifel says Your First Home scheme could boost builder earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/stifel-says-your-first-home-scheme-could-boost-builder-earnings-93CH-4924438",
+   "saat": "12:25",
+   "tarih_iso": "2026-09-30T12:25:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T13:01:01.576413+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
    "baslik": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
@@ -982,5 +1094,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T12:30:56.182180+03:00"
+ "guncelleme": "2026-09-30T13:01:01.576413+03:00"
 }
