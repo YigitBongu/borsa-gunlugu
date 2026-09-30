@@ -415,6 +415,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-30-eylul-carsamba-doviz-kurlari-haberi-841968",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (30 Eylül Çarşamba Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-30-eylul-carsamba-doviz-kurlari-haberi-841968",
+   "saat": "07:13",
+   "tarih_iso": "2026-09-30T07:13:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T07:30:55.268220+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/piyasalar-dolar-basksyla-geriledi--ancak-bu-gunes-enerjisi-hissesi-bugun-1084-scrad-4083795",
    "baslik": "Piyasalar dolar baskısıyla geriledi - ancak bu güneş enerjisi hissesi bugün %10,84 sıçradı",
    "kaynak": "Investing TR",
@@ -726,6 +736,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-mixed-ahead-of-us-pce-inflation-regional-data-in-focus-4924060",
+   "baslik": "Asia stocks mixed ahead of U.S. PCE inflation; regional data in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-ahead-of-us-pce-inflation-regional-data-in-focus-4924060",
+   "saat": "07:11",
+   "tarih_iso": "2026-09-30T07:11:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T07:30:55.268220+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cspc-pharmaceutical-stock-surging-today-93CH-4924042",
    "baslik": "Why is CSPC Pharmaceutical stock surging today?",
@@ -1915,16 +1935,6 @@
    "tarih_iso": "2026-09-29T14:16:22+03:00",
    "kodlar": [],
    "eklenme": "2026-09-29T14:33:54.081972+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/morgan-stanleys-mike-wilson-says-an-s-p-500-correction-may-be-exactly-what-the-market-needs-a6baf54e?mod=mw_rss_topstories",
-   "baslik": "Morgan Stanley’s Mike Wilson says an S&P 500 correction may be exactly what the market needs",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/morgan-stanleys-mike-wilson-says-an-s-p-500-correction-may-be-exactly-what-the-market-needs-a6baf54e?mod=mw_rss_topstories",
-   "saat": "14:03",
-   "tarih_iso": "2026-09-29T14:03:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-29T14:30:54.431534+03:00"
   }
  ],
  "altin_haber": [
@@ -2199,5 +2209,5 @@
    "eklenme": "2026-09-29T09:01:05.117374+03:00"
   }
  ],
- "guncelleme": "2026-09-30T07:00:59.992593+03:00"
+ "guncelleme": "2026-09-30T07:30:55.268220+03:00"
 }
