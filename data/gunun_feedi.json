@@ -1,6 +1,46 @@
 {
  "tarih": "2026-09-30",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-TKFEN-202609300906",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:06",
+   "tarih_iso": "2026-09-30T09:06:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T09:30:55.473190+03:00"
+  },
+  {
+   "id": "kap-my-TUPRS-202609300902",
+   "baslik": "BORSA İSTANBUL A.Ş. — BISTECH Pay Piyasası Alım Satım Sistemi Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:02",
+   "tarih_iso": "2026-09-30T09:02:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T09:30:55.473190+03:00"
+  },
+  {
+   "id": "kap-my-MGROS-202609300901",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "MGROS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:01",
+   "tarih_iso": "2026-09-30T09:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T09:30:55.473190+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/is-bankasi-emekli-promosyonu-eylul-2026-is-bankasi-ne-kadar-emekli-promosyonu-oduyor-ssk-bag-kur-emekli-promosyon-tutari-3472973",
@@ -90,6 +130,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-surging-today-93CH-4924136",
+   "baslik": "Why is SoftBank Group stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-softbank-group-stock-surging-today-93CH-4924136",
+   "saat": "09:07",
+   "tarih_iso": "2026-09-30T09:07:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T09:30:55.473190+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-112-4924133",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 1.12%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-112-4924133",
+   "saat": "09:05",
+   "tarih_iso": "2026-09-30T09:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T09:30:55.473190+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-china-biopharma-stocks-to-watch-according-to-bernstein-4924125",
+   "baslik": "Top China Biopharma Stocks to Watch, According to Bernstein",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-china-biopharma-stocks-to-watch-according-to-bernstein-4924125",
+   "saat": "08:48",
+   "tarih_iso": "2026-09-30T08:48:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T09:30:55.473190+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australias-metrics-freezes-some-fund-redemptions-in-sign-of-private-credit-market-stress-4924093",
+   "baslik": "Australia’s Metrics freezes some fund redemptions in sign of private credit market stress",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australias-metrics-freezes-some-fund-redemptions-in-sign-of-private-credit-market-stress-4924093",
+   "saat": "08:42",
+   "tarih_iso": "2026-09-30T08:42:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T09:30:55.473190+03:00"
+  },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
    "baslik": "Household energy bills forecast to see biggest rise in four years",
@@ -283,6 +363,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-30-eylul-gram-altin-ceyrek-altin-ve-ons-altin-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3473098",
+   "baslik": "ALTIN FİYATLARI 30 EYLÜL| Gram altın, çeyrek altın ve ons altın ne kadar? Kapalıçarşı altın fiyatları ne durumda?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlari-30-eylul-gram-altin-ceyrek-altin-ve-ons-altin-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3473098",
+   "saat": "12:08",
+   "tarih_iso": "2026-09-30T12:08:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T09:30:55.473190+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-enters-buy-zone-as-investors-watch-4000-support-and-rate-risks-200688615",
    "baslik": "Gold Enters Buy Zone as Investors Watch $4,000 Support and Rate Risks",
    "kaynak": "Investing Emtia",
@@ -373,5 +463,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T09:01:04.709464+03:00"
+ "guncelleme": "2026-09-30T09:30:55.473190+03:00"
 }
