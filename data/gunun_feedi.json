@@ -2,6 +2,58 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-VAKBN-202609301054",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:54",
+   "tarih_iso": "2026-09-30T10:54:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T11:30:59.042092+03:00"
+  },
+  {
+   "id": "kap-my-TCELL-202609301051",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "TCELL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:51",
+   "tarih_iso": "2026-09-30T10:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T11:30:59.042092+03:00"
+  },
+  {
+   "id": "kap-my-SMRTG-202609301047",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:47",
+   "tarih_iso": "2026-09-30T10:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T11:30:59.042092+03:00"
+  },
+  {
+   "id": "kap-my-GESAN-202609301045",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:45",
+   "tarih_iso": "2026-09-30T10:45:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T11:30:59.042092+03:00"
+  },
+  {
    "id": "kap-my-EUPWR-202609301031",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -120,6 +172,18 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   },
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/sabanci-holding-dunyanin-en-iyi-25-isvereni-arasinda-3916112",
+   "baslik": "Sabancı Holding 'Dünyanın En İyi 25 İşvereni' arasında",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/sabanci-holding-dunyanin-en-iyi-25-isvereni-arasinda-3916112",
+   "saat": "11:06",
+   "tarih_iso": "2026-09-30T11:06:36+03:00",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "eklenme": "2026-09-30T11:30:59.042092+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/enerjisa-enerji-ust-yonetiminde-gorev-degisimi-3916094",
    "baslik": "Enerjisa Enerji üst yönetiminde görev değişimi",
    "kaynak": "Habertürk Ekonomi",
@@ -145,6 +209,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/isvec-merkez-bankas-arz-sorunlarndan-kaynakl-enflasyon-risklerine-kars-uyard-93CH-4084045",
+   "baslik": "İsveç merkez bankası arz sorunlarından kaynaklı enflasyon risklerine karşı uyardı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/isvec-merkez-bankas-arz-sorunlarndan-kaynakl-enflasyon-risklerine-kars-uyard-93CH-4084045",
+   "saat": "11:04",
+   "tarih_iso": "2026-09-30T11:04:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T11:30:59.042092+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/emlak/yarisi-bizden-kampanyasinda-tufe-detayi-galeri-841976",
    "baslik": "“Yarısı Bizden” kampanyasında TÜFE detayı",
@@ -207,6 +281,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
+   "baslik": "Tuesday’s market moves was one of the more disturbing days of late, says Goldman Sachs pro",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
+   "saat": "11:25",
+   "tarih_iso": "2026-09-30T11:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T11:30:59.042092+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tullow-oil-stock-crashing-today-93CH-4924301",
+   "baslik": "Why is Tullow Oil stock crashing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tullow-oil-stock-crashing-today-93CH-4924301",
+   "saat": "11:12",
+   "tarih_iso": "2026-09-30T11:12:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T11:30:59.042092+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/juventus-stock-tumbles-to-decade-low-on-capital-increase-plan-4924299",
+   "baslik": "Juventus stock tumbles to decade low on capital increase plan",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/juventus-stock-tumbles-to-decade-low-on-capital-increase-plan-4924299",
+   "saat": "11:08",
+   "tarih_iso": "2026-09-30T11:08:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T11:30:59.042092+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/swedish-central-bank-warns-on-inflation-risks-from-supply-issues-93CH-4924281",
+   "baslik": "Swedish central bank warns on inflation risks from supply issues",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/swedish-central-bank-warns-on-inflation-risks-from-supply-issues-93CH-4924281",
+   "saat": "11:02",
+   "tarih_iso": "2026-09-30T11:02:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T11:30:59.042092+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-saga-stock-surging-today-93CH-4924246",
    "baslik": "Why is Saga stock surging today?",
@@ -660,5 +774,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T11:01:09.080868+03:00"
+ "guncelleme": "2026-09-30T11:30:59.042092+03:00"
 }
