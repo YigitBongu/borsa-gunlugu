@@ -2,6 +2,45 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-GUBRF-202609301200",
+   "baslik": "GÜBRE FABRİKALARI T.A.Ş. — Genel Kurul İşlemlerine İlişkin Bildirim",
+   "sirket": "GÜBRE FABRİKALARI T.A.Ş.",
+   "kodlar": [
+    "GUBRF"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:00",
+   "tarih_iso": "2026-09-30T12:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
+   "id": "kap-my-TCELL-202609301149",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "TCELL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:49",
+   "tarih_iso": "2026-09-30T11:49:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
+   "id": "kap-my-VAKBN-202609301148",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:48",
+   "tarih_iso": "2026-09-30T11:48:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
    "id": "kap-my-QUAGR-202609301134",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -249,6 +288,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/bist-ayi-piyasasina-girdi-warren-buffettin-kazandiran-stratejisi-yeniden-gundemde-galeri-842034",
+   "baslik": "BİST ayı piyasasına girdi: Warren Buffett'ın kazandıran stratejisi yeniden gündemde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/bist-ayi-piyasasina-girdi-warren-buffettin-kazandiran-stratejisi-yeniden-gundemde-galeri-842034",
+   "saat": "11:59",
+   "tarih_iso": "2026-09-30T11:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/isvec-merkez-bankas-arz-sorunlarndan-kaynakl-enflasyon-risklerine-kars-uyard-93CH-4084045",
    "baslik": "İsveç merkez bankası arz sorunlarından kaynaklı enflasyon risklerine karşı uyardı",
    "kaynak": "Investing TR",
@@ -320,6 +369,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
+   "baslik": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
+   "saat": "12:20",
+   "tarih_iso": "2026-09-30T12:20:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
+   "baslik": "There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
+   "saat": "12:16",
+   "tarih_iso": "2026-09-30T12:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/opec-likely-to-maintain-oil-output-targets-at-sunday-meeting--report-93CH-4924406",
+   "baslik": "OPEC+ likely to maintain oil output targets at Sunday meeting - report",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/opec-likely-to-maintain-oil-output-targets-at-sunday-meeting--report-93CH-4924406",
+   "saat": "12:04",
+   "tarih_iso": "2026-09-30T12:04:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/boeing-stock-analysis-is-it-a-buy-as-selloff-improves-entry-price-93CH-4924380",
+   "baslik": "Boeing stock analysis: Is it a buy as selloff improves entry price?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/boeing-stock-analysis-is-it-a-buy-as-selloff-improves-entry-price-93CH-4924380",
+   "saat": "11:55",
+   "tarih_iso": "2026-09-30T11:55:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/atlas-arteria-stock-recovers-after-recent-selloff-93CH-4924379",
+   "baslik": "Atlas Arteria stock recovers after recent selloff",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/atlas-arteria-stock-recovers-after-recent-selloff-93CH-4924379",
+   "saat": "11:55",
+   "tarih_iso": "2026-09-30T11:55:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/vonovia-stock-rises-on-potential-asset-management-mandate-93CH-4924343",
+   "baslik": "Vonovia stock rises on potential asset management mandate",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/vonovia-stock-rises-on-potential-asset-management-mandate-93CH-4924343",
+   "saat": "11:50",
+   "tarih_iso": "2026-09-30T11:50:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-040-4924316",
    "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.40%",
@@ -703,6 +812,36 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-finally-has-a-macro-reason-to-move-higher-200688667",
+   "baslik": "Gold Finally Has a Macro Reason to Move Higher",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-finally-has-a-macro-reason-to-move-higher-200688667",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-is-bouncing--but-can-4200-hold-200688668",
+   "baslik": "Gold Is Bouncing - But Can $4,200 Hold?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-is-bouncing--but-can-4200-hold-200688668",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/golds-400-swings-are-changing-the-risk-equation-200688666",
+   "baslik": "Gold’s $400 Swings Are Changing the Risk Equation",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-400-swings-are-changing-the-risk-equation-200688666",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:30:56.182180+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-30-eylul-gram-altin-ceyrek-altin-ve-ons-altin-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3473098",
    "baslik": "ALTIN FİYATLARI 30 EYLÜL| Gram altın, çeyrek altın ve ons altın ne kadar? Kapalıçarşı altın fiyatları ne durumda?",
    "kaynak": "CNN Türk Ekonomi",
@@ -843,5 +982,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T12:01:08.475195+03:00"
+ "guncelleme": "2026-09-30T12:30:56.182180+03:00"
 }
