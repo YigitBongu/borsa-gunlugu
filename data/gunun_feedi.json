@@ -2,6 +2,32 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-EUPWR-202609301031",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:31",
+   "tarih_iso": "2026-09-30T10:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T11:01:09.080868+03:00"
+  },
+  {
+   "id": "kap-my-MIATK-202609301014",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:14",
+   "tarih_iso": "2026-09-30T10:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T11:01:09.080868+03:00"
+  },
+  {
    "id": "kap-my-CWENE-202609301008",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -69,6 +95,19 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/yerli-telefon-ne-zaman-cikacak-nerede-uretilecek-turkiyede-uretilecek-yeni-akilli-telefonun-ozellikleri-ne-aselsan-ve-turk-3473137",
+   "baslik": "YERLİ TELEFON NE ZAMAN ÇIKACAK, NEREDE ÜRETİLECEK? Türkiye'de Üretilecek Yeni Akıllı Telefonun Özellikleri Ne? ASELSAN ve Türk Telekom'dan Ortak Hamle",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/yerli-telefon-ne-zaman-cikacak-nerede-uretilecek-turkiyede-uretilecek-yeni-akilli-telefonun-ozellikleri-ne-aselsan-ve-turk-3473137",
+   "saat": "13:46",
+   "tarih_iso": "2026-09-30T13:46:27+03:00",
+   "kodlar": [
+    "ASELS",
+    "TTKOM"
+   ],
+   "eklenme": "2026-09-30T11:01:09.080868+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/is-bankasi-emekli-promosyonu-eylul-2026-is-bankasi-ne-kadar-emekli-promosyonu-oduyor-ssk-bag-kur-emekli-promosyon-tutari-3472973",
    "baslik": "İŞ BANKASI EMEKLİ PROMOSYONU EYLÜL 2026: İş Bankası Ne Kadar Emekli Promosyonu Ödüyor? SSK, Bağ-Kur Emekli Promosyon Tutarı",
    "kaynak": "CNN Türk Ekonomi",
@@ -79,6 +118,18 @@
     "ISCTR"
    ],
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/enerjisa-enerji-ust-yonetiminde-gorev-degisimi-3916094",
+   "baslik": "Enerjisa Enerji üst yönetiminde görev değişimi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/enerjisa-enerji-ust-yonetiminde-gorev-degisimi-3916094",
+   "saat": "10:31",
+   "tarih_iso": "2026-09-30T10:31:14+03:00",
+   "kodlar": [
+    "ENJSA"
+   ],
+   "eklenme": "2026-09-30T11:01:09.080868+03:00"
   },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/fon-sorusturmasinda-astor-sirket-sahibi-feridun-gecgelin-pasaportuna-el-konuldu-3916054",
@@ -156,6 +207,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-saga-stock-surging-today-93CH-4924246",
+   "baslik": "Why is Saga stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-saga-stock-surging-today-93CH-4924246",
+   "saat": "10:27",
+   "tarih_iso": "2026-09-30T10:27:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T11:01:09.080868+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-greggs-stock-surging-today-93CH-4924245",
+   "baslik": "Why is Greggs stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-greggs-stock-surging-today-93CH-4924245",
+   "saat": "10:25",
+   "tarih_iso": "2026-09-30T10:25:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T11:01:09.080868+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-uk-gdp-beats-forecasts-miners-lead-4924242",
+   "baslik": "FTSE 100 today: Stocks rise as UK GDP beats forecasts, miners lead",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-uk-gdp-beats-forecasts-miners-lead-4924242",
+   "saat": "10:22",
+   "tarih_iso": "2026-09-30T10:22:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T11:01:09.080868+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
    "baslik": "Oil prices climb as Trump denies offering Iran sanctions relief; Qatar pushes for peace talks",
@@ -449,6 +530,36 @@
    "eklenme": "2026-09-30T09:30:55.473190+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-approaches-a-critical-juncture-ahead-of-us-pce-data-prompting-selling-200688662",
+   "baslik": "Gold Approaches a Critical Juncture Ahead of US PCE Data, Prompting Selling",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-approaches-a-critical-juncture-ahead-of-us-pce-data-prompting-selling-200688662",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-30T11:01:09.080868+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-reacts-at-the-4h-fvg-will-4200-come-into-play-200688659",
+   "baslik": "Gold Reacts at the 4H FVG: Will $4,200 Come Into Play?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-reacts-at-the-4h-fvg-will-4200-come-into-play-200688659",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-30T11:01:09.080868+03:00"
+  },
+  {
+   "id": "alt-https://www.haberturk.com/ekonomi/gram-altin-ne-kadar-oldu-3916099",
+   "baslik": "Gram altın ne kadar oldu?",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/gram-altin-ne-kadar-oldu-3916099",
+   "saat": "10:33",
+   "tarih_iso": "2026-09-30T10:33:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T11:01:09.080868+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-at-a-cycle-turning-window-square-of-9-meets-4208-200688642",
    "baslik": "Gold at a Cycle Turning Window: Square of 9 Meets $4,208",
    "kaynak": "Investing Emtia",
@@ -549,5 +660,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T10:30:56.129228+03:00"
+ "guncelleme": "2026-09-30T11:01:09.080868+03:00"
 }
