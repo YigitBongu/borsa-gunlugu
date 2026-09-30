@@ -2,6 +2,45 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-MGROS-202609301602",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "MGROS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:02",
+   "tarih_iso": "2026-09-30T16:02:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T16:31:06.248734+03:00"
+  },
+  {
+   "id": "kap-my-PGSUS-202609301558",
+   "baslik": "BORSA İSTANBUL A.Ş. — VİOP İşlem İptali Duyuruları",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "PGSUS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:58",
+   "tarih_iso": "2026-09-30T15:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T16:31:06.248734+03:00"
+  },
+  {
+   "id": "kap-my-TCELL-202609301540",
+   "baslik": "BORSA İSTANBUL A.Ş. — VİOP İşlem İptali Duyuruları",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "TCELL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:40",
+   "tarih_iso": "2026-09-30T15:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T16:31:06.248734+03:00"
+  },
+  {
    "id": "kap-my-MIATK-202609301536",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -472,6 +511,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/turkcell-teknofest-guneydoguda-5g-ve-yapay-zeka-teknolojilerini-genclerle-bulusturdu-haberi-842075",
+   "baslik": "Turkcell TEKNOFEST Güneydoğu’da 5G ve yapay zekâ teknolojilerini gençlerle buluşturdu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turkcell-teknofest-guneydoguda-5g-ve-yapay-zeka-teknolojilerini-genclerle-bulusturdu-haberi-842075",
+   "saat": "16:19",
+   "tarih_iso": "2026-09-30T16:19:00+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-09-30T16:31:06.248734+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/orhan-veli-cayci-turkiyenin-yesil-donusumune-katki-saglayan-yatirimlari-desteklemeye-devam-etmekten--3916197",
    "baslik": "\"Yeşil dönüşüme katkı sağlayan yatırımları destekliyoruz\"",
    "kaynak": "Habertürk Ekonomi",
@@ -558,6 +609,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/almanya-da-enflasyon-eylulde-yuzde-3-3-ile-son-3-yilin-en-yuksek-seviyesine-ulasti/4073811",
+   "baslik": "Almanya’da enflasyon eylülde yüzde 3,3 ile son 3 yılın en yüksek seviyesine ulaştı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/almanya-da-enflasyon-eylulde-yuzde-3-3-ile-son-3-yilin-en-yuksek-seviyesine-ulasti/4073811",
+   "saat": "15:41",
+   "tarih_iso": "2026-09-30T15:41:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T16:31:06.248734+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/ingiltere-merkez-bankasindan-ai-ve-borc-uyarisi-haberi-842060",
    "baslik": "İngiltere Merkez Bankası’ndan AI ve borç uyarısı",
@@ -711,6 +772,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
+   "baslik": "Americans get back to their spending ways. Economy might be speeding up again.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
+   "saat": "16:24",
+   "tarih_iso": "2026-09-30T16:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T16:31:06.248734+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/how-amazons-stock-can-fight-off-the-ai-threat-and-soar-46-5af77a03?mod=mw_rss_topstories",
+   "baslik": "How Amazon’s stock can fight off the AI threat and soar 46%",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/how-amazons-stock-can-fight-off-the-ai-threat-and-soar-46-5af77a03?mod=mw_rss_topstories",
+   "saat": "16:24",
+   "tarih_iso": "2026-09-30T16:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T16:31:06.248734+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/30/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+   "saat": "16:15",
+   "tarih_iso": "2026-09-30T16:15:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T16:31:06.248734+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/09/30/feds-preferred-gauge-showed-core-inflation-at-3point0percent-in-august-much-lighter-than-expected.html",
    "baslik": "Fed’s preferred gauge showed core inflation at 3.0% in August, much lighter than expected",
    "kaynak": "CNBC",
@@ -719,6 +810,16 @@
    "tarih_iso": "2026-09-30T15:59:02+03:00",
    "kodlar": [],
    "eklenme": "2026-09-30T16:01:09.416721+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/china-extends-two-trade-barrier-probes-into-us-till-december-27-4925191",
+   "baslik": "China extends two trade barrier probes into US till December 27",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/china-extends-two-trade-barrier-probes-into-us-till-december-27-4925191",
+   "saat": "15:55",
+   "tarih_iso": "2026-09-30T15:55:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T16:31:06.248734+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-014-4925165",
@@ -1823,5 +1924,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T16:01:09.416721+03:00"
+ "guncelleme": "2026-09-30T16:31:06.248734+03:00"
 }
