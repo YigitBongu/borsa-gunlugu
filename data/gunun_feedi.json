@@ -2,6 +2,32 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-YKBNK-202609301419",
+   "baslik": "YAPI VE KREDİ BANKASI A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "YAPI VE KREDİ BANKASI A.Ş.",
+   "kodlar": [
+    "YKBNK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:19",
+   "tarih_iso": "2026-09-30T14:19:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T14:49:03.617096+03:00"
+  },
+  {
+   "id": "kap-my-VESBE-202609301410",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "VESBE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:10",
+   "tarih_iso": "2026-09-30T14:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T14:49:03.617096+03:00"
+  },
+  {
    "id": "kap-my-CANTE-202609301333",
    "baslik": "ÇAN2 TERMİK A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
    "sirket": "ÇAN2 TERMİK A.Ş.",
@@ -546,6 +572,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-conagra-brands-stock-rallying-today-93CH-4924917",
+   "baslik": "Why is Conagra Brands stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-conagra-brands-stock-rallying-today-93CH-4924917",
+   "saat": "14:42",
+   "tarih_iso": "2026-09-30T14:42:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:49:03.617096+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jabil-shares-fall-despite-earnings-beat-and-strong-guidance-4924914",
+   "baslik": "Jabil shares fall despite earnings beat and strong guidance",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jabil-shares-fall-despite-earnings-beat-and-strong-guidance-4924914",
+   "saat": "14:41",
+   "tarih_iso": "2026-09-30T14:41:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:49:03.617096+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nebius-stock-gaining-today-93CH-4924889",
+   "baslik": "Why is Nebius stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-gaining-today-93CH-4924889",
+   "saat": "14:35",
+   "tarih_iso": "2026-09-30T14:35:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:49:03.617096+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
+   "baslik": "Micron earnings hit Wall Street after the bell. Here's how traders are positioned into the report",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/30/micron-earnings-hit-wall-street-after-the-bell-heres-how-traders-are-positioned-into-the-report.html",
+   "saat": "14:34",
+   "tarih_iso": "2026-09-30T14:34:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:49:03.617096+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
+   "baslik": "Holiday retail sales are expected to top $1 trillion as inflation boosts growth",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/30/holiday-retail-sales-inflation.html",
+   "saat": "14:30",
+   "tarih_iso": "2026-09-30T14:30:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:49:03.617096+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-factset-research-stock-sliding-today-93CH-4924833",
+   "baslik": "Why is FactSet Research stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-factset-research-stock-sliding-today-93CH-4924833",
+   "saat": "14:27",
+   "tarih_iso": "2026-09-30T14:27:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:49:03.617096+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/jp-morgan-favors-european-platforms-on-growth-sees-uk-backdrop-as-drag-4924827",
    "baslik": "J.P. Morgan favors European platforms on growth, sees UK backdrop as drag",
@@ -1269,6 +1355,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/finans/altin/altinda-13-yil-sonra-dikkat-ceken-hamle-1-tonluk-alim-geliyor-haberi-842058",
+   "baslik": "Altında 13 yıl sonra dikkat çeken hamle: 1 tonluk alım geliyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinda-13-yil-sonra-dikkat-ceken-hamle-1-tonluk-alim-geliyor-haberi-842058",
+   "saat": "14:24",
+   "tarih_iso": "2026-09-30T14:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:49:03.617096+03:00"
+  },
+  {
    "id": "alt-https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
    "baslik": "‘I’m afraid of human stupidity.’ Why this top economist prefers U.S. tech and gold over bonds.",
    "kaynak": "MarketWatch",
@@ -1449,5 +1545,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T14:30:52.818392+03:00"
+ "guncelleme": "2026-09-30T14:49:03.617096+03:00"
 }
