@@ -2,6 +2,19 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-KORDS-202609301659",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:59",
+   "tarih_iso": "2026-09-30T16:59:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T17:30:55.074341+03:00"
+  },
+  {
    "id": "kap-my-ODAS-202609301639",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -602,6 +615,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/tupras-2-taksit-temettu-odeme-tarihi-belli-oldu-tupras-temettu-odemesi-ne-zaman-hesaplara-yatacak-tuprs-temettu-takvimi-3473352",
+   "baslik": "TÜPRAŞ 2. TAKSİT TEMETTÜ ÖDEME TARİHİ BELLİ OLDU! TÜPRAŞ Temettü Ödemesi Ne Zaman Hesaplara Yatacak? TUPRS Temettü Takvimi",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/tupras-2-taksit-temettu-odeme-tarihi-belli-oldu-tupras-temettu-odemesi-ne-zaman-hesaplara-yatacak-tuprs-temettu-takvimi-3473352",
+   "saat": "20:24",
+   "tarih_iso": "2026-09-30T20:24:09+03:00",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "eklenme": "2026-09-30T17:30:55.074341+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-sampiyonlar-ligi-maci-ne-zaman-aston-villa-fb-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-842080",
    "baslik": "Fenerbahçe Şampiyonlar Ligi maçı ne zaman? Aston Villa - FB maçı ne zaman, saat kaçta, hangi kanalda?",
    "kaynak": "Dünya",
@@ -636,6 +661,18 @@
     "TCELL"
    ],
    "eklenme": "2026-09-30T16:31:06.248734+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-30-eylul-2026/4073828",
+   "baslik": "60 saniyede ekonomide bugün (30 Eylül 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-30-eylul-2026/4073828",
+   "saat": "15:58",
+   "tarih_iso": "2026-09-30T15:58:29+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-09-30T17:30:55.074341+03:00"
   },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/orhan-veli-cayci-turkiyenin-yesil-donusumune-katki-saglayan-yatirimlari-desteklemeye-devam-etmekten--3916197",
@@ -916,6 +953,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+   "baslik": "Kalshi, Polymarket trading volumes on some products raises questions amid massive growth",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
+   "saat": "17:18",
+   "tarih_iso": "2026-09-30T17:18:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T17:30:55.074341+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-spyre-therapeutics-stock-rallying-today-93CH-4925410",
+   "baslik": "Why is Spyre Therapeutics stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-spyre-therapeutics-stock-rallying-today-93CH-4925410",
+   "saat": "17:10",
+   "tarih_iso": "2026-09-30T17:10:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T17:30:55.074341+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-firefly-aerospace-stock-surging-today-93CH-4925407",
+   "baslik": "Why is Firefly Aerospace stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-firefly-aerospace-stock-surging-today-93CH-4925407",
+   "saat": "17:07",
+   "tarih_iso": "2026-09-30T17:07:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T17:30:55.074341+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+   "baslik": "Trump's latest global tariffs face trade court challenge",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+   "saat": "17:04",
+   "tarih_iso": "2026-09-30T17:04:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T17:30:55.074341+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-formfactor-stock-surging-today-93CH-4925395",
+   "baslik": "Why is FormFactor stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-formfactor-stock-surging-today-93CH-4925395",
+   "saat": "17:02",
+   "tarih_iso": "2026-09-30T17:02:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T17:30:55.074341+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cerebras-stock-slides-as-nvidia-reportedly-powers-openais-ultrafast-tier-4925366",
+   "baslik": "Cerebras stock slides as Nvidia reportedly powers OpenAI’s ’Ultrafast’ tier",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cerebras-stock-slides-as-nvidia-reportedly-powers-openais-ultrafast-tier-4925366",
+   "saat": "16:54",
+   "tarih_iso": "2026-09-30T16:54:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T17:30:55.074341+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-rallying-today-93CH-4925365",
    "baslik": "Why is MongoDB stock rallying today?",
@@ -2149,5 +2246,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T17:01:15.650778+03:00"
+ "guncelleme": "2026-09-30T17:30:55.074341+03:00"
 }
