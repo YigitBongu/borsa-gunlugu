@@ -2,6 +2,32 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-CANTE-202609301333",
+   "baslik": "ÇAN2 TERMİK A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "ÇAN2 TERMİK A.Ş.",
+   "kodlar": [
+    "CANTE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:33",
+   "tarih_iso": "2026-09-30T13:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
+   "id": "kap-my-SMRTG-202609301320",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:20",
+   "tarih_iso": "2026-09-30T13:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
    "id": "kap-my-QUAGR-202609301307",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -379,6 +405,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-ne-zaman-aciklaniyor-mb-faiz-dusurecek-mi-haberi-842052",
+   "baslik": "Merkez Bankası faiz kararı ne zaman açıklanıyor? MB faiz düşürecek mi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/merkez-bankasi-faiz-karari-ne-zaman-aciklaniyor-mb-faiz-dusurecek-mi-haberi-842052",
+   "saat": "13:54",
+   "tarih_iso": "2026-09-30T13:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/gundem/nominal-degerin-yuzde-15ine-sahte-dolar-piyasaya-surecekken-yakalandilar-haberi-842050",
+   "baslik": "Nominal değerin yüzde 15'ine sahte dolar: Piyasaya sürecekken yakalandılar",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/nominal-degerin-yuzde-15ine-sahte-dolar-piyasaya-surecekken-yakalandilar-haberi-842050",
+   "saat": "13:35",
+   "tarih_iso": "2026-09-30T13:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/fransada-enflasyon-eylulde-enerji-maliyetleriyle-yuzde-3e-scrad-93CH-4084227",
    "baslik": "Fransa’da enflasyon Eylül’de enerji maliyetleriyle yüzde 3’e sıçradı",
    "kaynak": "Investing TR",
@@ -470,6 +516,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
+   "baslik": "Mortgage rates jump for the sixth straight week, hitting both refinance and homebuyer demand hard",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/30/mortgage-rates-jump-to-near-3-year-high-causing-demand-to-drop-.html",
+   "saat": "14:00",
+   "tarih_iso": "2026-09-30T14:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/elf-beauty-stock-gains-on-strong-sales-data-from-canaccord-tracker-93CH-4924676",
+   "baslik": "Elf Beauty stock gains on strong sales data from Canaccord tracker",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/elf-beauty-stock-gains-on-strong-sales-data-from-canaccord-tracker-93CH-4924676",
+   "saat": "13:54",
+   "tarih_iso": "2026-09-30T13:54:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/goldman-sachs-says-these-telecom-stocks-are-defensive-buys-despite-ai-risk-4924661",
+   "baslik": "Goldman Sachs says these telecom stocks are defensive buys despite AI risk",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-says-these-telecom-stocks-are-defensive-buys-despite-ai-risk-4924661",
+   "saat": "13:50",
+   "tarih_iso": "2026-09-30T13:50:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/apple-plans-to-make-push-into-smarthome-market-on-oct-13-bloomberg-news-reports-4924624",
+   "baslik": "Apple plans to make push into smart-home market on Oct 13, Bloomberg News reports",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/apple-plans-to-make-push-into-smarthome-market-on-oct-13-bloomberg-news-reports-4924624",
+   "saat": "13:42",
+   "tarih_iso": "2026-09-30T13:42:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
+   "baslik": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
+   "saat": "13:38",
+   "tarih_iso": "2026-09-30T13:38:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/after-a-22-earnings-beat-this-aipicked-storage-stock-is-up-34-4924617",
+   "baslik": "After a 22% earnings beat, this AI-picked storage stock is up 34%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/after-a-22-earnings-beat-this-aipicked-storage-stock-is-up-34-4924617",
+   "saat": "13:35",
+   "tarih_iso": "2026-09-30T13:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/geo-and-swbi-decoding-five-election-cycles-of-wall-streets-most-politically-wire-93CH-4924612",
+   "baslik": "GEO and SWBI: Decoding Five Election Cycles of Wall Street’s Most Politically Wire",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/geo-and-swbi-decoding-five-election-cycles-of-wall-streets-most-politically-wire-93CH-4924612",
+   "saat": "13:34",
+   "tarih_iso": "2026-09-30T13:34:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-pension-funds-seen-selling-33-billion-in-stocks-in-nearterm-goldman-4924611",
+   "baslik": "U.S. pension funds seen selling $33 billion in stocks in near-term: Goldman",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-pension-funds-seen-selling-33-billion-in-stocks-in-nearterm-goldman-4924611",
+   "saat": "13:32",
+   "tarih_iso": "2026-09-30T13:32:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-as-yields-pause-oil-prices-slide-4923936",
+   "baslik": "U.S. stock futures muted ahead of key inflation data, Micron earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-as-yields-pause-oil-prices-slide-4923936",
+   "saat": "13:32",
+   "tarih_iso": "2026-09-30T13:32:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T14:01:14.469525+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-trulieve-cannabis-stock-sliding-today-93CH-4924557",
    "baslik": "Why is Trulieve Cannabis stock sliding today?",
@@ -1203,5 +1339,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T13:30:49.412303+03:00"
+ "guncelleme": "2026-09-30T14:01:14.469525+03:00"
 }
