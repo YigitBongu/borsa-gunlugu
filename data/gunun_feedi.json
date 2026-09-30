@@ -2,6 +2,45 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-QUAGR-202609301134",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "QUAGR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:34",
+   "tarih_iso": "2026-09-30T11:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T12:01:08.475195+03:00"
+  },
+  {
+   "id": "kap-my-TUKAS-202609301116",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TUKAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:16",
+   "tarih_iso": "2026-09-30T11:16:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T12:01:08.475195+03:00"
+  },
+  {
+   "id": "kap-my-YEOTK-202609301114",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:14",
+   "tarih_iso": "2026-09-30T11:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T12:01:08.475195+03:00"
+  },
+  {
    "id": "kap-my-VAKBN-202609301054",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -282,6 +321,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-040-4924316",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.40%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-040-4924316",
+   "saat": "11:30",
+   "tarih_iso": "2026-09-30T11:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:01:08.475195+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
    "baslik": "Tuesday’s market moves was one of the more disturbing days of late, says Goldman Sachs pro",
    "kaynak": "MarketWatch",
@@ -290,6 +339,26 @@
    "tarih_iso": "2026-09-30T11:25:00+03:00",
    "kodlar": [],
    "eklenme": "2026-09-30T11:30:59.042092+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bmw-targets-35-auto-margin-by-2028-after-chinalinked-profit-warning-4924309",
+   "baslik": "BMW targets 3%-5% auto margin by 2028 after China-linked profit warning",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bmw-targets-35-auto-margin-by-2028-after-chinalinked-profit-warning-4924309",
+   "saat": "11:21",
+   "tarih_iso": "2026-09-30T11:21:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:01:08.475195+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+   "baslik": "Africa's richest man to launch Kenya oil refinery despite land protests",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+   "saat": "11:12",
+   "tarih_iso": "2026-09-30T11:12:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T12:01:08.475195+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tullow-oil-stock-crashing-today-93CH-4924301",
@@ -774,5 +843,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T11:30:59.042092+03:00"
+ "guncelleme": "2026-09-30T12:01:08.475195+03:00"
 }
