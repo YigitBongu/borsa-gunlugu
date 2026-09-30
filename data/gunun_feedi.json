@@ -2,6 +2,32 @@
  "tarih": "2026-09-30",
  "kap": [
   {
+   "id": "kap-my-CWENE-202609301008",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:08",
+   "tarih_iso": "2026-09-30T10:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T10:30:56.129228+03:00"
+  },
+  {
+   "id": "kap-my-ISCTR-202609300957",
+   "baslik": "TÜRKİYE İŞ BANKASI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "TÜRKİYE İŞ BANKASI A.Ş.",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:57",
+   "tarih_iso": "2026-09-30T09:57:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-09-30T10:30:56.129228+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202609300906",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -130,6 +156,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
+   "baslik": "Oil prices climb as Trump denies offering Iran sanctions relief; Qatar pushes for peace talks",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
+   "saat": "10:12",
+   "tarih_iso": "2026-09-30T10:12:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T10:30:56.129228+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-216-4924223",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 2.16%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-216-4924223",
+   "saat": "10:00",
+   "tarih_iso": "2026-09-30T10:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-09-30T10:30:56.129228+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/09/30/treasury-yields-bonds-selloff.html",
    "baslik": "Pressure on U.S. Treasurys eases after 30-year yield hits highest level since 2002",
@@ -403,6 +449,16 @@
    "eklenme": "2026-09-30T09:30:55.473190+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-at-a-cycle-turning-window-square-of-9-meets-4208-200688642",
+   "baslik": "Gold at a Cycle Turning Window: Square of 9 Meets $4,208",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-at-a-cycle-turning-window-square-of-9-meets-4208-200688642",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-09-30T10:30:56.129228+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-enters-buy-zone-as-investors-watch-4000-support-and-rate-risks-200688615",
    "baslik": "Gold Enters Buy Zone as Investors Watch $4,000 Support and Rate Risks",
    "kaynak": "Investing Emtia",
@@ -493,5 +549,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-09-30T10:01:19.281551+03:00"
+ "guncelleme": "2026-09-30T10:30:56.129228+03:00"
 }
