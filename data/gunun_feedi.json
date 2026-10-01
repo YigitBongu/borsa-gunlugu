@@ -890,6 +890,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altinda-satis-bitti-mi-morgan-stanleyden-5-bin-dolar-cikisi-galeri-842130",
+   "baslik": "Altında satış bitti mi? Morgan Stanley’den 5 bin dolar çıkışı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altinda-satis-bitti-mi-morgan-stanleyden-5-bin-dolar-cikisi-galeri-842130",
+   "saat": "06:03",
+   "tarih_iso": "2026-10-01T06:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T06:30:58.577455+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/trump-powellin-fed-yonetim-kurulundan-istifa-etmesi-gerektigini-belirtti/4074307",
    "baslik": "Trump, Powell'ın Fed Yönetim Kurulundan istifa etmesi gerektiğini belirtti",
    "kaynak": "AA Ekonomi",
@@ -1141,6 +1151,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/greer-urges-g20-to-back-trump-tariff-agenda-takes-aim-at-china-4926198",
+   "baslik": "Greer urges G20 to back Trump tariff agenda, takes aim at China",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/greer-urges-g20-to-back-trump-tariff-agenda-takes-aim-at-china-4926198",
+   "saat": "06:00",
+   "tarih_iso": "2026-10-01T06:00:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T06:30:58.577455+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lynas-rare-earths-stock-sliding-today-93CH-4926189",
    "baslik": "Why is Lynas Rare Earths stock sliding today?",
@@ -2330,16 +2350,6 @@
    "tarih_iso": "2026-09-30T15:45:03+03:00",
    "kodlar": [],
    "eklenme": "2026-09-30T16:01:09.416721+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-rexel-stock-sliding-today-93CH-4925150",
-   "baslik": "Why is Rexel stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-rexel-stock-sliding-today-93CH-4925150",
-   "saat": "15:43",
-   "tarih_iso": "2026-09-30T15:43:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-30T16:01:09.416721+03:00"
   }
  ],
  "altin_haber": [
@@ -2644,5 +2654,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-10-01T06:01:07.678101+03:00"
+ "guncelleme": "2026-10-01T06:30:58.577455+03:00"
 }
