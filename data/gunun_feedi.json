@@ -2,6 +2,19 @@
  "tarih": "2026-10-01",
  "kap": [
   {
+   "id": "kap-my-TTKOM-202610011706",
+   "baslik": "TÜRK TELEKOMÜNİKASYON A.Ş. — Finansal Takvim",
+   "sirket": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:06",
+   "tarih_iso": "2026-10-01T17:06:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T17:31:00.968141+03:00"
+  },
+  {
    "id": "kap-my-ENKAI-202610011551",
    "baslik": "BORSA İSTANBUL A.Ş. — VİOP İşlem İptali Duyuruları",
    "sirket": "BORSA İSTANBUL A.Ş.",
@@ -209,6 +222,18 @@
     "GARAN"
    ],
    "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-01-ekim-2026/4075003",
+   "baslik": "60 saniyede ekonomide bugün (01 Ekim 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-01-ekim-2026/4075003",
+   "saat": "15:15",
+   "tarih_iso": "2026-10-01T15:15:04+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-10-01T17:31:00.968141+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/sirketler/turkcellin-dijital-bahar-projesine-uluslararasi-odul-29-ilde-30-salon-acildi-haberi-842194",
@@ -597,6 +622,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-occidental-petroleum-stock-rallying-today-93CH-4927710",
+   "baslik": "Why is Occidental Petroleum stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-occidental-petroleum-stock-rallying-today-93CH-4927710",
+   "saat": "17:06",
+   "tarih_iso": "2026-10-01T17:06:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T17:31:00.968141+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-kodiak-sciences-stock-rallying-today-93CH-4927709",
+   "baslik": "Why is Kodiak Sciences stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-kodiak-sciences-stock-rallying-today-93CH-4927709",
+   "saat": "17:06",
+   "tarih_iso": "2026-10-01T17:06:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T17:31:00.968141+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-spyre-therapeutics-stock-climbing-today-93CH-4927708",
+   "baslik": "Why is Spyre Therapeutics stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-spyre-therapeutics-stock-climbing-today-93CH-4927708",
+   "saat": "17:06",
+   "tarih_iso": "2026-10-01T17:06:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T17:31:00.968141+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-everforth-stock-surging-today-93CH-4927698",
+   "baslik": "Why is Everforth stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-everforth-stock-surging-today-93CH-4927698",
+   "saat": "17:01",
+   "tarih_iso": "2026-10-01T17:01:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T17:31:00.968141+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-globant-stock-surging-today-93CH-4927684",
+   "baslik": "Why is Globant stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-globant-stock-surging-today-93CH-4927684",
+   "saat": "16:58",
+   "tarih_iso": "2026-10-01T16:58:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T17:31:00.968141+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-agomab-therapeutics-stock-sliding-today-93CH-4927682",
+   "baslik": "Why is Agomab Therapeutics stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-agomab-therapeutics-stock-sliding-today-93CH-4927682",
+   "saat": "16:56",
+   "tarih_iso": "2026-10-01T16:56:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T17:31:00.968141+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ormat-technologies-stock-sliding-today-93CH-4927681",
+   "baslik": "Why is Ormat Technologies stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ormat-technologies-stock-sliding-today-93CH-4927681",
+   "saat": "16:56",
+   "tarih_iso": "2026-10-01T16:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T17:31:00.968141+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-usa-today-co-stock-rallying-today-93CH-4927678",
+   "baslik": "Why is USA TODAY Co stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-usa-today-co-stock-rallying-today-93CH-4927678",
+   "saat": "16:52",
+   "tarih_iso": "2026-10-01T16:52:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T17:31:00.968141+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
    "baslik": "These bond strategies can help you get a safe 5% return on your cash",
@@ -1800,5 +1905,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-01T17:01:13.799344+03:00"
+ "guncelleme": "2026-10-01T17:31:00.968141+03:00"
 }
