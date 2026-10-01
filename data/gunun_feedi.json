@@ -290,6 +290,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/2-ges-yatirimina-cinden-183-milyon-dolarlik-kredi-haberi-842219",
+   "baslik": "2 GES yatırımına Çin’den 18,3 milyon dolarlık kredi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/2-ges-yatirimina-cinden-183-milyon-dolarlik-kredi-haberi-842219",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-02T00:00:00+03:00",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "eklenme": "2026-10-02T00:08:14.315341+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahcenin-transfer-yasagi-kaldirildi-haberi-842230",
    "baslik": "Fenerbahçe'nin transfer yasağı kaldırıldı",
    "kaynak": "Dünya",
@@ -832,6 +844,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
+   "baslik": "The stock market is anything but normal right now — and these charts show it",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-stock-market-is-anything-but-normal-right-now-and-these-charts-show-it-91ea187d?mod=mw_rss_topstories",
+   "saat": "00:01",
+   "tarih_iso": "2026-10-02T00:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T00:08:14.315341+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/republicans-sabotaged-their-own-bill-to-prevent-people-in-congress-from-trading-stocks-why-828ef40d?mod=mw_rss_topstories",
    "baslik": "Republicans sabotaged their own bill to prevent people in Congress from trading stocks. Why?",
@@ -2021,16 +2043,6 @@
    "tarih_iso": "2026-10-01T14:13:00+03:00",
    "kodlar": [],
    "eklenme": "2026-10-01T14:30:55.199258+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-accenture-stock-surging-today-93CH-4926985",
-   "baslik": "Why is Accenture stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-accenture-stock-surging-today-93CH-4926985",
-   "saat": "13:52",
-   "tarih_iso": "2026-10-01T13:52:54+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T14:01:12.287062+03:00"
   }
  ],
  "altin_haber": [
@@ -2245,5 +2257,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-02T00:01:08.655074+03:00"
+ "guncelleme": "2026-10-02T00:08:14.315341+03:00"
 }
