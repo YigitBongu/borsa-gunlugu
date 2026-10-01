@@ -2,6 +2,32 @@
  "tarih": "2026-10-01",
  "kap": [
   {
+   "id": "kap-my-TAVHL-202610011140",
+   "baslik": "TAV HAVALİMANLARI HOLDİNG A.Ş. — Finansal Takvim",
+   "sirket": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+   "kodlar": [
+    "TAVHL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:40",
+   "tarih_iso": "2026-10-01T11:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T12:01:10.846191+03:00"
+  },
+  {
+   "id": "kap-my-REEDR-202610011127",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:27",
+   "tarih_iso": "2026-10-01T11:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T12:01:10.846191+03:00"
+  },
+  {
    "id": "kap-my-ULKER-202610011103",
    "baslik": "ÜLKER BİSKÜVİ SANAYİ A.Ş. — Sürdürülebilirlik Raporu",
    "sirket": "ÜLKER BİSKÜVİ SANAYİ A.Ş.",
@@ -330,6 +356,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.ft.com/content/96e004e0-43ab-46e6-9116-fabfc7251496?syn-25a6b1a6=1",
+   "baslik": "Four potential positives from higher bond yields",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/96e004e0-43ab-46e6-9116-fabfc7251496?syn-25a6b1a6=1",
+   "saat": "11:37",
+   "tarih_iso": "2026-10-01T11:37:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T12:01:10.846191+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/212-gains-and-counting-a-new-list-of-aipicked-stocks-for-october-is-now-live-4926427",
+   "baslik": "212%+ gains and counting: A new list of AI-picked stocks for October is NOW LIVE",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/212-gains-and-counting-a-new-list-of-aipicked-stocks-for-october-is-now-live-4926427",
+   "saat": "11:31",
+   "tarih_iso": "2026-10-01T11:31:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T12:01:10.846191+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-078-4926549",
+   "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.78%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-078-4926549",
+   "saat": "11:30",
+   "tarih_iso": "2026-10-01T11:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T12:01:10.846191+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
    "baslik": "10-year Treasury yield hits highest level since 2002 as global bond rout gathers pace",
    "kaynak": "CNBC",
@@ -348,6 +404,16 @@
    "tarih_iso": "2026-10-01T11:25:12+03:00",
    "kodlar": [],
    "eklenme": "2026-10-01T11:31:00.135528+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/01/russia-ukraine-war-energy-power-winter.html",
+   "baslik": "Russia launches massive strikes on Ukraine’s energy grid, forcing power cuts ahead of winter",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/01/russia-ukraine-war-energy-power-winter.html",
+   "saat": "11:21",
+   "tarih_iso": "2026-10-01T11:21:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T12:01:10.846191+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vicor-stock-surging-today-93CH-4926539",
@@ -932,5 +998,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-01T11:31:00.135528+03:00"
+ "guncelleme": "2026-10-01T12:01:10.846191+03:00"
 }
