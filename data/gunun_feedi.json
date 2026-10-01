@@ -2,6 +2,19 @@
  "tarih": "2026-10-01",
  "kap": [
   {
+   "id": "kap-my-IZENR-202610011001",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "IZENR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:01",
+   "tarih_iso": "2026-10-01T10:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
+  {
    "id": "kap-my-OTKAR-202610010928",
    "baslik": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.",
@@ -69,6 +82,19 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/yerli-telefon-ne-zaman-cikacak-nerede-uretilecek-turkiyede-uretilecek-yeni-akilli-telefonun-ozellikleri-ne-aselsan-ve-turk-3473137",
+   "baslik": "YERLİ TELEFON NE ZAMAN ÇIKACAK, NEREDE ÜRETİLECEK? Türkiye'de Üretilecek Yeni Akıllı Telefonun Özellikleri Ne? ASELSAN ve Türk Telekom'dan Ortak Hamle",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/yerli-telefon-ne-zaman-cikacak-nerede-uretilecek-turkiyede-uretilecek-yeni-akilli-telefonun-ozellikleri-ne-aselsan-ve-turk-3473137",
+   "saat": "13:02",
+   "tarih_iso": "2026-10-01T13:02:46+03:00",
+   "kodlar": [
+    "ASELS",
+    "TTKOM"
+   ],
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsan-ile-savunma-sanayii-baskanligi-arasinda-1-milyar-avroluk-sozlesmeler-imzalandi/4074424",
    "baslik": "ASELSAN ile Savunma Sanayii Başkanlığı arasında 1 milyar avroluk sözleşmeler imzalandı",
    "kaynak": "AA Ekonomi",
@@ -130,6 +156,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/eylul-enflasyonu-aciklandi-mi-2026-eylul-enflasyon-beklentisi-ne-yonde-tcmb-enflasyon-beklenti-anketi-sonrasi-piyasalarda-gozler-yeni-3472523",
+   "baslik": "EYLÜL ENFLASYONU AÇIKLANDI MI? 2026 Eylül Enflasyon Beklentisi Ne Yönde? TCMB Enflasyon Beklenti Anketi Sonrası Piyasalarda Gözler Yeni Verilerde",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/eylul-enflasyonu-aciklandi-mi-2026-eylul-enflasyon-beklentisi-ne-yonde-tcmb-enflasyon-beklenti-anketi-sonrasi-piyasalarda-gozler-yeni-3472523",
+   "saat": "13:02",
+   "tarih_iso": "2026-10-01T13:02:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/bist-100de-yon-yukari-endeks-12-bin-puani-asti-haberi-842161",
+   "baslik": "BIST 100’de yön yukarı: Endeks 12 bin puanı aştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/bist-100de-yon-yukari-endeks-12-bin-puani-asti-haberi-842161",
+   "saat": "10:02",
+   "tarih_iso": "2026-10-01T10:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/goldman-sachs-fed-tahminini-yine-degistirdi-faiz-artisi-icin-yeni-tarih-verdi-haberi-842153",
    "baslik": "Goldman Sachs Fed tahminini yine değiştirdi: Faiz artışı için yeni tarih verdi",
@@ -222,6 +268,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html",
+   "baslik": "The U.S. just made it much easier for retail investors to access private markets",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html",
+   "saat": "10:23",
+   "tarih_iso": "2026-10-01T10:23:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/uks-nest-pension-picks-wellington-in-35-billion-emerging-market-active-equity-shift-4926407",
+   "baslik": "UK’s Nest pension picks Wellington in £3.5 billion emerging market active equity shift",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/uks-nest-pension-picks-wellington-in-35-billion-emerging-market-active-equity-shift-4926407",
+   "saat": "10:12",
+   "tarih_iso": "2026-10-01T10:12:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-slip-as-q4-begins-on-soaring-energy-and-inflation-pain-4926358",
+   "baslik": "European stocks slip as Q4 begins on soaring energy and inflation pain",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-slip-as-q4-begins-on-soaring-energy-and-inflation-pain-4926358",
+   "saat": "10:08",
+   "tarih_iso": "2026-10-01T10:08:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+   "baslik": "Africa's richest man launches Kenya oil refinery despite land protests",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+   "saat": "10:04",
+   "tarih_iso": "2026-10-01T10:04:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-343-4926389",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 3.43%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-343-4926389",
+   "saat": "10:00",
+   "tarih_iso": "2026-10-01T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/goldman-upgrades-iberdrola-on-earnings-growth-and-grid-investment-outlook-4926367",
+   "baslik": "Goldman upgrades Iberdrola on earnings growth and grid investment outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/goldman-upgrades-iberdrola-on-earnings-growth-and-grid-investment-outlook-4926367",
+   "saat": "09:49",
+   "tarih_iso": "2026-10-01T09:49:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-199-4926337",
    "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 1.99%",
@@ -535,6 +641,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-1-ekim-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3473495",
+   "baslik": "ALTIN FİYATLARI 1 EKİM 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlari-1-ekim-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3473495",
+   "saat": "13:11",
+   "tarih_iso": "2026-10-01T13:11:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
+  {
+   "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-27-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3471985",
+   "baslik": "ALTIN FİYATLARI 27 EYLÜL 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlari-27-eylul-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3471985",
+   "saat": "13:02",
+   "tarih_iso": "2026-10-01T13:02:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-vc-pmi-and-square-of-9-identify-42054278-recovery-levels-200688725",
    "baslik": "Gold VC PMI and Square of 9 Identify $4,205–$4,278 Recovery Levels",
    "kaynak": "Investing Emtia",
@@ -645,5 +771,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-01T10:01:08.975145+03:00"
+ "guncelleme": "2026-10-01T10:33:16.668615+03:00"
 }
