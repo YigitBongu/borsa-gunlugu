@@ -2,6 +2,19 @@
  "tarih": "2026-10-01",
  "kap": [
   {
+   "id": "kap-my-PENTA-202610011257",
+   "baslik": "PENTA TEKNOLOJİ ÜRÜNLERİ DAĞITIM TİCARET A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "PENTA TEKNOLOJİ ÜRÜNLERİ DAĞITIM TİCARET A.Ş.",
+   "kodlar": [
+    "PENTA"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "12:57",
+   "tarih_iso": "2026-10-01T12:57:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T13:31:03.939204+03:00"
+  },
+  {
    "id": "kap-my-TAVHL-202610011140",
    "baslik": "TAV HAVALİMANLARI HOLDİNG A.Ş. — Finansal Takvim",
    "sirket": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
@@ -451,6 +464,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
+   "baslik": "Oracle has reportedly signed a $7 billion deal with Tencent. It could provide relief for the troubled stock.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/oracle-has-reportedly-signed-a-7-billion-deal-with-tencent-it-could-provide-relief-for-the-troubled-stock-abd428f5?mod=mw_rss_topstories",
+   "saat": "13:10",
+   "tarih_iso": "2026-10-01T13:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T13:31:03.939204+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chilwa-minerals-prices-35m-nasdaq-ads-offering-at-560-per-share-432SI-4926734",
+   "baslik": "Chilwa Minerals prices $3.5M Nasdaq ADS offering at $5.60 per share",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chilwa-minerals-prices-35m-nasdaq-ads-offering-at-560-per-share-432SI-4926734",
+   "saat": "13:06",
+   "tarih_iso": "2026-10-01T13:06:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T13:31:03.939204+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zealand-pharma-stock-sliding-today-93CH-4926737",
+   "baslik": "Why is Zealand Pharma stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-zealand-pharma-stock-sliding-today-93CH-4926737",
+   "saat": "12:55",
+   "tarih_iso": "2026-10-01T12:55:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T13:31:03.939204+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-equity-outperformance-fades-as-higher-oil-prices-cap-gains-barclays-4926717",
+   "baslik": "European equity outperformance fades as higher oil prices cap gains: Barclays",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-equity-outperformance-fades-as-higher-oil-prices-cap-gains-barclays-4926717",
+   "saat": "12:47",
+   "tarih_iso": "2026-10-01T12:47:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T13:31:03.939204+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/goldman-sachs-adds-solaria-stock-on-european-directors-cut-list-refresh-for-october-93CH-4926715",
    "baslik": "Goldman Sachs adds Solaria stock on European Director’s Cut List refresh for October",
@@ -1054,6 +1107,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/baba-vanganin-2027-altin-kehaneti-yeniden-gundemde-galeri-842186",
+   "baslik": "Baba Vanga’nın 2027 altın kehaneti yeniden gündemde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/baba-vanganin-2027-altin-kehaneti-yeniden-gundemde-galeri-842186",
+   "saat": "13:18",
+   "tarih_iso": "2026-10-01T13:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T13:31:03.939204+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-1-ekim-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3473495",
    "baslik": "ALTIN FİYATLARI 1 EKİM 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
    "kaynak": "CNN Türk Ekonomi",
@@ -1194,5 +1257,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-01T13:01:13.050431+03:00"
+ "guncelleme": "2026-10-01T13:31:03.939204+03:00"
 }
