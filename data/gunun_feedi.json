@@ -2,6 +2,19 @@
  "tarih": "2026-10-01",
  "kap": [
   {
+   "id": "kap-my-ENKAI-202610011551",
+   "baslik": "BORSA İSTANBUL A.Ş. — VİOP İşlem İptali Duyuruları",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "ENKAI"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:51",
+   "tarih_iso": "2026-10-01T15:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
    "id": "kap-my-CANTE-202610011518",
    "baslik": "ÇAN2 TERMİK A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
    "sirket": "ÇAN2 TERMİK A.Ş.",
@@ -186,6 +199,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/sinem-edige-cop31in-turkiye-acisindan-en-onemli-ciktisi-hedefleri-yatirim-kararina-donusturmek-olmali-3916514",
+   "baslik": "“COP31’in en önemli çıktısı hedefleri yatırım kararına dönüştürmek olmalı”",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/sinem-edige-cop31in-turkiye-acisindan-en-onemli-ciktisi-hedefleri-yatirim-kararina-donusturmek-olmali-3916514",
+   "saat": "16:24",
+   "tarih_iso": "2026-10-01T16:24:51+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/turkcellin-dijital-bahar-projesine-uluslararasi-odul-29-ilde-30-salon-acildi-haberi-842194",
    "baslik": "Turkcell’in Dijital Bahar Projesi’ne uluslararası ödül: 29 ilde 30 salon açıldı",
    "kaynak": "Dünya",
@@ -331,6 +356,26 @@
    "eklenme": "2026-10-01T16:01:11.865542+03:00"
   },
   {
+   "id": "rss-https://www.bloomberght.com/fedkashkari-asil-soru-faiz-oranlarinin-ne-kadar-yukselmesi-gerektigi-3790006",
+   "baslik": "Fed/Kashkari: Asıl soru, faiz oranlarının ne kadar yükselmesi gerektiği",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/fedkashkari-asil-soru-faiz-oranlarinin-ne-kadar-yukselmesi-gerektigi-3790006",
+   "saat": "15:30",
+   "tarih_iso": "2026-10-01T15:30:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/tcmb-rezervlerinde-dusus-ivmesi-suruyor-3789997",
+   "baslik": "TCMB rezervlerinde düşüş ivmesi devam ediyor",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/tcmb-rezervlerinde-dusus-ivmesi-suruyor-3789997",
+   "saat": "14:42",
+   "tarih_iso": "2026-10-01T14:42:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/juventusa-7-yilda-1-milyar-euro-yetmedi-yeni-kaynak-icin-dugmeye-basildi-haberi-842190",
    "baslik": "Juventus'a 7 yılda 1 milyar euro yetmedi: Yeni kaynak için düğmeye basıldı",
    "kaynak": "Dünya",
@@ -361,6 +406,16 @@
    "eklenme": "2026-10-01T13:01:13.050431+03:00"
   },
   {
+   "id": "rss-https://www.bloomberght.com/euro-bolgesi-issizligi-yatay-seyretti-3789970",
+   "baslik": "Euro Bölgesi işsizliği yatay seyretti",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/euro-bolgesi-issizligi-yatay-seyretti-3789970",
+   "saat": "12:41",
+   "tarih_iso": "2026-10-01T12:41:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/haberler/euro-dolara-karsi-17-ayin-dibinde-faiz-artisi-beklentisi-yetmedi-haberi-842182",
    "baslik": "Euro dolara karşı 17 ayın dibinde: Faiz artışı beklentisi yetmedi",
    "kaynak": "Dünya",
@@ -389,6 +444,26 @@
    "tarih_iso": "2026-10-01T12:15:28+03:00",
    "kodlar": [],
    "eklenme": "2026-10-01T12:31:03.737715+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/euro-bolgesi-imalat-sektoru-eylul-de-ivme-kazandi-3789968",
+   "baslik": "Euro Bölgesi imalat sektörü Eylül'de ivme kazandı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/euro-bolgesi-imalat-sektoru-eylul-de-ivme-kazandi-3789968",
+   "saat": "12:15",
+   "tarih_iso": "2026-10-01T12:15:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/istanbul-da-aylik-enflasyon-eylul-de-hizlandi-3789967",
+   "baslik": "İstanbul'da aylık enflasyon Eylül'de hızlandı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/istanbul-da-aylik-enflasyon-eylul-de-hizlandi-3789967",
+   "saat": "12:04",
+   "tarih_iso": "2026-10-01T12:04:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/euro-bolgesinde-imalat-sanayi-pmi-eylulde-yukseldi-haberi-842174",
@@ -522,6 +597,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-microns-big-earnings-report-isnt-lifting-the-stock-b965af83?mod=mw_rss_topstories",
+   "baslik": "Why Micron’s big earnings report isn’t lifting the stock",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-microns-big-earnings-report-isnt-lifting-the-stock-b965af83?mod=mw_rss_topstories",
+   "saat": "16:24",
+   "tarih_iso": "2026-10-01T16:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/0234bcc7-386c-40b6-9f04-88aef3a1e24c?syn-25a6b1a6=1",
+   "baslik": "EU countries in crisis talks over release of diesel stocks",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/0234bcc7-386c-40b6-9f04-88aef3a1e24c?syn-25a6b1a6=1",
+   "saat": "16:20",
+   "tarih_iso": "2026-10-01T16:20:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/01/racehorse-market-breaks-records-on-tax-breaks-stock-market-gains.html",
+   "baslik": "Racehorse market breaks records riding high on tax breaks, stock market gains",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/01/racehorse-market-breaks-records-on-tax-breaks-stock-market-gains.html",
+   "saat": "16:19",
+   "tarih_iso": "2026-10-01T16:19:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/berenberg-downgrades-ag-barr-as-weak-volumes-cloud-growth-outlook-4927533",
+   "baslik": "Berenberg downgrades AG Barr as weak volumes cloud growth outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/berenberg-downgrades-ag-barr-as-weak-volumes-cloud-growth-outlook-4927533",
+   "saat": "16:12",
+   "tarih_iso": "2026-10-01T16:12:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+   "saat": "16:00",
+   "tarih_iso": "2026-10-01T16:00:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/agomab-stock-jumps-on-positive-trial-data-4927475",
+   "baslik": "Agomab stock jumps on positive trial data",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/agomab-stock-jumps-on-positive-trial-data-4927475",
+   "saat": "15:57",
+   "tarih_iso": "2026-10-01T15:57:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:31:00.094832+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/the-latest-oil-price-shock-rippling-through-the-economy-is-a-refining-crisis-not-a-crude-crisis-e304a589?mod=mw_rss_topstories",
    "baslik": "The latest oil-price shock rippling through the economy is a refining crisis —  not a crude crisis",
@@ -1595,5 +1730,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-01T16:01:11.865542+03:00"
+ "guncelleme": "2026-10-01T16:31:00.094832+03:00"
 }
