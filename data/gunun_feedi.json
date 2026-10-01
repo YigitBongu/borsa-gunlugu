@@ -2,6 +2,71 @@
  "tarih": "2026-10-01",
  "kap": [
   {
+   "id": "kap-my-TUKAS-202610011811",
+   "baslik": "TUKAŞ GIDA SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "TUKAŞ GIDA SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "TUKAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:11",
+   "tarih_iso": "2026-10-01T18:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202610011755",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:55",
+   "tarih_iso": "2026-10-01T17:55:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202610011753",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:53",
+   "tarih_iso": "2026-10-01T17:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
+   "id": "kap-my-REEDR-202610011753",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:53",
+   "tarih_iso": "2026-10-01T17:53:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202610011752",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "17:52",
+   "tarih_iso": "2026-10-01T17:52:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
    "id": "kap-my-TTKOM-202610011706",
    "baslik": "TÜRK TELEKOMÜNİKASYON A.Ş. — Finansal Takvim",
    "sirket": "TÜRK TELEKOMÜNİKASYON A.Ş.",
@@ -212,6 +277,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcenin-transfer-yasagi-kaldirildi-haberi-842230",
+   "baslik": "Fenerbahçe'nin transfer yasağı kaldırıldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcenin-transfer-yasagi-kaldirildi-haberi-842230",
+   "saat": "18:23",
+   "tarih_iso": "2026-10-01T18:23:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/sinem-edige-cop31in-turkiye-acisindan-en-onemli-ciktisi-hedefleri-yatirim-kararina-donusturmek-olmali-3916514",
    "baslik": "“COP31’in en önemli çıktısı hedefleri yatırım kararına dönüştürmek olmalı”",
    "kaynak": "Habertürk Ekonomi",
@@ -370,6 +447,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/ecb-baskani-christine-lagarde-dan-yapay-zeka-uyarisi/4075247",
+   "baslik": "ECB Başkanı Christine Lagarde’dan yapay zeka uyarısı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-baskani-christine-lagarde-dan-yapay-zeka-uyarisi/4075247",
+   "saat": "17:39",
+   "tarih_iso": "2026-10-01T17:39:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/homeward-proptech-genislemesinde-120-milyon-dolar-toplad-93CH-4086938",
    "baslik": "Homeward, proptech genişlemesinde 120 milyon dolar topladı",
@@ -633,6 +720,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.bbc.co.uk/news/videos/cmy5z5qx19pwo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Is it time to ditch premium bonds?",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/videos/cmy5z5qx19pwo?at_medium=RSS&at_campaign=rss",
+   "saat": "18:28",
+   "tarih_iso": "2026-10-01T18:28:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/u-s-manufacturers-say-inflation-is-bad-and-not-getting-any-better-8281edef?mod=mw_rss_topstories",
+   "baslik": "U.S. manufacturers say inflation is bad and not getting any better",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/u-s-manufacturers-say-inflation-is-bad-and-not-getting-any-better-8281edef?mod=mw_rss_topstories",
+   "saat": "18:19",
+   "tarih_iso": "2026-10-01T18:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-047-4927851",
+   "baslik": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.47%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-047-4927851",
+   "saat": "18:10",
+   "tarih_iso": "2026-10-01T18:10:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-torontodominion-bank-stock-sliding-today-93CH-4927839",
+   "baslik": "Why is Toronto-Dominion Bank stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-torontodominion-bank-stock-sliding-today-93CH-4927839",
+   "saat": "18:03",
+   "tarih_iso": "2026-10-01T18:03:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mckesson-stock-rallying-today-93CH-4927831",
+   "baslik": "Why is McKesson stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mckesson-stock-rallying-today-93CH-4927831",
+   "saat": "18:00",
+   "tarih_iso": "2026-10-01T18:00:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/societe-generale-options-flow-turns-bearish-as-stock-slides-93CH-4927826",
+   "baslik": "Societe Generale options flow turns bearish as stock slides",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/societe-generale-options-flow-turns-bearish-as-stock-slides-93CH-4927826",
+   "saat": "17:56",
+   "tarih_iso": "2026-10-01T17:56:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-095-4927822",
+   "baslik": "Norway stocks lower at close of trade; Oslo OBX down 0.95%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-095-4927822",
+   "saat": "17:55",
+   "tarih_iso": "2026-10-01T17:55:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-034-4927821",
+   "baslik": "Israel stocks higher at close of trade; TA 35 up 0.34%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-034-4927821",
+   "saat": "17:55",
+   "tarih_iso": "2026-10-01T17:55:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/10/01/accenture-rallies-more-than-20percent-after-earnings-beat-heads-for-best-day-ever.html",
    "baslik": "Accenture rallies more than 20% after earnings beat, heads for best day ever",
    "kaynak": "CNBC",
@@ -671,6 +838,16 @@
    "tarih_iso": "2026-10-01T17:39:56+03:00",
    "kodlar": [],
    "eklenme": "2026-10-01T18:01:26.067035+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/01/billionaire-family-offices-back-geothermal-energy-in-september.html",
+   "baslik": "Billionaire family offices bet on geothermal energy, brain implants in September",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/01/billionaire-family-offices-back-geothermal-energy-in-september.html",
+   "saat": "17:36",
+   "tarih_iso": "2026-10-01T17:36:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T18:30:58.968114+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/citigroup-and-dell-among-market-cap-stock-movers-on-thursday-93CH-4927782",
@@ -1741,96 +1918,6 @@
    "tarih_iso": "2026-10-01T00:09:42+03:00",
    "kodlar": [],
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
-   "baslik": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html",
-   "saat": "23:59",
-   "tarih_iso": "2026-09-30T23:59:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T09:01:11.410760+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-   "baslik": "How the ‘AI put’ has become the only thing that matters for stocks",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-is-the-big-risk-that-stock-investors-should-be-watching-as-rising-bond-yields-menace-markets-904cae0a?mod=mw_rss_topstories",
-   "saat": "23:59",
-   "tarih_iso": "2026-09-30T23:59:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T09:01:11.410760+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
-   "baslik": "A brutal September for bonds points to an even darker October",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/a-brutal-september-for-bonds-points-to-an-even-darker-october-239d0fb5?mod=mw_rss_topstories",
-   "saat": "23:56",
-   "tarih_iso": "2026-09-30T23:56:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T09:01:11.410760+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-   "baslik": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/u-s-bond-yields-head-for-biggest-jump-in-a-generation-as-global-rout-rattles-investors-7dede2f2?mod=mw_rss_topstories",
-   "saat": "23:32",
-   "tarih_iso": "2026-09-30T23:32:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T09:01:11.410760+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
-   "baslik": "Fed watchdog finds renovation failures, but no grounds for criminal referral",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/30/fed-inspector-general-report-powell-trump.html",
-   "saat": "23:17",
-   "tarih_iso": "2026-09-30T23:17:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T09:01:11.410760+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
-   "baslik": "Senate Democrats sink 'toothless' stock trading ban, data center bill in last act before election recess",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
-   "saat": "22:03",
-   "tarih_iso": "2026-09-30T22:03:52+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T09:01:11.410760+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/30/two-trades-that-just-happened-in-magnificent-seven-stocks-point-to-big-gains-ahead.html",
-   "baslik": "Two trades that just happened in 'Magnificent Seven' stocks point to big gains ahead",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/30/two-trades-that-just-happened-in-magnificent-seven-stocks-point-to-big-gains-ahead.html",
-   "saat": "21:47",
-   "tarih_iso": "2026-09-30T21:47:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T09:01:11.410760+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
-   "baslik": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
-   "saat": "20:21",
-   "tarih_iso": "2026-09-30T20:21:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T09:01:11.410760+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-   "baslik": "Household energy bills forecast to see biggest rise in four years",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-   "saat": "17:36",
-   "tarih_iso": "2026-09-30T17:36:45+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
  "altin_haber": [
@@ -1995,5 +2082,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-01T18:01:26.067035+03:00"
+ "guncelleme": "2026-10-01T18:30:58.968114+03:00"
 }
