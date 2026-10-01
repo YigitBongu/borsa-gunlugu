@@ -2,6 +2,32 @@
  "tarih": "2026-10-01",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202610011020",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "10:20",
+   "tarih_iso": "2026-10-01T10:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T11:01:07.107839+03:00"
+  },
+  {
+   "id": "kap-my-VAKBN-202610011015",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:15",
+   "tarih_iso": "2026-10-01T10:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T11:01:07.107839+03:00"
+  },
+  {
    "id": "kap-my-IZENR-202610011001",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -95,6 +121,18 @@
    "eklenme": "2026-10-01T10:33:16.668615+03:00"
   },
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/otokardan-yaklasik-1-5-milyar-dolarlik-ihracat-sozlesmesi-/4074527",
+   "baslik": "Otokar'dan yaklaşık 1,5 milyar dolarlık ihracat sözleşmesi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/otokardan-yaklasik-1-5-milyar-dolarlik-ihracat-sozlesmesi-/4074527",
+   "saat": "10:49",
+   "tarih_iso": "2026-10-01T10:49:05+03:00",
+   "kodlar": [
+    "OTKAR"
+   ],
+   "eklenme": "2026-10-01T11:01:07.107839+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsan-ile-savunma-sanayii-baskanligi-arasinda-1-milyar-avroluk-sozlesmeler-imzalandi/4074424",
    "baslik": "ASELSAN ile Savunma Sanayii Başkanlığı arasında 1 milyar avroluk sözleşmeler imzalandı",
    "kaynak": "AA Ekonomi",
@@ -165,6 +203,16 @@
    "tarih_iso": "2026-10-01T13:02:49+03:00",
    "kodlar": [],
    "eklenme": "2026-10-01T10:33:16.668615+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/lenzing-hisseleri-buyuk-iskontolu-300-milyon-euro-hak-ihracyla-14-dustu-93CH-4085779",
+   "baslik": "Lenzing hisseleri büyük iskontolu 300 milyon euro hak ihracıyla %14 düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/lenzing-hisseleri-buyuk-iskontolu-300-milyon-euro-hak-ihracyla-14-dustu-93CH-4085779",
+   "saat": "10:50",
+   "tarih_iso": "2026-10-01T10:50:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T11:01:07.107839+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/finans/borsa/bist-100de-yon-yukari-endeks-12-bin-puani-asti-haberi-842161",
@@ -268,6 +316,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/videos/cw1mvdd349v1o?at_medium=RSS&at_campaign=rss",
+   "baslik": "'We're still cold paying £300 a month energy bills'",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/videos/cw1mvdd349v1o?at_medium=RSS&at_campaign=rss",
+   "saat": "10:57",
+   "tarih_iso": "2026-10-01T10:57:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T11:01:07.107839+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/should-you-still-buy-this-aipicked-oil-producer-after-its-32-run-since-july-4926460",
+   "baslik": "Should you still buy this AI-picked oil producer after its 32% run since July?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/should-you-still-buy-this-aipicked-oil-producer-after-its-32-run-since-july-4926460",
+   "saat": "10:48",
+   "tarih_iso": "2026-10-01T10:48:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T11:01:07.107839+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sanofi-stock-rallying-today-93CH-4926430",
+   "baslik": "Why is Sanofi stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sanofi-stock-rallying-today-93CH-4926430",
+   "saat": "10:25",
+   "tarih_iso": "2026-10-01T10:25:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T11:01:07.107839+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html",
    "baslik": "The U.S. just made it much easier for retail investors to access private markets",
@@ -771,5 +849,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-01T10:33:16.668615+03:00"
+ "guncelleme": "2026-10-01T11:01:07.107839+03:00"
 }
