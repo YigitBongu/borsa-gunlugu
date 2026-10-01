@@ -719,6 +719,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/spk-dan-hektas-in-tahsisli-sermaye-artirimina-onay-3916342",
+   "baslik": "SPK'dan Hektaş'ın tahsisli sermaye artırımına onay",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/spk-dan-hektas-in-tahsisli-sermaye-artirimina-onay-3916342",
+   "saat": "07:56",
+   "tarih_iso": "2026-10-01T07:56:56+03:00",
+   "kodlar": [
+    "HEKTS"
+   ],
+   "eklenme": "2026-10-01T08:30:53.885991+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/wi-fi-8i-ev-kosullarinda-test-eden-avrupadaki-ilk-operator-oldu-haberi-842088",
    "baslik": "Wi-Fi 8’i ev koşullarında test eden Avrupa’daki ilk operatör oldu",
    "kaynak": "Dünya",
@@ -1161,6 +1173,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c9gk5v25xk5jo?at_medium=RSS&at_campaign=rss",
+   "baslik": "'We're still cold paying £300 a month energy bills'",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c9gk5v25xk5jo?at_medium=RSS&at_campaign=rss",
+   "saat": "08:23",
+   "tarih_iso": "2026-10-01T08:23:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T08:30:53.885991+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mahindra--mahindra-stock-sliding-today-93CH-4926244",
+   "baslik": "Why is Mahindra & Mahindra stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mahindra--mahindra-stock-sliding-today-93CH-4926244",
+   "saat": "07:59",
+   "tarih_iso": "2026-10-01T07:59:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T08:30:53.885991+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bajaj-auto-stock-tumbling-today-93CH-4926243",
+   "baslik": "Why is Bajaj Auto stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bajaj-auto-stock-tumbling-today-93CH-4926243",
+   "saat": "07:59",
+   "tarih_iso": "2026-10-01T07:59:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T08:30:53.885991+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/japanese-chipmakers-rally-as-micron-earnings-boost-ai-trade-4926236",
    "baslik": "Japanese chipmakers rally as Micron earnings boost AI trade",
@@ -2330,36 +2372,6 @@
    "tarih_iso": "2026-09-30T16:54:04+03:00",
    "kodlar": [],
    "eklenme": "2026-09-30T17:30:55.074341+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-rallying-today-93CH-4925365",
-   "baslik": "Why is MongoDB stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-mongodb-stock-rallying-today-93CH-4925365",
-   "saat": "16:50",
-   "tarih_iso": "2026-09-30T16:50:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-30T17:01:15.650778+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/30/were-scooping-up-shares-of-2-stocks-that-fell-victim-to-a-september-swoon.html",
-   "baslik": "We're scooping up shares of 2 stocks that fell victim to a September swoon",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/09/30/were-scooping-up-shares-of-2-stocks-that-fell-victim-to-a-september-swoon.html",
-   "saat": "16:38",
-   "tarih_iso": "2026-09-30T16:38:33+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-30T17:01:15.650778+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-opens-higher-as-soft-inflation-data-eases-ratehike-fears-4925323",
-   "baslik": "Wall St opens higher as soft inflation data eases rate-hike fears",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-higher-as-soft-inflation-data-eases-ratehike-fears-4925323",
-   "saat": "16:36",
-   "tarih_iso": "2026-09-30T16:36:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-09-30T17:01:15.650778+03:00"
   }
  ],
  "altin_haber": [
@@ -2664,5 +2676,5 @@
    "eklenme": "2026-09-30T09:01:04.709464+03:00"
   }
  ],
- "guncelleme": "2026-10-01T08:01:11.871965+03:00"
+ "guncelleme": "2026-10-01T08:30:53.885991+03:00"
 }
