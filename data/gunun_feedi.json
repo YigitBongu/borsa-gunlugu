@@ -2,6 +2,32 @@
  "tarih": "2026-10-01",
  "kap": [
   {
+   "id": "kap-my-TKFEN-202610010900",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:00",
+   "tarih_iso": "2026-10-01T09:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T09:30:56.188665+03:00"
+  },
+  {
+   "id": "kap-my-TKFEN-202610010859",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:59",
+   "tarih_iso": "2026-10-01T08:59:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T09:30:56.188665+03:00"
+  },
+  {
    "id": "kap-my-KONTR-202609301931",
    "baslik": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş. — Bağımsız Denetim Kuruluşunun Belirlenmesi",
    "sirket": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş.",
@@ -67,6 +93,36 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/goldman-sachs-fed-tahminini-yine-degistirdi-faiz-artisi-icin-yeni-tarih-verdi-haberi-842153",
+   "baslik": "Goldman Sachs Fed tahminini yine değiştirdi: Faiz artışı için yeni tarih verdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/goldman-sachs-fed-tahminini-yine-degistirdi-faiz-artisi-icin-yeni-tarih-verdi-haberi-842153",
+   "saat": "09:25",
+   "tarih_iso": "2026-10-01T09:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T09:30:56.188665+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/pandora-enflasyon-karssndaki-abd-talebinin-istikrar-kazandgn-goruyor-93CH-4085624",
+   "baslik": "Pandora, enflasyon karşısındaki ABD talebinin istikrar kazandığını görüyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/pandora-enflasyon-karssndaki-abd-talebinin-istikrar-kazandgn-goruyor-93CH-4085624",
+   "saat": "09:15",
+   "tarih_iso": "2026-10-01T09:15:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T09:30:56.188665+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/ne-dolar-ne-de-euro-9-ayda-en-cok-kazandiran-doviz-sasirtti-galeri-842146",
+   "baslik": "Ne dolar ne de Euro! 9 ayda en çok kazandıran döviz şaşırttı!",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/ne-dolar-ne-de-euro-9-ayda-en-cok-kazandiran-doviz-sasirtti-galeri-842146",
+   "saat": "08:39",
+   "tarih_iso": "2026-10-01T08:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T09:30:56.188665+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/cin-abd-ciplerine-yeni-yol-buldu-100-bin-cip-icin-7-milyar-dolar-haberi-842143",
    "baslik": "Çin ABD çiplerine yeni yol buldu: 100 bin çip için 7 milyar dolar",
    "kaynak": "Dünya",
@@ -128,6 +184,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/topps-tiles-sees-fullyear-profit-in-line-with-market-views-sales-dip-13-4926327",
+   "baslik": "Topps Tiles sees full-year profit in line with market views; sales dip 1.3%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/topps-tiles-sees-fullyear-profit-in-line-with-market-views-sales-dip-13-4926327",
+   "saat": "09:20",
+   "tarih_iso": "2026-10-01T09:20:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T09:30:56.188665+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pandora-sees-us-demand-stabilizing-as-consumers-face-inflation-93CH-4926318",
+   "baslik": "Pandora sees U.S. demand stabilizing as consumers face inflation",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pandora-sees-us-demand-stabilizing-as-consumers-face-inflation-93CH-4926318",
+   "saat": "09:14",
+   "tarih_iso": "2026-10-01T09:14:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T09:30:56.188665+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-chipmaker-gains-soft-us-inflation-nikkei-outperforms-4926231",
+   "baslik": "Asia stocks rise on chipmaker gains, soft U.S. inflation; Nikkei outperforms",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-chipmaker-gains-soft-us-inflation-nikkei-outperforms-4926231",
+   "saat": "09:14",
+   "tarih_iso": "2026-10-01T09:14:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T09:30:56.188665+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-suncorp-stock-sliding-today-93CH-4926315",
+   "baslik": "Why is Suncorp stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-suncorp-stock-sliding-today-93CH-4926315",
+   "saat": "09:10",
+   "tarih_iso": "2026-10-01T09:10:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T09:30:56.188665+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-071-4926299",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.71%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-071-4926299",
+   "saat": "09:00",
+   "tarih_iso": "2026-10-01T09:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T09:30:56.188665+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/4ab6df98-f14d-49d1-a170-8087dc517b08?syn-25a6b1a6=1",
    "baslik": "An optimist’s guide to the bond market",
@@ -471,5 +577,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-01T09:01:11.410760+03:00"
+ "guncelleme": "2026-10-01T09:30:56.188665+03:00"
 }
