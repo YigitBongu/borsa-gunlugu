@@ -2,6 +2,32 @@
  "tarih": "2026-10-01",
  "kap": [
   {
+   "id": "kap-my-OTKAR-202610010928",
+   "baslik": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.",
+   "kodlar": [
+    "OTKAR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:28",
+   "tarih_iso": "2026-10-01T09:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T10:01:08.975145+03:00"
+  },
+  {
+   "id": "kap-my-ASELS-202610010920",
+   "baslik": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Yeni İş İlişkisi",
+   "sirket": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "ASELS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:20",
+   "tarih_iso": "2026-10-01T09:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T10:01:08.975145+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202610010900",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -42,6 +68,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsan-ile-savunma-sanayii-baskanligi-arasinda-1-milyar-avroluk-sozlesmeler-imzalandi/4074424",
+   "baslik": "ASELSAN ile Savunma Sanayii Başkanlığı arasında 1 milyar avroluk sözleşmeler imzalandı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/aselsan-ile-savunma-sanayii-baskanligi-arasinda-1-milyar-avroluk-sozlesmeler-imzalandi/4074424",
+   "saat": "09:43",
+   "tarih_iso": "2026-10-01T09:43:19+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-10-01T10:01:08.975145+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/spk-dan-hektas-in-tahsisli-sermaye-artirimina-onay-3916342",
    "baslik": "SPK'dan Hektaş'ın tahsisli sermaye artırımına onay",
@@ -184,6 +222,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-199-4926337",
+   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 1.99%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-199-4926337",
+   "saat": "09:30",
+   "tarih_iso": "2026-10-01T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:01:08.975145+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pz-cussons-keeps-profit-outlook-unchanged-after-45-firstquarter-sales-growth-93CH-4926335",
+   "baslik": "PZ Cussons keeps profit outlook unchanged after 4.5% first-quarter sales growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pz-cussons-keeps-profit-outlook-unchanged-after-45-firstquarter-sales-growth-93CH-4926335",
+   "saat": "09:26",
+   "tarih_iso": "2026-10-01T09:26:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:01:08.975145+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/topps-tiles-sees-fullyear-profit-in-line-with-market-views-sales-dip-13-4926327",
    "baslik": "Topps Tiles sees full-year profit in line with market views; sales dip 1.3%",
@@ -477,6 +535,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-vc-pmi-and-square-of-9-identify-42054278-recovery-levels-200688725",
+   "baslik": "Gold VC PMI and Square of 9 Identify $4,205–$4,278 Recovery Levels",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-vc-pmi-and-square-of-9-identify-42054278-recovery-levels-200688725",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-01T10:01:08.975145+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-september-selloff-shows-the-cost-of-higher-real-rates-200688720",
    "baslik": "Gold’s September Selloff Shows the Cost of Higher Real Rates",
    "kaynak": "Investing Emtia",
@@ -577,5 +645,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-01T09:30:56.188665+03:00"
+ "guncelleme": "2026-10-01T10:01:08.975145+03:00"
 }
