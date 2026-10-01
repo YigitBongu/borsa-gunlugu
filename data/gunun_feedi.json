@@ -2,6 +2,19 @@
  "tarih": "2026-10-01",
  "kap": [
   {
+   "id": "kap-my-CANTE-202610011518",
+   "baslik": "ÇAN2 TERMİK A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "ÇAN2 TERMİK A.Ş.",
+   "kodlar": [
+    "CANTE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:18",
+   "tarih_iso": "2026-10-01T15:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-01T16:01:11.865542+03:00"
+  },
+  {
    "id": "kap-my-QUAGR-202610011500",
    "baslik": "QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş. — Yeni İş İlişkisi",
    "sirket": "QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
@@ -308,6 +321,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/tcmb-rezervlerinde-dusus-3916497",
+   "baslik": "TCMB rezervlerinde düşüş",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/tcmb-rezervlerinde-dusus-3916497",
+   "saat": "15:45",
+   "tarih_iso": "2026-10-01T15:45:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:01:11.865542+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/juventusa-7-yilda-1-milyar-euro-yetmedi-yeni-kaynak-icin-dugmeye-basildi-haberi-842190",
    "baslik": "Juventus'a 7 yılda 1 milyar euro yetmedi: Yeni kaynak için düğmeye basıldı",
    "kaynak": "Dünya",
@@ -499,6 +522,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-latest-oil-price-shock-rippling-through-the-economy-is-a-refining-crisis-not-a-crude-crisis-e304a589?mod=mw_rss_topstories",
+   "baslik": "The latest oil-price shock rippling through the economy is a refining crisis —  not a crude crisis",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-latest-oil-price-shock-rippling-through-the-economy-is-a-refining-crisis-not-a-crude-crisis-e304a589?mod=mw_rss_topstories",
+   "saat": "15:53",
+   "tarih_iso": "2026-10-01T15:53:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:01:11.865542+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rocket-lab-stock-jumps-on-20launch-deal-with-synspective-4927459",
+   "baslik": "Rocket Lab stock jumps on 20-launch deal with Synspective",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rocket-lab-stock-jumps-on-20launch-deal-with-synspective-4927459",
+   "saat": "15:52",
+   "tarih_iso": "2026-10-01T15:52:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:01:11.865542+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/american-battery-technology-stock-surges-on-export-approval-4927445",
+   "baslik": "American Battery Technology stock surges on export approval",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/american-battery-technology-stock-surges-on-export-approval-4927445",
+   "saat": "15:48",
+   "tarih_iso": "2026-10-01T15:48:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:01:11.865542+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-046-4927439",
+   "baslik": "Saudi Arabia stocks lower at close of trade; Tadawul All Share down 0.46%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-046-4927439",
+   "saat": "15:45",
+   "tarih_iso": "2026-10-01T15:45:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:01:11.865542+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/01/sec-accredited-investor-exam-private-markets.html",
+   "baslik": "SEC proposes investor exam to expand private-market access — here's how it could work",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/01/sec-accredited-investor-exam-private-markets.html",
+   "saat": "15:40",
+   "tarih_iso": "2026-10-01T15:40:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:01:11.865542+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/these-ai-chip-stocks-are-dirt-cheap-mizuho-says-4927418",
+   "baslik": "These AI chip stocks are \"dirt cheap\", Mizuho says",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/these-ai-chip-stocks-are-dirt-cheap-mizuho-says-4927418",
+   "saat": "15:39",
+   "tarih_iso": "2026-10-01T15:39:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:01:11.865542+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-foghorn-therapeutics-stock-plummeting-today-93CH-4927378",
+   "baslik": "Why is Foghorn Therapeutics stock plummeting today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-foghorn-therapeutics-stock-plummeting-today-93CH-4927378",
+   "saat": "15:31",
+   "tarih_iso": "2026-10-01T15:31:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-01T16:01:11.865542+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/why-amazon-got-a-call-up-to-the-goldman-sachs-conviction-list-of-top-stocks-9c937472?mod=mw_rss_topstories",
    "baslik": "Why Amazon got a call-up to the Goldman Sachs conviction list of top stocks",
@@ -1502,5 +1595,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-01T15:31:11.547804+03:00"
+ "guncelleme": "2026-10-01T16:01:11.865542+03:00"
 }
