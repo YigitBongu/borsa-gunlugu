@@ -2,6 +2,45 @@
  "tarih": "2026-10-02",
  "kap": [
   {
+   "id": "kap-my-ASELS-202610021229",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "ASELS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:29",
+   "tarih_iso": "2026-10-02T12:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T13:01:10.839908+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202610021224",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "12:24",
+   "tarih_iso": "2026-10-02T12:24:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T13:01:10.839908+03:00"
+  },
+  {
+   "id": "kap-my-TUPRS-202610021214",
+   "baslik": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "SAHA KURUMSAL YÖNETİM VE KREDİ DERECELENDİRME HİZMETLERİ A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:14",
+   "tarih_iso": "2026-10-02T12:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T13:01:10.839908+03:00"
+  },
+  {
    "id": "kap-my-ASELS-202610021047",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -206,6 +245,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-enflasyon-surprizi-beklentileri-asti-haberi-842323",
+   "baslik": "Euro Bölgesi'nde enflasyon sürprizi: Beklentileri aştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/euro-bolgesinde-enflasyon-surprizi-beklentileri-asti-haberi-842323",
+   "saat": "12:31",
+   "tarih_iso": "2026-10-02T12:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:01:10.839908+03:00"
+  },
   {
    "id": "rss-https://www.bloomberght.com/euro-bolgesi-enflasyonu-son-uc-yilin-zirvesinde-3790154",
    "baslik": "Euro Bölgesi enflasyonu son üç yılın zirvesinde",
@@ -418,6 +467,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/netflix-stock-analysis-is-it-a-buy-into-earnings-this-month-93CH-4929248",
+   "baslik": "Netflix stock analysis: Is it a buy into earnings this month?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/netflix-stock-analysis-is-it-a-buy-into-earnings-this-month-93CH-4929248",
+   "saat": "12:38",
+   "tarih_iso": "2026-10-02T12:38:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:01:10.839908+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/02/eurozone-inflation-ecb.html",
    "baslik": "Eurozone inflation hits its highest level in three years at 3.8%",
@@ -1181,5 +1240,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-02T12:30:59.910390+03:00"
+ "guncelleme": "2026-10-02T13:01:10.839908+03:00"
 }
