@@ -562,6 +562,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/almanyanin-butce-acigi-ilk-yarida-99-milyar-avroya-yaklasti/4076634",
+   "baslik": "Almanya'nın bütçe açığı ilk yarıda 99 milyar avroya yaklaştı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/almanyanin-butce-acigi-ilk-yarida-99-milyar-avroya-yaklasti/4076634",
+   "saat": "00:24",
+   "tarih_iso": "2026-10-03T00:24:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T02:01:05.860264+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/tcmb-den-bir-elektronik-para-kurulusuna-faaliyet-izni-3790264",
    "baslik": "TCMB'den bir elektronik para kuruluşuna faaliyet izni",
    "kaynak": "Bloomberg HT",
@@ -893,6 +903,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+   "baslik": "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+   "saat": "01:38",
+   "tarih_iso": "2026-10-03T01:38:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T02:01:05.860264+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
    "baslik": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
@@ -2082,16 +2102,6 @@
    "tarih_iso": "2026-10-02T12:18:29+03:00",
    "kodlar": [],
    "eklenme": "2026-10-02T12:30:59.910390+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/kering-stock-falls-as-management-strikes-cautious-tone-4929209",
-   "baslik": "Kering stock falls as management strikes cautious tone",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/kering-stock-falls-as-management-strikes-cautious-tone-4929209",
-   "saat": "12:14",
-   "tarih_iso": "2026-10-02T12:14:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-02T12:30:59.910390+03:00"
   }
  ],
  "altin_haber": [
@@ -2306,5 +2316,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-03T01:30:53.294214+03:00"
+ "guncelleme": "2026-10-03T02:01:05.860264+03:00"
 }
