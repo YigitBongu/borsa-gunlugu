@@ -368,6 +368,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekom-darulaceze-sakinlerini-akmde-agirladi-haberi-842387",
+   "baslik": "Türk Telekom, Darülaceze sakinlerini AKM’de ağırladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekom-darulaceze-sakinlerini-akmde-agirladi-haberi-842387",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-03T00:00:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-10-03T01:01:08.237036+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/vakifbank-gm-arslan-dan-fon-sorusturmalariyla-ilgili-aciklama-3790262",
    "baslik": "Vakıfbank GM Arslan'dan fon soruşturmalarıyla ilgili açıklama",
    "kaynak": "Bloomberg HT",
@@ -882,6 +894,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+   "baslik": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+   "saat": "00:54",
+   "tarih_iso": "2026-10-03T00:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T01:01:08.237036+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-110-4930439",
+   "baslik": "Mexico stocks higher at close of trade; S&P/BMV IPC up 1.10%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-110-4930439",
+   "saat": "00:30",
+   "tarih_iso": "2026-10-03T00:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T01:01:08.237036+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-059-4930438",
+   "baslik": "Colombia stocks lower at close of trade; COLCAP down 0.59%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-059-4930438",
+   "saat": "00:25",
+   "tarih_iso": "2026-10-03T00:25:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T01:01:08.237036+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-015-4930435",
+   "baslik": "Russia stocks lower at close of trade; MOEX Russia Index down 0.15%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-015-4930435",
+   "saat": "00:20",
+   "tarih_iso": "2026-10-03T00:20:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T01:01:08.237036+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/archer-says-us-court-narrows-joby-aero-lawsuit-claims-4930398",
    "baslik": "US court trims Joby’s trade-secret case against Archer Aviation",
    "kaynak": "Investing.com",
@@ -950,6 +1002,16 @@
    "tarih_iso": "2026-10-02T23:18:40+03:00",
    "kodlar": [],
    "eklenme": "2026-10-02T23:31:03.064985+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+   "baslik": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+   "saat": "23:04",
+   "tarih_iso": "2026-10-02T23:04:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T01:01:08.237036+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-foghorn-therapeutics-stock-plunging-today-93CH-4930349",
@@ -2030,56 +2092,6 @@
    "tarih_iso": "2026-10-02T12:14:38+03:00",
    "kodlar": [],
    "eklenme": "2026-10-02T12:30:59.910390+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/microstrategy-stock-gains-on-citi-price-target-hike-to-240-93CH-4929206",
-   "baslik": "MicroStrategy stock gains on Citi price target hike to $240",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/microstrategy-stock-gains-on-citi-price-target-hike-to-240-93CH-4929206",
-   "saat": "12:13",
-   "tarih_iso": "2026-10-02T12:13:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-02T12:30:59.910390+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/capgemini-stock-hits-8month-high-after-accenture-results-93CH-4929180",
-   "baslik": "Capgemini stock hits 8-month high after Accenture results",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/capgemini-stock-hits-8month-high-after-accenture-results-93CH-4929180",
-   "saat": "12:02",
-   "tarih_iso": "2026-10-02T12:02:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-02T12:30:59.910390+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/schindler-stock-rises-on-citi-positive-shortterm-view-93CH-4929175",
-   "baslik": "Schindler stock rises on Citi positive short-term view",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/schindler-stock-rises-on-citi-positive-shortterm-view-93CH-4929175",
-   "saat": "12:01",
-   "tarih_iso": "2026-10-02T12:01:51+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-02T12:30:59.910390+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57?syn-25a6b1a6=1",
-   "baslik": "Eurozone inflation jumps to highest level in three years",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/6394fdc7-5fa5-4ec3-8bde-52633acd2b57?syn-25a6b1a6=1",
-   "saat": "12:01",
-   "tarih_iso": "2026-10-02T12:01:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-02T12:30:59.910390+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-rallying-today-93CH-4929168",
-   "baslik": "Why is Stellantis stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-rallying-today-93CH-4929168",
-   "saat": "11:57",
-   "tarih_iso": "2026-10-02T11:57:55+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-02T12:30:59.910390+03:00"
   }
  ],
  "altin_haber": [
@@ -2294,5 +2306,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-03T00:30:53.459764+03:00"
+ "guncelleme": "2026-10-03T01:01:08.237036+03:00"
 }
