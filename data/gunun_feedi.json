@@ -2,6 +2,45 @@
  "tarih": "2026-10-02",
  "kap": [
   {
+   "id": "kap-my-SELEC-202610021911",
+   "baslik": "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş.",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:11",
+   "tarih_iso": "2026-10-02T19:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-03T00:01:10.284873+03:00"
+  },
+  {
+   "id": "kap-my-KONTR-202610021846",
+   "baslik": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş. — Finansal Rapor",
+   "sirket": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş.",
+   "kodlar": [
+    "KONTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:46",
+   "tarih_iso": "2026-10-02T18:46:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-03T00:01:10.284873+03:00"
+  },
+  {
+   "id": "kap-my-EKGYO-202610021842",
+   "baslik": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Finansal Duran Varlık Edinimi",
+   "sirket": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+   "kodlar": [
+    "EKGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:42",
+   "tarih_iso": "2026-10-02T18:42:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-03T00:01:10.284873+03:00"
+  },
+  {
    "id": "kap-my-AKFGY-202610021730",
    "baslik": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
@@ -329,6 +368,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.bloomberght.com/vakifbank-gm-arslan-dan-fon-sorusturmalariyla-ilgili-aciklama-3790262",
+   "baslik": "Vakıfbank GM Arslan'dan fon soruşturmalarıyla ilgili açıklama",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/vakifbank-gm-arslan-dan-fon-sorusturmalariyla-ilgili-aciklama-3790262",
+   "saat": "23:35",
+   "tarih_iso": "2026-10-02T23:35:18+03:00",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "eklenme": "2026-10-03T00:01:10.284873+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/ali-koc-elektrifikasyon-rekabet-gucunu-artirir-3790222",
    "baslik": "Ali Koç: Elektrifikasyon rekabet gücünü artırır",
    "kaynak": "Bloomberg HT",
@@ -498,6 +549,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-enflasyon-rakamlari-2026-eylul-ayi-enflasyon-orani-ne-oldu-tuik-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-3474180",
+   "baslik": "EYLÜL AYI ENFLASYON RAKAMLARI 2026: Eylül Ayı Enflasyon Oranı Ne Oldu? TÜİK Enflasyon Rakamları Ne Zaman, Saat Kaçta Açıklanacak?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/eylul-ayi-enflasyon-rakamlari-2026-eylul-ayi-enflasyon-orani-ne-oldu-tuik-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-3474180",
+   "saat": "23:21",
+   "tarih_iso": "2026-10-02T23:21:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T00:01:10.284873+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/lineagen-kredi-notu-fitch-tarafndan-bbbye-dusuruldu-4088822",
+   "baslik": "Lineage’ın kredi notu Fitch tarafından ’BBB’ye düşürüldü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/lineagen-kredi-notu-fitch-tarafndan-bbbye-dusuruldu-4088822",
+   "saat": "22:18",
+   "tarih_iso": "2026-10-02T22:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T00:01:10.284873+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/abd-ile-yapilan-mutabakat-sonrasi-iraka-yeni-nakit-dolar-sevkiyati-ulasti-3474132",
    "baslik": "ABD ile yapılan mutabakat sonrası Irak’a yeni nakit dolar sevkiyatı ulaştı",
@@ -2213,5 +2284,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-02T23:50:00.364588+03:00"
+ "guncelleme": "2026-10-03T00:01:10.284873+03:00"
 }
