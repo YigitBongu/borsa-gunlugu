@@ -2,6 +2,19 @@
  "tarih": "2026-10-02",
  "kap": [
   {
+   "id": "kap-my-MIATK-202610021000",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:00",
+   "tarih_iso": "2026-10-02T10:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T10:30:57.497985+03:00"
+  },
+  {
    "id": "kap-my-TUPRS-202610020924",
    "baslik": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
    "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
@@ -106,6 +119,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/avrupa-enerji-sokuna-179-milyar-euro-harcadi-turkiyenin-ana-pazarinda-baski-buyuyor-haberi-842303",
+   "baslik": "Avrupa enerji şokuna 17,9 milyar euro harcadı: Türkiye’nin ana pazarında baskı büyüyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/avrupa-enerji-sokuna-179-milyar-euro-harcadi-turkiyenin-ana-pazarinda-baski-buyuyor-haberi-842303",
+   "saat": "10:19",
+   "tarih_iso": "2026-10-02T10:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T10:30:57.497985+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/enflasyon-rakamlari-bugun-mu-aciklanacak-ne-zaman-aciklaniyor-haberi-842296",
    "baslik": "Enflasyon rakamları bugün mü açıklanacak, ne zaman açıklanıyor?",
@@ -258,6 +281,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rebound-modestly-after-gilt-rout-us-jobs-data-in-focus-4929008",
+   "baslik": "FTSE 100 today: Stocks rebound modestly after gilt rout; U.S. jobs data in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rebound-modestly-after-gilt-rout-us-jobs-data-in-focus-4929008",
+   "saat": "10:22",
+   "tarih_iso": "2026-10-02T10:22:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T10:30:57.497985+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-set-for-worst-week-since-april-as-soaring-eu-yields-weigh-4928995",
+   "baslik": "European shares set for worst week since April as soaring EU yields weigh",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-set-for-worst-week-since-april-as-soaring-eu-yields-weigh-4928995",
+   "saat": "10:11",
+   "tarih_iso": "2026-10-02T10:11:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T10:30:57.497985+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-087-4928987",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 0.87%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-087-4928987",
+   "saat": "10:05",
+   "tarih_iso": "2026-10-02T10:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T10:30:57.497985+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ig-group-expects-q3-revenue-to-fall-14-as-otc-retention-weakens-4928936",
    "baslik": "IG Group expects Q3 revenue to fall 14% as OTC retention weakens",
@@ -661,5 +714,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-02T10:01:09.617907+03:00"
+ "guncelleme": "2026-10-02T10:30:57.497985+03:00"
 }
