@@ -2,6 +2,45 @@
  "tarih": "2026-10-02",
  "kap": [
   {
+   "id": "kap-my-ASTOR-202610021641",
+   "baslik": "ASTOR ENERJİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "ASTOR ENERJİ A.Ş.",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:41",
+   "tarih_iso": "2026-10-02T16:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T17:01:08.200433+03:00"
+  },
+  {
+   "id": "kap-my-EKGYO-202610021640",
+   "baslik": "HALK VARLIK KİRALAMA A.Ş. — Tertip İhraç Belgesi",
+   "sirket": "HALK VARLIK KİRALAMA A.Ş.",
+   "kodlar": [
+    "EKGYO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:40",
+   "tarih_iso": "2026-10-02T16:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T17:01:08.200433+03:00"
+  },
+  {
+   "id": "kap-my-BERA-202610021628",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "BERA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:28",
+   "tarih_iso": "2026-10-02T16:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T17:01:08.200433+03:00"
+  },
+  {
    "id": "kap-my-SDTTR-202610021557",
    "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Yeni İş İlişkisi",
    "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
@@ -225,6 +264,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/ali-y-koc-elektrifikasyon-hedefinin-gerceklesmesi-ulke-olarak-rekabet-gucumuzu-artirir-3916801",
+   "baslik": "“Elektrifikasyon hedefi rekabet gücümüzü artırır”",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/ali-y-koc-elektrifikasyon-hedefinin-gerceklesmesi-ulke-olarak-rekabet-gucumuzu-artirir-3916801",
+   "saat": "16:47",
+   "tarih_iso": "2026-10-02T16:47:25+03:00",
+   "kodlar": [
+    "KCHOL"
+   ],
+   "eklenme": "2026-10-02T17:01:08.200433+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/bakan-ersoy-ve-thy-yonetiminden-turizm-zirvesi-3916796",
    "baslik": "Bakan Ersoy ve THY yönetiminden turizm zirvesi",
    "kaynak": "Habertürk Ekonomi",
@@ -358,6 +409,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/abd-ile-yapilan-mutabakat-sonrasi-iraka-yeni-nakit-dolar-sevkiyati-ulasti-3474132",
+   "baslik": "ABD ile yapılan mutabakat sonrası Irak’a yeni nakit dolar sevkiyatı ulaştı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/abd-ile-yapilan-mutabakat-sonrasi-iraka-yeni-nakit-dolar-sevkiyati-ulasti-3474132",
+   "saat": "19:34",
+   "tarih_iso": "2026-10-02T19:34:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:01:08.200433+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/video/ekonomi/turkiyenin-kredi-notu-etkilenmeyecek-3474020",
    "baslik": "Uluslararası Kredi Kuruluşu S&P'den fon soruşturması mesajı: \"Türkiye’nin kredi notu etkilenmeyecek\"",
@@ -651,6 +712,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
+   "baslik": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
+   "saat": "16:48",
+   "tarih_iso": "2026-10-02T16:48:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:01:08.200433+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-opens-higher-as-softer-payrolls-data-lower-yields-lift-sentiment-4930009",
+   "baslik": "Wall St opens higher as softer payrolls data, lower yields lift sentiment",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-higher-as-softer-payrolls-data-lower-yields-lift-sentiment-4930009",
+   "saat": "16:43",
+   "tarih_iso": "2026-10-02T16:43:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:01:08.200433+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+   "baslik": "Tesla’s EV sales beat Wall Street’s expectations again, and the stock jumps",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+   "saat": "16:30",
+   "tarih_iso": "2026-10-02T16:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:01:08.200433+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+   "baslik": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+   "kaynak": "CNBC Finans",
+   "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+   "saat": "16:29",
+   "tarih_iso": "2026-10-02T16:29:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:01:08.200433+03:00"
+  },
+  {
    "id": "yab-https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
    "baslik": "US jobs market sees sharp slowdown in September",
    "kaynak": "BBC Business",
@@ -659,6 +760,16 @@
    "tarih_iso": "2026-10-02T16:28:15+03:00",
    "kodlar": [],
    "eklenme": "2026-10-02T16:31:00.796814+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rbc-cuts-northrop-grumman-rating-on-slower-growth-cautious-defense-outlook-4929938",
+   "baslik": "RBC cuts Northrop Grumman rating on slower growth, cautious defense outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rbc-cuts-northrop-grumman-rating-on-slower-growth-cautious-defense-outlook-4929938",
+   "saat": "16:28",
+   "tarih_iso": "2026-10-02T16:28:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:01:08.200433+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/10/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
@@ -1823,5 +1934,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-02T16:31:00.796814+03:00"
+ "guncelleme": "2026-10-02T17:01:08.200433+03:00"
 }
