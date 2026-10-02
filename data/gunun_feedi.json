@@ -2,6 +2,45 @@
  "tarih": "2026-10-02",
  "kap": [
   {
+   "id": "kap-my-EGEEN-202610021304",
+   "baslik": "EGE ENDÜSTRİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "EGEEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:04",
+   "tarih_iso": "2026-10-02T13:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202610021243",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:43",
+   "tarih_iso": "2026-10-02T12:43:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202610021242",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:42",
+   "tarih_iso": "2026-10-02T12:42:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
    "id": "kap-my-ASELS-202610021229",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -246,6 +285,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/bofadan-yatirimcilara-dolar-uyarisi-zirveyi-gormeden-bitmeyebilir-haberi-842329",
+   "baslik": "BofA’dan yatırımcılara dolar uyarısı: Zirveyi görmeden bitmeyebilir",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bofadan-yatirimcilara-dolar-uyarisi-zirveyi-gormeden-bitmeyebilir-haberi-842329",
+   "saat": "13:05",
+   "tarih_iso": "2026-10-02T13:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-enflasyon-surprizi-beklentileri-asti-haberi-842323",
    "baslik": "Euro Bölgesi'nde enflasyon sürprizi: Beklentileri aştı",
    "kaynak": "Dünya",
@@ -467,6 +516,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories",
+   "baslik": "Here’s the bond-market alternative as U.S. and other developed markets debt deteriorate",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories",
+   "saat": "13:25",
+   "tarih_iso": "2026-10-02T13:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories",
+   "baslik": "Brazil is holding an election — and for the stock market, there’s more to gain than to lose, says fund manager",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories",
+   "saat": "13:22",
+   "tarih_iso": "2026-10-02T13:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/kion-shares-tumble-after-q3-profit-warning-93CH-4929384",
+   "baslik": "KION shares tumble after Q3 profit warning",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/kion-shares-tumble-after-q3-profit-warning-93CH-4929384",
+   "saat": "13:17",
+   "tarih_iso": "2026-10-02T13:17:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-legrand-stock-climbing-today-93CH-4929382",
+   "baslik": "Why is Legrand stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-legrand-stock-climbing-today-93CH-4929382",
+   "saat": "13:15",
+   "tarih_iso": "2026-10-02T13:15:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/hormuz-oil-flow-rebounds-but-diesel-costs-keep-crude-prices-elevated-93CH-4929376",
+   "baslik": "Hormuz oil flow rebounds but diesel costs keep crude prices elevated",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/hormuz-oil-flow-rebounds-but-diesel-costs-keep-crude-prices-elevated-93CH-4929376",
+   "saat": "13:14",
+   "tarih_iso": "2026-10-02T13:14:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
+   "baslik": "Nike shares plummet 10% after weak revenue outlook and layoff plans underway",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/02/nike-nke-stock-q1-earnings-layoffs.html",
+   "saat": "13:11",
+   "tarih_iso": "2026-10-02T13:11:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/glencore-lifts-trading-profit-outlook-as-2026-earnings-seen-above-5-bln-93CH-4929367",
+   "baslik": "Glencore lifts trading profit outlook as 2026 earnings seen above $5 bln",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/glencore-lifts-trading-profit-outlook-as-2026-earnings-seen-above-5-bln-93CH-4929367",
+   "saat": "13:10",
+   "tarih_iso": "2026-10-02T13:10:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+   "baslik": "How AI is redefining Wall Street jobs — and boosting demand for this new 'hottest skill' by 1,721%",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/02/ai-redefining-wall-street-jobs.html",
+   "saat": "13:00",
+   "tarih_iso": "2026-10-02T13:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/netflix-stock-analysis-is-it-a-buy-into-earnings-this-month-93CH-4929248",
    "baslik": "Netflix stock analysis: Is it a buy into earnings this month?",
@@ -1110,6 +1239,16 @@
    "eklenme": "2026-10-02T11:30:51.947679+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altinda-yeni-dusus-uyarisi-bank-of-america-4-bin-dolarin-altini-gundeme-aldi-galeri-842330",
+   "baslik": "Altında yeni düşüş uyarısı: Bank of America 4 bin doların altını gündeme aldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altinda-yeni-dusus-uyarisi-bank-of-america-4-bin-dolarin-altini-gundeme-aldi-galeri-842330",
+   "saat": "13:11",
+   "tarih_iso": "2026-10-02T13:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T13:31:32.789443+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-at-a-crossroads-longterm-trend-support-faces-a-crucial-nfp-test-200688826",
    "baslik": "Gold at a Crossroads: Long-Term Trend Support Faces a Crucial NFP Test",
    "kaynak": "Investing Emtia",
@@ -1240,5 +1379,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-02T13:01:10.839908+03:00"
+ "guncelleme": "2026-10-02T13:31:32.789443+03:00"
 }
