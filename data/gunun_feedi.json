@@ -2,6 +2,32 @@
  "tarih": "2026-10-02",
  "kap": [
   {
+   "id": "kap-my-AEFES-202610021656",
+   "baslik": "BORSA İSTANBUL A.Ş. — Hak Kullanımı",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "AEFES"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:56",
+   "tarih_iso": "2026-10-02T16:56:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T17:31:01.223397+03:00"
+  },
+  {
+   "id": "kap-my-TUPRS-202610021647",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Pay Mali Hak Kullanım İşlemi - Nakit Ödeme",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:47",
+   "tarih_iso": "2026-10-02T16:47:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T17:31:01.223397+03:00"
+  },
+  {
    "id": "kap-my-ASTOR-202610021641",
    "baslik": "ASTOR ENERJİ A.Ş. — Yeni İş İlişkisi",
    "sirket": "ASTOR ENERJİ A.Ş.",
@@ -286,6 +312,18 @@
     "THYAO"
    ],
    "eklenme": "2026-10-02T16:31:00.796814+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-02-ekim-2026/4076208",
+   "baslik": "60 saniyede ekonomide bugün (02 Ekim 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-02-ekim-2026/4076208",
+   "saat": "16:15",
+   "tarih_iso": "2026-10-02T16:15:20+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-10-02T17:31:01.223397+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/bakan-ersoy-ve-thy-yonetiminden-turizm-zirvesi-yeni-ucus-noktalari-masada-haberi-842356",
@@ -711,6 +749,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+   "baslik": "Trump says Europe will release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+   "saat": "17:16",
+   "tarih_iso": "2026-10-02T17:16:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:31:01.223397+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/02/tax-loss-harvesting-how-bond-losses-can-cut-your-tax-bill.html",
+   "baslik": "Bond losses may offer investors a tax break. Here’s how tax-loss harvesting works",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/02/tax-loss-harvesting-how-bond-losses-can-cut-your-tax-bill.html",
+   "saat": "17:12",
+   "tarih_iso": "2026-10-02T17:12:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:31:01.223397+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-robinhood-markets-stock-rallying-today-93CH-4930060",
+   "baslik": "Why is Robinhood Markets stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-robinhood-markets-stock-rallying-today-93CH-4930060",
+   "saat": "17:05",
+   "tarih_iso": "2026-10-02T17:05:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:31:01.223397+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-iren-stock-surging-today-93CH-4930058",
+   "baslik": "Why is IREN stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-iren-stock-surging-today-93CH-4930058",
+   "saat": "17:04",
+   "tarih_iso": "2026-10-02T17:04:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:31:01.223397+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-credo-technology-stock-surging-today-93CH-4930041",
+   "baslik": "Why is Credo Technology stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-credo-technology-stock-surging-today-93CH-4930041",
+   "saat": "16:59",
+   "tarih_iso": "2026-10-02T16:59:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:31:01.223397+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/integra-lifesciences-stock-tumbles-after-cutting-2026-outlook-4930040",
+   "baslik": "Integra LifeSciences stock tumbles after cutting 2026 outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/integra-lifesciences-stock-tumbles-after-cutting-2026-outlook-4930040",
+   "saat": "16:58",
+   "tarih_iso": "2026-10-02T16:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:31:01.223397+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-rallying-today-93CH-4930025",
+   "baslik": "Why is Bloom Energy stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bloom-energy-stock-rallying-today-93CH-4930025",
+   "saat": "16:55",
+   "tarih_iso": "2026-10-02T16:55:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:31:01.223397+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/halliburton-pulls-out-of-falklands-oil-project-93CH-4930022",
+   "baslik": "Halliburton pulls out of Falklands oil project",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/halliburton-pulls-out-of-falklands-oil-project-93CH-4930022",
+   "saat": "16:49",
+   "tarih_iso": "2026-10-02T16:49:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T17:31:01.223397+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/02/treasury-irs-capital-gains-income-tax-section-351-warning.html",
    "baslik": "Treasury Sec. Bessent, IRS crack down on ETF strategy the wealthy are using to avoid capital gains taxes",
@@ -1934,5 +2052,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-02T17:01:08.200433+03:00"
+ "guncelleme": "2026-10-02T17:31:01.223397+03:00"
 }
