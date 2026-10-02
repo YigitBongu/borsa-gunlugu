@@ -473,6 +473,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/piyasalar-dolar-basksyla-geriledi-ancak-bu-bt-hissesi-bugun-10-yukseldi-4087477",
+   "baslik": "Piyasalar dolar baskısıyla geriledi, ancak bu BT hissesi bugün %10 yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/piyasalar-dolar-basksyla-geriledi-ancak-bu-bt-hissesi-bugun-10-yukseldi-4087477",
+   "saat": "05:50",
+   "tarih_iso": "2026-10-02T05:50:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T06:01:07.128541+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altinda-faiz-baskisi-buyudu-bugun-dengeler-degisebilir-galeri-842271",
+   "baslik": "Altında faiz baskısı büyüdü: Bugün dengeler değişebilir",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altinda-faiz-baskisi-buyudu-bugun-dengeler-degisebilir-galeri-842271",
+   "saat": "05:50",
+   "tarih_iso": "2026-10-02T05:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T06:01:07.128541+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/fedin-cooku-yapay-zeka-2027-icin-en-buyuk-enflasyon-riski-93CH-4087459",
    "baslik": "Fed’in Cook’u: Yapay zeka 2027 için en büyük enflasyon riski",
    "kaynak": "Investing TR",
@@ -854,6 +874,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/markets-slip-on-dollar-pressure-but-this-it-stock-is-up-10-today-4928853",
+   "baslik": "Markets slip on dollar pressure, but this IT stock is up 10% today",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/markets-slip-on-dollar-pressure-but-this-it-stock-is-up-10-today-4928853",
+   "saat": "05:50",
+   "tarih_iso": "2026-10-02T05:50:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T06:01:07.128541+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/82b-acquisition-validates-aipicked-chip-stock-20-since-june-4928796",
    "baslik": "$8.2B acquisition validates AI-picked chip stock: +20% since June",
@@ -2043,16 +2073,6 @@
    "tarih_iso": "2026-10-01T15:52:51+03:00",
    "kodlar": [],
    "eklenme": "2026-10-01T16:01:11.865542+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/american-battery-technology-stock-surges-on-export-approval-4927445",
-   "baslik": "American Battery Technology stock surges on export approval",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/american-battery-technology-stock-surges-on-export-approval-4927445",
-   "saat": "15:48",
-   "tarih_iso": "2026-10-01T15:48:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T16:01:11.865542+03:00"
   }
  ],
  "altin_haber": [
@@ -2277,5 +2297,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-02T05:30:56.553518+03:00"
+ "guncelleme": "2026-10-02T06:01:07.128541+03:00"
 }
