@@ -2,6 +2,19 @@
  "tarih": "2026-10-02",
  "kap": [
   {
+   "id": "kap-my-GESAN-202610021038",
+   "baslik": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş. — İhale Süreci / Sonucu",
+   "sirket": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
+   "kodlar": [
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:38",
+   "tarih_iso": "2026-10-02T10:38:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T11:01:08.412272+03:00"
+  },
+  {
    "id": "kap-my-MIATK-202610021000",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -82,6 +95,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/sifir-atik-vakfi-ile-turk-hava-yollari-arasinda-surdurulebilir-havacilik-icin-stratejik-is-birligi-3916676",
+   "baslik": "Sıfır Atık Vakfı ile Türk Hava Yolları arasında iş birliği",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/sifir-atik-vakfi-ile-turk-hava-yollari-arasinda-surdurulebilir-havacilik-icin-stratejik-is-birligi-3916676",
+   "saat": "10:44",
+   "tarih_iso": "2026-10-02T10:44:55+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-10-02T11:01:08.412272+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsandan-488-5-milyon-avroluk-hava-savunma-sistemi-ihracat-sozlesmesi/4075728",
+   "baslik": "ASELSAN'dan 488,5 milyon avroluk hava savunma sistemi ihracat sözleşmesi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/aselsandan-488-5-milyon-avroluk-hava-savunma-sistemi-ihracat-sozlesmesi/4075728",
+   "saat": "10:18",
+   "tarih_iso": "2026-10-02T10:18:55+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-10-02T11:01:08.412272+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/pegasus-avrupali-havayolu-sirketini-satin-aldi-3916644",
    "baslik": "Pegasus satın almayı tamamladı",
    "kaynak": "Habertürk Ekonomi",
@@ -119,6 +156,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-anketinde-kredi-sinyali-isletme-kredilerinde-gevseme-bekleniyor-haberi-842308",
+   "baslik": "TCMB anketinde kredi sinyali: İşletme kredilerinde gevşeme bekleniyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-anketinde-kredi-sinyali-isletme-kredilerinde-gevseme-bekleniyor-haberi-842308",
+   "saat": "10:53",
+   "tarih_iso": "2026-10-02T10:53:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T11:01:08.412272+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/avrupa-enerji-sokuna-179-milyar-euro-harcadi-turkiyenin-ana-pazarinda-baski-buyuyor-haberi-842303",
    "baslik": "Avrupa enerji şokuna 17,9 milyar euro harcadı: Türkiye’nin ana pazarında baskı büyüyor",
@@ -281,6 +328,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jd-wetherspoon-profit-falls-28-as-higher-costs-outweigh-sales-growth-4928949",
+   "baslik": "Wetherspoon shares jump 8% as strong sales support profit outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jd-wetherspoon-profit-falls-28-as-higher-costs-outweigh-sales-growth-4928949",
+   "saat": "10:35",
+   "tarih_iso": "2026-10-02T10:35:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T11:01:08.412272+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rebound-modestly-after-gilt-rout-us-jobs-data-in-focus-4929008",
    "baslik": "FTSE 100 today: Stocks rebound modestly after gilt rout; U.S. jobs data in focus",
@@ -644,6 +701,16 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   },
   {
+   "id": "alt-https://www.bloomberght.com/guncel-altin-fiyatlari-2-ekim-2026-cuma-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3790083",
+   "baslik": "Güncel altın fiyatları: 2 Ekim 2026 Cuma gram ve çeyrek altın ne kadar oldu?",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/guncel-altin-fiyatlari-2-ekim-2026-cuma-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3790083",
+   "saat": "10:00",
+   "tarih_iso": "2026-10-02T10:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T11:01:08.412272+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-failed-rally-reveals-the-real-market-driver-us-dollar-strength-200688798",
    "baslik": "Gold’s Failed Rally Reveals the Real Market Driver: US Dollar Strength",
    "kaynak": "Investing Emtia",
@@ -714,5 +781,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-02T10:30:57.497985+03:00"
+ "guncelleme": "2026-10-02T11:01:08.412272+03:00"
 }
