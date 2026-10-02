@@ -2,6 +2,32 @@
  "tarih": "2026-10-02",
  "kap": [
   {
+   "id": "kap-my-SDTTR-202610021557",
+   "baslik": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş. — Yeni İş İlişkisi",
+   "sirket": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:57",
+   "tarih_iso": "2026-10-02T15:57:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T16:31:00.796814+03:00"
+  },
+  {
+   "id": "kap-my-BIENY-202610021555",
+   "baslik": "BİEN YAPI ÜRÜNLERİ SANAYİ TURİZM VE TİCARET A.Ş. — Yeni İş İlişkisi",
+   "sirket": "BİEN YAPI ÜRÜNLERİ SANAYİ TURİZM VE TİCARET A.Ş.",
+   "kodlar": [
+    "BIENY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:55",
+   "tarih_iso": "2026-10-02T15:55:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T16:31:00.796814+03:00"
+  },
+  {
    "id": "kap-my-EGEEN-202610021304",
    "baslik": "EGE ENDÜSTRİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
@@ -198,6 +224,30 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/bakan-ersoy-ve-thy-yonetiminden-turizm-zirvesi-3916796",
+   "baslik": "Bakan Ersoy ve THY yönetiminden turizm zirvesi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/bakan-ersoy-ve-thy-yonetiminden-turizm-zirvesi-3916796",
+   "saat": "16:16",
+   "tarih_iso": "2026-10-02T16:16:32+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-10-02T16:31:00.796814+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/bakan-ersoy-ve-thy-yonetiminden-turizm-zirvesi-yeni-ucus-noktalari-masada-haberi-842356",
+   "baslik": "Bakan Ersoy ve THY yönetiminden turizm zirvesi: Yeni uçuş noktaları masada",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bakan-ersoy-ve-thy-yonetiminden-turizm-zirvesi-yeni-ucus-noktalari-masada-haberi-842356",
+   "saat": "16:08",
+   "tarih_iso": "2026-10-02T16:08:00+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-10-02T16:31:00.796814+03:00"
+  },
   {
    "id": "rss-https://www.bloomberght.com/thy-genel-muduru-olmustur-boeing-ile-motor-muzakereleri-suruyor-3790177",
    "baslik": "THY Genel Müdürü Olmuştur: Boeing ile motor müzakereleri sürüyor",
@@ -601,6 +651,46 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+   "baslik": "US jobs market sees sharp slowdown in September",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+   "saat": "16:28",
+   "tarih_iso": "2026-10-02T16:28:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T16:31:00.796814+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Friday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/02/jim-cramers-top-10-things-to-watch-in-the-stock-market-friday.html",
+   "saat": "16:13",
+   "tarih_iso": "2026-10-02T16:13:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T16:31:00.796814+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/forward-industries-stock-jumps-on-sol-holdings-growth-4929907",
+   "baslik": "Forward Industries stock jumps on SOL holdings growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/forward-industries-stock-jumps-on-sol-holdings-growth-4929907",
+   "saat": "16:10",
+   "tarih_iso": "2026-10-02T16:10:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T16:31:00.796814+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tnl-mediagene-stock-surges-on-55m-japan-unit-sale-deal-4929905",
+   "baslik": "TNL Mediagene stock surges on $5.5M Japan unit sale deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tnl-mediagene-stock-surges-on-55m-japan-unit-sale-deal-4929905",
+   "saat": "16:06",
+   "tarih_iso": "2026-10-02T16:06:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T16:31:00.796814+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html",
    "baslik": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
    "kaynak": "CNBC",
@@ -619,6 +709,16 @@
    "tarih_iso": "2026-10-02T15:58:00+03:00",
    "kodlar": [],
    "eklenme": "2026-10-02T16:01:09.698482+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/4d0293d8-2f50-4f33-8fa3-702e48df0386?syn-25a6b1a6=1",
+   "baslik": "I’m even more bullish about stocks than a year ago",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/4d0293d8-2f50-4f33-8fa3-702e48df0386?syn-25a6b1a6=1",
+   "saat": "15:52",
+   "tarih_iso": "2026-10-02T15:52:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T16:31:00.796814+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/keybanc-bullish-on-airbnb-sees-hotels-as-second-growth-engine-4929844",
@@ -1723,5 +1823,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-02T16:01:09.698482+03:00"
+ "guncelleme": "2026-10-02T16:31:00.796814+03:00"
 }
