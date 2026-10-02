@@ -473,6 +473,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fedin-cooku-yapay-zeka-2027-icin-en-buyuk-enflasyon-riski-93CH-4087459",
+   "baslik": "Fed’in Cook’u: Yapay zeka 2027 için en büyük enflasyon riski",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fedin-cooku-yapay-zeka-2027-icin-en-buyuk-enflasyon-riski-93CH-4087459",
+   "saat": "03:49",
+   "tarih_iso": "2026-10-02T03:49:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T04:30:52.383531+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/son-dakika-haberi-merkez-bankasi-duyurdu-kobi-kredileri-icin-buyume-siniri-yukseltildi-3473748",
    "baslik": "SON DAKİKA HABERİ: Merkez Bankası duyurdu: KOBİ kredileri için büyüme sınırı yükseltildi",
    "kaynak": "CNN Türk Ekonomi",
@@ -844,6 +854,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australias-sunrise-energy-metals-plans-us-redomicile-primary-nasdaq-listing-4928774",
+   "baslik": "Australia’s Sunrise Energy Metals plans US redomicile, primary Nasdaq listing",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australias-sunrise-energy-metals-plans-us-redomicile-primary-nasdaq-listing-4928774",
+   "saat": "04:18",
+   "tarih_iso": "2026-10-02T04:18:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T04:30:52.383531+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/feds-cook-sees-ai-buildup-as-top-inflation-risk-for-2027-93CH-4928751",
+   "baslik": "Fed’s Cook sees AI buildup as top inflation risk for 2027",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/feds-cook-sees-ai-buildup-as-top-inflation-risk-for-2027-93CH-4928751",
+   "saat": "03:48",
+   "tarih_iso": "2026-10-02T03:48:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T04:30:52.383531+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-drift-higher-with-nonfarm-payrolls-in-focus-4928740",
    "baslik": "U.S. stock futures drift higher with nonfarm payrolls in focus",
@@ -2023,26 +2053,6 @@
    "tarih_iso": "2026-10-01T15:45:03+03:00",
    "kodlar": [],
    "eklenme": "2026-10-01T16:01:11.865542+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/01/sec-accredited-investor-exam-private-markets.html",
-   "baslik": "SEC proposes investor exam to expand private-market access — here's how it could work",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/01/sec-accredited-investor-exam-private-markets.html",
-   "saat": "15:40",
-   "tarih_iso": "2026-10-01T15:40:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T16:01:11.865542+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/these-ai-chip-stocks-are-dirt-cheap-mizuho-says-4927418",
-   "baslik": "These AI chip stocks are \"dirt cheap\", Mizuho says",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/these-ai-chip-stocks-are-dirt-cheap-mizuho-says-4927418",
-   "saat": "15:39",
-   "tarih_iso": "2026-10-01T15:39:22+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-01T16:01:11.865542+03:00"
   }
  ],
  "altin_haber": [
@@ -2267,5 +2277,5 @@
    "eklenme": "2026-10-01T09:01:11.410760+03:00"
   }
  ],
- "guncelleme": "2026-10-02T04:01:01.825405+03:00"
+ "guncelleme": "2026-10-02T04:30:52.383531+03:00"
 }
