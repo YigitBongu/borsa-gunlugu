@@ -550,6 +550,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.bloomberght.com/tcmb-den-bir-elektronik-para-kurulusuna-faaliyet-izni-3790264",
+   "baslik": "TCMB'den bir elektronik para kuruluşuna faaliyet izni",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/tcmb-den-bir-elektronik-para-kurulusuna-faaliyet-izni-3790264",
+   "saat": "00:14",
+   "tarih_iso": "2026-10-03T00:14:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T00:30:53.459764+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/eylul-ayi-enflasyon-rakamlari-2026-eylul-ayi-enflasyon-orani-ne-oldu-tuik-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-3474180",
    "baslik": "EYLÜL AYI ENFLASYON RAKAMLARI 2026: Eylül Ayı Enflasyon Oranı Ne Oldu? TÜİK Enflasyon Rakamları Ne Zaman, Saat Kaçta Açıklanacak?",
    "kaynak": "CNN Türk Ekonomi",
@@ -871,6 +881,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/archer-says-us-court-narrows-joby-aero-lawsuit-claims-4930398",
+   "baslik": "US court trims Joby’s trade-secret case against Archer Aviation",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/archer-says-us-court-narrows-joby-aero-lawsuit-claims-4930398",
+   "saat": "00:06",
+   "tarih_iso": "2026-10-03T00:06:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T00:30:53.459764+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846?syn-25a6b1a6=1",
+   "baslik": "US justice department will not reopen criminal probe of Fed’s Jay Powell",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846?syn-25a6b1a6=1",
+   "saat": "00:03",
+   "tarih_iso": "2026-10-03T00:03:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T00:30:53.459764+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/why-mixing-politics-with-your-stock-portfolio-might-be-costing-you-money-5b4aabfb?mod=mw_rss_topstories",
    "baslik": "Why mixing politics with your stock portfolio might be costing you money",
@@ -2050,26 +2080,6 @@
    "tarih_iso": "2026-10-02T11:57:55+03:00",
    "kodlar": [],
    "eklenme": "2026-10-02T12:30:59.910390+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-   "baslik": "Oil prices extend losses after reports of potential European diesel, crude stock release",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
-   "saat": "11:51",
-   "tarih_iso": "2026-10-02T11:51:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-02T12:01:05.980651+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-moderna-stock-rallying-today-93CH-4929130",
-   "baslik": "Why is Moderna stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-moderna-stock-rallying-today-93CH-4929130",
-   "saat": "11:43",
-   "tarih_iso": "2026-10-02T11:43:09+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-02T12:01:05.980651+03:00"
   }
  ],
  "altin_haber": [
@@ -2284,5 +2294,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-03T00:01:10.284873+03:00"
+ "guncelleme": "2026-10-03T00:30:53.459764+03:00"
 }
