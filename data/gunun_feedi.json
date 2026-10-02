@@ -2,6 +2,32 @@
  "tarih": "2026-10-02",
  "kap": [
   {
+   "id": "kap-my-TUPRS-202610020924",
+   "baslik": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş. — Kurumsal Yönetim İlkelerine Uyum Derecelendirmesi",
+   "sirket": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+   "kodlar": [
+    "TUPRS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:24",
+   "tarih_iso": "2026-10-02T09:24:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T10:01:09.617907+03:00"
+  },
+  {
+   "id": "kap-my-ASELS-202610020915",
+   "baslik": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Yeni İş İlişkisi",
+   "sirket": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "ASELS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:15",
+   "tarih_iso": "2026-10-02T09:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-02T10:01:09.617907+03:00"
+  },
+  {
    "id": "kap-my-MGROS-202610020859",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -43,6 +69,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/pegasus-avrupali-havayolu-sirketini-satin-aldi-3916644",
+   "baslik": "Pegasus satın almayı tamamladı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/pegasus-avrupali-havayolu-sirketini-satin-aldi-3916644",
+   "saat": "09:30",
+   "tarih_iso": "2026-10-02T09:30:15+03:00",
+   "kodlar": [
+    "PGSUS"
+   ],
+   "eklenme": "2026-10-02T10:01:09.617907+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/aselsan-dan-488-5-milyon-euroluk-sozlesme-3790074",
+   "baslik": "Aselsan'dan 488,5 milyon euroluk sözleşme",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/aselsan-dan-488-5-milyon-euroluk-sozlesme-3790074",
+   "saat": "09:20",
+   "tarih_iso": "2026-10-02T09:20:40+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-10-02T10:01:09.617907+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/2-ges-yatirimina-cinden-183-milyon-dolarlik-kredi-haberi-842219",
    "baslik": "2 GES yatırımına Çin’den 18,3 milyon dolarlık kredi",
    "kaynak": "Dünya",
@@ -56,6 +106,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/enflasyon-rakamlari-bugun-mu-aciklanacak-ne-zaman-aciklaniyor-haberi-842296",
+   "baslik": "Enflasyon rakamları bugün mü açıklanacak, ne zaman açıklanıyor?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/enflasyon-rakamlari-bugun-mu-aciklanacak-ne-zaman-aciklaniyor-haberi-842296",
+   "saat": "09:52",
+   "tarih_iso": "2026-10-02T09:52:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T10:01:09.617907+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/dolar-ne-kadar-oldu-2-ekim-2026-dolar-kurunda-son-durum-ne-pkh2-3790079",
+   "baslik": "Dolar ne kadar oldu? 2 Ekim 2026, Dolar kurunda son durum ne?",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/dolar-ne-kadar-oldu-2-ekim-2026-dolar-kurunda-son-durum-ne-pkh2-3790079",
+   "saat": "09:30",
+   "tarih_iso": "2026-10-02T09:30:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T10:01:09.617907+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/tahvil-yatirimcisi-fedden-faiz-artisi-bekliyor-3790069",
+   "baslik": "Tahvil yatırımcısı Fed'den faiz artışı bekliyor",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/tahvil-yatirimcisi-fedden-faiz-artisi-bekliyor-3790069",
+   "saat": "08:56",
+   "tarih_iso": "2026-10-02T08:56:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T10:01:09.617907+03:00"
+  },
   {
    "id": "rss-https://www.bloomberght.com/fed-yetkilisi-bowman-bu-yil-yeni-faiz-artisi-icin-aciliyet-gormuyor-3790062",
    "baslik": "Fed yetkilisi Bowman, bu yıl yeni faiz artışı için aciliyet görmüyor",
@@ -178,6 +258,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ig-group-expects-q3-revenue-to-fall-14-as-otc-retention-weakens-4928936",
+   "baslik": "IG Group expects Q3 revenue to fall 14% as OTC retention weakens",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ig-group-expects-q3-revenue-to-fall-14-as-otc-retention-weakens-4928936",
+   "saat": "09:30",
+   "tarih_iso": "2026-10-02T09:30:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T10:01:09.617907+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-079-4928934",
+   "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.79%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-079-4928934",
+   "saat": "09:30",
+   "tarih_iso": "2026-10-02T09:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-02T10:01:09.617907+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-china-battery-stocks-4928909",
    "baslik": "Goldman Sachs Names Top China Battery Stocks",
@@ -561,5 +661,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-02T09:30:57.475960+03:00"
+ "guncelleme": "2026-10-02T10:01:09.617907+03:00"
 }
