@@ -562,6 +562,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-3-ekim-cumartesi-doviz-kurlari-haberi-842404",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (3 Ekim Cumartesi Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-3-ekim-cumartesi-doviz-kurlari-haberi-842404",
+   "saat": "08:00",
+   "tarih_iso": "2026-10-03T08:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T08:30:55.034275+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/almanyanin-butce-acigi-ilk-yarida-99-milyar-avroya-yaklasti/4076634",
    "baslik": "Almanya'nın bütçe açığı ilk yarıda 99 milyar avroya yaklaştı",
    "kaynak": "AA Ekonomi",
@@ -903,6 +913,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c5j9x99yep92o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Rising energy costs add to cost of living for Northern Ireland's consumers",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c5j9x99yep92o?at_medium=RSS&at_campaign=rss",
+   "saat": "08:27",
+   "tarih_iso": "2026-10-03T08:27:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T08:30:55.034275+03:00"
+  },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
    "baslik": "Suppliers pile pressure on government over energy bills",
@@ -2092,16 +2112,6 @@
    "tarih_iso": "2026-10-02T12:21:23+03:00",
    "kodlar": [],
    "eklenme": "2026-10-02T12:30:59.910390+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/hedge-funds-profit-as-bond-selloff-pushes-yields-higher-93CH-4929232",
-   "baslik": "Hedge funds profit as bond selloff pushes yields higher",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/hedge-funds-profit-as-bond-selloff-pushes-yields-higher-93CH-4929232",
-   "saat": "12:21",
-   "tarih_iso": "2026-10-02T12:21:13+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-02T12:30:59.910390+03:00"
   }
  ],
  "altin_haber": [
@@ -2336,5 +2346,5 @@
    "eklenme": "2026-10-02T09:01:06.773456+03:00"
   }
  ],
- "guncelleme": "2026-10-03T08:01:04.973671+03:00"
+ "guncelleme": "2026-10-03T08:30:55.034275+03:00"
 }
