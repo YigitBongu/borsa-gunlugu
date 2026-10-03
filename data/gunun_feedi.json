@@ -17,6 +17,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/bakan-uraloglu-duyurdu-yillik-3-milyar-lirayi-asan-tasarruf-saglanacak-haberi-842434",
+   "baslik": "Bakan Uraloğlu duyurdu: Yıllık 3 milyar lirayı aşan tasarruf sağlanacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/bakan-uraloglu-duyurdu-yillik-3-milyar-lirayi-asan-tasarruf-saglanacak-haberi-842434",
+   "saat": "13:28",
+   "tarih_iso": "2026-10-03T13:28:00+03:00",
+   "kodlar": [
+    "KONYA"
+   ],
+   "eklenme": "2026-10-03T14:01:03.540163+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-hazirlik-maci-ne-zaman-fb-turan-tovuz-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-842432",
    "baslik": "Fenerbahçe hazırlık maçı ne zaman? FB - Turan Tovuz maçı ne zaman, saat kaçta, hangi kanalda?",
    "kaynak": "Dünya",
@@ -216,6 +228,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/usrussia-talks-on-ukraine-involve-multibillion-dollar-oil-deal-nyt-reports-4930830",
+   "baslik": "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/usrussia-talks-on-ukraine-involve-multibillion-dollar-oil-deal-nyt-reports-4930830",
+   "saat": "13:30",
+   "tarih_iso": "2026-10-03T13:30:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T14:01:03.540163+03:00"
+  },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/c5j9x99yep92o?at_medium=RSS&at_campaign=rss",
    "baslik": "Rising energy costs add to cost of living for Northern Ireland's consumers",
@@ -449,6 +471,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/yatirim-araclarinin-haftalik-performansi-belli-oldu-3474391",
+   "baslik": "Yatırım araçlarının haftalık performansı belli oldu",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/yatirim-araclarinin-haftalik-performansi-belli-oldu-3474391",
+   "saat": "16:42",
+   "tarih_iso": "2026-10-03T16:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T14:01:03.540163+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisi-icin-kritik-4-gun-gozler-bu-tarihlerde-galeri-842435",
+   "baslik": "Altın yatırımcısı için kritik 4 gün: Gözler bu tarihlerde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisi-icin-kritik-4-gun-gozler-bu-tarihlerde-galeri-842435",
+   "saat": "13:43",
+   "tarih_iso": "2026-10-03T13:43:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-03T14:01:03.540163+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-softer-jobs-data-triggers-selling-as-focus-shifts-to-feds-oct-28-meet-200688869",
    "baslik": "Gold: Softer Jobs Data Triggers Selling as Focus Shifts to Fed’s Oct 28 Meet",
    "kaynak": "Investing Emtia",
@@ -559,5 +601,5 @@
    "eklenme": "2026-10-03T09:01:10.590693+03:00"
   }
  ],
- "guncelleme": "2026-10-03T13:30:56.989148+03:00"
+ "guncelleme": "2026-10-03T14:01:03.540163+03:00"
 }
