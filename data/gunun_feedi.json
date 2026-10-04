@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/super-lig-ne-zaman-basliyor-besiktas-fenerbahce-galatasaray-lig-maci-ne-zaman-haberi-842525",
+   "baslik": "Süper Lig ne zaman başlıyor? Beşiktaş, Fenerbahçe, Galatasaray lig maçı ne zaman?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/super-lig-ne-zaman-basliyor-besiktas-fenerbahce-galatasaray-lig-maci-ne-zaman-haberi-842525",
+   "saat": "16:18",
+   "tarih_iso": "2026-10-04T16:18:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-10-04T16:30:53.248797+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/yerli-telefon-ne-zaman-cikacak-nerede-uretilecek-turkiyede-uretilecek-yeni-akilli-telefonun-ozellikleri-ne-aselsan-ve-turk-3473137",
    "baslik": "YERLİ TELEFON NE ZAMAN ÇIKACAK, NEREDE ÜRETİLECEK? Türkiye'de Üretilecek Yeni Akıllı Telefonun Özellikleri Ne? ASELSAN ve Türk Telekom'dan Ortak Hamle",
    "kaynak": "CNN Türk Ekonomi",
@@ -99,6 +111,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
+   "baslik": "Top Wall Street analysts are upbeat about the prospects for these 3 stocks",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/04/top-analysts-are-upbeat-about-the-prospects-for-these-3-stocks.html",
+   "saat": "16:24",
+   "tarih_iso": "2026-10-04T16:24:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-04T16:30:53.248797+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+   "baslik": "October can be a scary month for stocks. Here’s what investors need to watch this year.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/october-can-be-a-scary-month-for-stocks-heres-what-investors-need-to-watch-this-year-ac1da700?mod=mw_rss_topstories",
+   "saat": "16:00",
+   "tarih_iso": "2026-10-04T16:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-04T16:30:53.248797+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-109-4930934",
    "baslik": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.09%",
@@ -362,5 +394,5 @@
    "eklenme": "2026-10-04T09:01:06.620568+03:00"
   }
  ],
- "guncelleme": "2026-10-04T16:01:05.045793+03:00"
+ "guncelleme": "2026-10-04T16:30:53.248797+03:00"
 }
