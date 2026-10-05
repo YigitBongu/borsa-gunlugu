@@ -2,6 +2,32 @@
  "tarih": "2026-10-05",
  "kap": [
   {
+   "id": "kap-my-ASTOR-202610051204",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:04",
+   "tarih_iso": "2026-10-05T12:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
+  },
+  {
+   "id": "kap-my-GESAN-202610051148",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:48",
+   "tarih_iso": "2026-10-05T11:48:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
+  },
+  {
    "id": "kap-my-YEOTK-202610051115",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -94,6 +120,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/imzalar-atildi-aselsandan-dev-anlasma-3475058",
+   "baslik": "İmzalar atıldı: ASELSAN'dan dev anlaşma!",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/imzalar-atildi-aselsandan-dev-anlasma-3475058",
+   "saat": "15:06",
+   "tarih_iso": "2026-10-05T15:06:09+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/kkb-ve-koc-universitesinden-kredi-basvuru-sahteciligini-onlemede-yapay-zek-is-birligi-3917291",
    "baslik": "Kredi başvuru sahteciliğini önlemede yapay zeka iş birliği",
@@ -199,6 +237,16 @@
    "tarih_iso": "2026-10-05T13:21:14+03:00",
    "kodlar": [],
    "eklenme": "2026-10-05T11:30:59.437645+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-bilesik-pmi-eylulde-son-41-ayin-en-yuksek-seviyesine-cikti-haberi-842620",
+   "baslik": "Euro Bölgesi'nde bileşik PMI eylülde son 41 ayın en yüksek seviyesine çıktı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/euro-bolgesinde-bilesik-pmi-eylulde-son-41-ayin-en-yuksek-seviyesine-cikti-haberi-842620",
+   "saat": "12:24",
+   "tarih_iso": "2026-10-05T12:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/ekim-kira-artis-orani-2026-hesaplama-ekim-ayi-enflasyon-kira-artisi-ne-kadar-yuzde-kac-oldu-tuik-kira-zammi-orani-5-ekim-3474937",
@@ -483,6 +531,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa?mod=mw_rss_topstories",
+   "baslik": "The average U.S. stock is quietly getting crushed. Morgan Stanley says these ones are worth buying now.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa?mod=mw_rss_topstories",
+   "saat": "12:26",
+   "tarih_iso": "2026-10-05T12:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+   "baslik": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+   "saat": "12:22",
+   "tarih_iso": "2026-10-05T12:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Average five-year mortgage rate hits 6% for first time in three years",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+   "saat": "12:16",
+   "tarih_iso": "2026-10-05T12:16:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mediobanca-stock-sliding-today-93CH-4931346",
+   "baslik": "Why is Mediobanca stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-mediobanca-stock-sliding-today-93CH-4931346",
+   "saat": "12:15",
+   "tarih_iso": "2026-10-05T12:15:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/barclays-sees-givaudan-rebound-as-fragrance-flavour-growth-picks-up-4931329",
+   "baslik": "Barclays sees Givaudan rebound as fragrance, flavour growth picks up",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/barclays-sees-givaudan-rebound-as-fragrance-flavour-growth-picks-up-4931329",
+   "saat": "12:05",
+   "tarih_iso": "2026-10-05T12:05:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/metro-bank-gets-neutral-rating-from-citi-with-183p-target-as-growth-risks-persist-4931326",
+   "baslik": "Metro Bank gets Neutral rating from Citi with 183p target as growth risks persist",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/metro-bank-gets-neutral-rating-from-citi-with-183p-target-as-growth-risks-persist-4931326",
+   "saat": "12:01",
+   "tarih_iso": "2026-10-05T12:01:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-banco-bradesco-stock-surging-today-93CH-4931324",
    "baslik": "Why is Banco Bradesco stock surging today?",
    "kaynak": "Investing.com",
@@ -571,6 +679,16 @@
    "tarih_iso": "2026-10-05T11:31:14+03:00",
    "kodlar": [],
    "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/53e88a8d-65b5-445e-82ee-aee253a32094?syn-25a6b1a6=1",
+   "baslik": "Saudi Aramco chief warns world’s oil stockpiles are ‘scarily thin’",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/53e88a8d-65b5-445e-82ee-aee253a32094?syn-25a6b1a6=1",
+   "saat": "11:21",
+   "tarih_iso": "2026-10-05T11:21:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ithaca-energy-stock-rallying-today-93CH-4931196",
@@ -885,6 +1003,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-gains-as-october-fed-rate-hike-bets-collapse-200688923",
+   "baslik": "Gold Gains as October Fed Rate Hike Bets Collapse",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-gains-as-october-fed-rate-hike-bets-collapse-200688923",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:31:11.664431+03:00"
+  },
+  {
    "id": "alt-https://www.haberturk.com/ekonomi/turk-altin-genel-muduru-beyaz-maden-dogrudan-hayatin-icinde-3917260",
    "baslik": "\"Maden doğrudan hayatın içinde\"",
    "kaynak": "Habertürk Ekonomi",
@@ -1055,5 +1183,5 @@
    "eklenme": "2026-10-05T09:01:08.452640+03:00"
   }
  ],
- "guncelleme": "2026-10-05T12:01:14.650817+03:00"
+ "guncelleme": "2026-10-05T12:31:11.664431+03:00"
 }
