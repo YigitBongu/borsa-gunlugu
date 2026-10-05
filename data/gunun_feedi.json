@@ -2,6 +2,32 @@
  "tarih": "2026-10-05",
  "kap": [
   {
+   "id": "kap-my-YEOTK-202610051115",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "YEOTK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:15",
+   "tarih_iso": "2026-10-05T11:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "kap-my-CWENE-202610051114",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:14",
+   "tarih_iso": "2026-10-05T11:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
    "id": "kap-my-ASTOR-202610051020",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -68,6 +94,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/kkb-ve-koc-universitesinden-kredi-basvuru-sahteciligini-onlemede-yapay-zek-is-birligi-3917291",
+   "baslik": "Kredi başvuru sahteciliğini önlemede yapay zeka iş birliği",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/kkb-ve-koc-universitesinden-kredi-basvuru-sahteciligini-onlemede-yapay-zek-is-birligi-3917291",
+   "saat": "11:23",
+   "tarih_iso": "2026-10-05T11:23:58+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/dunya/ispanyada-erken-secim-karari-sanchez-tarihi-acikladi-haberi-842607",
    "baslik": "İspanya'da erken seçim kararı: Sanchez tarihi açıkladı",
@@ -171,6 +209,36 @@
    "tarih_iso": "2026-10-05T11:40:46+03:00",
    "kodlar": [],
    "eklenme": "2026-10-05T09:01:08.452640+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/tcmb-fed-uyesi-wallerin-da-katilacagi-bir-forum-duzenliyor-3790346",
+   "baslik": "TCMB, Fed üyesi Waller'ın da katılacağı bir forum düzenliyor",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/tcmb-fed-uyesi-wallerin-da-katilacagi-bir-forum-duzenliyor-3790346",
+   "saat": "11:40",
+   "tarih_iso": "2026-10-05T11:40:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-eylul-ayi-enflasyon-verilerini-degerlendirdi/4078204",
+   "baslik": "Hazine ve Maliye Bakanı Şimşek eylül ayı enflasyon verilerini değerlendirdi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-eylul-ayi-enflasyon-verilerini-degerlendirdi/4078204",
+   "saat": "11:40",
+   "tarih_iso": "2026-10-05T11:40:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/bakan-simsek-enflasyon-verilerini-degerlendirdi-haberi-842615",
+   "baslik": "Bakan Şimşek enflasyon verilerini değerlendirdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bakan-simsek-enflasyon-verilerini-degerlendirdi-haberi-842615",
+   "saat": "11:30",
+   "tarih_iso": "2026-10-05T11:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/ekonomi/enflasyon-asgari-ucreti-vurdu-9-ayda-6-bin-828-tl-eridi-haberi-842611",
@@ -414,6 +482,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-banco-bradesco-stock-surging-today-93CH-4931324",
+   "baslik": "Why is Banco Bradesco stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-banco-bradesco-stock-surging-today-93CH-4931324",
+   "saat": "11:56",
+   "tarih_iso": "2026-10-05T11:56:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nu-holdings-stock-soaring-today-93CH-4931322",
+   "baslik": "Why is Nu Holdings stock soaring today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nu-holdings-stock-soaring-today-93CH-4931322",
+   "saat": "11:56",
+   "tarih_iso": "2026-10-05T11:56:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-petrobras-stock-surging-today-93CH-4931321",
+   "baslik": "Why is Petrobras stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-petrobras-stock-surging-today-93CH-4931321",
+   "saat": "11:54",
+   "tarih_iso": "2026-10-05T11:54:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bt-stock-rallying-today-93CH-4931296",
+   "baslik": "Why is BT stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bt-stock-rallying-today-93CH-4931296",
+   "saat": "11:51",
+   "tarih_iso": "2026-10-05T11:51:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-software-stocks-rise-after-schneiders-226-billion-ptc-deal-4931273",
+   "baslik": "European software stocks rise after Schneider’s $22.6 billion PTC deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-software-stocks-rise-after-schneiders-226-billion-ptc-deal-4931273",
+   "saat": "11:45",
+   "tarih_iso": "2026-10-05T11:45:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-zai-zhipu-stock-rallying-today-93CH-4931269",
+   "baslik": "Why is Z.AI (Zhipu) stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-zai-zhipu-stock-rallying-today-93CH-4931269",
+   "saat": "11:43",
+   "tarih_iso": "2026-10-05T11:43:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/goldman-sachs-starts-eu-luxury-coverage-rates-these-4-stocks-buy-4931267",
+   "baslik": "Goldman Sachs starts EU luxury coverage, rates these 4 stocks Buy",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-starts-eu-luxury-coverage-rates-these-4-stocks-buy-4931267",
+   "saat": "11:42",
+   "tarih_iso": "2026-10-05T11:42:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-continental-ag-stock-rallying-today-93CH-4931249",
+   "baslik": "Why is Continental AG stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-continental-ag-stock-rallying-today-93CH-4931249",
+   "saat": "11:38",
+   "tarih_iso": "2026-10-05T11:38:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-genmab-stock-rallying-today-93CH-4931217",
+   "baslik": "Why is Genmab stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-genmab-stock-rallying-today-93CH-4931217",
+   "saat": "11:31",
+   "tarih_iso": "2026-10-05T11:31:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ithaca-energy-stock-rallying-today-93CH-4931196",
    "baslik": "Why is Ithaca Energy stock rallying today?",
@@ -727,6 +885,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.haberturk.com/ekonomi/turk-altin-genel-muduru-beyaz-maden-dogrudan-hayatin-icinde-3917260",
+   "baslik": "\"Maden doğrudan hayatın içinde\"",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/turk-altin-genel-muduru-beyaz-maden-dogrudan-hayatin-icinde-3917260",
+   "saat": "11:52",
+   "tarih_iso": "2026-10-05T11:52:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T12:01:14.650817+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/us-dollar-and-oil-still-have-control-of-the-gold-desk-200688912",
    "baslik": "US Dollar and Oil Still Have Control of the Gold Desk",
    "kaynak": "Investing Emtia",
@@ -887,5 +1055,5 @@
    "eklenme": "2026-10-05T09:01:08.452640+03:00"
   }
  ],
- "guncelleme": "2026-10-05T11:30:59.437645+03:00"
+ "guncelleme": "2026-10-05T12:01:14.650817+03:00"
 }
