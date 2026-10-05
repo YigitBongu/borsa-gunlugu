@@ -2,6 +2,58 @@
  "tarih": "2026-10-05",
  "kap": [
   {
+   "id": "kap-my-HEKTS-202610051844",
+   "baslik": "HEKTAŞ TİCARET T.A.Ş. — Sermaye Artırımı - Azaltımı İşlemlerine İlişkin Bildirim",
+   "sirket": "HEKTAŞ TİCARET T.A.Ş.",
+   "kodlar": [
+    "HEKTS"
+   ],
+   "kategori": "Sermaye",
+   "saat": "18:44",
+   "tarih_iso": "2026-10-05T18:44:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
+  {
+   "id": "kap-my-SELEC-202610051842",
+   "baslik": "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş.",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:42",
+   "tarih_iso": "2026-10-05T18:42:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
+  {
+   "id": "kap-my-AHGAZ-202610051831",
+   "baslik": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:31",
+   "tarih_iso": "2026-10-05T18:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
+  {
+   "id": "kap-my-KONTR-202610051825",
+   "baslik": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş. — Katılım Finansı İlkeleri Bilgi Formu",
+   "sirket": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş.",
+   "kodlar": [
+    "KONTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:25",
+   "tarih_iso": "2026-10-05T18:25:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
+  {
    "id": "kap-my-VAKBN-202610051735",
    "baslik": "TÜRKİYE VAKIFLAR BANKASI T.A.O. — Şirket Genel Bilgi Formu",
    "sirket": "TÜRKİYE VAKIFLAR BANKASI T.A.O.",
@@ -445,6 +497,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/merkez-bankasi-ppk-toplanti-tarihi-ekim-2026-merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-faiz-beklentisi-ne-yonde-3475355",
+   "baslik": "MERKEZ BANKASI PPK TOPLANTI TARİHİ: Ekim 2026 Merkez Bankası faiz kararı ne zaman açıklanacak? Faiz beklentisi ne yönde?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/merkez-bankasi-ppk-toplanti-tarihi-ekim-2026-merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-faiz-beklentisi-ne-yonde-3475355",
+   "saat": "02:12",
+   "tarih_iso": "2026-10-06T02:12:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/euro-17-ayin-en-dusuk-seviyesinde-3475273",
+   "baslik": "Euro 17 ayın en düşük seviyesinde",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/euro-17-ayin-en-dusuk-seviyesinde-3475273",
+   "saat": "22:44",
+   "tarih_iso": "2026-10-05T22:44:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-842666",
+   "baslik": "Borsa İstanbul günü yükselişle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-842666",
+   "saat": "18:35",
+   "tarih_iso": "2026-10-05T18:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
   {
    "id": "rss-https://www.bloomberght.com/hazine-altin-tahvili-ve-altina-dayali-kira-sertifikasi-ihrac-etti-3790388",
    "baslik": "Hazine, altın tahvili ve altına dayalı kira sertifikası ihraç etti",
@@ -967,6 +1049,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dayone-data-centers-files-for-nasdaq-ipo-under-ticker-dodc-4932905",
+   "baslik": "DayOne Data Centers files for Nasdaq IPO under ticker DODC",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dayone-data-centers-files-for-nasdaq-ipo-under-ticker-dodc-4932905",
+   "saat": "23:38",
+   "tarih_iso": "2026-10-05T23:38:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+   "baslik": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
+   "saat": "23:31",
+   "tarih_iso": "2026-10-05T23:31:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-018-4932885",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.18%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-018-4932885",
+   "saat": "23:31",
+   "tarih_iso": "2026-10-05T23:31:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
+   "baslik": "Investors see big opportunity in ferocious 2026 bond-market rout",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
+   "saat": "23:14",
+   "tarih_iso": "2026-10-05T23:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+   "baslik": "SpaceX stock climbs to highest since June, returning Musk to trillionaire status",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/05/spacex-stock-climbs-highest-since-june-returning-musk-to-trillionaire.html",
+   "saat": "23:10",
+   "tarih_iso": "2026-10-05T23:10:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-novavax-stock-surging-today-93CH-4932717",
    "baslik": "Why is Novavax stock surging today?",
@@ -2116,56 +2248,6 @@
    "tarih_iso": "2026-10-05T12:16:24+03:00",
    "kodlar": [],
    "eklenme": "2026-10-05T12:31:11.664431+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-mediobanca-stock-sliding-today-93CH-4931346",
-   "baslik": "Why is Mediobanca stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-mediobanca-stock-sliding-today-93CH-4931346",
-   "saat": "12:15",
-   "tarih_iso": "2026-10-05T12:15:24+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-05T12:31:11.664431+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/barclays-sees-givaudan-rebound-as-fragrance-flavour-growth-picks-up-4931329",
-   "baslik": "Barclays sees Givaudan rebound as fragrance, flavour growth picks up",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/barclays-sees-givaudan-rebound-as-fragrance-flavour-growth-picks-up-4931329",
-   "saat": "12:05",
-   "tarih_iso": "2026-10-05T12:05:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-05T12:31:11.664431+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/metro-bank-gets-neutral-rating-from-citi-with-183p-target-as-growth-risks-persist-4931326",
-   "baslik": "Metro Bank gets Neutral rating from Citi with 183p target as growth risks persist",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/metro-bank-gets-neutral-rating-from-citi-with-183p-target-as-growth-risks-persist-4931326",
-   "saat": "12:01",
-   "tarih_iso": "2026-10-05T12:01:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-05T12:31:11.664431+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-banco-bradesco-stock-surging-today-93CH-4931324",
-   "baslik": "Why is Banco Bradesco stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-banco-bradesco-stock-surging-today-93CH-4931324",
-   "saat": "11:56",
-   "tarih_iso": "2026-10-05T11:56:44+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-05T12:01:14.650817+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nu-holdings-stock-soaring-today-93CH-4931322",
-   "baslik": "Why is Nu Holdings stock soaring today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-nu-holdings-stock-soaring-today-93CH-4931322",
-   "saat": "11:56",
-   "tarih_iso": "2026-10-05T11:56:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-05T12:01:14.650817+03:00"
   }
  ],
  "altin_haber": [
@@ -2188,6 +2270,26 @@
    "tarih_iso": "",
    "kodlar": [],
    "eklenme": "2026-10-05T21:31:02.723336+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/swanson-results-fall-short-despite-6-05-g-t-gold-highlight/",
+   "baslik": "Swanson results fall short despite 6.05-g/t gold highlight",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/swanson-results-fall-short-despite-6-05-g-t-gold-highlight/",
+   "saat": "20:32",
+   "tarih_iso": "2026-10-05T20:32:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/silver-shortage-could-flip-to-surplus-in-2027-deutsche/",
+   "baslik": "Silver shortage could flip to surplus in 2027: Deutsche",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/silver-shortage-could-flip-to-surplus-in-2027-deutsche/",
+   "saat": "20:10",
+   "tarih_iso": "2026-10-05T20:10:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T00:11:23.673152+03:00"
   },
   {
    "id": "alt-https://www.bloomberght.com/piyasa-ozeti-5-ekim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3790389",
@@ -2440,5 +2542,5 @@
    "eklenme": "2026-10-05T09:01:08.452640+03:00"
   }
  ],
- "guncelleme": "2026-10-05T22:01:19.152716+03:00"
+ "guncelleme": "2026-10-06T00:11:23.673152+03:00"
 }
