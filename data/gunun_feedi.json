@@ -2,6 +2,19 @@
  "tarih": "2026-10-05",
  "kap": [
   {
+   "id": "kap-my-ASTOR-202610051020",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:20",
+   "tarih_iso": "2026-10-05T10:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-05T11:01:13.277950+03:00"
+  },
+  {
    "id": "kap-my-ASELS-202610050918",
    "baslik": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Yeni İş İlişkisi",
    "sirket": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
@@ -128,6 +141,16 @@
    "eklenme": "2026-10-05T09:01:08.452640+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/ekonomi/uretici-fiyatlari-tufeden-hizli-artti-eylulde-enerji-baskisi-haberi-842603",
+   "baslik": "Üretici fiyatları TÜFE'den hızlı arttı: Eylülde enerji baskısı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/uretici-fiyatlari-tufeden-hizli-artti-eylulde-enerji-baskisi-haberi-842603",
+   "saat": "10:27",
+   "tarih_iso": "2026-10-05T10:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T11:01:13.277950+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/ftse-100-abd-istihdam-verisi-fed-faiz-arts-beklentilerini-dusurdu-4089231",
    "baslik": "FTSE 100: ABD istihdam verisi Fed faiz artışı beklentilerini düşürdü",
    "kaynak": "Investing TR",
@@ -196,6 +219,16 @@
    "tarih_iso": "2026-10-05T09:52:39+03:00",
    "kodlar": [],
    "eklenme": "2026-10-05T10:01:10.147714+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/eylul-enflasyonu-belli-oldu-3790306",
+   "baslik": "Eylül'de yıllık enflasyon yüzde 29,73; aylık enflasyon yüzde 1,84 oldu",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/eylul-enflasyonu-belli-oldu-3790306",
+   "saat": "09:48",
+   "tarih_iso": "2026-10-05T09:48:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T11:01:13.277950+03:00"
   },
   {
    "id": "rss-https://www.bloomberght.com/dolartlde-son-durum-ne-5-ekim-2026-euro-ve-doviz-fiyatlari-pkh2-3790304",
@@ -722,5 +755,5 @@
    "eklenme": "2026-10-05T09:01:08.452640+03:00"
   }
  ],
- "guncelleme": "2026-10-05T10:31:02.645825+03:00"
+ "guncelleme": "2026-10-05T11:01:13.277950+03:00"
 }
