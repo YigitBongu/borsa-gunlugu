@@ -2,6 +2,32 @@
  "tarih": "2026-10-05",
  "kap": [
   {
+   "id": "kap-my-EUPWR-202610051219",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:19",
+   "tarih_iso": "2026-10-05T12:19:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-05T13:01:14.025287+03:00"
+  },
+  {
+   "id": "kap-my-ENJSA-202610051215",
+   "baslik": "AK YATIRIM MENKUL DEĞERLER A.Ş. — Likidite Sağlayıcılık Kapsamındaki İşlemler",
+   "sirket": "AK YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ENJSA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:15",
+   "tarih_iso": "2026-10-05T12:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-05T13:01:14.025287+03:00"
+  },
+  {
    "id": "kap-my-ASTOR-202610051204",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -239,6 +265,36 @@
    "eklenme": "2026-10-05T11:30:59.437645+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-tarihte-aciklanacak-fed-faiz-yukseltecek-mi-haberi-842628",
+   "baslik": "Fed faiz kararı ne zaman, hangi tarihte açıklanacak? Fed faiz yükseltecek mi?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-tarihte-aciklanacak-fed-faiz-yukseltecek-mi-haberi-842628",
+   "saat": "12:54",
+   "tarih_iso": "2026-10-05T12:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T13:01:14.025287+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/cevdet-yilmazdan-enflasyon-mesaji-hedef-yeniden-tek-hane-haberi-842625",
+   "baslik": "Cevdet Yılmaz’dan enflasyon mesajı: Hedef yeniden tek hane",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/cevdet-yilmazdan-enflasyon-mesaji-hedef-yeniden-tek-hane-haberi-842625",
+   "saat": "12:36",
+   "tarih_iso": "2026-10-05T12:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T13:01:14.025287+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/euro-bolgesi-nde-uretici-fiyatlarinda-hizli-artis-3790357",
+   "baslik": "Euro Bölgesi'nde üretici fiyatlarında hızlı artış",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/euro-bolgesi-nde-uretici-fiyatlarinda-hizli-artis-3790357",
+   "saat": "12:30",
+   "tarih_iso": "2026-10-05T12:30:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T13:01:14.025287+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/dunya/euro-bolgesinde-bilesik-pmi-eylulde-son-41-ayin-en-yuksek-seviyesine-cikti-haberi-842620",
    "baslik": "Euro Bölgesi'nde bileşik PMI eylülde son 41 ayın en yüksek seviyesine çıktı",
    "kaynak": "Dünya",
@@ -247,6 +303,16 @@
    "tarih_iso": "2026-10-05T12:24:00+03:00",
    "kodlar": [],
    "eklenme": "2026-10-05T12:31:11.664431+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/lane-enerji-soku-nedeniyle-ecbde-faiz-artisi-yavaslayabilir-haberi-842623",
+   "baslik": "Lane: Enerji şoku nedeniyle ECB’de faiz artışı yavaşlayabilir",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/lane-enerji-soku-nedeniyle-ecbde-faiz-artisi-yavaslayabilir-haberi-842623",
+   "saat": "12:23",
+   "tarih_iso": "2026-10-05T12:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T13:01:14.025287+03:00"
   },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/ekim-kira-artis-orani-2026-hesaplama-ekim-ayi-enflasyon-kira-artisi-ne-kadar-yuzde-kac-oldu-tuik-kira-zammi-orani-5-ekim-3474937",
@@ -530,6 +596,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html",
+   "baslik": "Saudi Aramco chief says replenishing global oil stockpiles could take two years",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/05/aramco-saudi-arabia-iran-hormuz-oil-energy.html",
+   "saat": "12:46",
+   "tarih_iso": "2026-10-05T12:46:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T13:01:14.025287+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-align-technology-stock-sliding-2-today-93CH-4931403",
+   "baslik": "Why is Align Technology stock sliding 2% today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-align-technology-stock-sliding-2-today-93CH-4931403",
+   "saat": "12:42",
+   "tarih_iso": "2026-10-05T12:42:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T13:01:14.025287+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/uk-set-to-impose-chinese-ev-levies-amid-eu-trade-pressure--report-4930962",
+   "baslik": "UK set to impose Chinese EV levies amid EU trade pressure - report",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/uk-set-to-impose-chinese-ev-levies-amid-eu-trade-pressure--report-4930962",
+   "saat": "12:42",
+   "tarih_iso": "2026-10-05T12:42:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T13:01:14.025287+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-harleydavidson-stock-rallying-3-today-93CH-4931398",
+   "baslik": "Why is Harley-Davidson stock rallying 3% today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-harleydavidson-stock-rallying-3-today-93CH-4931398",
+   "saat": "12:41",
+   "tarih_iso": "2026-10-05T12:41:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T13:01:14.025287+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-surging-today-93CH-4931393",
+   "baslik": "Why is Cerebras Systems stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cerebras-systems-stock-surging-today-93CH-4931393",
+   "saat": "12:37",
+   "tarih_iso": "2026-10-05T12:37:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-05T13:01:14.025287+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/the-average-u-s-stock-is-quietly-getting-crushed-morgan-stanley-says-these-ones-are-worth-buying-now-61e04eaa?mod=mw_rss_topstories",
    "baslik": "The average U.S. stock is quietly getting crushed. Morgan Stanley says these ones are worth buying now.",
@@ -1183,5 +1299,5 @@
    "eklenme": "2026-10-05T09:01:08.452640+03:00"
   }
  ],
- "guncelleme": "2026-10-05T12:31:11.664431+03:00"
+ "guncelleme": "2026-10-05T13:01:14.025287+03:00"
 }
