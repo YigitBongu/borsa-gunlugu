@@ -270,6 +270,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/spacex-nvidia-cipleri-icin-40-milyar-dolar-toplamak-istiyor-4092725",
+   "baslik": "SpaceX, Nvidia çipleri için 40 milyar dolar toplamak istiyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/spacex-nvidia-cipleri-icin-40-milyar-dolar-toplamak-istiyor-4092725",
+   "saat": "02:27",
+   "tarih_iso": "2026-10-07T02:27:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T02:30:58.782052+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/uber-2-3-milyar-dolar-harcayarak-catering-isine-giriyor-3790547",
    "baslik": "Uber, 2,3 milyar dolar harcayarak catering işine giriyor",
    "kaynak": "Bloomberg HT",
@@ -701,6 +711,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/samsungs-q3-profit-seen-jumping-ninefold-but-chip-margins-may-be-flat-4935396",
+   "baslik": "Samsung’s Q3 profit seen jumping nine-fold, but chip margins may be flat",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/samsungs-q3-profit-seen-jumping-ninefold-but-chip-margins-may-be-flat-4935396",
+   "saat": "02:12",
+   "tarih_iso": "2026-10-07T02:12:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T02:30:58.782052+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/former-star-us-bond-manager-leech-fined-by-sec-following-guilty-plea-in-cherrypicking-case-4935388",
+   "baslik": "Former star US bond manager Leech fined by SEC, following guilty plea in ’cherry-picking’ case",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/former-star-us-bond-manager-leech-fined-by-sec-following-guilty-plea-in-cherrypicking-case-4935388",
+   "saat": "02:06",
+   "tarih_iso": "2026-10-07T02:06:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T02:30:58.782052+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+   "baslik": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+   "saat": "02:01",
+   "tarih_iso": "2026-10-07T02:01:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T02:30:58.782052+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-higher-at-close-of-trade-spbmv-ipc-up-052-4935315",
    "baslik": "Mexico stocks higher at close of trade; S&P/BMV IPC up 0.52%",
@@ -1870,36 +1910,6 @@
    "tarih_iso": "2026-10-06T15:22:42+03:00",
    "kodlar": [],
    "eklenme": "2026-10-06T15:38:49.784443+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/constellation-energy-stock-outlook-analysis-after-20-year-nuclear-deal-with-google-93CH-4934346",
-   "baslik": "Constellation Energy stock outlook analysis after 20 year nuclear deal with Google",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/constellation-energy-stock-outlook-analysis-after-20-year-nuclear-deal-with-google-93CH-4934346",
-   "saat": "15:21",
-   "tarih_iso": "2026-10-06T15:21:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T15:38:49.784443+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-   "baslik": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-   "saat": "15:21",
-   "tarih_iso": "2026-10-06T15:21:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T15:31:01.849668+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-stryker-stock-sliding-today-93CH-4934324",
-   "baslik": "Why is Stryker stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-stryker-stock-sliding-today-93CH-4934324",
-   "saat": "15:14",
-   "tarih_iso": "2026-10-06T15:14:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T15:31:01.849668+03:00"
   }
  ],
  "altin_haber": [
@@ -2254,5 +2264,5 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   }
  ],
- "guncelleme": "2026-10-07T02:01:13.412417+03:00"
+ "guncelleme": "2026-10-07T02:30:58.782052+03:00"
 }
