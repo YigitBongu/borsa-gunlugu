@@ -498,6 +498,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-6-ekim-sali-doviz-kurlari-haberi-842709",
+   "baslik": "Dolar kaç TL oldu, Euro ne kadar? (6 Ekim Salı Döviz Kurları)",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-6-ekim-sali-doviz-kurlari-haberi-842709",
+   "saat": "07:25",
+   "tarih_iso": "2026-10-06T07:25:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T07:31:03.190057+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/altin-guclu-dolar-ve-yukselen-tahvil-getirileriyle-geriledi-3790408",
    "baslik": "Altın, güçlü dolar ve yükselen tahvil getirileriyle geriledi",
    "kaynak": "Bloomberg HT",
@@ -1089,6 +1099,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
+   "baslik": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
+   "saat": "07:07",
+   "tarih_iso": "2026-10-06T07:07:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T07:31:03.190057+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1",
+   "baslik": "France: between the bond market and the barricades",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/9b252b46-a87c-45e7-a09a-45a39ce077b8?syn-25a6b1a6=1",
+   "saat": "07:00",
+   "tarih_iso": "2026-10-06T07:00:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T07:31:03.190057+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-choppy-as-elevated-yields-temper-wall-streetled-gains-4933335",
    "baslik": "Asia stocks choppy as elevated yields temper Wall Street-led gains",
@@ -2268,26 +2298,6 @@
    "tarih_iso": "2026-10-05T14:19:35+03:00",
    "kodlar": [],
    "eklenme": "2026-10-05T14:31:01.114031+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
-   "baslik": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here’s the trades to make, this strategist says.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
-   "saat": "14:19",
-   "tarih_iso": "2026-10-05T14:19:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-05T14:31:01.114031+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vaxcyte-stock-surging-today-93CH-4931775",
-   "baslik": "Why is Vaxcyte stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-vaxcyte-stock-surging-today-93CH-4931775",
-   "saat": "14:15",
-   "tarih_iso": "2026-10-05T14:15:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-05T14:31:01.114031+03:00"
   }
  ],
  "altin_haber": [
@@ -2622,5 +2632,5 @@
    "eklenme": "2026-10-05T09:01:08.452640+03:00"
   }
  ],
- "guncelleme": "2026-10-06T07:01:10.509406+03:00"
+ "guncelleme": "2026-10-06T07:31:03.190057+03:00"
 }
