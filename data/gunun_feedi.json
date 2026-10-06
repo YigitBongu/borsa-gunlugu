@@ -1,7 +1,47 @@
 {
  "tarih": "2026-10-06",
- "kap": [],
- "sirket": [],
+ "kap": [
+  {
+   "id": "kap-my-TKFEN-202610060855",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:55",
+   "tarih_iso": "2026-10-06T08:55:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-06T09:31:01.600477+03:00"
+  },
+  {
+   "id": "kap-my-SMRTG-202610060751",
+   "baslik": "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş. — Yeni İş İlişkisi",
+   "sirket": "SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "07:51",
+   "tarih_iso": "2026-10-06T07:51:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-06T09:31:01.600477+03:00"
+  }
+ ],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/son-dakika-basaksehirdeki-bir-ortaokulda-bicakli-saldiri-alarmi-yarali-ogrenciler-var-haberi-842730",
+   "baslik": "Son dakika... Başakşehir'deki bir ortaokulda bıçaklı saldırı alarmı: Yaralı öğrenciler var",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/son-dakika-basaksehirdeki-bir-ortaokulda-bicakli-saldiri-alarmi-yarali-ogrenciler-var-haberi-842730",
+   "saat": "09:26",
+   "tarih_iso": "2026-10-06T09:26:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-10-06T09:31:01.600477+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/ekim-ayi-kira-artis-orani-2026-kira-zammi-ne-kadar-yuzde-kac-oldu-tufe-kira-artisi-hesaplama-tablosu-3474937",
@@ -22,6 +62,16 @@
    "tarih_iso": "2026-10-06T11:15:55+03:00",
    "kodlar": [],
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/serveti-bir-gunde-65-milyar-dolar-artti-dunyanin-en-zengini-elon-musk-yeniden-trilyoner-haberi-842725",
+   "baslik": "Serveti bir günde 65 milyar dolar arttı: Dünyanın en zengini Elon Musk yeniden trilyoner",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/serveti-bir-gunde-65-milyar-dolar-artti-dunyanin-en-zengini-elon-musk-yeniden-trilyoner-haberi-842725",
+   "saat": "08:55",
+   "tarih_iso": "2026-10-06T08:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T09:31:01.600477+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/taylandda-tufe-enflasyonu-eylulde-282ye-yukseldi-93CH-4090996",
@@ -95,6 +145,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-choppy-as-elevated-yields-temper-wall-streetled-gains-4933335",
+   "baslik": "Asia stocks rise tracking Wall Street gains; elevated yields limit upside",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-choppy-as-elevated-yields-temper-wall-streetled-gains-4933335",
+   "saat": "09:12",
+   "tarih_iso": "2026-10-06T09:12:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T09:31:01.600477+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/aperam-sees-q3-ebitda-below-q2-as-weak-europe-energy-costs-weigh-4933412",
+   "baslik": "Aperam sees Q3 EBITDA below Q2 as weak Europe, energy costs weigh",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/aperam-sees-q3-ebitda-below-q2-as-weak-europe-energy-costs-weigh-4933412",
+   "saat": "09:04",
+   "tarih_iso": "2026-10-06T09:04:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T09:31:01.600477+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-008-4933405",
+   "baslik": "Taiwan stocks higher at close of trade; Taiwan Weighted up 0.08%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-higher-at-close-of-trade-taiwan-weighted-up-008-4933405",
+   "saat": "09:00",
+   "tarih_iso": "2026-10-06T09:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T09:31:01.600477+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/indian-bank-stocks-rise-as-rbi-ratehike-bets-build-nifty-private-bank-up-1-4933404",
+   "baslik": "Indian bank stocks rise as RBI rate-hike bets build, Nifty Private Bank up 1%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/indian-bank-stocks-rise-as-rbi-ratehike-bets-build-nifty-private-bank-up-1-4933404",
+   "saat": "08:53",
+   "tarih_iso": "2026-10-06T08:53:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T09:31:01.600477+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/samsung-sk-hynix-shares-drop-as-q3-earnings-loom-4933402",
    "baslik": "Samsung, SK Hynix shares drop as Q3 earnings loom",
@@ -518,5 +608,5 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   }
  ],
- "guncelleme": "2026-10-06T09:01:14.095268+03:00"
+ "guncelleme": "2026-10-06T09:31:01.600477+03:00"
 }
