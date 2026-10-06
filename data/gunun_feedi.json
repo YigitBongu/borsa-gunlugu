@@ -2,6 +2,19 @@
  "tarih": "2026-10-06",
  "kap": [
   {
+   "id": "kap-my-ALFAS-202610061752",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ALFAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:52",
+   "tarih_iso": "2026-10-06T17:52:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
+  {
    "id": "kap-my-MIATK-202610061615",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -243,6 +256,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-842833",
+   "baslik": "Borsa İstanbul günü düşüşle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-dususle-tamamladi-haberi-842833",
+   "saat": "18:24",
+   "tarih_iso": "2026-10-06T18:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hazine-iki-ihaleyle-87-milyar-lira-borclandi-haberi-842831",
+   "baslik": "Hazine iki ihaleyle 87 milyar lira borçlandı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazine-iki-ihaleyle-87-milyar-lira-borclandi-haberi-842831",
+   "saat": "18:15",
+   "tarih_iso": "2026-10-06T18:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-fonlardaki-cikislar-buyuk-oranda-mevduata-yoneldi/4080008",
+   "baslik": "TCMB Başkanı Karahan: Fonlardaki çıkışlar büyük oranda mevduata yöneldi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-fonlardaki-cikislar-buyuk-oranda-mevduata-yoneldi/4080008",
+   "saat": "18:13",
+   "tarih_iso": "2026-10-06T18:13:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/imf-yasam-maliyeti-krizlerinin-enflasyon-beklentilerini-yukselttigini-belirtti-3917718",
    "baslik": "IMF'den enflasyon değerlendirmesi",
@@ -596,6 +639,86 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/xanadu-stock-surges-on-globalfoundries-quantum-manufacturing-deal-4934929",
+   "baslik": "Xanadu stock surges on GlobalFoundries quantum manufacturing deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/xanadu-stock-surges-on-globalfoundries-quantum-manufacturing-deal-4934929",
+   "saat": "18:17",
+   "tarih_iso": "2026-10-06T18:17:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citadels-rubner-sees-stronger-setup-for-us-stocks-in-q4-93CH-4934920",
+   "baslik": "Citadel’s Rubner sees stronger setup for US stocks in Q4",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citadels-rubner-sees-stronger-setup-for-us-stocks-in-q4-93CH-4934920",
+   "saat": "18:14",
+   "tarih_iso": "2026-10-06T18:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-162-4934919",
+   "baslik": "Morocco stocks lower at close of trade; Moroccan All Shares down 1.62%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-162-4934919",
+   "saat": "18:10",
+   "tarih_iso": "2026-10-06T18:10:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bwx-technologies-stock-jumps-on-new-brunswick-reactor-selection-4934917",
+   "baslik": "BWX Technologies stock jumps on New Brunswick reactor selection",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bwx-technologies-stock-jumps-on-new-brunswick-reactor-selection-4934917",
+   "saat": "18:04",
+   "tarih_iso": "2026-10-06T18:04:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-050-4934903",
+   "baslik": "Norway stocks lower at close of trade; Oslo OBX down 0.50%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-050-4934903",
+   "saat": "17:55",
+   "tarih_iso": "2026-10-06T17:55:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-059-4934902",
+   "baslik": "Israel stocks lower at close of trade; TA 35 down 0.59%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-059-4934902",
+   "saat": "17:55",
+   "tarih_iso": "2026-10-06T17:55:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-175-4934901",
+   "baslik": "Greece stocks higher at close of trade; Athens General Composite up 1.75%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-175-4934901",
+   "saat": "17:55",
+   "tarih_iso": "2026-10-06T17:55:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/marvell-raises-2028-revenue-forecast-on-strong-ai-data-center-demand-4934830",
+   "baslik": "Marvell raises 2028 revenue forecast on strong AI data center demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/marvell-raises-2028-revenue-forecast-on-strong-ai-data-center-demand-4934830",
+   "saat": "17:54",
+   "tarih_iso": "2026-10-06T17:54:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/ge-vernova-and-palo-alto-among-market-cap-stock-movers-on-tuesday-93CH-4934878",
    "baslik": "GE Vernova and Palo Alto among market cap stock movers on Tuesday",
    "kaynak": "Investing.com",
@@ -714,6 +837,16 @@
    "tarih_iso": "2026-10-06T16:45:29+03:00",
    "kodlar": [],
    "eklenme": "2026-10-06T17:01:18.078747+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/95db1fbd-4e1f-45cf-b678-c40635f59197?syn-25a6b1a6=1",
+   "baslik": "Vitol chief warns of tanker shortage and risk of $200-a-barrel oil",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/95db1fbd-4e1f-45cf-b678-c40635f59197?syn-25a6b1a6=1",
+   "saat": "16:39",
+   "tarih_iso": "2026-10-06T16:39:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T18:30:57.422305+03:00"
   },
   {
    "id": "yab-https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
@@ -1704,96 +1837,6 @@
    "tarih_iso": "2026-10-06T02:14:39+03:00",
    "kodlar": [],
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-   "baslik": "Five reasons India's stock market is sinking even when its economy is growing",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-   "saat": "02:13",
-   "tarih_iso": "2026-10-06T02:13:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T09:01:14.095268+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
-   "baslik": "Stocks are hitting records despite surging yields. Cramer explains why",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
-   "saat": "01:18",
-   "tarih_iso": "2026-10-06T01:18:13+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T09:01:14.095268+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
-   "baslik": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
-   "saat": "00:52",
-   "tarih_iso": "2026-10-06T00:52:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T09:01:14.095268+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
-   "baslik": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/microsofts-blazing-stock-comeback-isnt-even-close-to-being-over-analyst-says-265f7b6d?mod=mw_rss_topstories",
-   "saat": "00:27",
-   "tarih_iso": "2026-10-06T00:27:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T09:01:14.095268+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-   "baslik": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-   "saat": "00:24",
-   "tarih_iso": "2026-10-06T00:24:25+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T09:01:14.095268+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
-   "baslik": "This rare stock-market divide means an elevated chance of a big surge — or a deep plunge",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
-   "saat": "00:12",
-   "tarih_iso": "2026-10-06T00:12:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T09:01:14.095268+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1",
-   "baslik": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1",
-   "saat": "23:58",
-   "tarih_iso": "2026-10-05T23:58:19+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T09:01:14.095268+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
-   "baslik": "Brazilian stocks jump as Bolsonaro now seen as heavy favorite to win presidency",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html",
-   "saat": "23:41",
-   "tarih_iso": "2026-10-05T23:41:23+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T09:01:14.095268+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-   "baslik": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-   "saat": "23:30",
-   "tarih_iso": "2026-10-05T23:30:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T09:01:14.095268+03:00"
   }
  ],
  "altin_haber": [
@@ -2068,5 +2111,5 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   }
  ],
- "guncelleme": "2026-10-06T18:01:21.521193+03:00"
+ "guncelleme": "2026-10-06T18:30:57.422305+03:00"
 }
