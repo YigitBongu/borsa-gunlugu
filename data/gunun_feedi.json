@@ -2,6 +2,19 @@
  "tarih": "2026-10-06",
  "kap": [
   {
+   "id": "kap-my-ISDMR-202610061059",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ISDMR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:59",
+   "tarih_iso": "2026-10-06T10:59:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
+  },
+  {
    "id": "kap-my-ASTOR-202610061002",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -69,6 +82,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/aselsanin-51-yillik-tarihinin-en-buyuk-tek-imzasi-3917571",
+   "baslik": "ASELSAN’ın 51 yıllık tarihinin en büyük tek imzası",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/aselsanin-51-yillik-tarihinin-en-buyuk-tek-imzasi-3917571",
+   "saat": "10:53",
+   "tarih_iso": "2026-10-06T10:53:09+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsandan-157-9-milyon-dolarlik-sozlesme/4079198",
    "baslik": "ASELSAN'dan 157,9 milyon dolarlık sözleşme",
    "kaynak": "AA Ekonomi",
@@ -117,6 +142,26 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   },
   {
+   "id": "rss-https://www.dunya.com/gundem/3-aylik-enflasyon-farki-kac-oldu-emekli-ve-memur-maas-zammi-ne-kadar-olacak-haberi-842754",
+   "baslik": "3 aylık enflasyon farkı kaç oldu? Emekli ve memur maaş zammı ne kadar olacak?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/3-aylik-enflasyon-farki-kac-oldu-emekli-ve-memur-maas-zammi-ne-kadar-olacak-haberi-842754",
+   "saat": "11:22",
+   "tarih_iso": "2026-10-06T11:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-baskanlari-istanbul-ekonomi-forumunda-bir-araya-gelecek/4079356",
+   "baslik": "Merkez bankası başkanları İstanbul Ekonomi Forumu'nda bir araya gelecek",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-baskanlari-istanbul-ekonomi-forumunda-bir-araya-gelecek/4079356",
+   "saat": "11:19",
+   "tarih_iso": "2026-10-06T11:19:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/enflasyon-farki-memur-zammi-ssk-ve-bag-kur-emeklilerinin-3-aylik-zam-orani-ne-kadar-oldu-yuzde-kac-ocak-2027-emekli-memur-zam-hesabi-3474959",
    "baslik": "ENFLASYON FARKI MEMUR ZAMMI | SSK ve Bağ-Kur emeklilerinin 3 aylık zam oranı ne kadar oldu, yüzde kaç? Ocak 2027 emekli memur zam hesabı!",
    "kaynak": "CNN Türk Ekonomi",
@@ -125,6 +170,16 @@
    "tarih_iso": "2026-10-06T11:15:55+03:00",
    "kodlar": [],
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/commerzbanktan-enflasyon-verisi-sonrasi-tl-uyarisi-haberi-842753",
+   "baslik": "Commerzbank’tan enflasyon verisi sonrası TL uyarısı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/commerzbanktan-enflasyon-verisi-sonrasi-tl-uyarisi-haberi-842753",
+   "saat": "11:11",
+   "tarih_iso": "2026-10-06T11:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/goldman-sachs-hensoldt-icin-85-euro-hedefle-tarafsz-baslatt-4091213",
@@ -268,6 +323,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/telecom-plus-shares-gain-4-as-customer-growth-beats-target-profit-outlook-held-93CH-4933590",
+   "baslik": "Telecom Plus shares gain 4% as customer growth beats target, profit outlook held",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/telecom-plus-shares-gain-4-as-customer-growth-beats-target-profit-outlook-held-93CH-4933590",
+   "saat": "11:05",
+   "tarih_iso": "2026-10-06T11:05:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-telecom-plus-stock-rallying-today-93CH-4933585",
+   "baslik": "Why is Telecom Plus stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-telecom-plus-stock-rallying-today-93CH-4933585",
+   "saat": "11:02",
+   "tarih_iso": "2026-10-06T11:02:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/capital-jumps-5-as-mdu-deal-lifts-2026-revenue-forecast-4933584",
+   "baslik": "Capital jumps 5% as MDU deal lifts 2026 revenue forecast",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/capital-jumps-5-as-mdu-deal-lifts-2026-revenue-forecast-4933584",
+   "saat": "11:01",
+   "tarih_iso": "2026-10-06T11:01:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-wienerberger-stock-sliding-today-93CH-4933578",
+   "baslik": "Why is Wienerberger stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-wienerberger-stock-sliding-today-93CH-4933578",
+   "saat": "11:00",
+   "tarih_iso": "2026-10-06T11:00:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ferrovial-stock-sliding-today-93CH-4933573",
+   "baslik": "Why is Ferrovial stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ferrovial-stock-sliding-today-93CH-4933573",
+   "saat": "10:53",
+   "tarih_iso": "2026-10-06T10:53:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/poland-revises-2025-gdp-growth-upward-to-38-93CH-4933571",
    "baslik": "Poland revises 2025 GDP growth upward to 3.8%",
@@ -731,6 +836,16 @@
    "eklenme": "2026-10-06T10:01:08.851212+03:00"
   },
   {
+   "id": "alt-https://www.aa.com.tr/tr/ekonomi/yilin-9-ayinda-abd-borsa-endeksleri-altin-gumus-ve-bitcoini-solladi/4079342",
+   "baslik": "Yılın 9 ayında ABD borsa endeksleri, altın, gümüş ve bitcoini solladı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yilin-9-ayinda-abd-borsa-endeksleri-altin-gumus-ve-bitcoini-solladi/4079342",
+   "saat": "11:16",
+   "tarih_iso": "2026-10-06T11:16:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-under-pressure-near-4100-as-treasury-yields-stay-elevated-200689000",
    "baslik": "Gold Under Pressure Near $4,100 as Treasury Yields Stay Elevated",
    "kaynak": "Investing Emtia",
@@ -749,6 +864,16 @@
    "tarih_iso": "",
    "kodlar": [],
    "eklenme": "2026-10-06T11:01:16.389694+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/gundem/kuyumcukentte-64-kilo-altinlik-vurgun-iddiasi-35-supheli-araniyor-haberi-842749",
+   "baslik": "Kuyumcukent'te 64 kilo altınlık vurgun iddiası: 35 şüpheli aranıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/kuyumcukentte-64-kilo-altinlik-vurgun-iddiasi-35-supheli-araniyor-haberi-842749",
+   "saat": "11:00",
+   "tarih_iso": "2026-10-06T11:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T11:31:04.616543+03:00"
   },
   {
    "id": "alt-https://www.bloomberght.com/guncel-altin-fiyatlari-6-ekim-2026-sali-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3790427",
@@ -921,5 +1046,5 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   }
  ],
- "guncelleme": "2026-10-06T11:01:16.389694+03:00"
+ "guncelleme": "2026-10-06T11:31:04.616543+03:00"
 }
