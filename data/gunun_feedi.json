@@ -2,6 +2,19 @@
  "tarih": "2026-10-06",
  "kap": [
   {
+   "id": "kap-my-MIATK-202610061615",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:15",
+   "tarih_iso": "2026-10-06T16:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-06T17:01:18.078747+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202610061151",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -121,6 +134,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-06-ekim-2026/4079860",
+   "baslik": "60 saniyede ekonomide bugün (06 Ekim 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-06-ekim-2026/4079860",
+   "saat": "16:20",
+   "tarih_iso": "2026-10-06T16:20:51+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-10-06T17:01:18.078747+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fb-sampiyonlar-ligi-ne-zaman-aston-villa-fenerbahce-mac-tarihi-ve-saati-haberi-842795",
    "baslik": "FB Şampiyonlar Ligi ne zaman? Aston Villa - Fenerbahçe maç tarihi ve saati...",
    "kaynak": "Dünya",
@@ -218,6 +243,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fonlardan-cikan-para-nereye-gitti-tcmb-baskani-karahan-acikladi-haberi-842812",
+   "baslik": "Fonlardan çıkan para nereye gitti? TCMB Başkanı Karahan açıkladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fonlardan-cikan-para-nereye-gitti-tcmb-baskani-karahan-acikladi-haberi-842812",
+   "saat": "16:44",
+   "tarih_iso": "2026-10-06T16:44:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T17:01:18.078747+03:00"
+  },
   {
    "id": "rss-https://www.bloomberght.com/tcmb-baskani-karahan-fiyat-istikrari-saglanana-kadar-siki-para-politikasi-surdurulecek-3790499",
    "baslik": "TCMB Başkanı Karahan: Fiyat istikrarı sağlanana kadar sıkı para politikası sürdürülecek",
@@ -531,6 +566,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
+   "baslik": "Prediction markets are coming for pop culture",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
+   "saat": "16:58",
+   "tarih_iso": "2026-10-06T16:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T17:01:18.078747+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-corteva-stock-rallying-today-93CH-4934753",
+   "baslik": "Why is Corteva stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-corteva-stock-rallying-today-93CH-4934753",
+   "saat": "16:45",
+   "tarih_iso": "2026-10-06T16:45:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T17:01:18.078747+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
+   "baslik": "S&P 500 hits record high as AI stocks shrug off bond market slump",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
+   "saat": "16:30",
+   "tarih_iso": "2026-10-06T16:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T17:01:18.078747+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
    "baslik": "Fed minutes coming tomorrow could give markets important clues about future rate hikes",
    "kaynak": "MarketWatch",
@@ -539,6 +604,26 @@
    "tarih_iso": "2026-10-06T16:27:00+03:00",
    "kodlar": [],
    "eklenme": "2026-10-06T16:31:03.145339+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-geo-stock-climbing-today-93CH-4934687",
+   "baslik": "Why is Geo stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-geo-stock-climbing-today-93CH-4934687",
+   "saat": "16:26",
+   "tarih_iso": "2026-10-06T16:26:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T17:01:18.078747+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/best-application-software-stocks-citis-latest-top-picks-4934672",
+   "baslik": "Best Application Software Stocks: Citi’s Latest Top Picks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/best-application-software-stocks-citis-latest-top-picks-4934672",
+   "saat": "16:21",
+   "tarih_iso": "2026-10-06T16:21:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T17:01:18.078747+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-thyssenkrupp-stock-climbing-today-93CH-4934661",
@@ -1633,6 +1718,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-yukseldi-haberi-842813",
+   "baslik": "Altının kilogram fiyatı yükseldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-yukseldi-haberi-842813",
+   "saat": "16:42",
+   "tarih_iso": "2026-10-06T16:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T17:01:18.078747+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisinin-gozu-bu-seviyede-unlu-analist-yeni-dusus-riskini-isaret-etti-galeri-842809",
+   "baslik": "Altın yatırımcısının gözü bu seviyede: Ünlü analist yeni düşüş riskini işaret etti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-yatirimcisinin-gozu-bu-seviyede-unlu-analist-yeni-dusus-riskini-isaret-etti-galeri-842809",
+   "saat": "16:16",
+   "tarih_iso": "2026-10-06T16:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T17:01:18.078747+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/kabugunun-icinde-adeta-altin-var-gecen-yil-yoktu-bu-yil-yuksek-verim-bekleniyor-galeri-842777",
    "baslik": "Kabuğunun içinde adeta altın var: Geçen yıl yoktu, bu yıl yüksek verim bekleniyor",
    "kaynak": "Dünya",
@@ -1883,5 +1988,5 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   }
  ],
- "guncelleme": "2026-10-06T16:31:03.145339+03:00"
+ "guncelleme": "2026-10-06T17:01:18.078747+03:00"
 }
