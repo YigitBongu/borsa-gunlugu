@@ -2,6 +2,32 @@
  "tarih": "2026-10-06",
  "kap": [
   {
+   "id": "kap-my-ASTOR-202610061002",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:02",
+   "tarih_iso": "2026-10-06T10:02:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-06T10:31:02.226097+03:00"
+  },
+  {
+   "id": "kap-my-KAYSE-202610061000",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KAYSE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:00",
+   "tarih_iso": "2026-10-06T10:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-06T10:31:02.226097+03:00"
+  },
+  {
    "id": "kap-my-ASELS-202610060915",
    "baslik": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Yeni İş İlişkisi",
    "sirket": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
@@ -101,6 +127,36 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   },
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/memur-sen-enflasyon-memur-ve-emeklisinin-yukunu-artiriyor-3917553",
+   "baslik": "\"Enflasyon, memur ve emeklisinin yükünü artırıyor\"",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/memur-sen-enflasyon-memur-ve-emeklisinin-yukunu-artiriyor-3917553",
+   "saat": "10:19",
+   "tarih_iso": "2026-10-06T10:19:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T10:31:02.226097+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/citi-yil-sonunu-isaret-etti-turkiye-icin-enflasyon-ve-faiz-tahmini-haberi-842740",
+   "baslik": "Citi yıl sonunu işaret etti: Türkiye için enflasyon ve faiz tahmini",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/citi-yil-sonunu-isaret-etti-turkiye-icin-enflasyon-ve-faiz-tahmini-haberi-842740",
+   "saat": "09:56",
+   "tarih_iso": "2026-10-06T09:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T10:31:02.226097+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/citi-den-turkiye-icin-yil-sonu-enflasyon-tahmini-3790425",
+   "baslik": "Citi'den Türkiye için yıl sonu enflasyon tahmini",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/citi-den-turkiye-icin-yil-sonu-enflasyon-tahmini-3790425",
+   "saat": "09:51",
+   "tarih_iso": "2026-10-06T09:51:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T10:31:02.226097+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-6-ekim-2026-doviz-fiyatlari-pkh2-3790421",
    "baslik": "Dolar ve Euro kuru bugün ne kadar oldu? 6 Ekim 2026 döviz fiyatları…",
    "kaynak": "Bloomberg HT",
@@ -192,6 +248,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-us-tech-rally-outweighs-iran-war-risk-4933502",
+   "baslik": "FTSE 100 today: Stocks rise as U.S. tech rally outweighs Iran war risk",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-rise-as-us-tech-rally-outweighs-iran-war-risk-4933502",
+   "saat": "10:23",
+   "tarih_iso": "2026-10-06T10:23:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T10:31:02.226097+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-tiptoe-higher-as-french-debt-calms-ahead-of-retail-sales-4933417",
+   "baslik": "European stocks tiptoe higher as French debt calms ahead of retail sales",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-tiptoe-higher-as-french-debt-calms-ahead-of-retail-sales-4933417",
+   "saat": "10:08",
+   "tarih_iso": "2026-10-06T10:08:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T10:31:02.226097+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+   "baslik": "Treasury yields are broadly flat as investors anticipate FOMC minutes",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html",
+   "saat": "10:05",
+   "tarih_iso": "2026-10-06T10:05:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T10:31:02.226097+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-126-4933476",
+   "baslik": "Japan stocks higher at close of trade; Nikkei 225 up 1.26%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-higher-at-close-of-trade-nikkei-225-up-126-4933476",
+   "saat": "10:00",
+   "tarih_iso": "2026-10-06T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T10:31:02.226097+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-hits-record-on-reduced-fed-hike-bets-4933219",
    "baslik": "U.S. stock futures inch up after Nasdaq hits record on reduced Fed hike bets",
@@ -535,6 +631,16 @@
    "eklenme": "2026-10-06T10:01:08.851212+03:00"
   },
   {
+   "id": "alt-https://www.bloomberght.com/guncel-altin-fiyatlari-6-ekim-2026-sali-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3790427",
+   "baslik": "Güncel altın fiyatları: 6 Ekim 2026 Salı gram ve çeyrek altın ne kadar oldu?",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/guncel-altin-fiyatlari-6-ekim-2026-sali-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3790427",
+   "saat": "10:00",
+   "tarih_iso": "2026-10-06T10:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T10:31:02.226097+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-reprices-a-longer-usiran-war-as-1979style-risk-returns-200688966",
    "baslik": "Gold Reprices a Longer US-Iran War as 1979-Style Risk Returns",
    "kaynak": "Investing Emtia",
@@ -695,5 +801,5 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   }
  ],
- "guncelleme": "2026-10-06T10:01:08.851212+03:00"
+ "guncelleme": "2026-10-06T10:31:02.226097+03:00"
 }
