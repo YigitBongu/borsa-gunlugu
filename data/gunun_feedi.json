@@ -498,6 +498,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/ekim-ayi-kira-artis-orani-2026-kira-zammi-ne-kadar-yuzde-kac-oldu-tufe-kira-artisi-hesaplama-tablosu-3474937",
+   "baslik": "EKİM AYI KİRA ARTIŞ ORANI 2026: Kira zammı ne kadar, yüzde kaç oldu? TÜFE kira artışı hesaplama tablosu",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/ekim-ayi-kira-artis-orani-2026-kira-zammi-ne-kadar-yuzde-kac-oldu-tufe-kira-artisi-hesaplama-tablosu-3474937",
+   "saat": "10:43",
+   "tarih_iso": "2026-10-06T10:43:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T08:01:17.102623+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-6-ekim-sali-doviz-kurlari-haberi-842709",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (6 Ekim Salı Döviz Kurları)",
    "kaynak": "Dünya",
@@ -1099,6 +1109,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-names-top-japan-semiconductor-equipment-stocks-to-buy-4933355",
+   "baslik": "Jefferies Names Top Japan Semiconductor Equipment Stocks to Buy",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jefferies-names-top-japan-semiconductor-equipment-stocks-to-buy-4933355",
+   "saat": "07:48",
+   "tarih_iso": "2026-10-06T07:48:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T08:01:17.102623+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/aipicked-stocks-have-gained-up-to-106-whats-on-the-radar-this-october-4933349",
+   "baslik": "AI-picked stocks have gained up to 106%, what’s on the radar this October",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/aipicked-stocks-have-gained-up-to-106-whats-on-the-radar-this-october-4933349",
+   "saat": "07:35",
+   "tarih_iso": "2026-10-06T07:35:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T08:01:17.102623+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-anta-sports-stock-falling-today-93CH-4933345",
+   "baslik": "Why is ANTA Sports stock falling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-anta-sports-stock-falling-today-93CH-4933345",
+   "saat": "07:27",
+   "tarih_iso": "2026-10-06T07:27:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-06T08:01:17.102623+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
    "baslik": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
@@ -2268,36 +2308,6 @@
    "tarih_iso": "2026-10-05T14:27:21+03:00",
    "kodlar": [],
    "eklenme": "2026-10-05T15:01:09.946547+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-   "baslik": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-   "saat": "14:27",
-   "tarih_iso": "2026-10-05T14:27:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-05T14:31:01.114031+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vistra-stock-surging-today-93CH-4931809",
-   "baslik": "Why is Vistra stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-vistra-stock-surging-today-93CH-4931809",
-   "saat": "14:22",
-   "tarih_iso": "2026-10-05T14:22:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-05T15:01:09.946547+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/rxo-shares-soar-as-ch-robinson-announces-58b-cash-and-stock-buyout-4931792",
-   "baslik": "RXO shares soar as C.H. Robinson announces $5.8B cash and stock buyout",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/rxo-shares-soar-as-ch-robinson-announces-58b-cash-and-stock-buyout-4931792",
-   "saat": "14:19",
-   "tarih_iso": "2026-10-05T14:19:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-05T14:31:01.114031+03:00"
   }
  ],
  "altin_haber": [
@@ -2632,5 +2642,5 @@
    "eklenme": "2026-10-05T09:01:08.452640+03:00"
   }
  ],
- "guncelleme": "2026-10-06T07:31:03.190057+03:00"
+ "guncelleme": "2026-10-06T08:01:17.102623+03:00"
 }
