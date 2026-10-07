@@ -2,6 +2,19 @@
  "tarih": "2026-10-07",
  "kap": [
   {
+   "id": "kap-my-SMRTG-202610071028",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:28",
+   "tarih_iso": "2026-10-07T10:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
+  {
    "id": "kap-my-ASELS-202610070915",
    "baslik": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Yeni İş İlişkisi",
    "sirket": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
@@ -69,6 +82,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/kardemir-celik-pay-geri-alm-program-baslatt-geri-alm-islemleri-icin-azami-100-4092941",
+   "baslik": "Kardemir Çelik pay geri alım programı başlattı Geri alım işlemleri için azami 100 milyon TL fon ayırıyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/kardemir-celik-pay-geri-alm-program-baslatt-geri-alm-islemleri-icin-azami-100-4092941",
+   "saat": "10:47",
+   "tarih_iso": "2026-10-07T10:47:51+03:00",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/aselsandan-195-milyon-dolarlik-anlasma-3917845",
+   "baslik": "ASELSAN’dan 195 milyon dolarlık anlaşma",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/aselsandan-195-milyon-dolarlik-anlasma-3917845",
+   "saat": "10:19",
+   "tarih_iso": "2026-10-07T10:19:08+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/aselsandan-195-milyon-dolarlik-sozlesme-haberi-842907",
    "baslik": "ASELSAN'dan 195 milyon dolarlık sözleşme",
    "kaynak": "Dünya",
@@ -107,6 +144,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/irak-merkez-bankasi-dolar-kurunu-degistirdi-3476061",
+   "baslik": "Irak Merkez Bankası dolar kurunu değiştirdi",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/irak-merkez-bankasi-dolar-kurunu-degistirdi-3476061",
+   "saat": "13:26",
+   "tarih_iso": "2026-10-07T13:26:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/tcmbden-enflasyon-degerlendirmesi-ana-egilim-geriledi-3476058",
    "baslik": "TCMB'den enflasyon değerlendirmesi: Ana eğilim geriledi",
    "kaynak": "CNN Türk Ekonomi",
@@ -115,6 +162,26 @@
    "tarih_iso": "2026-10-07T13:12:17+03:00",
    "kodlar": [],
    "eklenme": "2026-10-07T10:31:02.181723+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisinin-eylul-ayi-ihracati-3-9-milyar-dolar-oldu/4080506",
+   "baslik": "Otomotiv endüstrisinin eylül ayı ihracatı 3,9 milyar dolar oldu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisinin-eylul-ayi-ihracati-3-9-milyar-dolar-oldu/4080506",
+   "saat": "10:41",
+   "tarih_iso": "2026-10-07T10:41:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/cin-merkez-bankasi-altin-alimlarina-devam-ediyor-3790580",
+   "baslik": "Çin Merkez Bankası altın alımlarına devam ediyor",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/cin-merkez-bankasi-altin-alimlarina-devam-ediyor-3790580",
+   "saat": "10:25",
+   "tarih_iso": "2026-10-07T10:25:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/finans/borsa/borsa-gune-yukselisle-basladi-gozler-fedde-haberi-842911",
@@ -278,6 +345,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/hollywood-bowl-shares-jump-6-as-profit-seen-in-line-despite-uk-heatwave-4935795",
+   "baslik": "Hollywood Bowl shares jump 6% as profit seen in line despite UK heatwave",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/hollywood-bowl-shares-jump-6-as-profit-seen-in-line-despite-uk-heatwave-4935795",
+   "saat": "10:57",
+   "tarih_iso": "2026-10-07T10:57:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+   "baslik": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+   "saat": "10:57",
+   "tarih_iso": "2026-10-07T10:57:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/forvia-stock-jumps-on-india-joint-venture-deal-with-anand-group-4935726",
+   "baslik": "Forvia stock jumps on India joint venture deal with Anand Group",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/forvia-stock-jumps-on-india-joint-venture-deal-with-anand-group-4935726",
+   "saat": "10:51",
+   "tarih_iso": "2026-10-07T10:51:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bridgepoint-raises-2026-ebitda-guidance-sets-new-capital-return-framework-4935644",
+   "baslik": "Bridgepoint shares surge 14% after ProEnergy revaluation lifts earnings outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bridgepoint-raises-2026-ebitda-guidance-sets-new-capital-return-framework-4935644",
+   "saat": "10:46",
+   "tarih_iso": "2026-10-07T10:46:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-climbing-today-93CH-4935717",
+   "baslik": "Why is Stellantis stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-stellantis-stock-climbing-today-93CH-4935717",
+   "saat": "10:40",
+   "tarih_iso": "2026-10-07T10:40:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/nomura-asset-counting-on-japanese-market-enthusiasm-to-expand-global-business-4935685",
    "baslik": "Nomura Asset counting on Japanese market enthusiasm to expand global business",
@@ -631,6 +748,26 @@
    "eklenme": "2026-10-07T10:31:02.181723+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-falls-as-534-treasury-yields-and-a-stronger-us-dollar-weigh-on-bullion-200689086",
+   "baslik": "Gold Falls as 5.34% Treasury Yields and a Stronger US Dollar Weigh on Bullion",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-falls-as-534-treasury-yields-and-a-stronger-us-dollar-weigh-on-bullion-200689086",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-at-equilibrium-4207-holds-the-key-to-recovery-200689071",
+   "baslik": "Gold at Equilibrium: $4,207 Holds the Key to Recovery",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-at-equilibrium-4207-holds-the-key-to-recovery-200689071",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-market-daily-the-countries-that-mine-are-starting-to-keep-it-200689075",
    "baslik": "Gold Market Daily: The Countries That Mine Are Starting to Keep It",
    "kaynak": "Investing Emtia",
@@ -639,6 +776,16 @@
    "tarih_iso": "",
    "kodlar": [],
    "eklenme": "2026-10-07T10:31:02.181723+03:00"
+  },
+  {
+   "id": "alt-https://www.bloomberght.com/cin-merkez-bankasi-altin-alimlarina-devam-ediyor-3790580",
+   "baslik": "Çin Merkez Bankası altın alımlarına devam ediyor",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/cin-merkez-bankasi-altin-alimlarina-devam-ediyor-3790580",
+   "saat": "10:25",
+   "tarih_iso": "2026-10-07T10:25:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:01:30.339777+03:00"
   },
   {
    "id": "alt-https://www.bloomberght.com/altin-fiyatlari-7-ekim-2026-carsamba-gram-altin-ne-kadar-oldu-ceyrek-altin-kac-tlden-satiliyor-pkh1-3790578",
@@ -741,5 +888,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T10:31:02.181723+03:00"
+ "guncelleme": "2026-10-07T11:01:30.339777+03:00"
 }
