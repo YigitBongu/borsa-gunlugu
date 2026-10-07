@@ -2,6 +2,19 @@
  "tarih": "2026-10-07",
  "kap": [
   {
+   "id": "kap-my-BIENY-202610071300",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "BIENY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:00",
+   "tarih_iso": "2026-10-07T13:00:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T13:31:02.741752+03:00"
+  },
+  {
    "id": "kap-my-ASELS-202610071154",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -236,6 +249,16 @@
    "tarih_iso": "2026-10-07T13:12:17+03:00",
    "kodlar": [],
    "eklenme": "2026-10-07T10:31:02.181723+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/gundem/fed-tutanaklari-fomc-ne-zaman-saat-kacta-aciklanacak-haberi-842946",
+   "baslik": "Fed tutanakları (FOMC) ne zaman, saat kaçta açıklanacak?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/fed-tutanaklari-fomc-ne-zaman-saat-kacta-aciklanacak-haberi-842946",
+   "saat": "12:58",
+   "tarih_iso": "2026-10-07T12:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T13:31:02.741752+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/hurmuzden-gecen-tanker-kaptanlar-ayda-100000-dolar-kazanyor-93CH-4093253",
@@ -489,6 +512,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
+   "baslik": "Elon Musk and Intel CEO shore up chipmaker’s role in Terafab project — and here’s what the news is doing to the stock.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
+   "saat": "13:24",
+   "tarih_iso": "2026-10-07T13:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T13:31:02.741752+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-slip-as-houthi-threat-lift-oil-ahead-of-fomcminutes-4935618",
+   "baslik": "European stocks dip as Houthi threat lift oil ahead of FOMC minutes",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-slip-as-houthi-threat-lift-oil-ahead-of-fomcminutes-4935618",
+   "saat": "13:16",
+   "tarih_iso": "2026-10-07T13:16:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T13:31:02.741752+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ubs-downgrades-inchcape-as-asiapacific-profit-seen-sliding-in-second-half-4936076",
+   "baslik": "UBS downgrades Inchcape as Asia-Pacific profit seen sliding in second half",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ubs-downgrades-inchcape-as-asiapacific-profit-seen-sliding-in-second-half-4936076",
+   "saat": "13:12",
+   "tarih_iso": "2026-10-07T13:12:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T13:31:02.741752+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/want-to-be-a-stock-market-bear-bca-says-watch-potential-us-tax-increases-4936072",
+   "baslik": "Want to be a stock market bear? BCA says watch potential U.S. tax increases",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/want-to-be-a-stock-market-bear-bca-says-watch-potential-us-tax-increases-4936072",
+   "saat": "13:12",
+   "tarih_iso": "2026-10-07T13:12:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T13:31:02.741752+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-jetblue-airways-stock-gaining-today-93CH-4936033",
+   "baslik": "Why is JetBlue Airways stock gaining today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-jetblue-airways-stock-gaining-today-93CH-4936033",
+   "saat": "13:01",
+   "tarih_iso": "2026-10-07T13:01:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T13:31:02.741752+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/07/imf-france-debt-student-protests-yields.html",
    "baslik": "'Get your house in order': IMF chief's stark warning for France over surging bond yields",
@@ -1102,6 +1175,16 @@
    "eklenme": "2026-10-07T10:31:02.181723+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/foto-galeri/yasam/kabugun-icinde-adeta-bir-altin-var-2-bin-ton-rekolte-bekleniyor-galeri-842951",
+   "baslik": "Kabuğun içinde adeta bir altın var: 2 bin ton rekolte bekleniyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/yasam/kabugun-icinde-adeta-bir-altin-var-2-bin-ton-rekolte-bekleniyor-galeri-842951",
+   "saat": "13:22",
+   "tarih_iso": "2026-10-07T13:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T13:31:02.741752+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/kuyumcudan-altin-alirken-dikkat-limit-yukseltildi-zorunluluk-getirildi-galeri-842945",
    "baslik": "Kuyumcudan altın alırken dikkat! Limit yükseltildi, zorunluluk getirildi",
    "kaynak": "Dünya",
@@ -1282,5 +1365,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T13:01:13.074050+03:00"
+ "guncelleme": "2026-10-07T13:31:02.741752+03:00"
 }
