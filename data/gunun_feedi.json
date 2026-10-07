@@ -712,6 +712,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australian-gold-stocks-rise-as-bullion-gains-fed-hike-bets-fade-4935529",
+   "baslik": "Australian gold stocks rise as bullion gains, Fed hike bets fade",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australian-gold-stocks-rise-as-bullion-gains-fed-hike-bets-fade-4935529",
+   "saat": "04:47",
+   "tarih_iso": "2026-10-07T04:47:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T05:01:11.212904+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tower-stock-gaining-today-93CH-4935477",
    "baslik": "Why is Tower stock gaining today?",
    "kaynak": "Investing.com",
@@ -1900,19 +1910,29 @@
    "tarih_iso": "2026-10-06T15:47:59+03:00",
    "kodlar": [],
    "eklenme": "2026-10-06T16:01:34.989472+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-netlist-stock-surging-today-93CH-4934493",
-   "baslik": "Why is Netlist stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-netlist-stock-surging-today-93CH-4934493",
-   "saat": "15:45",
-   "tarih_iso": "2026-10-06T15:45:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T16:01:34.989472+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/altn-yukseldi-avustralya-hisse-senetleri-kazand-4092763",
+   "baslik": "Altın yükseldi, Avustralya hisse senetleri kazandı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-yukseldi-avustralya-hisse-senetleri-kazand-4092763",
+   "saat": "04:47",
+   "tarih_iso": "2026-10-07T04:47:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T05:01:11.212904+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/australian-gold-stocks-rise-as-bullion-gains-fed-hike-bets-fade-4935529",
+   "baslik": "Australian gold stocks rise as bullion gains, Fed hike bets fade",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australian-gold-stocks-rise-as-bullion-gains-fed-hike-bets-fade-4935529",
+   "saat": "04:47",
+   "tarih_iso": "2026-10-07T04:47:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T05:01:11.212904+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-trades-like-a-rates-instrument-as-bond-yields-dictate-the-next-move-200689057",
    "baslik": "Gold Trades Like a Rates Instrument as Bond Yields Dictate the Next Move",
@@ -2264,5 +2284,5 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   }
  ],
- "guncelleme": "2026-10-07T04:31:01.140941+03:00"
+ "guncelleme": "2026-10-07T05:01:11.212904+03:00"
 }
