@@ -425,6 +425,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/hazine-eylulde-467-milyar-153-milyon-lira-acik-verdi-haberi-843000",
+   "baslik": "Hazine eylülde 467 milyar 153 milyon lira açık verdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazine-eylulde-467-milyar-153-milyon-lira-acik-verdi-haberi-843000",
+   "saat": "18:02",
+   "tarih_iso": "2026-10-07T18:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T18:31:01.518232+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/hazine-nakit-dengesi-eylul-de-467-2-milyar-tl-acik-verdi-3790684",
    "baslik": "Hazine nakit dengesi Eylül'de 467,2 milyar TL açık verdi",
    "kaynak": "Bloomberg HT",
@@ -766,6 +776,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/hawkish-fed-triggers-emerging-market-outflows-in-september-4936779",
+   "baslik": "Hawkish Fed triggers emerging market outflows in September",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/hawkish-fed-triggers-emerging-market-outflows-in-september-4936779",
+   "saat": "18:13",
+   "tarih_iso": "2026-10-07T18:13:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T18:31:01.518232+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-veraxa-biotech-stock-climbing-today-93CH-4937104",
+   "baslik": "Why is Veraxa Biotech stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-veraxa-biotech-stock-climbing-today-93CH-4937104",
+   "saat": "18:10",
+   "tarih_iso": "2026-10-07T18:10:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T18:31:01.518232+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-curtisswright-stock-sliding-today-93CH-4937103",
+   "baslik": "Why is Curtiss-Wright stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-curtisswright-stock-sliding-today-93CH-4937103",
+   "saat": "18:10",
+   "tarih_iso": "2026-10-07T18:10:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T18:31:01.518232+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hess-midstream-stock-plummeting-today-93CH-4937101",
+   "baslik": "Why is Hess Midstream stock plummeting today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hess-midstream-stock-plummeting-today-93CH-4937101",
+   "saat": "18:10",
+   "tarih_iso": "2026-10-07T18:10:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T18:31:01.518232+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-092-4937102",
+   "baslik": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.92%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-092-4937102",
+   "saat": "18:10",
+   "tarih_iso": "2026-10-07T18:10:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T18:31:01.518232+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-halozyme-therapeutics-stock-climbing-today-93CH-4937100",
+   "baslik": "Why is Halozyme Therapeutics stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-halozyme-therapeutics-stock-climbing-today-93CH-4937100",
+   "saat": "18:09",
+   "tarih_iso": "2026-10-07T18:09:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T18:31:01.518232+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+   "baslik": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html",
+   "saat": "18:03",
+   "tarih_iso": "2026-10-07T18:03:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T18:31:01.518232+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/ff76eda4-0c63-4fcd-a5a1-2729fbbffccc?syn-25a6b1a6=1",
+   "baslik": "US oil trader takes $2bn gamble on tankers as carriers steer clear of Hormuz",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/ff76eda4-0c63-4fcd-a5a1-2729fbbffccc?syn-25a6b1a6=1",
+   "saat": "18:00",
+   "tarih_iso": "2026-10-07T18:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T18:31:01.518232+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/halozyme-stock-rises-after-winning-injunction-against-merck-4937066",
    "baslik": "Halozyme stock rises after winning injunction against Merck",
@@ -1885,86 +1975,6 @@
    "tarih_iso": "2026-10-06T23:37:00+03:00",
    "kodlar": [],
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-   "baslik": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
-   "saat": "23:24",
-   "tarih_iso": "2026-10-06T23:24:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T09:01:11.513507+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-   "baslik": "Marvell just impressed Wall Street with ‘good numbers plus a better story’",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/marvell-just-impressed-wall-street-with-good-numbers-plus-a-better-story-57fbbf23?mod=mw_rss_topstories",
-   "saat": "23:21",
-   "tarih_iso": "2026-10-06T23:21:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T09:01:11.513507+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
-   "baslik": "Boomers' dividend stocks take beating from bond yields, with retirement income on the line",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/06/dividend-stocks-bond-yields-retirement-income.html",
-   "saat": "23:06",
-   "tarih_iso": "2026-10-06T23:06:42+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T09:01:11.513507+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
-   "baslik": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
-   "saat": "23:05",
-   "tarih_iso": "2026-10-06T23:05:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T09:01:11.513507+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/investingclub/2026/10/06/a-new-analyst-call-on-home-depot-reflects-our-feeling-on-what-to-do-with-the-stock.html",
-   "baslik": "A new analyst call on Home Depot reflects our feeling on what to do with the stock",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/investingclub/2026/10/06/a-new-analyst-call-on-home-depot-reflects-our-feeling-on-what-to-do-with-the-stock.html",
-   "saat": "23:00",
-   "tarih_iso": "2026-10-06T23:00:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T09:01:11.513507+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
-   "baslik": "How event contract bundles are boosting volume on prediction markets",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
-   "saat": "21:46",
-   "tarih_iso": "2026-10-06T21:46:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T09:01:11.513507+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-   "baslik": "Kalshi, Polymarket trading volumes on some products raise questions amid massive growth",
-   "kaynak": "CNBC Finans",
-   "link": "https://www.cnbc.com/2026/09/30/kalshi-polymarket-trading-volume-scrutiny.html",
-   "saat": "21:41",
-   "tarih_iso": "2026-10-06T21:41:32+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T09:01:11.513507+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-   "baslik": "‘Trump accounts’ could force MAGA children to own New York Times stock",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-   "saat": "21:39",
-   "tarih_iso": "2026-10-06T21:39:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
  "altin_haber": [
@@ -2189,5 +2199,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T18:01:18.483496+03:00"
+ "guncelleme": "2026-10-07T18:31:01.518232+03:00"
 }
