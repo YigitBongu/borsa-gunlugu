@@ -2,6 +2,45 @@
  "tarih": "2026-10-07",
  "kap": [
   {
+   "id": "kap-my-SDTTR-202610071523",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SDTTR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:23",
+   "tarih_iso": "2026-10-07T15:23:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
+  {
+   "id": "kap-my-SMRTG-202610071522",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:22",
+   "tarih_iso": "2026-10-07T15:22:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
+  {
+   "id": "kap-my-ASTOR-202610071511",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:11",
+   "tarih_iso": "2026-10-07T15:11:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
+  {
    "id": "kap-my-QUAGR-202610071433",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -225,6 +264,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/fb-super-lig-maci-ne-zaman-rizespor-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-842974",
+   "baslik": "FB Süper Lig maçı ne zaman? Rizespor - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fb-super-lig-maci-ne-zaman-rizespor-fenerbahce-maci-ne-zaman-saat-kacta-hangi-kanalda-haberi-842974",
+   "saat": "15:45",
+   "tarih_iso": "2026-10-07T15:45:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-personelinden-olusan-72-kisilik-arama-kurtarma-ekibi-kurdu/4081018",
    "baslik": "THY, personelinden oluşan 72 kişilik arama kurtarma ekibi kurdu",
    "kaynak": "AA Ekonomi",
@@ -235,6 +286,18 @@
     "THYAO"
    ],
    "eklenme": "2026-10-07T15:32:48.226221+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/aselsandan-195-milyon-dolarlik-sozlesme-3476046",
+   "baslik": "ASELSAN'dan 195 milyon dolarlık sözleşme",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/aselsandan-195-milyon-dolarlik-sozlesme-3476046",
+   "saat": "13:07",
+   "tarih_iso": "2026-10-07T13:07:48+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
   },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/kardemir-celik-pay-geri-alm-program-baslatt-geri-alm-islemleri-icin-azami-100-4092941",
@@ -310,6 +373,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.bloomberght.com/spacex-ten-nvidia-cipleri-icin-40-milyar-dolar-borclanma-plani-3790673",
+   "baslik": "SpaceX'ten Nvidia çipleri için 40 milyar dolar borçlanma planı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/spacex-ten-nvidia-cipleri-icin-40-milyar-dolar-borclanma-plani-3790673",
+   "saat": "15:46",
+   "tarih_iso": "2026-10-07T15:46:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
   {
    "id": "rss-https://www.bloomberght.com/yilmaz-dan-fon-odemelerinde-hazine-den-kaynak-kullanilmayacak-aciklamasi-3790649",
    "baslik": "Yılmaz'dan fon ödemelerinde 'Hazine'den kaynak kullanılmayacak' açıklaması",
@@ -622,6 +695,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+   "baslik": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock down nearly 30%",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
+   "saat": "16:01",
+   "tarih_iso": "2026-10-07T16:01:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-bank-shares-fall-as-bond-yields-surge-spreads-widen-4936663",
+   "baslik": "European bank shares fall as bond yields surge, spreads widen",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-bank-shares-fall-as-bond-yields-surge-spreads-widen-4936663",
+   "saat": "15:36",
+   "tarih_iso": "2026-10-07T15:36:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/07/home-heating-oil-costs-winter.html",
+   "baslik": "Home heating oil prices are soaring — and users' winter bills could rise 21%, federal outlook shows",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/07/home-heating-oil-costs-winter.html",
+   "saat": "15:35",
+   "tarih_iso": "2026-10-07T15:35:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/unity-stock-rises-on-ai-deal-with-google-buy-or-stay-out-93CH-4936646",
+   "baslik": "Unity stock rises on AI deal with Google: Buy or stay out?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/unity-stock-rises-on-ai-deal-with-google-buy-or-stay-out-93CH-4936646",
+   "saat": "15:34",
+   "tarih_iso": "2026-10-07T15:34:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/fuelcell-energy-stock-tumbles-on-cfo-transition-announcement-4936614",
+   "baslik": "FuelCell Energy stock tumbles on CFO transition announcement",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/fuelcell-energy-stock-tumbles-on-cfo-transition-announcement-4936614",
+   "saat": "15:30",
+   "tarih_iso": "2026-10-07T15:30:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-flutter-entertainment-stock-rallying-today-93CH-4936613",
+   "baslik": "Why is Flutter Entertainment stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-flutter-entertainment-stock-rallying-today-93CH-4936613",
+   "saat": "15:28",
+   "tarih_iso": "2026-10-07T15:28:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-unity-software-stock-rallying-today-93CH-4936601",
+   "baslik": "Why is Unity Software stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-unity-software-stock-rallying-today-93CH-4936601",
+   "saat": "15:22",
+   "tarih_iso": "2026-10-07T15:22:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:01:12.864184+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/d9ba8e1f-54f9-4739-9ce3-94e62d585e26?syn-25a6b1a6=1",
    "baslik": "French central bank chief says ECB intervention not needed to ease debt sell-off",
@@ -1675,5 +1818,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T15:32:48.226221+03:00"
+ "guncelleme": "2026-10-07T16:01:12.864184+03:00"
 }
