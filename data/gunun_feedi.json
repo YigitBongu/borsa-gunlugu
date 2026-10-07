@@ -2,6 +2,19 @@
  "tarih": "2026-10-07",
  "kap": [
   {
+   "id": "kap-my-GESAN-202610071343",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:43",
+   "tarih_iso": "2026-10-07T13:43:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T14:31:05.448930+03:00"
+  },
+  {
    "id": "kap-my-KORDS-202610071335",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -551,6 +564,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
+   "baslik": "These two hard-hit stocks are poised for a comeback, says fund manager",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
+   "saat": "14:21",
+   "tarih_iso": "2026-10-07T14:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:31:05.448930+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/webull-stock-tumbles-on-national-security-concerns-4936307",
+   "baslik": "Webull stock tumbles on national security concerns",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/webull-stock-tumbles-on-national-security-concerns-4936307",
+   "saat": "14:16",
+   "tarih_iso": "2026-10-07T14:16:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:31:05.448930+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/exclusiveapollo-submits-nonbinding-bid-for-german-energy-firm-uniper-sources-say-4936283",
+   "baslik": "Exclusive-Apollo submits non-binding bid for German energy firm Uniper, sources say",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/exclusiveapollo-submits-nonbinding-bid-for-german-energy-firm-uniper-sources-say-4936283",
+   "saat": "14:12",
+   "tarih_iso": "2026-10-07T14:12:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:31:05.448930+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
+   "baslik": "Mortgage rates sit at nearly 3-year high, and demand continues to shrink",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/07/mortgage-rates-sit-at-nearly-3-year-high-and-demand-continues-to-shrink.html",
+   "saat": "14:00",
+   "tarih_iso": "2026-10-07T14:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:31:05.448930+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-076-4936092",
    "baslik": "India stocks lower at close of trade; Nifty 50 down 0.76%",
@@ -1424,5 +1477,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T14:01:08.897833+03:00"
+ "guncelleme": "2026-10-07T14:31:05.448930+03:00"
 }
