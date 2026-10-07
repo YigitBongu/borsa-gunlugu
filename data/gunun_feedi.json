@@ -270,6 +270,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-150-dolarda-tutunuyor-sirada-5-bin-dolar-mi-var-galeri-842870",
+   "baslik": "Altın 4 bin 150 dolarda tutunuyor: Sırada 5 bin dolar mı var?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-150-dolarda-tutunuyor-sirada-5-bin-dolar-mi-var-galeri-842870",
+   "saat": "06:02",
+   "tarih_iso": "2026-10-07T06:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T06:30:59.833494+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/spacex-nvidia-cipleri-icin-40-milyar-dolar-toplamak-istiyor-4092725",
    "baslik": "SpaceX, Nvidia çipleri için 40 milyar dolar toplamak istiyor",
    "kaynak": "Investing TR",
@@ -711,6 +721,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-fall-despite-wall-street-records-as-rising-oil-yields-weigh-4935558",
+   "baslik": "Asia stocks fall despite Wall Street records as rising oil, yields weigh",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-fall-despite-wall-street-records-as-rising-oil-yields-weigh-4935558",
+   "saat": "06:11",
+   "tarih_iso": "2026-10-07T06:11:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T06:30:59.833494+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/samsung-q3-earnings-preview-record-profit-expected-but-margin-outlook-in-focus-93CH-4935549",
    "baslik": "Samsung Q3 earnings preview: record profit expected but margin outlook in focus",
@@ -1900,19 +1920,19 @@
    "tarih_iso": "2026-10-06T16:02:21+03:00",
    "kodlar": [],
    "eklenme": "2026-10-06T16:31:03.145339+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/06/this-firm-aims-to-reduce-liquidation-risk-from-margin-calls-on-prediction-markets.html",
-   "baslik": "This startup wants to reduce liquidation risk from margin calls on prediction markets",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/06/this-firm-aims-to-reduce-liquidation-risk-from-margin-calls-on-prediction-markets.html",
-   "saat": "16:01",
-   "tarih_iso": "2026-10-06T16:01:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T16:31:03.145339+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-150-dolarda-tutunuyor-sirada-5-bin-dolar-mi-var-galeri-842870",
+   "baslik": "Altın 4 bin 150 dolarda tutunuyor: Sırada 5 bin dolar mı var?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/altin-4-bin-150-dolarda-tutunuyor-sirada-5-bin-dolar-mi-var-galeri-842870",
+   "saat": "06:02",
+   "tarih_iso": "2026-10-07T06:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T06:30:59.833494+03:00"
+  },
   {
    "id": "alt-https://tr.investing.com/news/stock-market-news/altn-yukseldi-avustralya-hisse-senetleri-kazand-4092763",
    "baslik": "Altın yükseldi, Avustralya hisse senetleri kazandı",
@@ -2284,5 +2304,5 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   }
  ],
- "guncelleme": "2026-10-07T06:01:06.692927+03:00"
+ "guncelleme": "2026-10-07T06:30:59.833494+03:00"
 }
