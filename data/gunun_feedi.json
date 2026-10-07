@@ -270,6 +270,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/fransada-125-milyar-euro-yetmedi-tasarruf-hedefi-yukseldi-haberi-842882",
+   "baslik": "Fransa’da 125 milyar euro yetmedi tasarruf hedefi yükseldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fransada-125-milyar-euro-yetmedi-tasarruf-hedefi-yukseldi-haberi-842882",
+   "saat": "07:47",
+   "tarih_iso": "2026-10-07T07:47:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T08:01:14.438736+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/abd-son-24-yilin-en-yuksek-faizi-ile-39-milyar-dolar-borclanacak-haberi-842881",
+   "baslik": "ABD son 24 yılın en yüksek faizi ile 39 milyar dolar borçlanacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/abd-son-24-yilin-en-yuksek-faizi-ile-39-milyar-dolar-borclanacak-haberi-842881",
+   "saat": "07:32",
+   "tarih_iso": "2026-10-07T07:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T08:01:14.438736+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-7-ekim-carsamba-doviz-kurlari-haberi-842877",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (7 Ekim Çarşamba Döviz Kurları)",
    "kaynak": "Dünya",
@@ -751,6 +771,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+   "baslik": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+   "saat": "07:44",
+   "tarih_iso": "2026-10-07T07:44:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T08:01:14.438736+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
+   "baslik": "Singapore's Temasek warns of the ‘biggest risk’ facing markets right now",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/07/singapore-temasek-warns-of-the-biggest-risk-facing-markets.html",
+   "saat": "07:33",
+   "tarih_iso": "2026-10-07T07:33:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T08:01:14.438736+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/7c38e8e3-8035-4036-8bc0-5fba2fbf77cb?syn-25a6b1a6=1",
    "baslik": "Robust AI spending sets investors up for another bumper US earnings season",
@@ -1930,29 +1970,29 @@
    "tarih_iso": "2026-10-06T16:58:00+03:00",
    "kodlar": [],
    "eklenme": "2026-10-06T17:01:18.078747+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-corteva-stock-rallying-today-93CH-4934753",
-   "baslik": "Why is Corteva stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-corteva-stock-rallying-today-93CH-4934753",
-   "saat": "16:45",
-   "tarih_iso": "2026-10-06T16:45:29+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T17:01:18.078747+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/95db1fbd-4e1f-45cf-b678-c40635f59197?syn-25a6b1a6=1",
-   "baslik": "Vitol chief warns of tanker shortage and risk of $200-a-barrel oil",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/95db1fbd-4e1f-45cf-b678-c40635f59197?syn-25a6b1a6=1",
-   "saat": "16:39",
-   "tarih_iso": "2026-10-06T16:39:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T18:30:57.422305+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/regis-resources-hisseleri-zayf-altn-uretimiyle-dustu-4092790",
+   "baslik": "Regis Resources hisseleri zayıf altın üretimiyle düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/regis-resources-hisseleri-zayf-altn-uretimiyle-dustu-4092790",
+   "saat": "07:30",
+   "tarih_iso": "2026-10-07T07:30:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T08:01:14.438736+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/regis-resources-shares-fall-as-q1-gold-production-remains-weak-4935587",
+   "baslik": "Regis Resources shares fall as Q1 gold production remains weak",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/regis-resources-shares-fall-as-q1-gold-production-remains-weak-4935587",
+   "saat": "07:30",
+   "tarih_iso": "2026-10-07T07:30:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T08:01:14.438736+03:00"
+  },
   {
    "id": "alt-https://www.bloomberght.com/altin-fed-tutanaklari-oncesi-geriledi-3790556",
    "baslik": "Altın, Fed tutanakları öncesi geriledi",
@@ -2344,5 +2384,5 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   }
  ],
- "guncelleme": "2026-10-07T07:31:01.361552+03:00"
+ "guncelleme": "2026-10-07T08:01:14.438736+03:00"
 }
