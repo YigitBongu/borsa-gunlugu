@@ -2,6 +2,45 @@
  "tarih": "2026-10-07",
  "kap": [
   {
+   "id": "kap-my-KORDS-202610071335",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KORDS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:35",
+   "tarih_iso": "2026-10-07T13:35:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T14:01:08.897833+03:00"
+  },
+  {
+   "id": "kap-my-SELEC-202610071332",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:32",
+   "tarih_iso": "2026-10-07T13:32:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T14:01:08.897833+03:00"
+  },
+  {
+   "id": "kap-my-SMRTG-202610071326",
+   "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
+   "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:26",
+   "tarih_iso": "2026-10-07T13:26:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T14:01:08.897833+03:00"
+  },
+  {
    "id": "kap-my-BIENY-202610071300",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -512,6 +551,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-076-4936092",
+   "baslik": "India stocks lower at close of trade; Nifty 50 down 0.76%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/india-stocks-lower-at-close-of-trade-nifty-50-down-076-4936092",
+   "saat": "13:30",
+   "tarih_iso": "2026-10-07T13:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:01:08.897833+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-are-analysts-turning-bearish-on-be-semiconductor-besi-stock-outlook-93CH-4936089",
+   "baslik": "Why are analysts turning bearish on BE Semiconductor? BESI stock outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-are-analysts-turning-bearish-on-be-semiconductor-besi-stock-outlook-93CH-4936089",
+   "saat": "13:26",
+   "tarih_iso": "2026-10-07T13:26:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:01:08.897833+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
    "baslik": "Elon Musk and Intel CEO shore up chipmaker’s role in Terafab project — and here’s what the news is doing to the stock.",
@@ -1365,5 +1424,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T13:31:02.741752+03:00"
+ "guncelleme": "2026-10-07T14:01:08.897833+03:00"
 }
