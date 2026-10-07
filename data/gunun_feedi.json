@@ -2,6 +2,32 @@
  "tarih": "2026-10-07",
  "kap": [
   {
+   "id": "kap-my-QUAGR-202610071433",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "QUAGR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:33",
+   "tarih_iso": "2026-10-07T14:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
+  {
+   "id": "kap-my-SASA-202610071428",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SASA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:28",
+   "tarih_iso": "2026-10-07T14:28:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
+  {
    "id": "kap-my-GESAN-202610071343",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -272,6 +298,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.bloomberght.com/yilmaz-dan-fon-odemelerinde-hazine-den-kaynak-kullanilmayacak-aciklamasi-3790649",
+   "baslik": "Yılmaz'dan fon ödemelerinde 'Hazine'den kaynak kullanılmayacak' açıklaması",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/yilmaz-dan-fon-odemelerinde-hazine-den-kaynak-kullanilmayacak-aciklamasi-3790649",
+   "saat": "14:31",
+   "tarih_iso": "2026-10-07T14:31:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/cevdet-yilmazdan-fon-piyasasi-aciklamasi-hazine-kaynagi-kullanilmayacak-haberi-842965",
+   "baslik": "Cevdet Yılmaz'dan fon piyasası açıklaması: Hazine kaynağı kullanılmayacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/cevdet-yilmazdan-fon-piyasasi-aciklamasi-hazine-kaynagi-kullanilmayacak-haberi-842965",
+   "saat": "14:27",
+   "tarih_iso": "2026-10-07T14:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/merkez-bankasi-baskani-karahan-soklarin-etkisi-hafifledikce-dezenflasyon-sureci-yeniden-ivme-kazanacak-3476103",
    "baslik": "Merkez Bankası Başkanı Karahan: Şokların etkisi hafifledikçe dezenflasyon süreci yeniden ivme kazanacak",
@@ -564,6 +610,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/deutsche-flags-2-solar-stocks-as-catalyst-call-sell-ideas-93CH-4936439",
+   "baslik": "Deutsche flags 2 solar stocks as Catalyst Call Sell Ideas",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/deutsche-flags-2-solar-stocks-as-catalyst-call-sell-ideas-93CH-4936439",
+   "saat": "14:53",
+   "tarih_iso": "2026-10-07T14:53:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-humana-stock-climbing-today-93CH-4936438",
+   "baslik": "Why is Humana stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-humana-stock-climbing-today-93CH-4936438",
+   "saat": "14:52",
+   "tarih_iso": "2026-10-07T14:52:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Former Barclays traders have rate-rigging convictions quashed",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
+   "saat": "14:46",
+   "tarih_iso": "2026-10-07T14:46:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/truist-expects-multiindustry-sector-lift-from-robust-orders-93CH-4936414",
+   "baslik": "Truist names these two stocks as top-quality multi-industry sector performers",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/truist-expects-multiindustry-sector-lift-from-robust-orders-93CH-4936414",
+   "saat": "14:44",
+   "tarih_iso": "2026-10-07T14:44:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
+   "baslik": "Global bond sell-off resumes as 30-year Treasury yield hits highest since 2002",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/33c67aa0-bfdb-457b-84bb-960b4fed94b6?syn-25a6b1a6=1",
+   "saat": "14:42",
+   "tarih_iso": "2026-10-07T14:42:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/chip-stock-could-soar-nearly-200-analyst-says-if-you-dont-buy-it-they-will-4936401",
+   "baslik": "Chip stock could soar nearly 200%, analyst says: \"If you don’t buy it, they will\"",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/chip-stock-could-soar-nearly-200-analyst-says-if-you-dont-buy-it-they-will-4936401",
+   "saat": "14:38",
+   "tarih_iso": "2026-10-07T14:38:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-webull-stock-sliding-today-93CH-4936394",
+   "baslik": "Why is Webull stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-webull-stock-sliding-today-93CH-4936394",
+   "saat": "14:37",
+   "tarih_iso": "2026-10-07T14:37:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
    "baslik": "These two hard-hit stocks are poised for a comeback, says fund manager",
@@ -1277,6 +1393,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/oil-turned-on-its-vertex-day-what-it-means-for-gold-200689106",
+   "baslik": "Oil Turned on Its Vertex Day: What It Means for Gold",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/oil-turned-on-its-vertex-day-what-it-means-for-gold-200689106",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-07T14:59:22.106207+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/ekonomi/7-ekim-altin-fiyatlari-canli-kapalicarsida-gram-ceyrek-ve-cumhuriyet-altini-ne-kadar-altin-fiyatlarinda-son-durum-3476059",
    "baslik": "7 EKİM ALTIN FİYATLARI CANLI| Kapalıçarşı’da Gram, Çeyrek ve Cumhuriyet Altını Ne Kadar? Altın Fiyatlarında Son Durum!",
    "kaynak": "CNN Türk Ekonomi",
@@ -1477,5 +1603,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T14:31:05.448930+03:00"
+ "guncelleme": "2026-10-07T14:59:22.106207+03:00"
 }
