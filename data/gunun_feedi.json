@@ -2,6 +2,19 @@
  "tarih": "2026-10-07",
  "kap": [
   {
+   "id": "kap-my-ASELS-202610071154",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASELS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "11:54",
+   "tarih_iso": "2026-10-07T11:54:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T12:31:06.850187+03:00"
+  },
+  {
    "id": "kap-my-REEDR-202610071137",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -456,6 +469,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-baltic-classifieds-stock-climbing-4-today-93CH-4935981",
+   "baslik": "Why is Baltic Classifieds stock climbing 4% today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-baltic-classifieds-stock-climbing-4-today-93CH-4935981",
+   "saat": "12:28",
+   "tarih_iso": "2026-10-07T12:28:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T12:31:06.850187+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-marks--spencer-stock-climbing-today-93CH-4935979",
+   "baslik": "Why is Marks & Spencer stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-marks--spencer-stock-climbing-today-93CH-4935979",
+   "saat": "12:25",
+   "tarih_iso": "2026-10-07T12:25:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T12:31:06.850187+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+   "baslik": "SpaceX reportedly is looking to raise as much money as the company generates in revenue to buy Nvidia chips",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+   "saat": "12:15",
+   "tarih_iso": "2026-10-07T12:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T12:31:06.850187+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/a21ec190-edcd-454e-886a-302b0a16ea82?syn-25a6b1a6=1",
+   "baslik": "AI agents could cost banks $500bn — by winning savers better rates",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/a21ec190-edcd-454e-886a-302b0a16ea82?syn-25a6b1a6=1",
+   "saat": "11:51",
+   "tarih_iso": "2026-10-07T11:51:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T12:31:06.850187+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/indonesia-stocks-lower-at-close-of-trade-idx-composite-index-down-074-4935856",
    "baslik": "Indonesia stocks lower at close of trade; IDX Composite Index down 0.74%",
@@ -959,6 +1012,16 @@
    "eklenme": "2026-10-07T10:31:02.181723+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/q4-2026-commodites-forecast-will-gold-and-silver-find-a-bottom-200689090",
+   "baslik": "Q4 2026 Commodites Forecast: Will Gold and Silver Find a Bottom?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/q4-2026-commodites-forecast-will-gold-and-silver-find-a-bottom-200689090",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-07T12:31:06.850187+03:00"
+  },
+  {
    "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/11-yil-beklediler-ilk-hasat-geldi-altin-damlayan-agac-yeni-gelir-kapisi-oldu-galeri-842934",
    "baslik": "11 yıl beklediler, ilk hasat geldi: 'Altın damlayan ağaç' yeni gelir kapısı oldu",
    "kaynak": "Dünya",
@@ -1119,5 +1182,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T12:01:15.576785+03:00"
+ "guncelleme": "2026-10-07T12:31:06.850187+03:00"
 }
