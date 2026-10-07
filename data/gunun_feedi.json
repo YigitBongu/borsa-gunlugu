@@ -2,6 +2,32 @@
  "tarih": "2026-10-07",
  "kap": [
   {
+   "id": "kap-my-EUPWR-202610071044",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "EUPWR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:44",
+   "tarih_iso": "2026-10-07T10:44:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T11:31:06.500034+03:00"
+  },
+  {
+   "id": "kap-my-ASTOR-202610071039",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:39",
+   "tarih_iso": "2026-10-07T10:39:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T11:31:06.500034+03:00"
+  },
+  {
    "id": "kap-my-SMRTG-202610071028",
    "baslik": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş. — Temerrüt İşlemi",
    "sirket": "İSTANBUL TAKAS VE SAKLAMA BANKASI A.Ş.",
@@ -144,6 +170,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/merkez-bankasi-baskani-karahan-soklarin-etkisi-hafifledikce-dezenflasyon-sureci-yeniden-ivme-kazanacak-3476103",
+   "baslik": "Merkez Bankası Başkanı Karahan: Şokların etkisi hafifledikçe dezenflasyon süreci yeniden ivme kazanacak",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/merkez-bankasi-baskani-karahan-soklarin-etkisi-hafifledikce-dezenflasyon-sureci-yeniden-ivme-kazanacak-3476103",
+   "saat": "14:18",
+   "tarih_iso": "2026-10-07T14:18:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:31:06.500034+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/irak-merkez-bankasi-dolar-kurunu-degistirdi-3476061",
    "baslik": "Irak Merkez Bankası dolar kurunu değiştirdi",
    "kaynak": "CNN Türk Ekonomi",
@@ -162,6 +198,26 @@
    "tarih_iso": "2026-10-07T13:12:17+03:00",
    "kodlar": [],
    "eklenme": "2026-10-07T10:31:02.181723+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/imf-baskani-georgievadan-liderlere-enerji-soku-butce-ve-yapay-zeka-uyarisi/4080557",
+   "baslik": "IMF Başkanı Georgieva'dan liderlere enerji şoku, bütçe ve yapay zeka uyarısı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/imf-baskani-georgievadan-liderlere-enerji-soku-butce-ve-yapay-zeka-uyarisi/4080557",
+   "saat": "11:06",
+   "tarih_iso": "2026-10-07T11:06:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:31:06.500034+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/karahan-3790589",
+   "baslik": "TCMB Başkanı Karahan: Dezenflasyon verimlilik artışını da destekleyecek",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/karahan-3790589",
+   "saat": "11:00",
+   "tarih_iso": "2026-10-07T11:00:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:31:06.500034+03:00"
   },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/otomotiv-endustrisinin-eylul-ayi-ihracati-3-9-milyar-dolar-oldu/4080506",
@@ -345,6 +401,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-avon-technologies-stock-surging-today-93CH-4935815",
+   "baslik": "Why is Avon Technologies stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-avon-technologies-stock-surging-today-93CH-4935815",
+   "saat": "11:14",
+   "tarih_iso": "2026-10-07T11:14:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:31:06.500034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hollywood-bowl-stock-rallying-today-93CH-4935813",
+   "baslik": "Why is Hollywood Bowl stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hollywood-bowl-stock-rallying-today-93CH-4935813",
+   "saat": "11:11",
+   "tarih_iso": "2026-10-07T11:11:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:31:06.500034+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-forvia-stock-rallying-today-93CH-4935810",
+   "baslik": "Why is Forvia stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-forvia-stock-rallying-today-93CH-4935810",
+   "saat": "11:07",
+   "tarih_iso": "2026-10-07T11:07:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:31:06.500034+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/hollywood-bowl-shares-jump-6-as-profit-seen-in-line-despite-uk-heatwave-4935795",
    "baslik": "Hollywood Bowl shares jump 6% as profit seen in line despite UK heatwave",
@@ -768,6 +854,16 @@
    "eklenme": "2026-10-07T11:01:30.339777+03:00"
   },
   {
+   "id": "alt-https://www.dunya.com/ekonomi/altinda-yuzde-6lik-dusus-sonrasi-cinden-dikkat-ceken-hamle-haberi-842928",
+   "baslik": "Altında yüzde 6'lık düşüş sonrası Çin'den dikkat çeken hamle",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/altinda-yuzde-6lik-dusus-sonrasi-cinden-dikkat-ceken-hamle-haberi-842928",
+   "saat": "10:54",
+   "tarih_iso": "2026-10-07T10:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T11:31:06.500034+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-market-daily-the-countries-that-mine-are-starting-to-keep-it-200689075",
    "baslik": "Gold Market Daily: The Countries That Mine Are Starting to Keep It",
    "kaynak": "Investing Emtia",
@@ -888,5 +984,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T11:01:30.339777+03:00"
+ "guncelleme": "2026-10-07T11:31:06.500034+03:00"
 }
