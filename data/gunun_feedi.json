@@ -2,6 +2,19 @@
  "tarih": "2026-10-07",
  "kap": [
   {
+   "id": "kap-my-GUBRF-202610071604",
+   "baslik": "GÜBRE FABRİKALARI T.A.Ş. — Kar Payı Dağıtım İşlemlerine İlişkin Bildirim",
+   "sirket": "GÜBRE FABRİKALARI T.A.Ş.",
+   "kodlar": [
+    "GUBRF"
+   ],
+   "kategori": "Temettü",
+   "saat": "16:04",
+   "tarih_iso": "2026-10-07T16:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T16:31:02.844525+03:00"
+  },
+  {
    "id": "kap-my-SDTTR-202610071523",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -374,6 +387,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/brookfield-esr-indiann-depo-portfoyune-444-milyon-dolar-yatrd-93CH-4094002",
+   "baslik": "Brookfield, ESR India’nın depo portföyüne 444 milyon dolar yatırdı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/brookfield-esr-indiann-depo-portfoyune-444-milyon-dolar-yatrd-93CH-4094002",
+   "saat": "16:24",
+   "tarih_iso": "2026-10-07T16:24:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:31:02.844525+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/spacex-ten-nvidia-cipleri-icin-40-milyar-dolar-borclanma-plani-3790673",
    "baslik": "SpaceX'ten Nvidia çipleri için 40 milyar dolar borçlanma planı",
    "kaynak": "Bloomberg HT",
@@ -695,6 +718,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-filtronic-stock-surging-today-93CH-4936805",
+   "baslik": "Why is Filtronic stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-filtronic-stock-surging-today-93CH-4936805",
+   "saat": "16:16",
+   "tarih_iso": "2026-10-07T16:16:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:31:02.844525+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/deutsche-bank-warns-solaredge-recovery-may-stumble-on-high-interest-rates-4936799",
+   "baslik": "Deutsche Bank warns SolarEdge recovery may stumble on high interest rates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/deutsche-bank-warns-solaredge-recovery-may-stumble-on-high-interest-rates-4936799",
+   "saat": "16:16",
+   "tarih_iso": "2026-10-07T16:16:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:31:02.844525+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/up-60-and-climbing-this-aipicked-tech-play-keeps-dropping-billiondollar-deals-4936798",
+   "baslik": "Up +60% and climbing: This AI-picked tech play keeps landing billion-dollar deals",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/up-60-and-climbing-this-aipicked-tech-play-keeps-dropping-billiondollar-deals-4936798",
+   "saat": "16:14",
+   "tarih_iso": "2026-10-07T16:14:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:31:02.844525+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-us-bond-yields-climb-miners-drag-4935692",
+   "baslik": "FTSE 100 today: Stocks fall as gilt yields top 6%, banks, miners slide",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ftse-100-today-stocks-slip-as-us-bond-yields-climb-miners-drag-4935692",
+   "saat": "16:14",
+   "tarih_iso": "2026-10-07T16:14:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:31:02.844525+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-us-dollar-silver-spot-stock-climbing-today-93CH-4936789",
+   "baslik": "Why is US Dollar Silver Spot stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-us-dollar-silver-spot-stock-climbing-today-93CH-4936789",
+   "saat": "16:11",
+   "tarih_iso": "2026-10-07T16:11:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T16:31:02.844525+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
    "baslik": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock down nearly 30%",
@@ -1818,5 +1891,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T16:01:12.864184+03:00"
+ "guncelleme": "2026-10-07T16:31:02.844525+03:00"
 }
