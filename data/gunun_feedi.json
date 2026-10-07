@@ -270,6 +270,36 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/hindistan-dort-yil-aradan-sonra-faiz-artirdi-haberi-842887",
+   "baslik": "Hindistan dört yıl aradan sonra faiz artırdı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hindistan-dort-yil-aradan-sonra-faiz-artirdi-haberi-842887",
+   "saat": "08:21",
+   "tarih_iso": "2026-10-07T08:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T08:31:02.513511+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/hindistan-merkez-bankasi-yaklasik-dort-yil-sonra-faiz-artirdi-3790561",
+   "baslik": "Hindistan Merkez Bankası yaklaşık dört yıl sonra faiz artırdı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/hindistan-merkez-bankasi-yaklasik-dort-yil-sonra-faiz-artirdi-3790561",
+   "saat": "08:08",
+   "tarih_iso": "2026-10-07T08:08:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T08:31:02.513511+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/avrupada-enerji-enflasyonu-yuzde-188e-cikti-faiz-baskisi-yeniden-buyuyor-haberi-842884",
+   "baslik": "Avrupa’da enerji enflasyonu yüzde 18,8’e çıktı: Faiz baskısı yeniden büyüyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/avrupada-enerji-enflasyonu-yuzde-188e-cikti-faiz-baskisi-yeniden-buyuyor-haberi-842884",
+   "saat": "07:56",
+   "tarih_iso": "2026-10-07T07:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T08:31:02.513511+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/fransada-125-milyar-euro-yetmedi-tasarruf-hedefi-yukseldi-haberi-842882",
    "baslik": "Fransa’da 125 milyar euro yetmedi tasarruf hedefi yükseldi",
    "kaynak": "Dünya",
@@ -771,6 +801,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-regis-resources-stock-sliding-today-93CH-4935593",
+   "baslik": "Why is Regis Resources stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-regis-resources-stock-sliding-today-93CH-4935593",
+   "saat": "07:57",
+   "tarih_iso": "2026-10-07T07:57:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T08:31:02.513511+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
    "baslik": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
@@ -1960,19 +2000,19 @@
    "tarih_iso": "2026-10-06T17:00:17+03:00",
    "kodlar": [],
    "eklenme": "2026-10-06T19:31:02.621267+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
-   "baslik": "Prediction markets are coming for pop culture",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
-   "saat": "16:58",
-   "tarih_iso": "2026-10-06T16:58:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-06T17:01:18.078747+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/merkez-bankalari-39-ton-altin-aldi-turkiyede-uc-aylik-seri-sona-erdi-galeri-842886",
+   "baslik": "Merkez bankaları 39 ton altın aldı: Türkiye’de üç aylık seri sona erdi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/merkez-bankalari-39-ton-altin-aldi-turkiyede-uc-aylik-seri-sona-erdi-galeri-842886",
+   "saat": "08:05",
+   "tarih_iso": "2026-10-07T08:05:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T08:31:02.513511+03:00"
+  },
   {
    "id": "alt-https://tr.investing.com/news/stock-market-news/regis-resources-hisseleri-zayf-altn-uretimiyle-dustu-4092790",
    "baslik": "Regis Resources hisseleri zayıf altın üretimiyle düştü",
@@ -2384,5 +2424,5 @@
    "eklenme": "2026-10-06T09:01:14.095268+03:00"
   }
  ],
- "guncelleme": "2026-10-07T08:01:14.438736+03:00"
+ "guncelleme": "2026-10-07T08:31:02.513511+03:00"
 }
