@@ -225,6 +225,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-personelinden-olusan-72-kisilik-arama-kurtarma-ekibi-kurdu/4081018",
+   "baslik": "THY, personelinden oluşan 72 kişilik arama kurtarma ekibi kurdu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thy-personelinden-olusan-72-kisilik-arama-kurtarma-ekibi-kurdu/4081018",
+   "saat": "15:13",
+   "tarih_iso": "2026-10-07T15:13:49+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-10-07T15:31:08.914136+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/kardemir-celik-pay-geri-alm-program-baslatt-geri-alm-islemleri-icin-azami-100-4092941",
    "baslik": "Kardemir Çelik pay geri alım programı başlattı Geri alım işlemleri için azami 100 milyon TL fon ayırıyor",
    "kaynak": "Investing TR",
@@ -611,6 +623,56 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.ft.com/content/d9ba8e1f-54f9-4739-9ce3-94e62d585e26?syn-25a6b1a6=1",
+   "baslik": "French central bank chief says ECB intervention not needed to ease debt sell-off",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/d9ba8e1f-54f9-4739-9ce3-94e62d585e26?syn-25a6b1a6=1",
+   "saat": "15:19",
+   "tarih_iso": "2026-10-07T15:19:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T15:31:08.914136+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-stock-sliding-today-93CH-4936556",
+   "baslik": "Why is Direxion Daily Semiconductor Bull 3X Shares stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-direxion-daily-semiconductor-bull-3x-shares-stock-sliding-today-93CH-4936556",
+   "saat": "15:13",
+   "tarih_iso": "2026-10-07T15:13:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T15:31:08.914136+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/unity-stock-jumps-5-on-google-ai-gaming-partnership-4936515",
+   "baslik": "Unity stock jumps 5% on Google AI gaming partnership",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/unity-stock-jumps-5-on-google-ai-gaming-partnership-4936515",
+   "saat": "15:06",
+   "tarih_iso": "2026-10-07T15:06:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T15:31:08.914136+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-deutsche-bank-stock-sliding-today-93CH-4936446",
+   "baslik": "Why is Deutsche Bank stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-deutsche-bank-stock-sliding-today-93CH-4936446",
+   "saat": "14:56",
+   "tarih_iso": "2026-10-07T14:56:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T15:31:08.914136+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/airbus-stock-analysis-buy-setup-ahead-of-earnings-93CH-4936444",
+   "baslik": "Airbus stock analysis: Buy setup ahead of earnings?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/airbus-stock-analysis-buy-setup-ahead-of-earnings-93CH-4936444",
+   "saat": "14:56",
+   "tarih_iso": "2026-10-07T14:56:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T15:31:08.914136+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/deutsche-flags-2-solar-stocks-as-catalyst-call-sell-ideas-93CH-4936439",
    "baslik": "Deutsche flags 2 solar stocks as Catalyst Call Sell Ideas",
    "kaynak": "Investing.com",
@@ -749,6 +811,16 @@
    "tarih_iso": "2026-10-07T13:24:00+03:00",
    "kodlar": [],
    "eklenme": "2026-10-07T13:31:02.741752+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/a04ef3b4-2fcf-48f9-ab34-2c40c39d9a0c",
+   "baslik": "How US mortgage bonds can trigger a ‘vicious loop’ for Treasury yields",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/a04ef3b4-2fcf-48f9-ab34-2c40c39d9a0c",
+   "saat": "13:20",
+   "tarih_iso": "2026-10-07T13:20:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T15:31:08.914136+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-slip-as-houthi-threat-lift-oil-ahead-of-fomcminutes-4935618",
@@ -1603,5 +1675,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T15:01:18.891523+03:00"
+ "guncelleme": "2026-10-07T15:31:08.914136+03:00"
 }
