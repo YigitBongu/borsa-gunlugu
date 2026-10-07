@@ -2,6 +2,32 @@
  "tarih": "2026-10-07",
  "kap": [
   {
+   "id": "kap-my-GSDHO-202610070904",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:04",
+   "tarih_iso": "2026-10-07T09:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T09:31:08.269912+03:00"
+  },
+  {
+   "id": "kap-my-KRDMD-202610070904",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:04",
+   "tarih_iso": "2026-10-07T09:04:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-07T09:31:08.269912+03:00"
+  },
+  {
    "id": "kap-my-MAVI-202610061929",
    "baslik": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
    "sirket": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
@@ -17,6 +43,26 @@
  ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/irak-merkez-bankasi-dolarin-halka-satis-kurunu-1520-dinar-olarak-belirledi/4080401",
+   "baslik": "Irak Merkez Bankası, doların halka satış kurunu 1520 dinar olarak belirledi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/irak-merkez-bankasi-dolarin-halka-satis-kurunu-1520-dinar-olarak-belirledi/4080401",
+   "saat": "09:17",
+   "tarih_iso": "2026-10-07T09:17:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T09:31:08.269912+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-fedin-toplanti-tutanaklarina-odaklandi/4080393",
+   "baslik": "Küresel piyasalar Fed'in toplantı tutanaklarına odaklandı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-fedin-toplanti-tutanaklarina-odaklandi/4080393",
+   "saat": "09:06",
+   "tarih_iso": "2026-10-07T09:06:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T09:31:08.269912+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/hindistan-hisseleri-rbin-yaklask-4-yln-ilk-faiz-artsyla-dustu-4092803",
    "baslik": "Hindistan hisseleri RBI’ın yaklaşık 4 yılın ilk faiz artışıyla düştü",
@@ -130,6 +176,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-022-4935628",
+   "baslik": "Taiwan stocks lower at close of trade; Taiwan Weighted down 0.22%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/taiwan-stocks-lower-at-close-of-trade-taiwan-weighted-down-022-4935628",
+   "saat": "09:05",
+   "tarih_iso": "2026-10-07T09:05:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T09:31:08.269912+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/india-stocks-dip-after-rbi-hikes-rates-for-first-time-in-nearly-4-yrs-4935616",
    "baslik": "India stocks dip after RBI hikes rates for first time in nearly 4 yrs",
    "kaynak": "Investing.com",
@@ -138,6 +194,16 @@
    "tarih_iso": "2026-10-07T08:45:08+03:00",
    "kodlar": [],
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rbi-kicks-off-rate-hike-cycle-what-are-the-implications-for-indian-stocks-93CH-4935613",
+   "baslik": "RBI kicks off rate hike cycle: What are the implications for Indian stocks?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rbi-kicks-off-rate-hike-cycle-what-are-the-implications-for-indian-stocks-93CH-4935613",
+   "saat": "08:35",
+   "tarih_iso": "2026-10-07T08:35:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T09:31:08.269912+03:00"
   },
   {
    "id": "yab-https://www.bbc.co.uk/news/articles/cw0k08nnz07go?at_medium=RSS&at_campaign=rss",
@@ -482,5 +548,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T09:01:11.513507+03:00"
+ "guncelleme": "2026-10-07T09:31:08.269912+03:00"
 }
