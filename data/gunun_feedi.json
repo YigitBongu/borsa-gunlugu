@@ -777,6 +777,16 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/td-cowen-names-top-trucking-and-logistics-stocks-amid-rising-costs-4937213",
+   "baslik": "TD Cowen names top trucking and logistics stocks amid rising costs",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/td-cowen-names-top-trucking-and-logistics-stocks-amid-rising-costs-4937213",
+   "saat": "19:30",
+   "tarih_iso": "2026-10-07T19:30:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T20:02:16.614010+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/uk-stocks-lower-at-close-of-trade-investingcom-united-kingdom-100-down-076-4937198",
    "baslik": "U.K. stocks lower at close of trade; Investing.com United Kingdom 100 down 0.76%",
    "kaynak": "Investing.com",
@@ -1407,6 +1417,16 @@
    "eklenme": "2026-10-07T15:32:48.226221+03:00"
   },
   {
+   "id": "yab-https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+   "baslik": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html",
+   "saat": "14:55",
+   "tarih_iso": "2026-10-07T14:55:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T20:02:16.614010+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/deutsche-flags-2-solar-stocks-as-catalyst-call-sell-ideas-93CH-4936439",
    "baslik": "Deutsche flags 2 solar stocks as Catalyst Call Sell Ideas",
    "kaynak": "Investing.com",
@@ -1955,29 +1975,19 @@
    "tarih_iso": "2026-10-07T08:33:43+03:00",
    "kodlar": [],
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-009-4935611",
-   "baslik": "Australia stocks lower at close of trade; S&P/ASX 200 down 0.09%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/australia-stocks-lower-at-close-of-trade-spasx-200-down-009-4935611",
-   "saat": "08:30",
-   "tarih_iso": "2026-10-07T08:30:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T09:01:11.513507+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
-   "baslik": "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
-   "saat": "08:29",
-   "tarih_iso": "2026-10-07T08:29:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.mining.com/dutch-central-bank-transfers-86-tonnes-of-gold-closer-to-home/",
+   "baslik": "Dutch central bank transfers 86 tonnes of gold closer to home",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/dutch-central-bank-transfers-86-tonnes-of-gold-closer-to-home/",
+   "saat": "19:55",
+   "tarih_iso": "2026-10-07T19:55:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-07T20:02:16.614010+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-loses-key-support-as-the-hormuz-risk-premium-starts-to-fray-200689124",
    "baslik": "Gold Loses Key Support as the Hormuz Risk Premium Starts to Fray",
@@ -2239,5 +2249,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-07T19:30:59.138806+03:00"
+ "guncelleme": "2026-10-07T20:02:16.614010+03:00"
 }
