@@ -69,6 +69,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/koc-toplulugundan-a-milli-kadin-voleybol-takimina-destek-3918066",
+   "baslik": "Koç'tan A Milli Kadın Voleybol Takımı’na destek",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/koc-toplulugundan-a-milli-kadin-voleybol-takimina-destek-3918066",
+   "saat": "10:06",
+   "tarih_iso": "2026-10-08T10:06:27+03:00",
+   "kodlar": [
+    "KCHOL"
+   ],
+   "eklenme": "2026-10-08T10:30:59.779986+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/kultur-sanat/halkbanktan-ebru-sanatcilarina-yarisma-basvurular-basladi-son-tarih-1-aralik-haberi-843077",
    "baslik": "Halkbank'tan ebru sanatçılarına yarışma: Başvurular başladı, son tarih 1 Aralık",
    "kaynak": "Dünya",
@@ -94,6 +106,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/borsa/borsa-istanbul-sert-dususun-ardindan-gune-yukselisle-basladi-haberi-843081",
+   "baslik": "Borsa İstanbul sert düşüşün ardından güne yükselişle başladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/borsa/borsa-istanbul-sert-dususun-ardindan-gune-yukselisle-basladi-haberi-843081",
+   "saat": "10:02",
+   "tarih_iso": "2026-10-08T10:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T10:30:59.779986+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/forvia-energycore-cozumleri-icin-500-milyon-euro-siparis-ald-93CH-4094852",
    "baslik": "Forvia, EnergyCore çözümleri için 500 milyon euro sipariş aldı",
@@ -216,6 +238,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tesco-stock-climbing-today-93CH-4937993",
+   "baslik": "Why is Tesco stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tesco-stock-climbing-today-93CH-4937993",
+   "saat": "10:15",
+   "tarih_iso": "2026-10-08T10:15:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T10:30:59.779986+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-bavarian-nordic-stock-surging-today-93CH-4937991",
+   "baslik": "Why is Bavarian Nordic stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-bavarian-nordic-stock-surging-today-93CH-4937991",
+   "saat": "10:14",
+   "tarih_iso": "2026-10-08T10:14:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T10:30:59.779986+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citi-reiterates-these-2-medtech-stocks-as-its-top-picks-in-the-sector-4937987",
+   "baslik": "Citi reiterates these 2 medtech stocks as its top picks in the sector",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citi-reiterates-these-2-medtech-stocks-as-its-top-picks-in-the-sector-4937987",
+   "saat": "10:10",
+   "tarih_iso": "2026-10-08T10:10:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T10:30:59.779986+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-retreats-from-records-yields-climb-4937789",
+   "baslik": "U.S. stock futures fall after Wall St pullback as bond yields, oil surge",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-wall-st-retreats-from-records-yields-climb-4937789",
+   "saat": "10:01",
+   "tarih_iso": "2026-10-08T10:01:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T10:30:59.779986+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-113-4937978",
+   "baslik": "Japan stocks lower at close of trade; Nikkei 225 down 1.13%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japan-stocks-lower-at-close-of-trade-nikkei-225-down-113-4937978",
+   "saat": "10:00",
+   "tarih_iso": "2026-10-08T10:00:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T10:30:59.779986+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/uniqlo-operator-fast-retailing-posts-32-rise-in-fullyear-profit-4937970",
    "baslik": "Uniqlo operator Fast Retailing posts 32% rise in profit, beats forecasts",
@@ -589,6 +661,16 @@
    "eklenme": "2026-10-08T09:31:01.160112+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-vc-pmi-outlook-41964250-resistance-in-focus-200689150",
+   "baslik": "Gold VC PMI Outlook: $4,196–$4,250 Resistance in Focus",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-vc-pmi-outlook-41964250-resistance-in-focus-200689150",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-08T10:30:59.779986+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-losing-its-relationship-with-macroeconomics-and-becoming-a-speculative-asset-200689159",
    "baslik": "Gold Losing Its Relationship With Macroeconomics and Becoming a Speculative Asset",
    "kaynak": "Investing Emtia",
@@ -597,6 +679,16 @@
    "tarih_iso": "",
    "kodlar": [],
    "eklenme": "2026-10-08T10:01:14.508166+03:00"
+  },
+  {
+   "id": "alt-https://www.bloomberght.com/guncel-altin-fiyatlari-8-ekim-2026-persembe-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3790758",
+   "baslik": "Güncel altın fiyatları: 8 Ekim 2026 Perşembe gram ve çeyrek altın ne kadar oldu?",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/guncel-altin-fiyatlari-8-ekim-2026-persembe-gram-ve-ceyrek-altin-ne-kadar-oldu-pkh1-3790758",
+   "saat": "10:00",
+   "tarih_iso": "2026-10-08T10:00:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T10:30:59.779986+03:00"
   },
   {
    "id": "alt-https://www.investing.com/analysis/gold-selloff-deepens-as-10year-yield-climbs-to-5345-200689135",
@@ -729,5 +821,5 @@
    "eklenme": "2026-10-08T09:01:16.577423+03:00"
   }
  ],
- "guncelleme": "2026-10-08T10:01:14.508166+03:00"
+ "guncelleme": "2026-10-08T10:30:59.779986+03:00"
 }
