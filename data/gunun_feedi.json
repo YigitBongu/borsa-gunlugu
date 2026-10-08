@@ -95,6 +95,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-08-ekim-2026/4082369",
+   "baslik": "60 saniyede ekonomide bugün (08 Ekim 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-08-ekim-2026/4082369",
+   "saat": "16:08",
+   "tarih_iso": "2026-10-08T16:08:08+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-10-08T17:01:18.727211+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/migros-et-irki-damizlik-hayvan-ciftligini-hizmete-acti-3918212",
    "baslik": "Migros \"Et Irkı Damızlık Hayvan Çiftliği\"ni hizmete açtı",
    "kaynak": "Habertürk Ekonomi",
@@ -485,6 +497,56 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-iren-stock-sliding-today-93CH-4939257",
+   "baslik": "Why is IREN stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-iren-stock-sliding-today-93CH-4939257",
+   "saat": "16:45",
+   "tarih_iso": "2026-10-08T16:45:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T17:01:18.727211+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-arm-holdings-stock-sliding-today-93CH-4939255",
+   "baslik": "Why is Arm Holdings stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-arm-holdings-stock-sliding-today-93CH-4939255",
+   "saat": "16:42",
+   "tarih_iso": "2026-10-08T16:42:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T17:01:18.727211+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/top-4-healthcare-stocks-backed-by-raymond-james-analysts-4939251",
+   "baslik": "Top 4 Healthcare Stocks Backed by Raymond James Analysts",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/top-4-healthcare-stocks-backed-by-raymond-james-analysts-4939251",
+   "saat": "16:39",
+   "tarih_iso": "2026-10-08T16:39:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T17:01:18.727211+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-opens-lower-as-oil-jump-high-yields-fuel-inflation-concerns-4939240",
+   "baslik": "Wall St opens lower as oil jump, high yields fuel inflation concerns",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-lower-as-oil-jump-high-yields-fuel-inflation-concerns-4939240",
+   "saat": "16:36",
+   "tarih_iso": "2026-10-08T16:36:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T17:01:18.727211+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/08/options-traders-start-calling-bottom-on-bond-rout-after-bullet-bid-10-year-auction.html",
+   "baslik": "Options traders start calling bottom on bond rout after 'bullet bid' 10-year auction",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/08/options-traders-start-calling-bottom-on-bond-rout-after-bullet-bid-10-year-auction.html",
+   "saat": "16:29",
+   "tarih_iso": "2026-10-08T16:29:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T17:01:18.727211+03:00"
+  },
+  {
    "id": "yab-https://www.investing.com/news/stock-market-news/vtv-therapeutics-stock-jumps-on-fda-orphan-drug-status-4939141",
    "baslik": "vTv Therapeutics stock jumps on FDA orphan drug status",
    "kaynak": "Investing.com",
@@ -563,6 +625,16 @@
    "tarih_iso": "2026-10-08T15:22:55+03:00",
    "kodlar": [],
    "eklenme": "2026-10-08T15:41:43.513562+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+   "baslik": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+   "saat": "15:19",
+   "tarih_iso": "2026-10-08T15:19:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T17:01:18.727211+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/nxp-semiconductors-falls-as-citi-cuts-stock-on-limited-data-center-exposure-4938862",
@@ -1617,6 +1689,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-6-milyon-525-bin-liraya-cikti-haberi-843154",
+   "baslik": "Altının kilogram fiyatı 6 milyon 525 bin liraya çıktı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/altinin-kilogram-fiyati-6-milyon-525-bin-liraya-cikti-haberi-843154",
+   "saat": "16:48",
+   "tarih_iso": "2026-10-08T16:48:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T17:01:18.727211+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-remains-near-recent-lows-as-energydriven-inflation-raises-fed-rate-hike-bets-200689191",
    "baslik": "Gold Remains Near Recent Lows as Energy-Driven Inflation Raises Fed Rate Hike Bets",
    "kaynak": "Investing Emtia",
@@ -1807,5 +1889,5 @@
    "eklenme": "2026-10-08T09:01:16.577423+03:00"
   }
  ],
- "guncelleme": "2026-10-08T16:31:07.808065+03:00"
+ "guncelleme": "2026-10-08T17:01:18.727211+03:00"
 }
