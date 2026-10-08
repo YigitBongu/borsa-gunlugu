@@ -69,6 +69,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/aselsandan-125-milyon-dolarlik-satis-sozlesmesi/4081837",
+   "baslik": "ASELSAN'dan 125 milyon dolarlık satış sözleşmesi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/aselsandan-125-milyon-dolarlik-satis-sozlesmesi/4081837",
+   "saat": "11:03",
+   "tarih_iso": "2026-10-08T11:03:42+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-10-08T11:31:11.429062+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/koc-toplulugundan-a-milli-kadin-voleybol-takimina-destek-3918066",
    "baslik": "Koç'tan A Milli Kadın Voleybol Takımı’na destek",
    "kaynak": "Habertürk Ekonomi",
@@ -248,6 +260,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-levi-strauss-stock-sliding-today-93CH-4938117",
+   "baslik": "Why is Levi Strauss stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-levi-strauss-stock-sliding-today-93CH-4938117",
+   "saat": "11:25",
+   "tarih_iso": "2026-10-08T11:25:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T11:31:11.429062+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-wise-stock-sliding-today-93CH-4938097",
+   "baslik": "Why is Wise stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-wise-stock-sliding-today-93CH-4938097",
+   "saat": "11:20",
+   "tarih_iso": "2026-10-08T11:20:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T11:31:11.429062+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-resources-connection-stock-sliding-today-93CH-4938096",
+   "baslik": "Why is Resources Connection stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-resources-connection-stock-sliding-today-93CH-4938096",
+   "saat": "11:20",
+   "tarih_iso": "2026-10-08T11:20:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T11:31:11.429062+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-itm-power-stock-rallying-today-93CH-4938092",
+   "baslik": "Why is ITM Power stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-itm-power-stock-rallying-today-93CH-4938092",
+   "saat": "11:18",
+   "tarih_iso": "2026-10-08T11:18:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T11:31:11.429062+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-wolfspeed-stock-surging-today-93CH-4938088",
+   "baslik": "Why is Wolfspeed stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-wolfspeed-stock-surging-today-93CH-4938088",
+   "saat": "11:16",
+   "tarih_iso": "2026-10-08T11:16:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T11:31:11.429062+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-next-15-stock-sliding-today-93CH-4938083",
+   "baslik": "Why is Next 15 stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-next-15-stock-sliding-today-93CH-4938083",
+   "saat": "11:12",
+   "tarih_iso": "2026-10-08T11:12:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T11:31:11.429062+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/man-group-shares-rise-as-citi-upgrades-stock-to-buy-citing-earnings-upside-ahead-4938079",
+   "baslik": "Man Group shares rise as Citi upgrades stock to buy, citing earnings upside ahead",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/man-group-shares-rise-as-citi-upgrades-stock-to-buy-citing-earnings-upside-ahead-4938079",
+   "saat": "11:08",
+   "tarih_iso": "2026-10-08T11:08:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T11:31:11.429062+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-argenx-stock-plunging-today-93CH-4938025",
    "baslik": "Why is argenx stock plunging today?",
@@ -911,5 +993,5 @@
    "eklenme": "2026-10-08T09:01:16.577423+03:00"
   }
  ],
- "guncelleme": "2026-10-08T11:01:14.550906+03:00"
+ "guncelleme": "2026-10-08T11:31:11.429062+03:00"
 }
