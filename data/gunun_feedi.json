@@ -450,6 +450,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/spacex-40-milyar-dolar-finansman-ariyor-yapay-zekada-borc-riski-haberi-843056",
+   "baslik": "SpaceX 40 milyar dolar finansman arıyor: Yapay zekâda borç riski",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/spacex-40-milyar-dolar-finansman-ariyor-yapay-zekada-borc-riski-haberi-843056",
+   "saat": "07:35",
+   "tarih_iso": "2026-10-08T07:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T08:01:21.903768+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/finans/dolar/dolar-kac-tl-oldu-euro-ne-kadar-8-ekim-persembe-doviz-kurlari-haberi-843053",
    "baslik": "Dolar kaç TL oldu, Euro ne kadar? (8 Ekim Perşembe Döviz Kurları)",
    "kaynak": "Dünya",
@@ -921,6 +931,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nvidiabacked-firmus-closes-ipo-bookbuilding-as-investor-support-falter-bloomberg-4937873",
+   "baslik": "Nvidia-backed Firmus closes IPO bookbuilding as investor support falter -Bloomberg",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nvidiabacked-firmus-closes-ipo-bookbuilding-as-investor-support-falter-bloomberg-4937873",
+   "saat": "07:42",
+   "tarih_iso": "2026-10-08T07:42:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T08:01:21.903768+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1",
+   "baslik": "EU’s top trade envoy in China for tense talks over cars",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/e1823a4a-7a0d-4550-aa00-d685bc642c98?syn-25a6b1a6=1",
+   "saat": "07:37",
+   "tarih_iso": "2026-10-08T07:37:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T08:01:21.903768+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cig-shanghai-stock-sliding-today-93CH-4937870",
+   "baslik": "Why is CIG ShangHai stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cig-shanghai-stock-sliding-today-93CH-4937870",
+   "saat": "07:29",
+   "tarih_iso": "2026-10-08T07:29:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T08:01:21.903768+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-fall-as-surging-oil-yields-weigh-samsung-slips-despite-record-profit-4937861",
    "baslik": "Asia stocks fall as surging oil, yields weigh; Samsung slips despite record profit",
@@ -2090,36 +2130,6 @@
    "tarih_iso": "2026-10-07T16:42:39+03:00",
    "kodlar": [],
    "eklenme": "2026-10-07T17:01:14.612218+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/coffee-holding-stock-jumps-on-25m-buyback-program-4936851",
-   "baslik": "Coffee Holding stock jumps on $2.5M buyback program",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/coffee-holding-stock-jumps-on-25m-buyback-program-4936851",
-   "saat": "16:34",
-   "tarih_iso": "2026-10-07T16:34:02+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T17:01:14.612218+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sk-hynix-adr-stock-sliding-today-93CH-4936822",
-   "baslik": "Why is SK hynix ADR stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-sk-hynix-adr-stock-sliding-today-93CH-4936822",
-   "saat": "16:28",
-   "tarih_iso": "2026-10-07T16:28:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T17:01:14.612218+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/07/french-student-protests-budget-deadlock.html",
-   "baslik": "France is caught between angry students and unforgiving bond markets",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/07/french-student-protests-budget-deadlock.html",
-   "saat": "16:23",
-   "tarih_iso": "2026-10-07T16:23:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T17:01:14.612218+03:00"
   }
  ],
  "altin_haber": [
@@ -2484,5 +2494,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-08T07:31:03.760324+03:00"
+ "guncelleme": "2026-10-08T08:01:21.903768+03:00"
 }
