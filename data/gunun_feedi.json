@@ -450,6 +450,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/universal-quantum-bilgisayar-gelistirmek-icin-100-milyon-dolar-toplad-93CH-4094776",
+   "baslik": "Universal Quantum bilgisayar geliştirmek için 100 milyon dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/universal-quantum-bilgisayar-gelistirmek-icin-100-milyon-dolar-toplad-93CH-4094776",
+   "saat": "08:26",
+   "tarih_iso": "2026-10-08T08:26:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T08:31:02.766918+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/spacex-40-milyar-dolar-finansman-ariyor-yapay-zekada-borc-riski-haberi-843056",
    "baslik": "SpaceX 40 milyar dolar finansman arıyor: Yapay zekâda borç riski",
    "kaynak": "Dünya",
@@ -931,6 +941,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-shanghai-biren-technology-stock-sliding-today-93CH-4937886",
+   "baslik": "Why is Shanghai Biren Technology stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-shanghai-biren-technology-stock-sliding-today-93CH-4937886",
+   "saat": "07:59",
+   "tarih_iso": "2026-10-08T07:59:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T08:31:02.766918+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-falling-today-93CH-4937885",
+   "baslik": "Why is Samsung Electronics stock falling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-samsung-electronics-stock-falling-today-93CH-4937885",
+   "saat": "07:56",
+   "tarih_iso": "2026-10-08T07:56:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T08:31:02.766918+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/nvidiabacked-firmus-closes-ipo-bookbuilding-as-investor-support-falter-bloomberg-4937873",
    "baslik": "Nvidia-backed Firmus closes IPO bookbuilding as investor support falter -Bloomberg",
@@ -2110,26 +2140,6 @@
    "tarih_iso": "2026-10-07T16:58:40+03:00",
    "kodlar": [],
    "eklenme": "2026-10-07T17:30:59.523257+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/this-part-of-the-bond-market-offers-compelling-yields-with-minimal-risk-1e7ef2ed?mod=mw_rss_topstories",
-   "baslik": "This part of the bond market offers compelling yields with minimal risk",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/this-part-of-the-bond-market-offers-compelling-yields-with-minimal-risk-1e7ef2ed?mod=mw_rss_topstories",
-   "saat": "16:53",
-   "tarih_iso": "2026-10-07T16:53:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T17:01:14.612218+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-opens-lower-as-bond-yields-and-oil-rebound-fed-minutes-in-focus-4936856",
-   "baslik": "Wall St opens lower as bond yields and oil rebound; Fed minutes in focus",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/wall-st-opens-lower-as-bond-yields-and-oil-rebound-fed-minutes-in-focus-4936856",
-   "saat": "16:42",
-   "tarih_iso": "2026-10-07T16:42:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-07T17:01:14.612218+03:00"
   }
  ],
  "altin_haber": [
@@ -2494,5 +2504,5 @@
    "eklenme": "2026-10-07T09:01:11.513507+03:00"
   }
  ],
- "guncelleme": "2026-10-08T08:01:21.903768+03:00"
+ "guncelleme": "2026-10-08T08:31:02.766918+03:00"
 }
