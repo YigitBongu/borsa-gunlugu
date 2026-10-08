@@ -229,6 +229,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/american-expresse-kara-para-aklama-ihlalleri-nedeniyle-350-milyon-dolar-ceza-4096465",
+   "baslik": "American Express’e kara para aklama ihlalleri nedeniyle 350 milyon dolar ceza",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/american-expresse-kara-para-aklama-ihlalleri-nedeniyle-350-milyon-dolar-ceza-4096465",
+   "saat": "00:07",
+   "tarih_iso": "2026-10-09T00:07:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T00:25:03.106094+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/kanada-tahvil-faizleri-yukseldi-yatrmclar-faiz-gorunumunu-degerlendiriyor-4096329",
    "baslik": "Kanada tahvil faizleri yükseldi, yatırımcılar faiz görünümünü değerlendiriyor",
    "kaynak": "Investing TR",
@@ -570,6 +580,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/kopin-stock-jumps-on-186m-army-display-contract-win-4939825",
+   "baslik": "Kopin stock jumps on $18.6M Army display contract win",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/kopin-stock-jumps-on-186m-army-display-contract-win-4939825",
+   "saat": "23:57",
+   "tarih_iso": "2026-10-08T23:57:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T00:25:03.106094+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/calix-stock-jumps-5-on-100m-buyback-program-expansion-4939795",
    "baslik": "Calix stock jumps 5% on $100M buyback program expansion",
@@ -1759,16 +1779,6 @@
    "tarih_iso": "2026-10-08T12:29:39+03:00",
    "kodlar": [],
    "eklenme": "2026-10-08T13:01:09.361860+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-   "baslik": "After a yearslong slump, China's real estate market may be set for a turnaround",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-   "saat": "12:27",
-   "tarih_iso": "2026-10-08T12:27:31+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T12:31:38.028338+03:00"
   }
  ],
  "altin_haber": [
@@ -2013,5 +2023,5 @@
    "eklenme": "2026-10-08T09:01:16.577423+03:00"
   }
  ],
- "guncelleme": "2026-10-09T00:01:08.036696+03:00"
+ "guncelleme": "2026-10-09T00:25:03.106094+03:00"
 }
