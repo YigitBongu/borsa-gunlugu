@@ -2,6 +2,19 @@
  "tarih": "2026-10-08",
  "kap": [
   {
+   "id": "kap-my-AKFGY-202610081427",
+   "baslik": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — İlişkili Taraf İşlemleri",
+   "sirket": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+   "kodlar": [
+    "AKFGY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:27",
+   "tarih_iso": "2026-10-08T14:27:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-08T15:01:09.217706+03:00"
+  },
+  {
    "id": "kap-my-SISE-202610081307",
    "baslik": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.",
@@ -167,6 +180,36 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/ingiltere-merkez-bankasindan-enflasyon-uyarisi-faiz-baskisi-suruyor-haberi-843133",
+   "baslik": "İngiltere Merkez Bankası'ndan enflasyon uyarısı: Faiz baskısı sürüyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/ingiltere-merkez-bankasindan-enflasyon-uyarisi-faiz-baskisi-suruyor-haberi-843133",
+   "saat": "14:59",
+   "tarih_iso": "2026-10-08T14:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T15:01:09.217706+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/tcmb-nin-brut-rezervleri-2-ayin-en-dusuk-seviyesinde-3790821",
+   "baslik": "TCMB'nin brüt rezervleri 2 ayın en düşük seviyesinde",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/tcmb-nin-brut-rezervleri-2-ayin-en-dusuk-seviyesinde-3790821",
+   "saat": "14:44",
+   "tarih_iso": "2026-10-08T14:44:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T15:01:09.217706+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/tcmb-acikladi-rezervler-yaklasik-4-milyar-dolar-azaldi-haberi-843129",
+   "baslik": "TCMB açıkladı: Rezervler yaklaşık 4 milyar dolar azaldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/tcmb-acikladi-rezervler-yaklasik-4-milyar-dolar-azaldi-haberi-843129",
+   "saat": "14:37",
+   "tarih_iso": "2026-10-08T14:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T15:01:09.217706+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/haberler/yabancinin-fon-portfoyu-bir-ayda-61-milyar-dolar-eridi-haberi-843125",
    "baslik": "Yabancının fon portföyü bir ayda 6,1 milyar dolar eridi",
@@ -409,6 +452,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sunrun-stock-sliding-today-93CH-4938673",
+   "baslik": "Why is Sunrun stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sunrun-stock-sliding-today-93CH-4938673",
+   "saat": "14:45",
+   "tarih_iso": "2026-10-08T14:45:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T15:01:09.217706+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/susquehanna-sees-cautious-semiconductor-stock-options-activity-93CH-4938655",
+   "baslik": "Susquehanna sees cautious semiconductor stock options activity",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/susquehanna-sees-cautious-semiconductor-stock-options-activity-93CH-4938655",
+   "saat": "14:38",
+   "tarih_iso": "2026-10-08T14:38:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T15:01:09.217706+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/samsung-q3-profit-jumps-nearly-ninefold-as-ai-memory-boom-lifts-chip-earnings-4937684",
+   "baslik": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/samsung-q3-profit-jumps-nearly-ninefold-as-ai-memory-boom-lifts-chip-earnings-4937684",
+   "saat": "14:36",
+   "tarih_iso": "2026-10-08T14:36:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T15:01:09.217706+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jpmorgan-warns-rising-30year-yields-threaten-smidcap-returns-4938640",
+   "baslik": "JPMorgan warns rising 30-year yields threaten SMid-cap returns",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jpmorgan-warns-rising-30year-yields-threaten-smidcap-returns-4938640",
+   "saat": "14:35",
+   "tarih_iso": "2026-10-08T14:35:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T15:01:09.217706+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/best-us-networking-stocks-to-own-into-q3-earnings-db-93CH-4938618",
+   "baslik": "Best U.S. networking stocks to own into Q3 earnings: DB",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/best-us-networking-stocks-to-own-into-q3-earnings-db-93CH-4938618",
+   "saat": "14:35",
+   "tarih_iso": "2026-10-08T14:35:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T15:01:09.217706+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/08/why-reits-arent-getting-killed-by-rising-interest-rates-this-time.html",
    "baslik": "Why REITs aren't getting killed by rising interest rates this time around",
@@ -1492,5 +1585,5 @@
    "eklenme": "2026-10-08T09:01:16.577423+03:00"
   }
  ],
- "guncelleme": "2026-10-08T14:30:59.658100+03:00"
+ "guncelleme": "2026-10-08T15:01:09.217706+03:00"
 }
