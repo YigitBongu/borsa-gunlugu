@@ -82,6 +82,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.bloomberght.com/halkbank-genel-muduru-nden-ikincil-halka-arz-aciklamasi-3790807",
+   "baslik": "Halkbank Genel Müdürü'nden ikincil halka arz açıklaması",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/halkbank-genel-muduru-nden-ikincil-halka-arz-aciklamasi-3790807",
+   "saat": "13:57",
+   "tarih_iso": "2026-10-08T13:57:35+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-10-08T14:30:59.658100+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/fedden-istanbulda-yeni-faiz-artisi-sinyali-haberi-843113",
    "baslik": "Fed'den İstanbul'da yeni faiz artışı sinyali",
    "kaynak": "Dünya",
@@ -155,6 +167,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/yabancinin-fon-portfoyu-bir-ayda-61-milyar-dolar-eridi-haberi-843125",
+   "baslik": "Yabancının fon portföyü bir ayda 6,1 milyar dolar eridi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/yabancinin-fon-portfoyu-bir-ayda-61-milyar-dolar-eridi-haberi-843125",
+   "saat": "14:18",
+   "tarih_iso": "2026-10-08T14:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T14:30:59.658100+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/fed-yonetim-kurulu-uyesi-wallerdan-istanbul-ekonomi-forumunda-ilave-faiz-artisi-sinyali/4082078",
    "baslik": "Fed Yönetim Kurulu Üyesi Waller'dan İstanbul Ekonomi Forumu'nda ilave faiz artışı sinyali",
@@ -387,6 +409,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/08/why-reits-arent-getting-killed-by-rising-interest-rates-this-time.html",
+   "baslik": "Why REITs aren't getting killed by rising interest rates this time around",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/08/why-reits-arent-getting-killed-by-rising-interest-rates-this-time.html",
+   "saat": "14:28",
+   "tarih_iso": "2026-10-08T14:28:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T14:30:59.658100+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1",
+   "baslik": "Oil prices jump on tanker attack and slowing flows through Strait of Hormuz",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1",
+   "saat": "14:20",
+   "tarih_iso": "2026-10-08T14:20:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T14:30:59.658100+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/uk-10year-borrowing-costs-rise-to-19year-high-after-oil-prices-jump-4938526",
+   "baslik": "UK 10-year borrowing costs rise to 19-year high after oil prices jump",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/uk-10year-borrowing-costs-rise-to-19year-high-after-oil-prices-jump-4938526",
+   "saat": "14:06",
+   "tarih_iso": "2026-10-08T14:06:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T14:30:59.658100+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-upgrades-royal-caribbean-on-stronger-yield-growth-outlook-4938525",
+   "baslik": "Jefferies upgrades Royal Caribbean on stronger yield growth outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jefferies-upgrades-royal-caribbean-on-stronger-yield-growth-outlook-4938525",
+   "saat": "14:05",
+   "tarih_iso": "2026-10-08T14:05:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T14:30:59.658100+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/paypal-underperformance-continues-should-investors-load-up-93CH-4938514",
+   "baslik": "PayPal underperformance continues: Should investors load up?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/paypal-underperformance-continues-should-investors-load-up-93CH-4938514",
+   "saat": "14:04",
+   "tarih_iso": "2026-10-08T14:04:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-08T14:30:59.658100+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/wall-st-futures-slide-as-rising-oil-yields-dampen-mood-4938454",
    "baslik": "Wall St futures slide as rising oil, yields dampen mood",
@@ -1420,5 +1492,5 @@
    "eklenme": "2026-10-08T09:01:16.577423+03:00"
   }
  ],
- "guncelleme": "2026-10-08T14:01:17.129799+03:00"
+ "guncelleme": "2026-10-08T14:30:59.658100+03:00"
 }
