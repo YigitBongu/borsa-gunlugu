@@ -229,6 +229,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/kanada-tahvil-faizleri-yukseldi-yatrmclar-faiz-gorunumunu-degerlendiriyor-4096329",
+   "baslik": "Kanada tahvil faizleri yükseldi, yatırımcılar faiz görünümünü değerlendiriyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/kanada-tahvil-faizleri-yukseldi-yatrmclar-faiz-gorunumunu-degerlendiriyor-4096329",
+   "saat": "22:24",
+   "tarih_iso": "2026-10-08T22:24:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T00:01:08.036696+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-843164",
+   "baslik": "Borsa İstanbul günü yükselişle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-843164",
+   "saat": "18:34",
+   "tarih_iso": "2026-10-08T18:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T00:01:08.036696+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/ecbden-enerji-soku-uyarisi-enflasyon-riski-suruyor-haberi-843158",
    "baslik": "ECB'den enerji şoku uyarısı: Enflasyon riski sürüyor",
    "kaynak": "Dünya",
@@ -550,6 +570,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/calix-stock-jumps-5-on-100m-buyback-program-expansion-4939795",
+   "baslik": "Calix stock jumps 5% on $100M buyback program expansion",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/calix-stock-jumps-5-on-100m-buyback-program-expansion-4939795",
+   "saat": "23:36",
+   "tarih_iso": "2026-10-08T23:36:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T00:01:08.036696+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/telecom-stocks-tumble-on-spacex-spectrum-acquisition-news-4939776",
+   "baslik": "Telecom stocks tumble on SpaceX spectrum acquisition news",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/telecom-stocks-tumble-on-spacex-spectrum-acquisition-news-4939776",
+   "saat": "23:33",
+   "tarih_iso": "2026-10-08T23:33:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T00:01:08.036696+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+   "baslik": "Should I put my nest egg in a 30-year Treasury bond?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+   "saat": "23:32",
+   "tarih_iso": "2026-10-08T23:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T00:01:08.036696+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-4939788",
+   "baslik": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.10%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-4939788",
+   "saat": "23:31",
+   "tarih_iso": "2026-10-08T23:31:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T00:01:08.036696+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-030-4939787",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.30%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-030-4939787",
+   "saat": "23:30",
+   "tarih_iso": "2026-10-08T23:30:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T00:01:08.036696+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-094-4939777",
+   "baslik": "Brazil stocks higher at close of trade; Bovespa up 0.94%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-094-4939777",
+   "saat": "23:30",
+   "tarih_iso": "2026-10-08T23:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T00:01:08.036696+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
    "baslik": "With mortgage rates soaring above 7.5%, the smart money rents in America",
@@ -1689,66 +1769,6 @@
    "tarih_iso": "2026-10-08T12:27:31+03:00",
    "kodlar": [],
    "eklenme": "2026-10-08T12:31:38.028338+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/citi-sees-balanced-battery-market-downcycle-with-selective-picks-93CH-4938262",
-   "baslik": "Citi sees balanced battery market downcycle with selective picks",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/citi-sees-balanced-battery-market-downcycle-with-selective-picks-93CH-4938262",
-   "saat": "12:25",
-   "tarih_iso": "2026-10-08T12:25:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T12:31:38.028338+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/truist-sees-marine-industry-challenges-at-boat-trade-show-93CH-4938253",
-   "baslik": "Truist sees marine industry challenges at boat trade show",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/truist-sees-marine-industry-challenges-at-boat-trade-show-93CH-4938253",
-   "saat": "12:18",
-   "tarih_iso": "2026-10-08T12:18:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T12:31:38.028338+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-xerox-stock-dropping-2-today-93CH-4938243",
-   "baslik": "Why is Xerox stock dropping 2% today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-xerox-stock-dropping-2-today-93CH-4938243",
-   "saat": "12:15",
-   "tarih_iso": "2026-10-08T12:15:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T12:31:38.028338+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-jumping-up-2-today-93CH-4938242",
-   "baslik": "Why is Palantir Technologies stock jumping up 2% today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-palantir-technologies-stock-jumping-up-2-today-93CH-4938242",
-   "saat": "12:14",
-   "tarih_iso": "2026-10-08T12:14:05+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T12:31:38.028338+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/sonova-shares-hit-16month-high-after-goldman-sachs-upgrades-stock-to-buy-4938219",
-   "baslik": "Sonova shares hit 16-month high after Goldman Sachs upgrades stock to buy",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/sonova-shares-hit-16month-high-after-goldman-sachs-upgrades-stock-to-buy-4938219",
-   "saat": "12:08",
-   "tarih_iso": "2026-10-08T12:08:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T12:31:38.028338+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nxp-semiconductors-stock-sliding-25-today-93CH-4938172",
-   "baslik": "Why is NXP Semiconductors stock sliding 2.5% today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-nxp-semiconductors-stock-sliding-25-today-93CH-4938172",
-   "saat": "11:43",
-   "tarih_iso": "2026-10-08T11:43:58+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T12:01:17.832381+03:00"
   }
  ],
  "altin_haber": [
@@ -1993,5 +2013,5 @@
    "eklenme": "2026-10-08T09:01:16.577423+03:00"
   }
  ],
- "guncelleme": "2026-10-08T23:30:56.935037+03:00"
+ "guncelleme": "2026-10-09T00:01:08.036696+03:00"
 }
