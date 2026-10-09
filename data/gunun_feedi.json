@@ -2,6 +2,32 @@
  "tarih": "2026-10-09",
  "kap": [
   {
+   "id": "kap-my-GLYHO-202610090931",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GLYHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:31",
+   "tarih_iso": "2026-10-09T09:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-09T10:01:10.217027+03:00"
+  },
+  {
+   "id": "kap-my-KRDMD-202610090912",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:12",
+   "tarih_iso": "2026-10-09T09:12:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-09T10:01:10.217027+03:00"
+  },
+  {
    "id": "kap-my-TKFEN-202610090901",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -30,6 +56,16 @@
  ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-9-ekim-2026-doviz-fiyatlari-pkh2-3790911",
+   "baslik": "Dolar ve Euro kuru bugün ne kadar oldu? 9 Ekim 2026 döviz fiyatları…",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-9-ekim-2026-doviz-fiyatlari-pkh2-3790911",
+   "saat": "09:30",
+   "tarih_iso": "2026-10-09T09:30:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T10:01:10.217027+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/borsa-istanbulda-yabancilardan-ust-uste-hamle-milyarlarca-dolarlik-giris-haberi-843215",
    "baslik": "Borsa İstanbul'da yabancılardan üst üste hamle: Milyarlarca dolarlık giriş",
@@ -112,6 +148,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-stocks-mixed-chipmakers-slide-on-openai-revenue-concerns-4940150",
+   "baslik": "Asia stocks turn higher, tech recovers as OpenAI revenue fears ease",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-stocks-mixed-chipmakers-slide-on-openai-revenue-concerns-4940150",
+   "saat": "09:48",
+   "tarih_iso": "2026-10-09T09:48:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T10:01:10.217027+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/dcc-energy-to-sell-nexora-unit-for-725-mln-4940277",
+   "baslik": "DCC Energy to sell Nexora unit for $725 mln",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/dcc-energy-to-sell-nexora-unit-for-725-mln-4940277",
+   "saat": "09:36",
+   "tarih_iso": "2026-10-09T09:36:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T10:01:10.217027+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/ssp-on-track-for-fy26-earnings-despite-middle-east-conflict-50-mln-buyback-4940270",
    "baslik": "SSP on track for FY26 earnings despite Middle East conflict, £50 mln buyback",
@@ -455,6 +511,16 @@
    "eklenme": "2026-10-09T09:01:10.147938+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-bulls-watch-4271-as-weekly-resistance-comes-into-focus-200689233",
+   "baslik": "Gold Bulls Watch $4,271 as Weekly Resistance Comes Into Focus",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-bulls-watch-4271-as-weekly-resistance-comes-into-focus-200689233",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-09T10:01:10.217027+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-holds-4100-as-central-bank-buying-offsets-rate-pressure-200689220",
    "baslik": "Gold Holds $4,100 as Central Bank Buying Offsets Rate Pressure",
    "kaynak": "Investing Emtia",
@@ -525,5 +591,5 @@
    "eklenme": "2026-10-09T09:01:10.147938+03:00"
   }
  ],
- "guncelleme": "2026-10-09T09:31:00.855917+03:00"
+ "guncelleme": "2026-10-09T10:01:10.217027+03:00"
 }
