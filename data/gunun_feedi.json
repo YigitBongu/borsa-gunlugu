@@ -2,6 +2,19 @@
  "tarih": "2026-10-09",
  "kap": [
   {
+   "id": "kap-my-SAHOL-202610091340",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:40",
+   "tarih_iso": "2026-10-09T13:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-09T14:31:01.250637+03:00"
+  },
+  {
    "id": "kap-my-EGEEN-202610091318",
    "baslik": "EGE ENDÜSTRİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
@@ -222,6 +235,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/is-dunyasi/softbank-100-milyar-dolar-icin-korfezin-kapisini-caldi-haberi-843260",
+   "baslik": "SoftBank 100 milyar dolar için Körfez’in kapısını çaldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/is-dunyasi/softbank-100-milyar-dolar-icin-korfezin-kapisini-caldi-haberi-843260",
+   "saat": "14:11",
+   "tarih_iso": "2026-10-09T14:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T14:31:01.250637+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/nakit-yan-cizgiden-ckmak-icin-surekli-fed-indirimleri-gerekiyor-4097042",
    "baslik": "Nakit yan çizgiden çıkmak için sürekli Fed indirimleri gerekiyor",
    "kaynak": "Investing TR",
@@ -383,6 +406,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-inch-up-amid-upcoming-employment-data-easing-oil-prices-4940814",
+   "baslik": "TSX futures inch up amid upcoming employment data, easing oil prices",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-inch-up-amid-upcoming-employment-data-easing-oil-prices-4940814",
+   "saat": "14:10",
+   "tarih_iso": "2026-10-09T14:10:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T14:31:01.250637+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
+   "baslik": "Aging bull: Why the four-year old stock-market rally can still pack a punch",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
+   "saat": "14:02",
+   "tarih_iso": "2026-10-09T14:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T14:31:01.250637+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
+   "baslik": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
+   "saat": "14:00",
+   "tarih_iso": "2026-10-09T14:00:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T14:31:01.250637+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-semtech-stock-slipping-today-93CH-4940743",
    "baslik": "Why is Semtech stock slipping today?",
@@ -1366,5 +1419,5 @@
    "eklenme": "2026-10-09T09:01:10.147938+03:00"
   }
  ],
- "guncelleme": "2026-10-09T14:01:17.300697+03:00"
+ "guncelleme": "2026-10-09T14:31:01.250637+03:00"
 }
