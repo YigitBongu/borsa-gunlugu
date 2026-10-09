@@ -349,6 +349,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.bloomberght.com/tcmb-bir-elektronik-para-sirketinin-faaliyet-iznini-iptal-etti-3791018",
+   "baslik": "TCMB, bir elektronik para şirketinin faaliyet iznini iptal etti",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/tcmb-bir-elektronik-para-sirketinin-faaliyet-iznini-iptal-etti-3791018",
+   "saat": "00:13",
+   "tarih_iso": "2026-10-10T00:13:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T00:30:57.398747+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/beyaz-saray-dan-fed-uyesi-lisa-cook-a-sorusturma-3791005",
    "baslik": "Beyaz Saray'dan Fed Üyesi Lisa Cook'a soruşturma",
    "kaynak": "Bloomberg HT",
@@ -560,6 +570,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+   "baslik": "The hazy OpenAI growth metric driving Wall Street",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+   "saat": "23:57",
+   "tarih_iso": "2026-10-09T23:57:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T00:30:57.398747+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-083-4941691",
    "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.83%",
@@ -1749,16 +1769,6 @@
    "tarih_iso": "2026-10-09T13:49:57+03:00",
    "kodlar": [],
    "eklenme": "2026-10-09T14:01:17.300697+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/truist-sees-value-in-midsized-bank-stocks-ahead-of-earnings-93CH-4940723",
-   "baslik": "Truist sees value in mid-sized bank stocks ahead of earnings",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/truist-sees-value-in-midsized-bank-stocks-ahead-of-earnings-93CH-4940723",
-   "saat": "13:46",
-   "tarih_iso": "2026-10-09T13:46:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-09T14:01:17.300697+03:00"
   }
  ],
  "altin_haber": [
@@ -2053,5 +2063,5 @@
    "eklenme": "2026-10-09T09:01:10.147938+03:00"
   }
  ],
- "guncelleme": "2026-10-10T00:03:05.738023+03:00"
+ "guncelleme": "2026-10-10T00:30:57.398747+03:00"
 }
