@@ -2,6 +2,20 @@
  "tarih": "2026-10-09",
  "kap": [
   {
+   "id": "kap-my-IZENR-202610091741",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "IZENR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:41",
+   "tarih_iso": "2026-10-09T17:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-09T18:31:05.404723+03:00",
+   "saat_g": "17:41"
+  },
+  {
    "id": "kap-my-MIATK-202610091738",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -522,6 +536,50 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-055-4941439",
+   "baslik": "Morocco stocks higher at close of trade; Moroccan All Shares up 0.55%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-higher-at-close-of-trade-moroccan-all-shares-up-055-4941439",
+   "saat": "18:15",
+   "tarih_iso": "2026-10-09T18:15:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T18:31:05.404723+03:00",
+   "saat_g": "18:15"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/securitize-rallies-as-wall-street-sees-strategic-upside-in-tokenized-stock-launch-4941437",
+   "baslik": "Securitize rallies as Wall Street sees strategic upside in tokenized stock launch",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/securitize-rallies-as-wall-street-sees-strategic-upside-in-tokenized-stock-launch-4941437",
+   "saat": "18:10",
+   "tarih_iso": "2026-10-09T18:10:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T18:31:05.404723+03:00",
+   "saat_g": "18:10"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-124-4941427",
+   "baslik": "Norway stocks higher at close of trade; Oslo OBX up 1.24%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-124-4941427",
+   "saat": "18:00",
+   "tarih_iso": "2026-10-09T18:00:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T18:31:05.404723+03:00",
+   "saat_g": "18:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-069-4941422",
+   "baslik": "Israel stocks lower at close of trade; TA 35 down 0.69%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-069-4941422",
+   "saat": "18:00",
+   "tarih_iso": "2026-10-09T18:00:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T18:31:05.404723+03:00",
+   "saat_g": "18:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
    "baslik": "Mortgage rates are soaring. In America, the smart money rents.",
@@ -1797,53 +1855,20 @@
    "kodlar": [],
    "eklenme": "2026-10-09T09:01:10.147938+03:00",
    "saat_g": "02:57"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
-   "baslik": "Micron, Nvidia and AI chip stocks fall as report on OpenAI’s revenue causes ‘undue concern’",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/micron-nvidia-and-ai-chip-stocks-fall-as-report-on-openais-revenue-causes-undue-concern-2a2bcf53?mod=mw_rss_topstories",
-   "saat": "01:08",
-   "tarih_iso": "2026-10-09T01:08:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-09T09:01:10.147938+03:00",
-   "saat_g": "01:08"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-   "baslik": "Why a longtime skeptic of Palantir’s stock is finally saying it’s time to buy",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/why-a-longtime-skeptic-of-palantirs-stock-is-finally-saying-its-time-to-buy-60cdeede?mod=mw_rss_topstories",
-   "saat": "00:56",
-   "tarih_iso": "2026-10-09T00:56:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-09T09:01:10.147938+03:00",
-   "saat_g": "00:56"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories",
-   "baslik": "PepsiCo CEO’s message to employees: If you’re not producing growth, you’re out",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/pepsico-ceos-message-to-employees-if-youre-not-producing-growth-youre-out-13af0335?mod=mw_rss_topstories",
-   "saat": "00:43",
-   "tarih_iso": "2026-10-09T00:43:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-09T09:01:10.147938+03:00",
-   "saat_g": "00:43"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-   "baslik": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-   "saat": "00:19",
-   "tarih_iso": "2026-10-09T00:19:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-09T09:01:10.147938+03:00",
-   "saat_g": "00:19"
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-struggles-as-inflation-risks-and-iran-uncertainty-drain-momentum-200689284",
+   "baslik": "Gold Struggles as Inflation Risks and Iran Uncertainty Drain Momentum",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-struggles-as-inflation-risks-and-iran-uncertainty-drain-momentum-200689284",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-09T18:31:05.404723+03:00",
+   "saat_g": ""
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-breaks-out-as-us-dollar-rally-cracks-and-treasury-futures-find-buyers-200689277",
    "baslik": "Gold Breaks Out as US Dollar Rally Cracks and Treasury Futures Find Buyers",
@@ -2098,5 +2123,5 @@
    "saat_g": "02:25"
   }
  ],
- "guncelleme": "2026-10-09T18:01:14.618973+03:00"
+ "guncelleme": "2026-10-09T18:31:05.404723+03:00"
 }
