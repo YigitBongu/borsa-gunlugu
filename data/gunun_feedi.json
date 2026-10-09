@@ -93,8 +93,31 @@
    "eklenme": "2026-10-09T09:31:00.855917+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/aydina-10-bin-bas-kapasiteli-damizlik-ciftligi-yatirimi-3477117",
+   "baslik": "Aydın’a 10 bin baş kapasiteli damızlık çiftliği yatırımı",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/aydina-10-bin-bas-kapasiteli-damizlik-ciftligi-yatirimi-3477117",
+   "saat": "15:07",
+   "tarih_iso": "2026-10-09T15:07:08+03:00",
+   "kodlar": [
+    "MGROS"
+   ],
+   "eklenme": "2026-10-09T12:31:13.471296+03:00"
+  }
+ ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/gundem/volkswagene-12-milyon-euro-ceza-haberi-843244",
+   "baslik": "Volkswagen'e 1,2 milyon Euro ceza",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/volkswagene-12-milyon-euro-ceza-haberi-843244",
+   "saat": "11:54",
+   "tarih_iso": "2026-10-09T11:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T12:31:13.471296+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkiye-kuru-meyve-ihracatindan-9-ayda-1-1-milyar-dolar-gelir-elde-etti/4083091",
    "baslik": "Türkiye kuru meyve ihracatından 9 ayda 1,1 milyar dolar gelir elde etti",
@@ -208,6 +231,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/oil-relief-lifts-european-stocks-telecoms-a-weak-spot-4940340",
+   "baslik": "Oil relief lifts European stocks, but telecoms tumble on SpaceX’s US spectrum deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/oil-relief-lifts-european-stocks-telecoms-a-weak-spot-4940340",
+   "saat": "12:18",
+   "tarih_iso": "2026-10-09T12:18:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T12:31:13.471296+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-apple-stock-down-today-93CH-4940489",
+   "baslik": "Why is Apple stock down today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-apple-stock-down-today-93CH-4940489",
+   "saat": "12:18",
+   "tarih_iso": "2026-10-09T12:18:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T12:31:13.471296+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citi-highlights-energy-drink-growth-despite-convenience-store-weakness-93CH-4940486",
+   "baslik": "Citi highlights energy drink growth despite convenience store weakness",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citi-highlights-energy-drink-growth-despite-convenience-store-weakness-93CH-4940486",
+   "saat": "12:15",
+   "tarih_iso": "2026-10-09T12:15:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T12:31:13.471296+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/essilorluxottica-stock-is-it-still-a-buy-given-competition-fears-93CH-4940485",
+   "baslik": "EssilorLuxottica stock: Is it still a buy given competition fears?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/essilorluxottica-stock-is-it-still-a-buy-given-competition-fears-93CH-4940485",
+   "saat": "12:15",
+   "tarih_iso": "2026-10-09T12:15:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T12:31:13.471296+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-european-telecom-stocks-slide-as-spacex-spectrum-deal-rattles-sector-4940422",
+   "baslik": "US, European telecom stocks slide as SpaceX spectrum deal rattles sector",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-european-telecom-stocks-slide-as-spacex-spectrum-deal-rattles-sector-4940422",
+   "saat": "12:07",
+   "tarih_iso": "2026-10-09T12:07:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T12:31:13.471296+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/7elevens-us-arm-looks-to-move-supply-chain-inhouse-as-inflation-bites-4940450",
+   "baslik": "7-Eleven’s US arm looks to move supply chain in-house as inflation bites",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/7elevens-us-arm-looks-to-move-supply-chain-inhouse-as-inflation-bites-4940450",
+   "saat": "12:06",
+   "tarih_iso": "2026-10-09T12:06:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T12:31:13.471296+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/why-one-wall-street-firm-sees-parallels-to-the-late-1970s-and-recommends-shorting-u-s-stocks-bbd0ebd2?mod=mw_rss_topstories",
    "baslik": "Why one Wall Street firm sees parallels to the late 1970s and recommends shorting U.S. stocks",
    "kaynak": "MarketWatch",
@@ -246,6 +329,16 @@
    "tarih_iso": "2026-10-09T11:30:03+03:00",
    "kodlar": [],
    "eklenme": "2026-10-09T12:01:10.498581+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
+   "baslik": "Treasury yields steady as Trump strikes diplomatic tone on Iran ahead of midterms",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
+   "saat": "11:24",
+   "tarih_iso": "2026-10-09T11:24:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T12:31:13.471296+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-arcelormittal-stock-rallying-today-93CH-4940392",
@@ -790,6 +883,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-technical-analysis-for-friday-200689256",
+   "baslik": "Gold Technical Analysis for Friday",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-technical-analysis-for-friday-200689256",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-09T12:31:13.471296+03:00"
+  },
+  {
    "id": "alt-https://www.haberturk.com/ekonomi/gram-altin-ne-kadar-3918396",
    "baslik": "Gram altın ne kadar?",
    "kaynak": "Habertürk Ekonomi",
@@ -940,5 +1043,5 @@
    "eklenme": "2026-10-09T09:01:10.147938+03:00"
   }
  ],
- "guncelleme": "2026-10-09T12:01:10.498581+03:00"
+ "guncelleme": "2026-10-09T12:31:13.471296+03:00"
 }
