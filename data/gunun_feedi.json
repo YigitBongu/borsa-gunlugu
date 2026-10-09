@@ -2,6 +2,32 @@
  "tarih": "2026-10-09",
  "kap": [
   {
+   "id": "kap-my-BAGFS-202610091049",
+   "baslik": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş.",
+   "kodlar": [
+    "BAGFS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:49",
+   "tarih_iso": "2026-10-09T10:49:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-09T11:31:00.558253+03:00"
+  },
+  {
+   "id": "kap-my-BAGFS-202610091041",
+   "baslik": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş.",
+   "kodlar": [
+    "BAGFS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "10:41",
+   "tarih_iso": "2026-10-09T10:41:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-09T11:31:00.558253+03:00"
+  },
+  {
    "id": "kap-my-GLYHO-202610090931",
    "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
    "sirket": "KAMUYU AYDINLATMA PLATFORMU",
@@ -56,6 +82,16 @@
  ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/turkiye-kuru-meyve-ihracatindan-9-ayda-1-1-milyar-dolar-gelir-elde-etti/4083091",
+   "baslik": "Türkiye kuru meyve ihracatından 9 ayda 1,1 milyar dolar gelir elde etti",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-kuru-meyve-ihracatindan-9-ayda-1-1-milyar-dolar-gelir-elde-etti/4083091",
+   "saat": "11:21",
+   "tarih_iso": "2026-10-09T11:21:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T11:31:00.558253+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/finans/borsa/borsa-gune-yukselisle-basladi-bist-100-12264-puanda-haberi-843223",
    "baslik": "Borsa güne yükselişle başladı: BIST 100 12.264 puanda",
@@ -158,6 +194,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-arcelormittal-stock-rallying-today-93CH-4940392",
+   "baslik": "Why is ArcelorMittal stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-arcelormittal-stock-rallying-today-93CH-4940392",
+   "saat": "11:13",
+   "tarih_iso": "2026-10-09T11:13:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T11:31:00.558253+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-evonik-industries-stock-climbing-today-93CH-4940391",
+   "baslik": "Why is Evonik Industries stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-evonik-industries-stock-climbing-today-93CH-4940391",
+   "saat": "11:11",
+   "tarih_iso": "2026-10-09T11:11:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T11:31:00.558253+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-omv-stock-sliding-today-93CH-4940378",
+   "baslik": "Why is OMV stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-omv-stock-sliding-today-93CH-4940378",
+   "saat": "11:02",
+   "tarih_iso": "2026-10-09T11:02:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T11:31:00.558253+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/rheinmetall-stock-slips-as-berenberg-downgrades-to-hold-on-uncertain-outlook-4940359",
+   "baslik": "Rheinmetall stock slips as Berenberg downgrades to Hold on uncertain outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/rheinmetall-stock-slips-as-berenberg-downgrades-to-hold-on-uncertain-outlook-4940359",
+   "saat": "10:55",
+   "tarih_iso": "2026-10-09T10:55:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T11:31:00.558253+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-telefonica-stock-sliding-today-93CH-4940358",
    "baslik": "Why is Telefonica stock sliding today?",
@@ -801,5 +877,5 @@
    "eklenme": "2026-10-09T09:01:10.147938+03:00"
   }
  ],
- "guncelleme": "2026-10-09T11:01:06.443522+03:00"
+ "guncelleme": "2026-10-09T11:31:00.558253+03:00"
 }
