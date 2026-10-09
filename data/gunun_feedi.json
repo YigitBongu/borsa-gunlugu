@@ -2,6 +2,32 @@
  "tarih": "2026-10-09",
  "kap": [
   {
+   "id": "kap-my-GSDHO-202610091907",
+   "baslik": "MARMARA CAPİTAL PORTFÖY YÖNETİMİ A.Ş. — Pay Alım Satım Bildirimi",
+   "sirket": "MARMARA CAPİTAL PORTFÖY YÖNETİMİ A.Ş.",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:07",
+   "tarih_iso": "2026-10-09T19:07:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-10T00:01:12.509343+03:00"
+  },
+  {
+   "id": "kap-my-AHGAZ-202610091830",
+   "baslik": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.",
+   "kodlar": [
+    "AHGAZ"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:30",
+   "tarih_iso": "2026-10-09T18:30:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-10T00:01:12.509343+03:00"
+  },
+  {
    "id": "kap-my-IZENR-202610091741",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -323,6 +349,46 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.bloomberght.com/beyaz-saray-dan-fed-uyesi-lisa-cook-a-sorusturma-3791005",
+   "baslik": "Beyaz Saray'dan Fed Üyesi Lisa Cook'a soruşturma",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/beyaz-saray-dan-fed-uyesi-lisa-cook-a-sorusturma-3791005",
+   "saat": "19:22",
+   "tarih_iso": "2026-10-09T19:22:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T00:01:12.509343+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/fed-abd-de-gelir-ve-servet-artisina-ragmen-finansal-baski-buyuyor-3791004",
+   "baslik": "Fed: ABD'de gelir ve servet artışına rağmen finansal baskı büyüyor",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/fed-abd-de-gelir-ve-servet-artisina-ragmen-finansal-baski-buyuyor-3791004",
+   "saat": "19:17",
+   "tarih_iso": "2026-10-09T19:17:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T00:01:12.509343+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/euro-dolar-atlin-borsa-haftanin-en-cok-kazandiran-yatirim-araci-belli-oldu-haberi-843289",
+   "baslik": "Euro, dolar, atlın, borsa... Haftanın en çok kazandıran yatırım aracı belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/euro-dolar-atlin-borsa-haftanin-en-cok-kazandiran-yatirim-araci-belli-oldu-haberi-843289",
+   "saat": "19:16",
+   "tarih_iso": "2026-10-09T19:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T00:01:12.509343+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-843285",
+   "baslik": "Borsa İstanbul günü yükselişle tamamladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/haberler/borsa-istanbul-gunu-yukselisle-tamamladi-haberi-843285",
+   "saat": "18:31",
+   "tarih_iso": "2026-10-09T18:31:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T00:01:12.509343+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/is-dunyasi/softbank-100-milyar-dolar-icin-korfezin-kapisini-caldi-haberi-843260",
    "baslik": "SoftBank 100 milyar dolar için Körfez’in kapısını çaldı",
    "kaynak": "Dünya",
@@ -494,6 +560,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-083-4941691",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.83%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-083-4941691",
+   "saat": "23:31",
+   "tarih_iso": "2026-10-09T23:31:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T00:01:12.509343+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-148-4941688",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 1.48%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-148-4941688",
+   "saat": "23:30",
+   "tarih_iso": "2026-10-09T23:30:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T00:01:12.509343+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-138-4941679",
+   "baslik": "Brazil stocks higher at close of trade; Bovespa up 1.38%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-higher-at-close-of-trade-bovespa-up-138-4941679",
+   "saat": "23:30",
+   "tarih_iso": "2026-10-09T23:30:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T00:01:12.509343+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
+   "baslik": "Wall Street ends higher, Nasdaq and Dow post weekly gains as oil eases",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-nasdaq-slides-on-openai-revenue-concerns-4940052",
+   "saat": "23:15",
+   "tarih_iso": "2026-10-09T23:15:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T00:01:12.509343+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
    "baslik": "Here’s how Treasury yields could rise to 6% — even without market upheaval",
@@ -1653,46 +1759,6 @@
    "tarih_iso": "2026-10-09T13:46:01+03:00",
    "kodlar": [],
    "eklenme": "2026-10-09T14:01:17.300697+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/hexagon-jumps-3-as-jp-morgan-sees-earnings-upside-from-recovering-demand-4940669",
-   "baslik": "Hexagon jumps 3% as J.P. Morgan sees earnings upside from recovering demand",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/hexagon-jumps-3-as-jp-morgan-sees-earnings-upside-from-recovering-demand-4940669",
-   "saat": "13:22",
-   "tarih_iso": "2026-10-09T13:22:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-09T13:31:03.528379+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/airelated-companies-to-drive-most-thirdquarter-us-earnings-gains-4940589",
-   "baslik": "AI-related companies to drive most third-quarter US earnings gains",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/airelated-companies-to-drive-most-thirdquarter-us-earnings-gains-4940589",
-   "saat": "13:12",
-   "tarih_iso": "2026-10-09T13:12:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-09T13:31:03.528379+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/investors-need-sustained-fed-cuts-to-move-cash-off-sidelines-bofas-hartnett-4940583",
-   "baslik": "Investors need sustained Fed cuts to move cash off sidelines: BofA’s Hartnett",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/investors-need-sustained-fed-cuts-to-move-cash-off-sidelines-bofas-hartnett-4940583",
-   "saat": "13:06",
-   "tarih_iso": "2026-10-09T13:06:15+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-09T13:31:03.528379+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/valero-stock-set-for-record-profit-as-global-fuel-shortage-widens-93CH-4940526",
-   "baslik": "Valero stock set for record profit as global fuel shortage widens",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/valero-stock-set-for-record-profit-as-global-fuel-shortage-widens-93CH-4940526",
-   "saat": "12:47",
-   "tarih_iso": "2026-10-09T12:47:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-09T13:01:13.021420+03:00"
   }
  ],
  "altin_haber": [
@@ -1987,5 +2053,5 @@
    "eklenme": "2026-10-09T09:01:10.147938+03:00"
   }
  ],
- "guncelleme": "2026-10-09T23:31:02.686947+03:00"
+ "guncelleme": "2026-10-10T00:01:12.509343+03:00"
 }
