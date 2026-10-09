@@ -2,6 +2,19 @@
  "tarih": "2026-10-09",
  "kap": [
   {
+   "id": "kap-my-KRDMD-202610091529",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "15:29",
+   "tarih_iso": "2026-10-09T15:29:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-09T16:01:18.292870+03:00"
+  },
+  {
    "id": "kap-my-SAHOL-202610091340",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -418,6 +431,26 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mercedesbenz-investment-outlook-is-cheap-valuation-enough-to-buy-the-stock-93CH-4941084",
+   "baslik": "Mercedes-Benz investment outlook: Is cheap valuation enough to buy the stock?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mercedesbenz-investment-outlook-is-cheap-valuation-enough-to-buy-the-stock-93CH-4941084",
+   "saat": "15:27",
+   "tarih_iso": "2026-10-09T15:27:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T16:01:18.292870+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/lg-electronics-stock-target-cut-at-citi-after-third-quarter-results-93CH-4941076",
+   "baslik": "LG Electronics stock target cut at Citi after third quarter results",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/lg-electronics-stock-target-cut-at-citi-after-third-quarter-results-93CH-4941076",
+   "saat": "15:26",
+   "tarih_iso": "2026-10-09T15:26:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T16:01:18.292870+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/spacex-stock-outlook-is-a-longrange-path-to-900-realistic-93CH-4941063",
    "baslik": "SpaceX stock outlook: Is a long-range path to $900 realistic?",
@@ -1581,5 +1614,5 @@
    "eklenme": "2026-10-09T09:01:10.147938+03:00"
   }
  ],
- "guncelleme": "2026-10-09T15:31:01.369293+03:00"
+ "guncelleme": "2026-10-09T16:01:18.292870+03:00"
 }
