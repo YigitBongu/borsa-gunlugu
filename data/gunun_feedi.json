@@ -1,8 +1,55 @@
 {
  "tarih": "2026-10-09",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-TKFEN-202610090901",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Pay Alım Satım Bildirimi",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "09:01",
+   "tarih_iso": "2026-10-09T09:01:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-09T09:31:00.855917+03:00"
+  },
+  {
+   "id": "kap-my-GSDHO-202610090858",
+   "baslik": "KAMUYU AYDINLATMA PLATFORMU — Kamuyu Aydınlatma Platformu Duyurusu",
+   "sirket": "KAMUYU AYDINLATMA PLATFORMU",
+   "kodlar": [
+    "GSDHO"
+   ],
+   "kategori": "Bildirim",
+   "saat": "08:58",
+   "tarih_iso": "2026-10-09T08:58:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-09T09:31:00.855917+03:00"
+  }
+ ],
  "sirket": [],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/borsa-istanbulda-yabancilardan-ust-uste-hamle-milyarlarca-dolarlik-giris-haberi-843215",
+   "baslik": "Borsa İstanbul'da yabancılardan üst üste hamle: Milyarlarca dolarlık giriş",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/borsa-istanbulda-yabancilardan-ust-uste-hamle-milyarlarca-dolarlik-giris-haberi-843215",
+   "saat": "09:09",
+   "tarih_iso": "2026-10-09T09:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T09:31:00.855917+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/ecbde-21-trilyon-euroluk-tartisma-bankalara-yeni-maliyet-gundemde-haberi-843213",
+   "baslik": "ECB'de 2,1 trilyon euroluk tartışma: Bankalara yeni maliyet gündemde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/ecbde-21-trilyon-euroluk-tartisma-bankalara-yeni-maliyet-gundemde-haberi-843213",
+   "saat": "08:59",
+   "tarih_iso": "2026-10-09T08:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T09:31:00.855917+03:00"
+  },
   {
    "id": "rss-https://www.bloomberght.com/openai-2026-sonuna-kadar-70-milyar-dolar-gelir-bekliyor-3790898",
    "baslik": "OpenAI 2026 sonuna kadar 70 milyar dolar gelir bekliyor",
@@ -65,6 +112,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ssp-on-track-for-fy26-earnings-despite-middle-east-conflict-50-mln-buyback-4940270",
+   "baslik": "SSP on track for FY26 earnings despite Middle East conflict, £50 mln buyback",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ssp-on-track-for-fy26-earnings-despite-middle-east-conflict-50-mln-buyback-4940270",
+   "saat": "09:25",
+   "tarih_iso": "2026-10-09T09:25:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T09:31:00.855917+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/openais-annualized-revenue-20-billion-less-than-previously-signaled-ft-reports-4939854",
+   "baslik": "OpenAI’s September annualized revenue nears $50 billion, less than previously indicated, source says",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/openais-annualized-revenue-20-billion-less-than-previously-signaled-ft-reports-4939854",
+   "saat": "09:24",
+   "tarih_iso": "2026-10-09T09:24:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T09:31:00.855917+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+   "baslik": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+   "saat": "09:16",
+   "tarih_iso": "2026-10-09T09:16:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T09:31:00.855917+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/novo-nordisk-stock-target-cut-at-citi-on-lack-of-margin-growth-4940246",
+   "baslik": "Novo Nordisk stock target cut at Citi on lack of margin growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/novo-nordisk-stock-target-cut-at-citi-on-lack-of-margin-growth-4940246",
+   "saat": "09:06",
+   "tarih_iso": "2026-10-09T09:06:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T09:31:00.855917+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-surging-today-93CH-4940245",
+   "baslik": "Why is Xiaomi stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-xiaomi-stock-surging-today-93CH-4940245",
+   "saat": "09:05",
+   "tarih_iso": "2026-10-09T09:05:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T09:31:00.855917+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/spacex-spectrum-deal-lifts-us-cell-tower-stocks-bull-and-bear-cases-outlined-93CH-4940234",
+   "baslik": "SpaceX spectrum deal lifts U.S. cell tower stocks: bull and bear cases outlined",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/spacex-spectrum-deal-lifts-us-cell-tower-stocks-bull-and-bear-cases-outlined-93CH-4940234",
+   "saat": "08:56",
+   "tarih_iso": "2026-10-09T08:56:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T09:31:00.855917+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/australia-stocks-higher-at-close-of-trade-spasx-200-up-064-4940194",
    "baslik": "Australia stocks higher at close of trade; S&P/ASX 200 up 0.64%",
@@ -418,5 +525,5 @@
    "eklenme": "2026-10-09T09:01:10.147938+03:00"
   }
  ],
- "guncelleme": "2026-10-09T09:01:10.147938+03:00"
+ "guncelleme": "2026-10-09T09:31:00.855917+03:00"
 }
