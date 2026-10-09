@@ -229,6 +229,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/dolar-endisesi-piyasalar-sarst-bir-enerji-hissesi-71-yukseldi-4096556",
+   "baslik": "Dolar endişesi piyasaları sarstı, bir enerji hissesi %71 yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/dolar-endisesi-piyasalar-sarst-bir-enerji-hissesi-71-yukseldi-4096556",
+   "saat": "05:42",
+   "tarih_iso": "2026-10-09T05:42:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T06:01:13.787573+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/atlas-atomics-reaktor-teknolojisi-icin-19-milyar-dolar-degerlemede-400-milyon-dolar-toplad--bloomberg-93CH-4096467",
    "baslik": "Atlas Atomics reaktör teknolojisi için 1,9 milyar dolar değerlemede 400 milyon dolar topladı - Bloomberg",
    "kaynak": "Investing TR",
@@ -590,6 +600,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
+   "baslik": "Markets wobble on dollar jitters, one energy pick is up 71%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/markets-wobble-on-dollar-jitters-one-energy-pick-is-up-71-4940128",
+   "saat": "05:42",
+   "tarih_iso": "2026-10-09T05:42:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T06:01:13.787573+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lifestyle-communities-stock-sliding-today-93CH-4940105",
    "baslik": "Why is Lifestyle Communities stock sliding today?",
@@ -1779,16 +1799,6 @@
    "tarih_iso": "2026-10-08T14:28:53+03:00",
    "kodlar": [],
    "eklenme": "2026-10-08T14:30:59.658100+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1",
-   "baslik": "Oil prices jump on tanker attack and slowing flows through Strait of Hormuz",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/ec860f96-5a2b-461a-a897-a957860c3dba?syn-25a6b1a6=1",
-   "saat": "14:20",
-   "tarih_iso": "2026-10-08T14:20:11+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T14:30:59.658100+03:00"
   }
  ],
  "altin_haber": [
@@ -2043,5 +2053,5 @@
    "eklenme": "2026-10-08T09:01:16.577423+03:00"
   }
  ],
- "guncelleme": "2026-10-09T05:30:54.651148+03:00"
+ "guncelleme": "2026-10-09T06:01:13.787573+03:00"
 }
