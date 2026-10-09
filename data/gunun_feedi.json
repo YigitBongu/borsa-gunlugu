@@ -2,6 +2,32 @@
  "tarih": "2026-10-09",
  "kap": [
   {
+   "id": "kap-my-EGEEN-202610091318",
+   "baslik": "EGE ENDÜSTRİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "EGEEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:18",
+   "tarih_iso": "2026-10-09T13:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-09T14:01:17.300697+03:00"
+  },
+  {
+   "id": "kap-my-EGEEN-202610091313",
+   "baslik": "EGE ENDÜSTRİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "EGEEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:13",
+   "tarih_iso": "2026-10-09T13:13:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-09T14:01:17.300697+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202610091259",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -144,6 +170,18 @@
     "MGROS"
    ],
    "eklenme": "2026-10-09T12:31:13.471296+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/whu-cct-2026-is-dunyasiyla-akademiyi-bulusturdu/4083353",
+   "baslik": "WHU CCT 2026 iş dünyasıyla akademiyi buluşturdu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/whu-cct-2026-is-dunyasiyla-akademiyi-bulusturdu/4083353",
+   "saat": "13:49",
+   "tarih_iso": "2026-10-09T13:49:17+03:00",
+   "kodlar": [
+    "ENJSA"
+   ],
+   "eklenme": "2026-10-09T14:01:17.300697+03:00"
   },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/halkbank-ebru-sanatini-marifet-ile-yasatacak-aile-temali-yarisma-icin-basvurular-basladi-3918443",
@@ -345,6 +383,46 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-semtech-stock-slipping-today-93CH-4940743",
+   "baslik": "Why is Semtech stock slipping today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-semtech-stock-slipping-today-93CH-4940743",
+   "saat": "13:54",
+   "tarih_iso": "2026-10-09T13:54:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T14:01:17.300697+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-astera-labs-stock-sliding-today-93CH-4940731",
+   "baslik": "Why is Astera Labs stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-astera-labs-stock-sliding-today-93CH-4940731",
+   "saat": "13:50",
+   "tarih_iso": "2026-10-09T13:50:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T14:01:17.300697+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/delta-air-lines-cuts-profit-outlook-as-fuel-costs-outpace-fare-gains-4940704",
+   "baslik": "Delta Air Lines cuts profit forecast as fuel costs outpace fare gains",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/delta-air-lines-cuts-profit-outlook-as-fuel-costs-outpace-fare-gains-4940704",
+   "saat": "13:49",
+   "tarih_iso": "2026-10-09T13:49:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T14:01:17.300697+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/truist-sees-value-in-midsized-bank-stocks-ahead-of-earnings-93CH-4940723",
+   "baslik": "Truist sees value in mid-sized bank stocks ahead of earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/truist-sees-value-in-midsized-bank-stocks-ahead-of-earnings-93CH-4940723",
+   "saat": "13:46",
+   "tarih_iso": "2026-10-09T13:46:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T14:01:17.300697+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/hexagon-jumps-3-as-jp-morgan-sees-earnings-upside-from-recovering-demand-4940669",
    "baslik": "Hexagon jumps 3% as J.P. Morgan sees earnings upside from recovering demand",
@@ -1118,6 +1196,16 @@
    "eklenme": "2026-10-09T13:31:03.528379+03:00"
   },
   {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/ubs-altn-madenciligi-hisselerinde-favorilerini-acklad-4097123",
+   "baslik": "UBS, Altın Madenciliği Hisselerinde Favorilerini Açıkladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/ubs-altn-madenciligi-hisselerinde-favorilerini-acklad-4097123",
+   "saat": "13:27",
+   "tarih_iso": "2026-10-09T13:27:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T14:01:17.300697+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-technical-analysis-for-friday-200689256",
    "baslik": "Gold Technical Analysis for Friday",
    "kaynak": "Investing Emtia",
@@ -1278,5 +1366,5 @@
    "eklenme": "2026-10-09T09:01:10.147938+03:00"
   }
  ],
- "guncelleme": "2026-10-09T13:31:03.528379+03:00"
+ "guncelleme": "2026-10-09T14:01:17.300697+03:00"
 }
