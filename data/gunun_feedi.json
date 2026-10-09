@@ -229,6 +229,26 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/softbank-yapay-zeka-icin-korfezden-100-milyar-dolar-istiyor-4096588",
+   "baslik": "SoftBank, yapay zeka için Körfez’den 100 milyar dolar istiyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/softbank-yapay-zeka-icin-korfezden-100-milyar-dolar-istiyor-4096588",
+   "saat": "08:18",
+   "tarih_iso": "2026-10-09T08:18:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T08:30:55.282127+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/softbank-yapay-zeka-yatirimlari-icin-100-milyar-dolar-ariyor-3790894",
+   "baslik": "SoftBank, yapay zeka yatırımları için 100 milyar dolar arıyor",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/softbank-yapay-zeka-yatirimlari-icin-100-milyar-dolar-ariyor-3790894",
+   "saat": "07:56",
+   "tarih_iso": "2026-10-09T07:56:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T08:30:55.282127+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/ecbden-faiz-mesaji-enflasyon-tehlikesi-gecmedi-yeni-artis-masada-haberi-843202",
    "baslik": "ECB'den faiz mesajı: Enflasyon tehlikesi geçmedi, yeni artış masada",
    "kaynak": "Dünya",
@@ -620,6 +640,56 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/australian-nvidiabacked-ai-data-centre-operator-firmus-shelves-ipo-4939919",
+   "baslik": "Nvidia-backed Firmus scraps $5 billion Australian IPO as investors step up AI scrutiny",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/australian-nvidiabacked-ai-data-centre-operator-firmus-shelves-ipo-4939919",
+   "saat": "08:24",
+   "tarih_iso": "2026-10-09T08:24:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T08:30:55.282127+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/softbank-seeks-up-to-100-bln-from-gulf-investors-for-ai-expansion-ft-reports-4940188",
+   "baslik": "SoftBank seeks up to $100 bln from Gulf investors for AI expansion, FT reports",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/softbank-seeks-up-to-100-bln-from-gulf-investors-for-ai-expansion-ft-reports-4940188",
+   "saat": "08:18",
+   "tarih_iso": "2026-10-09T08:18:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T08:30:55.282127+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-tata-consultancy-services-stock-surging-today-93CH-4940187",
+   "baslik": "Why is Tata Consultancy Services stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tata-consultancy-services-stock-surging-today-93CH-4940187",
+   "saat": "08:16",
+   "tarih_iso": "2026-10-09T08:16:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T08:30:55.282127+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/openai-expects-to-reach-70-bln-revenue-by-end2026-bloomberg-reports-4940179",
+   "baslik": "OpenAI expects to reach $70 bln revenue by end-2026, Bloomberg reports",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/openai-expects-to-reach-70-bln-revenue-by-end2026-bloomberg-reports-4940179",
+   "saat": "08:02",
+   "tarih_iso": "2026-10-09T08:02:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T08:30:55.282127+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tcs-shares-rise-as-ai-revenue-offsets-sluggish-growth-lifts-indian-it-stocks-4940173",
+   "baslik": "TCS shares rise as AI revenue offsets sluggish growth, lifts Indian IT stocks",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tcs-shares-rise-as-ai-revenue-offsets-sluggish-growth-lifts-indian-it-stocks-4940173",
+   "saat": "07:59",
+   "tarih_iso": "2026-10-09T07:59:11+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T08:30:55.282127+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/us-cell-tower-stocks-rise-on-spacex-spectrum-buy-4940162",
    "baslik": "U.S. cell tower stocks rise on SpaceX spectrum buy",
@@ -1769,56 +1839,6 @@
    "tarih_iso": "2026-10-08T15:05:16+03:00",
    "kodlar": [],
    "eklenme": "2026-10-08T15:13:54.719679+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-siteone-landscape-supply-stock-sliding-today-93CH-4938720",
-   "baslik": "Why is SiteOne Landscape Supply stock sliding today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-siteone-landscape-supply-stock-sliding-today-93CH-4938720",
-   "saat": "15:01",
-   "tarih_iso": "2026-10-08T15:01:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T15:13:54.719679+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-chime-financial-stock-gaining-today-93CH-4938719",
-   "baslik": "Why is Chime Financial stock gaining today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-chime-financial-stock-gaining-today-93CH-4938719",
-   "saat": "15:00",
-   "tarih_iso": "2026-10-08T15:00:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T15:13:54.719679+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-atrium-therapeutics-stock-surging-today-93CH-4938705",
-   "baslik": "Why is Atrium Therapeutics stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-atrium-therapeutics-stock-surging-today-93CH-4938705",
-   "saat": "14:59",
-   "tarih_iso": "2026-10-08T14:59:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T15:13:54.719679+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hallador-energy-stock-surging-today-93CH-4938702",
-   "baslik": "Why is Hallador Energy stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-hallador-energy-stock-surging-today-93CH-4938702",
-   "saat": "14:57",
-   "tarih_iso": "2026-10-08T14:57:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T15:13:54.719679+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/ericsson-shares-may-move-74-on-oct-15-earnings-release-93CH-4938690",
-   "baslik": "Ericsson shares may move 7.4% on Oct. 15 earnings release",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/ericsson-shares-may-move-74-on-oct-15-earnings-release-93CH-4938690",
-   "saat": "14:55",
-   "tarih_iso": "2026-10-08T14:55:16+03:00",
-   "kodlar": [],
-   "eklenme": "2026-10-08T15:13:54.719679+03:00"
   }
  ],
  "altin_haber": [
@@ -1831,6 +1851,16 @@
    "tarih_iso": "2026-10-09T10:41:34+03:00",
    "kodlar": [],
    "eklenme": "2026-10-09T08:01:10.778112+03:00"
+  },
+  {
+   "id": "alt-https://www.bloomberght.com/cin-yakit-ihracatina-yeniden-basliyor-3790895",
+   "baslik": "Çin, yakıt ihracatına yeniden başlıyor",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/cin-yakit-ihracatina-yeniden-basliyor-3790895",
+   "saat": "08:16",
+   "tarih_iso": "2026-10-09T08:16:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-09T08:30:55.282127+03:00"
   },
   {
    "id": "alt-https://www.bloomberght.com/altin-dolarin-zayiflamasiyla-yukseldi-3790893",
@@ -2093,5 +2123,5 @@
    "eklenme": "2026-10-08T09:01:16.577423+03:00"
   }
  ],
- "guncelleme": "2026-10-09T08:01:10.778112+03:00"
+ "guncelleme": "2026-10-09T08:30:55.282127+03:00"
 }
