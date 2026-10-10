@@ -17,6 +17,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/spor/caykur-rizespor-fenerbahce-macinin-ilk-11leri-belli-oldu-haberi-843364",
+   "baslik": "Çaykur Rizespor-Fenerbahçe maçının ilk 11'leri belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/caykur-rizespor-fenerbahce-macinin-ilk-11leri-belli-oldu-haberi-843364",
+   "saat": "17:59",
+   "tarih_iso": "2026-10-10T17:59:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-10-10T18:31:01.305912+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/sirketler/turk-telekoma-yapay-zeka-teknolojisiyle-avrupa-birinciligi-aku-kullaniminda-3-katin-uzerinde-tasarruf-haberi-843340",
    "baslik": "Türk Telekom'a yapay zekâ teknolojisiyle Avrupa birinciliği! Akü kullanımında 3 katın üzerinde tasarruf",
    "kaynak": "Dünya",
@@ -122,6 +134,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
+   "baslik": "Stocks saw new highs and big declines: How the volatile AI trade moved last week's market",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/10/stocks-saw-new-highs-and-big-declines-how-the-volatile-ai-trade-moved-last-weeks-market.html",
+   "saat": "18:28",
+   "tarih_iso": "2026-10-10T18:28:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T18:31:01.305912+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-the-french-problem-is-a-french-problem-not-a-european-one-4942112",
    "baslik": "France’s bond stress may remain contained as wider European risks stay limited",
@@ -585,5 +607,5 @@
    "eklenme": "2026-10-10T09:01:10.347258+03:00"
   }
  ],
- "guncelleme": "2026-10-10T18:01:08.771245+03:00"
+ "guncelleme": "2026-10-10T18:31:01.305912+03:00"
 }
