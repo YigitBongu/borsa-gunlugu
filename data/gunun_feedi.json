@@ -15,7 +15,20 @@
    "eklenme": "2026-10-10T09:01:10.347258+03:00"
   }
  ],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekoma-yapay-zeka-teknolojisiyle-avrupa-birinciligi-aku-kullaniminda-3-katin-uzerinde-tasarruf-haberi-843340",
+   "baslik": "Türk Telekom'a yapay zekâ teknolojisiyle Avrupa birinciliği! Akü kullanımında 3 katın üzerinde tasarruf",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekoma-yapay-zeka-teknolojisiyle-avrupa-birinciligi-aku-kullaniminda-3-katin-uzerinde-tasarruf-haberi-843340",
+   "saat": "12:08",
+   "tarih_iso": "2026-10-10T12:08:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-10-10T12:31:01.636691+03:00"
+  }
+ ],
  "makro": [
   {
    "id": "rss-https://www.haberturk.com/ekonomi/kuresel-piyasalar-dunya-genelinde-aciklanacak-enflasyon-verilerine-odaklandi-3918664",
@@ -322,6 +335,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.cnnturk.com/ekonomi/hafta-sonu-altin-fiyatlari-10-ekim-2026-gram-altin-ceyrek-altin-ne-kadar-kac-tl-kapalicarsi-altin-fiyatlari-yukseliyor-mu-3477414",
+   "baslik": "HAFTA SONU ALTIN FİYATLARI 10 EKİM 2026: Gram altın, çeyrek altın ne kadar, kaç TL? Kapalıçarşı altın fiyatları yükseliyor mu?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/hafta-sonu-altin-fiyatlari-10-ekim-2026-gram-altin-ceyrek-altin-ne-kadar-kac-tl-kapalicarsi-altin-fiyatlari-yukseliyor-mu-3477414",
+   "saat": "15:21",
+   "tarih_iso": "2026-10-10T15:21:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T12:31:01.636691+03:00"
+  },
+  {
+   "id": "alt-https://www.cnnturk.com/ekonomi/yatirim-araclarinda-haftanin-kazananlari-ve-kaybedenleri-belli-oldu-3477354",
+   "baslik": "Yatırım araçlarında haftanın kazananları ve kaybedenleri belli oldu",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/yatirim-araclarinda-haftanin-kazananlari-ve-kaybedenleri-belli-oldu-3477354",
+   "saat": "14:50",
+   "tarih_iso": "2026-10-10T14:50:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-10T12:31:01.636691+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/us-dollar-strength-is-becoming-golds-biggest-nearterm-constraint-200689299",
    "baslik": "US Dollar Strength Is Becoming Gold’s Biggest Near-Term Constraint",
    "kaynak": "Investing Emtia",
@@ -452,5 +485,5 @@
    "eklenme": "2026-10-10T09:01:10.347258+03:00"
   }
  ],
- "guncelleme": "2026-10-10T12:01:07.293275+03:00"
+ "guncelleme": "2026-10-10T12:31:01.636691+03:00"
 }
