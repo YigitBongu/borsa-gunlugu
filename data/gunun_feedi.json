@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/gundem/son-dakika-manisada-tir-ile-yolcu-otobusu-carpisti-4-kisi-hayatini-kaybetti-cok-sayida-yarali-haberi-843409",
+   "baslik": "Son dakika: Manisa'da tır ile yolcu otobüsü çarpıştı: 4 kişi hayatını kaybetti, çok sayıda yaralı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/gundem/son-dakika-manisada-tir-ile-yolcu-otobusu-carpisti-4-kisi-hayatini-kaybetti-cok-sayida-yarali-haberi-843409",
+   "saat": "12:22",
+   "tarih_iso": "2026-10-11T12:22:00+03:00",
+   "kodlar": [
+    "MAVI"
+   ],
+   "eklenme": "2026-10-11T12:30:59.778828+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-rizede-farkli-kazandi-haberi-843375",
    "baslik": "Fenerbahçe Rize'de farklı kazandı",
    "kaynak": "Dünya",
@@ -58,6 +70,16 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/exclusiveinwit-investors-line-up-financing-for-possible-takeprivate-sources-say-4942546",
+   "baslik": "Exclusive-INWIT investors line up financing for possible take-private, sources say",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/exclusiveinwit-investors-line-up-financing-for-possible-takeprivate-sources-say-4942546",
+   "saat": "12:00",
+   "tarih_iso": "2026-10-11T12:00:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-11T12:30:59.778828+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/8-emerging-markets-to-consider-in-2027-hsbc-4942478",
    "baslik": "8 emerging markets to consider in 2027: HSBC",
@@ -150,6 +172,16 @@
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.cnnturk.com/ekonomi/altin-fiyatlari-11-ekim-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3477618",
+   "baslik": "ALTIN FİYATLARI 11 EKİM 2026 CANLI: Bugün Gram, Çeyrek, Cumhuriyet Ne Kadar? Kapalıçarşı Altın Fiyatları Ne Durumda?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/altin-fiyatlari-11-ekim-2026-canli-bugun-gram-ceyrek-cumhuriyet-ne-kadar-kapalicarsi-altin-fiyatlari-ne-durumda-3477618",
+   "saat": "14:57",
+   "tarih_iso": "2026-10-11T14:57:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-11T12:30:59.778828+03:00"
+  },
   {
    "id": "alt-https://www.dunya.com/ekonomi/altin-toparlandi-enerji-fiyatlari-yukseldi-iste-haftanin-kazandiranlari-haberi-843403",
    "baslik": "Altın toparlandı, enerji fiyatları yükseldi: İşte haftanın kazandıranları",
@@ -271,5 +303,5 @@
    "eklenme": "2026-10-11T09:01:12.675270+03:00"
   }
  ],
- "guncelleme": "2026-10-11T12:01:11.650716+03:00"
+ "guncelleme": "2026-10-11T12:30:59.778828+03:00"
 }
