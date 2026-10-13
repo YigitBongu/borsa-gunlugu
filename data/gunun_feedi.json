@@ -2,6 +2,19 @@
  "tarih": "2026-10-13",
  "kap": [
   {
+   "id": "kap-my-KRDMD-202610131920",
+   "baslik": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:20",
+   "tarih_iso": "2026-10-13T19:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
    "id": "kap-my-GESAN-202610131603",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -43,6 +56,54 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/vakifbankin-sagladigi-dis-kaynak-9-milyar-dolara-ulasti-haberi-843720",
+   "baslik": "VakıfBank’ın sağladığı dış kaynak 9 milyar dolara ulaştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/vakifbankin-sagladigi-dis-kaynak-9-milyar-dolara-ulasti-haberi-843720",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-14T00:00:00+03:00",
+   "kodlar": [
+    "VAKBN"
+   ],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/yerli-ve-milli-6g-sebeke-cozumleri-sahada-haberi-843736",
+   "baslik": "Yerli ve milli 6G şebeke çözümleri sahada",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/yerli-ve-milli-6g-sebeke-cozumleri-sahada-haberi-843736",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-14T00:00:00+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/sisecam-cop31de-gelecegin-yasam-alanlarini-anlatacak-haberi-843758",
+   "baslik": "Şişecam, COP31'de geleceğin yaşam alanlarını anlatacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/sisecam-cop31de-gelecegin-yasam-alanlarini-anlatacak-haberi-843758",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-14T00:00:00+03:00",
+   "kodlar": [
+    "SISE"
+   ],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/ismail-kartaldan-aston-villa-maci-aciklamasi-puan-kaybi-dusunmuyoruz-haberi-843768",
+   "baslik": "İsmail Kartal'dan Aston Villa maçı açıklaması: Puan kaybı düşünmüyoruz",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/ismail-kartaldan-aston-villa-maci-aciklamasi-puan-kaybi-dusunmuyoruz-haberi-843768",
+   "saat": "22:57",
+   "tarih_iso": "2026-10-13T22:57:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/vakifbank-a-200-milyon-euroluk-kredi-3791228",
    "baslik": "VakıfBank'a 200 milyon euroluk kredi",
    "kaynak": "Bloomberg HT",
@@ -68,6 +129,66 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/trexbio-nasdaqta-halka-arzda-hisse-basna-14-dolardan-1167-milyon-dolar-toplad-432SI-4101951",
+   "baslik": "TRexBio Nasdaq’ta halka arzda hisse başına 14 dolardan 116,7 milyon dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/trexbio-nasdaqta-halka-arzda-hisse-basna-14-dolardan-1167-milyon-dolar-toplad-432SI-4101951",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-14T00:00:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/surdurulebilir-dunya/yesil-finansmanda-faiz-frenine-ragmen-eylem-zamani-haberi-843757",
+   "baslik": "Yeşil finansmanda faiz frenine rağmen eylem zamanı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/surdurulebilir-dunya/yesil-finansmanda-faiz-frenine-ragmen-eylem-zamani-haberi-843757",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-14T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fedin-collinsi-enflasyon-riskleri-surerken-faiz-arts-sinyali-verdi-4101936",
+   "baslik": "Fed’in Collins’i enflasyon riskleri sürerken faiz artışı sinyali verdi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fedin-collinsi-enflasyon-riskleri-surerken-faiz-arts-sinyali-verdi-4101936",
+   "saat": "23:40",
+   "tarih_iso": "2026-10-13T23:40:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/bank-of-americaya-kara-para-aklama-ihlalleri-nedeniyle-12-milyar-dolar-ceza-4101911",
+   "baslik": "Bank of America’ya kara para aklama ihlalleri nedeniyle 1,2 milyar dolar ceza",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/bank-of-americaya-kara-para-aklama-ihlalleri-nedeniyle-12-milyar-dolar-ceza-4101911",
+   "saat": "23:24",
+   "tarih_iso": "2026-10-13T23:24:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/arjantinde-aylk-enflasyon-eylulde-19a-yukseldi-tahminleri-karslad-4101846",
+   "baslik": "Arjantin’de aylık enflasyon Eylül’de %1,9’a yükseldi, tahminleri karşıladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/arjantinde-aylk-enflasyon-eylulde-19a-yukseldi-tahminleri-karslad-4101846",
+   "saat": "22:44",
+   "tarih_iso": "2026-10-13T22:44:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/fedwilliams-2027-de-bir-faiz-artirimina-gerek-gormuyorum-3791283",
+   "baslik": "Fed/Williams: 2027'de bir faiz artırımına gerek görmüyorum",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/fedwilliams-2027-de-bir-faiz-artirimina-gerek-gormuyorum-3791283",
+   "saat": "21:46",
+   "tarih_iso": "2026-10-13T21:46:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/kanada-tahvil-faizleri-ekonomik-gorunum-ve-faiz-yolu-tartslrken-dustu-4101243",
    "baslik": "Kanada tahvil faizleri ekonomik görünüm ve faiz yolu tartışılırken düştü",
@@ -180,6 +301,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-futures-muted-as-investors-await-big-bank-earnings-chip-weakness-weighs-4946052",
+   "baslik": "Nasdaq ends down as chipmakers fall and bank earnings roll in",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-futures-muted-as-investors-await-big-bank-earnings-chip-weakness-weighs-4946052",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-14T00:00:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/trexbio-raises-1167m-in-nasdaq-ipo-at-14-per-share-432SI-4947553",
+   "baslik": "TRexBio raises $116.7M in Nasdaq IPO at $14 per share",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/trexbio-raises-1167m-in-nasdaq-ipo-at-14-per-share-432SI-4947553",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-14T00:00:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
+   "baslik": "Don't let inflation bite — how to hedge with TIPS, commodities and infrastructure funds",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/13/inflation-hedge-tips-commodities-infrastructure.html",
+   "saat": "23:52",
+   "tarih_iso": "2026-10-13T23:52:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/strive-plans-ipo-of-15-preferred-stock-to-fund-bitcoin-buys-432SI-4947526",
+   "baslik": "Strive plans IPO of 15% preferred stock to fund bitcoin buys",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/strive-plans-ipo-of-15-preferred-stock-to-fund-bitcoin-buys-432SI-4947526",
+   "saat": "23:47",
+   "tarih_iso": "2026-10-13T23:47:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+   "baslik": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+   "saat": "23:42",
+   "tarih_iso": "2026-10-13T23:42:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/feds-collins-signals-further-rate-hikes-likely-as-inflation-risks-persist-4947534",
+   "baslik": "Fed’s Collins signals further rate hikes likely as inflation risks persist",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/feds-collins-signals-further-rate-hikes-likely-as-inflation-risks-persist-4947534",
+   "saat": "23:40",
+   "tarih_iso": "2026-10-13T23:40:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/investingclub/2026/10/13/were-upgrading-our-rating-on-wells-fargo-as-the-stocks-pullback-offers-a-nice-entry-point.html",
+   "baslik": "We're upgrading our rating on Wells Fargo as the stock's pullback offers a nice entry point",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/13/were-upgrading-our-rating-on-wells-fargo-as-the-stocks-pullback-offers-a-nice-entry-point.html",
+   "saat": "22:51",
+   "tarih_iso": "2026-10-13T22:51:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/13/john-williams-fed-rate-hikes-2027.html",
    "baslik": "Williams says Fed may not have to hike rates in 2027, at odds with traders",
@@ -673,6 +864,16 @@
    "eklenme": "2026-10-13T22:55:03.484515+03:00"
   },
   {
+   "id": "alt-https://www.mining.com/ssr-to-buy-roxmore-for-464m-boosts-value-of-nevada-gold-mine/",
+   "baslik": "SSR to buy Roxmore for $464M, boosts value of Nevada gold mine",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/ssr-to-buy-roxmore-for-464m-boosts-value-of-nevada-gold-mine/",
+   "saat": "20:59",
+   "tarih_iso": "2026-10-13T20:59:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-14T00:22:37.585197+03:00"
+  },
+  {
    "id": "alt-https://www.mining.com/air-strike-kills-at-least-72-miners-in-sudan-rights-group-says/",
    "baslik": "Air strike kills at least 72 miners in Sudan, rights group says",
    "kaynak": "Mining.com",
@@ -833,5 +1034,5 @@
    "eklenme": "2026-10-13T15:56:26.580984+03:00"
   }
  ],
- "guncelleme": "2026-10-13T22:55:03.484515+03:00"
+ "guncelleme": "2026-10-14T00:22:37.585197+03:00"
 }
