@@ -2,6 +2,32 @@
  "tarih": "2026-10-13",
  "kap": [
   {
+   "id": "kap-my-GESAN-202610131603",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:03",
+   "tarih_iso": "2026-10-13T16:03:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-13T16:24:53.080825+03:00"
+  },
+  {
+   "id": "kap-my-TKFEN-202610131603",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "TKFEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:03",
+   "tarih_iso": "2026-10-13T16:03:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-13T16:24:53.080825+03:00"
+  },
+  {
    "id": "kap-my-EUPWR-202610131532",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -155,6 +181,56 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+   "baslik": "Micron’s stock extends declines as China competition heats up",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+   "saat": "16:21",
+   "tarih_iso": "2026-10-13T16:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-13T16:24:53.080825+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-did-investors-react-so-negatively-to-schneiderptc-deal-ma-expert-weighs-in-4946782",
+   "baslik": "Why did investors react so negatively to Schneider-PTC deal? M&A expert weighs in",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-did-investors-react-so-negatively-to-schneiderptc-deal-ma-expert-weighs-in-4946782",
+   "saat": "16:06",
+   "tarih_iso": "2026-10-13T16:06:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-13T16:24:53.080825+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/goldman-highlights-two-us-auto-stocks-to-buy-into-earnings-93CH-4946734",
+   "baslik": "Goldman highlights two U.S. auto stocks to buy into earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/goldman-highlights-two-us-auto-stocks-to-buy-into-earnings-93CH-4946734",
+   "saat": "16:00",
+   "tarih_iso": "2026-10-13T16:00:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-13T16:24:53.080825+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-enerflex-stock-surging-today-93CH-4946717",
+   "baslik": "Why is Enerflex stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-enerflex-stock-surging-today-93CH-4946717",
+   "saat": "15:59",
+   "tarih_iso": "2026-10-13T15:59:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-13T16:24:53.080825+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fermi-stock-surging-today-93CH-4946714",
+   "baslik": "Why is Fermi stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-fermi-stock-surging-today-93CH-4946714",
+   "saat": "15:58",
+   "tarih_iso": "2026-10-13T15:58:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-13T16:24:53.080825+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
    "baslik": "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
    "kaynak": "CNBC",
@@ -213,6 +289,16 @@
    "tarih_iso": "2026-10-13T15:44:00+03:00",
    "kodlar": [],
    "eklenme": "2026-10-13T15:56:26.580984+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
+   "baslik": "Why this little known Chinese chipmaker has caused a global stock rout",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
+   "saat": "15:41",
+   "tarih_iso": "2026-10-13T15:41:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-13T16:24:53.080825+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-syndax-pharmaceuticals-stock-sliding-today-93CH-4946660",
@@ -325,6 +411,16 @@
    "eklenme": "2026-10-13T15:56:26.580984+03:00"
   },
   {
+   "id": "yab-https://www.ft.com/content/183ace53-2a89-43a9-88c1-9ea1e1b4437d?syn-25a6b1a6=1",
+   "baslik": "The world economy is running hotter than expected",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/183ace53-2a89-43a9-88c1-9ea1e1b4437d?syn-25a6b1a6=1",
+   "saat": "14:30",
+   "tarih_iso": "2026-10-13T14:30:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-13T16:24:53.080825+03:00"
+  },
+  {
    "id": "yab-https://www.marketwatch.com/story/options-traders-expect-wild-stock-market-swings-beginning-later-this-month-here-are-4-things-to-watch-e4931b02?mod=mw_rss_topstories",
    "baslik": "Options traders expect wild stock-market swings beginning later this month. Here are 4 things to watch.",
    "kaynak": "MarketWatch",
@@ -426,6 +522,16 @@
   }
  ],
  "altin_haber": [
+  {
+   "id": "alt-https://www.dunya.com/foto-galeri/ekonomi/unlu-analist-altin-fiyatlarini-belirleyecek-diyerek-duyurdu-alim-ilgisi-suruyor-galeri-843709",
+   "baslik": "Ünlü analist 'altın fiyatlarını belirleyecek' diyerek duyurdu: Alım ilgisi sürüyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/unlu-analist-altin-fiyatlarini-belirleyecek-diyerek-duyurdu-alim-ilgisi-suruyor-galeri-843709",
+   "saat": "16:16",
+   "tarih_iso": "2026-10-13T16:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-13T16:24:53.080825+03:00"
+  },
   {
    "id": "alt-https://www.investing.com/analysis/gold-daily-the-squeeze-setup-is-there-but-42004225-still-has-to-break-200689475",
    "baslik": "Gold Daily: The Squeeze Setup Is There, but $4,200–$4,225 Still Has to Break",
@@ -547,5 +653,5 @@
    "eklenme": "2026-10-13T15:56:26.580984+03:00"
   }
  ],
- "guncelleme": "2026-10-13T15:56:26.580984+03:00"
+ "guncelleme": "2026-10-13T16:24:53.080825+03:00"
 }
