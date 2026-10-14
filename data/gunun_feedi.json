@@ -56,6 +56,30 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/migrostan-ciftcilere-yeni-destek-alisverislerde-yuzde-5e-varan-money-iadesi-haberi-843799",
+   "baslik": "Migros'tan çiftçilere yeni destek: Alışverişlerde yüzde 5'e varan Money iadesi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/migrostan-ciftcilere-yeni-destek-alisverislerde-yuzde-5e-varan-money-iadesi-haberi-843799",
+   "saat": "00:01",
+   "tarih_iso": "2026-10-15T00:01:00+03:00",
+   "kodlar": [
+    "MGROS"
+   ],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahceden-sampiyonlar-liginde-6-0lik-hezimet-haberi-843928",
+   "baslik": "Fenerbahçe’den Şampiyonlar Ligi’nde 6-0’lık hezimet",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahceden-sampiyonlar-liginde-6-0lik-hezimet-haberi-843928",
+   "saat": "23:49",
+   "tarih_iso": "2026-10-14T23:49:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-maci-saat-kacta-aston-villa-fenerbahce-maci-saati-ve-kanali-haberi-843797",
    "baslik": "FENERBAHÇE MAÇI SAAT KAÇTA? Aston Villa - Fenerbahçe maçı saati ve kanalı...",
    "kaynak": "Dünya",
@@ -141,6 +165,76 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/kairos-power-tennessee-reaktoru-icin-643-milyon-dolar-toplad-93CH-4103809",
+   "baslik": "Kairos Power, Tennessee reaktörü için 643 milyon dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/kairos-power-tennessee-reaktoru-icin-643-milyon-dolar-toplad-93CH-4103809",
+   "saat": "23:38",
+   "tarih_iso": "2026-10-14T23:38:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakan-yardimcisi-hatipoglu-fon-dosyasi-kapsaminda-masak-29-farkli-ulkeden-48-ayri-talepte-bulundu/4089049",
+   "baslik": "Hazine ve Maliye Bakan Yardımcısı Hatipoğlu: Fon dosyası kapsamında MASAK 29 farklı ülkeden 48 ayrı talepte bulundu",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakan-yardimcisi-hatipoglu-fon-dosyasi-kapsaminda-masak-29-farkli-ulkeden-48-ayri-talepte-bulundu/4089049",
+   "saat": "23:24",
+   "tarih_iso": "2026-10-14T23:24:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/altn-madenciligi-hisseleri-fed-faiz-artrm-beklentisiyle-dustu-93CH-4103720",
+   "baslik": "Altın madenciliği hisseleri Fed faiz artırımı beklentisiyle düştü",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/altn-madenciligi-hisseleri-fed-faiz-artrm-beklentisiyle-dustu-93CH-4103720",
+   "saat": "22:54",
+   "tarih_iso": "2026-10-14T22:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hazine-tahvil-faizleri-enflasyon-satsn-tersine-cevirdi-93CH-4103719",
+   "baslik": "ABD Hazine tahvil faizleri enflasyon satışını tersine çevirdi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/abd-hazine-tahvil-faizleri-enflasyon-satsn-tersine-cevirdi-93CH-4103719",
+   "saat": "22:53",
+   "tarih_iso": "2026-10-14T22:53:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-fiyat-baskilarinin-surdugune-ve-bazi-bolgelerde-yogunlastigina-isaret-etti/4089025",
+   "baslik": "Fed'in Bej Kitabı, fiyat baskılarının sürdüğüne ve bazı bölgelerde yoğunlaştığına işaret etti",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-fiyat-baskilarinin-surdugune-ve-bazi-bolgelerde-yogunlastigina-isaret-etti/4089025",
+   "saat": "22:46",
+   "tarih_iso": "2026-10-14T22:46:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/fed-bej-kitap-bazi-bolgelerde-fiyat-artislari-hizlandi-3791395",
+   "baslik": "Fed Bej Kitap: Bazı bölgelerde fiyat artışları hızlandı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/fed-bej-kitap-bazi-bolgelerde-fiyat-artislari-hizlandi-3791395",
+   "saat": "22:14",
+   "tarih_iso": "2026-10-14T22:14:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-altin-ve-gumus-fiyatlari-abd-enflasyon-verisi-sonrasi-geriliyor/4088935",
+   "baslik": "Küresel piyasalarda altın ve gümüş fiyatları ABD enflasyon verisi sonrası geriliyor",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-altin-ve-gumus-fiyatlari-abd-enflasyon-verisi-sonrasi-geriliyor/4088935",
+   "saat": "20:49",
+   "tarih_iso": "2026-10-14T20:49:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/bitcoine-enflasyon-darbesi-simdi-gozler-iki-kritik-gelismede-galeri-843867",
    "baslik": "Bitcoin'e enflasyon darbesi: Şimdi gözler iki kritik gelişmede",
@@ -353,6 +447,136 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/iambic-therapeutics-prices-ipo-at-16-per-share-on-nasdaq-432SI-4950227",
+   "baslik": "Iambic Therapeutics prices IPO at $16 per share on Nasdaq",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/iambic-therapeutics-prices-ipo-at-16-per-share-on-nasdaq-432SI-4950227",
+   "saat": "02:05",
+   "tarih_iso": "2026-10-15T02:05:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
+   "baslik": "Anthropic’s Q3 revenue surges 45% to nearly $17 billion",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/anthropics-q3-revenue-surges-45-to-nearly-17-billion-4950208",
+   "saat": "01:54",
+   "tarih_iso": "2026-10-15T01:54:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
+   "baslik": "Jim Cramer explains why even strong bank earnings couldn't save their stocks",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/14/cramer-big-bank-earnings-stock-reaction.html",
+   "saat": "01:48",
+   "tarih_iso": "2026-10-15T01:48:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+   "baslik": "Anthropic tells investors quarterly revenue up 50% to $16.8bn ahead of IPO",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+   "saat": "01:47",
+   "tarih_iso": "2026-10-15T01:47:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+   "baslik": "Rocket Lab’s stock slides as the company pushes back Neutron’s first launch",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/rocket-labs-stock-slides-as-the-company-pushes-back-neutrons-first-launch-afd2932a?mod=mw_rss_topstories",
+   "saat": "01:33",
+   "tarih_iso": "2026-10-15T01:33:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
+   "baslik": "Jim Cramer says don't give up on this unpredictable market. Here's why",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/14/cramer-stock-market-selloff-inflation.html",
+   "saat": "01:19",
+   "tarih_iso": "2026-10-15T01:19:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+   "baslik": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+   "saat": "01:03",
+   "tarih_iso": "2026-10-15T01:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
+   "baslik": "From a record high to a 10% drop in just two months: Why small-cap stocks have unraveled so fast",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/from-a-record-high-to-a-10-drop-in-just-two-months-why-small-cap-stocks-have-unraveled-so-fast-1cf0f4d5?mod=mw_rss_topstories",
+   "saat": "00:54",
+   "tarih_iso": "2026-10-15T00:54:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-rocket-lab-stock-tumbling-today-93CH-4950150",
+   "baslik": "Why is Rocket Lab stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-rocket-lab-stock-tumbling-today-93CH-4950150",
+   "saat": "00:31",
+   "tarih_iso": "2026-10-15T00:31:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-044-4950140",
+   "baslik": "Colombia stocks higher at close of trade; COLCAP up 0.44%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-044-4950140",
+   "saat": "00:25",
+   "tarih_iso": "2026-10-15T00:25:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/vanda-pharmaceuticals-stock-falls-after-anxiety-drug-trial-fails-4950139",
+   "baslik": "Vanda Pharmaceuticals stock falls after anxiety drug trial fails",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/vanda-pharmaceuticals-stock-falls-after-anxiety-drug-trial-fails-4950139",
+   "saat": "00:24",
+   "tarih_iso": "2026-10-15T00:24:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-030-4950135",
+   "baslik": "Russia stocks lower at close of trade; MOEX Russia Index down 0.30%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-030-4950135",
+   "saat": "00:20",
+   "tarih_iso": "2026-10-15T00:20:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+   "baslik": "Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html",
+   "saat": "00:19",
+   "tarih_iso": "2026-10-15T00:19:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html",
    "baslik": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge",
@@ -1066,6 +1290,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.mining.com/hycroft-hits-bonanza-gold-grades-at-nevada-mine/",
+   "baslik": "Hycroft hits bonanza gold grades at Nevada mine",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/hycroft-hits-bonanza-gold-grades-at-nevada-mine/",
+   "saat": "23:25",
+   "tarih_iso": "2026-10-14T23:25:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T02:19:16.340231+03:00"
+  },
+  {
    "id": "alt-https://tr.investing.com/news/stock-market-news/altn-madenciligi-hisseleri-fed-faiz-artrm-beklentisiyle-dustu-93CH-4103720",
    "baslik": "Altın madenciliği hisseleri Fed faiz artırımı beklentisiyle düştü",
    "kaynak": "Investing TR",
@@ -1306,5 +1540,5 @@
    "eklenme": "2026-10-14T13:35:37.676510+03:00"
   }
  ],
- "guncelleme": "2026-10-14T23:15:36.300933+03:00"
+ "guncelleme": "2026-10-15T02:19:16.340231+03:00"
 }
