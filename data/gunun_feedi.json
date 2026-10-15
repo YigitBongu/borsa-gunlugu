@@ -1,6 +1,33 @@
 {
  "tarih": "2026-10-15",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-ISMEN-202610151309",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:09",
+   "tarih_iso": "2026-10-15T13:09:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-15T13:45:39.339313+03:00"
+  },
+  {
+   "id": "kap-my-ISMEN-202610151308",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "13:08",
+   "tarih_iso": "2026-10-15T13:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-15T13:45:39.339313+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.dunya.com/spor/fenerbahce-tarfin-partizan-maci-ne-zaman-saat-kacta-hangi-kanalda-fb-tarfin-mac-saati-haberi-843975",
@@ -28,6 +55,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/dolar-endeksinde-sert-dusus-17-ayin-zirvesinden-geri-cekildi-haberi-843986",
+   "baslik": "Dolar endeksinde sert düşüş: 17 ayın zirvesinden geri çekildi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/dolar-endeksinde-sert-dusus-17-ayin-zirvesinden-geri-cekildi-haberi-843986",
+   "saat": "12:45",
+   "tarih_iso": "2026-10-15T12:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T13:45:39.339313+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/borsada-enflasyon-ve-teknoloji-satsyla-aylarn-en-kotu-gunu-93CH-4104371",
    "baslik": "Borsada enflasyon ve teknoloji satışıyla ayların en kötü günü",
@@ -99,6 +136,16 @@
    "eklenme": "2026-10-15T13:17:23.055307+03:00"
   },
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/fed-bej-kitap-raporunu-yayimladi-3919858",
+   "baslik": "Fed Bej Kitap raporunu yayımladı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/fed-bej-kitap-raporunu-yayimladi-3919858",
+   "saat": "09:43",
+   "tarih_iso": "2026-10-15T09:43:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T13:45:39.339313+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/dolartlde-son-durum-ne-15-ekim-2026-euro-ve-doviz-fiyatlari-pkh2-3791421",
    "baslik": "Dolar/TL'de son durum ne? 15 Ekim 2026 Euro ve döviz fiyatları…",
    "kaynak": "Bloomberg HT",
@@ -107,6 +154,16 @@
    "tarih_iso": "2026-10-15T09:30:01+03:00",
    "kodlar": [],
    "eklenme": "2026-10-15T13:17:23.055307+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/japonya-dan-abd-ye-21-milyar-dolarlik-cip-yatirimi-3919843",
+   "baslik": "Japonya'dan ABD'ye 21 milyar dolar yatırım",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/japonya-dan-abd-ye-21-milyar-dolarlik-cip-yatirimi-3919843",
+   "saat": "09:15",
+   "tarih_iso": "2026-10-15T09:15:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T13:45:39.339313+03:00"
   },
   {
    "id": "rss-https://www.bloomberght.com/fed-uyesi-goolsbee-enflasyon-verisi-hayal-kirikligi-yaratti-3791411",
@@ -151,6 +208,36 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pepsico-warns-energy-drink-ban-could-run-its-india-supplies-dry-as-red-bull-sells-on-4950707",
+   "baslik": "PepsiCo warns ’energy drink’ ban could run its India supplies dry as Red Bull sells on",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pepsico-warns-energy-drink-ban-could-run-its-india-supplies-dry-as-red-bull-sells-on-4950707",
+   "saat": "13:24",
+   "tarih_iso": "2026-10-15T13:24:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T13:45:39.339313+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citi-names-2-key-market-risks-for-2027-4951060",
+   "baslik": "Citi names 2 key market risks for 2027",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citi-names-2-key-market-risks-for-2027-4951060",
+   "saat": "13:22",
+   "tarih_iso": "2026-10-15T13:22:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T13:45:39.339313+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-4951055",
+   "baslik": "Why is Nebius stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-4951055",
+   "saat": "13:17",
+   "tarih_iso": "2026-10-15T13:17:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T13:45:39.339313+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
    "baslik": "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
    "kaynak": "CNBC",
@@ -159,6 +246,16 @@
    "tarih_iso": "2026-10-15T13:13:25+03:00",
    "kodlar": [],
    "eklenme": "2026-10-15T13:17:23.055307+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/is-byd-stock-a-buy-into-earnings-goldman-weighs-in-93CH-4951025",
+   "baslik": "Is BYD stock a buy into earnings? Goldman weighs in",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/is-byd-stock-a-buy-into-earnings-goldman-weighs-in-93CH-4951025",
+   "saat": "13:08",
+   "tarih_iso": "2026-10-15T13:08:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-15T13:45:39.339313+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/10/15/france-budget-deficit-moulin-protests.html",
@@ -583,5 +680,5 @@
    "eklenme": "2026-10-15T13:17:23.055307+03:00"
   }
  ],
- "guncelleme": "2026-10-15T13:17:23.055307+03:00"
+ "guncelleme": "2026-10-15T13:45:39.339313+03:00"
 }
