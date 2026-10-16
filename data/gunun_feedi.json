@@ -2,6 +2,45 @@
  "tarih": "2026-10-16",
  "kap": [
   {
+   "id": "kap-my-ISMEN-202610161308",
+   "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
+   "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+   "kodlar": [
+    "ISMEN"
+   ],
+   "kategori": "Yatırım",
+   "saat": "13:08",
+   "tarih_iso": "2026-10-16T13:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
+  {
+   "id": "kap-my-SAHOL-202610161302",
+   "baslik": "HACI ÖMER SABANCI HOLDİNG A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:02",
+   "tarih_iso": "2026-10-16T13:02:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
+  {
+   "id": "kap-my-ODAS-202610161252",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ODAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "12:52",
+   "tarih_iso": "2026-10-16T12:52:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
+  {
    "id": "kap-my-YEOTK-202610161206",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -42,6 +81,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.bloomberght.com/sabanci-dan-pay-geri-alim-karari-3791652",
+   "baslik": "Sabancı'dan pay geri alım kararı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/sabanci-dan-pay-geri-alim-karari-3791652",
+   "saat": "13:09",
+   "tarih_iso": "2026-10-16T13:09:17+03:00",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/ilker-selim-zorluoglu-yapay-zek-uygulamalarini-finans-ve-enerji-alanlarina-tasiyacagiz-3920170",
    "baslik": "“Yapay zekâ uygulamalarını finans ve enerji alanlarına taşıyacağız”",
@@ -190,6 +241,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-best-of-the-ai-trade-could-be-behind-us-heres-how-to-prepare-according-to-barclays-725ab4dd?mod=mw_rss_topstories",
+   "baslik": "The best of the AI trade could be behind us. Here’s how to prepare, according to Barclays",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-best-of-the-ai-trade-could-be-behind-us-heres-how-to-prepare-according-to-barclays-725ab4dd?mod=mw_rss_topstories",
+   "saat": "13:21",
+   "tarih_iso": "2026-10-16T13:21:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-on-course-for-best-week-since-aug-on-easing-yields-4953245",
+   "baslik": "European stocks on course for best week since Aug on easing yields",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-on-course-for-best-week-since-aug-on-easing-yields-4953245",
+   "saat": "13:20",
+   "tarih_iso": "2026-10-16T13:20:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-highlights-top-midcap-biotech-stocks-ahead-of-earnings-4953605",
+   "baslik": "Jefferies Highlights Top Mid-Cap Biotech Stocks Ahead of Earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jefferies-highlights-top-midcap-biotech-stocks-ahead-of-earnings-4953605",
+   "saat": "13:20",
+   "tarih_iso": "2026-10-16T13:20:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/coreweave-bond-rout-tests-markets-math-on-ai-buildout-4953576",
+   "baslik": "CoreWeave bond rout tests market’s math on AI buildout",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/coreweave-bond-rout-tests-markets-math-on-ai-buildout-4953576",
+   "saat": "13:18",
+   "tarih_iso": "2026-10-16T13:18:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canadian-steelmakers-offset-some-us-tariff-pain-with-domestic-demand-4953572",
+   "baslik": "Canadian steelmakers offset some US tariff pain with domestic demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canadian-steelmakers-offset-some-us-tariff-pain-with-domestic-demand-4953572",
+   "saat": "13:14",
+   "tarih_iso": "2026-10-16T13:14:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/barclays-cau-says-the-best-of-the-ai-trade-may-be-over-4953587",
+   "baslik": "Barclays’ Cau says the best of the AI trade may be over",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/barclays-cau-says-the-best-of-the-ai-trade-may-be-over-4953587",
+   "saat": "13:12",
+   "tarih_iso": "2026-10-16T13:12:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+   "baslik": "Treasuries head for best week since February as AI jitters halt bond rout",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+   "saat": "13:08",
+   "tarih_iso": "2026-10-16T13:08:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4953575",
+   "baslik": "As AI rally wobbles, stock market’s spotlight turns to earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings-4953575",
+   "saat": "13:07",
+   "tarih_iso": "2026-10-16T13:07:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4953554",
+   "baslik": "Why is Alcoa stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-alcoa-stock-climbing-today-93CH-4953554",
+   "saat": "13:03",
+   "tarih_iso": "2026-10-16T13:03:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-16T13:33:23.916707+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/nasdaq-futures-edge-lower-as-ai-spending-fed-rate-concerns-weigh-4952930",
    "baslik": "S&P 500 futures inch higher, but on pace for losing week",
@@ -493,5 +634,5 @@
    "eklenme": "2026-10-16T13:05:56.351515+03:00"
   }
  ],
- "guncelleme": "2026-10-16T13:05:56.351515+03:00"
+ "guncelleme": "2026-10-16T13:33:23.916707+03:00"
 }
