@@ -2,6 +2,45 @@
  "tarih": "2026-10-19",
  "kap": [
   {
+   "id": "kap-my-MAVI-202610191915",
+   "baslik": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "MAVI"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:15",
+   "tarih_iso": "2026-10-19T19:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "kap-my-AKFGY-202610191843",
+   "baslik": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+   "kodlar": [
+    "AKFGY"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:43",
+   "tarih_iso": "2026-10-19T18:43:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "kap-my-SELEC-202610191833",
+   "baslik": "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş.",
+   "kodlar": [
+    "SELEC"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "18:33",
+   "tarih_iso": "2026-10-19T18:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
    "id": "kap-my-CCOLA-202610191326",
    "baslik": "COCA-COLA İÇECEK A.Ş. — Finansal Takvim",
    "sirket": "COCA-COLA İÇECEK A.Ş.",
@@ -16,6 +55,30 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.bloomberght.com/sabanci-ailesi-ve-holding-yoneticilerinden-238-milyon-tl-lik-hisse-alimi-3791836",
+   "baslik": "Sabancı Ailesi ve Holding yöneticilerinden 238 milyon TL'lik hisse alımı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/sabanci-ailesi-ve-holding-yoneticilerinden-238-milyon-tl-lik-hisse-alimi-3791836",
+   "saat": "19:22",
+   "tarih_iso": "2026-10-19T19:22:51+03:00",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/sabanci-holding-de-1-gunde-238-milyon-liralik-geri-alim-3920896",
+   "baslik": "Sabancı Holding'de 1 günde 238 milyon liralık geri alım",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/sabanci-holding-de-1-gunde-238-milyon-liralik-geri-alim-3920896",
+   "saat": "18:23",
+   "tarih_iso": "2026-10-19T18:23:31+03:00",
+   "kodlar": [
+    "SAHOL"
+   ],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/kazanci-holdingden-ozbekistana200-milyon-dolarlik-yeni-enerji-yatirimi-3920766",
    "baslik": "Kazancı Holding’den Özbekistan’a 200 milyon dolarlık yeni yatırım",
@@ -42,6 +105,46 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/abd-hazine-tahvil-getirileri-yapay-zeka-endiseleri-azalnca-yukseldi-93CH-4109558",
+   "baslik": "ABD Hazine tahvil getirileri yapay zeka endişeleri azalınca yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/abd-hazine-tahvil-getirileri-yapay-zeka-endiseleri-azalnca-yukseldi-93CH-4109558",
+   "saat": "23:48",
+   "tarih_iso": "2026-10-19T23:48:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/city-therapeutics-nasdaq-halka-arznda-230-milyon-dolar-toplad-432SI-4109487",
+   "baslik": "City Therapeutics, Nasdaq halka arzında 230 milyon dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/city-therapeutics-nasdaq-halka-arznda-230-milyon-dolar-toplad-432SI-4109487",
+   "saat": "23:13",
+   "tarih_iso": "2026-10-19T23:13:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/osman-celik-kimdir-hazine-ve-maliye-bakan-yardimcisi-osman-celik-emekli-mi-oldu-iste-biyografisi-3481603",
+   "baslik": "OSMAN ÇELİK KİMDİR? Hazine ve Maliye Bakan Yardımcısı Osman Çelik Emekli Mi Oldu? İşte Biyografisi...",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/osman-celik-kimdir-hazine-ve-maliye-bakan-yardimcisi-osman-celik-emekli-mi-oldu-iste-biyografisi-3481603",
+   "saat": "22:39",
+   "tarih_iso": "2026-10-19T22:39:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/turkiye-dokum-uretiminde-avrupa-ikincisi-olduihracat-6-milyar-euroyu-asti-haberi-844485",
+   "baslik": "Türkiye döküm üretiminde Avrupa ikincisi oldu:İhracat 6 milyar Euro'yu aştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/turkiye-dokum-uretiminde-avrupa-ikincisi-olduihracat-6-milyar-euroyu-asti-haberi-844485",
+   "saat": "21:19",
+   "tarih_iso": "2026-10-19T21:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/fed-faiz-karari-ne-zaman-bu-hafta-mi-fed-ekim-ayi-faiz-karari-toplanti-tarihi-2026-3481441",
    "baslik": "FED FAİZ KARARI NE ZAMAN, BU HAFTA MI? FED Ekim Ayı Faiz Kararı Toplantı Tarihi 2026",
@@ -164,6 +267,136 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+   "baslik": "SpaceX earnings will be all about AI — for better or for worse",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/spacex-earnings-will-be-all-about-ai-for-better-or-for-worse-89bbc772?mod=mw_rss_topstories",
+   "saat": "00:02",
+   "tarih_iso": "2026-10-20T00:02:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
+   "baslik": "Why the midterm elections are likely to become a strong tailwind for the stock market",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-20T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
+   "baslik": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
+   "saat": "23:57",
+   "tarih_iso": "2026-10-19T23:57:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-treasury-yields-rise-as-ai-stock-worries-ease-93CH-4958342",
+   "baslik": "US Treasury yields rise as AI stock worries ease",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-treasury-yields-rise-as-ai-stock-worries-ease-93CH-4958342",
+   "saat": "23:48",
+   "tarih_iso": "2026-10-19T23:48:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tradeweb-stock-tumbles-11-on-197-billion-trumid-deal-4958331",
+   "baslik": "Tradeweb stock tumbles 11% on $1.97 billion Trumid deal",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tradeweb-stock-tumbles-11-on-197-billion-trumid-deal-4958331",
+   "saat": "23:44",
+   "tarih_iso": "2026-10-19T23:44:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-007-4958294",
+   "baslik": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average down 0.07%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-down-007-4958294",
+   "saat": "23:31",
+   "tarih_iso": "2026-10-19T23:31:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-069-4958289",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.69%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-069-4958289",
+   "saat": "23:30",
+   "tarih_iso": "2026-10-19T23:30:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-017-4958282",
+   "baslik": "Brazil stocks lower at close of trade; Bovespa down 0.17%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/brazil-stocks-lower-at-close-of-trade-bovespa-down-017-4958282",
+   "saat": "23:30",
+   "tarih_iso": "2026-10-19T23:30:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/city-therapeutics-raises-230m-in-upsized-nasdaq-ipo-432SI-4958204",
+   "baslik": "City Therapeutics raises $230M in upsized Nasdaq IPO",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/city-therapeutics-raises-230m-in-upsized-nasdaq-ipo-432SI-4958204",
+   "saat": "23:13",
+   "tarih_iso": "2026-10-19T23:13:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories",
+   "baslik": "The Treasury’s financing plans are sparking anxiety on Wall Street",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-the-treasurys-financing-plans-are-sparking-anxiety-on-wall-street-b49b5e17?mod=mw_rss_topstories",
+   "saat": "22:45",
+   "tarih_iso": "2026-10-19T22:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
+   "baslik": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
+   "saat": "22:17",
+   "tarih_iso": "2026-10-19T22:17:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
+   "baslik": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
+   "saat": "22:13",
+   "tarih_iso": "2026-10-19T22:13:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
+   "baslik": "French bond sell-off intensifies after riots and looting",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1",
+   "saat": "21:31",
+   "tarih_iso": "2026-10-19T21:31:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories",
    "baslik": "One of this year’s most important relationships in global financial markets is falling apart",
@@ -517,6 +750,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-faces-prenovember-3-selloff-risk-as-trump-strategy-comes-into-focus-200689851",
+   "baslik": "Gold Faces Pre-November 3 Sell-Off Risk as Trump Strategy Comes Into Focus",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-faces-prenovember-3-selloff-risk-as-trump-strategy-comes-into-focus-200689851",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-20T00:10:11.915993+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/altin-alacaklar-dikkat-uzmandan-kritik-uyari-7-300-tl-sinyali-3481445",
    "baslik": "Altın alacaklar dikkat! Uzmandan kritik uyarı: 7.300 TL sinyali",
    "kaynak": "CNN Türk Ekonomi",
@@ -717,5 +960,5 @@
    "eklenme": "2026-10-19T14:14:53.040407+03:00"
   }
  ],
- "guncelleme": "2026-10-19T21:17:36.560113+03:00"
+ "guncelleme": "2026-10-20T00:10:11.915993+03:00"
 }
