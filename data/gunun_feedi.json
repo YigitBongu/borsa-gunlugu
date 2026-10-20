@@ -2,6 +2,32 @@
  "tarih": "2026-10-20",
  "kap": [
   {
+   "id": "kap-my-TABGD-202610201814",
+   "baslik": "TAB GIDA SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "TAB GIDA SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "TABGD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:14",
+   "tarih_iso": "2026-10-20T18:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "kap-my-YYLGD-202610201810",
+   "baslik": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "YYLGD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "18:10",
+   "tarih_iso": "2026-10-20T18:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
    "id": "kap-my-QUAGR-202610201111",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -17,6 +43,42 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-20-ekim-2026/4094736",
+   "baslik": "60 saniyede ekonomide bugün (20 Ekim 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-20-ekim-2026/4094736",
+   "saat": "16:38",
+   "tarih_iso": "2026-10-20T16:38:59+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/tgs-fortune-500-turkiye-listesinde-ilk-100e-girdi/4094616",
+   "baslik": "TGS, Fortune 500 Türkiye listesinde ilk 100'e girdi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tgs-fortune-500-turkiye-listesinde-ilk-100e-girdi/4094616",
+   "saat": "15:02",
+   "tarih_iso": "2026-10-20T15:02:23+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/is-bankasi-ndan-visa-ile-yurt-disi-para-transferi-hizmeti-3921133",
+   "baslik": "İş Bankası'ndan “Visa ile Yurt Dışı Para Transferi” hizmeti",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/is-bankasi-ndan-visa-ile-yurt-disi-para-transferi-hizmeti-3921133",
+   "saat": "14:54",
+   "tarih_iso": "2026-10-20T14:54:29+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/goldman-sachs-sabanci-da-payini-artirdi-3791869",
    "baslik": "Goldman Sachs, Sabancı'da payını artırdı",
    "kaynak": "Bloomberg HT",
@@ -30,6 +92,116 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/merkez-bankasi-faiz-karari-ekim-2026-ekim-ayi-tcmb-faiz-karari-ne-olacak-tcmb-ekim-toplanti-tarihi-belli-oldu-3481339",
+   "baslik": "MERKEZ BANKASI FAİZ KARARI EKİM 2026: Ekim Ayı TCMB Faiz Kararı Ne Olacak? TCMB Ekim Toplantı Tarihi Belli Oldu",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/merkez-bankasi-faiz-karari-ekim-2026-ekim-ayi-tcmb-faiz-karari-ne-olacak-tcmb-ekim-toplanti-tarihi-belli-oldu-3481339",
+   "saat": "20:30",
+   "tarih_iso": "2026-10-20T20:30:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/hazine-alacaklari-255-6-milyar-lira-oldu-3792002",
+   "baslik": "Hazine alacakları 255,6 milyar lira oldu",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/hazine-alacaklari-255-6-milyar-lira-oldu-3792002",
+   "saat": "18:11",
+   "tarih_iso": "2026-10-20T18:11:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/hazine-alacaklari-2556-milyar-liraya-ulasti-haberi-844606",
+   "baslik": "Hazine alacakları 255,6 milyar liraya ulaştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/hazine-alacaklari-2556-milyar-liraya-ulasti-haberi-844606",
+   "saat": "17:56",
+   "tarih_iso": "2026-10-20T17:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/amazon-dan-almanya-ya-16-milyar-euro-yatirim-3921179",
+   "baslik": "Amazon'dan Almanya'ya 16 milyar Euro yatırım",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/amazon-dan-almanya-ya-16-milyar-euro-yatirim-3921179",
+   "saat": "17:08",
+   "tarih_iso": "2026-10-20T17:08:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/s-p-global-turkiye-direktorunden-tcmb-beklentisi-3791991",
+   "baslik": "S&P Global Türkiye direktöründen TCMB beklentisi",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/s-p-global-turkiye-direktorunden-tcmb-beklentisi-3791991",
+   "saat": "16:54",
+   "tarih_iso": "2026-10-20T16:54:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/turkiyenin-enerji-altyapisina-2035e-kadar-80-milyar-dolar-yatirim-3481927",
+   "baslik": "Türkiye'nin enerji altyapısına 2035'e kadar 80 milyar dolar yatırım",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/turkiyenin-enerji-altyapisina-2035e-kadar-80-milyar-dolar-yatirim-3481927",
+   "saat": "15:59",
+   "tarih_iso": "2026-10-20T15:59:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/dunya/amazondan-almanyaya-16-milyar-euroyu-asan-dev-yatirim-haberi-844593",
+   "baslik": "Amazon'dan Almanya'ya 16 milyar Euro'yu aşan dev yatırım",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/amazondan-almanyaya-16-milyar-euroyu-asan-dev-yatirim-haberi-844593",
+   "saat": "15:50",
+   "tarih_iso": "2026-10-20T15:50:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ihracat/bati-akdenizin-ihracat-hedefi-belli-oldu-3-milyar-dolar-haberi-844586",
+   "baslik": "Batı Akdeniz'in ihracat hedefi belli oldu: 3 milyar dolar",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ihracat/bati-akdenizin-ihracat-hedefi-belli-oldu-3-milyar-dolar-haberi-844586",
+   "saat": "15:15",
+   "tarih_iso": "2026-10-20T15:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/uzman-isim-anlatti-altin-yukseliyor-petrol-baski-altinda-merkez-bankasi-ne-yapacak-3481826",
+   "baslik": "Uzman isim anlattı: Altın yükseliyor, petrol baskı altında! Merkez Bankası ne yapacak?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/uzman-isim-anlatti-altin-yukseliyor-petrol-baski-altinda-merkez-bankasi-ne-yapacak-3481826",
+   "saat": "15:06",
+   "tarih_iso": "2026-10-20T15:06:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-131-fonun-66si-tamamen-tasfiye-edildi/4094601",
+   "baslik": "Hazine ve Maliye Bakanı Şimşek: 131 fonun 66'sı tamamen tasfiye edildi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-131-fonun-66si-tamamen-tasfiye-edildi/4094601",
+   "saat": "14:50",
+   "tarih_iso": "2026-10-20T14:50:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/macaristan-basbakani-euro-bolgesi-ne-en-kisa-surede-katilimi-destekliyor-3791961",
+   "baslik": "Macaristan Başbakanı, Euro Bölgesi'ne en kısa sürede katılımı destekliyor",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/macaristan-basbakani-euro-bolgesi-ne-en-kisa-surede-katilimi-destekliyor-3791961",
+   "saat": "14:27",
+   "tarih_iso": "2026-10-20T14:27:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-kanada-merkez-bankas-faiz-yolu-izlenirken-geriledi-4110391",
    "baslik": "TSX vadeli işlemleri Kanada Merkez Bankası faiz yolu izlenirken geriledi",
@@ -182,6 +354,176 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+   "baslik": "Oil prices fall as traders hope for diplomatic progress in Middle East",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/oil-price-wti-brent-crude.html",
+   "saat": "18:31",
+   "tarih_iso": "2026-10-20T18:31:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-loblaw-stock-climbing-today-93CH-4960637",
+   "baslik": "Why is Loblaw stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-loblaw-stock-climbing-today-93CH-4960637",
+   "saat": "18:28",
+   "tarih_iso": "2026-10-20T18:28:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+   "baslik": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+   "saat": "18:27",
+   "tarih_iso": "2026-10-20T18:27:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/unconfirmed-qatarpakistan-iran-peace-proposal-lifts-stocks-weighs-on-oil-4960631",
+   "baslik": "Unconfirmed Qatar-Pakistan Iran peace proposal lifts stocks, weighs on oil",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/unconfirmed-qatarpakistan-iran-peace-proposal-lifts-stocks-weighs-on-oil-4960631",
+   "saat": "18:20",
+   "tarih_iso": "2026-10-20T18:20:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/myriad-genetics-stock-surges-on-210m-prenatal-unit-sale-4960632",
+   "baslik": "Myriad Genetics stock surges on $210M prenatal unit sale",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/myriad-genetics-stock-surges-on-210m-prenatal-unit-sale-4960632",
+   "saat": "18:15",
+   "tarih_iso": "2026-10-20T18:15:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-007-4960630",
+   "baslik": "Morocco stocks lower at close of trade; Moroccan All Shares down 0.07%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morocco-stocks-lower-at-close-of-trade-moroccan-all-shares-down-007-4960630",
+   "saat": "18:15",
+   "tarih_iso": "2026-10-20T18:15:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-keel-infrastructure-stock-climbing-today-93CH-4960618",
+   "baslik": "Why is Keel Infrastructure stock climbing today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-keel-infrastructure-stock-climbing-today-93CH-4960618",
+   "saat": "18:06",
+   "tarih_iso": "2026-10-20T18:06:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+   "baslik": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+   "saat": "18:01",
+   "tarih_iso": "2026-10-20T18:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
+   "baslik": "US pending home sales fall to record low as mortgage rates surge",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
+   "saat": "17:39",
+   "tarih_iso": "2026-10-20T17:39:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
+   "baslik": "Here’s why GM’s stock is having its worst day in over a year",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
+   "saat": "17:35",
+   "tarih_iso": "2026-10-20T17:35:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
+   "baslik": "September data shows housing market in a deep freeze",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/september-data-shows-housing-market-in-a-deep-freeze.html",
+   "saat": "17:18",
+   "tarih_iso": "2026-10-20T17:18:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+   "baslik": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
+   "saat": "17:12",
+   "tarih_iso": "2026-10-20T17:12:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+   "baslik": "Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html",
+   "saat": "17:09",
+   "tarih_iso": "2026-10-20T17:09:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
+   "baslik": "What options traders expect from SpaceX earnings after the bell",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/spacex-reports-after-the-bell-heres-what-options-traders-expect-.html",
+   "saat": "17:01",
+   "tarih_iso": "2026-10-20T17:01:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+   "baslik": "Data center stocks slide as Korea IPO plunges 30%, pressuring tech sentiment",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html",
+   "saat": "16:50",
+   "tarih_iso": "2026-10-20T16:50:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/20/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "saat": "16:05",
+   "tarih_iso": "2026-10-20T16:05:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
+   "baslik": "Investors look to earnings to reset the bull market. The key level to watch on the S&P 500",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html",
+   "saat": "15:52",
+   "tarih_iso": "2026-10-20T15:52:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/northrop-lifts-2026-profit-forecast-on-strong-defense-demand-record-backlog-4959415",
    "baslik": "Northrop lifts 2026 profit forecast on strong defense demand, record backlog",
@@ -485,6 +827,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-holds-at-a-crossroads-ahead-of-fed-decision-and-iran-developments-200689901",
+   "baslik": "Gold Holds at a Crossroads Ahead of Fed Decision and Iran Developments",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-holds-at-a-crossroads-ahead-of-fed-decision-and-iran-developments-200689901",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-20T18:31:57.077405+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/uzman-isim-anlatti-altin-yukseliyor-petrol-baski-altinda-merkez-bankasi-ne-yapacak-3481826",
    "baslik": "Uzman isim anlattı: Altın yükseliyor, petrol baskı altında! Merkez Bankası ne yapacak?",
    "kaynak": "CNN Türk Ekonomi",
@@ -605,5 +957,5 @@
    "eklenme": "2026-10-20T13:24:25.473624+03:00"
   }
  ],
- "guncelleme": "2026-10-20T13:50:48.186583+03:00"
+ "guncelleme": "2026-10-20T18:31:57.077405+03:00"
 }
