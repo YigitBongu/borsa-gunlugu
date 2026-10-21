@@ -2,6 +2,45 @@
  "tarih": "2026-10-21",
  "kap": [
   {
+   "id": "kap-my-SMRTG-202610211317",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "SMRTG"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:17",
+   "tarih_iso": "2026-10-21T13:17:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
+  {
+   "id": "kap-my-KCAER-202610211313",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "KCAER"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:13",
+   "tarih_iso": "2026-10-21T13:13:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
+  {
+   "id": "kap-my-CWENE-202610211310",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "CWENE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "13:10",
+   "tarih_iso": "2026-10-21T13:10:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202610211304",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Yatırım Kuruluşu Varant - Sertifika - Senetlerine İlişkin Bildirim",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -42,6 +81,30 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekom-cop31-mesajini-avrupa-basketbol-sahnesine-tasidi-haberi-844731",
+   "baslik": "Türk Telekom COP31 mesajını Avrupa basketbol sahnesine taşıdı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekom-cop31-mesajini-avrupa-basketbol-sahnesine-tasidi-haberi-844731",
+   "saat": "13:52",
+   "tarih_iso": "2026-10-21T13:52:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/turk-telekom-cop31-mesajini-avrupa-basketbol-sahnesine-tasidi-3921411",
+   "baslik": "Türk Telekom COP31 mesajını basketbol sahnesine taşıdı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/turk-telekom-cop31-mesajini-avrupa-basketbol-sahnesine-tasidi-3921411",
+   "saat": "13:47",
+   "tarih_iso": "2026-10-21T13:47:24+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/turkcellden-6gye-gecis-icin-kritik-test-3921399",
    "baslik": "Turkcell’den 6G’ye geçiş için kritik test",
@@ -116,6 +179,16 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/merkez-bankasi-faiz-karari-ekim-2026-ekim-ayi-tcmb-faiz-karari-ne-olacak-tcmb-ekim-toplanti-tarihi-belli-oldu-3481339",
+   "baslik": "MERKEZ BANKASI FAİZ KARARI EKİM 2026: Ekim Ayı TCMB Faiz Kararı Ne Olacak? TCMB Ekim Toplantı Tarihi Belli Oldu",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/merkez-bankasi-faiz-karari-ekim-2026-ekim-ayi-tcmb-faiz-karari-ne-olacak-tcmb-ekim-toplanti-tarihi-belli-oldu-3481339",
+   "saat": "13:05",
+   "tarih_iso": "2026-10-21T13:05:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-bu-hafta-mi-aciklanacak-amerikan-merkez-bankasi-faiz-karari-ne-zaman-haberi-844720",
    "baslik": "Fed faiz kararı bu hafta mı açıklanacak? Amerikan Merkez Bankası faiz kararı ne zaman?",
@@ -238,6 +311,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
+   "baslik": "Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
+   "saat": "13:59",
+   "tarih_iso": "2026-10-21T13:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/uks-ftse-100-pauses-as-hot-inflation-report-outweighs-energy-boost-4962387",
+   "baslik": "UK’s FTSE 100 pauses as hot inflation report outweighs energy boost",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/uks-ftse-100-pauses-as-hot-inflation-report-outweighs-energy-boost-4962387",
+   "saat": "13:42",
+   "tarih_iso": "2026-10-21T13:42:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/spain-regulator-probes-exolum-for-alleged-market-abuse-93CH-4962384",
+   "baslik": "Spain regulator probes Exolum for alleged market abuse",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/spain-regulator-probes-exolum-for-alleged-market-abuse-93CH-4962384",
+   "saat": "13:39",
+   "tarih_iso": "2026-10-21T13:39:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/att-raises-annual-profit-forecast-on-strong-demand-for-bundled-plans-4962380",
+   "baslik": "AT&T raises annual profit forecast on strong demand for bundled plans",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/att-raises-annual-profit-forecast-on-strong-demand-for-bundled-plans-4962380",
+   "saat": "13:37",
+   "tarih_iso": "2026-10-21T13:37:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/morgan-stanley-downgrades-carrefour-after-sharerattling-profit-warning-4962367",
+   "baslik": "Morgan Stanley downgrades Carrefour after share-rattling profit warning",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/morgan-stanley-downgrades-carrefour-after-sharerattling-profit-warning-4962367",
+   "saat": "13:32",
+   "tarih_iso": "2026-10-21T13:32:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/will-micron-suffer-a-posttrilliondollar-hangover-4960424",
+   "baslik": "Will Micron suffer a post-trillion-dollar hangover?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/will-micron-suffer-a-posttrilliondollar-hangover-4960424",
+   "saat": "13:31",
+   "tarih_iso": "2026-10-21T13:31:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-21T14:02:49.038711+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/21/france-protests-bonds-debt.html",
    "baslik": "French 10-year bond yield hits 5% for first time since 2002 amid unrest",
@@ -591,5 +724,5 @@
    "eklenme": "2026-10-21T13:34:34.770783+03:00"
   }
  ],
- "guncelleme": "2026-10-21T13:34:34.770783+03:00"
+ "guncelleme": "2026-10-21T14:02:49.038711+03:00"
 }
