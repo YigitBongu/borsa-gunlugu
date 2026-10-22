@@ -43,6 +43,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.bloomberght.com/borc-yapilandirmasina-giden-vestel-de-is-modelini-gozden-gecirme-karari-3792201",
+   "baslik": "Borç yapılandırmasına giden Vestel'de iş modelini gözden geçirme kararı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/borc-yapilandirmasina-giden-vestel-de-is-modelini-gozden-gecirme-karari-3792201",
+   "saat": "13:32",
+   "tarih_iso": "2026-10-22T13:32:09+03:00",
+   "kodlar": [
+    "VESTL"
+   ],
+   "eklenme": "2026-10-22T14:01:54.246141+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/spor/galatasaray-fenerbahce-derbisinin-hakemi-belli-oldu-haberi-844874",
    "baslik": "Galatasaray-Fenerbahçe derbisinin hakemi belli oldu",
    "kaynak": "Dünya",
@@ -238,6 +250,36 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/pearson-shares-fall-3-as-profit-outlook-narrows-50-mln-restructuring-looms-4965197",
+   "baslik": "Pearson narrows profit guidance, reorganises into four units; shares slip",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/pearson-shares-fall-3-as-profit-outlook-narrows-50-mln-restructuring-looms-4965197",
+   "saat": "13:53",
+   "tarih_iso": "2026-10-22T13:53:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-22T14:01:54.246141+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/citi-downgrades-motiva-stock-rating-on-valuation-after-election-rally-93CH-4965361",
+   "baslik": "Citi downgrades Motiva stock rating on valuation after election rally",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/citi-downgrades-motiva-stock-rating-on-valuation-after-election-rally-93CH-4965361",
+   "saat": "13:40",
+   "tarih_iso": "2026-10-22T13:40:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-22T14:01:54.246141+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-stocks-buckle-as-french-yields-cross-5-barrier-4964797",
+   "baslik": "European stocks buckle under French yields, mixed earnings",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-stocks-buckle-as-french-yields-cross-5-barrier-4964797",
+   "saat": "13:38",
+   "tarih_iso": "2026-10-22T13:38:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-22T14:01:54.246141+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-gentherm-stock-sliding-today-93CH-4965339",
    "baslik": "Why is Gentherm stock sliding today?",
@@ -581,5 +623,5 @@
    "eklenme": "2026-10-22T13:37:54.531376+03:00"
   }
  ],
- "guncelleme": "2026-10-22T13:37:54.531376+03:00"
+ "guncelleme": "2026-10-22T14:01:54.246141+03:00"
 }
