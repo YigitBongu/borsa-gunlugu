@@ -160,6 +160,42 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sektorler/manisaya-200-milyon-euroluk-yatirim-haberi-845059",
+   "baslik": "Manisa’ya 200 milyon euroluk yatırım",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sektorler/manisaya-200-milyon-euroluk-yatirim-haberi-845059",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-24T00:00:00+03:00",
+   "kodlar": [
+    "ARCLK"
+   ],
+   "eklenme": "2026-10-24T02:15:28.707016+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/turkcell-ve-samsung-5g-is-birligini-bir-yil-uzatti-haberi-845060",
+   "baslik": "Turkcell ve Samsung, 5G iş birliğini bir yıl uzattı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turkcell-ve-samsung-5g-is-birligini-bir-yil-uzatti-haberi-845060",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-24T00:00:00+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-10-24T02:15:28.707016+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/astor-enerji-nin-ana-hissedarlari-hakkindaki-tedbirler-kaldirildi-3792451",
+   "baslik": "Astor Enerji'nin ana hissedarları hakkındaki tedbirler kaldırıldı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/astor-enerji-nin-ana-hissedarlari-hakkindaki-tedbirler-kaldirildi-3792451",
+   "saat": "23:14",
+   "tarih_iso": "2026-10-23T23:14:38+03:00",
+   "kodlar": [
+    "ASTOR"
+   ],
+   "eklenme": "2026-10-24T02:15:28.707016+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/5g-is-birliginde-yeni-imzalar-guney-korede-atildi-3483687",
    "baslik": "5G iş birliğinde yeni imzalar Güney Kore’de atıldı",
    "kaynak": "CNN Türk Ekonomi",
@@ -541,6 +577,76 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
+   "baslik": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
+   "saat": "01:49",
+   "tarih_iso": "2026-10-24T01:49:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-24T02:15:28.707016+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+   "baslik": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+   "saat": "00:46",
+   "tarih_iso": "2026-10-24T00:46:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-24T02:15:28.707016+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-001-4970435",
+   "baslik": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.01%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-001-4970435",
+   "saat": "00:30",
+   "tarih_iso": "2026-10-24T00:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-24T02:15:28.707016+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-046-4970432",
+   "baslik": "Colombia stocks higher at close of trade; COLCAP up 0.46%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-higher-at-close-of-trade-colcap-up-046-4970432",
+   "saat": "00:25",
+   "tarih_iso": "2026-10-24T00:25:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-24T02:15:28.707016+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-151-4970421",
+   "baslik": "Russia stocks higher at close of trade; MOEX Russia Index up 1.51%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-151-4970421",
+   "saat": "00:20",
+   "tarih_iso": "2026-10-24T00:20:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-24T02:15:28.707016+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cumberland-pharmaceuticals-stock-sliding-today-93CH-4970390",
+   "baslik": "Why is Cumberland Pharmaceuticals stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cumberland-pharmaceuticals-stock-sliding-today-93CH-4970390",
+   "saat": "00:04",
+   "tarih_iso": "2026-10-24T00:04:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-24T02:15:28.707016+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories",
+   "baslik": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories",
+   "saat": "23:19",
+   "tarih_iso": "2026-10-23T23:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-24T02:15:28.707016+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/23/investors-are-starting-to-find-opportunities-in-the-battered-bond-market.html",
    "baslik": "Investors are starting to find opportunities in the battered bond market",
@@ -1054,6 +1160,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-price-tests-4000-support-as-bearish-gaps-signal-further-downside-risks-200690182",
+   "baslik": "Gold Price Tests $4,000 Support as Bearish Gaps Signal Further Downside Risks",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-price-tests-4000-support-as-bearish-gaps-signal-further-downside-risks-200690182",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-10-24T02:15:28.707016+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-stocks-could-rally-20-to-30-as-winter-seasonality-turns-bullish-200690171",
    "baslik": "Gold Stocks Could Rally 20% to 30% as Winter Seasonality Turns Bullish",
    "kaynak": "Investing Emtia",
@@ -1244,5 +1360,5 @@
    "eklenme": "2026-10-23T13:30:04.306888+03:00"
   }
  ],
- "guncelleme": "2026-10-23T22:59:34.384364+03:00"
+ "guncelleme": "2026-10-24T02:15:28.707016+03:00"
 }
