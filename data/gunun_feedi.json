@@ -2,6 +2,19 @@
  "tarih": "2026-10-26",
  "kap": [
   {
+   "id": "kap-my-ASELS-202610261435",
+   "baslik": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Yeni İş İlişkisi",
+   "sirket": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "ASELS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:35",
+   "tarih_iso": "2026-10-26T14:35:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
    "id": "kap-my-SASA-202610261331",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -42,6 +55,42 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/sirketler/aselsan-ile-savunma-sanayii-baskanligi-arasinda-523-milyon-euroluk-anlasma-haberi-845320",
+   "baslik": "ASELSAN ile Savunma Sanayii Başkanlığı arasında 523 milyon euroluk anlaşma",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/aselsan-ile-savunma-sanayii-baskanligi-arasinda-523-milyon-euroluk-anlasma-haberi-845320",
+   "saat": "14:58",
+   "tarih_iso": "2026-10-26T14:58:00+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/aselsan-ile-ssb-arasinda-yeni-sozlesme-3792542",
+   "baslik": "Aselsan ile SSB arasında yeni sözleşme",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/aselsan-ile-ssb-arasinda-yeni-sozlesme-3792542",
+   "saat": "14:40",
+   "tarih_iso": "2026-10-26T14:40:58+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/galatasaray-fenerbahce-derbisine-saatler-kaldi-okan-buruk-ve-ismail-kartalin-karnesi-haberi-845314",
+   "baslik": "Galatasaray-Fenerbahçe derbisine saatler kaldı... Okan Buruk ve İsmail Kartal'ın karnesi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/galatasaray-fenerbahce-derbisine-saatler-kaldi-okan-buruk-ve-ismail-kartalin-karnesi-haberi-845314",
+   "saat": "14:25",
+   "tarih_iso": "2026-10-26T14:25:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/spor/galatasaray-fenerbahce-derbisinin-var-hakemi-belli-oldu-haberi-845304",
    "baslik": "Galatasaray-Fenerbahçe derbisinin VAR hakemi belli oldu",
@@ -104,6 +153,26 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.bloomberght.com/pakistan-merkez-bankasi-ndan-nisan-dan-beri-ilk-faiz-artirimi-3792543",
+   "baslik": "Pakistan Merkez Bankası'ndan Nisan'dan beri ilk faiz artırımı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/pakistan-merkez-bankasi-ndan-nisan-dan-beri-ilk-faiz-artirimi-3792543",
+   "saat": "14:41",
+   "tarih_iso": "2026-10-26T14:41:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/luksun-alti-devinden-251-milyar-euro-silindi-en-agir-darbeyi-kim-aldi-haberi-845313",
+   "baslik": "Lüksün altı devinden 251 milyar euro silindi: En ağır darbeyi kim aldı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/luksun-alti-devinden-251-milyar-euro-silindi-en-agir-darbeyi-kim-aldi-haberi-845313",
+   "saat": "14:32",
+   "tarih_iso": "2026-10-26T14:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/ekonomi/koc-universitesi-anketi-yayimlandi-enflasyon-beklentisi-yukseldi-yatirim-tercihleri-degisti-haberi-845306",
    "baslik": "Koç Üniversitesi anketi yayımlandı: Enflasyon beklentisi yükseldi, yatırım tercihleri değişti",
@@ -226,6 +295,86 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+   "baslik": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+   "saat": "15:06",
+   "tarih_iso": "2026-10-26T15:06:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-climb-as-oil-falls-gold-advances-amid-hopes-for-cooling-iran-tensions-4972375",
+   "baslik": "TSX futures climb as oil falls, gold advances amid hopes for cooling Iran tensions",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-climb-as-oil-falls-gold-advances-amid-hopes-for-cooling-iran-tensions-4972375",
+   "saat": "14:56",
+   "tarih_iso": "2026-10-26T14:56:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+   "baslik": "Meta announces $95 billion stock offering to fund AI expansion",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+   "saat": "14:52",
+   "tarih_iso": "2026-10-26T14:52:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-eqt-stock-sliding-today-93CH-4972358",
+   "baslik": "Why is EQT stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-eqt-stock-sliding-today-93CH-4972358",
+   "saat": "14:51",
+   "tarih_iso": "2026-10-26T14:51:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-ed-yardeni-says-the-best-market-entry-points-are-still-to-come-4972350",
+   "baslik": "Why Ed Yardeni says the best market entry points are still to come",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-ed-yardeni-says-the-best-market-entry-points-are-still-to-come-4972350",
+   "saat": "14:50",
+   "tarih_iso": "2026-10-26T14:50:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-pics-stock-plummeting-today-93CH-4972321",
+   "baslik": "Why is Pics stock plummeting today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-pics-stock-plummeting-today-93CH-4972321",
+   "saat": "14:45",
+   "tarih_iso": "2026-10-26T14:45:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-inter-and-co-stock-plummeting-today-93CH-4972312",
+   "baslik": "Why is Inter and Co stock plummeting today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-inter-and-co-stock-plummeting-today-93CH-4972312",
+   "saat": "14:42",
+   "tarih_iso": "2026-10-26T14:42:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
+   "baslik": "The stock market’s biggest test in weeks is here",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
+   "saat": "14:37",
+   "tarih_iso": "2026-10-26T14:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
   {
    "id": "yab-https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
    "baslik": "Meta plans $95bn stock offering to bankroll AI expansion",
@@ -429,6 +578,26 @@
    "eklenme": "2026-10-26T14:31:59.077683+03:00"
   },
   {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-petrol-duserken-altn-yukseldi-4119626",
+   "baslik": "TSX vadeli işlemleri petrol düşerken altın yükseldi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/tsx-vadeli-islemleri-petrol-duserken-altn-yukseldi-4119626",
+   "saat": "14:56",
+   "tarih_iso": "2026-10-26T14:56:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/tsx-futures-climb-as-oil-falls-gold-advances-amid-hopes-for-cooling-iran-tensions-4972375",
+   "baslik": "TSX futures climb as oil falls, gold advances amid hopes for cooling Iran tensions",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-climb-as-oil-falls-gold-advances-amid-hopes-for-cooling-iran-tensions-4972375",
+   "saat": "14:56",
+   "tarih_iso": "2026-10-26T14:56:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-26T15:08:19.991717+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-hits-the-floor-and-buyers-come-to-the-fore-but-at-a-loss-to-score-200690233",
    "baslik": "Gold Hits The Floor and Buyers Come to the Fore, but at a Loss to Score",
    "kaynak": "Investing Emtia",
@@ -519,5 +688,5 @@
    "eklenme": "2026-10-26T14:31:59.077683+03:00"
   }
  ],
- "guncelleme": "2026-10-26T14:31:59.077683+03:00"
+ "guncelleme": "2026-10-26T15:08:19.991717+03:00"
 }
