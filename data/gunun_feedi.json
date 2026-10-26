@@ -2,6 +2,45 @@
  "tarih": "2026-10-26",
  "kap": [
   {
+   "id": "kap-my-TTRAK-202610261933",
+   "baslik": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş. — Finansal Rapor",
+   "sirket": "TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş.",
+   "kodlar": [
+    "TTRAK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:33",
+   "tarih_iso": "2026-10-26T19:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "kap-my-KRDMD-202610261923",
+   "baslik": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:23",
+   "tarih_iso": "2026-10-26T19:23:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "kap-my-TABGD-202610261913",
+   "baslik": "TAB GIDA SANAYİ VE TİCARET A.Ş. — Finansal Rapor",
+   "sirket": "TAB GIDA SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "TABGD"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:13",
+   "tarih_iso": "2026-10-26T19:13:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
    "id": "kap-my-ASELS-202610261435",
    "baslik": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş. — Yeni İş İlişkisi",
    "sirket": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
@@ -55,6 +94,127 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/sektorler/otomotiv/300-milyon-dolarlik-yatirim-1000-kisiye-is-haberi-845362",
+   "baslik": "300 milyon dolarlık yatırım, 1000 kişiye iş",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sektorler/otomotiv/300-milyon-dolarlik-yatirim-1000-kisiye-is-haberi-845362",
+   "saat": "00:00",
+   "tarih_iso": "2026-10-27T00:00:00+03:00",
+   "kodlar": [
+    "TOASO"
+   ],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/dev-derbinin-galibi-galatasaray-oldu-haberi-845375",
+   "baslik": "Dev derbinin galibi Galatasaray oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/dev-derbinin-galibi-galatasaray-oldu-haberi-845375",
+   "saat": "23:23",
+   "tarih_iso": "2026-10-26T23:23:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/bakan-kacir-direksiyona-gecti-otomotivde-300-milyon-dolarlik-yeni-yatirim-3484813",
+   "baslik": "Bakan Kacır direksiyona geçti! Otomotivde 300 milyon dolarlık yeni yatırım",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/bakan-kacir-direksiyona-gecti-otomotivde-300-milyon-dolarlik-yeni-yatirim-3484813",
+   "saat": "22:51",
+   "tarih_iso": "2026-10-26T22:51:06+03:00",
+   "kodlar": [
+    "TOASO"
+   ],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/cimsa-nin-ucuncu-ceyrek-net-kri-beklentileri-asti-3792610",
+   "baslik": "Çimsa'nın üçüncü çeyrek net kârı beklentileri aştı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/cimsa-nin-ucuncu-ceyrek-net-kri-beklentileri-asti-3792610",
+   "saat": "22:47",
+   "tarih_iso": "2026-10-26T22:47:03+03:00",
+   "kodlar": [
+    "CIMSA"
+   ],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/turk-traktor-den-83-milyon-tl-net-zarar-3792608",
+   "baslik": "Türk Traktör'den 83 milyon TL net zarar",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/turk-traktor-den-83-milyon-tl-net-zarar-3792608",
+   "saat": "22:28",
+   "tarih_iso": "2026-10-26T22:28:41+03:00",
+   "kodlar": [
+    "TTRAK"
+   ],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/arcelik-ucuncu-ceyrek-bilanco-rakamlarini-acikladi-3792603",
+   "baslik": "Arçelik üçüncü çeyrek bilanço rakamlarını açıkladı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/arcelik-ucuncu-ceyrek-bilanco-rakamlarini-acikladi-3792603",
+   "saat": "20:37",
+   "tarih_iso": "2026-10-26T20:37:39+03:00",
+   "kodlar": [
+    "ARCLK"
+   ],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/galatasaray-fenerbahce-macinin-ilk-11leri-belli-oldu-haberi-845363",
+   "baslik": "Galatasaray-Fenerbahçe maçının ilk 11'leri belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/galatasaray-fenerbahce-macinin-ilk-11leri-belli-oldu-haberi-845363",
+   "saat": "20:30",
+   "tarih_iso": "2026-10-26T20:30:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/is-bankasi-ve-is-yatirim-da-ust-duzey-atamalar-3792602",
+   "baslik": "İş Bankası ve İş Yatırım'da üst düzey atamalar",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/is-bankasi-ve-is-yatirim-da-ust-duzey-atamalar-3792602",
+   "saat": "20:06",
+   "tarih_iso": "2026-10-26T20:06:09+03:00",
+   "kodlar": [
+    "ISCTR",
+    "ISMEN"
+   ],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/aselsan-ve-ssbden-523-milyon-avroluk-sozlesme-3484738",
+   "baslik": "ASELSAN ve SSB'den 523 milyon avroluk sözleşme",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/aselsan-ve-ssbden-523-milyon-avroluk-sozlesme-3484738",
+   "saat": "19:03",
+   "tarih_iso": "2026-10-26T19:03:12+03:00",
+   "kodlar": [
+    "ASELS"
+   ],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/turk-telekom-a-14-uluslararasi-bankadan-1-milyar-dolarlik-kredi-3792587",
+   "baslik": "Türk Telekom'a 14 uluslararası bankadan 1 milyar dolarlık kredi",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/turk-telekom-a-14-uluslararasi-bankadan-1-milyar-dolarlik-kredi-3792587",
+   "saat": "18:49",
+   "tarih_iso": "2026-10-26T18:49:02+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/sirketler/aselsan-ile-savunma-sanayii-baskanligi-arasinda-523-milyon-euroluk-anlasma-haberi-845320",
    "baslik": "ASELSAN ile Savunma Sanayii Başkanlığı arasında 523 milyon euroluk anlaşma",
@@ -153,6 +313,46 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/broadcom-anthropice-yapay-zeka-satsn-finanse-etmek-icin-bankalardan-63-milyar-dolar-saglad-4120590",
+   "baslik": "Broadcom, Anthropic’e yapay zeka satışını finanse etmek için bankalardan 63 milyar dolar sağladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/broadcom-anthropice-yapay-zeka-satsn-finanse-etmek-icin-bankalardan-63-milyar-dolar-saglad-4120590",
+   "saat": "23:29",
+   "tarih_iso": "2026-10-26T23:29:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/lycia-therapeutics-nasdaq-halka-arznda-365-milyon-dolar-toplad-432SI-4120582",
+   "baslik": "Lycia Therapeutics, Nasdaq halka arzında 365 milyon dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/lycia-therapeutics-nasdaq-halka-arznda-365-milyon-dolar-toplad-432SI-4120582",
+   "saat": "23:24",
+   "tarih_iso": "2026-10-26T23:24:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/hazine-ve-maliye-bakanligi-ndan-bakan-simsek-hakkindaki-iddialara-tepki-3792601",
+   "baslik": "Hazine ve Maliye Bakanlığı'ndan Bakan Şimşek hakkındaki iddialara tepki",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/hazine-ve-maliye-bakanligi-ndan-bakan-simsek-hakkindaki-iddialara-tepki-3792601",
+   "saat": "19:58",
+   "tarih_iso": "2026-10-26T19:58:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligindan-merrill-lynch-bankasina-yonelik-iddialara-iliskin-aciklama/4101509",
+   "baslik": "Hazine ve Maliye Bakanlığından Merrill Lynch Bankasına yönelik iddialara ilişkin açıklama",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakanligindan-merrill-lynch-bankasina-yonelik-iddialara-iliskin-aciklama/4101509",
+   "saat": "19:05",
+   "tarih_iso": "2026-10-26T19:05:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
   {
    "id": "rss-https://www.bloomberght.com/pakistan-merkez-bankasi-ndan-nisan-dan-beri-ilk-faiz-artirimi-3792543",
    "baslik": "Pakistan Merkez Bankası'ndan Nisan'dan beri ilk faiz artırımı",
@@ -295,6 +495,126 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+   "baslik": "Why Lumentum’s stock led the S&P 500 higher on Monday",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+   "saat": "00:04",
+   "tarih_iso": "2026-10-27T00:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nucor-stock-sliding-today-93CH-4973697",
+   "baslik": "Why is Nucor stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nucor-stock-sliding-today-93CH-4973697",
+   "saat": "23:46",
+   "tarih_iso": "2026-10-26T23:46:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-whirlpool-stock-tumbling-today-93CH-4973684",
+   "baslik": "Why is Whirlpool stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-whirlpool-stock-tumbling-today-93CH-4973684",
+   "saat": "23:43",
+   "tarih_iso": "2026-10-26T23:43:49+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cadence-design-systems-stock-surging-today-93CH-4973681",
+   "baslik": "Why is Cadence Design Systems stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cadence-design-systems-stock-surging-today-93CH-4973681",
+   "saat": "23:42",
+   "tarih_iso": "2026-10-26T23:42:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-amkor-technology-stock-rallying-today-93CH-4973666",
+   "baslik": "Why is Amkor Technology stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-amkor-technology-stock-rallying-today-93CH-4973666",
+   "saat": "23:39",
+   "tarih_iso": "2026-10-26T23:39:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-celestica-stock-surging-today-93CH-4973665",
+   "baslik": "Why is Celestica stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-celestica-stock-surging-today-93CH-4973665",
+   "saat": "23:39",
+   "tarih_iso": "2026-10-26T23:39:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
+   "baslik": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom chips for Anthropic",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/wall-street-banks-blackstone-line-up-63-billion-to-finance-broadcom-chips-for-anthropic-4973662",
+   "saat": "23:37",
+   "tarih_iso": "2026-10-26T23:37:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-029-4973641",
+   "baslik": "U.S. stocks higher at close of trade; Dow Jones Industrial Average up 0.29%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-higher-at-close-of-trade-dow-jones-industrial-average-up-029-4973641",
+   "saat": "23:31",
+   "tarih_iso": "2026-10-26T23:31:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-044-4973636",
+   "baslik": "Canada stocks higher at close of trade; S&P/TSX Composite up 0.44%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-higher-at-close-of-trade-sptsx-composite-up-044-4973636",
+   "saat": "23:30",
+   "tarih_iso": "2026-10-26T23:30:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
+   "baslik": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
+   "saat": "23:26",
+   "tarih_iso": "2026-10-26T23:26:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
+   "baslik": "Sorry investors, but there’s no such thing as an early ‘Santa Claus rally.’ Here’s when the real gains typically happen.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
+   "saat": "23:09",
+   "tarih_iso": "2026-10-26T23:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
+   "baslik": "Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html",
+   "saat": "23:08",
+   "tarih_iso": "2026-10-26T23:08:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-27T00:06:13.129945+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/26/ftc-dollar-general-lawsuit.html",
    "baslik": "FTC and 20 states sue Dollar General, alleging retailer overcharged shoppers",
@@ -868,5 +1188,5 @@
    "eklenme": "2026-10-26T14:31:59.077683+03:00"
   }
  ],
- "guncelleme": "2026-10-26T21:46:23.584040+03:00"
+ "guncelleme": "2026-10-27T00:06:13.129945+03:00"
 }
