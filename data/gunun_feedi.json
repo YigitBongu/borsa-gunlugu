@@ -2,6 +2,19 @@
  "tarih": "2026-10-28",
  "kap": [
   {
+   "id": "kap-my-VESBE-202610281415",
+   "baslik": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş. — Finansal Rapor",
+   "sirket": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "VESBE"
+   ],
+   "kategori": "Bildirim",
+   "saat": "14:15",
+   "tarih_iso": "2026-10-28T14:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
+  {
    "id": "kap-my-KLSER-202610281358",
    "baslik": "KALESERAMİK ÇANAKKALE KALEBODUR SERAMİK SANAYİ A.Ş. — Kredi Derecelendirmesi",
    "sirket": "KALESERAMİK ÇANAKKALE KALEBODUR SERAMİK SANAYİ A.Ş.",
@@ -29,6 +42,30 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/anadolu-hayat-emeklilik-genel-mudurlugune-sezgin-yilmaz-atandi-3923176",
+   "baslik": "Anadolu Hayat Emeklilik’te genel müdür değişikliği",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/anadolu-hayat-emeklilik-genel-mudurlugune-sezgin-yilmaz-atandi-3923176",
+   "saat": "14:40",
+   "tarih_iso": "2026-10-28T14:40:39+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/vestel-beyaz-esya-da-favok-pozitife-dondu-3923179",
+   "baslik": "Vestel Beyaz Eşya'da FAVÖK pozitife döndü",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/vestel-beyaz-esya-da-favok-pozitife-dondu-3923179",
+   "saat": "14:38",
+   "tarih_iso": "2026-10-28T14:38:59+03:00",
+   "kodlar": [
+    "VESBE"
+   ],
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/turk-telekom-cop31in-dijital-omurgasini-oruyor/4103664",
    "baslik": "Türk Telekom COP31'in dijital omurgasını örüyor",
@@ -179,6 +216,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lennox-international-stock-sliding-today-93CH-4978775",
+   "baslik": "Why is Lennox International stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-lennox-international-stock-sliding-today-93CH-4978775",
+   "saat": "14:46",
+   "tarih_iso": "2026-10-28T14:46:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-evercore-stock-surging-today-93CH-4978772",
+   "baslik": "Why is Evercore stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-evercore-stock-surging-today-93CH-4978772",
+   "saat": "14:45",
+   "tarih_iso": "2026-10-28T14:45:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-smurfit-westrock-stock-tumbling-today-93CH-4978770",
+   "baslik": "Why is Smurfit WestRock stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-smurfit-westrock-stock-tumbling-today-93CH-4978770",
+   "saat": "14:45",
+   "tarih_iso": "2026-10-28T14:45:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-parsons-stock-sliding-today-93CH-4978768",
+   "baslik": "Why is Parsons stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-parsons-stock-sliding-today-93CH-4978768",
+   "saat": "14:45",
+   "tarih_iso": "2026-10-28T14:45:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-rallying-today-93CH-4978749",
+   "baslik": "Why is SanDisk stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-rallying-today-93CH-4978749",
+   "saat": "14:42",
+   "tarih_iso": "2026-10-28T14:42:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-endesa-stock-sliding-today-93CH-4978706",
+   "baslik": "Why is Endesa stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-endesa-stock-sliding-today-93CH-4978706",
+   "saat": "14:35",
+   "tarih_iso": "2026-10-28T14:35:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-generac-stock-sliding-today-93CH-4978703",
+   "baslik": "Why is Generac stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-generac-stock-sliding-today-93CH-4978703",
+   "saat": "14:34",
+   "tarih_iso": "2026-10-28T14:34:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hf-sinclair-stock-surging-today-93CH-4978702",
+   "baslik": "Why is HF Sinclair stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-hf-sinclair-stock-surging-today-93CH-4978702",
+   "saat": "14:34",
+   "tarih_iso": "2026-10-28T14:34:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-constellium-stock-surging-today-93CH-4978701",
+   "baslik": "Why is Constellium stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-constellium-stock-surging-today-93CH-4978701",
+   "saat": "14:34",
+   "tarih_iso": "2026-10-28T14:34:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-10-28T14:59:46.780504+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
    "baslik": "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
@@ -512,5 +639,5 @@
    "eklenme": "2026-10-28T14:37:48.910448+03:00"
   }
  ],
- "guncelleme": "2026-10-28T14:37:48.910448+03:00"
+ "guncelleme": "2026-10-28T14:59:46.780504+03:00"
 }
