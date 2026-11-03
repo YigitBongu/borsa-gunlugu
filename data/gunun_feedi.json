@@ -1,7 +1,132 @@
 {
  "tarih": "2026-11-03",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-BOBET-202611031931",
+   "baslik": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "BOBET"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:31",
+   "tarih_iso": "2026-11-03T19:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "kap-my-PENTA-202611031918",
+   "baslik": "PENTA TEKNOLOJİ ÜRÜNLERİ DAĞITIM TİCARET A.Ş. — Finansal Rapor",
+   "sirket": "PENTA TEKNOLOJİ ÜRÜNLERİ DAĞITIM TİCARET A.Ş.",
+   "kodlar": [
+    "PENTA"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:18",
+   "tarih_iso": "2026-11-03T19:18:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "kap-my-GUBRF-202611031914",
+   "baslik": "GÜBRE FABRİKALARI T.A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "GÜBRE FABRİKALARI T.A.Ş.",
+   "kodlar": [
+    "GUBRF"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:14",
+   "tarih_iso": "2026-11-03T19:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "kap-my-MAVI-202611031908",
+   "baslik": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "MAVI"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:08",
+   "tarih_iso": "2026-11-03T19:08:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  }
+ ],
  "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/bursada-kadin-girisimciligine-yeni-buyume-rotasi-haberi-846322",
+   "baslik": "Bursa’da kadın girişimciliğine yeni büyüme rotası",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/bursada-kadin-girisimciligine-yeni-buyume-rotasi-haberi-846322",
+   "saat": "00:00",
+   "tarih_iso": "2026-11-04T00:00:00+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/yapi-krediden-417-milyarlik-net-grup-kari-haberi-846325",
+   "baslik": "Yapı Kredi’den 41,7 milyarlık net grup kârı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/yapi-krediden-417-milyarlik-net-grup-kari-haberi-846325",
+   "saat": "00:00",
+   "tarih_iso": "2026-11-04T00:00:00+03:00",
+   "kodlar": [
+    "YKBNK"
+   ],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahcede-emre-belozoglu-donemi-haberi-846333",
+   "baslik": "Fenerbahçe'de Emre Belözoğlu dönemi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahcede-emre-belozoglu-donemi-haberi-846333",
+   "saat": "22:53",
+   "tarih_iso": "2026-11-03T22:53:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/garanti-bbva-pay-geri-alim-programi-baslatiyor-haberi-846327",
+   "baslik": "Garanti BBVA pay geri alım programı başlatıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/garanti-bbva-pay-geri-alim-programi-baslatiyor-haberi-846327",
+   "saat": "21:18",
+   "tarih_iso": "2026-11-03T21:18:00+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/coca-cola-icecek-ucuncu-ceyrekte-7-8-milyar-tl-net-kr-acikladi-3793351",
+   "baslik": "Coca-Cola İçecek üçüncü çeyrekte 7,8 milyar TL net kâr açıkladı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/coca-cola-icecek-ucuncu-ceyrekte-7-8-milyar-tl-net-kr-acikladi-3793351",
+   "saat": "21:15",
+   "tarih_iso": "2026-11-03T21:15:35+03:00",
+   "kodlar": [
+    "CCOLA"
+   ],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/garanti-bbva-dan-pay-geri-alim-karari-3793346",
+   "baslik": "Garanti BBVA'dan pay geri alım kararı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/garanti-bbva-dan-pay-geri-alim-karari-3793346",
+   "saat": "20:51",
+   "tarih_iso": "2026-11-03T20:51:10+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
   {
    "id": "rss-https://tr.investing.com/news/stock-market-news/vestel-ve-anadolu-togg-hisselerini-412-milyon-dolara-satt-93CH-4136158",
    "baslik": "Vestel ve Anadolu, TOGG hisselerini 412 milyon dolara sattı",
@@ -237,6 +362,86 @@
  ],
  "makro": [
   {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fal-talep-uzerine-16-milyar-dolar-degerlemede-13-milyar-dolar-toplad-93CH-4136858",
+   "baslik": "Fal talep üzerine 16 milyar dolar değerlemede 1,3 milyar dolar topladı",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fal-talep-uzerine-16-milyar-dolar-degerlemede-13-milyar-dolar-toplad-93CH-4136858",
+   "saat": "00:05",
+   "tarih_iso": "2026-11-04T00:05:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/video/ekonomi/enflasyon-aciklandi-ssk-ve-bag-kur-emeklisi-zammi-ne-oldu-3488539",
+   "baslik": "Enflasyon açıklandı, SSK ve Bağ-Kur emeklisi zammı ne oldu?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/enflasyon-aciklandi-ssk-ve-bag-kur-emeklisi-zammi-ne-oldu-3488539",
+   "saat": "22:49",
+   "tarih_iso": "2026-11-03T22:49:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fon-tasfiyesinde-yeni-adim-bist-30-hisseleri-satisa-cikiyor-haberi-846331",
+   "baslik": "Fon tasfiyesinde yeni adım: BIST 30 hisseleri satışa çıkıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fon-tasfiyesinde-yeni-adim-bist-30-hisseleri-satisa-cikiyor-haberi-846331",
+   "saat": "22:03",
+   "tarih_iso": "2026-11-03T22:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/2027-polis-ogretmen-doktor-hemsire-maaslari-ocak-2027-memur-zammi-ne-kadar-olacak-enflasyon-farki-kac-oldu-polis-ogretmen-3488292",
+   "baslik": "2027 POLİS, ÖĞRETMEN, DOKTOR, HEMŞİRE MAAŞLARI: Ocak 2027 memur zammı ne kadar olacak? Enflasyon farkı kaç oldu? Polis, öğretmen, doktor ve hemşire maaşları ne kadar olacak?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/2027-polis-ogretmen-doktor-hemsire-maaslari-ocak-2027-memur-zammi-ne-kadar-olacak-enflasyon-farki-kac-oldu-polis-ogretmen-3488292",
+   "saat": "20:45",
+   "tarih_iso": "2026-11-03T20:45:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/tasfiyedeki-fonlarin-portfoyundeki-bist-30-hisselerine-borsa-disi-satis-karari-3793345",
+   "baslik": "Tasfiyedeki fonların portföyündeki BIST 30 hisselerinin tamamı borsa dışında satıldı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/tasfiyedeki-fonlarin-portfoyundeki-bist-30-hisselerine-borsa-disi-satis-karari-3793345",
+   "saat": "20:39",
+   "tarih_iso": "2026-11-03T20:39:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/enflasyon-aciklandi-mi-ne-zaman-aciklanacak-2026-ekim-ayi-enflasyon-oranlari-saat-kacta-aciklanir-enflasyon-beklentisi-nedir-3487511",
+   "baslik": "EKİM ENFLASYON ORANI KAÇ OLDU? 2026 Ekim Ayı Enflasyon Oranları Açıklandı Mı? Enflasyon Beklentisi Nedir?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/enflasyon-aciklandi-mi-ne-zaman-aciklanacak-2026-ekim-ayi-enflasyon-oranlari-saat-kacta-aciklanir-enflasyon-beklentisi-nedir-3487511",
+   "saat": "19:27",
+   "tarih_iso": "2026-11-03T19:27:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/avrupa-merkez-bankasi-baskanligi-icin-aday-sureci-basladi-lagarde-subatta-ayrilacak-3488432",
+   "baslik": "Avrupa Merkez Bankası başkanlığı için aday süreci başladı: Lagarde şubatta ayrılacak",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/avrupa-merkez-bankasi-baskanligi-icin-aday-sureci-basladi-lagarde-subatta-ayrilacak-3488432",
+   "saat": "19:12",
+   "tarih_iso": "2026-11-03T19:12:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/kasim-ayi-kira-artis-orani-2026-kasim-kira-artis-zammi-ne-kadar-kac-tl-oldu-tufe-verilerine-gore-yasal-kira-zam-orani-hesaplama-3488110",
+   "baslik": "KASIM AYI KİRA ARTIŞ ORANI 2026 | Kasım Kira Artış Zammı Ne Kadar, Kaç TL Oldu? TÜFE Verilerine Göre Yasal Kira Zam Oranı Hesaplama!",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/kasim-ayi-kira-artis-orani-2026-kasim-kira-artis-zammi-ne-kadar-kac-tl-oldu-tufe-verilerine-gore-yasal-kira-zam-orani-hesaplama-3488110",
+   "saat": "19:01",
+   "tarih_iso": "2026-11-03T19:01:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/dolartl-icin-barclays-analizi-deger-kaybi-hizlandi-haberi-846295",
    "baslik": "Dolar/TL için Barclays analizi: Değer kaybı hızlandı",
    "kaynak": "Dünya",
@@ -398,6 +603,96 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+   "baslik": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+   "saat": "00:30",
+   "tarih_iso": "2026-11-04T00:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+   "baslik": "AMD stock jumps 7% on earnings as data center revenue nearly doubles",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+   "saat": "00:20",
+   "tarih_iso": "2026-11-04T00:20:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-035-4996457",
+   "baslik": "Russia stocks lower at close of trade; MOEX Russia Index down 0.35%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-lower-at-close-of-trade-moex-russia-index-down-035-4996457",
+   "saat": "00:20",
+   "tarih_iso": "2026-11-04T00:20:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/super-micro-forecasts-quarterly-revenue-above-estimates-on-strong-ai-server-demand-4996409",
+   "baslik": "Super Micro forecasts quarterly revenue above estimates on strong AI server demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/super-micro-forecasts-quarterly-revenue-above-estimates-on-strong-ai-server-demand-4996409",
+   "saat": "00:18",
+   "tarih_iso": "2026-11-04T00:18:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/super-micro-computer-surges-6-as-earnings-guidance-top-estimates-4996413",
+   "baslik": "Super Micro Computer surges 6% as earnings, guidance top estimates",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/super-micro-computer-surges-6-as-earnings-guidance-top-estimates-4996413",
+   "saat": "00:13",
+   "tarih_iso": "2026-11-04T00:13:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+   "baslik": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+   "saat": "00:13",
+   "tarih_iso": "2026-11-04T00:13:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/smci-earnings-preview-margins-and-guidance-in-focus-as-preannounced-revenue-tops-old-targets-93CH-4996340",
+   "baslik": "SMCI earnings preview: margins and guidance in focus as pre-announced revenue tops old targets",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/smci-earnings-preview-margins-and-guidance-in-focus-as-preannounced-revenue-tops-old-targets-93CH-4996340",
+   "saat": "23:52",
+   "tarih_iso": "2026-11-03T23:52:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/03/amd-has-been-crushed-into-earnings-heres-one-way-to-trade-it.html",
+   "baslik": "AMD has been crushed into earnings. Here’s one way to trade it",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/amd-has-been-crushed-into-earnings-heres-one-way-to-trade-it.html",
+   "saat": "23:40",
+   "tarih_iso": "2026-11-03T23:40:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html",
+   "baslik": "Binance breach puts custody at center of crypto infrastructure trade",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html",
+   "saat": "23:13",
+   "tarih_iso": "2026-11-03T23:13:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-santa-claus-rally-what-history-says-and-where-the-index-stands-93CH-4996292",
    "baslik": "S&P 500 Santa Claus rally: what history says and where the index stands",
@@ -1011,6 +1306,16 @@
    "eklenme": "2026-11-03T23:14:32.002362+03:00"
   },
   {
+   "id": "alt-https://www.mining.com/i-80-golds-growth-faces-nevada-labour-squeeze/",
+   "baslik": "I-80 Gold’s growth faces Nevada labour squeeze",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/i-80-golds-growth-faces-nevada-labour-squeeze/",
+   "saat": "23:11",
+   "tarih_iso": "2026-11-03T23:11:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-04T00:51:59.035717+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/news/stock-market-news/tsx-movers-gainers-lead-3to1-as-gold-miners-slide-93CH-4996264",
    "baslik": "TSX movers: gainers lead 3-to-1 as gold miners slide",
    "kaynak": "Investing.com",
@@ -1161,5 +1466,5 @@
    "eklenme": "2026-11-03T15:59:40.554320+03:00"
   }
  ],
- "guncelleme": "2026-11-03T23:14:32.002362+03:00"
+ "guncelleme": "2026-11-04T00:51:59.035717+03:00"
 }
