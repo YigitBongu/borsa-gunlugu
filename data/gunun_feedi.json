@@ -3,6 +3,66 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/koc-holding-operasyonel-tatli-su-cekimini-yuzde-85-azaltacak-haberi-847006",
+   "baslik": "Koç Holding, operasyonel tatlı su çekimini yüzde 85 azaltacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/koc-holding-operasyonel-tatli-su-cekimini-yuzde-85-azaltacak-haberi-847006",
+   "saat": "00:00",
+   "tarih_iso": "2026-11-10T00:00:00+03:00",
+   "kodlar": [
+    "KCHOL"
+   ],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/pegasus-un-net-kri-beklentileri-asti-3794019",
+   "baslik": "Pegasus'un net kârı beklentileri aştı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/pegasus-un-net-kri-beklentileri-asti-3794019",
+   "saat": "22:53",
+   "tarih_iso": "2026-11-09T22:53:46+03:00",
+   "kodlar": [
+    "PGSUS"
+   ],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/sirketler/aksa-enerjinin-9-aylik-kari-28-milyar-liraya-ulasti-haberi-847026",
+   "baslik": "Aksa Enerji'nin 9 aylık karı 2,8 milyar liraya ulaştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/aksa-enerjinin-9-aylik-kari-28-milyar-liraya-ulasti-haberi-847026",
+   "saat": "22:06",
+   "tarih_iso": "2026-11-09T22:06:00+03:00",
+   "kodlar": [
+    "AKSA"
+   ],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/turkcell-den-ucuncu-ceyrekte-6-7-milyar-tl-net-kr-3794015",
+   "baslik": "Turkcell'den üçüncü çeyrekte 6,7 milyar TL net kâr",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/turkcell-den-ucuncu-ceyrekte-6-7-milyar-tl-net-kr-3794015",
+   "saat": "21:58",
+   "tarih_iso": "2026-11-09T21:58:31+03:00",
+   "kodlar": [
+    "TCELL"
+   ],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/bim-den-ucuncu-ceyrekte-beklentileri-asan-net-kr-3794012",
+   "baslik": "BİM'den üçüncü çeyrekte beklentileri aşan net kâr",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/bim-den-ucuncu-ceyrekte-beklentileri-asan-net-kr-3794012",
+   "saat": "21:02",
+   "tarih_iso": "2026-11-09T21:02:40+03:00",
+   "kodlar": [
+    "BIMAS"
+   ],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/10-kasimda-bankalar-acik-mi-10-kasim-ataturku-anma-gununde-bankalar-calisacak-mi-garanti-is-bankasi-yapi-kredi-ziraat-bankasi-3491015",
    "baslik": "10 KASIM'DA BANKALAR AÇIK MI? 10 Kasım Atatürk'ü Anma Günü'nde Bankalar Çalışacak Mı? Garanti, İş Bankası, Yapı Kredi, Ziraat Bankası, Halkbank, Vakıfbank...",
    "kaynak": "CNN Türk Ekonomi",
@@ -323,6 +383,116 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+   "baslik": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+   "saat": "02:05",
+   "tarih_iso": "2026-11-10T02:05:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+   "baslik": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+   "saat": "02:00",
+   "tarih_iso": "2026-11-10T02:00:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+   "baslik": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
+   "saat": "00:52",
+   "tarih_iso": "2026-11-10T00:52:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+   "baslik": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
+   "saat": "00:24",
+   "tarih_iso": "2026-11-10T00:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
+   "baslik": "Why prediction markets and Wall Street pros so often fail to see what’s coming",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/why-prediction-markets-and-wall-street-pros-so-often-fail-to-see-whats-coming-c516b6e3?mod=mw_rss_topstories",
+   "saat": "00:14",
+   "tarih_iso": "2026-11-10T00:14:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+   "baslik": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+   "saat": "00:03",
+   "tarih_iso": "2026-11-10T00:03:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
+   "baslik": "Millions of dollars poured into prediction markets on election night, trading on Democratic control of Congress and Texas governor's race",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/millions-of-dollars-poured-into-prediction-markets-on-election-night.html",
+   "saat": "22:41",
+   "tarih_iso": "2026-11-09T22:41:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/09/this-beaten-down-data-center-stock-could-be-worth-a-look-says-mike-khouw.html",
+   "baslik": "This beaten-down data center stock could be worth a look, says Mike Khouw",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/this-beaten-down-data-center-stock-could-be-worth-a-look-says-mike-khouw.html",
+   "saat": "22:23",
+   "tarih_iso": "2026-11-09T22:23:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+   "baslik": "Jensen Huang exit odds are low on prediction markets after Nvidia probe",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/jensen-huang-nvidia-exit-prediction-markets.html",
+   "saat": "21:46",
+   "tarih_iso": "2026-11-09T21:46:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/09/a-massive-trade-in-nvidia-just-went-off-here-are-the-details.html",
+   "baslik": "A massive trade in Nvidia just went off – here are the details",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/a-massive-trade-in-nvidia-just-went-off-here-are-the-details.html",
+   "saat": "21:37",
+   "tarih_iso": "2026-11-09T21:37:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+   "baslik": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+   "saat": "21:14",
+   "tarih_iso": "2026-11-09T21:14:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-10T02:43:47.054199+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-western-digital-stock-surging-today-93CH-5012621",
    "baslik": "Why is Western Digital stock surging today?",
@@ -716,5 +886,5 @@
    "eklenme": "2026-11-09T17:19:59.063030+03:00"
   }
  ],
- "guncelleme": "2026-11-09T17:58:46.617070+03:00"
+ "guncelleme": "2026-11-10T02:43:47.054199+03:00"
 }
