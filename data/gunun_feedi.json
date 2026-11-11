@@ -3,6 +3,18 @@
  "kap": [],
  "sirket": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/elektrikli-araclarda-kredi-ve-vergi-duzenlemesi-cagrisi-ikinci-el-piyasasi-da-gundemde-3926582",
+   "baslik": "Elektrikli otomobilde ikinci el uyarısı",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/elektrikli-araclarda-kredi-ve-vergi-duzenlemesi-cagrisi-ikinci-el-piyasasi-da-gundemde-3926582",
+   "saat": "15:48",
+   "tarih_iso": "2026-11-11T15:48:08+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-11-11T16:27:20.669260+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/akbankin-donusumde-gelecek-var-girisimi-cop31-gundemine-tasindi-3926565",
    "baslik": "Akbank’ın 'Dönüşümde Gelecek Var' girişimi, COP31 gündemine taşındı",
    "kaynak": "Habertürk Ekonomi",
@@ -199,6 +211,16 @@
    "eklenme": "2026-11-11T15:56:36.122984+03:00"
   },
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/tcmbden-iki-elektronik-para-sirketine-faaliyet-izni-iptali-3491763",
+   "baslik": "TCMB'den iki elektronik para şirketine faaliyet izni iptali",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/tcmbden-iki-elektronik-para-sirketine-faaliyet-izni-iptali-3491763",
+   "saat": "13:14",
+   "tarih_iso": "2026-11-11T13:14:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-11T16:27:20.669260+03:00"
+  },
+  {
    "id": "rss-https://www.bloomberght.com/simsek-turkiye-nin-iklim-hedefi-icin-300-milyar-dolar-gerekiyor-3794190",
    "baslik": "Şimşek: Türkiye'nin iklim hedefi için 300 milyar dolar gerekiyor",
    "kaynak": "Bloomberg HT",
@@ -217,6 +239,16 @@
    "tarih_iso": "2026-11-11T12:06:07+03:00",
    "kodlar": [],
    "eklenme": "2026-11-11T15:56:36.122984+03:00"
+  },
+  {
+   "id": "rss-https://www.haberturk.com/ekonomi/piyasalar-fedin-faiz-kararina-odaklandi-3926466",
+   "baslik": "Piyasalarda gözler Fed'in faiz kararında",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/piyasalar-fedin-faiz-kararina-odaklandi-3926466",
+   "saat": "10:31",
+   "tarih_iso": "2026-11-11T10:31:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-11T16:27:20.669260+03:00"
   },
   {
    "id": "rss-https://www.bloomberght.com/dolar-ve-euro-kuru-bugun-ne-kadar-oldu-11-kasim-2026-doviz-fiyatlari-pkh2-3794153",
@@ -261,6 +293,66 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+   "baslik": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+   "saat": "16:16",
+   "tarih_iso": "2026-11-11T16:16:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-11T16:27:20.669260+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/22-stocks-of-companies-with-tremendous-sales-growth-78c3f750?mod=mw_rss_topstories",
+   "baslik": "22 stocks of companies with tremendous sales growth",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/22-stocks-of-companies-with-tremendous-sales-growth-78c3f750?mod=mw_rss_topstories",
+   "saat": "16:06",
+   "tarih_iso": "2026-11-11T16:06:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-11T16:27:20.669260+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nvidia-stock-gets-a-rare-wall-street-downgrade-on-supply-issues-5018471",
+   "baslik": "Wall Street analysts turn cautious on Nvidia amid supply issues, Huang uncertainty",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nvidia-stock-gets-a-rare-wall-street-downgrade-on-supply-issues-5018471",
+   "saat": "15:50",
+   "tarih_iso": "2026-11-11T15:50:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-11T16:27:20.669260+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/barclays-sees-thg-earnings-growth-as-whey-costs-ease-nutrition-margins-recover-5018726",
+   "baslik": "Barclays sees THG earnings growth as whey costs ease, Nutrition margins recover",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/barclays-sees-thg-earnings-growth-as-whey-costs-ease-nutrition-margins-recover-5018726",
+   "saat": "15:48",
+   "tarih_iso": "2026-11-11T15:48:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-11T16:27:20.669260+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-138-5018716",
+   "baslik": "Saudi Arabia stocks higher at close of trade; Tadawul All Share up 1.38%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-higher-at-close-of-trade-tadawul-all-share-up-138-5018716",
+   "saat": "15:45",
+   "tarih_iso": "2026-11-11T15:45:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-11T16:27:20.669260+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-ishares-semiconductor-etf-stock-surging-today-93CH-5018709",
+   "baslik": "Why is iShares Semiconductor ETF stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-ishares-semiconductor-etf-stock-surging-today-93CH-5018709",
+   "saat": "15:42",
+   "tarih_iso": "2026-11-11T15:42:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-11T16:27:20.669260+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/11/11/mortgage-rates-jump-sharply-higher-after-easing-for-4-straight-weeks.html",
    "baslik": "Mortgage rates jump sharply higher, after easing for four straight weeks. Here's why",
    "kaynak": "CNBC",
@@ -279,6 +371,16 @@
    "tarih_iso": "2026-11-11T15:36:14+03:00",
    "kodlar": [],
    "eklenme": "2026-11-11T15:56:36.122984+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/jefferies-cuts-2-eu-specialty-chemical-distributors-as-inflation-tailwind-fades-5018684",
+   "baslik": "Jefferies cuts 2 EU specialty chemical distributors as inflation tailwind fades",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/jefferies-cuts-2-eu-specialty-chemical-distributors-as-inflation-tailwind-fades-5018684",
+   "saat": "15:34",
+   "tarih_iso": "2026-11-11T15:34:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-11T16:27:20.669260+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/why-is-hagerty-stock-sliding-today-93CH-5018683",
@@ -573,5 +675,5 @@
    "eklenme": "2026-11-11T15:56:36.122984+03:00"
   }
  ],
- "guncelleme": "2026-11-11T15:56:36.122984+03:00"
+ "guncelleme": "2026-11-11T16:27:20.669260+03:00"
 }
