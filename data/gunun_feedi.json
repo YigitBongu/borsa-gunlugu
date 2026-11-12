@@ -2,6 +2,20 @@
  "tarih": "2026-11-12",
  "kap": [
   {
+   "id": "kap-my-AGHOL-202611121640",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "AGHOL",
+    "GESAN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:40",
+   "tarih_iso": "2026-11-12T16:40:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-12T17:31:15.275887+03:00"
+  },
+  {
    "id": "kap-my-ISMEN-202611121610",
    "baslik": "İŞ YATIRIM MENKUL DEĞERLER A.Ş. — Piyasa Yapıcılığı Kapsamında Gerçekleştirilen İşlemler Bildirimi",
    "sirket": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
@@ -43,6 +57,18 @@
  ],
  "sirket": [
   {
+   "id": "rss-https://www.dunya.com/sirketler/turk-telekomdan-cop31te-teknoloji-sovu-yerli-otonom-surus-yazilimi-tanitildi-haberi-847425",
+   "baslik": "Türk Telekom'dan COP31'te teknoloji şovu: Yerli otonom sürüş yazılımı tanıtıldı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/turk-telekomdan-cop31te-teknoloji-sovu-yerli-otonom-surus-yazilimi-tanitildi-haberi-847425",
+   "saat": "17:19",
+   "tarih_iso": "2026-11-12T17:19:00+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-11-12T17:31:15.275887+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/piyasa-gucleri-iklim-hedeflerinin-tamamini-karsilayamaz-3926886",
    "baslik": "\"Gelişmiş ülkeler daha fazla sorumluluk üstlenmeli\"",
    "kaynak": "Habertürk Ekonomi",
@@ -77,6 +103,18 @@
     "MGROS"
    ],
    "eklenme": "2026-11-12T16:58:29.896228+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-12-kasim-2026/4122534",
+   "baslik": "60 saniyede ekonomide bugün (12 Kasım 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-12-kasim-2026/4122534",
+   "saat": "15:35",
+   "tarih_iso": "2026-11-12T15:35:31+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-11-12T17:31:15.275887+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/gundem/turk-telekom-yesil-teknoloji-yatirimlarini-cop31de-tanitiyor-haberi-847398",
@@ -202,6 +240,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/son-dakika-ihtiyac-tasit-ve-ticari-kredilerinde-yeni-donem-tcmb-sinirlarini-yukseltti-3492113",
+   "baslik": "SON DAKİKA | İhtiyaç, taşıt ve ticari kredilerinde yeni dönem! TCMB sınırlarını yükseltti",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/son-dakika-ihtiyac-tasit-ve-ticari-kredilerinde-yeni-donem-tcmb-sinirlarini-yukseltti-3492113",
+   "saat": "18:35",
+   "tarih_iso": "2026-11-12T18:35:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-12T17:31:15.275887+03:00"
+  },
+  {
    "id": "rss-https://www.haberturk.com/ekonomi/tcmb-rezervlerinde-artis-3926888",
    "baslik": "TCMB rezervlerinde artış",
    "kaynak": "Habertürk Ekonomi",
@@ -323,6 +371,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-hit-record-highs-as-defensive-appeal-offsets-nvidia-shock-5020450",
+   "baslik": "European shares lose steam as rising yields and Nvidia slump stifle rally",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-hit-record-highs-as-defensive-appeal-offsets-nvidia-shock-5020450",
+   "saat": "17:23",
+   "tarih_iso": "2026-11-12T17:23:22+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-12T17:31:15.275887+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/keurig-dr-pepper-plans-2-billion-stock-offering-to-cut-debt-ahead-of-split-5022166",
+   "baslik": "Keurig Dr Pepper plans $2 billion stock offering to cut debt ahead of split",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/keurig-dr-pepper-plans-2-billion-stock-offering-to-cut-debt-ahead-of-split-5022166",
+   "saat": "17:20",
+   "tarih_iso": "2026-11-12T17:20:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-12T17:31:15.275887+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/warby-parker-bets-on-google-ai-glasses-for-growth-but-privacy-fears-still-loom-5022160",
+   "baslik": "Warby Parker bets on Google AI glasses for growth, but privacy fears still loom",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/warby-parker-bets-on-google-ai-glasses-for-growth-but-privacy-fears-still-loom-5022160",
+   "saat": "17:19",
+   "tarih_iso": "2026-11-12T17:19:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-12T17:31:15.275887+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+   "baslik": "Opening trading-card packs has become a $2 billion market",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+   "saat": "17:19",
+   "tarih_iso": "2026-11-12T17:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-12T17:31:15.275887+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nebius-stock-tumbling-today-93CH-5022147",
+   "baslik": "Why is Nebius stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-tumbling-today-93CH-5022147",
+   "saat": "17:18",
+   "tarih_iso": "2026-11-12T17:18:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-12T17:31:15.275887+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/investingclub/2026/11/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Thursday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/11/12/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html",
+   "saat": "17:00",
+   "tarih_iso": "2026-11-12T17:00:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-12T17:31:15.275887+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
    "baslik": "Oil prices jump after Trump says no Iran deal needed: 'We've got their Strait'",
@@ -586,5 +694,5 @@
    "eklenme": "2026-11-12T16:58:29.896228+03:00"
   }
  ],
- "guncelleme": "2026-11-12T16:58:29.896228+03:00"
+ "guncelleme": "2026-11-12T17:31:15.275887+03:00"
 }
