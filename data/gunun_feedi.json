@@ -2,6 +2,45 @@
  "tarih": "2026-11-12",
  "kap": [
   {
+   "id": "kap-my-ZOREN-202611121933",
+   "baslik": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş. — Şirket Genel Bilgi Formu",
+   "sirket": "ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.",
+   "kodlar": [
+    "ZOREN"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:33",
+   "tarih_iso": "2026-11-12T19:33:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "kap-my-CCOLA-202611121932",
+   "baslik": "COCA-COLA İÇECEK A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "COCA-COLA İÇECEK A.Ş.",
+   "kodlar": [
+    "CCOLA"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "19:32",
+   "tarih_iso": "2026-11-12T19:32:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "kap-my-AEFES-202611121854",
+   "baslik": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş. — Kredi Derecelendirmesi",
+   "sirket": "ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.",
+   "kodlar": [
+    "AEFES"
+   ],
+   "kategori": "Borçlanma",
+   "saat": "18:54",
+   "tarih_iso": "2026-11-12T18:54:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
    "id": "kap-my-AGHOL-202611121640",
    "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
    "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
@@ -56,6 +95,30 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.bloomberght.com/bbva-ceo-su-onur-genc-1-trilyon-euroluk-hedefin-10-15-i-turkiye-ye-gelebilir-3794500",
+   "baslik": "BBVA CEO'su Onur Genç: 1 trilyon euroluk hedefin %10-15'i Türkiye'ye gelebilir",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/bbva-ceo-su-onur-genc-1-trilyon-euroluk-hedefin-10-15-i-turkiye-ye-gelebilir-3794500",
+   "saat": "00:11",
+   "tarih_iso": "2026-11-13T00:11:05+03:00",
+   "kodlar": [
+    "GARAN"
+   ],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/sahin-malatyadaki-ges-projemiz-300-mwp-gucunde-olacak-3492538",
+   "baslik": "Şahin: Malatya'daki GES projemiz, 300 MWp gücünde olacak",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/sahin-malatyadaki-ges-projemiz-300-mwp-gucunde-olacak-3492538",
+   "saat": "21:03",
+   "tarih_iso": "2026-11-12T21:03:18+03:00",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
   {
    "id": "rss-https://www.dunya.com/sirketler/turk-telekomdan-cop31te-teknoloji-sovu-yerli-otonom-surus-yazilimi-tanitildi-haberi-847425",
    "baslik": "Türk Telekom'dan COP31'te teknoloji şovu: Yerli otonom sürüş yazılımı tanıtıldı",
@@ -240,6 +303,96 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/onur-genc-2027de-enflasyon-yuzde-25-30-araliginda-olacak-3926973",
+   "baslik": "Onur Genç: 2027’de enflasyon yüzde 25-30 aralığında olacak",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/onur-genc-2027de-enflasyon-yuzde-25-30-araliginda-olacak-3926973",
+   "saat": "00:29",
+   "tarih_iso": "2026-11-13T00:29:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/kalshi-65-milyar-dolar-degerlemede-yeni-fon-gorusmesi-yapyor-4155606",
+   "baslik": "Kalshi 65 milyar dolar değerlemede yeni fon görüşmesi yapıyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/kalshi-65-milyar-dolar-degerlemede-yeni-fon-gorusmesi-yapyor-4155606",
+   "saat": "00:13",
+   "tarih_iso": "2026-11-13T00:13:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/feddaly-yapay-zekanin-fiyat-baskilarini-artirdigina-suphe-yok-3794498",
+   "baslik": "Fed/Daly: Yapay zekanın fiyat baskılarını artırdığına şüphe yok",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/feddaly-yapay-zekanin-fiyat-baskilarini-artirdigina-suphe-yok-3794498",
+   "saat": "23:54",
+   "tarih_iso": "2026-11-12T23:54:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/abd-butcesi-2027-mali-yilinin-ilk-ayinda-404-1-milyar-dolar-acik-verdi-3794497",
+   "baslik": "ABD'de bütçe açığı Ekim'de 404,1 milyar dolara tırmandı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/abd-butcesi-2027-mali-yilinin-ilk-ayinda-404-1-milyar-dolar-acik-verdi-3794497",
+   "saat": "23:15",
+   "tarih_iso": "2026-11-12T23:15:33+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/abdnin-butce-acigi-ekimde-404-milyar-dolara-ulasti-haberi-847461",
+   "baslik": "ABD'nin bütçe açığı ekimde 404 milyar dolara ulaştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/abdnin-butce-acigi-ekimde-404-milyar-dolara-ulasti-haberi-847461",
+   "saat": "22:37",
+   "tarih_iso": "2026-11-12T22:37:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/abd-2027-mali-yilina-404-milyar-dolarlik-butce-acigiyla-basladi/4123404",
+   "baslik": "ABD, 2027 mali yılına 404 milyar dolarlık bütçe açığıyla başladı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abd-2027-mali-yilina-404-milyar-dolarlik-butce-acigiyla-basladi/4123404",
+   "saat": "22:32",
+   "tarih_iso": "2026-11-12T22:32:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/fed-ekim-2027-toplantisinda-politika-karari-aciklamayacak-3794492",
+   "baslik": "Fed, Ekim 2027 toplantısında politika kararı açıklamayacak",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/fed-ekim-2027-toplantisinda-politika-karari-aciklamayacak-3794492",
+   "saat": "21:48",
+   "tarih_iso": "2026-11-12T21:48:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fed-gelecek-yil-ekim-toplantisinda-para-politikasi-karari-vermeyecek/4123349",
+   "baslik": "Fed, gelecek yıl ekim toplantısında para politikası kararı vermeyecek",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-gelecek-yil-ekim-toplantisinda-para-politikasi-karari-vermeyecek/4123349",
+   "saat": "21:29",
+   "tarih_iso": "2026-11-12T21:29:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fedden-2027-icin-dikkat-ceken-degisiklik-ekim-toplantisinda-faiz-karari-aciklanmayacak-haberi-847452",
+   "baslik": "Fed'den 2027 için dikkat çeken değişiklik: Ekim toplantısında faiz kararı açıklanmayacak",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fedden-2027-icin-dikkat-ceken-degisiklik-ekim-toplantisinda-faiz-karari-aciklanmayacak-haberi-847452",
+   "saat": "21:29",
+   "tarih_iso": "2026-11-12T21:29:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
    "id": "rss-https://www.cnnturk.com/ekonomi/son-dakika-ihtiyac-tasit-ve-ticari-kredilerinde-yeni-donem-tcmb-sinirlarini-yukseltti-3492113",
    "baslik": "SON DAKİKA | İhtiyaç, taşıt ve ticari kredilerinde yeni dönem! TCMB sınırlarını yükseltti",
    "kaynak": "CNN Türk Ekonomi",
@@ -371,6 +524,196 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+   "baslik": "Cerebras surges 18% after beating on quarterly revenue and announcing Microsoft deal",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+   "saat": "00:33",
+   "tarih_iso": "2026-11-13T00:33:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-005-5023292",
+   "baslik": "Russia stocks higher at close of trade; MOEX Russia Index up 0.05%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/russia-stocks-higher-at-close-of-trade-moex-russia-index-up-005-5023292",
+   "saat": "00:25",
+   "tarih_iso": "2026-11-13T00:25:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-153-5023291",
+   "baslik": "Colombia stocks lower at close of trade; COLCAP down 1.53%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-153-5023291",
+   "saat": "00:25",
+   "tarih_iso": "2026-11-13T00:25:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+   "baslik": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+   "saat": "00:20",
+   "tarih_iso": "2026-11-13T00:20:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cisco-raises-annual-revenue-forecast-on-strong-ai-networking-demand-5023256",
+   "baslik": "Cisco raises annual revenue forecast on strong AI networking demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cisco-raises-annual-revenue-forecast-on-strong-ai-networking-demand-5023256",
+   "saat": "00:19",
+   "tarih_iso": "2026-11-13T00:19:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/applied-materials-forecasts-quarterly-revenue-above-estimates-on-strong-ai-chip-demand-5023205",
+   "baslik": "Applied Materials forecasts quarterly revenue above estimates on strong AI chip demand",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/applied-materials-forecasts-quarterly-revenue-above-estimates-on-strong-ai-chip-demand-5023205",
+   "saat": "00:19",
+   "tarih_iso": "2026-11-13T00:19:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+   "baslik": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+   "saat": "00:17",
+   "tarih_iso": "2026-11-13T00:17:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cisco-shares-climb-4-on-strong-earnings-beat-and-raised-outlook-5023206",
+   "baslik": "Cisco shares climb 4% on strong earnings beat and raised outlook",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cisco-shares-climb-4-on-strong-earnings-beat-and-raised-outlook-5023206",
+   "saat": "00:13",
+   "tarih_iso": "2026-11-13T00:13:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+   "baslik": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+   "saat": "00:08",
+   "tarih_iso": "2026-11-13T00:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+   "baslik": "The bond market now has an even bigger fear than AI fallout",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+   "saat": "23:44",
+   "tarih_iso": "2026-11-12T23:44:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
+   "baslik": "Donald Trump Jr. exits advisory role at Kalshi prediction market",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html",
+   "saat": "23:03",
+   "tarih_iso": "2026-11-12T23:03:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
+   "baslik": "Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
+   "saat": "23:01",
+   "tarih_iso": "2026-11-12T23:01:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+   "baslik": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+   "saat": "22:33",
+   "tarih_iso": "2026-11-12T22:33:50+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
+   "baslik": "Nvidia’s stock selloff may be just beginning, even after shedding 30% from its peak",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
+   "saat": "22:15",
+   "tarih_iso": "2026-11-12T22:15:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+   "baslik": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+   "saat": "22:05",
+   "tarih_iso": "2026-11-12T22:05:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+   "baslik": "U.S. inflation is already bad enough. It might get worse.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+   "saat": "21:39",
+   "tarih_iso": "2026-11-12T21:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
+   "baslik": "US home sales fall to lowest level since 2010 as mortgage rates soar",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6=1",
+   "saat": "21:03",
+   "tarih_iso": "2026-11-12T21:03:44+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+   "baslik": "Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+   "saat": "20:50",
+   "tarih_iso": "2026-11-12T20:50:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+   "baslik": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+   "saat": "20:39",
+   "tarih_iso": "2026-11-12T20:39:54+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-hit-record-highs-as-defensive-appeal-offsets-nvidia-shock-5020450",
    "baslik": "European shares lose steam as rising yields and Nvidia slump stifle rally",
@@ -614,6 +957,66 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-selloff-shows-how-5-treasury-yields-are-repricing-the-metal-200691478",
+   "baslik": "Gold Selloff Shows How 5% Treasury Yields Are Repricing the Metal",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-selloff-shows-how-5-treasury-yields-are-repricing-the-metal-200691478",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/golds-final-rebound-ends--as-it-did-in-2013-200691476",
+   "baslik": "Gold’s Final Rebound Ends - As It Did in 2013",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-final-rebound-ends--as-it-did-in-2013-200691476",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-and-copper-break-important-support-whats-next-200691474",
+   "baslik": "Gold and Copper Break Important Support: What’s Next?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-and-copper-break-important-support-whats-next-200691474",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/altin-yine-sert-dustu-3492573",
+   "baslik": "Altın yine sert düştü",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/altin/altin-yine-sert-dustu-3492573",
+   "saat": "00:27",
+   "tarih_iso": "2026-11-13T00:27:55+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "alt-https://tr.investing.com/news/stock-market-news/equinox-gold-hissesi-bugun-neden-dusuyor-93CH-4155555",
+   "baslik": "Equinox Gold hissesi bugün neden düşüyor?",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/equinox-gold-hissesi-bugun-neden-dusuyor-93CH-4155555",
+   "saat": "23:20",
+   "tarih_iso": "2026-11-12T23:20:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/tighter-regulation-not-enough-to-stop-importing-illicit-gold-to-uae-report/",
+   "baslik": "Tighter regulation not enough to stop importing illicit gold to UAE: report",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/tighter-regulation-not-enough-to-stop-importing-illicit-gold-to-uae-report/",
+   "saat": "20:40",
+   "tarih_iso": "2026-11-12T20:40:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-13T00:41:26.613094+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-approaches-key-support-as-trumps-hawkish-tone-may-prolong-conflict-200691417",
    "baslik": "Gold Approaches Key Support as Trump’s Hawkish Tone May Prolong Conflict",
    "kaynak": "Investing Emtia",
@@ -694,5 +1097,5 @@
    "eklenme": "2026-11-12T16:58:29.896228+03:00"
   }
  ],
- "guncelleme": "2026-11-12T17:31:15.275887+03:00"
+ "guncelleme": "2026-11-13T00:41:26.613094+03:00"
 }
