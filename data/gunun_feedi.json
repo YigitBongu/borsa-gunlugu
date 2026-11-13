@@ -2,6 +2,19 @@
  "tarih": "2026-11-13",
  "kap": [
   {
+   "id": "kap-my-HEKTS-202611131931",
+   "baslik": "HEKTAŞ TİCARET T.A.Ş. — Sermaye Artırımından Elde Edilecek - Edilen Fonun Kullanımına İlişkin Rapor",
+   "sirket": "HEKTAŞ TİCARET T.A.Ş.",
+   "kodlar": [
+    "HEKTS"
+   ],
+   "kategori": "Sermaye",
+   "saat": "19:31",
+   "tarih_iso": "2026-11-13T19:31:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
    "id": "kap-my-KARSN-202611131621",
    "baslik": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş. — Şirket Genel Bilgi Formu",
    "sirket": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş.",
@@ -68,6 +81,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.bloomberght.com/spk-dan-uc-hissede-suc-duyurusu-ve-islem-yasagi-3794647",
+   "baslik": "SPK'dan üç şirketin işlemleriyle ilgili suç duyurusu ve işlem yasağı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/spk-dan-uc-hissede-suc-duyurusu-ve-islem-yasagi-3794647",
+   "saat": "00:16",
+   "tarih_iso": "2026-11-14T00:16:11+03:00",
+   "kodlar": [
+    "KRDMD"
+   ],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
   {
    "id": "rss-https://www.haberturk.com/ekonomi/yildiz-holding-2030-hedeflerini-cop31de-acikladi-3927176",
    "baslik": "Yıldız Holding 2030 hedeflerini açıkladı",
@@ -205,6 +230,66 @@
   }
  ],
  "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/iklim-riskine-1-dolar-yatirim-12-dolar-getiri-sagliyor-haberi-847564",
+   "baslik": "İklim riskine 1 dolar yatırım 12 dolar getiri sağlıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/iklim-riskine-1-dolar-yatirim-12-dolar-getiri-sagliyor-haberi-847564",
+   "saat": "00:00",
+   "tarih_iso": "2026-11-14T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/cari-fazla-27-milyar-dolar-kripto-da-kayitlarda-haberi-847567",
+   "baslik": "Cari fazla 2,7 milyar dolar kripto da kayıtlarda",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/cari-fazla-27-milyar-dolar-kripto-da-kayitlarda-haberi-847567",
+   "saat": "00:00",
+   "tarih_iso": "2026-11-14T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/foto-galeri/ekonomi/borsa-altin-dolar-iste-haftanin-en-cok-kazandirani-galeri-847572",
+   "baslik": "Borsa, altın, dolar... İşte haftanın en çok kazandıranı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/foto-galeri/ekonomi/borsa-altin-dolar-iste-haftanin-en-cok-kazandirani-galeri-847572",
+   "saat": "23:24",
+   "tarih_iso": "2026-11-13T23:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/avrupa-nin-yapay-zeka-faturasi-500-milyar-euro-3794644",
+   "baslik": "Avrupa'nın yapay zeka faturası: 500 milyar euro",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/avrupa-nin-yapay-zeka-faturasi-500-milyar-euro-3794644",
+   "saat": "22:10",
+   "tarih_iso": "2026-11-13T22:10:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/bessent-hazine-aylardir-megaspeed-in-kara-listeye-alinmasini-destekliyor-3794639",
+   "baslik": "Bessent: Hazine aylardır Megaspeed'in kara listeye alınmasını destekliyor",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/bessent-hazine-aylardir-megaspeed-in-kara-listeye-alinmasini-destekliyor-3794639",
+   "saat": "19:53",
+   "tarih_iso": "2026-11-13T19:53:05+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-bessent-aylardir-megaspeedin-kara-listeye-alinmasindan-yana-olduklarini-soyledi/4124590",
+   "baslik": "ABD Hazine Bakanı Bessent, aylardır Megaspeed'in kara listeye alınmasından yana olduklarını söyledi",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abd-hazine-bakani-bessent-aylardir-megaspeedin-kara-listeye-alinmasindan-yana-olduklarini-soyledi/4124590",
+   "saat": "19:16",
+   "tarih_iso": "2026-11-13T19:16:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
   {
    "id": "rss-https://www.cnnturk.com/ekonomi/tcmb-kasim-ayi-anketini-acikladi-yil-sonu-enflasyon-beklentisi-yukseldi-3492839",
    "baslik": "TCMB kasım ayı anketini açıkladı! Yıl sonu enflasyon beklentisi yükseldi",
@@ -347,6 +432,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559",
+   "baslik": "U.S. stocks mixed at close of trade; Dow Jones Industrial Average up 0.10%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-mixed-at-close-of-trade-dow-jones-industrial-average-up-010-5026559",
+   "saat": "00:30",
+   "tarih_iso": "2026-11-14T00:30:56+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-104-5026551",
+   "baslik": "Mexico stocks lower at close of trade; S&P/BMV IPC down 1.04%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-104-5026551",
+   "saat": "00:30",
+   "tarih_iso": "2026-11-14T00:30:29+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-009-5026547",
+   "baslik": "Canada stocks lower at close of trade; S&P/TSX Composite down 0.09%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/canada-stocks-lower-at-close-of-trade-sptsx-composite-down-009-5026547",
+   "saat": "00:30",
+   "tarih_iso": "2026-11-14T00:30:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+   "baslik": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+   "saat": "00:27",
+   "tarih_iso": "2026-11-14T00:27:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/ai-risks-top-financial-stability-concerns-fed-reports-93CH-5026543",
+   "baslik": "AI risks top financial stability concerns, Fed reports",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/ai-risks-top-financial-stability-concerns-fed-reports-93CH-5026543",
+   "saat": "00:26",
+   "tarih_iso": "2026-11-14T00:26:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+   "baslik": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+   "saat": "00:26",
+   "tarih_iso": "2026-11-14T00:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-006-5026542",
+   "baslik": "Colombia stocks lower at close of trade; COLCAP down 0.06%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/colombia-stocks-lower-at-close-of-trade-colcap-down-006-5026542",
+   "saat": "00:25",
+   "tarih_iso": "2026-11-14T00:25:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+   "baslik": "AI risks are the biggest threat to the financial system, Fed survey finds",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+   "saat": "00:18",
+   "tarih_iso": "2026-11-14T00:18:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+   "baslik": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+   "saat": "00:10",
+   "tarih_iso": "2026-11-14T00:10:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+   "baslik": "The trillion-dollar mistake corporate America is making about retirement",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+   "saat": "00:09",
+   "tarih_iso": "2026-11-14T00:09:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/meta-employees-test-predictionmarket-app-wsj-reports-5026444",
    "baslik": "Meta employees test prediction-market app, WSJ reports",
@@ -770,6 +955,16 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-breaks-below-4000-as-rising-yields-redefine-the-macro-trade-200691560",
+   "baslik": "Gold Breaks Below $4,000 as Rising Yields Redefine the Macro Trade",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-breaks-below-4000-as-rising-yields-redefine-the-macro-trade-200691560",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-11-14T01:02:24.335413+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/golds-break-below-october-low-draws-parallels-with-the-historic-2013-selloff-200691553",
    "baslik": "Gold’s Break Below October Low Draws Parallels With the Historic 2013 Sell-Off",
    "kaynak": "Investing Emtia",
@@ -930,5 +1125,5 @@
    "eklenme": "2026-11-13T16:25:18.690547+03:00"
   }
  ],
- "guncelleme": "2026-11-13T23:44:19.132923+03:00"
+ "guncelleme": "2026-11-14T01:02:24.335413+03:00"
 }
