@@ -2,6 +2,32 @@
  "tarih": "2026-11-16",
  "kap": [
   {
+   "id": "kap-my-MIATK-202611161714",
+   "baslik": "BORSA İSTANBUL A.Ş. — Özsermaye Hallerine İlişkin Borsa Duyurusu",
+   "sirket": "BORSA İSTANBUL A.Ş.",
+   "kodlar": [
+    "MIATK"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:14",
+   "tarih_iso": "2026-11-16T17:14:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "kap-my-QUAGR-202611161655",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "QUAGR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "16:55",
+   "tarih_iso": "2026-11-16T16:55:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
    "id": "kap-my-MIATK-202611161609",
    "baslik": "MİA TEKNOLOJİ A.Ş. — Birleşme İşlemlerine İlişkin Bildirim",
    "sirket": "MİA TEKNOLOJİ A.Ş.",
@@ -29,6 +55,18 @@
   }
  ],
  "sirket": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-16-kasim-2026/4126707",
+   "baslik": "60 saniyede ekonomide bugün (16 Kasım 2026)",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-16-kasim-2026/4126707",
+   "saat": "15:58",
+   "tarih_iso": "2026-11-16T15:58:52+03:00",
+   "kodlar": [
+    "HALKB"
+   ],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
   {
    "id": "rss-https://www.bloomberght.com/akbankozben-surdurulebilirlik-finansmanina-yonelik-yeni-urunler-sunacagiz-3794757",
    "baslik": "Akbank/Özben: Sürdürülebilirlik finansmanına yönelik yeni ürünler sunacağız",
@@ -203,6 +241,46 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/en-dusuk-emekli-maasi-ne-kadar-olacak-2027-emekliye-enflasyon-yuzde-15-formulu-maaslar-kac-tlye-cikacak-emekliye-seyyanen-zam-3493878",
+   "baslik": "EN DÜŞÜK EMEKLİ MAAŞI NE KADAR OLACAK 2027: Emekliye Enflasyon + Yüzde 15 Formülü! Maaşlar Kaç TL'ye Çıkacak? Emekliye Seyyanen Zam Olacak Mı? Gözler Ocak Artışında",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/en-dusuk-emekli-maasi-ne-kadar-olacak-2027-emekliye-enflasyon-yuzde-15-formulu-maaslar-kac-tlye-cikacak-emekliye-seyyanen-zam-3493878",
+   "saat": "18:27",
+   "tarih_iso": "2026-11-16T18:27:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-gun-aciklanacak-fed-faiz-artiracak-mi-haberi-847816",
+   "baslik": "Fed faiz kararı ne zaman, hangi gün açıklanacak? Fed faiz artıracak mı?",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-faiz-karari-ne-zaman-hangi-gun-aciklanacak-fed-faiz-artiracak-mi-haberi-847816",
+   "saat": "17:26",
+   "tarih_iso": "2026-11-16T17:26:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/fed-faiz-artrmlar-piyasalar-nasl-etkileyecek-4159680",
+   "baslik": "Fed faiz artırımları piyasaları nasıl etkileyecek?",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/fed-faiz-artrmlar-piyasalar-nasl-etkileyecek-4159680",
+   "saat": "17:19",
+   "tarih_iso": "2026-11-16T17:19:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/new-york-fed-imalat-endeksinde-keskin-gerileme-3794773",
+   "baslik": "New York Fed imalat endeksinde keskin gerileme",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/new-york-fed-imalat-endeksinde-keskin-gerileme-3794773",
+   "saat": "17:10",
+   "tarih_iso": "2026-11-16T17:10:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/ecb-ve-fedden-yapay-zekanin-finansal-istikrari-bozabilecegi-uyarisi/4126742",
    "baslik": "ECB ve Fed'den yapay zekanın finansal istikrarı bozabileceği uyarısı",
    "kaynak": "AA Ekonomi",
@@ -273,6 +351,16 @@
    "eklenme": "2026-11-16T16:59:11.443898+03:00"
   },
   {
+   "id": "rss-https://www.haberturk.com/ekonomi/butce-ekimde-481-milyar-tl-acik-verdi-3927658",
+   "baslik": "Bütçe ekimde 481 milyar TL açık verdi",
+   "kaynak": "Habertürk Ekonomi",
+   "link": "https://www.haberturk.com/ekonomi/butce-ekimde-481-milyar-tl-acik-verdi-3927658",
+   "saat": "11:51",
+   "tarih_iso": "2026-11-16T11:51:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/altinin-ons-fiyati-enflasyon-ve-faiz-beklentileriyle-ekim-2025ten-bu-yana-en-dusuk-seviyesine-indi/4126300",
    "baslik": "Altının ons fiyatı enflasyon ve faiz beklentileriyle Ekim 2025'ten bu yana en düşük seviyesine indi",
    "kaynak": "AA Ekonomi",
@@ -324,6 +412,106 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/how-will-fed-rate-hikes-impact-markets-5030161",
+   "baslik": "How will Fed rate hikes impact markets?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/how-will-fed-rate-hikes-impact-markets-5030161",
+   "saat": "17:19",
+   "tarih_iso": "2026-11-16T17:19:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/how-much-could-nvidia-stock-move-tomorrow-after-earnings-93CH-5030156",
+   "baslik": "How much could Nvidia stock move tomorrow after earnings?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/how-much-could-nvidia-stock-move-tomorrow-after-earnings-93CH-5030156",
+   "saat": "17:18",
+   "tarih_iso": "2026-11-16T17:18:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-strive-stock-sliding-today-93CH-5030152",
+   "baslik": "Why is Strive stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-strive-stock-sliding-today-93CH-5030152",
+   "saat": "17:16",
+   "tarih_iso": "2026-11-16T17:16:26+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5030147",
+   "baslik": "Why is CoreWeave stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5030147",
+   "saat": "17:16",
+   "tarih_iso": "2026-11-16T17:16:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/investingclub/2026/11/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Monday",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/11/16/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
+   "saat": "17:14",
+   "tarih_iso": "2026-11-16T17:14:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-5030128",
+   "baslik": "Why is Nebius stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-5030128",
+   "saat": "17:13",
+   "tarih_iso": "2026-11-16T17:13:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-circle-internet-stock-sliding-today-93CH-5030100",
+   "baslik": "Why is Circle Internet stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-circle-internet-stock-sliding-today-93CH-5030100",
+   "saat": "17:11",
+   "tarih_iso": "2026-11-16T17:11:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/should-investors-buy-the-rare-nvidia-stock-correction-before-tomorrows-earnings-93CH-5030072",
+   "baslik": "Should investors buy the rare Nvidia stock correction before tomorrow’s earnings?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/should-investors-buy-the-rare-nvidia-stock-correction-before-tomorrows-earnings-93CH-5030072",
+   "saat": "17:08",
+   "tarih_iso": "2026-11-16T17:08:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+   "baslik": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+   "saat": "17:07",
+   "tarih_iso": "2026-11-16T17:07:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/make-it/2026/11/16/5-years-after-the-nft-boom-theres-a-lesson-for-investors-.html",
+   "baslik": "A major NFT marketplace is shutting down—5 years after the boom, there's a lesson for investors",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/make-it/2026/11/16/5-years-after-the-nft-boom-theres-a-lesson-for-investors-.html",
+   "saat": "17:00",
+   "tarih_iso": "2026-11-16T17:00:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-16T17:35:24.064642+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/trane-technologies-is-the-top-machinery-stock-for-riskadjusted-returns-93CH-5029983",
    "baslik": "Trane Technologies is the top machinery stock for risk-adjusted returns",
@@ -657,5 +845,5 @@
    "eklenme": "2026-11-16T16:59:11.443898+03:00"
   }
  ],
- "guncelleme": "2026-11-16T16:59:11.443898+03:00"
+ "guncelleme": "2026-11-16T17:35:24.064642+03:00"
 }
