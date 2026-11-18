@@ -2,6 +2,19 @@
  "tarih": "2026-11-18",
  "kap": [
   {
+   "id": "kap-my-ODAS-202611181734",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "ODAS"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:34",
+   "tarih_iso": "2026-11-18T17:34:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
+  },
+  {
    "id": "kap-my-QUAGR-202611181655",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -168,6 +181,16 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/en-dusuk-emekli-maasi-ne-kadar-olacak-2027-emekliye-enflasyon-yuzde-15-formulu-maaslar-kac-tlye-cikacak-emekliye-seyyanen-zam-3493878",
+   "baslik": "EN DÜŞÜK EMEKLİ MAAŞI SON DAKİKA: Erdoğan'dan Emekli Müjdesi! 2027 En Düşük Emekli Maaşı Ne Kadar Olacak? Emekliye Enflasyon + Yüzde 15 Formülü! Emekliye Seyyanen Zam Olacak Mı?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/en-dusuk-emekli-maasi-ne-kadar-olacak-2027-emekliye-enflasyon-yuzde-15-formulu-maaslar-kac-tlye-cikacak-emekliye-seyyanen-zam-3493878",
+   "saat": "17:37",
+   "tarih_iso": "2026-11-18T17:37:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
+  },
+  {
    "id": "rss-https://www.dunya.com/ekonomi/moodysten-fon-krizi-degerlendirmesi-kredi-notu-icin-kritik-mesaj-haberi-848104",
    "baslik": "Moody's'ten fon krizi değerlendirmesi: Kredi notu için kritik mesaj",
    "kaynak": "Dünya",
@@ -186,6 +209,16 @@
    "tarih_iso": "2026-11-18T16:27:00+03:00",
    "kodlar": [],
    "eklenme": "2026-11-18T17:32:32.269673+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/ecbden-avro-bolgesindeki-mali-dengesizlikler-ve-yapay-zeka-risklerine-iliskin-uyari/4129381",
+   "baslik": "ECB'den Avro Bölgesi'ndeki mali dengesizlikler ve yapay zeka risklerine ilişkin uyarı",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ecbden-avro-bolgesindeki-mali-dengesizlikler-ve-yapay-zeka-risklerine-iliskin-uyari/4129381",
+   "saat": "16:18",
+   "tarih_iso": "2026-11-18T16:18:42+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
   },
   {
    "id": "rss-https://www.dunya.com/dunya/ecbden-piyasalara-kritik-uyari-yapay-zeka-ve-borc-riski-buyuyor-haberi-848097",
@@ -236,6 +269,26 @@
    "tarih_iso": "2026-11-18T15:19:26+03:00",
    "kodlar": [],
    "eklenme": "2026-11-18T17:32:32.269673+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/euro-bolgesinde-enflasyon-ekimde-yuzde-4e-yukseldi-haberi-848088",
+   "baslik": "Euro Bölgesi'nde enflasyon ekimde yüzde 4'e yükseldi",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/euro-bolgesinde-enflasyon-ekimde-yuzde-4e-yukseldi-haberi-848088",
+   "saat": "14:23",
+   "tarih_iso": "2026-11-18T14:23:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/dunya/abden-ukraynaya-45-milyar-euroluk-kredi-vermeye-hazirlaniyor-haberi-848086",
+   "baslik": "AB'den Ukrayna'ya 45 milyar Euro'luk kredi vermeye hazırlanıyor",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/dunya/abden-ukraynaya-45-milyar-euroluk-kredi-vermeye-hazirlaniyor-haberi-848086",
+   "saat": "13:53",
+   "tarih_iso": "2026-11-18T13:53:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
   },
   {
    "id": "rss-https://www.bloomberght.com/hazine-den-yesil-tahvil-ihraci-icin-dort-bankaya-yetki-3794975",
@@ -289,6 +342,66 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-lower-gold-oil-prices-nvidia-earnings-in-focus-5035920",
+   "baslik": "TSX futures slip amid lower gold, oil prices; Nvidia earnings in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-lower-gold-oil-prices-nvidia-earnings-in-focus-5035920",
+   "saat": "17:40",
+   "tarih_iso": "2026-11-18T17:40:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-nvidia-forecast-eases-ai-jitters-5036411",
+   "baslik": "S&P 500, Nasdaq open higher as Nvidia forecast eases AI jitters",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-500-nasdaq-open-higher-as-nvidia-forecast-eases-ai-jitters-5036411",
+   "saat": "17:36",
+   "tarih_iso": "2026-11-18T17:36:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
+   "baslik": "Only two ‘Magnificent Seven’ stocks have managed to beat the S&P 500 since the start of 2025",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/only-two-magnificent-seven-stocks-have-managed-to-beat-the-s-p-500-since-the-start-of-2025-a3daa0f8?mod=mw_rss_topstories",
+   "saat": "17:33",
+   "tarih_iso": "2026-11-18T17:33:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
+   "baslik": "How high must interest rates go to cool inflation? Possibly 100 basis points or more, Fed’s Waller says.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/how-high-must-interest-rates-go-to-cool-inflation-possibly-100-basis-points-or-more-feds-waller-says-e7b41cf6?mod=mw_rss_topstories",
+   "saat": "17:32",
+   "tarih_iso": "2026-11-18T17:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-billiontoone-stock-sliding-today-93CH-5036376",
+   "baslik": "Why is BillionToOne stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-billiontoone-stock-sliding-today-93CH-5036376",
+   "saat": "17:29",
+   "tarih_iso": "2026-11-18T17:29:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mizuho-names-top-healthcare-reit-picks-for-above-average-growth-5036354",
+   "baslik": "Mizuho names top healthcare REIT stocks for above average growth",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mizuho-names-top-healthcare-reit-picks-for-above-average-growth-5036354",
+   "saat": "17:27",
+   "tarih_iso": "2026-11-18T17:27:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/11/18/anthropic-ipo-retail-investors.html",
    "baslik": "Retail investor enthusiasm for Anthropic IPO to rival SpaceX debut",
@@ -582,6 +695,26 @@
    "eklenme": "2026-11-18T17:32:32.269673+03:00"
   },
   {
+   "id": "alt-https://www.investing.com/analysis/gold-strikes-back-but-will-the-momentum-last-200691842",
+   "baslik": "Gold Strikes Back: But Will the Momentum Last?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-strikes-back-but-will-the-momentum-last-200691842",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-lower-gold-oil-prices-nvidia-earnings-in-focus-5035920",
+   "baslik": "TSX futures slip amid lower gold, oil prices; Nvidia earnings in focus",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/tsx-futures-slip-amid-lower-gold-oil-prices-nvidia-earnings-in-focus-5035920",
+   "saat": "17:40",
+   "tarih_iso": "2026-11-18T17:40:09+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-18T17:58:55.228806+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-faces-another-leg-lower-as-key-support-levels-turn-into-resistance-200691805",
    "baslik": "Gold Faces Another Leg Lower as Key Support Levels Turn Into Resistance",
    "kaynak": "Investing Emtia",
@@ -712,5 +845,5 @@
    "eklenme": "2026-11-18T17:32:32.269673+03:00"
   }
  ],
- "guncelleme": "2026-11-18T17:32:32.269673+03:00"
+ "guncelleme": "2026-11-18T17:58:55.228806+03:00"
 }
