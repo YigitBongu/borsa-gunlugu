@@ -1,6 +1,33 @@
 {
  "tarih": "2026-11-20",
- "kap": [],
+ "kap": [
+  {
+   "id": "kap-my-IZENR-202611201715",
+   "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
+   "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
+   "kodlar": [
+    "IZENR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:15",
+   "tarih_iso": "2026-11-20T17:15:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-20T17:48:08.292222+03:00"
+  },
+  {
+   "id": "kap-my-REEDR-202611201713",
+   "baslik": "MERKEZİ KAYIT KURULUŞU A.Ş. — Borsada İşlem Gören Tipe Dönüşüm Duyurusu",
+   "sirket": "MERKEZİ KAYIT KURULUŞU A.Ş.",
+   "kodlar": [
+    "REEDR"
+   ],
+   "kategori": "Bildirim",
+   "saat": "17:13",
+   "tarih_iso": "2026-11-20T17:13:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-20T17:48:08.292222+03:00"
+  }
+ ],
  "sirket": [
   {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/thy-apex-5-yildizli-global-havayolu-odulunu-yedinci-kez-kazandi/4132308",
@@ -184,6 +211,16 @@
    "eklenme": "2026-11-20T17:20:57.490792+03:00"
   },
   {
+   "id": "rss-https://www.cnnturk.com/ekonomi/kasim-ayi-enflasyon-beklentisi-2026-tufe-verileri-ne-zaman-aciklanacak-kasim-ayi-enflasyon-beklentisi-ne-oldu-piyasalarin-gozu-yeni-3495303",
+   "baslik": "KASIM AYI ENFLASYON BEKLENTİSİ 2026 | TÜFE Verileri Ne Zaman Açıklanacak? Kasım Ayı Enflasyon Beklentisi Ne Oldu? Piyasaların Gözü Yeni Rakamlarda",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/kasim-ayi-enflasyon-beklentisi-2026-tufe-verileri-ne-zaman-aciklanacak-kasim-ayi-enflasyon-beklentisi-ne-oldu-piyasalarin-gozu-yeni-3495303",
+   "saat": "12:13",
+   "tarih_iso": "2026-11-20T12:13:28+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-20T17:48:08.292222+03:00"
+  },
+  {
    "id": "rss-https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-turkiye-dis-borc-istatistiklerini-yayimladi/4131853",
    "baslik": "Merkez Bankası \"Türkiye Dış Borç İstatistikleri\"ni yayımladı",
    "kaynak": "AA Ekonomi",
@@ -236,6 +273,26 @@
  ],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+   "baslik": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+   "saat": "17:30",
+   "tarih_iso": "2026-11-20T17:30:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-20T17:48:08.292222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/european-shares-extend-losses-as-anthropic-debut-tests-ai-trade-nov-19-5041958",
+   "baslik": "European shares extend losses as Anthropic debut tests AI trade (Nov. 19)",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/european-shares-extend-losses-as-anthropic-debut-tests-ai-trade-nov-19-5041958",
+   "saat": "17:18",
+   "tarih_iso": "2026-11-20T17:18:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-20T17:48:08.292222+03:00"
+  },
+  {
    "id": "yab-https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
    "baslik": "The bull market has a new problem. The 'smart money' is selling",
    "kaynak": "CNBC",
@@ -254,6 +311,26 @@
    "tarih_iso": "2026-11-20T17:15:00+03:00",
    "kodlar": [],
    "eklenme": "2026-11-20T17:20:57.490792+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/this-software-stock-is-firing-on-all-cylinders-heading-into-2027-td-cowen-5041942",
+   "baslik": "This software stock ’is firing on all cylinders heading into 2027’: TD Cowen",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/this-software-stock-is-firing-on-all-cylinders-heading-into-2027-td-cowen-5041942",
+   "saat": "17:13",
+   "tarih_iso": "2026-11-20T17:13:59+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-20T17:48:08.292222+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/what-a-jump-in-implied-correlation-means-for-markets-and-the-dispersion-trade-93CH-5041933",
+   "baslik": "What a jump in implied correlation means for markets and the dispersion trade",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/what-a-jump-in-implied-correlation-means-for-markets-and-the-dispersion-trade-93CH-5041933",
+   "saat": "17:11",
+   "tarih_iso": "2026-11-20T17:11:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-20T17:48:08.292222+03:00"
   },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/should-you-accumulate-anthropic-stock-early-after-paring-debut-day-gains-93CH-5041904",
@@ -688,5 +765,5 @@
    "eklenme": "2026-11-20T17:20:57.490792+03:00"
   }
  ],
- "guncelleme": "2026-11-20T17:20:57.490792+03:00"
+ "guncelleme": "2026-11-20T17:48:08.292222+03:00"
 }
