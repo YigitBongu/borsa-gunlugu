@@ -2,6 +2,32 @@
  "tarih": "2026-11-20",
  "kap": [
   {
+   "id": "kap-my-TTKOM-202611201937",
+   "baslik": "TÜRK TELEKOMÜNİKASYON A.Ş. — Finansal Duran Varlık Edinimi",
+   "sirket": "TÜRK TELEKOMÜNİKASYON A.Ş.",
+   "kodlar": [
+    "TTKOM"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:37",
+   "tarih_iso": "2026-11-20T19:37:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "kap-my-MAVI-202611201920",
+   "baslik": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş. — Payların Geri Alınmasına İlişkin Bildirim",
+   "sirket": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
+   "kodlar": [
+    "MAVI"
+   ],
+   "kategori": "Bildirim",
+   "saat": "19:20",
+   "tarih_iso": "2026-11-20T19:20:00+03:00",
+   "link": "https://finans.mynet.com/borsa/kaphaberleri/",
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
    "id": "kap-my-IZENR-202611201715",
    "baslik": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI — Pay Bazında Devre Kesici Bildirimi",
    "sirket": "BORSA İSTANBUL BISTECH DEVRE KESİCİ UYGULAMASI",
@@ -141,6 +167,46 @@
  ],
  "makro": [
   {
+   "id": "rss-https://www.dunya.com/ekonomi/yilsonu-enflasyon-beklentisi-6-ayin-en-dusuk-seviyesinde-haberi-848334",
+   "baslik": "Yılsonu enflasyon beklentisi 6 ayın en düşük seviyesinde",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/yilsonu-enflasyon-beklentisi-6-ayin-en-dusuk-seviyesinde-haberi-848334",
+   "saat": "00:00",
+   "tarih_iso": "2026-11-21T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/ons-altin-faiz-beklentileri-ve-teknoloji-hisselerindeki-satislarla-14-ayin-en-dusuk-seviyesinde/4132547",
+   "baslik": "Ons altın faiz beklentileri ve teknoloji hisselerindeki satışlarla 14 ayın en düşük seviyesinde",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ons-altin-faiz-beklentileri-ve-teknoloji-hisselerindeki-satislarla-14-ayin-en-dusuk-seviyesinde/4132547",
+   "saat": "22:50",
+   "tarih_iso": "2026-11-20T22:50:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/fedcook-gecikme-daha-sert-faiz-artisina-yol-acabilir-3795351",
+   "baslik": "Fed/Cook: Gecikme daha sert faiz artışına yol açabilir",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/fedcook-gecikme-daha-sert-faiz-artisina-yol-acabilir-3795351",
+   "saat": "22:14",
+   "tarih_iso": "2026-11-20T22:14:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/euro-bolgesi-nde-tuketici-guveni-beklentilerin-aksine-yukseldi-3795340",
+   "baslik": "Euro Bölgesi'nde tüketici güveni beklentilerin aksine yükseldi",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/euro-bolgesi-nde-tuketici-guveni-beklentilerin-aksine-yukseldi-3795340",
+   "saat": "19:40",
+   "tarih_iso": "2026-11-20T19:40:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
    "id": "rss-https://tr.investing.com/news/stock-market-news/piyasa-fede-faizlerin-surdurulemez-derecede-yuksek-oldugunu-soyluyor-citi-4167499",
    "baslik": "Piyasa, Fed’e faiz oranlarının \"sürdürülemez derecede yüksek\" olduğunu söylüyor: Citi",
    "kaynak": "Investing TR",
@@ -272,6 +338,186 @@
   }
  ],
  "yabanci": [
+  {
+   "id": "yab-https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+   "baslik": "Nvidia’s stock clinches a stretch of weekly losses not seen since 2008",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
+   "saat": "00:58",
+   "tarih_iso": "2026-11-21T00:58:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/sp-upgrades-snap-to-bb-on-margin-expansion-and-stronger-ad-monetization-5042734",
+   "baslik": "S&P upgrades Snap to ‘BB’ on margin expansion and stronger ad monetization",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/sp-upgrades-snap-to-bb-on-margin-expansion-and-stronger-ad-monetization-5042734",
+   "saat": "00:51",
+   "tarih_iso": "2026-11-21T00:51:15+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+   "baslik": "Everyone’s making money off ‘GTA 6’ this week — except investors in Take-Two’s stock",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/everyones-making-money-off-gta-6-this-week-except-investors-in-take-twos-stock-489ee01b?mod=mw_rss_topstories",
+   "saat": "00:39",
+   "tarih_iso": "2026-11-21T00:39:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5041258",
+   "baslik": "’Black Friday’ brings consumer spending into focus for AI-rocked market",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/black-friday-brings-consumer-spending-into-focus-for-airocked-market-5041258",
+   "saat": "00:37",
+   "tarih_iso": "2026-11-21T00:37:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+   "baslik": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
+   "saat": "00:36",
+   "tarih_iso": "2026-11-21T00:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+   "baslik": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+   "saat": "00:35",
+   "tarih_iso": "2026-11-21T00:35:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-193-5042683",
+   "baslik": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 1.93%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-193-5042683",
+   "saat": "00:30",
+   "tarih_iso": "2026-11-21T00:30:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/nasdaq-plunges-5-a-day-after-anthropic-debut-but-investors-still-believe-in-ai-5042641",
+   "baslik": "Nasdaq plunges 5% a day after Anthropic debut, but investors still believe in AI",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/nasdaq-plunges-5-a-day-after-anthropic-debut-but-investors-still-believe-in-ai-5042641",
+   "saat": "00:30",
+   "tarih_iso": "2026-11-21T00:30:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-015-5042676",
+   "baslik": "Mexico stocks lower at close of trade; S&P/BMV IPC down 0.15%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/mexico-stocks-lower-at-close-of-trade-spbmv-ipc-down-015-5042676",
+   "saat": "00:30",
+   "tarih_iso": "2026-11-21T00:30:32+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+   "baslik": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+   "saat": "00:10",
+   "tarih_iso": "2026-11-21T00:10:48+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+   "baslik": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+   "saat": "00:03",
+   "tarih_iso": "2026-11-21T00:03:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
+   "baslik": "The tech wreck is one stock trade Trump can’t ‘TACO’ away",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-tech-wreck-is-one-stock-trade-trump-cant-taco-away-516b3883?mod=mw_rss_topstories",
+   "saat": "23:52",
+   "tarih_iso": "2026-11-20T23:52:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
+   "baslik": "‘GTA 6’ has taken over. Is it too late to buy the developer’s stock?",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/gta-6-has-taken-over-is-it-too-late-to-buy-the-developers-stock-69a5cbc5?mod=mw_rss_topstories",
+   "saat": "23:32",
+   "tarih_iso": "2026-11-20T23:32:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+   "baslik": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+   "saat": "23:06",
+   "tarih_iso": "2026-11-20T23:06:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+   "baslik": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+   "saat": "22:59",
+   "tarih_iso": "2026-11-20T22:59:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+   "baslik": "A massive bearish trade just happened in the chip stocks",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+   "saat": "22:33",
+   "tarih_iso": "2026-11-20T22:33:31+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
+   "baslik": "A wave of 'pent-up quits' could boost turnover in the job market, expert says: 'The labor market is a bit like a coiled spring'",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/make-it/2026/11/20/worker-turnover-quits-hiring-2027.html",
+   "saat": "21:55",
+   "tarih_iso": "2026-11-20T21:55:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
+   "baslik": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
+   "saat": "20:25",
+   "tarih_iso": "2026-11-20T20:25:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
   {
    "id": "yab-https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
    "baslik": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
@@ -605,6 +851,96 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-price-crash-tests-3500-as-fed-hike-bets-reach-97-200692028",
+   "baslik": "Gold Price Crash Tests $3,500 as Fed Hike Bets Reach 97%",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-price-crash-tests-3500-as-fed-hike-bets-reach-97-200692028",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/golds-three-black-crows-pattern-points-to-3231-if-trump-backs-netanyahu-200692023",
+   "baslik": "Gold’s Three Black Crows Pattern Points to $3,231 if Trump Backs Netanyahu",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-three-black-crows-pattern-points-to-3231-if-trump-backs-netanyahu-200692023",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-mining-stocks-look-historically-cheap-as-earnings-defy-rising-costs-200692021",
+   "baslik": "Gold Mining Stocks Look Historically Cheap as Earnings Defy Rising Costs",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-mining-stocks-look-historically-cheap-as-earnings-defy-rising-costs-200692021",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "alt-https://www.investing.com/analysis/gold-and-silver-hit-downside-targets-but-why-the-rebound-could-be-a-bull-trap-200692010",
+   "baslik": "Gold and Silver Hit Downside Targets, but Why the Rebound Could Be a Bull Trap",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-and-silver-hit-downside-targets-but-why-the-rebound-could-be-a-bull-trap-200692010",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/finans/altin/ons-altin-14-ayin-dibinde-haftalik-kayip-yuzde-9a-yaklasti-haberi-848357",
+   "baslik": "Ons altın 14 ayın dibinde: Haftalık kayıp yüzde 9’a yaklaştı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/finans/altin/ons-altin-14-ayin-dibinde-haftalik-kayip-yuzde-9a-yaklasti-haberi-848357",
+   "saat": "23:56",
+   "tarih_iso": "2026-11-20T23:56:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "alt-https://www.aa.com.tr/tr/ekonomi/ons-altin-faiz-beklentileri-ve-teknoloji-hisselerindeki-satislarla-14-ayin-en-dusuk-seviyesinde/4132547",
+   "baslik": "Ons altın faiz beklentileri ve teknoloji hisselerindeki satışlarla 14 ayın en düşük seviyesinde",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ons-altin-faiz-beklentileri-ve-teknoloji-hisselerindeki-satislarla-14-ayin-en-dusuk-seviyesinde/4132547",
+   "saat": "22:50",
+   "tarih_iso": "2026-11-20T22:50:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "alt-https://www.cnnturk.com/video/ekonomi/altin-mi-mevduat-mi-2027nin-kazandiran-yatirimi-belli-oluyor-3495920",
+   "baslik": "Altın mı, mevduat mı? 2027'nin kazandıran yatırımı belli oluyor",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/video/ekonomi/altin-mi-mevduat-mi-2027nin-kazandiran-yatirimi-belli-oluyor-3495920",
+   "saat": "21:54",
+   "tarih_iso": "2026-11-20T21:54:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/ekonomi/altin-ve-borsada-sert-dusus-haftanin-kazanani-belli-oldu-haberi-848337",
+   "baslik": "Altın ve borsada sert düşüş: Haftanın kazananı belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/altin-ve-borsada-sert-dusus-haftanin-kazanani-belli-oldu-haberi-848337",
+   "saat": "20:52",
+   "tarih_iso": "2026-11-20T20:52:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
+   "id": "alt-https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
+   "baslik": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
+   "saat": "20:25",
+   "tarih_iso": "2026-11-20T20:25:19+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-21T01:05:28.688572+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-plunges-8-over-a-passing-week-a-technical-rebound-before-another-selloff-200691998",
    "baslik": "Gold Plunges 8% Over a Passing Week: A Technical Rebound Before Another Selloff?",
    "kaynak": "Investing Emtia",
@@ -765,5 +1101,5 @@
    "eklenme": "2026-11-20T17:20:57.490792+03:00"
   }
  ],
- "guncelleme": "2026-11-20T17:48:08.292222+03:00"
+ "guncelleme": "2026-11-21T01:05:28.688572+03:00"
 }
