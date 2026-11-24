@@ -1,9 +1,243 @@
 {
  "tarih": "2026-11-23",
  "kap": [],
- "sirket": [],
- "makro": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/sirketler/is-bankasi-ve-denizbanktan-odeme-sistemlerinde-is-birligi-haberi-848620",
+   "baslik": "İş Bankası ve DenizBank’tan ödeme sistemlerinde iş birliği",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/sirketler/is-bankasi-ve-denizbanktan-odeme-sistemlerinde-is-birligi-haberi-848620",
+   "saat": "00:00",
+   "tarih_iso": "2026-11-24T00:00:00+03:00",
+   "kodlar": [
+    "ISCTR"
+   ],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  }
+ ],
+ "makro": [
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/anz-rbann-faiz-indirimine-haziran-2027de-baslayacagn-ongoruyor-4170382",
+   "baslik": "ANZ, RBA’nın faiz indirimine Haziran 2027’de başlayacağını öngörüyor",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/anz-rbann-faiz-indirimine-haziran-2027de-baslayacagn-ongoruyor-4170382",
+   "saat": "03:34",
+   "tarih_iso": "2026-11-24T03:34:12+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "rss-https://tr.investing.com/news/stock-market-news/ny-fedin-williams-yuksek-enflasyonun-daha-fazla-faiz-artrmn-gerektirdigini-soyledi-93CH-4170366",
+   "baslik": "NY Fed’in Williams’ı yüksek enflasyonun daha fazla faiz artırımını gerektirdiğini söyledi",
+   "kaynak": "Investing TR",
+   "link": "https://tr.investing.com/news/stock-market-news/ny-fedin-williams-yuksek-enflasyonun-daha-fazla-faiz-artrmn-gerektirdigini-soyledi-93CH-4170366",
+   "saat": "03:06",
+   "tarih_iso": "2026-11-24T03:06:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "rss-https://www.cnnturk.com/ekonomi/kasim-ayi-enflasyon-beklentisi-ne-tuik-kasim-ayi-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-3497133",
+   "baslik": "Kasım ayı enflasyon beklentisi ne? TÜİK Kasım ayı enflasyon rakamları ne zaman, saat kaçta açıklanacak?",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/kasim-ayi-enflasyon-beklentisi-ne-tuik-kasim-ayi-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-3497133",
+   "saat": "00:50",
+   "tarih_iso": "2026-11-24T00:50:27+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  }
+ ],
  "yabanci": [
+  {
+   "id": "yab-https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+   "baslik": "Asian tech stocks surge after Jensen Huang’s return",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+   "saat": "05:40",
+   "tarih_iso": "2026-11-24T05:40:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+   "baslik": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
+   "saat": "05:37",
+   "tarih_iso": "2026-11-24T05:37:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/analysts-comment-on-market-impact-of-huangs-return-as-nvidia-ceo-5046890",
+   "baslik": "Analysts comment on market impact of Huang’s return as Nvidia CEO",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/analysts-comment-on-market-impact-of-huangs-return-as-nvidia-ceo-5046890",
+   "saat": "05:36",
+   "tarih_iso": "2026-11-24T05:36:21+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/lock-in-investingpro-for-the-years-lowest-price-and-find-the-best-stocks-now-5045929",
+   "baslik": "Lock in InvestingPro for the year’s lowest price and find the best stocks NOW",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/lock-in-investingpro-for-the-years-lowest-price-and-find-the-best-stocks-now-5045929",
+   "saat": "05:35",
+   "tarih_iso": "2026-11-24T05:35:46+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-spots-opportunities-in-these-nine-consumer-staples-stocks-for-2027-5046888",
+   "baslik": "BofA spots opportunities in these nine consumer staples stocks for 2027",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/bofa-spots-opportunities-in-these-nine-consumer-staples-stocks-for-2027-5046888",
+   "saat": "05:34",
+   "tarih_iso": "2026-11-24T05:34:06+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+   "baslik": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+   "saat": "05:20",
+   "tarih_iso": "2026-11-24T05:20:36+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/asia-chipmaking-stocks-soar-tracking-nvidia-rally-skorea-taiwan-lead-5046844",
+   "baslik": "Asia chipmaking stocks soar tracking Nvidia rally; S.Korea, Taiwan lead",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/asia-chipmaking-stocks-soar-tracking-nvidia-rally-skorea-taiwan-lead-5046844",
+   "saat": "04:45",
+   "tarih_iso": "2026-11-24T04:45:20+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+   "baslik": "HPE just posted its strongest growth ever — but its stock is sinking",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+   "saat": "04:01",
+   "tarih_iso": "2026-11-24T04:01:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+   "baslik": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+   "saat": "02:18",
+   "tarih_iso": "2026-11-24T02:18:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+   "baslik": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
+   "saat": "02:14",
+   "tarih_iso": "2026-11-24T02:14:34+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+   "baslik": "Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+   "saat": "01:55",
+   "tarih_iso": "2026-11-24T01:55:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+   "baslik": "Nvidia surge: What investors should do with the stock and the AI trade now",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+   "saat": "01:43",
+   "tarih_iso": "2026-11-24T01:43:38+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+   "baslik": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+   "saat": "01:04",
+   "tarih_iso": "2026-11-24T01:04:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+   "baslik": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+   "saat": "00:51",
+   "tarih_iso": "2026-11-24T00:51:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+   "baslik": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+   "saat": "00:45",
+   "tarih_iso": "2026-11-24T00:45:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+   "baslik": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+   "saat": "00:36",
+   "tarih_iso": "2026-11-24T00:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+   "baslik": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+   "saat": "00:24",
+   "tarih_iso": "2026-11-24T00:24:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+   "baslik": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+   "saat": "00:19",
+   "tarih_iso": "2026-11-24T00:19:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+   "baslik": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+   "saat": "00:02",
+   "tarih_iso": "2026-11-24T00:02:17+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
    "baslik": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
@@ -487,5 +721,5 @@
    "eklenme": "2026-11-23T19:28:24.722920+03:00"
   }
  ],
- "guncelleme": "2026-11-23T20:12:03.765600+03:00"
+ "guncelleme": "2026-11-24T05:58:04.060760+03:00"
 }
