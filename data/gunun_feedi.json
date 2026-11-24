@@ -1,725 +1,361 @@
 {
- "tarih": "2026-11-23",
+ "tarih": "2026-11-24",
  "kap": [],
- "sirket": [
-  {
-   "id": "rss-https://www.dunya.com/sirketler/is-bankasi-ve-denizbanktan-odeme-sistemlerinde-is-birligi-haberi-848620",
-   "baslik": "İş Bankası ve DenizBank’tan ödeme sistemlerinde iş birliği",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/sirketler/is-bankasi-ve-denizbanktan-odeme-sistemlerinde-is-birligi-haberi-848620",
-   "saat": "00:00",
-   "tarih_iso": "2026-11-24T00:00:00+03:00",
-   "kodlar": [
-    "ISCTR"
-   ],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  }
- ],
- "makro": [
-  {
-   "id": "rss-https://tr.investing.com/news/stock-market-news/anz-rbann-faiz-indirimine-haziran-2027de-baslayacagn-ongoruyor-4170382",
-   "baslik": "ANZ, RBA’nın faiz indirimine Haziran 2027’de başlayacağını öngörüyor",
-   "kaynak": "Investing TR",
-   "link": "https://tr.investing.com/news/stock-market-news/anz-rbann-faiz-indirimine-haziran-2027de-baslayacagn-ongoruyor-4170382",
-   "saat": "03:34",
-   "tarih_iso": "2026-11-24T03:34:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "rss-https://tr.investing.com/news/stock-market-news/ny-fedin-williams-yuksek-enflasyonun-daha-fazla-faiz-artrmn-gerektirdigini-soyledi-93CH-4170366",
-   "baslik": "NY Fed’in Williams’ı yüksek enflasyonun daha fazla faiz artırımını gerektirdiğini söyledi",
-   "kaynak": "Investing TR",
-   "link": "https://tr.investing.com/news/stock-market-news/ny-fedin-williams-yuksek-enflasyonun-daha-fazla-faiz-artrmn-gerektirdigini-soyledi-93CH-4170366",
-   "saat": "03:06",
-   "tarih_iso": "2026-11-24T03:06:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "rss-https://www.cnnturk.com/ekonomi/kasim-ayi-enflasyon-beklentisi-ne-tuik-kasim-ayi-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-3497133",
-   "baslik": "Kasım ayı enflasyon beklentisi ne? TÜİK Kasım ayı enflasyon rakamları ne zaman, saat kaçta açıklanacak?",
-   "kaynak": "CNN Türk Ekonomi",
-   "link": "https://www.cnnturk.com/ekonomi/kasim-ayi-enflasyon-beklentisi-ne-tuik-kasim-ayi-enflasyon-rakamlari-ne-zaman-saat-kacta-aciklanacak-3497133",
-   "saat": "00:50",
-   "tarih_iso": "2026-11-24T00:50:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  }
- ],
+ "sirket": [],
+ "makro": [],
  "yabanci": [
   {
+   "id": "yab-https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+   "baslik": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+   "saat": "19:08",
+   "tarih_iso": "2026-11-24T19:08:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/retail-stocks-surge-into-black-friday-amid-earnings-beats-5048699",
+   "baslik": "Retail stocks surge into Black Friday amid earnings beats",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/retail-stocks-surge-into-black-friday-amid-earnings-beats-5048699",
+   "saat": "19:07",
+   "tarih_iso": "2026-11-24T19:07:41+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "baslik": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "saat": "19:06",
+   "tarih_iso": "2026-11-24T19:06:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-082-5048687",
+   "baslik": "Norway stocks lower at close of trade; Oslo OBX down 0.82%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-lower-at-close-of-trade-oslo-obx-down-082-5048687",
+   "saat": "18:55",
+   "tarih_iso": "2026-11-24T18:55:30+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-086-5048685",
+   "baslik": "Israel stocks lower at close of trade; TA 35 down 0.86%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/israel-stocks-lower-at-close-of-trade-ta-35-down-086-5048685",
+   "saat": "18:55",
+   "tarih_iso": "2026-11-24T18:55:03+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-146-5048682",
+   "baslik": "Greece stocks lower at close of trade; Athens General Composite down 1.46%",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/greece-stocks-lower-at-close-of-trade-athens-general-composite-down-146-5048682",
+   "saat": "18:50",
+   "tarih_iso": "2026-11-24T18:50:02+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-fossil-stock-rallying-today-93CH-5048672",
+   "baslik": "Why is Fossil stock rallying today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-fossil-stock-rallying-today-93CH-5048672",
+   "saat": "18:41",
+   "tarih_iso": "2026-11-24T18:41:07+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-cogent-biosciences-stock-surging-today-93CH-5048671",
+   "baslik": "Why is Cogent Biosciences stock surging today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-cogent-biosciences-stock-surging-today-93CH-5048671",
+   "saat": "18:41",
+   "tarih_iso": "2026-11-24T18:41:04+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-target-stock-surging-to-a-52week-high-today-93CH-5048670",
+   "baslik": "Why is Target stock surging to a 52-week high today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-target-stock-surging-to-a-52week-high-today-93CH-5048670",
+   "saat": "18:41",
+   "tarih_iso": "2026-11-24T18:41:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
    "id": "yab-https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-   "baslik": "Asian tech stocks surge after Jensen Huang’s return",
+   "baslik": "US tech stocks slide as Jensen Huang return rally fades",
    "kaynak": "FT",
    "link": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
-   "saat": "05:40",
-   "tarih_iso": "2026-11-24T05:40:25+03:00",
+   "saat": "18:34",
+   "tarih_iso": "2026-11-24T18:34:56+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "yab-https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
-   "baslik": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
-   "saat": "05:37",
-   "tarih_iso": "2026-11-24T05:37:39+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/analysts-comment-on-market-impact-of-huangs-return-as-nvidia-ceo-5046890",
-   "baslik": "Analysts comment on market impact of Huang’s return as Nvidia CEO",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/analysts-comment-on-market-impact-of-huangs-return-as-nvidia-ceo-5046890",
-   "saat": "05:36",
-   "tarih_iso": "2026-11-24T05:36:21+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/lock-in-investingpro-for-the-years-lowest-price-and-find-the-best-stocks-now-5045929",
-   "baslik": "Lock in InvestingPro for the year’s lowest price and find the best stocks NOW",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/lock-in-investingpro-for-the-years-lowest-price-and-find-the-best-stocks-now-5045929",
-   "saat": "05:35",
-   "tarih_iso": "2026-11-24T05:35:46+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/bofa-spots-opportunities-in-these-nine-consumer-staples-stocks-for-2027-5046888",
-   "baslik": "BofA spots opportunities in these nine consumer staples stocks for 2027",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/bofa-spots-opportunities-in-these-nine-consumer-staples-stocks-for-2027-5046888",
-   "saat": "05:34",
-   "tarih_iso": "2026-11-24T05:34:06+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-   "baslik": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
-   "saat": "05:20",
-   "tarih_iso": "2026-11-24T05:20:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/asia-chipmaking-stocks-soar-tracking-nvidia-rally-skorea-taiwan-lead-5046844",
-   "baslik": "Asia chipmaking stocks soar tracking Nvidia rally; S.Korea, Taiwan lead",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/asia-chipmaking-stocks-soar-tracking-nvidia-rally-skorea-taiwan-lead-5046844",
-   "saat": "04:45",
-   "tarih_iso": "2026-11-24T04:45:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-   "baslik": "HPE just posted its strongest growth ever — but its stock is sinking",
+   "id": "yab-https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+   "baslik": "Anthropic’s stock just broke below its IPO price for the first time",
    "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-   "saat": "04:01",
-   "tarih_iso": "2026-11-24T04:01:00+03:00",
+   "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
+   "saat": "18:21",
+   "tarih_iso": "2026-11-24T18:21:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+   "baslik": "Commercial real estate activity falls 14% in October, as interest rates rise",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+   "saat": "18:05",
+   "tarih_iso": "2026-11-24T18:05:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+   "baslik": "The number of 401(k) millionaires drops as the stock market swings",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+   "saat": "17:59",
+   "tarih_iso": "2026-11-24T17:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+   "baslik": "Nvidia’s stock drops as these major questions loom over Jensen Huang’s return",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-these-major-questions-loom-over-jensen-huangs-return-9096636f?mod=mw_rss_topstories",
+   "saat": "17:59",
+   "tarih_iso": "2026-11-24T17:59:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+   "baslik": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+   "saat": "17:51",
+   "tarih_iso": "2026-11-24T17:51:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
    "id": "yab-https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
    "baslik": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
    "kaynak": "MarketWatch",
    "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
-   "saat": "02:18",
-   "tarih_iso": "2026-11-24T02:18:00+03:00",
+   "saat": "17:28",
+   "tarih_iso": "2026-11-24T17:28:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "yab-https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
-   "baslik": "Jim Cramer sees more upside for Nvidia stock with Jensen Huang back as CEO",
+   "id": "yab-https://www.cnbc.com/investingclub/2026/11/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "baslik": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
    "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/jim-cramer-nvidia-jensen-huang-ceo-return.html",
-   "saat": "02:14",
-   "tarih_iso": "2026-11-24T02:14:34+03:00",
+   "link": "https://www.cnbc.com/investingclub/2026/11/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+   "saat": "16:53",
+   "tarih_iso": "2026-11-24T16:53:37+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
-   "baslik": "Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
-   "saat": "01:55",
-   "tarih_iso": "2026-11-24T01:55:14+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-   "baslik": "Nvidia surge: What investors should do with the stock and the AI trade now",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-   "saat": "01:43",
-   "tarih_iso": "2026-11-24T01:43:38+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
-   "baslik": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
-   "saat": "01:04",
-   "tarih_iso": "2026-11-24T01:04:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
-   "baslik": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
-   "saat": "00:51",
-   "tarih_iso": "2026-11-24T00:51:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-   "baslik": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-   "saat": "00:45",
-   "tarih_iso": "2026-11-24T00:45:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
-   "baslik": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
-   "saat": "00:36",
-   "tarih_iso": "2026-11-24T00:36:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
-   "baslik": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
-   "saat": "00:24",
-   "tarih_iso": "2026-11-24T00:24:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
-   "baslik": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
-   "saat": "00:19",
-   "tarih_iso": "2026-11-24T00:19:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
    "id": "yab-https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
    "baslik": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
    "kaynak": "CNBC",
    "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-   "saat": "00:02",
-   "tarih_iso": "2026-11-24T00:02:17+03:00",
+   "saat": "16:33",
+   "tarih_iso": "2026-11-24T16:33:26+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-24T05:58:04.060760+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "yab-https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-   "baslik": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+   "id": "yab-https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+   "baslik": "Why France is at risk of recession — and what could keep it out of one",
    "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
-   "saat": "19:53",
-   "tarih_iso": "2026-11-23T19:53:57+03:00",
+   "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+   "saat": "14:15",
+   "tarih_iso": "2026-11-24T14:15:30+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-23T20:12:03.765600+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "yab-https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-communication-technology-stock-5046091",
-   "baslik": "Goldman Sachs Names Top Communication Technology Stock",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/goldman-sachs-names-top-communication-technology-stock-5046091",
-   "saat": "19:45",
-   "tarih_iso": "2026-11-23T19:45:53+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T20:12:03.765600+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
-   "baslik": "The return of Jensen Huang has saved the U.S. stock market — for now. Why the rebound may not last.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
-   "saat": "19:44",
-   "tarih_iso": "2026-11-23T19:44:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T20:12:03.765600+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-355-5046084",
-   "baslik": "Poland stocks higher at close of trade; WIG30 up 3.55%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/poland-stocks-higher-at-close-of-trade-wig30-up-355-5046084",
-   "saat": "19:40",
-   "tarih_iso": "2026-11-23T19:40:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T20:12:03.765600+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-beta-bionics-stock-rallying-today-93CH-5046082",
-   "baslik": "Why is Beta Bionics stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-beta-bionics-stock-rallying-today-93CH-5046082",
-   "saat": "19:35",
-   "tarih_iso": "2026-11-23T19:35:50+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T20:12:03.765600+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-minimed-stock-rallying-today-93CH-5046081",
-   "baslik": "Why is MiniMed stock rallying today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-minimed-stock-rallying-today-93CH-5046081",
-   "saat": "19:35",
-   "tarih_iso": "2026-11-23T19:35:37+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T20:12:03.765600+03:00"
-  },
-  {
-   "id": "yab-https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
-   "baslik": "Nvidia and Nasdaq soar after board reinstates Huang",
-   "kaynak": "FT",
-   "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
-   "saat": "19:35",
-   "tarih_iso": "2026-11-23T19:35:08+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T20:12:03.765600+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-   "baslik": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 33%",
+   "id": "yab-https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+   "baslik": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
    "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-   "saat": "19:17",
-   "tarih_iso": "2026-11-23T19:17:26+03:00",
+   "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+   "saat": "08:05",
+   "tarih_iso": "2026-11-24T08:05:08+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "baslik": "How important are Nvidia and Jensen Huang to the US economy?",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "saat": "19:12",
-   "tarih_iso": "2026-11-23T19:12:35+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/bwxt-stock-surges-on-westinghouse-ap1000-manufacturing-deal-5046046",
-   "baslik": "BWXT stock surges on Westinghouse AP1000 manufacturing deal",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/bwxt-stock-surges-on-westinghouse-ap1000-manufacturing-deal-5046046",
-   "saat": "19:10",
-   "tarih_iso": "2026-11-23T19:10:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-surging-today-93CH-5046045",
-   "baslik": "Why is Meta Platforms stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-meta-platforms-stock-surging-today-93CH-5046045",
-   "saat": "19:09",
-   "tarih_iso": "2026-11-23T19:09:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226",
-   "baslik": "Nasdaq soars nearly 7% as Huang’s return to Nvidia reignites AI trade",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/wall-street-futures-jump-after-major-indexes-enter-correction-territory-5044226",
-   "saat": "19:05",
-   "tarih_iso": "2026-11-23T19:05:59+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-surprising-reason-businesses-cant-keep-up-with-customer-demand-hint-its-not-just-a-strong-u-s-economy-70be4a01?mod=mw_rss_topstories",
-   "baslik": "The surprising reason businesses can’t keep up with customer demand. Hint: It’s not just a strong U.S. economy.",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-surprising-reason-businesses-cant-keep-up-with-customer-demand-hint-its-not-just-a-strong-u-s-economy-70be4a01?mod=mw_rss_topstories",
-   "saat": "19:03",
-   "tarih_iso": "2026-11-23T19:03:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-surging-today-93CH-5046027",
-   "baslik": "Why is Applied Materials stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-surging-today-93CH-5046027",
-   "saat": "18:59",
-   "tarih_iso": "2026-11-23T18:59:49+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-lam-research-stock-surging-today-93CH-5046025",
-   "baslik": "Why is Lam Research stock surging today?",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/why-is-lam-research-stock-surging-today-93CH-5046025",
-   "saat": "18:56",
-   "tarih_iso": "2026-11-23T18:56:47+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-046-5046023",
-   "baslik": "Norway stocks higher at close of trade; Oslo OBX up 0.46%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/norway-stocks-higher-at-close-of-trade-oslo-obx-up-046-5046023",
-   "saat": "18:56",
-   "tarih_iso": "2026-11-23T18:56:01+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-049-5046022",
-   "baslik": "Israel stocks higher at close of trade; TA 35 up 0.49%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/israel-stocks-higher-at-close-of-trade-ta-35-up-049-5046022",
-   "saat": "18:55",
-   "tarih_iso": "2026-11-23T18:55:30+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-038-5046021",
-   "baslik": "Greece stocks higher at close of trade; Athens General Composite up 0.38%",
-   "kaynak": "Investing.com",
-   "link": "https://www.investing.com/news/stock-market-news/greece-stocks-higher-at-close-of-trade-athens-general-composite-up-038-5046021",
-   "saat": "18:55",
-   "tarih_iso": "2026-11-23T18:55:04+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-   "baslik": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-   "saat": "18:39",
-   "tarih_iso": "2026-11-23T18:39:41+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-   "baslik": "Tech stocks rally after Nvidia board approves Jensen Huang's return as CEO",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html",
-   "saat": "18:36",
-   "tarih_iso": "2026-11-23T18:36:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-   "baslik": "Tokenized stocks face pushback as NYSE, Nasdaq pivot for a new market",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/tokenized-stocks-face-pushback-as-nyse-nasdaq-pivot-for-a-new-market-.html",
-   "saat": "18:30",
-   "tarih_iso": "2026-11-23T18:30:27+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
-   "baslik": "Stuck: How a frozen housing market is hitting buyers, sellers and the economy",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/housing-market-real-estate-economy.html",
-   "saat": "18:22",
-   "tarih_iso": "2026-11-23T18:22:03+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
-   "baslik": "Investors give a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
-   "saat": "18:18",
-   "tarih_iso": "2026-11-23T18:18:36+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-   "baslik": "Nvidia’s stock soars 30%-plus as Jensen Huang returns as CEO",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/nvidia-stock-bounces-as-trump-administration-pushes-for-rehiring-of-jensen-huang-08057c29?mod=mw_rss_topstories",
-   "saat": "18:15",
-   "tarih_iso": "2026-11-23T18:15:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
-   "baslik": "UnitedHealth, Humana and CVS stocks slide as U.S targets Medicare Advantage ratings",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/unitedhealth-humana-and-cvs-stocks-slide-as-u-s-targets-medicare-advantage-ratings-6c2be5bb?mod=mw_rss_topstories",
-   "saat": "17:39",
-   "tarih_iso": "2026-11-23T17:39:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
-   "baslik": "Jensen Huang is back at Nvidia, and the stock market is surging. Can it last?",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/trump-wants-jensen-huang-back-at-nvidia-what-will-it-take-to-stop-the-tech-selloff-3f6b091f?mod=mw_rss_topstories",
-   "saat": "17:37",
-   "tarih_iso": "2026-11-23T17:37:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html",
-   "baslik": "Wall Street's 'Fear Gauge' just flashed a buy sign",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html",
-   "saat": "17:14",
-   "tarih_iso": "2026-11-23T17:14:28+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
-   "baslik": "The number of 401(k) millionaires drops amid stock-market swings",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
-   "saat": "17:10",
-   "tarih_iso": "2026-11-23T17:10:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
-   "baslik": "Cybersecurity stocks have been hot — and now CrowdStrike inks deal to buy Zscaler",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/cybersecurity-stocks-have-been-hot-and-now-crowdstrike-inks-deal-to-buy-zscaler-df8fd163?mod=mw_rss_topstories",
-   "saat": "16:47",
-   "tarih_iso": "2026-11-23T16:47:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html",
-   "baslik": "The biggest money-making energy trade looks over. What to buy instead",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html",
-   "saat": "15:00",
-   "tarih_iso": "2026-11-23T15:00:20+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
-   "baslik": "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says",
-   "kaynak": "MarketWatch",
-   "link": "https://www.marketwatch.com/story/the-u-s-may-enter-a-recession-if-the-fed-raises-rates-hedge-fund-manager-bill-ackman-says-16738971?mod=mw_rss_topstories",
-   "saat": "13:57",
-   "tarih_iso": "2026-11-23T13:57:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
-   "baslik": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
-   "saat": "09:50",
-   "tarih_iso": "2026-11-23T09:50:48+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
-   "baslik": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
-   "kaynak": "CNBC",
-   "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
-   "saat": "06:52",
-   "tarih_iso": "2026-11-23T06:52:17+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "yab-https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-   "baslik": "Energy bills will soar - here's how you can ease the pain",
-   "kaynak": "BBC Business",
-   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-   "saat": "04:05",
-   "tarih_iso": "2026-11-23T04:05:07+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   }
  ],
  "altin_haber": [
   {
-   "id": "alt-https://www.cnnturk.com/video/ekonomi/altin/altin-ve-gumuste-dipten-alim-ruzgari-3497120",
-   "baslik": "Altın ve gümüşte \"dipten alım\" rüzgarı",
+   "id": "alt-https://www.cnnturk.com/video/ekonomi/ev-almak-icin-dogru-zaman-mi-ekonomist-muhammet-bayramdan-kritik-uyari-3497534",
+   "baslik": "Ev almak için doğru zaman mı? Ekonomist Muhammet Bayram'dan kritik uyarı",
    "kaynak": "CNN Türk Ekonomi",
-   "link": "https://www.cnnturk.com/video/ekonomi/altin/altin-ve-gumuste-dipten-alim-ruzgari-3497120",
-   "saat": "22:53",
-   "tarih_iso": "2026-11-23T22:53:12+03:00",
+   "link": "https://www.cnnturk.com/video/ekonomi/ev-almak-icin-dogru-zaman-mi-ekonomist-muhammet-bayramdan-kritik-uyari-3497534",
+   "saat": "20:05",
+   "tarih_iso": "2026-11-24T20:05:15+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-23T20:12:03.765600+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "alt-https://www.investing.com/analysis/gold-surges-nearly-5-after-black-friday-bloodbath-200692149",
-   "baslik": "Gold Surges Nearly 5% After Black Friday Bloodbath",
+   "id": "alt-https://www.investing.com/analysis/gold-futures-face-fresh-selling-pressure-as-3531-resistance-holds-firm-200692228",
+   "baslik": "Gold Futures Face Fresh Selling Pressure as $3,531 Resistance Holds Firm",
    "kaynak": "Investing Emtia",
-   "link": "https://www.investing.com/analysis/gold-surges-nearly-5-after-black-friday-bloodbath-200692149",
+   "link": "https://www.investing.com/analysis/gold-futures-face-fresh-selling-pressure-as-3531-resistance-holds-firm-200692228",
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-11-23T20:12:03.765600+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "alt-https://www.investing.com/analysis/gold-rebound-faces-pressure-as-trump-keeps-military-action-against-iran-on-table-200692134",
-   "baslik": "Gold Rebound Faces Pressure as Trump Keeps Military Action Against Iran on Table",
+   "id": "alt-https://www.investing.com/analysis/gold-relief-bounce-from-3500-runs-into-a-wall-near-3700-200692216",
+   "baslik": "Gold: Relief Bounce From $3,500 Runs Into a Wall Near $3,700",
    "kaynak": "Investing Emtia",
-   "link": "https://www.investing.com/analysis/gold-rebound-faces-pressure-as-trump-keeps-military-action-against-iran-on-table-200692134",
+   "link": "https://www.investing.com/analysis/gold-relief-bounce-from-3500-runs-into-a-wall-near-3700-200692216",
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "alt-https://www.investing.com/analysis/gold-recovers-ground-but-the-bulls-arent-out-of-the-woods-yet-200692131",
-   "baslik": "Gold Recovers Ground, but the Bulls Aren’t Out of the Woods Yet",
+   "id": "alt-https://www.investing.com/analysis/gold-holds-3600-lifeline-as-markets-pivot-from-ai-relief-to-us-pce-200692210",
+   "baslik": "Gold Holds $3,600 Lifeline as Markets Pivot From AI Relief to US PCE",
    "kaynak": "Investing Emtia",
-   "link": "https://www.investing.com/analysis/gold-recovers-ground-but-the-bulls-arent-out-of-the-woods-yet-200692131",
+   "link": "https://www.investing.com/analysis/gold-holds-3600-lifeline-as-markets-pivot-from-ai-relief-to-us-pce-200692210",
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "alt-https://www.investing.com/analysis/gold-is-trading-the-fed-not-the-fear-200692114",
-   "baslik": "Gold Is Trading the Fed, Not the Fear",
+   "id": "alt-https://www.investing.com/analysis/gold-outlook-sliding-between-0382-and-0236-arcs-with-downside-target-at-3590-200692198",
+   "baslik": "Gold Outlook: Sliding Between 0.382 and 0.236 Arcs With Downside Target at $3,590",
    "kaynak": "Investing Emtia",
-   "link": "https://www.investing.com/analysis/gold-is-trading-the-fed-not-the-fear-200692114",
+   "link": "https://www.investing.com/analysis/gold-outlook-sliding-between-0382-and-0236-arcs-with-downside-target-at-3590-200692198",
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "alt-https://www.investing.com/analysis/golds-relief-rally-is-running-into-inflation-data-again-200692113",
-   "baslik": "Gold’s Relief Rally Is Running Into Inflation Data Again",
+   "id": "alt-https://www.investing.com/analysis/gold-rebound-stalls-as-bearish-hammer-signals-fresh-downside-risk-200692189",
+   "baslik": "Gold Rebound Stalls as Bearish Hammer Signals Fresh Downside Risk",
    "kaynak": "Investing Emtia",
-   "link": "https://www.investing.com/analysis/golds-relief-rally-is-running-into-inflation-data-again-200692113",
+   "link": "https://www.investing.com/analysis/gold-rebound-stalls-as-bearish-hammer-signals-fresh-downside-risk-200692189",
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "alt-https://www.investing.com/analysis/gold-market-weekly-dare-to-catch-a-falling-knife-200692110",
-   "baslik": "Gold Market Weekly: Dare to Catch a Falling Knife?",
+   "id": "alt-https://www.investing.com/analysis/gold-futures-testing-the-3640-vc-pmi-pivot--is-a-reversal-underway-200692187",
+   "baslik": "Gold Futures: Testing the $3,640 VC PMI Pivot – Is a Reversal Underway?",
    "kaynak": "Investing Emtia",
-   "link": "https://www.investing.com/analysis/gold-market-weekly-dare-to-catch-a-falling-knife-200692110",
+   "link": "https://www.investing.com/analysis/gold-futures-testing-the-3640-vc-pmi-pivot--is-a-reversal-underway-200692187",
    "saat": "",
    "tarih_iso": "",
    "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "alt-https://www.cnnturk.com/ekonomi/23-kasim-gram-altin-fiyatlari-canli-ceyrek-altin-yarim-altin-tam-altin-cumhuriyet-altini-ons-altin-ne-kadar-kapalicarsi-anlik-3496750",
-   "baslik": "23 KASIM GRAM ALTIN FİYATLARI CANLI | Çeyrek altın, yarım altın, tam altın, cumhuriyet altını, ons altın ne kadar? Kapalıçarşı anlık altın fiyatları!",
-   "kaynak": "CNN Türk Ekonomi",
-   "link": "https://www.cnnturk.com/ekonomi/23-kasim-gram-altin-fiyatlari-canli-ceyrek-altin-yarim-altin-tam-altin-cumhuriyet-altini-ons-altin-ne-kadar-kapalicarsi-anlik-3496750",
-   "saat": "18:33",
-   "tarih_iso": "2026-11-23T18:33:34+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "alt-https://www.bloomberght.com/piyasalarda-gunun-ozeti-23-kasim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3795476",
-   "baslik": "Piyasalarda günün özeti: 23 Kasım 2026 BIST 100'de değişimler ve döviz fiyatları",
+   "id": "alt-https://www.bloomberght.com/piyasa-ozeti-24-kasim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3795567",
+   "baslik": "Piyasa özeti: 24 Kasım 2026 Borsa, Döviz, Altın ve Kripto piyasalarındaki son durum",
    "kaynak": "Bloomberg HT",
-   "link": "https://www.bloomberght.com/piyasalarda-gunun-ozeti-23-kasim-2026-bist-100-de-degisimler-ve-doviz-fiyatlari-pkh-3795476",
+   "link": "https://www.bloomberght.com/piyasa-ozeti-24-kasim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3795567",
    "saat": "18:30",
-   "tarih_iso": "2026-11-23T18:30:16+03:00",
+   "tarih_iso": "2026-11-24T18:30:14+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "alt-https://www.dunya.com/ekonomi/merkez-rezervlerinde-17-milyar-dolarlik-sert-dusus-haziran-2023ten-bu-yana-ikinci-en-buyuk-kayip-haberi-848587",
-   "baslik": "Merkez rezervlerinde 17 milyar dolarlık sert düşüş: Haziran 2023'ten bu yana ikinci en büyük kayıp",
-   "kaynak": "Dünya",
-   "link": "https://www.dunya.com/ekonomi/merkez-rezervlerinde-17-milyar-dolarlik-sert-dusus-haziran-2023ten-bu-yana-ikinci-en-buyuk-kayip-haberi-848587",
-   "saat": "14:55",
-   "tarih_iso": "2026-11-23T14:55:00+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "alt-https://www.mining.com/eldorado-moves-closer-to-production-at-greek-gold-mine/",
-   "baslik": "Eldorado moves closer to production at Greek gold mine",
+   "id": "alt-https://www.mining.com/b2gold-charts-path-back-to-million-ounce-producer-ranks/",
+   "baslik": "B2Gold charts path back to million-ounce producer ranks",
    "kaynak": "Mining.com",
-   "link": "https://www.mining.com/eldorado-moves-closer-to-production-at-greek-gold-mine/",
-   "saat": "12:43",
-   "tarih_iso": "2026-11-23T12:43:00+03:00",
+   "link": "https://www.mining.com/b2gold-charts-path-back-to-million-ounce-producer-ranks/",
+   "saat": "16:45",
+   "tarih_iso": "2026-11-24T16:45:00+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "alt-https://www.bloomberght.com/altin-fiyatlari-23-kasim-2026-pazartesi-gram-altin-ne-kadar-oldu-ceyrek-altin-kac-tlden-satiliyor-pkh1-3795396",
-   "baslik": "Altın fiyatları: 23 Kasım 2026 Pazartesi gram altın ne kadar oldu? Çeyrek altın kaç TL'den satılıyor?",
+   "id": "alt-https://www.cnnturk.com/ekonomi/24-kasim-canli-altin-fiyatlari-gram-altin-ne-kadar-ceyrek-altin-fiyati-ne-kapalicarsi-altin-fiyatlarinda-son-durum-3497187",
+   "baslik": "24 KASIM CANLI ALTIN FİYATLARI | Gram altın ne kadar? Çeyrek altın fiyatı ne? Kapalıçarşı altın fiyatlarında son durum!",
+   "kaynak": "CNN Türk Ekonomi",
+   "link": "https://www.cnnturk.com/ekonomi/24-kasim-canli-altin-fiyatlari-gram-altin-ne-kadar-ceyrek-altin-fiyati-ne-kapalicarsi-altin-fiyatlarinda-son-durum-3497187",
+   "saat": "14:12",
+   "tarih_iso": "2026-11-24T14:12:51+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/world-gold-council-brings-digital-gold-trading-to-life/",
+   "baslik": "World Gold Council brings digital gold trading to life",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/world-gold-council-brings-digital-gold-trading-to-life/",
+   "saat": "12:03",
+   "tarih_iso": "2026-11-24T12:03:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/trafigura-takes-control-of-260-million-copper-gold-project-in-chile/",
+   "baslik": "Trafigura takes control of $260 million copper-gold project in Chile",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/trafigura-takes-control-of-260-million-copper-gold-project-in-chile/",
+   "saat": "11:55",
+   "tarih_iso": "2026-11-24T11:55:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "alt-https://www.bloomberght.com/jpmorgan-ve-hsbc-londrada-ilk-kez-dijital-altin-islemi-yapti-3795527",
+   "baslik": "JPMorgan ve HSBC, Londra'da ilk kez dijital altın işlemi yaptı",
    "kaynak": "Bloomberg HT",
-   "link": "https://www.bloomberght.com/altin-fiyatlari-23-kasim-2026-pazartesi-gram-altin-ne-kadar-oldu-ceyrek-altin-kac-tlden-satiliyor-pkh1-3795396",
+   "link": "https://www.bloomberght.com/jpmorgan-ve-hsbc-londrada-ilk-kez-dijital-altin-islemi-yapti-3795527",
+   "saat": "11:27",
+   "tarih_iso": "2026-11-24T11:27:10+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
+  },
+  {
+   "id": "alt-https://www.bloomberght.com/gram-altinda-son-durum-ne-24-kasim-2026-sali-altin-fiyatlari-pkh1-3795515",
+   "baslik": "Gram altında son durum ne? 24 Kasım 2026 Salı altın fiyatları…",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/gram-altinda-son-durum-ne-24-kasim-2026-sali-altin-fiyatlari-pkh1-3795515",
    "saat": "10:00",
-   "tarih_iso": "2026-11-23T10:00:02+03:00",
+   "tarih_iso": "2026-11-24T10:00:02+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   },
   {
-   "id": "alt-https://www.haberturk.com/ekonomi/gram-altin-gune-nasil-basladi-iste-23-kasim-2026-guncel-altin-fiyatlari-3929337",
-   "baslik": "Gram altın ne kadar?",
-   "kaynak": "Habertürk Ekonomi",
-   "link": "https://www.haberturk.com/ekonomi/gram-altin-gune-nasil-basladi-iste-23-kasim-2026-guncel-altin-fiyatlari-3929337",
-   "saat": "09:51",
-   "tarih_iso": "2026-11-23T09:51:12+03:00",
-   "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
-  },
-  {
-   "id": "alt-https://www.bloomberght.com/altinda-dipten-alim-hareketi-3795387",
-   "baslik": "Altında dipten alım hareketi",
+   "id": "alt-https://www.bloomberght.com/altinda-huang-etkisi-3795504",
+   "baslik": "Altında Huang etkisi",
    "kaynak": "Bloomberg HT",
-   "link": "https://www.bloomberght.com/altinda-dipten-alim-hareketi-3795387",
-   "saat": "08:24",
-   "tarih_iso": "2026-11-23T08:24:08+03:00",
+   "link": "https://www.bloomberght.com/altinda-huang-etkisi-3795504",
+   "saat": "09:06",
+   "tarih_iso": "2026-11-24T09:06:59+03:00",
    "kodlar": [],
-   "eklenme": "2026-11-23T19:28:24.722920+03:00"
+   "eklenme": "2026-11-24T19:23:33.004492+03:00"
   }
  ],
- "guncelleme": "2026-11-24T05:58:04.060760+03:00"
+ "guncelleme": "2026-11-24T19:23:33.004492+03:00"
 }
