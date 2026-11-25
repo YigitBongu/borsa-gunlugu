@@ -1,9 +1,172 @@
 {
  "tarih": "2026-11-24",
  "kap": [],
- "sirket": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/thyden-ogretmenlere-ic-hat-ucuslarinda-yuzde-20-indirim/4136413",
+   "baslik": "THY'den öğretmenlere iç hat uçuşlarında yüzde 20 indirim",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/thyden-ogretmenlere-ic-hat-ucuslarinda-yuzde-20-indirim/4136413",
+   "saat": "23:02",
+   "tarih_iso": "2026-11-24T23:02:31+03:00",
+   "kodlar": [
+    "THYAO"
+   ],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  }
+ ],
  "makro": [],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+   "baslik": "SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html",
+   "saat": "03:55",
+   "tarih_iso": "2026-11-25T03:55:35+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "baslik": "What will the energy cap changes mean for my bills?",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "saat": "03:33",
+   "tarih_iso": "2026-11-25T03:33:25+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "baslik": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "saat": "03:30",
+   "tarih_iso": "2026-11-25T03:30:52+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Households braced for soaring energy bills with new price cap to be announced",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "saat": "03:29",
+   "tarih_iso": "2026-11-25T03:29:58+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/japans-nikkei-to-rise-next-year-but-fall-short-of-record-as-investors-reassess-ai-trade-reuters-poll-5049409",
+   "baslik": "Japan’s Nikkei to rise next year but fall short of record as investors reassess AI trade: Reuters poll",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/japans-nikkei-to-rise-next-year-but-fall-short-of-record-as-investors-reassess-ai-trade-reuters-poll-5049409",
+   "saat": "03:12",
+   "tarih_iso": "2026-11-25T03:12:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+   "baslik": "Dell’s stock rises as the AI boom helps sales more than double",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+   "saat": "02:34",
+   "tarih_iso": "2026-11-25T02:34:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+   "baslik": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+   "saat": "02:03",
+   "tarih_iso": "2026-11-25T02:03:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-workday-stock-tumbling-today-93CH-5049312",
+   "baslik": "Why is Workday stock tumbling today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-workday-stock-tumbling-today-93CH-5049312",
+   "saat": "01:58",
+   "tarih_iso": "2026-11-25T01:58:14+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-nutanix-stock-sliding-today-93CH-5049309",
+   "baslik": "Why is Nutanix stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-nutanix-stock-sliding-today-93CH-5049309",
+   "saat": "01:56",
+   "tarih_iso": "2026-11-25T01:56:40+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "baslik": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "saat": "01:24",
+   "tarih_iso": "2026-11-25T01:24:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+   "baslik": "Trump Account contributions from friends and family pass $1 billion mark, Treasury says",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/trump-accounts-family-contributions-billion.html",
+   "saat": "01:18",
+   "tarih_iso": "2026-11-25T01:18:47+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+   "baslik": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
+   "saat": "01:07",
+   "tarih_iso": "2026-11-25T01:07:45+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+   "baslik": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
+   "saat": "01:03",
+   "tarih_iso": "2026-11-25T01:03:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+   "baslik": "Micron’s stock falls as an analyst warns about a future supply glut",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+   "saat": "00:22",
+   "tarih_iso": "2026-11-25T00:22:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "yab-https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+   "baslik": "Will I get the £100 energy payment and when will I receive it?",
+   "kaynak": "BBC Business",
+   "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+   "saat": "23:16",
+   "tarih_iso": "2026-11-24T23:16:24+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
   {
    "id": "yab-https://www.investing.com/news/stock-market-news/possible-tesla-merger-could-aid-spacexs-sp-500-entry-jp-morgan-says-5048726",
    "baslik": "Possible Tesla merger could aid SpaceX’s S&P 500 entry, ⁠J.P. Morgan says",
@@ -257,6 +420,46 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/gold-near-3500-can-key-support-hold-as-coppers-downtrend-deepens-200692245",
+   "baslik": "Gold Near $3,500: Can Key Support Hold as Copper’s Downtrend Deepens?",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/gold-near-3500-can-key-support-hold-as-coppers-downtrend-deepens-200692245",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "alt-https://www.dunya.com/ekonomi/kuresel-ittifaklar-ve-dev-ortakliklarla-altin-donem-haberi-848757",
+   "baslik": "Küresel ittifaklar ve dev ortaklıklarla altın dönem",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/kuresel-ittifaklar-ve-dev-ortakliklarla-altin-donem-haberi-848757",
+   "saat": "00:00",
+   "tarih_iso": "2026-11-25T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/tudor-sees-2-3b-value-in-treaty-creek-mine/",
+   "baslik": "Tudor sees $2.3B value in Treaty Creek mine",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/tudor-sees-2-3b-value-in-treaty-creek-mine/",
+   "saat": "23:53",
+   "tarih_iso": "2026-11-24T23:53:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
+   "id": "alt-https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
+   "baslik": "Gold is doing something strange. Here's one way to play it",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/24/gold-is-doing-something-strange-heres-one-way-to-play-it-.html",
+   "saat": "22:25",
+   "tarih_iso": "2026-11-24T22:25:13+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-25T03:55:56.155182+03:00"
+  },
+  {
    "id": "alt-https://www.cnnturk.com/video/ekonomi/ev-almak-icin-dogru-zaman-mi-ekonomist-muhammet-bayramdan-kritik-uyari-3497534",
    "baslik": "Ev almak için doğru zaman mı? Ekonomist Muhammet Bayram'dan kritik uyarı",
    "kaynak": "CNN Türk Ekonomi",
@@ -407,5 +610,5 @@
    "eklenme": "2026-11-24T19:23:33.004492+03:00"
   }
  ],
- "guncelleme": "2026-11-24T19:55:42.564885+03:00"
+ "guncelleme": "2026-11-25T03:55:56.155182+03:00"
 }
