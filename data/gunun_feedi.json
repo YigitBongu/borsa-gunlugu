@@ -1,9 +1,155 @@
 {
  "tarih": "2026-11-25",
  "kap": [],
- "sirket": [],
- "makro": [],
+ "sirket": [
+  {
+   "id": "rss-https://www.dunya.com/spor/avrupada-fenerbahce-ruzgari-shakhtari-tek-golle-gecti-haberi-848897",
+   "baslik": "Avrupa'da Fenerbahçe rüzgarı: Shakhtar'ı tek golle geçti",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/avrupada-fenerbahce-ruzgari-shakhtari-tek-golle-gecti-haberi-848897",
+   "saat": "00:54",
+   "tarih_iso": "2026-11-26T00:54:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "rss-https://www.dunya.com/spor/fenerbahce-shakhtar-donetsk-deplasmaninda-ilk-11ler-belli-oldu-haberi-848891",
+   "baslik": "Fenerbahçe, Shakhtar Donetsk deplasmanında: İlk 11'ler belli oldu",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/spor/fenerbahce-shakhtar-donetsk-deplasmaninda-ilk-11ler-belli-oldu-haberi-848891",
+   "saat": "21:48",
+   "tarih_iso": "2026-11-25T21:48:00+03:00",
+   "kodlar": [
+    "FENER"
+   ],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  }
+ ],
+ "makro": [
+  {
+   "id": "rss-https://www.dunya.com/ekonomi/fed-bej-kitap-raporu-yayimlandi-ekonomide-buyume-surerken-tuketici-harcamalari-zayifladi-haberi-848895",
+   "baslik": "Fed Bej Kitap raporu yayımlandı: Ekonomide büyüme sürerken tüketici harcamaları zayıfladı",
+   "kaynak": "Dünya",
+   "link": "https://www.dunya.com/ekonomi/fed-bej-kitap-raporu-yayimlandi-ekonomide-buyume-surerken-tuketici-harcamalari-zayifladi-haberi-848895",
+   "saat": "00:00",
+   "tarih_iso": "2026-11-26T00:00:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "rss-https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-abdde-buyume-ve-fiyat-artisinin-surdugune-isaret-etti/4138073",
+   "baslik": "Fed'in Bej Kitabı ABD'de büyüme ve fiyat artışının sürdüğüne işaret etti",
+   "kaynak": "AA Ekonomi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fedin-bej-kitabi-abdde-buyume-ve-fiyat-artisinin-surdugune-isaret-etti/4138073",
+   "saat": "23:46",
+   "tarih_iso": "2026-11-25T23:46:08+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "rss-https://www.bloomberght.com/fed-bej-kitap-girdi-maliyetleri-satis-fiyatlarindan-daha-hizli-artti-3795696",
+   "baslik": "Fed Bej Kitap: Girdi maliyetleri satış fiyatlarından daha hızlı arttı",
+   "kaynak": "Bloomberg HT",
+   "link": "https://www.bloomberght.com/fed-bej-kitap-girdi-maliyetleri-satis-fiyatlarindan-daha-hizli-artti-3795696",
+   "saat": "22:44",
+   "tarih_iso": "2026-11-25T22:44:23+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  }
+ ],
  "yabanci": [
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
+   "baslik": "Inside India newsletter: Roaring economy, foreign investors’ return and now record auto sales",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/26/india-auto-slaes-economy-suzuki-hyundai-toyota.html",
+   "saat": "03:12",
+   "tarih_iso": "2026-11-26T03:12:16+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-whipsaw-session-on-wall-st-5051753",
+   "baslik": "U.S. stock futures steady after whipsaw session on Wall St",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-whipsaw-session-on-wall-st-5051753",
+   "saat": "02:43",
+   "tarih_iso": "2026-11-26T02:43:43+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/cathay-general-bancorp-stock-rises-on-200m-buyback-expansion-5051664",
+   "baslik": "Cathay General Bancorp stock rises on $200M buyback expansion",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/cathay-general-bancorp-stock-rises-on-200m-buyback-expansion-5051664",
+   "saat": "01:32",
+   "tarih_iso": "2026-11-26T01:32:01+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "yab-https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+   "baslik": "US Treasury financial crime watchdog hit by suspected cyber attack",
+   "kaynak": "FT",
+   "link": "https://www.ft.com/content/43aa7321-2a95-463c-8cb9-77fcc7e39291?syn-25a6b1a6=1",
+   "saat": "01:24",
+   "tarih_iso": "2026-11-26T01:24:37+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+   "baslik": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+   "saat": "01:16",
+   "tarih_iso": "2026-11-26T01:16:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "yab-https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-sliding-today-93CH-5051579",
+   "baslik": "Why is Vertex Pharmaceuticals stock sliding today?",
+   "kaynak": "Investing.com",
+   "link": "https://www.investing.com/news/stock-market-news/why-is-vertex-pharmaceuticals-stock-sliding-today-93CH-5051579",
+   "saat": "00:55",
+   "tarih_iso": "2026-11-26T00:55:39+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "yab-https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+   "baslik": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+   "kaynak": "MarketWatch",
+   "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+   "saat": "00:36",
+   "tarih_iso": "2026-11-26T00:36:00+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
+   "baslik": "We're buying more of a stock down big from its July highs",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
+   "saat": "22:55",
+   "tarih_iso": "2026-11-25T22:55:18+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "yab-https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+   "baslik": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+   "kaynak": "CNBC",
+   "link": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+   "saat": "22:11",
+   "tarih_iso": "2026-11-25T22:11:53+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
   {
    "id": "yab-https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
    "baslik": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
@@ -437,6 +583,26 @@
  ],
  "altin_haber": [
   {
+   "id": "alt-https://www.investing.com/analysis/golds-38-collapse-exposes-the-cost-of-higher-interest-rates-200692330",
+   "baslik": "Gold’s 38% Collapse Exposes the Cost of Higher Interest Rates",
+   "kaynak": "Investing Emtia",
+   "link": "https://www.investing.com/analysis/golds-38-collapse-exposes-the-cost-of-higher-interest-rates-200692330",
+   "saat": "",
+   "tarih_iso": "",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
+   "id": "alt-https://www.mining.com/gold-at-8000-could-signal-dollar-crisis-economist/",
+   "baslik": "Gold at $8,000 could signal dollar crisis: economist",
+   "kaynak": "Mining.com",
+   "link": "https://www.mining.com/gold-at-8000-could-signal-dollar-crisis-economist/",
+   "saat": "22:25",
+   "tarih_iso": "2026-11-25T22:25:57+03:00",
+   "kodlar": [],
+   "eklenme": "2026-11-26T03:32:50.464744+03:00"
+  },
+  {
    "id": "alt-https://www.investing.com/analysis/gold-prices-slide-sharply-as-fed-rate-hike-fears-trigger-a-technical-breakdown-200692318",
    "baslik": "Gold Prices Slide Sharply as Fed Rate Hike Fears Trigger a Technical Breakdown",
    "kaynak": "Investing Emtia",
@@ -617,5 +783,5 @@
    "eklenme": "2026-11-25T19:02:12.375119+03:00"
   }
  ],
- "guncelleme": "2026-11-25T19:41:53.213541+03:00"
+ "guncelleme": "2026-11-26T03:32:50.464744+03:00"
 }
